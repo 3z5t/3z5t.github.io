@@ -22,25 +22,6 @@ minify:
   disableXML: true
   minifyOutput: true
 
-menu:
-  main:
-    - name: Posts
-      url: /posts/
-      weight: 4
-    - name: Archive
-      url: /archives/
-      weight: 5
-    - name: Search
-      url: /search/
-      weight: 10
-    - name: Tags
-      url: /tags/
-      weight: 10
-    - name: About 
-      url: /about/
-      weight: 15
-
-
 params:
   assets:
     disableHLJS: true
@@ -111,17 +92,55 @@ markup:
     noClasses: false    
 
 defaultContentLanguage: kr
+defaultContentLanguageInSubdir: false
 languages:
   kr:
+    weight: 1
     languageName: 한국어
     languageCode: kr
-    weight: 1
+    contentDir: content/kr/
     title: 365일의 모든 것
+    menu:
+      main:
+        - name: 게시글
+          url: /posts/
+          weight: 4
+        - name: 아카이브
+          url: /archives/
+          weight: 5
+        - name: 검색
+          url: /search/
+          weight: 10
+        - name: 태그
+          url: /tags/
+          weight: 10
+        - name: 소개
+          url: /about/
+          weight: 15
   en:
+    weight: 2
     languageName: English
     languageCode: en
-    weight: 2
-    title: 365days of all
+    contentDir: content/en/
+    title: Everything of 365 Days
+    menu:
+      main:
+        - name: Posts
+          url: /posts/
+          weight: 4
+        - name: Archive
+          url: /archives/
+          weight: 5
+        - name: Search
+          url: /search/
+          weight: 10
+        - name: Tags
+          url: /tags/
+          weight: 10
+        - name: About
+          url: en/about/
+          weight: 15
+
 
 
     
