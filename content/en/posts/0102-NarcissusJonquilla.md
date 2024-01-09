@@ -8,6 +8,7 @@ tags:
   - Flower of the day
   - Language of flowers
   - January 2nd
+  - Flowers
 draft: false
 ---
 ![꽃 사진](https://cdn.pixabay.com/photo/2022/04/02/12/29/wild-daffodils-7106921_1280.jpg#center)

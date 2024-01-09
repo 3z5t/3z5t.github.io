@@ -8,6 +8,7 @@ tags:
   - Flower of the day
   - Language of flowers
   - January 5th
+  - Flowers
 draft: false
 ---
 ![꽃 사진](https://cdn.pixabay.com/photo/2018/04/18/08/59/flower-3329845_1280.jpg#center)
