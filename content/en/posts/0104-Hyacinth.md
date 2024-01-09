@@ -35,9 +35,15 @@ Throughout history, the Hyacinth has held a place of reverence. Revered in ancie
 
 ### A Poetic Ode to the Hyacinth
 
-In the garden's tapestry, a fragrant tale unfolds, The Hyacinth's hues, a story beautifully bold. Sincerity and constancy in petals so fair, Love's heartfelt emotions, beyond compare.
-
-Amidst spring's awakening, its beauty thrives, A fragrant symphony that forever survives. In each blossom's embrace, a heartfelt plea, For genuine love and constancy to decree.
+	In the garden's tapestry, a fragrant tale unfolds,
+	The Hyacinth's hues, a story beautifully bold.
+	Sincerity and constancy in petals so fair,
+	Love's heartfelt emotions, beyond compare.
+	
+	Amidst spring's awakening, its beauty thrives,
+	A fragrant symphony that forever survives.
+	In each blossom's embrace, a heartfelt plea,
+	For genuine love and constancy to decree.
 
 ### Closing Thoughts
 

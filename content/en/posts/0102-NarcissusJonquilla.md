@@ -33,9 +33,16 @@ Throughout history, the Jonquil's beauty has enamored poets, artists, and garden
 
 ### A Poetic Ode to the Jonquil
 
-Amidst the budding dawn's embrace, The Jonquil blooms with gentle grace. Its petals, a canvas of golden hue, Whisper tales of love, both old and new.
+	Amidst the budding dawn's embrace,
+	The Jonquil blooms with gentle grace.
+	Its petals, a canvas of golden hue,
+	Whisper tales of love, both old and new.
+	
+	In spring's awakening, it proudly stands,
+	Symbolizing love in distant lands.
+	A beacon of hope, joy's sweet song,
+	In its vibrant colors, beauty belongs.
 
-In spring's awakening, it proudly stands, Symbolizing love in distant lands. A beacon of hope, joy's sweet song, In its vibrant colors, beauty belongs.
 
 ### Closing Thoughts
 

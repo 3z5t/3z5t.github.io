@@ -34,9 +34,16 @@ Throughout history, Hepatica has intrigued botanists and nature enthusiasts. Rev
 
 ### A Poetic Tribute to Hepatica
 
-Amidst the woodland's tranquil embrace, Hepatica blooms with delicate grace. In hues of blue and gentle white, Nature's resilience, a wondrous sight.
+	Amidst the woodland's tranquil embrace,
+	Hepatica blooms with delicate grace.
+	In hues of blue and gentle white,
+	Nature's resilience, a wondrous sight.
+	
+	A symbol of healing and protection true,
+	A promise of spring, breaking through.
+	Petals dancing in the early light,
+	A testament to nature's might.
 
-A symbol of healing and protection true, A promise of spring, breaking through. Petals dancing in the early light, A testament to nature's might.
 
 ### Closing Thoughts
 

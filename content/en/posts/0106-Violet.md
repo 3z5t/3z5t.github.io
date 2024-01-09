@@ -35,9 +35,16 @@ Throughout history, Violets have held a special place in gardens, art, and liter
 
 ### A Poetic Ode to Violets
 
-In gardens adorned with grace and hue, Violets bloom, a dream come true. Petals delicate, colors bright, A symphony of beauty in gentle light.
+	In gardens adorned with grace and hue,
+	Violets bloom, a dream come true.
+	Petals delicate, colors bright,
+	A symphony of beauty in gentle light.
+	
+	Modest blooms in shades so fair,
+	Whispers of love in the scented air.
+	Symbolizing faithfulness, a timeless art,
+	Violets' beauty enchants the heart.
 
-Modest blooms in shades so fair, Whispers of love in the scented air. Symbolizing faithfulness, a timeless art, Violets' beauty enchants the heart.
 
 ### Closing Thoughts
 

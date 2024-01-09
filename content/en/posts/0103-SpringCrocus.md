@@ -35,9 +35,15 @@ Throughout history, the Spring Crocus has captivated gardeners and artists with 
 
 ### A Poetic Tribute to Spring Crocus
 
-In the gentle breeze of early spring's embrace, The Crocus blooms, a vision of grace. Petals unfurl in hues of delight, A symphony of colors, a breathtaking sight.
-
-Amidst the thawing earth, a promise profound, Of renewal and joy, the Crocus is found. A whisper of youth in nature's refrain, A herald of spring, breaking winter's chain.
+	In the gentle breeze of early spring's embrace,
+	The Crocus blooms, a vision of grace.
+	Petals unfurl in hues of delight,
+	A symphony of colors, a breathtaking sight.
+	
+	Amidst the thawing earth, a promise profound,
+	Of renewal and joy, the Crocus is found.
+	A whisper of youth in nature's refrain,
+	A herald of spring, breaking winter's chain.
 
 ### Closing Thoughts
 
