@@ -8,6 +8,7 @@ tags:
   - Flower of the day
   - Language of flowers
   - December 22nd
+  - Flowers
 draft: true
 ---
 

@@ -8,6 +8,7 @@ tags:
   - Flower of the day
   - Language of flowers
   - May 15th
+  - Flowers
 draft: true
 ---
 

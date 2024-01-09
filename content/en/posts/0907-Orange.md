@@ -8,6 +8,7 @@ tags:
   - Flower of the day
   - Language of flowers
   - September 7th
+  - Flowers
 draft: true
 ---
 

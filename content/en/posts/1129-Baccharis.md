@@ -8,6 +8,7 @@ tags:
   - Flower of the day
   - Language of flowers
   - November 29th
+  - Flowers
 draft: true
 ---
 

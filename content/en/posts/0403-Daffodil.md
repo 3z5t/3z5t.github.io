@@ -8,6 +8,7 @@ tags:
   - Flower of the day
   - Language of flowers
   - April 3rd
+  - Flowers
 draft: true
 ---
 

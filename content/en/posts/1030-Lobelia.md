@@ -8,6 +8,7 @@ tags:
   - Flower of the day
   - Language of flowers
   - October 30th
+  - Flowers
 draft: true
 ---
 

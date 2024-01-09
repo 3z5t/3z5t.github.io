@@ -8,6 +8,7 @@ tags:
   - Flower of the day
   - Language of flowers
   - September 2nd
+  - Flowers
 draft: true
 ---
 

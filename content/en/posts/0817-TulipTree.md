@@ -8,6 +8,7 @@ tags:
   - Flower of the day
   - Language of flowers
   - August 17th
+  - Flowers
 draft: true
 ---
 

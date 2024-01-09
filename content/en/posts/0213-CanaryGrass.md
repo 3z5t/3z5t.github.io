@@ -8,6 +8,7 @@ tags:
   - Flower of the day
   - Language of flowers
   - February 13th
+  - Flowers
 draft: true
 ---
 

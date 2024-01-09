@@ -8,6 +8,7 @@ tags:
   - Flower of the day
   - Language of flowers
   - January 28th
+  - Flowers
 draft: true
 ---
 
