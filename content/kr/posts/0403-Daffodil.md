@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 나팔수선화
 author: 365days
 tags:
   - 나팔수선화
-  - Daffodil
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 4월 3일
+  - 꽃
 draft: true
 ---
 

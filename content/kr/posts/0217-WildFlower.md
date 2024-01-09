@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 야생화
 author: 365days
 tags:
   - 야생화
-  - Wild Flower
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 2월 17일
+  - 꽃
 draft: true
 ---
 

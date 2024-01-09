@@ -7,6 +7,7 @@ tags:
   - Fringed Pink
   - Flower of the day
   - Language of flowers
+  - July 28th
 draft: true
 ---
 

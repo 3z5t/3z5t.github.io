@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 참제비고깔
 author: 365days
 tags:
   - 참제비고깔
-  - Larkspur
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 4월 19일
+  - 꽃
 draft: true
 ---
 

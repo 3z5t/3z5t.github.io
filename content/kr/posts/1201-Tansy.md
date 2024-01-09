@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 쑥국화
 author: 365days
 tags:
   - 쑥국화
-  - Tansy
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 12월 1일
+  - 꽃
 draft: true
 ---
 

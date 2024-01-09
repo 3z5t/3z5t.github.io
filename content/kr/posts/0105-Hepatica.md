@@ -5,11 +5,10 @@ description: 1월 5일의 탄생화 노루귀(Hepatica), 꽃말과 이야기로 
 author: 365days
 tags:
   - 노루귀
-  - Hepatica
-  - Flower of the day
-  - Language of flowers
+  - 1월 5일
   - 꽃말
   - 탄생화
+  - 꽃
 ---
 ![꽃 사진](https://cdn.pixabay.com/photo/2018/04/18/08/59/flower-3329845_1280.jpg#center)
 

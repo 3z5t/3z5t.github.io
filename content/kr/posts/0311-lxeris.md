@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 씀바귀
 author: 365days
 tags:
   - 씀바귀
-  - lxeris
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 3월 11일
+  - 꽃
 draft: true
 ---
 

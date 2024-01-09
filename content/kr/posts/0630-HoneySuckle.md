@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 인동
 author: 365days
 tags:
   - 인동
-  - Honey Suckle
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 6월 30일
+  - 꽃
 draft: true
 ---
 

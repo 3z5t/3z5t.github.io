@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 낙엽송
 author: 365days
 tags:
   - 낙엽송
-  - Larch
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 3월 9일
+  - 꽃
 draft: true
 ---
 

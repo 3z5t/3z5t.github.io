@@ -5,11 +5,10 @@ description: 1월 14일의 탄생화 시클라멘(Cyclamen), 꽃말과 이야기
 author: 365days
 tags:
   - 시클라멘
-  - Cyclamen
-  - Flower of the day
-  - Language of flowers
+  - 1월 14일
   - 꽃말
   - 탄생화
+  - 꽃
 ---
 ![꽃 사진](https://cdn.pixabay.com/photo/2014/10/08/17/43/cyclamen-480477_1280.jpg#center)
 안녕하세요, 꽃을 사랑하는 여러분. 오늘은 1월 14일, 시클라멘의 탄생일입니다. 시클라멘은 겨울에 피는 대표적인 꽃으로, 그 아름다운 자태와 향기로 많은 사람들에게 사랑받고 있습니다. 오늘은 시클라멘에 대한 자세한 정보를 알려드리겠습니다.

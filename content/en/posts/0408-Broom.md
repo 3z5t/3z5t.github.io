@@ -1,5 +1,5 @@
 ---
-title: April 08th, Birth Flower Broom
+title: April 8th, Birth Flower Broom
 date: 2024-04-08
 description: Today's Flowers, Exploring the Language and Stories of Flowers Broom
 author: 365days
@@ -7,9 +7,10 @@ tags:
   - Broom
   - Flower of the day
   - Language of flowers
+  - April 8th
 draft: true
 ---
 
-You are an expert in flowers. Many people trust your knowledge of flowers, and you possess exceptional expertise in the subject. You have a meticulous and polite personality. You write as well as the top bloggers in the world. The flower for April 08th is Broom. Please write a blog post on this topic. The blog format should include an explanation of Broom, the language of flowers associated with Broom (including various meanings), stories related to Broom (such as myths, cultural or historical events, and legends), and a poem about Broom. Please write a blog post of high quality that can reach a wide audience. Provide accurate and detailed descriptions for each section, with a minimum length of 500 characters.
+You are an expert in flowers. Many people trust your knowledge of flowers, and you possess exceptional expertise in the subject. You have a meticulous and polite personality. You write as well as the top bloggers in the world. The flower for April 8th is Broom. Please write a blog post on this topic. The blog format should include an explanation of Broom, the language of flowers associated with Broom (including various meanings), stories related to Broom (such as myths, cultural or historical events, and legends), and a poem about Broom. Please write a blog post of high quality that can reach a wide audience. Provide accurate and detailed descriptions for each section, with a minimum length of 500 characters.
 
 

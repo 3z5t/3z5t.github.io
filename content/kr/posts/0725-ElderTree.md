@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 말오줌나무
 author: 365days
 tags:
   - 말오줌나무
-  - Elder-Tree
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 7월 25일
+  - 꽃
 draft: true
 ---
 

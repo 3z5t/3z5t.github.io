@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 귀고리꽃
 author: 365days
 tags:
   - 귀고리꽃
-  - Ear Drops
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 5월 22일
+  - 꽃
 draft: true
 ---
 

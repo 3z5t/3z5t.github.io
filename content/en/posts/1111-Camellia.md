@@ -7,6 +7,7 @@ tags:
   - White Camellia
   - Flower of the day
   - Language of flowers
+  - November 11th
 draft: true
 ---
 

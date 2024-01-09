@@ -5,11 +5,10 @@ description: 1월 11일의 탄생화 측백나무(Arbor-Vitae), 꽃말과 이야
 author: 365days
 tags:
   - 측백나무
-  - Arbor-Vitae
-  - Flower of the day
-  - Language of flowers
+  - 1월 11일
   - 꽃말
   - 탄생화
+  - 꽃
 ---
 ![꽃 사진](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_1280.jpg#center)
 

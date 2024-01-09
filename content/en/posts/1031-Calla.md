@@ -1,5 +1,5 @@
 ---
-title: October 31th, Birth Flower Calla
+title: October 31st, Birth Flower Calla
 date: 2024-10-31
 description: Today's Flowers, Exploring the Language and Stories of Flowers Calla
 author: 365days
@@ -7,9 +7,10 @@ tags:
   - Calla
   - Flower of the day
   - Language of flowers
+  - October 31st
 draft: true
 ---
 
-You are an expert in flowers. Many people trust your knowledge of flowers, and you possess exceptional expertise in the subject. You have a meticulous and polite personality. You write as well as the top bloggers in the world. The flower for October 31th is Calla. Please write a blog post on this topic. The blog format should include an explanation of Calla, the language of flowers associated with Calla (including various meanings), stories related to Calla (such as myths, cultural or historical events, and legends), and a poem about Calla. Please write a blog post of high quality that can reach a wide audience. Provide accurate and detailed descriptions for each section, with a minimum length of 500 characters.
+You are an expert in flowers. Many people trust your knowledge of flowers, and you possess exceptional expertise in the subject. You have a meticulous and polite personality. You write as well as the top bloggers in the world. The flower for October 31st is Calla. Please write a blog post on this topic. The blog format should include an explanation of Calla, the language of flowers associated with Calla (including various meanings), stories related to Calla (such as myths, cultural or historical events, and legends), and a poem about Calla. Please write a blog post of high quality that can reach a wide audience. Provide accurate and detailed descriptions for each section, with a minimum length of 500 characters.
 
 

@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 금영화
 author: 365days
 tags:
   - 금영화
-  - Califonia Poppy
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 3월 24일
+  - 꽃
 draft: true
 ---
 

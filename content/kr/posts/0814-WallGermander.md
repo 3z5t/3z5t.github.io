@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 저먼더
 author: 365days
 tags:
   - 저먼더
-  - Wall Germander
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 8월 14일
+  - 꽃
 draft: true
 ---
 

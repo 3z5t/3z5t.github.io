@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 황새냉이
 author: 365days
 tags:
   - 황새냉이
-  - Cardamine
-  - Flower of the day
-  - Language of flowers
+  - 2월 3일
   - 꽃말
   - 탄생화
+  - 꽃
 draft: false
 ---
 

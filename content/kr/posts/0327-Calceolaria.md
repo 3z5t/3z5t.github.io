@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 칼세올라리아
 author: 365days
 tags:
   - 칼세올라리아
-  - Calceolaria
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 3월 27일
+  - 꽃
 draft: true
 ---
 

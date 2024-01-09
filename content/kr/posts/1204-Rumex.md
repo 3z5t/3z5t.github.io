@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 수영
 author: 365days
 tags:
   - 수영
-  - Rumex
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 12월 4일
+  - 꽃
 draft: true
 ---
 

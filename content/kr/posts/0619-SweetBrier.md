@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 장미
 author: 365days
 tags:
   - 장미
-  - Sweet Brier
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 6월 19일
+  - 꽃
 draft: true
 ---
 

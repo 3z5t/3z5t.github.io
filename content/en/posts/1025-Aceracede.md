@@ -7,6 +7,7 @@ tags:
   - Red Emperor Maple
   - Flower of the day
   - Language of flowers
+  - October 25th
 draft: true
 ---
 

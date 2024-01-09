@@ -5,11 +5,10 @@ description: 1월 6일의 탄생화 흰제비꽃(Violet), 꽃말과 이야기로
 author: 365days
 tags:
   - 흰제비꽃
-  - Violet
-  - Flower of the day
-  - Language of flowers
+  - 1월 6일
   - 꽃말
   - 탄생화
+  - 꽃
 ---
 ![꽃 사진](https://cdn.pixabay.com/photo/2019/04/04/03/27/flowers-4101916_1280.jpg#center)
 

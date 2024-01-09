@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 공작고사리
 author: 365days
 tags:
   - 공작고사리
-  - Adiantum
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 4월 7일
+  - 꽃
 draft: true
 ---
 

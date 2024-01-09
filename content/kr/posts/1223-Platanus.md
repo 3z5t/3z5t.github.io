@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 플라타너스
 author: 365days
 tags:
   - 플라타너스
-  - Platanus
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 12월 23일
+  - 꽃
 draft: true
 ---
 

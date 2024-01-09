@@ -1,5 +1,5 @@
 ---
-title: October 23th, Birth Flower Thom Apple
+title: October 23rd, Birth Flower Thom Apple
 date: 2024-10-23
 description: Today's Flowers, Exploring the Language and Stories of Flowers Thom Apple
 author: 365days
@@ -7,9 +7,10 @@ tags:
   - Thom Apple
   - Flower of the day
   - Language of flowers
+  - October 23rd
 draft: true
 ---
 
-You are an expert in flowers. Many people trust your knowledge of flowers, and you possess exceptional expertise in the subject. You have a meticulous and polite personality. You write as well as the top bloggers in the world. The flower for October 23th is Thom Apple. Please write a blog post on this topic. The blog format should include an explanation of Thom Apple, the language of flowers associated with Thom Apple (including various meanings), stories related to Thom Apple (such as myths, cultural or historical events, and legends), and a poem about Thom Apple. Please write a blog post of high quality that can reach a wide audience. Provide accurate and detailed descriptions for each section, with a minimum length of 500 characters.
+You are an expert in flowers. Many people trust your knowledge of flowers, and you possess exceptional expertise in the subject. You have a meticulous and polite personality. You write as well as the top bloggers in the world. The flower for October 23rd is Thom Apple. Please write a blog post on this topic. The blog format should include an explanation of Thom Apple, the language of flowers associated with Thom Apple (including various meanings), stories related to Thom Apple (such as myths, cultural or historical events, and legends), and a poem about Thom Apple. Please write a blog post of high quality that can reach a wide audience. Provide accurate and detailed descriptions for each section, with a minimum length of 500 characters.
 
 

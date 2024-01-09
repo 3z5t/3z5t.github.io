@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 해당화
 author: 365days
 tags:
   - 해당화
-  - Crab Apple
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 10월 29일
+  - 꽃
 draft: true
 ---
 

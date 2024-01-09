@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 디기탈리스
 author: 365days
 tags:
   - 디기탈리스
-  - Fox Glove
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 6월 13일
+  - 꽃
 draft: true
 ---
 

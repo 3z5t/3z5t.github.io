@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 빨간앵초
 author: 365days
 tags:
   - 빨간앵초
-  - Primrose
-  - Flower of the day
-  - Language of flowers
+  - 2월 4일
   - 꽃말
   - 탄생화
+  - 꽃
 draft: false
 ---
 

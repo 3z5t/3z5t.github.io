@@ -5,11 +5,10 @@ description: 1월 2일의 탄생화 노랑수선화(Narcissus Jonquilla), 꽃말
 author: 365days
 tags:
   - 노랑수선화
-  - Narcissus Jonquilla
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 1월 2일
+  - 꽃
 ---
 ![꽃 사진](https://cdn.pixabay.com/photo/2022/04/02/12/29/wild-daffodils-7106921_1280.jpg#center)
 

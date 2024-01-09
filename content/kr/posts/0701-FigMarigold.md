@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 단양쑥부쟁이
 author: 365days
 tags:
   - 단양쑥부쟁이
-  - Fig Marigold
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 7월 1일
+  - 꽃
 draft: true
 ---
 

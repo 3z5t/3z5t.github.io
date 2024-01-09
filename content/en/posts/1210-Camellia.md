@@ -7,6 +7,7 @@ tags:
   - Red Camellia
   - Flower of the day
   - Language of flowers
+  - December 10th
 draft: true
 ---
 

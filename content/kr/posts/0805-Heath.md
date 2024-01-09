@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 엘리카
 author: 365days
 tags:
   - 엘리카
-  - Heath
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 8월 5일
+  - 꽃
 draft: true
 ---
 

@@ -7,6 +7,7 @@ tags:
   - Christmas Rose
   - Flower of the day
   - Language of flowers
+  - December 26th
 draft: true
 ---
 

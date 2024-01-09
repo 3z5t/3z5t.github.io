@@ -5,11 +5,10 @@ description: 1월 3일의 탄생화 사프란(Spring Crocus), 꽃말과 이야�
 author: 365days
 tags:
   - 사프란
-  - Spring Crocus
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 1월 3일
+  - 꽃
 ---
 
 ![꽃 사진](https://cdn.pixabay.com/photo/2014/02/10/08/17/flowers-263278_1280.jpg#center)

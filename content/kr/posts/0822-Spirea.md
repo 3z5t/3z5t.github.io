@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 스피리아
 author: 365days
 tags:
   - 스피리아
-  - Spirea
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 8월 22일
+  - 꽃
 draft: true
 ---
 

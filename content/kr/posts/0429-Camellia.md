@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 동백나무
 author: 365days
 tags:
   - 동백나무
-  - Camellia
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 4월 29일
+  - 꽃
 draft: true
 ---
 

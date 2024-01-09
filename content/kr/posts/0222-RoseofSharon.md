@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 무궁화
 author: 365days
 tags:
   - 무궁화
-  - Rose of Sharon
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 2월 22일
+  - 꽃
 draft: true
 ---
 

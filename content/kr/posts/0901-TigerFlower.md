@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 호랑이꽃
 author: 365days
 tags:
   - 호랑이꽃
-  - Tiger Flower
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 9월 1일
+  - 꽃
 draft: true
 ---
 

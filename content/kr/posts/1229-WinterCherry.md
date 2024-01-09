@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 꽈리
 author: 365days
 tags:
   - 꽈리
-  - Winter Cherry
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 12월 29일
+  - 꽃
 draft: true
 ---
 

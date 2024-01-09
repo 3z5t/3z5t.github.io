@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 삼색제비꽃
 author: 365days
 tags:
   - 삼색제비꽃
-  - Pansy
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 5월 25일
+  - 꽃
 draft: true
 ---
 

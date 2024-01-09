@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 튜베 로즈
 author: 365days
 tags:
   - 튜베 로즈
-  - Tube Rose
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 6월 16일
+  - 꽃
 draft: true
 ---
 

@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 타마린드
 author: 365days
 tags:
   - 타마린드
-  - Tamarindus
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 8월 16일
+  - 꽃
 draft: true
 ---
 

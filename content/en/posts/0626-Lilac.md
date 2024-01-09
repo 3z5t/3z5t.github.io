@@ -7,6 +7,7 @@ tags:
   - White Lilac
   - Flower of the day
   - Language of flowers
+  - June 26th
 draft: true
 ---
 

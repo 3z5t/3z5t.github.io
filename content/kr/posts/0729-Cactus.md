@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 선인장
 author: 365days
 tags:
   - 선인장
-  - Cactus
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 7월 29일
+  - 꽃
 draft: true
 ---
 

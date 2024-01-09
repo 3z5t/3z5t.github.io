@@ -5,11 +5,10 @@ description: 1월 31일의 탄생화 노란 사프란(Spring-Crocus), 꽃말과 
 author: 365days
 tags:
   - 노란 사프란
-  - Spring-Crocus
-  - Flower of the day
-  - Language of flowers
+  - 1월 31일
   - 꽃말
   - 탄생화
+  - 꽃
 ---
 ![꽃 사진](https://cdn.pixabay.com/photo/2020/03/30/15/21/crocus-4984558_1280.jpg#center)
 노란 사프란은 그 화려한 색과 은은한 향기로 많은 사람들에게 사랑받고 있습니다. 오늘은 노란 사프란에 대한 자세한 정보를 알려드리겠습니다.

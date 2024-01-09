@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 멕시칸 아이비
 author: 365days
 tags:
   - 멕시칸 아이비
-  - Cobaea
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 9월 2일
+  - 꽃
 draft: true
 ---
 

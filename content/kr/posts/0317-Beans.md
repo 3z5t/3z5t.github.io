@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 콩꽃
 author: 365days
 tags:
   - 콩꽃
-  - Beans
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 3월 17일
+  - 꽃
 draft: true
 ---
 

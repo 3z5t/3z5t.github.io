@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 퀘이킹 그라스
 author: 365days
 tags:
   - 퀘이킹 그라스
-  - Quaking Grass
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 9월 22일
+  - 꽃
 draft: true
 ---
 

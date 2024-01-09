@@ -5,11 +5,10 @@ description: 1월 10일의 탄생화 회양목(Box-Tree), 꽃말과 이야기로
 author: 365days
 tags:
   - 회양목
-  - Box-Tree
-  - Flower of the day
-  - Language of flowers
+  - 1월 10일
   - 꽃말
   - 탄생화
+  - 꽃
 ---
 ![꽃 사진](https://cdn.pixabay.com/photo/2017/10/26/18/49/boxwood-2892034_1280.jpg#center)
 

@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 중국패모
 author: 365days
 tags:
   - 중국패모
-  - Fritillaria Thunbergii
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 6월 11일
+  - 꽃
 draft: true
 ---
 

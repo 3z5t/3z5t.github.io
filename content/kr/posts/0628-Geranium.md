@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 제라늄
 author: 365days
 tags:
   - 제라늄
-  - Geranium
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 6월 28일
+  - 꽃
 draft: true
 ---
 

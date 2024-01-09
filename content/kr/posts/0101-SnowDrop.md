@@ -5,11 +5,10 @@ description: 1월 1일의 탄생화 스노드롭(Snow Drop), 꽃말과 이야기
 author: 365days
 tags:
   - 스노드롭
-  - Snow Drop
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 1월 1일
+  - 꽃
 ---
 
 ![snowdrop 사진](https://cdn.pixabay.com/photo/2020/02/24/10/51/flower-4875870_1280.jpg#center)

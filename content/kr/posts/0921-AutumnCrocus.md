@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 사프란
 author: 365days
 tags:
   - 사프란
-  - Autumn Crocus
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 9월 21일
+  - 꽃
 draft: true
 ---
 

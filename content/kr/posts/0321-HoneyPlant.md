@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 벚꽃난
 author: 365days
 tags:
   - 벚꽃난
-  - Honey-Plant
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 3월 21일
+  - 꽃
 draft: true
 ---
 

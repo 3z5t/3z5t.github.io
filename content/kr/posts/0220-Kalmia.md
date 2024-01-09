@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 칼미아
 author: 365days
 tags:
   - 칼미아
-  - Kalmia
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 2월 20일
+  - 꽃
 draft: true
 ---
 

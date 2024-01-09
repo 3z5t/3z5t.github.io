@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 무화과
 author: 365days
 tags:
   - 무화과
-  - Fig-Tree
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 4월 5일
+  - 꽃
 draft: true
 ---
 

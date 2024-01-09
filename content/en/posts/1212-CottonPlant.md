@@ -7,6 +7,7 @@ tags:
   - Cotton
   - Flower of the day
   - Language of flowers
+  - December 12th
 draft: true
 ---
 

@@ -5,11 +5,10 @@ description: 1월 4일의 탄생화 히아신스(Hyacinth), 꽃말과 이야기�
 author: 365days
 tags:
   - 히아신스
-  - Hyacinth
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 1월 4일
+  - 꽃
 ---
 
 ![꽃 사진](https://cdn.pixabay.com/photo/2016/03/24/22/09/hyacinthus-orientalis-1277753_1280.jpg#center)

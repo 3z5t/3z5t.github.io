@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 시스투스
 author: 365days
 tags:
   - 시스투스
-  - Cistus
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 8월 9일
+  - 꽃
 draft: true
 ---
 

@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 스위트피
 author: 365days
 tags:
   - 스위트피
-  - Sweet Pea
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 6월 9일
+  - 꽃
 draft: true
 ---
 

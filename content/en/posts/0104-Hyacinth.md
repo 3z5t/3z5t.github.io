@@ -1,5 +1,5 @@
 ---
-title: January 04th, Birth Flower Hyacinth
+title: January 4th, Birth Flower Hyacinth
 date: 2024-01-04
 description: Today's Flowers, Exploring the Language and Stories of Flowers Hyacinth
 author: 365days
@@ -7,6 +7,7 @@ tags:
   - Hyacinth
   - Flower of the day
   - Language of flowers
+  - January 4th
 draft: false
 ---
 

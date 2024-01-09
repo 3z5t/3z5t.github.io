@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 오리나무
 author: 365days
 tags:
   - 오리나무
-  - Alder
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 12월 16일
+  - 꽃
 draft: true
 ---
 

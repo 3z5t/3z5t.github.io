@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 아리스타타
 author: 365days
 tags:
   - 아리스타타
-  - Aristata
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 5월 19일
+  - 꽃
 draft: true
 ---
 

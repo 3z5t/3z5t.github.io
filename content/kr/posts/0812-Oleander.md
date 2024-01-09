@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 협죽도
 author: 365days
 tags:
   - 협죽도
-  - Oleander
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 8월 12일
+  - 꽃
 draft: true
 ---
 

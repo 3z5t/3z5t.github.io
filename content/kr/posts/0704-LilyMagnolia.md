@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 자목련
 author: 365days
 tags:
   - 자목련
-  - Lily Magnolia
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 7월 4일
+  - 꽃
 draft: true
 ---
 

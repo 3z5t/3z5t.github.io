@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 바카리스
 author: 365days
 tags:
   - 바카리스
-  - Baccharis
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 11월 29일
+  - 꽃
 draft: true
 ---
 

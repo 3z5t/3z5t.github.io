@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 엉겅퀴
 author: 365days
 tags:
   - 엉겅퀴
-  - Thistle
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 9월 18일
+  - 꽃
 draft: true
 ---
 

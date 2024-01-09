@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 몰약의 꽃
 author: 365days
 tags:
   - 몰약의 꽃
-  - Myrrh
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 11월 9일
+  - 꽃
 draft: true
 ---
 

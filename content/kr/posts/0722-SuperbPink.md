@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 패랭이꽃
 author: 365days
 tags:
   - 패랭이꽃
-  - Superb Pink
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 7월 22일
+  - 꽃
 draft: true
 ---
 

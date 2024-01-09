@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 논냉이
 author: 365days
 tags:
   - 논냉이
-  - Cardamine Iyrata
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 4월 26일
+  - 꽃
 draft: true
 ---
 

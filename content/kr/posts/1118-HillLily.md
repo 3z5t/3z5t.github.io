@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 산나리
 author: 365days
 tags:
   - 산나리
-  - Hill Lily
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 11월 18일
+  - 꽃
 draft: true
 ---
 

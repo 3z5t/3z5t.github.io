@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 꽃고비
 author: 365days
 tags:
   - 꽃고비
-  - Blemonium Coeruleum
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 4월 11일
+  - 꽃
 draft: true
 ---
 

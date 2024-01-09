@@ -1,5 +1,5 @@
 ---
-title: January 06th, Birth Flower Violet
+title: January 6th, Birth Flower Violet
 date: 2024-01-06
 description: Today's Flowers, Exploring the Language and Stories of Flowers Violet
 author: 365days
@@ -7,6 +7,7 @@ tags:
   - Violet
   - Flower of the day
   - Language of flowers
+  - January 6th
 draft: false
 ---
 

@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 아도니스
 author: 365days
 tags:
   - 아도니스
-  - Adonis
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 4월 6일
+  - 꽃
 draft: true
 ---
 

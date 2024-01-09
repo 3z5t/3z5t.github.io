@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 서양종 보리수
 author: 365days
 tags:
   - 서양종 보리수
-  - Line Tree, Linden
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 7월 30일
+  - 꽃
 draft: true
 ---
 

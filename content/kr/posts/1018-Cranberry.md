@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 넌출월귤
 author: 365days
 tags:
   - 넌출월귤
-  - Cranberry
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 10월 18일
+  - 꽃
 draft: true
 ---
 

@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 보라색 튤립
 author: 365days
 tags:
   - 보라색 튤립
-  - Tulipa
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 3월 20일
+  - 꽃
 draft: true
 ---
 

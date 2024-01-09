@@ -5,11 +5,10 @@ description: 1월 24일의 탄생화 가을에 피는 사프란(Saffron-Crocus),
 author: 365days
 tags:
   - 가을에 피는 사프란
-  - Saffron-Crocus
-  - Flower of the day
-  - Language of flowers
+  - 1월 24일
   - 꽃말
   - 탄생화
+  - 꽃
 ---
 ![꽃 사진](https://cdn.pixabay.com/photo/2019/02/28/16/54/krokus-4026324_1280.jpg#center)
 

@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 괭이밥
 author: 365days
 tags:
   - 괭이밥
-  - Wood Sorrel
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 5월 20일
+  - 꽃
 draft: true
 ---
 

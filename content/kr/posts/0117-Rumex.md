@@ -5,11 +5,10 @@ description: 1월 17일의 탄생화 소리쟁이(Rumex), 꽃말과 이야기로
 author: 365days
 tags:
   - 소리쟁이
-  - Rumex
-  - Flower of the day
-  - Language of flowers
+  - 1월 17일
   - 꽃말
   - 탄생화
+  - 꽃
 ---
 ![꽃 사진](https://images.pexels.com/photos/18131379/pexels-photo-18131379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1#center)
 안녕하세요, 꽃 애호가 여러분. 오늘은 1월 17일의 꽃, 소리쟁이에 대해 이야기해 보려 합니다. 섬세하고 아름다운 모습으로 사람들의 마음을 사로잡는 소리쟁이, 그 속에 담긴 의미와 이야기를 함께 알아봅시다.

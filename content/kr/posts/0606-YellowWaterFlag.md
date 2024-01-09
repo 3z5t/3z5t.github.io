@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 노랑 붓꽃
 author: 365days
 tags:
   - 노랑 붓꽃
-  - Yellow Water Flag
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 6월 6일
+  - 꽃
 draft: true
 ---
 

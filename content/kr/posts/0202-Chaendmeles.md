@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 모과
 author: 365days
 tags:
   - 모과
-  - Chaendmeles
-  - Flower of the day
-  - Language of flowers
+  - 2월 2일
   - 꽃말
   - 탄생화
+  - 꽃
 draft: false
 ---
 모과는 겨울에 아름다운 꽃과 과일을 맺는 상당히 흥미로운 식물입니다.

@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 개옻나무
 author: 365days
 tags:
   - 개옻나무
-  - Rhus Continus
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 11월 25일
+  - 꽃
 draft: true
 ---
 

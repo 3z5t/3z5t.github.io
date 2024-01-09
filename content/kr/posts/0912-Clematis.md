@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 클레마티스
 author: 365days
 tags:
   - 클레마티스
-  - Clematis
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 9월 12일
+  - 꽃
 draft: true
 ---
 

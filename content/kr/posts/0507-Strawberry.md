@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 딸기
 author: 365days
 tags:
   - 딸기
-  - Strawberry
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 5월 7일
+  - 꽃
 draft: true
 ---
 

@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 흰독말풀
 author: 365days
 tags:
   - 흰독말풀
-  - Thom Apple
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 10월 23일
+  - 꽃
 draft: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: March 22th, Birth Flower Mallow
+title: March 22nd, Birth Flower Mallow
 date: 2024-03-22
 description: Today's Flowers, Exploring the Language and Stories of Flowers Mallow
 author: 365days
@@ -7,9 +7,10 @@ tags:
   - Mallow
   - Flower of the day
   - Language of flowers
+  - March 22nd
 draft: true
 ---
 
-You are an expert in flowers. Many people trust your knowledge of flowers, and you possess exceptional expertise in the subject. You have a meticulous and polite personality. You write as well as the top bloggers in the world. The flower for March 22th is Mallow. Please write a blog post on this topic. The blog format should include an explanation of Mallow, the language of flowers associated with Mallow (including various meanings), stories related to Mallow (such as myths, cultural or historical events, and legends), and a poem about Mallow. Please write a blog post of high quality that can reach a wide audience. Provide accurate and detailed descriptions for each section, with a minimum length of 500 characters.
+You are an expert in flowers. Many people trust your knowledge of flowers, and you possess exceptional expertise in the subject. You have a meticulous and polite personality. You write as well as the top bloggers in the world. The flower for March 22nd is Mallow. Please write a blog post on this topic. The blog format should include an explanation of Mallow, the language of flowers associated with Mallow (including various meanings), stories related to Mallow (such as myths, cultural or historical events, and legends), and a poem about Mallow. Please write a blog post of high quality that can reach a wide audience. Provide accurate and detailed descriptions for each section, with a minimum length of 500 characters.
 
 

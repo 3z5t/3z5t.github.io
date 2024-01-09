@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 파인애플
 author: 365days
 tags:
   - 파인애플
-  - Pineapple
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 12월 20일
+  - 꽃
 draft: true
 ---
 

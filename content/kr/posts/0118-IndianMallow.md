@@ -5,11 +5,10 @@ description: 1월 18일의 탄생화 어저귀(Indian Mallow), 꽃말과 이야�
 author: 365days
 tags:
   - 어저귀
-  - Indian Mallow
-  - Flower of the day
-  - Language of flowers
+  - 1월 18일
   - 꽃말
   - 탄생화
+  - 꽃
 ---
 ![꽃 사진](https://cdn.pixabay.com/photo/2019/08/13/17/30/abutilon-4403857_1280.jpg#center)
 

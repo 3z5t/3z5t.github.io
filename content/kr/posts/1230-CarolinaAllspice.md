@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 납매
 author: 365days
 tags:
   - 납매
-  - Carolina Allspice
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 12월 30일
+  - 꽃
 draft: true
 ---
 

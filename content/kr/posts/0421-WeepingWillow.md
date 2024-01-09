@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 수양버들
 author: 365days
 tags:
   - 수양버들
-  - Weeping Willow
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 4월 21일
+  - 꽃
 draft: true
 ---
 

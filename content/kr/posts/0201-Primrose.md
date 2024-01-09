@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 앵초
 author: 365days
 tags:
   - 앵초
-  - Primrose
-  - Flower of the day
-  - Language of flowers
+  - 2월 1일
   - 꽃말
   - 탄생화
+  - 꽃
 draft: false
 ---
 앵초는 아름다운 꽃으로, 봄의 시작을 알리는 상징적인 꽃 중 하나입니다. 

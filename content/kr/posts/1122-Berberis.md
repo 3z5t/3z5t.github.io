@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 매자나무
 author: 365days
 tags:
   - 매자나무
-  - Berberis
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 11월 22일
+  - 꽃
 draft: true
 ---
 

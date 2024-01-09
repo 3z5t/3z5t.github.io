@@ -7,6 +7,7 @@ tags:
   - Fritillaria Thunbergii
   - Flower of the day
   - Language of flowers
+  - June 11th
 draft: true
 ---
 

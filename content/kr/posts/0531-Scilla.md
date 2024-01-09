@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 무릇
 author: 365days
 tags:
   - 무릇
-  - Scilla
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 5월 31일
+  - 꽃
 draft: true
 ---
 

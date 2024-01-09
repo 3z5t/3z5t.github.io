@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 달맞이꽃
 author: 365days
 tags:
   - 달맞이꽃
-  - Evening Primrose
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 6월 21일
+  - 꽃
 draft: true
 ---
 

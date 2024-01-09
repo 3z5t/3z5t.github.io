@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 능소화
 author: 365days
 tags:
   - 능소화
-  - Trumpet Flower
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 8월 6일
+  - 꽃
 draft: true
 ---
 

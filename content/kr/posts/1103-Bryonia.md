@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 브리오니아
 author: 365days
 tags:
   - 브리오니아
-  - Bryonia
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 11월 3일
+  - 꽃
 draft: true
 ---
 

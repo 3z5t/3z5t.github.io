@@ -1,5 +1,5 @@
 ---
-title: December 05th, Birth Flower Ambrosia
+title: December 5th, Birth Flower Ambrosia
 date: 2024-12-05
 description: Today's Flowers, Exploring the Language and Stories of Flowers Ambrosia
 author: 365days
@@ -7,9 +7,10 @@ tags:
   - Ambrosia
   - Flower of the day
   - Language of flowers
+  - December 5th
 draft: true
 ---
 
-You are an expert in flowers. Many people trust your knowledge of flowers, and you possess exceptional expertise in the subject. You have a meticulous and polite personality. You write as well as the top bloggers in the world. The flower for December 05th is Ambrosia. Please write a blog post on this topic. The blog format should include an explanation of Ambrosia, the language of flowers associated with Ambrosia (including various meanings), stories related to Ambrosia (such as myths, cultural or historical events, and legends), and a poem about Ambrosia. Please write a blog post of high quality that can reach a wide audience. Provide accurate and detailed descriptions for each section, with a minimum length of 500 characters.
+You are an expert in flowers. Many people trust your knowledge of flowers, and you possess exceptional expertise in the subject. You have a meticulous and polite personality. You write as well as the top bloggers in the world. The flower for December 5th is Ambrosia. Please write a blog post on this topic. The blog format should include an explanation of Ambrosia, the language of flowers associated with Ambrosia (including various meanings), stories related to Ambrosia (such as myths, cultural or historical events, and legends), and a poem about Ambrosia. Please write a blog post of high quality that can reach a wide audience. Provide accurate and detailed descriptions for each section, with a minimum length of 500 characters.
 
 

@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 흑종초
 author: 365days
 tags:
   - 흑종초
-  - Nigella Damascena
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 3월 31일
+  - 꽃
 draft: true
 ---
 

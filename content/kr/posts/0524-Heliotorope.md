@@ -5,11 +5,10 @@ description: 꽃말과 이야기로 보는 오늘의 꽃 헬리오토로프
 author: 365days
 tags:
   - 헬리오토로프
-  - Heliotorope
-  - Flower of the day
-  - Language of flowers
   - 꽃말
   - 탄생화
+  - 5월 24일
+  - 꽃
 draft: true
 ---
 
