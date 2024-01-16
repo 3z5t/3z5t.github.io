@@ -1,5 +1,5 @@
 ---
-title: 1월 5일의 탄생화 노루귀(Hepatica), 꽃말과 이야기로 보는 오늘의 꽃
+title: 1월 5일의 탄생화 노루귀(Hepatica)
 date: 2024-01-05
 description: 1월 5일의 탄생화 노루귀(Hepatica), 꽃말과 이야기로 보는 오늘의 꽃
 author: 365days

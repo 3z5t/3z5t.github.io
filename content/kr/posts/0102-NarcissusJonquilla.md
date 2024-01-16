@@ -1,5 +1,5 @@
 ---
-title: 1월 2일의 탄생화 노랑수선화(Narcissus Jonquilla), 꽃말과 이야기로 보는 오늘의 꽃
+title: 1월 2일의 탄생화 노랑수선화(Narcissus Jonquilla)
 date: 2024-01-02
 description: 1월 2일의 탄생화 노랑수선화(Narcissus Jonquilla), 꽃말과 이야기로 보는 오늘의 꽃
 author: 365days

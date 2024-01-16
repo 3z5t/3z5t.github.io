@@ -1,5 +1,5 @@
 ---
-title: 1월 16일의 탄생화 노랑 히아신스(Hyacinth), 꽃말과 이야기로 보는 오늘의 꽃
+title: 1월 16일의 탄생화 노랑 히아신스(Hyacinth)
 date: 2024-01-16
 description: 1월 16일의 탄생화 노랑 히아신스(Hyacinth), 꽃말과 이야기로 보는 오늘의 꽃
 author: 365days

@@ -1,5 +1,5 @@
 ---
-title: 1월 10일의 탄생화 회양목(Box-Tree), 꽃말과 이야기로 보는 오늘의 꽃
+title: 1월 10일의 탄생화 회양목(Box-Tree)
 date: 2024-01-10
 description: 1월 10일의 탄생화 회양목(Box-Tree), 꽃말과 이야기로 보는 오늘의 꽃
 author: 365days

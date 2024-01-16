@@ -1,5 +1,5 @@
 ---
-title: 1월 8일의 탄생화 보랏빛 제비꽃(Violet), 꽃말과 이야기로 보는 오늘의 꽃
+title: 1월 8일의 탄생화 보랏빛 제비꽃(Violet)
 date: 2024-01-08
 description: 1월 8일의 탄생화 보랏빛 제비꽃(Violet), 꽃말과 이야기로 보는 오늘의 꽃
 author: 365days

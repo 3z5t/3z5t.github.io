@@ -1,5 +1,5 @@
 ---
-title: 1월 15일의 탄생화 가시(Thorn), 꽃말과 이야기로 보는 오늘의 꽃
+title: 1월 15일의 탄생화 가시(Thorn)
 date: 2024-01-15
 description: 꽃말과 이야기로 보는 오늘의 꽃 가시
 author: 365days

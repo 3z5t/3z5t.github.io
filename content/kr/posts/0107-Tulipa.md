@@ -1,5 +1,5 @@
 ---
-title: 1월 7일의 탄생화 튤립(Tulipa), 꽃말과 이야기로 보는 오늘의 꽃
+title: 1월 7일의 탄생화 튤립(Tulipa)
 date: 2024-01-07
 description: 1월 7일의 탄생화 튤립(Tulipa), 꽃말과 이야기로 보는 오늘의 꽃
 author: 365days

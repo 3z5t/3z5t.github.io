@@ -1,5 +1,5 @@
 ---
-title: 1월 13일의 탄생화 수선화(Narcissus), 꽃말과 이야기로 보는 오늘의 꽃
+title: 1월 13일의 탄생화 수선화(Narcissus)
 date: 2024-01-13
 description: 1월 13일의 탄생화 수선화(Narcissus), 꽃말과 이야기로 보는 오늘의 꽃
 author: 365days
