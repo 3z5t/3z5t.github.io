@@ -1,5 +1,5 @@
 ---
-title: 1월 17일의 탄생화 소리쟁이(Rumex), 꽃말과 이야기로 보는 오늘의 꽃
+title: 1월 17일의 탄생화 소리쟁이(Rumex)
 date: 2024-01-17
 description: 1월 17일의 탄생화 소리쟁이(Rumex), 꽃말과 이야기로 보는 오늘의 꽃
 author: 365days
