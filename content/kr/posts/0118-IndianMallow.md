@@ -1,5 +1,5 @@
 ---
-title: 1월 18일의 탄생화 어저귀(Indian Mallow), 꽃말과 이야기로 보는 오늘의 꽃
+title: 1월 18일의 탄생화 어저귀(Indian Mallow)
 date: 2024-01-18
 description: 1월 18일의 탄생화 어저귀(Indian Mallow), 꽃말과 이야기로 보는 오늘의 꽃
 author: 365days
