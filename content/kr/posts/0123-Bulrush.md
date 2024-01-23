@@ -1,7 +1,7 @@
 ---
-title: 1월 23일의 탄생화 부들(Bullrusb), 꽃말과 이야기로 보는 오늘의 꽃
+title: 1월 23일의 탄생화 부들(Bulrush)
 date: 2024-01-23
-description: 1월 23일의 탄생화 부들(Bullrusb), 꽃말과 이야기로 보는 오늘의 꽃
+description: 1월 23일의 탄생화 부들(Bulrush), 꽃말과 이야기로 보는 오늘의 꽃
 author: 365days
 tags:
   - 부들
