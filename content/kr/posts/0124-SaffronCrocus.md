@@ -1,5 +1,5 @@
 ---
-title: 1월 24일의 탄생화 가을에 피는 사프란(Saffron-Crocus), 꽃말과 이야기로 보는 오늘의 꽃
+title: 1월 24일의 탄생화 가을에 피는 사프란(Saffron-Crocus)
 date: 2024-01-24
 description: 1월 24일의 탄생화 가을에 피는 사프란(Saffron-Crocus), 꽃말과 이야기로 보는 오늘의 꽃
 author: 365days
