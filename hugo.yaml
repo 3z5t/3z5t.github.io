@@ -28,7 +28,7 @@ params:
 
   env: production
   title: 365days of all
-  description: A blog about things in no particular order, shape or form
+  description: 365일에 대한 모든 것들을 알려드릴게요
   keywords: [blog]
   author: 365days
   DateFormat: January 2, 2006
