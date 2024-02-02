@@ -1,10 +1,10 @@
 ---
-title: February 2nd, Birth Flower Quince
+title: February 2nd, Birth Flower Chaendmeles
 date: 2024-02-02
-description: Today's Flowers, Exploring the Language and Stories of Flowers Quince
+description: Today's Flowers, Exploring the Language and Stories of Flowers Chaendmeles
 author: 365days
 tags:
-  - Quince
+  - Chaendmeles
   - Flower of the day
   - Language of flowers
   - February 2nd
