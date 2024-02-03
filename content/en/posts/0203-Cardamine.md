@@ -11,6 +11,7 @@ tags:
   - Flowers
 draft: false
 ---
+![황새냉이의 이미지](https://cdn.pixabay.com/photo/2020/04/13/17/30/cuckoo-5039419_1280.jpg)
 
 ### **Introduction:**
 Hello, flower enthusiasts! Today, let's embark on a journey into the intricate beauty of Wavy Bittercress. With its unassuming elegance, this bloom quietly graces the landscape on the third day of February. Join me as we explore the unique charm of Wavy Bittercress, discovering its characteristics, meanings, stories, and the subtle poetry it brings to the heart of winter.
