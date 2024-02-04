@@ -11,6 +11,8 @@ tags:
   - Flowers
 draft: false
 ---
+![빨간앵초의 이미지](https://cdn.pixabay.com/photo/2017/02/05/17/06/flower-2040617_1280.jpg)
+
 ### **Introduction:**
 Greetings, flower enthusiasts! Today, let's delve into the vibrant world of Red Primrose, the bloom that adds a passionate touch to the fourth day of February. With its fiery hue and delicate petals, Red Primrose stands as a symbol of love and anticipation. Join me as we explore the unique characteristics, meanings, stories, and the poetic essence that Red Primrose brings to the heart of winter.
 
