@@ -11,6 +11,8 @@ tags:
   - Flowers
 draft: false
 ---
+![범의귀의 이미지](https://cdn.pixabay.com/photo/2016/12/13/22/11/badan-1905221_1280.jpg)
+
 ### Unveiling the Splendor: Saxifraga, the February 8th Bloom
 
 As we step into the embrace of February 8th, let's explore the elegant world of Saxifraga, a floral gem that graces this special day. With my meticulous nature and deep-rooted knowledge in the language of flowers, allow me to be your guide in unraveling the mysteries, meanings, and poetic tales surrounding Saxifraga.
