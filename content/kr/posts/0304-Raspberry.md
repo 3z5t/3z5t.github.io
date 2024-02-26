@@ -9,7 +9,7 @@ tags:
   - 탄생화
   - 3월 4일
   - 꽃
-draft: true
+draft: false
 ---
 
 ![산딸기의 이미지](https://cdn.pixabay.com/photo/2014/06/13/10/16/raspberry-368159_960_720.jpg#center)
