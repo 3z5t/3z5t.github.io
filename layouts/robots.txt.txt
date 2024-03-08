@@ -1,0 +1,5 @@
+User-agent:*
+
+Allow: /
+
+Sitemap: https://3z5t.github.io/sitemap.xml
