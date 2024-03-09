@@ -15,8 +15,21 @@ module:
 
 outputs:
   home:
-    - HTML
-    - JSON
+    - html
+    - rss
+    - json
+  section:
+    - html
+    - rss
+  taxonomy:
+    - html
+  term:
+    - html
+
+services:
+  rss:
+    limit: 42
+
 
 minify:
   disableXML: true
