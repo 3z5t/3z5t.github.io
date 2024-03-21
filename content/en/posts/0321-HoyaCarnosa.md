@@ -50,4 +50,4 @@ In addition, Hoya Carnosa is often associated with the concept of everlasting lo
 
 ### Conclusion
 
-Hoya Carnosa, with its striking blooms and resilient nature, continues to captivate and inspire all who encounter it. Whether adorning trellises in gardens or gracing windowsills indoors, this exquisite plant serves as a reminder of love, devotion, and the enduring beauty of nature. Let us cherish the Hoya Carnosa and the joy it brings to our lives.
+Hoya Carnosa, with its striking blooms and resilient nature, continues to captivate and inspire all who encounter it. Whether adorning trellises in gardens or gracing windowsills indoors, this exquisite plant serves as a reminder of love, devotion, and the enduring beauty of nature. Let us cherish the Hoya Carnosa and the joy it brings to our lives. 
