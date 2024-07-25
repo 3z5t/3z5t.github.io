@@ -9,7 +9,7 @@ tags:
   - 탄생화
   - 7월 15일
   - 꽃
-draft: true
+draft: false
 ---
 
 
