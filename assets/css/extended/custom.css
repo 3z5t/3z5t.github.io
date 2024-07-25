@@ -21,13 +21,6 @@
     font-style: normal;
 }
 
-@font-face {
-    font-family: 'Freesentation-9Black';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2404@1.0/Freesentation-9Black.woff2') format('woff2');
-    font-weight: 400;
-    font-style: normal;
-}
-
 
 @font-face {
     font-family: 'NEXON Lv1 Gothic OTF';
@@ -38,16 +31,14 @@
 
 
 @font-face {
-    font-family: 'TTLaundryGothicB';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2403-2@1.0/TTLaundryGothicB.woff2') format('woff2');
-    font-weight: 700;
+    font-family: 'KOMACON';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_seven@1.2/KOMACON.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
 }
 
-
-
 :root {
-    --default-font: 'TTLaundryGothicB', sans-serif;
+    --default-font: 'KOMACON', sans-serif;
     --body-font: 'Pretendard-Regular', sans-serif;
     --code-font: 'NEXON Lv1 Gothic OTF', sans-serif;
     --japanese-font: 'M PLUS 1p', sans-serif;
