@@ -13,7 +13,7 @@ draft: false
 ---
 
 
-![참제비고깔의 이미지](https://images.pexels.com/photos/12027164/pexels-photo-12027164.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1#center)
+![참제비고깔의 이미지](https://images.unsplash.com/photo-1661911049657-29526aecb03f?q=80&w=1313&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D#center)
 
 
 ### 참제비고깔(Larkspur)에 대한 설명
