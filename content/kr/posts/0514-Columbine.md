@@ -13,7 +13,7 @@ draft: false
 ---
 
 
-![매발톱꽃의 이미지](https://cdn.pixabay.com/photo/2014/09/27/15/10/maebaltop-flowers-463596_1280.jpg#center)
+![매발톱꽃의 이미지](https://cdn.pixabay.com/photo/2017/08/04/00/05/columbine-2578719_960_720.jpg#center)
 
 ### 매발톱꽃(Columbine): 승리의 상징과 매혹적인 아름다움
 

@@ -36,8 +36,18 @@
     font-style: normal;
 }
 
+
+@font-face {
+    font-family: 'TTLaundryGothicB';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2403-2@1.0/TTLaundryGothicB.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
 :root {
-    --default-font: 'Freesentation-9Black', sans-serif;
+    --default-font: 'TTLaundryGothicB', sans-serif;
     --body-font: 'Pretendard-Regular', sans-serif;
     --code-font: 'NEXON Lv1 Gothic OTF', sans-serif;
     --japanese-font: 'M PLUS 1p', sans-serif;
