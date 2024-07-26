@@ -12,7 +12,7 @@ tags:
 draft: false
 ---
 
-![슈미트티아나의 이미지](https://images.pexels.com/photos/11911556/pexels-photo-11911556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1#center)
+![슈미트티아나의 이미지](https://cdn.pixabay.com/photo/2013/07/26/05/45/large-speedwell-167462_1280.jpg#center)
 
 
 ### 슈미트티아나(Schmidtiana): 이국적인 아름다움
