@@ -9,6 +9,7 @@ tags:
   - Language of flowers
   - July 28th
   - Flowers
+  - Dianthus Superbus
 draft: true
 ---
 

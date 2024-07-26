@@ -5,6 +5,7 @@ description: Today's Flowers, Exploring the Language and Stories of Flowers Lime
 author: 365days
 tags:
   - Lime Tree
+  - Linden
   - Flower of the day
   - Language of flowers
   - July 30th

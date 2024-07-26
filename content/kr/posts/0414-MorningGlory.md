@@ -12,7 +12,7 @@ tags:
 draft: false
 ---
 
-![흰나팔꽃의 이미지](https://images.unsplash.com/photo-1663640368639-4b132fc39b7c?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D#center)
+![흰나팔꽃의 이미지](https://cdn.pixabay.com/photo/2021/08/09/15/36/morning-glory-6533658_1280.jpg#center)
 
 
 ### 흰나팔꽃(Morning-Glory)에 대한 설명

@@ -13,7 +13,7 @@ draft: false
 ---
 
 
-![금계국의 이미지](https://images.pexels.com/photos/14407175/pexels-photo-14407175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1#center)
+![금계국의 이미지](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_1280.jpg#center)
 
 
 ### 금계국(Golden Wave)에 대한 설명
