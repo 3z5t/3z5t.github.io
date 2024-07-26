@@ -12,7 +12,7 @@ tags:
 draft: false
 ---
 
-![수련의 이미지](https://images.unsplash.com/photo-1542478080-8c03409bbf22?q=80&w=1371&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D#center)
+![수련의 이미지](https://cdn.pixabay.com/photo/2023/05/21/01/27/waterlily-8007670_1280.jpg#center)
 
 ### The Timeless Beauty of the Water Lily: Flower for April 27th
 

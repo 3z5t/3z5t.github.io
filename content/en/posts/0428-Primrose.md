@@ -12,7 +12,7 @@ tags:
 draft: false
 ---
 
-![빨간 앵초의 이미지](https://images.pexels.com/photos/7141195/pexels-photo-7141195.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1#center)
+![빨간 앵초의 이미지](https://cdn.pixabay.com/photo/2020/03/31/07/40/primrose-4986558_960_720.jpg#center)
 
 ### The Captivating Red Primrose: Flower for April 28th
 

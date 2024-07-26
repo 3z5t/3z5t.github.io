@@ -13,7 +13,7 @@ draft: false
 ---
 
 
-![수양버들의 이미지](https://images.unsplash.com/photo-1636878540503-a6888035804e?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D#center)
+![수양버들의 이미지](https://cdn.pixabay.com/photo/2022/06/02/16/23/weeping-willow-7238442_1280.jpg#center)
 
 
 ### 수양버들(Weeping Willow)에 대한 설명
