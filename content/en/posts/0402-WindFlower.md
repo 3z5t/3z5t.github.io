@@ -1,5 +1,5 @@
 ---
-title: April 2nd, Birth Flower Anemone/Wind Flower
+title: April 2nd, Birth Flower Anemone
 date: 2024-04-02
 description: Today's Flowers, Exploring the Language and Stories of Flowers Anemone/Wind Flower
 author: 365days

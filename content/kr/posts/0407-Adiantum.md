@@ -12,7 +12,7 @@ tags:
 draft: false
 ---
 
-![공작고사리의 이미지](https://images.unsplash.com/photo-1675701806617-cbd2249316e1?q=80&w=1410&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D#center)
+![공작고사리의 이미지](https://cdn.pixabay.com/photo/2024/06/15/07/09/fern-fronds-8831122_960_720.jpg#center)
 
 
 ### 공작고사리(Adiantum)에 대한 설명

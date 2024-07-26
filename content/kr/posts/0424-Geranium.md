@@ -14,7 +14,7 @@ draft: false
 
 
 
-![제라늄의 이미지](https://cdn.pixabay.com/photo/2024/06/13/17/23/ai-generated-8828085_960_720.jpg#center)
+![제라늄의 이미지](https://cdn.pixabay.com/photo/2018/05/23/16/47/flowers-3424517_960_720.jpg#center)
 
 
 ### 제라늄(Geranium)에 대한 설명
