@@ -2,7 +2,7 @@
 title: 韓国の誕生花 - 1月2日のための特別なスイセン（黄色）
 date: 2024-01-02
 description: 花言葉と物語で見る今日の花 スイセン（黄色）
-author: 365days
+author: 365daysgit co
 tags:
   - スイセン（黄色）
   - 今日の花
