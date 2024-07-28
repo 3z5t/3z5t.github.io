@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Kiwi+Maru&display=swap');
-
 @font-face {
     font-family: 'Pretendard-Regular';
     src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
@@ -95,11 +93,34 @@ pre code {
 }
 
 
-
-@import url('https://fonts.cdnfonts.com/css/japanese');
-
-                
+/* 일본어에 대한 폰트 설정 */
 
 :lang(ja) {
-    font-family: 'Japanese', sans-serif; /* 일본어에 대한 폰트 설정 */
+    font-family: 'M PLUS 1', sans-serif; 
+}
+
+main:lang(ja) {
+    font-family: 'M PLUS Rounded 1c', sans-serif; 
+}
+
+.post-content:lang(ja) {
+    font-family: 'M PLUS 1', sans-serif; 
+}
+
+header:lang(ja) {
+    font-family: 'M PLUS Rounded 1c', sans-serif; 
+}
+
+h1:lang(ja), 
+h2:lang(ja), 
+h3:lang(ja), 
+h4:lang(ja), 
+h5:lang(ja), 
+h6:lang(ja) {
+    font-family: 'M PLUS Rounded 1c', sans-serif; 
+    font-weight: bold; /* 필요시 추가 */
+}
+
+pre code:lang(ja) {
+    font-family: 'M PLUS Rounded 1c', sans-serif; 
 }
