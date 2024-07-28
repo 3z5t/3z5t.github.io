@@ -153,7 +153,29 @@ languages:
         - name: About
           url: en/about/
           weight: 15
-
+  ja:
+    weight: 3
+    languageName: Japanese
+    languageCode: ja
+    contentDir: content/ja/
+    title: 365日のすべて
+    menu:
+      main:
+        - name: 投稿
+          url: /posts/
+          weight: 4
+        - name: アーカイブ
+          url: /archives/
+          weight: 5
+        - name: 検索
+          url: /search/
+          weight: 10
+        - name: タグ
+          url: /tags/
+          weight: 10
+        - name: について
+          url: ja/about/
+          weight: 15
 
 
     

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@500&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kiwi+Maru&display=swap');
 
 @font-face {
     font-family: 'Pretendard-Regular';
@@ -37,11 +37,12 @@
     font-style: normal;
 }
 
+
 :root {
     --default-font: 'KOMACON', sans-serif;
     --body-font: 'Pretendard-Regular', sans-serif;
     --code-font: 'NEXON Lv1 Gothic OTF', sans-serif;
-    --japanese-font: 'M PLUS 1p', sans-serif;
+    --japanese-font: 'Kiwi+Maru', sans-serif;
     --handwriting-font: 'omyu_pretty', sans-serif;
   }
  
@@ -91,4 +92,14 @@ h6 {
 
 pre code {
     font-family: var(--code-font), var(--default-font), 'monospace' ;
+}
+
+
+
+@import url('https://fonts.cdnfonts.com/css/japanese');
+
+                
+
+:lang(ja) {
+    font-family: 'Japanese', sans-serif; /* 일본어에 대한 폰트 설정 */
 }
