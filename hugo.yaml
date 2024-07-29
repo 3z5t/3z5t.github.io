@@ -176,6 +176,28 @@ languages:
         - name: について
           url: ja/about/
           weight: 15
-
+  zh:
+    weight: 4
+    languageName: 中國語
+    languageCode: zh
+    contentDir: content/zh/
+    title: 365 天的一切
+    menu:
+      main:
+        - name: 帖子
+          url: /posts/
+          weight: 4
+        - name: 档案馆
+          url: /archives/
+          weight: 5
+        - name: 搜寻
+          url: /search/
+          weight: 10
+        - name: 标记
+          url: /tags/
+          weight: 10
+        - name: 大约
+          url: zh/about/
+          weight: 15
 
     

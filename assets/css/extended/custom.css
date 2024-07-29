@@ -99,9 +99,6 @@ pre code {
     font-family: 'M PLUS 1', sans-serif; 
 }
 
-.btn-primary {
-    background-color: "red" important!;
-    border-color: "red";
-    box-shadow: var(--color-btn-primary-shadow), var(--color-btn-primary-inset-shadow);
-    color: "red";
+:lang(zh) {
+    font-family: 'Noto Sans SC', sans-serif; 
 }
