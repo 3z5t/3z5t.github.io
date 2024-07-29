@@ -1,5 +1,5 @@
 baseURL: https://obrey.github.io/
-languageCode: kr
+languageCode: ko
 title: 365일의 모든 것
 
 enableRobotsTXT: true
@@ -104,14 +104,14 @@ markup:
     lineNos: true
     noClasses: false    
 
-defaultContentLanguage: kr
+defaultContentLanguage: ko
 defaultContentLanguageInSubdir: false
 languages:
-  kr:
+  ko:
     weight: 1
     languageName: 한국어
-    languageCode: kr
-    contentDir: content/kr/
+    languageCode: ko
+    contentDir: content/ko/
     title: 365일의 모든 것
     menu:
       main:
@@ -155,7 +155,7 @@ languages:
           weight: 15
   ja:
     weight: 3
-    languageName: Japanese
+    languageName: 日本語
     languageCode: ja
     contentDir: content/ja/
     title: 365日のすべて
