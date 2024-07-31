@@ -11,7 +11,8 @@ tags:
   - Flowers
 draft: false
 ---
-![꽃 사진](https://cdn.pixabay.com/photo/2018/05/01/13/53/tulips-3365630_1280.jpg#center)
+
+![꽃 사진](https://cdn.pixabay.com/photo/2020/04/28/13/17/tulips-5104494_1280.jpg#center)
 ### Discovering the Timeless Elegance of Tulips
 
 Tulips, renowned for their vibrant hues and graceful petals, stand as one of nature's most beloved flowers. Botanically named Tulipa, these blooms captivate with their diversity and hold a rich tapestry of symbolism across cultures.

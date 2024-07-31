@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![チューリップのイメージ](https://cdn.pixabay.com/photo/2018/05/01/13/53/tulips-3365630_1280.jpg#center#center)
+![꽃 사진](https://cdn.pixabay.com/photo/2020/04/28/13/17/tulips-5104494_1280.jpg#center)
 
 
 ## 1月7日の花：チューリップ（Tulipa） ～ 失恋 ～
