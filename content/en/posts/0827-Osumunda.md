@@ -9,9 +9,10 @@ tags:
   - Language of flowers
   - August 27th
   - Flowers
-draft: true
+draft: false
 ---
 
+![고비](https://cdn.pixabay.com/photo/2014/05/09/14/16/fern-340802_1280.jpg#center)
 ## Celebrating Osmunda: The Flower for August 27th
 
 On August 27th, we turn our attention to **Osmunda**, a plant renowned for its lush, fern-like appearance and rich history. This blog post delves into the fascinating world of Osmunda, exploring its botanical significance, the language of flowers associated with it, captivating stories, and a poetic tribute to this elegant plant.

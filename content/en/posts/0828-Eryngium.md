@@ -9,9 +9,10 @@ tags:
   - Language of flowers
   - August 28th
   - Flowers
-draft: true
+draft: false
 ---
 
+![에린지움](https://cdn.pixabay.com/photo/2017/07/28/10/13/eryngium-2548232_1280.jpg#**center**)
 ## Celebrating Eryngium: The Flower for August 28th
 
 On August 28th, we celebrate the unique and striking **Eryngium**, also known as sea holly. This fascinating plant is admired for its distinctive appearance and rich symbolic meanings. In this blog post, we will explore the botanical details of Eryngium, the language of flowers associated with it, captivating stories, and a poetic tribute to this remarkable flower.

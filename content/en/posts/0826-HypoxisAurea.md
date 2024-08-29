@@ -9,9 +9,10 @@ tags:
   - Language of flowers
   - August 26th
   - Flowers
-draft: true
+draft: false
 ---
 
+![노란별수선](https://images.unsplash.com/photo-1613625995367-d6067085f702?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D#center)
 ## Hypoxis Aurea: The Golden Star of August 26th
 
 On August 26th, we celebrate **Hypoxis Aurea**, a charming and radiant bloom known for its bright golden color and subtle beauty. This blog post explores the essence of Hypoxis Aurea, its significance in the language of flowers, its cultural and historical narratives, and a poetic tribute to its golden splendor.

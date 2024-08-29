@@ -9,9 +9,10 @@ tags:
   - Language of flowers
   - August 29th
   - Flowers
-draft: true
+draft: false
 ---
 
+![꽃담배](https://cdn.pixabay.com/photo/2019/09/06/19/32/tobacco-4457154_1280.jpg#center)
 ## Celebrating the Flowering Tobacco Plant: The Flower for August 29th
 
 As we approach the end of August, we celebrate the elegant and fragrant **Flowering Tobacco Plant**. Known for its delightful scent and stunning blooms, this plant captivates gardeners and flower enthusiasts alike. In this blog post, we will delve into the botanical wonders of the Flowering Tobacco Plant, explore its meanings in the language of flowers, uncover stories and legends associated with it, and share a poetic tribute to this enchanting plant.
