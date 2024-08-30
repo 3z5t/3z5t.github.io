@@ -9,8 +9,10 @@ tags:
   - Language of flowers
   - August 30th
   - Flowers
-draft: true
+draft: false
 ---
+
+![저맨더의 이미지](https://cdn.pixabay.com/photo/2020/08/12/12/16/teucrium-paradise-delight-5482517_1280.jpg#center)
 
 ## Celebrating Wall Germander: The Flower for August 30th
 
