@@ -9,9 +9,10 @@ tags:
   - Language of flowers
   - September 1st
   - Flowers
-draft: true
+draft: false
 ---
 
+![image](https://cdn.pixabay.com/photo/2020/07/10/12/20/lily-5390522_960_720.jpg#center)
 ## Celebrating Tiger Flower: The Flower for September 1st
 
 As we step into September, we are greeted by the exotic and vibrant **Tiger Flower**. With its striking appearance and fascinating background, the Tiger Flower is a perfect symbol of the late summer's bold beauty. In this blog post, we will explore the botanical allure of the Tiger Flower, delve into its meanings in the language of flowers, uncover stories and legends associated with it, and share a poetic tribute to this magnificent bloom.
