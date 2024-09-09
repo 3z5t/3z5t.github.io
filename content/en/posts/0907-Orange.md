@@ -12,6 +12,7 @@ tags:
 draft: false
 ---
 
+![image](https://cdn.pixabay.com/photo/2019/04/26/16/14/orange-flower-4157944_1280.jpg#center)
 ## Celebrating the Orange: The Flower for September 7th
 
 As we step further into September, we turn our attention to the vibrant and cheerful Orange. Known not only as a fruit but also for its beautiful blossoms, the Orange tree offers a delightful blend of beauty, fragrance, and symbolism. In this blog post, we will explore the botanical aspects of the Orange, its significance in the language of flowers, intriguing stories and legends associated with it, and a poetic tribute to this captivating plant.

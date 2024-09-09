@@ -9,9 +9,10 @@ tags:
   - Language of flowers
   - September 2nd
   - Flowers
-draft: true
+draft: false
 ---
 
+![이미지](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_1280.jpg#center)
 ## Celebrating Mexican Ivy: The Flower for September 2nd
 
 As September progresses, we turn our attention to the graceful and resilient **Mexican Ivy**. This plant, known for its lush foliage and vigorous growth, holds a special place in gardens and hearts alike. In this blog post, we will delve into the botanical allure of Mexican Ivy, explore its meanings in the language of flowers, uncover stories and legends associated with it, and share a poetic tribute to this enchanting plant.

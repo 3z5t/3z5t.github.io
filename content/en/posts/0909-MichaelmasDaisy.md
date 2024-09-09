@@ -12,6 +12,7 @@ tags:
 draft: false
 ---
 
+![image](https://cdn.pixabay.com/photo/2020/10/05/17/32/nature-5630214_960_720.jpg#center)
 ## Celebrating the Michaelmas Daisy: The Bloom for September 9th
 
 As we step deeper into September, the spotlight falls on the Michaelmas Daisy, a flower that ushers in the autumn season with its vibrant hues and charming presence. In this blog post, we will explore the botanical features of the Michaelmas Daisy, delve into its symbolism in the language of flowers, recount captivating stories and legends, and conclude with a poetic homage to this beautiful bloom.

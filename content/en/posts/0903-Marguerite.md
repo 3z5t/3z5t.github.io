@@ -9,9 +9,10 @@ tags:
   - Language of flowers
   - September 3rd
   - Flowers
-draft: true
+draft: false
 ---
 
+![이미지](https://cdn.pixabay.com/photo/2016/09/09/08/30/marguerite-1656357_1280.jpg#center)
 ## Celebrating Marguerite: The Flower for September 3rd
 
 As we move into the heart of September, we turn our focus to the charming and cheerful **Marguerite**. Known for its daisy-like appearance and bright, sunny demeanor, the Marguerite flower holds a special place in gardens and bouquets alike. In this blog post, we will explore the botanical beauty of the Marguerite, its meanings in the language of flowers, stories and legends associated with it, and a poetic tribute to this delightful bloom.

@@ -12,6 +12,7 @@ tags:
 draft: false
 ---
 
+![image](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_1280.jpg#center)
 ## Celebrating the Nasturtium: The Flower for September 6th
 
 As we transition deeper into September, we celebrate the vibrant and multifaceted Nasturtium. Known for its bright colors and peppery flavor, the Nasturtium is not just a visual delight but also a symbol of various virtues. In this blog post, we will delve into the botanical characteristics of the Nasturtium, its significance in the language of flowers, captivating stories and legends associated with it, and a poetic tribute to this remarkable plant.
