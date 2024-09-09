@@ -10,11 +10,11 @@ tags:
   - 9月6日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![旱金蓮的图片](#center)
+![旱金蓮的图片](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_1280.jpg#center#center)
 
 
 ### 旱金莲(Nasturtium)的魅力：9月6日的花

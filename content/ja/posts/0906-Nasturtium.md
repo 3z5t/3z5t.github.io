@@ -11,11 +11,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![ナスタチウムのイメージ](#center)
+![ナスタチウムのイメージ](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_1280.jpg#center#center)
 
 
 ## 9月6日の花：ナスタチウム（Nasturtium）

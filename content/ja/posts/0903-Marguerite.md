@@ -11,11 +11,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![マーガレットのイメージ](#center)
+![マーガレットのイメージ](https://cdn.pixabay.com/photo/2016/09/09/08/30/marguerite-1656357_1280.jpg#center#center)
 
 
 ## 9月3日の花：マーガレット（Marguerite）

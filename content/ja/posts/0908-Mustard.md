@@ -11,10 +11,10 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
-![マスタードのイメージ](#center)
+![マスタードのイメージ](https://cdn.pixabay.com/photo/2015/05/25/21/11/flower-783946_960_720.jpg#center#center)
 
 
 ## 9月8日の花：マスタード（Mustard）

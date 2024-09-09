@@ -10,11 +10,11 @@ tags:
   - 9月9日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![迦勒雛菊的图片](#center)
+![迦勒雛菊的图片](https://cdn.pixabay.com/photo/2020/10/05/17/32/nature-5630214_960_720.jpg#center#center)
 
 
 ## 迦勒雏菊(Michaelmas Daisy)的魅力：9月9日的花

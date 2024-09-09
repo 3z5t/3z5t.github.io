@@ -11,14 +11,14 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![オレンジのイメージ](#center)
+![オレンジのイメージ](https://cdn.pixabay.com/photo/2019/04/26/16/14/orange-flower-4157944_1280.jpg#center#center)
 
 
-### ## 9月7日の花：オレンジ（Orange）
+### 9月7日の花：オレンジ（Orange）
 
 ### オレンジ（Orange）に関する説明
 

@@ -11,14 +11,14 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![ユウゼンギクのイメージ](#center)
+![ユウゼンギクのイメージ](https://cdn.pixabay.com/photo/2020/10/05/17/32/nature-5630214_960_720.jpg#center#center)
 
 
-### ## 9月9日の花：ユウゼンギク（Michaelmas Daisy）
+### 9月9日の花：ユウゼンギク（Michaelmas Daisy）
 
 ### ユウゼンギク（Michaelmas Daisy）に関する説明
 
