@@ -12,7 +12,7 @@ tags:
 draft: false
 ---
 
-![image](#center)
+![image](https://cdn.pixabay.com/photo/2021/09/16/16/33/flowers-6630547_960_720.jpg#center#center)
 ## Celebrating the China Aster: The Bloom for September 10th
 
 As we journey further into September, we turn our attention to the elegant and vibrant China Aster, a flower that graces us with its beauty and diverse hues. In this blog post, we will explore the botanical features of the China Aster, delve into its symbolism in the language of flowers, recount captivating stories and legends, and conclude with a poetic homage to this charming bloom.

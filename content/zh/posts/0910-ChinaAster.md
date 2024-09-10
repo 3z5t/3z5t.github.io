@@ -10,11 +10,11 @@ tags:
   - 9月10日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![翠菊的图片](#center)
+![翠菊的图片](https://cdn.pixabay.com/photo/2021/09/16/16/33/flowers-6630547_960_720.jpg#center#center)
 
 
 ###  翠菊(China Aster)的魅力：9月10日的花

@@ -11,10 +11,10 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
-![エゾギクのイメージ](#center)
+![エゾギクのイメージ](https://cdn.pixabay.com/photo/2021/09/16/16/33/flowers-6630547_960_720.jpg#center#center)
 
 
 ## 9月10日の花：エゾギク（China Aster）
