@@ -11,7 +11,7 @@ tags:
   - Flowers
 draft: false
 ---
-![image](#center)
+![image](https://cdn.pixabay.com/photo/2019/05/29/23/48/ville-de-lyon-4238823_1280.jpg#center#center)
 ## Celebrating Clematis: The Flower for September 12th
 
 As we transition into the gentle embrace of autumn, September 12th is marked by the captivating Clematis. Renowned for its stunning blooms and climbing prowess, Clematis is a garden favorite that enchants with its variety and elegance. In this blog post, we will explore the botanical essence of Clematis, uncover its meanings in the language of flowers, delve into fascinating stories and legends, and conclude with a poetic tribute to this remarkable flower.
