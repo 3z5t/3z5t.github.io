@@ -11,12 +11,12 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
 
-![ヤナギのイメージ](#center)
+![ヤナギのイメージ](https://cdn.pixabay.com/photo/2020/03/24/18/05/weeping-willow-4964961_1280.jpg#center#center)
 
 
 ### ## 9月13日の木：ヤナギ（Weeping Willow）
