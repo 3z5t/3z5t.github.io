@@ -12,13 +12,13 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
 
 
-![マルメロのイメージ](#center)
+![マルメロのイメージ](https://cdn.pixabay.com/photo/2019/03/31/17/40/japanese-ornamental-quince-4093575_1280.jpg#center#center)
 
 
 ## マルメロ（Quince）：9月14日の誘惑の果実

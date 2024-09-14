@@ -11,11 +11,11 @@ tags:
   - 9月14日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![寒梅的图片](#center)
+![寒梅的图片](https://cdn.pixabay.com/photo/2019/03/31/17/40/japanese-ornamental-quince-4093575_1280.jpg#center#center)
 
 
 ## 寒梅(Quince)的魅力：9月14日的花
