@@ -4,6 +4,7 @@ date: 2024-06-21
 description: Today's Flowers, Exploring the Language and Stories of Flowers Evening Primrose
 author: 365days
 tags:
+  - June
   - Evening Primrose
   - Flower of the day
   - Language of flowers

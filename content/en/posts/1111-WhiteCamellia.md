@@ -4,6 +4,7 @@ date: 2024-11-11
 description: Today's Flowers, Exploring the Language and Stories of Flowers White White Camellia
 author: 365days
 tags:
+  - November
   - White White Camellia
   - Flower of the day
   - Language of flowers

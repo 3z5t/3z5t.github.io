@@ -4,6 +4,7 @@ date: 2024-08-08
 description: 花言葉と物語で見る今日の花 ツツジ
 author: 365days
 tags:
+  - 8月
   - ツツジ
   - 今日の花
   - 花言葉

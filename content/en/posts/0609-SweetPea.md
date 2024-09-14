@@ -4,6 +4,7 @@ date: 2024-06-09
 description: Today's Flowers, Exploring the Language and Stories of Flowers Sweet Pea
 author: 365days
 tags:
+  - June
   - Sweet Pea
   - Flower of the day
   - Language of flowers

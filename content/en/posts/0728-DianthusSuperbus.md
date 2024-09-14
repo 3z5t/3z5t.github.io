@@ -4,6 +4,7 @@ date: 2024-07-28
 description: Today's Flowers, Exploring the Language and Stories of Flowers Fringed Pink
 author: 365days
 tags:
+  - July
   - Fringed Pink
   - Flower of the day
   - Language of flowers

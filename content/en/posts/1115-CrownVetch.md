@@ -4,6 +4,7 @@ date: 2024-11-15
 description: Today's Flowers, Exploring the Language and Stories of Flowers Crown Vetch
 author: 365days
 tags:
+  - November
   - Crown Vetch
   - Flower of the day
   - Language of flowers

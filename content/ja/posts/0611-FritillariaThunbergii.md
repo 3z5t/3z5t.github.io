@@ -4,6 +4,7 @@ date: 2024-06-11
 description: 花言葉と物語で見る今日の花 バイモ
 author: 365days
 tags:
+  - 6月
   - バイモ
   - 今日の花
   - 花言葉

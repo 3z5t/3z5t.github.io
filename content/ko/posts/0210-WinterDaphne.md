@@ -4,6 +4,7 @@ date: 2024-02-10
 description: 꽃말과 이야기로 보는 오늘의 꽃 서향
 author: 365days
 tags:
+  - 2월
   - 서향
   - 꽃말
   - 탄생화

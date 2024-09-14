@@ -4,6 +4,7 @@ date: 2024-07-17
 description: 꽃말과 이야기로 보는 오늘의 꽃 백장미
 author: 365days
 tags:
+  - 7월
   - 백장미
   - 꽃말
   - 탄생화

@@ -4,6 +4,7 @@ date: 2024-07-24
 description: Today's Flowers, Exploring the Language and Stories of Flowers Trillium
 author: 365days
 tags:
+  - July
   - Trillium
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-10-25
 description: 通过花语和故事来看今天的花 紅帝楓
 author: 365days
 tags:
+  - 10月
   - 紅帝楓
   - 今天的花
   - 花语

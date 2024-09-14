@@ -4,6 +4,7 @@ date: 2024-08-11
 description: Today's Flowers, Exploring the Language and Stories of Flowers Zonal Geranium
 author: 365days
 tags:
+  - August
   - Zonal Geranium
   - Flower of the day
   - Language of flowers

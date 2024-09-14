@@ -4,6 +4,7 @@ date: 2024-02-01
 description: 꽃말과 이야기로 보는 오늘의 꽃 앵초
 author: 365days
 tags:
+  - 2월
   - 앵초
   - 2월 1일
   - 꽃말

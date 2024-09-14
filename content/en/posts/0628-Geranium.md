@@ -4,6 +4,7 @@ date: 2024-06-28
 description: Today's Flowers, Exploring the Language and Stories of Flowers Geranium
 author: 365days
 tags:
+  - June
   - Geranium
   - Flower of the day
   - Language of flowers

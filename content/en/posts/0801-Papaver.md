@@ -4,6 +4,7 @@ date: 2024-08-01
 description: Today's Flowers, Exploring the Language and Stories of Flowers Red Poppy
 author: 365days
 tags:
+  - August
   - Red Poppy
   - Flower of the day
   - Language of flowers

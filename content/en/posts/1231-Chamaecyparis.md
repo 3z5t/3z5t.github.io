@@ -4,6 +4,7 @@ date: 2024-12-31
 description: Today's Flowers, Exploring the Language and Stories of Flowers Chamaecyparis
 author: 365days
 tags:
+  - December
   - Chamaecyparis
   - Flower of the day
   - Language of flowers

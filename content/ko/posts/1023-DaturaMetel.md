@@ -4,6 +4,7 @@ date: 2024-10-23
 description: 꽃말과 이야기로 보는 오늘의 꽃 흰독말풀
 author: 365days
 tags:
+  - 10월
   - 흰독말풀
   - 꽃말
   - 탄생화

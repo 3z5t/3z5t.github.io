@@ -4,6 +4,7 @@ date: 2024-07-14
 description: Today's Flowers, Exploring the Language and Stories of Flowers Phlox
 author: 365days
 tags:
+  - July
   - Phlox
   - Flower of the day
   - Language of flowers

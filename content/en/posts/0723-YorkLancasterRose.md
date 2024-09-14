@@ -4,6 +4,7 @@ date: 2024-07-23
 description: Today's Flowers, Exploring the Language and Stories of Flowers Rose
 author: 365days
 tags:
+  - July
   - Rose
   - Flower of the day
   - Language of flowers

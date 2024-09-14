@@ -4,6 +4,7 @@ date: 2024-07-09
 description: 꽃말과 이야기로 보는 오늘의 꽃 아이비 제라늄
 author: 365days
 tags:
+  - 7월
   - 아이비 제라늄
   - 꽃말
   - 탄생화

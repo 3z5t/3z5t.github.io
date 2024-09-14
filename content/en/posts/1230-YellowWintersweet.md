@@ -4,6 +4,7 @@ date: 2024-12-30
 description: Today's Flowers, Exploring the Language and Stories of Flowers Yellow Wintersweet
 author: 365days
 tags:
+  - December
   - Yellow Wintersweet
   - Flower of the day
   - Language of flowers

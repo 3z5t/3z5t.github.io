@@ -4,6 +4,7 @@ date: 2024-10-02
 description: Today's Flowers, Exploring the Language and Stories of Flowers Apricot Blossom
 author: 365days
 tags:
+  - October
   - Apricot Blossom
   - Flower of the day
   - Language of flowers

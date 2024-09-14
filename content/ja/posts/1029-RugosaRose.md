@@ -4,6 +4,7 @@ date: 2024-10-29
 description: 花言葉と物語で見る今日の花 ハマナス
 author: 365days
 tags:
+  - 10月
   - ハマナス
   - 今日の花
   - 花言葉

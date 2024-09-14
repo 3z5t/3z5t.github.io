@@ -4,6 +4,7 @@ date: 2024-02-24
 description: 꽃말과 이야기로 보는 오늘의 꽃 빙카
 author: 365days
 tags:
+  - 2월
   - 빙카
   - 꽃말
   - 탄생화

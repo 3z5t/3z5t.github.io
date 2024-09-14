@@ -4,6 +4,7 @@ date: 2024-07-21
 description: 꽃말과 이야기로 보는 오늘의 꽃 노랑장미
 author: 365days
 tags:
+  - 7월
   - 노랑장미
   - 꽃말
   - 탄생화

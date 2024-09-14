@@ -4,6 +4,7 @@ date: 2024-11-07
 description: 꽃말과 이야기로 보는 오늘의 꽃 천수국
 author: 365days
 tags:
+  - 11월
   - 천수국
   - 꽃말
   - 탄생화

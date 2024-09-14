@@ -4,6 +4,7 @@ date: 2024-01-25
 description: 1월 25일의 탄생화 점나도나물(Cerastium), 꽃말과 이야기로 보는 오늘의 꽃
 author: 365days
 tags:
+  - 1월
   - 점나도나물
   - 1월 25일
   - 꽃말

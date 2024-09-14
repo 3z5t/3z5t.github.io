@@ -4,6 +4,7 @@ date: 2024-08-27
 description: Today's Flowers, Exploring the Language and Stories of Flowers Osmunda
 author: 365days
 tags:
+  - August
   - Osmunda
   - Flower of the day
   - Language of flowers

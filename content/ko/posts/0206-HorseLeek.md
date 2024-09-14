@@ -4,6 +4,7 @@ date: 2024-02-06
 description: 꽃말과 이야기로 보는 오늘의 꽃 바위솔
 author: 365days
 tags:
+  - 2월
   - 바위솔
   - 2월 6일
   - 꽃말

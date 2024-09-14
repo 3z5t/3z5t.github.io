@@ -4,6 +4,7 @@ date: 2024-10-28
 description: 花言葉と物語で見る今日の花 ムクゲ
 author: 365days
 tags:
+  - 10月
   - ムクゲ
   - 今日の花
   - 花言葉

@@ -4,6 +4,7 @@ date: 2024-06-05
 description: Today's Flowers, Exploring the Language and Stories of Flowers Marigold
 author: 365days
 tags:
+  - June
   - Marigold
   - Flower of the day
   - Language of flowers

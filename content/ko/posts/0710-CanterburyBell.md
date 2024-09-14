@@ -4,6 +4,7 @@ date: 2024-07-10
 description: 꽃말과 이야기로 보는 오늘의 꽃 초롱꽃
 author: 365days
 tags:
+  - 7월
   - 초롱꽃
   - 꽃말
   - 탄생화

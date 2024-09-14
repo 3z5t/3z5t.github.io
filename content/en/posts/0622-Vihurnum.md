@@ -4,6 +4,7 @@ date: 2024-06-22
 description: Today's Flowers, Exploring the Language and Stories of Flowers Viburnum
 author: 365days
 tags:
+  - June
   - Viburnum
   - Flower of the day
   - Language of flowers

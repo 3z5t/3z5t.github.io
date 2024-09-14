@@ -4,6 +4,7 @@ date: 2024-08-24
 description: 花言葉と物語で見る今日の花 キンセンカ
 author: 365days
 tags:
+  - 8月
   - キンセンカ
   - 今日の花
   - 花言葉

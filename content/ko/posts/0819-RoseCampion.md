@@ -4,6 +4,7 @@ date: 2024-08-19
 description: 꽃말과 이야기로 보는 오늘의 꽃 우단동자꽃
 author: 365days
 tags:
+  - 8월
   - 우단동자꽃
   - 꽃말
   - 탄생화

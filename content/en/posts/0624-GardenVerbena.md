@@ -4,6 +4,7 @@ date: 2024-06-24
 description: Today's Flowers, Exploring the Language and Stories of Flowers Garden Verbena
 author: 365days
 tags:
+  - June
   - Garden Verbena
   - Flower of the day
   - Language of flowers

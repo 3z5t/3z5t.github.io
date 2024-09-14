@@ -4,6 +4,7 @@ date: 2024-07-22
 description: 꽃말과 이야기로 보는 오늘의 꽃 패랭이꽃
 author: 365days
 tags:
+  - 7월
   - 패랭이꽃
   - 꽃말
   - 탄생화

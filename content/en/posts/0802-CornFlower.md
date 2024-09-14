@@ -4,6 +4,7 @@ date: 2024-08-02
 description: Today's Flowers, Exploring the Language and Stories of Flowers Cornflower
 author: 365days
 tags:
+  - August
   - Cornflower
   - Flower of the day
   - Language of flowers

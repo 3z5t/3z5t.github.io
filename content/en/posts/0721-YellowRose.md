@@ -4,6 +4,7 @@ date: 2024-07-21
 description: Today's Flowers, Exploring the Language and Stories of Flowers Yellow Rose
 author: 365days
 tags:
+  - July
   - Yellow Rose
   - Flower of the day
   - Language of flowers

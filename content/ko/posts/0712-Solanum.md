@@ -4,6 +4,7 @@ date: 2024-07-12
 description: 꽃말과 이야기로 보는 오늘의 꽃 좁은입배풍동
 author: 365days
 tags:
+  - 7월
   - 좁은입배풍동
   - 꽃말
   - 탄생화

@@ -4,6 +4,7 @@ date: 2024-11-06
 description: 꽃말과 이야기로 보는 오늘의 꽃 등골나물
 author: 365days
 tags:
+  - 11월
   - 등골나물
   - 꽃말
   - 탄생화

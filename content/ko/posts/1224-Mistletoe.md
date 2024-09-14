@@ -4,6 +4,7 @@ date: 2024-12-24
 description: 꽃말과 이야기로 보는 오늘의 꽃 겨우살이
 author: 365days
 tags:
+  - 12월
   - 겨우살이
   - 꽃말
   - 탄생화

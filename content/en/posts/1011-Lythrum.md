@@ -4,6 +4,7 @@ date: 2024-10-11
 description: Today's Flowers, Exploring the Language and Stories of Flowers Lythrum
 author: 365days
 tags:
+  - October
   - Lythrum
   - Flower of the day
   - Language of flowers

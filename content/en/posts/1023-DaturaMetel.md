@@ -4,6 +4,7 @@ date: 2024-10-23
 description: Today's Flowers, Exploring the Language and Stories of Flowers Datura metel
 author: 365days
 tags:
+  - October
   - Datura metel
   - Flower of the day
   - Language of flowers

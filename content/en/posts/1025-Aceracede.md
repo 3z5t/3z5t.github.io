@@ -4,6 +4,7 @@ date: 2024-10-25
 description: Today's Flowers, Exploring the Language and Stories of Flowers Red Emperor Maple
 author: 365days
 tags:
+  - October
   - Red Emperor Maple
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-06-12
 description: Today's Flowers, Exploring the Language and Stories of Flowers Mignonette
 author: 365days
 tags:
+  - June
   - Mignonette
   - Flower of the day
   - Language of flowers

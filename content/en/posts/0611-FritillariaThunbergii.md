@@ -4,6 +4,7 @@ date: 2024-06-11
 description: Today's Flowers, Exploring the Language and Stories of Flowers Fritillaria Thunbergii
 author: 365days
 tags:
+  - June
   - Fritillaria Thunbergii
   - Flower of the day
   - Language of flowers

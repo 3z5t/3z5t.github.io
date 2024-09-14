@@ -4,6 +4,7 @@ date: 2024-07-11
 description: Today's Flowers, Exploring the Language and Stories of Flowers Asphodel
 author: 365days
 tags:
+  - July
   - Asphodel
   - Flower of the day
   - Language of flowers

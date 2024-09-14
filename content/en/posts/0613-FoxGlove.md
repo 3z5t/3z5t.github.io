@@ -4,6 +4,7 @@ date: 2024-06-13
 description: Today's Flowers, Exploring the Language and Stories of Flowers Fox Glove
 author: 365days
 tags:
+  - June
   - Fox Glove
   - Flower of the day
   - Language of flowers

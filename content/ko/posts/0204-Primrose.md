@@ -4,6 +4,7 @@ date: 2024-02-04
 description: 꽃말과 이야기로 보는 오늘의 꽃 빨간앵초
 author: 365days
 tags:
+  - 2월
   - 빨간앵초
   - 2월 4일
   - 꽃말

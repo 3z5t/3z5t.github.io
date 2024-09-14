@@ -4,6 +4,7 @@ date: 2024-08-21
 description: 꽃말과 이야기로 보는 오늘의 꽃 짚신나물
 author: 365days
 tags:
+  - 8월
   - 짚신나물
   - 꽃말
   - 탄생화

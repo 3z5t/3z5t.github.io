@@ -4,6 +4,7 @@ date: 2024-07-06
 description: 꽃말과 이야기로 보는 오늘의 꽃 해바라기
 author: 365days
 tags:
+  - 7월
   - 해바라기
   - 꽃말
   - 탄생화

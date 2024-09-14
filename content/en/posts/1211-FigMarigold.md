@@ -4,6 +4,7 @@ date: 2024-12-11
 description: Today's Flowers, Exploring the Language and Stories of Flowers Fig Marigold
 author: 365days
 tags:
+  - December
   - Fig Marigold
   - Flower of the day
   - Language of flowers

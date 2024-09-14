@@ -4,6 +4,7 @@ date: 2024-12-09
 description: 花言葉と物語で見る今日の花 キク
 author: 365days
 tags:
+  - 12月
   - キク
   - 今日の花
   - 花言葉

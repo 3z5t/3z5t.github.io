@@ -4,6 +4,7 @@ date: 2024-10-05
 description: 通过花语和故事来看今天的花 棕櫚樹
 author: 365days
 tags:
+  - 10月
   - 棕櫚樹
   - 今天的花
   - 花语

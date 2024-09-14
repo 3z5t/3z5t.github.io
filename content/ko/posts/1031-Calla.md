@@ -4,6 +4,7 @@ date: 2024-10-31
 description: 꽃말과 이야기로 보는 오늘의 꽃 칼라
 author: 365days
 tags:
+  - 10월
   - 칼라
   - 꽃말
   - 탄생화

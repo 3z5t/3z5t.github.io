@@ -4,6 +4,7 @@ date: 2024-11-18
 description: Today's Flowers, Exploring the Language and Stories of Flowers Golden-rayed lily
 author: 365days
 tags:
+  - November
   - Golden-rayed lily
   - Flower of the day
   - Language of flowers

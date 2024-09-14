@@ -4,6 +4,7 @@ date: 2024-12-10
 description: 꽃말과 이야기로 보는 오늘의 꽃 붉은 동백
 author: 365days
 tags:
+  - 12월
   - 붉은 동백
   - 꽃말
   - 탄생화

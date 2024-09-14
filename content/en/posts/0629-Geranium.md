@@ -4,6 +4,7 @@ date: 2024-06-29
 description: Today's Flowers, Exploring the Language and Stories of Flowers Red Geranium
 author: 365days
 tags:
+  - June
   - Red Geranium
   - Flower of the day
   - Language of flowers

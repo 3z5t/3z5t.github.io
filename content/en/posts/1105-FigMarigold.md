@@ -4,6 +4,7 @@ date: 2024-11-05
 description: Today's Flowers, Exploring the Language and Stories of Flowers Korean Aster
 author: 365days
 tags:
+  - November
   - Korean Aster
   - Flower of the day
   - Language of flowers

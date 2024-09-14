@@ -4,6 +4,7 @@ date: 2024-12-16
 description: Today's Flowers, Exploring the Language and Stories of Flowers Alder Tree
 author: 365days
 tags:
+  - December
   - Alder Tree
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-12-13
 description: Today's Flowers, Exploring the Language and Stories of Flowers Magenta Chrysanthemum
 author: 365days
 tags:
+  - December
   - Magenta Chrysanthemum
   - Flower of the day
   - Language of flowers

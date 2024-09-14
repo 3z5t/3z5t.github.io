@@ -4,6 +4,7 @@ date: 2024-07-06
 description: Today's Flowers, Exploring the Language and Stories of Flowers Sunflower
 author: 365days
 tags:
+  - July
   - Sunflower
   - Flower of the day
   - Language of flowers

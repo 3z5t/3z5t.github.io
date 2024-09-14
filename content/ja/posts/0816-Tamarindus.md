@@ -4,6 +4,7 @@ date: 2024-08-16
 description: 花言葉と物語で見る今日の花 タマリンド
 author: 365days
 tags:
+  - 8月
   - タマリンド
   - 今日の花
   - 花言葉

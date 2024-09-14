@@ -4,6 +4,7 @@ date: 2024-11-02
 description: 꽃말과 이야기로 보는 오늘의 꽃 루피너스
 author: 365days
 tags:
+  - 11월
   - 루피너스
   - 꽃말
   - 탄생화

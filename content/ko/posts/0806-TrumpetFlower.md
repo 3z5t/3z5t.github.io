@@ -4,6 +4,7 @@ date: 2024-08-06
 description: 꽃말과 이야기로 보는 오늘의 꽃 능소화
 author: 365days
 tags:
+  - 8월
   - 능소화
   - 꽃말
   - 탄생화

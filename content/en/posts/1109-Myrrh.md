@@ -4,6 +4,7 @@ date: 2024-11-09
 description: Today's Flowers, Exploring the Language and Stories of Flowers Myrrh
 author: 365days
 tags:
+  - November
   - Myrrh
   - Flower of the day
   - Language of flowers

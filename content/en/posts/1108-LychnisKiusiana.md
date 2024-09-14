@@ -4,6 +4,7 @@ date: 2024-11-08
 description: Today's Flowers, Exploring the Language and Stories of Flowers Lychnis kiusiana
 author: 365days
 tags:
+  - November
   - Lychnis kiusiana
   - Flower of the day
   - Language of flowers

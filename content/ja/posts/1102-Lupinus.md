@@ -4,6 +4,7 @@ date: 2024-11-02
 description: 花言葉と物語で見る今日の花 ルピナス
 author: 365days
 tags:
+  - 11月
   - ルピナス
   - 今日の花
   - 花言葉

@@ -4,6 +4,7 @@ date: 2024-12-31
 description: 꽃말과 이야기로 보는 오늘의 꽃 편백
 author: 365days
 tags:
+  - 12월
   - 편백
   - 꽃말
   - 탄생화

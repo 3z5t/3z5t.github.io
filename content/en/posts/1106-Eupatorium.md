@@ -4,6 +4,7 @@ date: 2024-11-06
 description: Today's Flowers, Exploring the Language and Stories of Flowers Eupatorium
 author: 365days
 tags:
+  - November
   - Eupatorium
   - Flower of the day
   - Language of flowers

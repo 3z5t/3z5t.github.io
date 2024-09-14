@@ -4,6 +4,7 @@ date: 2024-10-17
 description: Today's Flowers, Exploring the Language and Stories of Flowers Grape
 author: 365days
 tags:
+  - October
   - Grape
   - Flower of the day
   - Language of flowers

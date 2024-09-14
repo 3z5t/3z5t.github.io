@@ -4,6 +4,7 @@ date: 2024-10-08
 description: 꽃말과 이야기로 보는 오늘의 꽃 파슬리
 author: 365days
 tags:
+  - 10월
   - 파슬리
   - 꽃말
   - 탄생화

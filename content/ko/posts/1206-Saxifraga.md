@@ -4,6 +4,7 @@ date: 2024-12-06
 description: 꽃말과 이야기로 보는 오늘의 꽃 바위취
 author: 365days
 tags:
+  - 12월
   - 바위취
   - 꽃말
   - 탄생화

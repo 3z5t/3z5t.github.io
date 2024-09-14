@@ -4,6 +4,7 @@ date: 2024-10-14
 description: Today's Flowers, Exploring the Language and Stories of Flowers White Chrysanthemum
 author: 365days
 tags:
+  - October
   - White Chrysanthemum
   - Flower of the day
   - Language of flowers

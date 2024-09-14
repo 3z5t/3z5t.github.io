@@ -4,6 +4,7 @@ date: 2024-06-05
 description: 꽃말과 이야기로 보는 오늘의 꽃 메리골드
 author: 365days
 tags:
+  - 6월
   - 메리골드
   - 꽃말
   - 탄생화

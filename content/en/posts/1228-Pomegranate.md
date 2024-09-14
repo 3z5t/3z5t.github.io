@@ -4,6 +4,7 @@ date: 2024-12-28
 description: Today's Flowers, Exploring the Language and Stories of Flowers Pomegranate
 author: 365days
 tags:
+  - December
   - Pomegranate
   - Flower of the day
   - Language of flowers

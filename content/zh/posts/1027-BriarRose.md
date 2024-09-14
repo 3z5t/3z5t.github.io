@@ -4,6 +4,7 @@ date: 2024-10-27
 description: 通过花语和故事来看今天的花 野薔薇
 author: 365days
 tags:
+  - 10月
   - 野薔薇
   - 今天的花
   - 花语

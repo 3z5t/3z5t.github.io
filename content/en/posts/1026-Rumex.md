@@ -4,6 +4,7 @@ date: 2024-10-26
 description: Today's Flowers, Exploring the Language and Stories of Flowers Rumex
 author: 365days
 tags:
+  - October
   - Rumex
   - Flower of the day
   - Language of flowers

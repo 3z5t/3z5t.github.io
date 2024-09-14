@@ -4,6 +4,7 @@ date: 2024-11-21
 description: Today's Flowers, Exploring the Language and Stories of Flowers Lantern Flower
 author: 365days
 tags:
+  - November
   - Lantern Flower
   - Flower of the day
   - Language of flowers

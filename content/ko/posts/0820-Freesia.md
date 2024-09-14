@@ -4,6 +4,7 @@ date: 2024-08-20
 description: 꽃말과 이야기로 보는 오늘의 꽃 프리지아
 author: 365days
 tags:
+  - 8월
   - 프리지아
   - 꽃말
   - 탄생화

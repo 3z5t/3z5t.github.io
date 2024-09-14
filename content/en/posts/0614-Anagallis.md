@@ -4,6 +4,7 @@ date: 2024-06-14
 description: Today's Flowers, Exploring the Language and Stories of Flowers Pimpernel
 author: 365days
 tags:
+  - June
   - Pimpernel
   - Flower of the day
   - Language of flowers

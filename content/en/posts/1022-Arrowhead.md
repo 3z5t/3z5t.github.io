@@ -4,6 +4,7 @@ date: 2024-10-22
 description: Today's Flowers, Exploring the Language and Stories of Flowers Arrowhead
 author: 365days
 tags:
+  - October
   - Arrowhead
   - Flower of the day
   - Language of flowers

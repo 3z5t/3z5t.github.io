@@ -4,6 +4,7 @@ date: 2024-08-28
 description: Today's Flowers, Exploring the Language and Stories of Flowers Eryngium
 author: 365days
 tags:
+  - August
   - Eryngium
   - Flower of the day
   - Language of flowers

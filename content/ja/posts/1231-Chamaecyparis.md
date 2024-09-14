@@ -4,6 +4,7 @@ date: 2024-12-31
 description: 花言葉と物語で見る今日の花 ヒノキ
 author: 365days
 tags:
+  - 12月
   - ヒノキ
   - 今日の花
   - 花言葉

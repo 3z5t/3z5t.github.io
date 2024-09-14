@@ -4,6 +4,7 @@ date: 2024-11-20
 description: 꽃말과 이야기로 보는 오늘의 꽃 뷰글라스
 author: 365days
 tags:
+  - 11월
   - 뷰글라스
   - 꽃말
   - 탄생화

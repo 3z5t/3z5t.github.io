@@ -4,6 +4,7 @@ date: 2024-07-12
 description: Today's Flowers, Exploring the Language and Stories of Flowers Solanum
 author: 365days
 tags:
+  - July
   - Solanum
   - Flower of the day
   - Language of flowers

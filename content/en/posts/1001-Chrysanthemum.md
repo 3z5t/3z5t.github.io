@@ -4,6 +4,7 @@ date: 2024-10-01
 description: Today's Flowers, Exploring the Language and Stories of Flowers Red Chrysanthemum
 author: 365days
 tags:
+  - October
   - Red Chrysanthemum
   - Flower of the day
   - Language of flowers

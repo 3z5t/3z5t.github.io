@@ -4,6 +4,7 @@ date: 2024-06-13
 description: 꽃말과 이야기로 보는 오늘의 꽃 디기탈리스
 author: 365days
 tags:
+  - 6월
   - 디기탈리스
   - 꽃말
   - 탄생화

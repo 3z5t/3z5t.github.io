@@ -4,6 +4,7 @@ date: 2024-07-30
 description: 꽃말과 이야기로 보는 오늘의 꽃 린덴 나무
 author: 365days
 tags:
+  - 7월
   - 린덴 나무
   - 꽃말
   - 탄생화

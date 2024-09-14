@@ -4,6 +4,7 @@ date: 2024-06-18
 description: Today's Flowers, Exploring the Language and Stories of Flowers Thyme
 author: 365days
 tags:
+  - June
   - Thyme
   - Flower of the day
   - Language of flowers

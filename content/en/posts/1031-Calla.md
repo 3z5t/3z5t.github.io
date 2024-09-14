@@ -4,6 +4,7 @@ date: 2024-10-31
 description: Today's Flowers, Exploring the Language and Stories of Flowers Calla
 author: 365days
 tags:
+  - October
   - Calla
   - Flower of the day
   - Language of flowers

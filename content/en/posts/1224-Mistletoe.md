@@ -4,6 +4,7 @@ date: 2024-12-24
 description: Today's Flowers, Exploring the Language and Stories of Flowers Mistletoe
 author: 365days
 tags:
+  - December
   - Mistletoe
   - Flower of the day
   - Language of flowers

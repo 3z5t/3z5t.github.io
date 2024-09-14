@@ -4,6 +4,7 @@ date: 2024-10-30
 description: 꽃말과 이야기로 보는 오늘의 꽃 로벨리아
 author: 365days
 tags:
+  - 10월
   - 로벨리아
   - 꽃말
   - 탄생화

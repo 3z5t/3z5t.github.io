@@ -4,6 +4,7 @@ date: 2024-11-13
 description: Today's Flowers, Exploring the Language and Stories of Flowers Lemon Verbena
 author: 365days
 tags:
+  - November
   - Lemon Verbena
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-08-13
 description: 꽃말과 이야기로 보는 오늘의 꽃 골든 로드
 author: 365days
 tags:
+  - 8월
   - 골든 로드
   - 꽃말
   - 탄생화

@@ -4,6 +4,7 @@ date: 2024-12-15
 description: Today's Flowers, Exploring the Language and Stories of Flowers Winter Daphne
 author: 365days
 tags:
+  - December
   - Winter Daphne
   - Flower of the day
   - Language of flowers

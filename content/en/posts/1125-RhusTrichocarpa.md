@@ -4,6 +4,7 @@ date: 2024-11-25
 description: Today's Flowers, Exploring the Language and Stories of Flowers Rhus Trichocarpa
 author: 365days
 tags:
+  - November
   - Rhus Trichocarpa
   - Flower of the day
   - Language of flowers

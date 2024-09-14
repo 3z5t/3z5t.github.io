@@ -4,6 +4,7 @@ date: 2024-10-24
 description: Today's Flowers, Exploring the Language and Stories of Flowers Chinese Plum
 author: 365days
 tags:
+  - October
   - Chinese Plum
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-07-02
 description: Today's Flowers, Exploring the Language and Stories of Flowers Snap Dragon
 author: 365days
 tags:
+  - July
   - Snap Dragon
   - Flower of the day
   - Language of flowers

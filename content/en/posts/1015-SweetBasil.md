@@ -4,6 +4,7 @@ date: 2024-10-15
 description: Today's Flowers, Exploring the Language and Stories of Flowers Sweet Basil
 author: 365days
 tags:
+  - October
   - Sweet Basil
   - Flower of the day
   - Language of flowers

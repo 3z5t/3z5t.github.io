@@ -4,6 +4,7 @@ date: 2024-10-27
 description: Today's Flowers, Exploring the Language and Stories of Flowers Briar Rose
 author: 365days
 tags:
+  - October
   - Briar Rose
   - Flower of the day
   - Language of flowers

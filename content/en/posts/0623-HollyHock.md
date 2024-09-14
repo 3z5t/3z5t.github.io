@@ -4,6 +4,7 @@ date: 2024-06-23
 description: Today's Flowers, Exploring the Language and Stories of Flowers Holy Hock
 author: 365days
 tags:
+  - June
   - Holy Hock
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-08-22
 description: 꽃말과 이야기로 보는 오늘의 꽃 스피리아
 author: 365days
 tags:
+  - 8월
   - 스피리아
   - 꽃말
   - 탄생화

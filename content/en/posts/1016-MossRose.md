@@ -4,6 +4,7 @@ date: 2024-10-16
 description: Today's Flowers, Exploring the Language and Stories of Flowers Moss Rose
 author: 365days
 tags:
+  - October
   - Moss Rose
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-12-10
 description: Today's Flowers, Exploring the Language and Stories of Flowers Red Camellia
 author: 365days
 tags:
+  - December
   - Red Camellia
   - Flower of the day
   - Language of flowers

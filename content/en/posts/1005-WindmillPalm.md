@@ -4,6 +4,7 @@ date: 2024-10-05
 description: Today's Flowers, Exploring the Language and Stories of Flowers Palm Tree
 author: 365days
 tags:
+  - October
   - Palm Tree
   - Flower of the day
   - Language of flowers

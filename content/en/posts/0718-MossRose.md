@@ -4,6 +4,7 @@ date: 2024-07-18
 description: Today's Flowers, Exploring the Language and Stories of Flowers Moss Rose
 author: 365days
 tags:
+  - July
   - Moss Rose
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-11-29
 description: Today's Flowers, Exploring the Language and Stories of Flowers Baccharis
 author: 365days
 tags:
+  - November
   - Baccharis
   - Flower of the day
   - Language of flowers

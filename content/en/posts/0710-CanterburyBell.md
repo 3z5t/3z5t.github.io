@@ -4,6 +4,7 @@ date: 2024-07-10
 description: Today's Flowers, Exploring the Language and Stories of Flowers Bell flower
 author: 365days
 tags:
+  - July
   - Bellflower
   - Flower of the day
   - Language of flowers

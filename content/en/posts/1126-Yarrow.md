@@ -4,6 +4,7 @@ date: 2024-11-26
 description: Today's Flowers, Exploring the Language and Stories of Flowers Yarrow
 author: 365days
 tags:
+  - November
   - Yarrow
   - Flower of the day
   - Language of flowers

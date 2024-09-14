@@ -4,6 +4,7 @@ date: 2024-06-07
 description: Today's Flowers, Exploring the Language and Stories of Flowers Veronica Schmidtiana
 author: 365days
 tags:
+  - June
   - Veronica Schmidtiana
   - Flower of the day
   - Language of flowers

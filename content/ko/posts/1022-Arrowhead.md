@@ -4,6 +4,7 @@ date: 2024-10-22
 description: 꽃말과 이야기로 보는 오늘의 꽃 벗풀
 author: 365days
 tags:
+  - 10월
   - 벗풀
   - 꽃말
   - 탄생화

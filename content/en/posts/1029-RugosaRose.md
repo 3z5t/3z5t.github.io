@@ -4,6 +4,7 @@ date: 2024-10-29
 description: Today's Flowers, Exploring the Language and Stories of Flowers Rugosa Rose
 author: 365days
 tags:
+  - October
   - Rugosa Rose
   - Flower of the day
   - Language of flowers

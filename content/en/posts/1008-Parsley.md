@@ -4,6 +4,7 @@ date: 2024-10-08
 description: Today's Flowers, Exploring the Language and Stories of Flowers Parsley
 author: 365days
 tags:
+  - October
   - Parsley
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-06-08
 description: 꽃말과 이야기로 보는 오늘의 꽃 재스민
 author: 365days
 tags:
+  - 6월
   - 재스민
   - 꽃말
   - 탄생화

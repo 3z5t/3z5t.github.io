@@ -4,6 +4,7 @@ date: 2024-08-30
 description: Today's Flowers, Exploring the Language and Stories of Flowers Wall Germander
 author: 365days
 tags:
+  - August
   - Wall Germander
   - Flower of the day
   - Language of flowers

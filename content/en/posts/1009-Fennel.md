@@ -4,6 +4,7 @@ date: 2024-10-09
 description: Today's Flowers, Exploring the Language and Stories of Flowers Fennel
 author: 365days
 tags:
+  - October
   - Fennel
   - Flower of the day
   - Language of flowers

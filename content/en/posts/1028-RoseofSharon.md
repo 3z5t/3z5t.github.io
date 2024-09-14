@@ -4,6 +4,7 @@ date: 2024-10-28
 description: Today's Flowers, Exploring the Language and Stories of Flowers Rose of Sharon
 author: 365days
 tags:
+  - October
   - Rose of Sharon
   - Flower of the day
   - Language of flowers

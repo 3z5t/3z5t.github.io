@@ -4,6 +4,7 @@ date: 2024-12-20
 description: Today's Flowers, Exploring the Language and Stories of Flowers Pineapple
 author: 365days
 tags:
+  - December
   - Pineapple
   - Flower of the day
   - Language of flowers

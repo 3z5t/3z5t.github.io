@@ -4,6 +4,7 @@ date: 2024-06-16
 description: 꽃말과 이야기로 보는 오늘의 꽃 튜베 로즈
 author: 365days
 tags:
+  - 6월
   - 튜베 로즈
   - 꽃말
   - 탄생화

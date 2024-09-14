@@ -4,6 +4,7 @@ date: 2024-10-30
 description: Today's Flowers, Exploring the Language and Stories of Flowers Lobelia
 author: 365days
 tags:
+  - October
   - Lobelia
   - Flower of the day
   - Language of flowers

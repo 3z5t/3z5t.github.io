@@ -4,6 +4,7 @@ date: 2024-11-17
 description: Today's Flowers, Exploring the Language and Stories of Flowers Butterbur
 author: 365days
 tags:
+  - November
   - Butterbur
   - Flower of the day
   - Language of flowers

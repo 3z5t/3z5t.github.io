@@ -4,6 +4,7 @@ date: 2024-07-22
 description: Today's Flowers, Exploring the Language and Stories of Flowers Rainbow Pink
 author: 365days
 tags:
+  - July
   - Rainbow Pink
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-07-19
 description: 꽃말과 이야기로 보는 오늘의 꽃 백부자
 author: 365days
 tags:
+  - 7월
   - 백부자
   - 꽃말
   - 탄생화

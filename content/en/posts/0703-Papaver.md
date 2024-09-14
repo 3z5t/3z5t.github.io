@@ -4,6 +4,7 @@ date: 2024-07-03
 description: Today's Flowers, Exploring the Language and Stories of Flowers White Poppy
 author: 365days
 tags:
+  - July
   - White Poppy
   - Flower of the day
   - Language of flowers

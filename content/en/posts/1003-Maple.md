@@ -4,6 +4,7 @@ date: 2024-10-03
 description: Today's Flowers, Exploring the Language and Stories of Flowers Maple Tree
 author: 365days
 tags:
+  - October
   - Maple Tree
   - Flower of the day
   - Language of flowers

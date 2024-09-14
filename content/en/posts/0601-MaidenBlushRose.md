@@ -4,6 +4,7 @@ date: 2024-06-01
 description: Today's Flowers, Exploring the Language and Stories of Flowers Great Maiden’s Blush
 author: 365days
 tags:
+  - June
   - Great Maiden’s Blush
   - Flower of the day
   - Language of flowers

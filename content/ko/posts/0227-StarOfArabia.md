@@ -4,6 +4,7 @@ date: 2024-02-27
 description: 꽃말과 이야기로 보는 오늘의 꽃 아라비아의 별
 author: 365days
 tags:
+  - 2월
   - 아라비아의 별
   - 꽃말
   - 탄생화

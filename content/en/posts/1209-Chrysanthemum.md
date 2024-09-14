@@ -4,6 +4,7 @@ date: 2024-12-09
 description: Today's Flowers, Exploring the Language and Stories of Flowers Chrysanthemum
 author: 365days
 tags:
+  - December
   - Chrysanthemum
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-12-23
 description: 꽃말과 이야기로 보는 오늘의 꽃 플라타너스
 author: 365days
 tags:
+  - 12월
   - 플라타너스
   - 꽃말
   - 탄생화

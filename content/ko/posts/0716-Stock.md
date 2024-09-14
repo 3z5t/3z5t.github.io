@@ -4,6 +4,7 @@ date: 2024-07-16
 description: 꽃말과 이야기로 보는 오늘의 꽃 비단향꽃무
 author: 365days
 tags:
+  - 7월
   - 비단향꽃무
   - 꽃말
   - 탄생화

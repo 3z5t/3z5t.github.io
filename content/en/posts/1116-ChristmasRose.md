@@ -4,6 +4,7 @@ date: 2024-11-16
 description: Today's Flowers, Exploring the Language and Stories of Flowers Christmas Rose
 author: 365days
 tags:
+  - November
   - Christmas Rose
   - Flower of the day
   - Language of flowers

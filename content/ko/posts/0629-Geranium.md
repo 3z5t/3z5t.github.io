@@ -4,6 +4,7 @@ date: 2024-06-29
 description: 꽃말과 이야기로 보는 오늘의 꽃 빨강 제라늄
 author: 365days
 tags:
+  - 6월
   - 빨강 제라늄
   - 꽃말
   - 탄생화

@@ -4,6 +4,7 @@ date: 2024-12-29
 description: Today's Flowers, Exploring the Language and Stories of Flowers Bladder Cherry
 author: 365days
 tags:
+  - December
   - Bladder Cherry
   - Flower of the day
   - Language of flowers

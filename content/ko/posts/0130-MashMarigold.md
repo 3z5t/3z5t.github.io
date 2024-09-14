@@ -4,6 +4,7 @@ date: 2024-01-30
 description: 1월 30일의 탄생화 매쉬 메리골드(Mash Marigold), 꽃말과 이야기로 보는 오늘의 꽃
 author: 365days
 tags:
+  - 1월
   - 매쉬 메리골드
   - 1월 30일
   - 꽃말

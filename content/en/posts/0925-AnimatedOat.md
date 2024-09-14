@@ -4,6 +4,7 @@ date: 2024-09-25
 description: Today's Flowers, Exploring the Language and Stories of Flowers Animated Oat
 author: 365days
 tags:
+  - September
   - Animated Oat
   - Flower of the day
   - Language of flowers

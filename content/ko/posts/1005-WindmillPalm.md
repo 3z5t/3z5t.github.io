@@ -4,6 +4,7 @@ date: 2024-10-05
 description: 꽃말과 이야기로 보는 오늘의 꽃 종려나무
 author: 365days
 tags:
+  - 10월
   - 종려나무
   - 꽃말
   - 탄생화

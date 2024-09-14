@@ -4,6 +4,7 @@ date: 2024-07-17
 description: Today's Flowers, Exploring the Language and Stories of Flowers White Rose
 author: 365days
 tags:
+  - July
   - White Rose
   - Flower of the day
   - Language of flowers

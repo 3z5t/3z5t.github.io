@@ -4,6 +4,7 @@ date: 2024-07-02
 description: 꽃말과 이야기로 보는 오늘의 꽃 금어초
 author: 365days
 tags:
+  - 7월
   - 금어초
   - 꽃말
   - 탄생화

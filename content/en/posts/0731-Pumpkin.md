@@ -4,6 +4,7 @@ date: 2024-07-31
 description: Today's Flowers, Exploring the Language and Stories of Flowers Pumpkin
 author: 365days
 tags:
+  - July
   - Pumpkin
   - Flower of the day
   - Language of flowers

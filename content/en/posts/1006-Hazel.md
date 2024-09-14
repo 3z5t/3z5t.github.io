@@ -4,6 +4,7 @@ date: 2024-10-06
 description: Today's Flowers, Exploring the Language and Stories of Flowers Hazel Tree
 author: 365days
 tags:
+  - October
   - Hazel Tree
   - Flower of the day
   - Language of flowers

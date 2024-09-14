@@ -4,6 +4,7 @@ date: 2024-07-08
 description: Today's Flowers, Exploring the Language and Stories of Flowers Birdfoot
 author: 365days
 tags:
+  - July
   - Birdfoot
   - Flower of the day
   - Language of flowers

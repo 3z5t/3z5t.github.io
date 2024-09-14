@@ -4,6 +4,7 @@ date: 2024-10-13
 description: Today's Flowers, Exploring the Language and Stories of Flowers Bridal Wreath
 author: 365days
 tags:
+  - October
   - Bridal Wreath
   - Flower of the day
   - Language of flowers

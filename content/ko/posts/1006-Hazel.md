@@ -4,6 +4,7 @@ date: 2024-10-06
 description: 꽃말과 이야기로 보는 오늘의 꽃 개암나무
 author: 365days
 tags:
+  - 10월
   - 개암나무
   - 꽃말
   - 탄생화

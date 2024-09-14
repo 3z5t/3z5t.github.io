@@ -4,6 +4,7 @@ date: 2024-06-26
 description: Today's Flowers, Exploring the Language and Stories of Flowers White Lilac
 author: 365days
 tags:
+  - June
   - White Lilac
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-12-22
 description: Today's Flowers, Exploring the Language and Stories of Flowers Zinnia
 author: 365days
 tags:
+  - December
   - Zinnia
   - Flower of the day
   - Language of flowers

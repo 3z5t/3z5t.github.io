@@ -4,6 +4,7 @@ date: 2024-11-28
 description: Today's Flowers, Exploring the Language and Stories of Flowers China Aster
 author: 365days
 tags:
+  - November
   - China Aster
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-07-05
 description: Today's Flowers, Exploring the Language and Stories of Flowers Lavender
 author: 365days
 tags:
+  - July
   - Lavender
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-08-08
 description: 꽃말과 이야기로 보는 오늘의 꽃 진달래
 author: 365days
 tags:
+  - 8월
   - 진달래
   - 꽃말
   - 탄생화

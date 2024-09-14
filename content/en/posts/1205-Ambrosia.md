@@ -4,6 +4,7 @@ date: 2024-12-05
 description: Today's Flowers, Exploring the Language and Stories of Flowers Ambrosia
 author: 365days
 tags:
+  - December
   - Ambrosia
   - Flower of the day
   - Language of flowers

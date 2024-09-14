@@ -4,6 +4,7 @@ date: 2024-08-20
 description: Today's Flowers, Exploring the Language and Stories of Flowers Freesia
 author: 365days
 tags:
+  - August
   - Freesia
   - Flower of the day
   - Language of flowers

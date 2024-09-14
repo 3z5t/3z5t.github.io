@@ -4,6 +4,7 @@ date: 2024-10-18
 description: Today's Flowers, Exploring the Language and Stories of Flowers Cranberry
 author: 365days
 tags:
+  - October
   - Cranberry
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-10-27
 description: 花言葉と物語で見る今日の花 バラ（Briar Rose）
 author: 365days
 tags:
+  - 10月
   - バラ（Briar Rose）
   - 今日の花
   - 花言葉

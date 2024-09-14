@@ -4,6 +4,7 @@ date: 2024-07-04
 description: Today's Flowers, Exploring the Language and Stories of Flowers Lily Magnolia
 author: 365days
 tags:
+  - July
   - Lily Magnolia
   - Flower of the day
   - Language of flowers

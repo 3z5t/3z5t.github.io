@@ -4,6 +4,7 @@ date: 2024-06-07
 description: 꽃말과 이야기로 보는 오늘의 꽃 슈미트티아나
 author: 365days
 tags:
+  - 6월
   - 슈미트티아나
   - 꽃말
   - 탄생화

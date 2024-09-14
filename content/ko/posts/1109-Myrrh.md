@@ -4,6 +4,7 @@ date: 2024-11-09
 description: 꽃말과 이야기로 보는 오늘의 꽃 몰약꽃
 author: 365days
 tags:
+  - 11월
   - 몰약꽃
   - 꽃말
   - 탄생화

@@ -4,6 +4,7 @@ date: 2024-11-27
 description: Today's Flowers, Exploring the Language and Stories of Flowers Nutgall tree
 author: 365days
 tags:
+  - November
   - Nutgall tree
   - Flower of the day
   - Language of flowers

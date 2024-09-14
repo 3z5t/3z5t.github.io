@@ -4,6 +4,7 @@ date: 2024-07-25
 description: Today's Flowers, Exploring the Language and Stories of Flowers Elder
 author: 365days
 tags:
+  - July
   - Elder
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-10-31
 description: 花言葉と物語で見る今日の花 カラー
 author: 365days
 tags:
+  - 10月
   - カラー
   - 今日の花
   - 花言葉

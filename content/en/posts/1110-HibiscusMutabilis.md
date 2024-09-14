@@ -4,6 +4,7 @@ date: 2024-11-10
 description: Today's Flowers, Exploring the Language and Stories of Flowers Confederate Rose
 author: 365days
 tags:
+  - November
   - Confederate Rose
   - Flower of the day
   - Language of flowers

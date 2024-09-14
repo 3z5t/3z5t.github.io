@@ -4,6 +4,7 @@ date: 2024-08-18
 description: 꽃말과 이야기로 보는 오늘의 꽃 접시꽃
 author: 365days
 tags:
+  - 8월
   - 접시꽃
   - 꽃말
   - 탄생화

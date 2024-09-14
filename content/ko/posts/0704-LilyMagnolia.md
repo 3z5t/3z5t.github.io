@@ -4,6 +4,7 @@ date: 2024-07-04
 description: 꽃말과 이야기로 보는 오늘의 꽃 자목련
 author: 365days
 tags:
+  - 7월
   - 자목련
   - 꽃말
   - 탄생화

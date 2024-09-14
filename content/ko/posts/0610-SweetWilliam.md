@@ -4,6 +4,7 @@ date: 2024-06-10
 description: 꽃말과 이야기로 보는 오늘의 꽃 수염패랭이꽃
 author: 365days
 tags:
+  - 6월
   - 수염패랭이꽃
   - 꽃말
   - 탄생화

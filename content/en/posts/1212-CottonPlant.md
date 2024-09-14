@@ -4,6 +4,7 @@ date: 2024-12-12
 description: Today's Flowers, Exploring the Language and Stories of Flowers Cotton
 author: 365days
 tags:
+  - December
   - Cotton
   - Flower of the day
   - Language of flowers

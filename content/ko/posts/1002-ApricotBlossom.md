@@ -4,6 +4,7 @@ date: 2024-10-02
 description: 꽃말과 이야기로 보는 오늘의 꽃 살구꽃
 author: 365days
 tags:
+  - 10월
   - 살구꽃
   - 꽃말
   - 탄생화

@@ -4,6 +4,7 @@ date: 2024-11-02
 description: Today's Flowers, Exploring the Language and Stories of Flowers Lupin
 author: 365days
 tags:
+  - November
   - Lupin
   - Flower of the day
   - Language of flowers

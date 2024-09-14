@@ -4,6 +4,7 @@ date: 2024-06-19
 description: 花言葉と物語で見る今日の花 バラ（Sweet Brier）
 author: 365days
 tags:
+  - 6月
   - バラ（Sweet Brier）
   - 今日の花
   - 花言葉

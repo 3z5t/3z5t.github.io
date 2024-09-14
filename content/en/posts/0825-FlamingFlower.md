@@ -4,6 +4,7 @@ date: 2024-08-25
 description: Today's Flowers, Exploring the Language and Stories of Flowers Flaming Flower
 author: 365days
 tags:
+  - August
   - Flaming Flower
   - Flower of the day
   - Language of flowers

@@ -4,6 +4,7 @@ date: 2024-10-21
 description: Today's Flowers, Exploring the Language and Stories of Flowers Thistle
 author: 365days
 tags:
+  - October
   - Thistle
   - Flower of the day
   - Language of flowers

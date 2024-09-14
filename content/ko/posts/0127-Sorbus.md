@@ -4,6 +4,7 @@ date: 2024-01-27
 description: 1월 27일의 탄생화 마가목(Sorbus), 꽃말과 이야기로 보는 오늘의 꽃
 author: 365days
 tags:
+  - 1월
   - 마가목
   - 1월 27일
   - 꽃말

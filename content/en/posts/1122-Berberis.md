@@ -4,6 +4,7 @@ date: 2024-11-22
 description: Today's Flowers, Exploring the Language and Stories of Flowers Korean Barberry
 author: 365days
 tags:
+  - November
   - Korean Barberry
   - Flower of the day
   - Language of flowers

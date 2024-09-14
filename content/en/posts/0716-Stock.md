@@ -4,6 +4,7 @@ date: 2024-07-16
 description: Today's Flowers, Exploring the Language and Stories of Flowers Stock Flower
 author: 365days
 tags:
+  - July
   - Stock Flower
   - Flower of the day
   - Language of flowers

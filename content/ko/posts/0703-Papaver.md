@@ -4,6 +4,7 @@ date: 2024-07-03
 description: 꽃말과 이야기로 보는 오늘의 꽃 흰색 양귀비
 author: 365days
 tags:
+  - 7월
   - 흰색 양귀비
   - 꽃말
   - 탄생화

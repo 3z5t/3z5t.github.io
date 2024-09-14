@@ -4,6 +4,7 @@ date: 2024-11-20
 description: Today's Flowers, Exploring the Language and Stories of Flowers Bugloss
 author: 365days
 tags:
+  - November
   - Bugloss
   - Flower of the day
   - Language of flowers
