@@ -11,13 +11,10 @@ tags:
   - 9月15日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
-
-![大麗花的图片](#center)
-
-
+![다알리아의 이미지](https://images.unsplash.com/photo-1546842931-886c185b4c8c?q=80&w=1285&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D#center)
 ### 大丽花(Dahlia)的魅力：9月15日的花
 
 在花卉的世界里，有一种花以其绚丽的色彩和多样的形态吸引着我们的目光，那就是大丽花（Dahlia）。作为9月15日的生日花，大丽花不仅以其华丽的外表装点着我们的花园，更以其深刻的文化内涵触动着我们的心灵。让我们一起走进大丽花的世界，探索这朵"墨西哥之花"的秘密。

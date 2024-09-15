@@ -11,11 +11,11 @@ tags:
   - 9月16日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![龍膽的图片](#center)
+![용담의 이미지](https://cdn.pixabay.com/photo/2016/02/01/15/19/gentian-1173746_960_720.jpg#center)
 
 
 ### # 龙胆(Gentiana)的魅力：9月16日的花

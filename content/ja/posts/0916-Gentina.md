@@ -12,14 +12,10 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
-
-
-![リンドウのイメージ](#center)
-
-
+![용담의 이미지](https://cdn.pixabay.com/photo/2016/02/01/15/19/gentian-1173746_960_720.jpg#center)
 ## 9月16日の花：リンドウ（Gentiana）
 
 ## リンドウ（Gentiana）に関する説明

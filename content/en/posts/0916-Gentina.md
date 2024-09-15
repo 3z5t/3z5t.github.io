@@ -10,10 +10,10 @@ tags:
   - Language of flowers
   - September 16th
   - Flowers
-draft: true
+draft: false
 ---
 
-![image](#center)
+![용담의 이미지](https://cdn.pixabay.com/photo/2016/02/01/15/19/gentian-1173746_960_720.jpg#center)
 
 ## September 16th's Flower: Gentiana
 
