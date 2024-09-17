@@ -12,10 +12,10 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
-![エリカのイメージ](#center)
+![에리카의 이미지](https://cdn.pixabay.com/photo/2015/11/04/09/33/erika-1022165_960_720.jpg#center)
 
 
 ## 9月17日の花：エリカ（Heath）

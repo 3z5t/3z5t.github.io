@@ -11,12 +11,12 @@ tags:
   - 9月17日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
 
-![歐石楠的图片](#center)
+![에리카의 이미지](https://cdn.pixabay.com/photo/2015/11/04/09/33/erika-1022165_960_720.jpg#center)
 
 
 ### 欧石楠(Heath)的魅力：9月17日的花
