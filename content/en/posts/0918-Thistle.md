@@ -10,11 +10,11 @@ tags:
   - Language of flowers
   - September 18th
   - Flowers
-draft: true
+draft: false
 ---
 
 
-![image](#center)
+![엉겅퀴의 이미지](https://cdn.pixabay.com/photo/2018/07/05/02/49/thistle-3517440_1280.jpg#center)
 
 ## September 18th's Flower: Thistle
 

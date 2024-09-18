@@ -11,11 +11,11 @@ tags:
   - 9月18日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![薊的图片](#center)
+![엉겅퀴의 이미지](https://cdn.pixabay.com/photo/2018/07/05/02/49/thistle-3517440_1280.jpg#center)
 
 
 ### # 蓟(Thistle)的魅力：9月18日的花
