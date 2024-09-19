@@ -10,10 +10,10 @@ tags:
   - Language of flowers
   - September 19th
   - Flowers
-draft: true
+draft: false
 ---
 
-![image](#center)
+![사초의 이미지](https://cdn.pixabay.com/photo/2011/04/29/11/26/swamp-sedge-7118_960_720.jpg#center)
 
 ## September 19th's Flower: Carex
 

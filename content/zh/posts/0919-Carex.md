@@ -11,11 +11,11 @@ tags:
   - 9月19日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![薹草的图片](#center)
+![사초의 이미지](https://cdn.pixabay.com/photo/2011/04/29/11/26/swamp-sedge-7118_960_720.jpg#center)
 
 
 ## 薹草(Carex)的魅力：9月19日的花

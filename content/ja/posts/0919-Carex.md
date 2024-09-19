@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![スゲ属のイメージ](#center)
+![사초의 이미지](https://cdn.pixabay.com/photo/2011/04/29/11/26/swamp-sedge-7118_960_720.jpg#center)
 
 
 ## 9月19日の花：スゲ属（Carex）
