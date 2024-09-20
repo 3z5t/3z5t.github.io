@@ -10,11 +10,11 @@ tags:
   - Language of flowers
   - September 20th
   - Flowers
-draft: true
+draft: false
 ---
 
 
-![image](#center)
+![로즈메리의 이미지](https://cdn.pixabay.com/photo/2015/12/13/00/11/rosemary-1090419_1280.jpg#center)
 
 ## September 20th's Flower: Rosemary
 

@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![ローズマリーのイメージ](#center)
+![로즈메리의 이미지](https://cdn.pixabay.com/photo/2015/12/13/00/11/rosemary-1090419_1280.jpg#center)
 
 
 ## 9月20日の花：ローズマリー（Rosemary）
