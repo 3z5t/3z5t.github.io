@@ -10,11 +10,11 @@ tags:
   - Language of flowers
   - September 22nd
   - Flowers
-draft: true
+draft: false
 ---
 
 
-![image](#center)
+![방울새풀의 이미지](https://cdn.pixabay.com/photo/2017/06/30/13/13/hjertegrs-2458228_1280.jpg#center)
 
 ## September 22nd's Flower: Quaking Grass
 

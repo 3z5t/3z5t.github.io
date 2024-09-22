@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![コバンソウのイメージ](#center)
+![방울새풀의 이미지](https://cdn.pixabay.com/photo/2017/06/30/13/13/hjertegrs-2458228_1280.jpg#center)
 
 
 ## 9月22日の花：コバンソウ（Quaking Grass）
