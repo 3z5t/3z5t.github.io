@@ -10,11 +10,11 @@ tags:
   - Language of flowers
   - September 23rd
   - Flowers
-draft: true
+draft: false
 ---
 
 
-![image](#center)
+![주목의 이미지](https://cdn.pixabay.com/photo/2018/09/13/21/13/plant-3675760_960_720.jpg#center)
 
 ## September 23rd's Plant: Yew Tree
 

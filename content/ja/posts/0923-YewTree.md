@@ -12,10 +12,10 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
-![ヨーロッパイチイのイメージ](#center)
+![주목의 이미지](https://cdn.pixabay.com/photo/2018/09/13/21/13/plant-3675760_960_720.jpg#center)
 
 
 ## 9月23日の花：ヨーロッパイチイ（Yew Tree）
