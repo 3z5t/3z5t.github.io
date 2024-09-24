@@ -11,11 +11,11 @@ tags:
   - 9月24日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![橘子的图片](#center)
+![오렌지꽃의 이미지](https://cdn.pixabay.com/photo/2020/04/03/16/23/Orange-blossom-4999435_1280.jpg#center)
 
 
 ## 橘子花(Orange Blossom)的魅力：9月24日的花

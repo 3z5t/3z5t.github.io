@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![オレンジのイメージ](#center)
+![오렌지꽃의 이미지](https://cdn.pixabay.com/photo/2020/04/03/16/23/Orange-blossom-4999435_1280.jpg#center)
 
 
 ## 9月24日の花：オレンジ（Orange Blossom）

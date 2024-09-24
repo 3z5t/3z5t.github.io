@@ -10,11 +10,11 @@ tags:
   - Language of flowers
   - September 24th
   - Flowers
-draft: true
+draft: false
 ---
 
 
-![image](#center)
+![오렌지꽃의 이미지](https://cdn.pixabay.com/photo/2020/04/03/16/23/Orange-blossom-4999435_1280.jpg#center)
 
 ## September 24th's Flower: Orange Blossom
 
