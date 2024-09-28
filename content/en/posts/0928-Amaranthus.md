@@ -10,10 +10,11 @@ tags:
   - Language of flowers
   - September 28th
   - Flowers
-draft: true
+draft: false
 ---
 
-![image](#center)
+
+![색비름의 이미지](https://cdn.pixabay.com/photo/2017/09/20/19/42/foxtail-2769772_1280.jpg#center)
 
 ## September 28th's Flower: Amaranthus
 

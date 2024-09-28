@@ -11,12 +11,12 @@ tags:
   - 9月26日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
 
-![柿的图片](#center)
+![감의 이미지](https://cdn.pixabay.com/photo/2016/07/21/12/25/gamkkot-1532393_1280.jpg#center)
 
 
 ### 柿子(Date Plum)的魅力：9月26日的花

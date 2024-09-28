@@ -11,11 +11,12 @@ tags:
   - 9月28日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![雞冠花的图片](#center)
+
+![색비름의 이미지](https://cdn.pixabay.com/photo/2017/09/20/19/42/foxtail-2769772_1280.jpg#center)
 
 
 ## 鸡冠花(Amaranthus)的魅力：9月28日的花

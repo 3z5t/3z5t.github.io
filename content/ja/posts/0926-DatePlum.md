@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![カキのイメージ](#center)
+![감의 이미지](https://cdn.pixabay.com/photo/2016/07/21/12/25/gamkkot-1532393_1280.jpg#center)
 
 
 ## 9月26日の花：カキ（Date Plum）

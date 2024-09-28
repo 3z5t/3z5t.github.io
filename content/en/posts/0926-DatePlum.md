@@ -10,10 +10,10 @@ tags:
   - Language of flowers
   - September 26th
   - Flowers
-draft: true
+draft: false
 ---
 
-![image](#center)
+![감의 이미지](https://cdn.pixabay.com/photo/2016/07/21/12/25/gamkkot-1532393_1280.jpg#center)
 
 ## September 26th's Fruit: Date Plum
 

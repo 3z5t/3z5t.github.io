@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![カラスムギのイメージ](#center)
+![메귀리의 이미지](https://cdn.pixabay.com/photo/2017/06/21/08/27/barley-2426466_1280.jpg#center)
 
 
 ## 9月25日の花：カラスムギ（Animated Oat）

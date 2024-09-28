@@ -11,11 +11,11 @@ tags:
   - 9月25日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![野燕麥花的图片](#center)
+![메귀리의 이미지](https://cdn.pixabay.com/photo/2017/06/21/08/27/barley-2426466_1280.jpg#center)
 
 
 ## 野燕麦花(Animated Oat)的魅力：9月25日的花
