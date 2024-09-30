@@ -12,10 +12,10 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
-![スギのイメージ](#center)
+![삼나무의 이미지](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_1280.jpg#center)
 
 ## 9月30日の花：スギ（Cedar）
 

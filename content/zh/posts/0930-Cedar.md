@@ -11,11 +11,11 @@ tags:
   - 9月30日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![雪松的图片](#center)
+![삼나무의 이미지](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_1280.jpg#center)
 
 
 ## 雪松(Cedar)的魅力：9月30日的花

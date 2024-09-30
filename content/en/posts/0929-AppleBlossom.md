@@ -10,11 +10,11 @@ tags:
   - Language of flowers
   - September 29th
   - Flowers
-draft: true
+draft: false
 ---
 
 
-![image](#center)
+![사과꽃의 이미지](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_1280.jpg#center)
 
 ## September 29th's Flower: Apple Blossom
 

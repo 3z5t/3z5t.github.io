@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![リンゴのイメージ](#center)
+![사과꽃의 이미지](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_1280.jpg#center)
 
 
 ## 9月29日の花：リンゴ（Apple Blossom）

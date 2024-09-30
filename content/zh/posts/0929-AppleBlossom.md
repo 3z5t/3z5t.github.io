@@ -11,11 +11,11 @@ tags:
   - 9月29日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![蘋果的图片](#center)
+![사과꽃의 이미지](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_1280.jpg#center)
 
 
 ## 苹果花(Apple Blossom)的魅力：9月29日的花

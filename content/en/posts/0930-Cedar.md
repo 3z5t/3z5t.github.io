@@ -10,11 +10,11 @@ tags:
   - Language of flowers
   - September 30th
   - Flowers
-draft: true
+draft: false
 ---
 
 
-![image](#center)
+![삼나무의 이미지](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_1280.jpg#center)
 
 
 ## Cedar: The Majestic Guardian of September 30th
