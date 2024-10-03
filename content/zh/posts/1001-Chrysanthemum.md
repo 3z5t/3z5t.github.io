@@ -11,10 +11,10 @@ tags:
   - 10月1日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
-![紅菊花的图片](#center)
+![빨강 국화의 이미지](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_1280.jpg#center)
 
 
 ## 红菊花(Chrysanthemum)的魅力：10月1日的花

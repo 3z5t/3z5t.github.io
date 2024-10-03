@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![カエデのイメージ](#center)
+![단풍나무의 이미지](https://cdn.pixabay.com/photo/2020/11/08/13/12/autumn-leaves-5723700_960_720.jpg#center)
 
 
 ## 10月3日の花：カエデ（Maple）

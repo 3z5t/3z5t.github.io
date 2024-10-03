@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![キク（赤色）のイメージ](#center)
+![빨강 국화의 이미지](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_1280.jpg#center)
 
 
 ## 10月1日の花：キク（赤色）（Chrysanthemum）

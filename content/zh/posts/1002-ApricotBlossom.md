@@ -11,11 +11,11 @@ tags:
   - 10月2日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![杏的图片](#center)
+![살구꽃의 이미지](https://cdn.pixabay.com/photo/2018/02/20/16/15/flowers-3168025_1280.jpg#center)
 
 
 ## 杏花(Apricot Blossom)的魅力：10月2日的花

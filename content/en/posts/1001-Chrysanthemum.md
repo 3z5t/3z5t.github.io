@@ -10,10 +10,10 @@ tags:
   - Language of flowers
   - October 1st
   - Flowers
-draft: true
+draft: false
 ---
 
-![image](#center)
+![빨강 국화의 이미지](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_1280.jpg#center)
 ## Red Chrysanthemum: The Passionate Bloom of October 1st
 
 As autumn paints the world in vibrant hues, we turn our attention to a flower that perfectly embodies the season's fiery spirit - the Red Chrysanthemum. On October 1st, we celebrate this stunning bloom, a symbol of passion, longevity, and joy that has captivated hearts and minds across cultures for centuries.

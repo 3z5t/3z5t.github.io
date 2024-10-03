@@ -10,11 +10,11 @@ tags:
   - Language of flowers
   - October 2nd
   - Flowers
-draft: true
+draft: false
 ---
 
 
-![image](#center)
+![살구꽃의 이미지](https://cdn.pixabay.com/photo/2018/02/20/16/15/flowers-3168025_1280.jpg#center)
 
 ## Apricot Blossom: The Delicate Herald of Spring on October 2nd
 

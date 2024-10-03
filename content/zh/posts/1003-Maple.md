@@ -11,11 +11,11 @@ tags:
   - 10月3日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![楓樹的图片](#center)
+![단풍나무의 이미지](https://cdn.pixabay.com/photo/2020/11/08/13/12/autumn-leaves-5723700_960_720.jpg#center)
 
 
 ## 枫树(Maple)的魅力：10月3日的花

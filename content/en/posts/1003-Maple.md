@@ -10,11 +10,11 @@ tags:
   - Language of flowers
   - October 3rd
   - Flowers
-draft: true
+draft: false
 ---
 
 
-![image](#center)
+![단풍나무의 이미지](https://cdn.pixabay.com/photo/2020/11/08/13/12/autumn-leaves-5723700_960_720.jpg#center)
 
 ## Maple Tree: The Majestic Symbol of October 3rd
 

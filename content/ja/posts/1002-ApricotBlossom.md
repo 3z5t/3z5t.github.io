@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![アプリコットのイメージ](#center)
+![살구꽃의 이미지](https://cdn.pixabay.com/photo/2018/02/20/16/15/flowers-3168025_1280.jpg#center)
 
 
 ## 10月2日の花：アプリコット（Apricot Blossom）
