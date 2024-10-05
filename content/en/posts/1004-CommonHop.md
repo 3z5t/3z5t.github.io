@@ -10,12 +10,12 @@ tags:
   - Language of flowers
   - October 4th
   - Flowers
-draft: true
+draft: false
 ---
 
 
 
-![image](#center)
+![홉의 이미지](https://cdn.pixabay.com/photo/2014/08/04/18/12/hop-vines-409870_1280.jpg#center)
 
 ## Common Hop: The Unexpected Bloom of October 4th
 

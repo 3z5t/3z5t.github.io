@@ -10,10 +10,10 @@ tags:
   - Language of flowers
   - October 5th
   - Flowers
-draft: true
+draft: false
 ---
 
-![image](#center)
+![종려나무의 이미지](https://cdn.pixabay.com/photo/2020/08/02/16/33/palm-5458039_960_720.jpg#center)
 
 ## Palm Tree: The Iconic Symbol of October 5th
 

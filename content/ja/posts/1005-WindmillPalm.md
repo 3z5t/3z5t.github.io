@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![ヤシの木のイメージ](#center)
+![종려나무의 이미지](https://cdn.pixabay.com/photo/2020/08/02/16/33/palm-5458039_960_720.jpg#center)
 
 
 ## 10月5日の花：ヤシの木（Windmill Palm）

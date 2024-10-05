@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![ホップのイメージ](#center)
+![홉의 이미지](https://cdn.pixabay.com/photo/2014/08/04/18/12/hop-vines-409870_1280.jpg#center)
 
 
 ## 10月4日の花：ホップ（Common Hop）

@@ -11,10 +11,10 @@ tags:
   - 10月5日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
-![棕櫚樹的图片](#center)
+![종려나무의 이미지](https://cdn.pixabay.com/photo/2020/08/02/16/33/palm-5458039_960_720.jpg#center)
 
 
 ## 棕榈树(Windmill Palm)的魅力：10月5日的花

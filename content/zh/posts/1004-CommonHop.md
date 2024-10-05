@@ -11,11 +11,11 @@ tags:
   - 10月4日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![酒花的图片](#center)
+![홉의 이미지](https://cdn.pixabay.com/photo/2014/08/04/18/12/hop-vines-409870_1280.jpg#center)
 
 
 ## 酒花(Common Hop)的魅力：10月4日的花
