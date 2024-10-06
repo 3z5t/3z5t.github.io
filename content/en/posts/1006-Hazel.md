@@ -10,10 +10,10 @@ tags:
   - Language of flowers
   - October 6th
   - Flowers
-draft: true
+draft: false
 ---
 
-![image](#center)
+![개암나무의 이미지](https://cdn.pixabay.com/photo/2019/03/25/18/37/hazel-flowers-4081036_1280.jpg#center)
 
 ## Hazel Tree: The Magical Guardian of October 6th
 

@@ -11,11 +11,11 @@ tags:
   - 10月6日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![榛樹的图片](#center)
+![개암나무의 이미지](https://cdn.pixabay.com/photo/2019/03/25/18/37/hazel-flowers-4081036_1280.jpg#center)
 
 
 ## 榛树(Hazel)的魅力：10月6日的花

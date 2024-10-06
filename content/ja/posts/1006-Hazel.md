@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![ハシバミのイメージ](#center)
+![개암나무의 이미지](https://cdn.pixabay.com/photo/2019/03/25/18/37/hazel-flowers-4081036_1280.jpg#center)
 
 
 ## 10月6日の花：ハシバミ（Hazel）
