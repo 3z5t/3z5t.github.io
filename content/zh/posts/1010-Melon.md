@@ -11,10 +11,10 @@ tags:
   - 10月10日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
-![甜瓜的图片](#center)
+![멜론의 이미지](https://cdn.pixabay.com/photo/2022/04/01/14/43/melon-flower-7104975_1280.jpg#center)
 
 
 ## 甜瓜(Melon)的魅力：10月10日的花

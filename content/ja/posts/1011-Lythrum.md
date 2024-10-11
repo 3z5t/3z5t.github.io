@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![ミソハギのイメージ](#center)
+![부처꽃의 이미지](https://cdn.pixabay.com/photo/2019/07/15/12/11/ordinary-loosestrife-4339197_1280.jpg#center)
 
 
 ## 10月11日の花：ミソハギ（Lythrum）

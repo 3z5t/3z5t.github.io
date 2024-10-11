@@ -10,10 +10,10 @@ tags:
   - Language of flowers
   - October 11th
   - Flowers
-draft: true
+draft: false
 ---
 
-![image](#center)
+![부처꽃의 이미지](https://cdn.pixabay.com/photo/2019/07/15/12/11/ordinary-loosestrife-4339197_1280.jpg#center)
 
 ## Lythrum: The Vibrant Beauty of October 11th
 

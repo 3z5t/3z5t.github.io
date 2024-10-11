@@ -10,10 +10,10 @@ tags:
   - Language of flowers
   - October 9th
   - Flowers
-draft: true
+draft: false
 ---
 
-![image](#center)
+![회향의 이미지](https://cdn.pixabay.com/photo/2018/07/26/18/15/fennel-3564229_1280.jpg#center)
 
 
 ## Fennel: The Aromatic Wonder of October 9th

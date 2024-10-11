@@ -11,11 +11,11 @@ tags:
   - 10月11日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![天琴佛花的图片](#center)
+![부처꽃의 이미지](https://cdn.pixabay.com/photo/2019/07/15/12/11/ordinary-loosestrife-4339197_1280.jpg#center)
 
 
 ## 天琴佛花(Lythrum)的魅力：10月11日的花

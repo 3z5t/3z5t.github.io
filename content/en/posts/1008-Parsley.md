@@ -10,11 +10,11 @@ tags:
   - Language of flowers
   - October 8th
   - Flowers
-draft: true
+draft: false
 ---
 
 
-![image](#center)
+![파슬리의 이미지](https://cdn.pixabay.com/photo/2022/06/05/13/57/cow-parsley-7244120_1280.jpg#center)
 ## Parsley: The Versatile Herb of October 8th
 
 As autumn settles in and gardens transition, we turn our attention to a plant that bridges the gap between culinary herb and ornamental beauty - Parsley. On October 8th, we celebrate this versatile and often underappreciated plant, exploring its rich history, symbolic meanings, and the subtle charm of its delicate flowers.

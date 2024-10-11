@@ -12,10 +12,10 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
-![パセリのイメージ](#center)
+![파슬리의 이미지](https://cdn.pixabay.com/photo/2022/06/05/13/57/cow-parsley-7244120_1280.jpg#center)
 
 
 ## 10月8日の花：パセリ（Parsley）

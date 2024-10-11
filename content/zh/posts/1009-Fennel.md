@@ -11,10 +11,10 @@ tags:
   - 10月9日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
-![茴香的图片](#center)
+![회향의 이미지](https://cdn.pixabay.com/photo/2018/07/26/18/15/fennel-3564229_1280.jpg#center)
 
 
 ## 茴香(Fennel)的魅力：10月9日的花

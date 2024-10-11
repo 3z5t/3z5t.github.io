@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![ウイキョウのイメージ](#center)
+![회향의 이미지](https://cdn.pixabay.com/photo/2018/07/26/18/15/fennel-3564229_1280.jpg#center)
 
 
 ## 10月9日の花：ウイキョウ（Fennel）

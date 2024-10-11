@@ -11,11 +11,11 @@ tags:
   - 10月8日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![香芹的图片](#center)
+![파슬리의 이미지](https://cdn.pixabay.com/photo/2022/06/05/13/57/cow-parsley-7244120_1280.jpg#center)
 
 
 ## 香芹(Parsley)的魅力：10月8日的花
