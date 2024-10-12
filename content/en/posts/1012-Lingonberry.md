@@ -10,11 +10,11 @@ tags:
   - Language of flowers
   - October 12th
   - Flowers
-draft: true
+draft: false
 ---
 
 
-![image](#center)
+![월귤의 이미지](https://cdn.pixabay.com/photo/2018/12/24/21/48/lingonberry-twig-3893546_1280.jpg#center)
 
 ## Lingonberry: The Resilient Gem of October 12th
 

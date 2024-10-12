@@ -11,10 +11,10 @@ tags:
   - 10月12日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
-![月橘的图片](#center)
+![월귤의 이미지](https://cdn.pixabay.com/photo/2018/12/24/21/48/lingonberry-twig-3893546_1280.jpg#center)
 
 
 ## 月橘(Lingonberry)的魅力：10月12日的花

@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![ビルベリーのイメージ](#center)
+![월귤의 이미지](https://cdn.pixabay.com/photo/2018/12/24/21/48/lingonberry-twig-3893546_1280.jpg#center)
 
 
 ## 10月12日の花：ビルベリー（Lingonberry）
