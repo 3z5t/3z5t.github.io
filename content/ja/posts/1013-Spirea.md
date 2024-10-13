@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![ユキヤナギのイメージ](#center)
+![조팝나무의 이미지](https://cdn.pixabay.com/photo/2020/04/21/04/50/meadowsweet-trees-5070844_1280.jpg#center)
 
 
 ## 10月13日の花：ユキヤナギ（Spirea）

@@ -11,10 +11,10 @@ tags:
   - 10月13日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
-![笑靨花的图片](#center)
+![조팝나무의 이미지](https://cdn.pixabay.com/photo/2020/04/21/04/50/meadowsweet-trees-5070844_1280.jpg#center)
 
 
 ## 笑靨花(Spirea)的魅力：10月13日的花
