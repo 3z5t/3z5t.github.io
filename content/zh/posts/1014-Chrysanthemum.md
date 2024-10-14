@@ -11,11 +11,11 @@ tags:
   - 10月14日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![白菊花的图片](#center)
+![흰색 국화의 이미지](https://cdn.pixabay.com/photo/2022/08/17/15/21/flower-7392770_1280.jpg#center)
 
 
 ## 白菊花(Chrysanthemum)的魅力：10月14日的花

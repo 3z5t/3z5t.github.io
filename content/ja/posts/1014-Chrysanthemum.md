@@ -12,10 +12,10 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
-![キク（白色）のイメージ](#center)
+![흰색 국화의 이미지](https://cdn.pixabay.com/photo/2022/08/17/15/21/flower-7392770_1280.jpg#center)
 
 
 ## 10月14日の花：キク（白色）（Chrysanthemum）

@@ -10,10 +10,10 @@ tags:
   - Language of flowers
   - October 14th
   - Flowers
-draft: true
+draft: false
 ---
 
-![image](#center)
+![흰색 국화의 이미지](https://cdn.pixabay.com/photo/2022/08/17/15/21/flower-7392770_1280.jpg#center)
 
 ## White Chrysanthemum: The Elegant Sentinel of October 14th
 
