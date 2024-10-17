@@ -10,10 +10,10 @@ tags:
   - Language of flowers
   - October 17th
   - Flowers
-draft: true
+draft: false
 ---
 
-![image](#center)
+![포도의 이미지](https://cdn.pixabay.com/photo/2020/01/16/13/46/grapes-4770606_1280.jpg#center)
 
 ## Grape: The Fruitful Wonder of October 17th
 

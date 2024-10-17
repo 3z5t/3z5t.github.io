@@ -10,10 +10,10 @@ tags:
   - Language of flowers
   - October 15th
   - Flowers
-draft: true
+draft: false
 ---
 
-![image](#center)
+![스위트 바질의 이미지](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_1280.jpg#center)
 
 ## Sweet Basil: The Aromatic Wonder of October 15th
 

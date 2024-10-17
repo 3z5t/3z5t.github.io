@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![ブドウのイメージ](#center)
+![포도의 이미지](https://cdn.pixabay.com/photo/2020/01/16/13/46/grapes-4770606_1280.jpg#center)
 
 
 ## 10月17日の花：ブドウ（Grape）

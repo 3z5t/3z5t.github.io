@@ -11,11 +11,11 @@ tags:
   - 10月17日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![葡萄的图片](#center)
+![포도의 이미지](https://cdn.pixabay.com/photo/2020/01/16/13/46/grapes-4770606_1280.jpg#center)
 
 
 ### 葡萄（Grape）的描述

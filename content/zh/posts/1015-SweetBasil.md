@@ -11,10 +11,10 @@ tags:
   - 10月15日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
-![甜羅勒的图片](#center)
+![스위트 바질의 이미지](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_1280.jpg#center)
 
 
 ## 甜罗勒(Sweet Basil)的魅力：10月15日的花

@@ -11,10 +11,10 @@ tags:
   - 10月16日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
-![苔蘚玫瑰的图片](#center)
+![이끼장미의 이미지](https://images.unsplash.com/photo-1624717124877-aa0ff85d8077?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D#center)
 
 
 ## 苔藓玫瑰(Moss Rose)的魅力：10月16日的花
