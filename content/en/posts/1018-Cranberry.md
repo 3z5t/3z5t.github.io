@@ -10,11 +10,11 @@ tags:
   - Language of flowers
   - October 18th
   - Flowers
-draft: true
+draft: false
 ---
 
 
-![image](#center)
+![크랜베리의 이미지](https://cdn.pixabay.com/photo/2019/12/13/05/42/cranberry-4692230_960_720.jpg#center)
 
 ## Cranberry: The Tart Jewel of October 18th
 

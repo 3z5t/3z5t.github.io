@@ -11,10 +11,10 @@ tags:
   - 10月18日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
-![蔓越梅的图片](#center)
+![크랜베리의 이미지](https://cdn.pixabay.com/photo/2019/12/13/05/42/cranberry-4692230_960_720.jpg#center)
 
 
 ## 蔓越梅：10月18日的花卉明星

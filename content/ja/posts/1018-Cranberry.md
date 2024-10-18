@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![クランベリーのイメージ](#center)
+![크랜베리의 이미지](https://cdn.pixabay.com/photo/2019/12/13/05/42/cranberry-4692230_960_720.jpg#center)
 
 
 ## 10月18日の花：クランベリー（Cranberry）
