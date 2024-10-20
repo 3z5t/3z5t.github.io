@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![アサのイメージ](#center)
+![마의 이미지](https://cdn.pixabay.com/photo/2015/11/25/20/43/seedling-1062908_1280.jpg#center)
 
 
 ## 10月20日の花：アサ（Indian Hemp）

@@ -11,12 +11,12 @@ tags:
   - 10月19日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
 
-![鳳仙花的图片](#center)
+![빨강 봉선화의 이미지](https://images.unsplash.com/photo-1652360474021-26d8aa68d7c1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D#center)
 
 
 ## 凤仙花：10月19日的花卉精灵

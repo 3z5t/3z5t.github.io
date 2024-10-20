@@ -11,10 +11,10 @@ tags:
   - 10月20日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
-![山藥的图片](#center)
+![마의 이미지](https://cdn.pixabay.com/photo/2015/11/25/20/43/seedling-1062908_1280.jpg#center)
 
 
 ## 山药（Indian Hemp）：10月20日的神秘之花

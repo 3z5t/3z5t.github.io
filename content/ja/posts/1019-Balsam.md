@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![ホウセンカ（赤色）のイメージ](#center)
+![빨강 봉선화의 이미지](https://images.unsplash.com/photo-1652360474021-26d8aa68d7c1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D#center)
 
 
 ## 10月19日の花：ホウセンカ（赤色）（Balsam）

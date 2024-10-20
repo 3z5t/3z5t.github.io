@@ -10,11 +10,11 @@ tags:
   - Language of flowers
   - October 20th
   - Flowers
-draft: true
+draft: false
 ---
 
 
-![image](#center)
+![마의 이미지](https://cdn.pixabay.com/photo/2015/11/25/20/43/seedling-1062908_1280.jpg#center)
 
 ## Yam: The Underground Wonder of October 20th
 
