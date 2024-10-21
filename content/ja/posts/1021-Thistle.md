@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![アザミのイメージ](#center)
+![엉겅퀴의 이미지](https://cdn.pixabay.com/photo/2019/07/03/16/36/meadow-4314990_960_720.jpg#center)
 
 
 ## 10月21日の花：アザミ（Thistle）

@@ -10,11 +10,11 @@ tags:
   - Language of flowers
   - October 21st
   - Flowers
-draft: true
+draft: false
 ---
 
 
-![image](#center)
+![엉겅퀴의 이미지](https://cdn.pixabay.com/photo/2019/07/03/16/36/meadow-4314990_960_720.jpg#center)
 ## Thistle: The Noble Defender of October 21st
 
 As autumn's golden hues deepen and the air grows crisp, we turn our attention to a plant that stands proud and defiant against the changing seasons - the Thistle. On October 21st, we celebrate this iconic bloom, exploring its unique characteristics, rich symbolism, and the profound impact it has had on cultures around the world.

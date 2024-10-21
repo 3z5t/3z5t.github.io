@@ -11,11 +11,11 @@ tags:
   - 10月21日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![薊花的图片](#center)
+![엉겅퀴의 이미지](https://cdn.pixabay.com/photo/2019/07/03/16/36/meadow-4314990_960_720.jpg#center)
 
 
 ## 薊花（Thistle）：10月21日的倔强绽放
