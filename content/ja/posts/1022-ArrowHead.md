@@ -12,11 +12,11 @@ tags:
   - 花
   - 花の言葉
   - 韓国の誕生花
-draft: true
+draft: false
 ---
 
 
-![オモダカのイメージ](#center)
+![벗풀의 이미지](https://cdn.pixabay.com/photo/2018/06/11/19/14/arrowhead-3469144_1280.jpg#center)
 
 
 ## 10月22日の花：オモダカ（Arrowhead）

@@ -11,11 +11,11 @@ tags:
   - 10月22日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![茨菰的图片](#center)
+![벗풀의 이미지](https://cdn.pixabay.com/photo/2018/06/11/19/14/arrowhead-3469144_1280.jpg#center)
 
 
 ## 茨菰（Arrowhead）：10月22日的水中精灵
