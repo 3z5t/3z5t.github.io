@@ -10,11 +10,11 @@ tags:
   - Language of flowers
   - October 23rd
   - Flowers
-draft: true
+draft: false
 ---
 
 
-![image](#center)
+![흰독말풀의 이미지](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_1280.jpg#center)
 
 ## Datura metel: The Mysterious Moonflower of October 23rd
 

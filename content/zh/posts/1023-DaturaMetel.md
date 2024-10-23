@@ -11,11 +11,11 @@ tags:
   - 10月23日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![曼陀羅的图片](#center)
+![흰독말풀의 이미지](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_1280.jpg#center)
 
 
 ## 曼陀罗（Datura Metel）：10月23日的神秘之花
