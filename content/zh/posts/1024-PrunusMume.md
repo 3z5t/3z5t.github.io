@@ -11,11 +11,11 @@ tags:
   - 10月24日
   - 花卉
   - 花的语言
-draft: true
+draft: false
 ---
 
 
-![梅花的图片](#center)
+![매화의 이미지](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_1280.jpg#center)
 
 
 ## 梅花（Prunus Mume）：10月24日的高贵绽放

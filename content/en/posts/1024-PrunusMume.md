@@ -10,10 +10,10 @@ tags:
   - Language of flowers
   - October 24th
   - Flowers
-draft: true
+draft: false
 ---
 
-![image](#center)
+![매화의 이미지](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_1280.jpg#center)
 
 
 ## Chinese Plum: The Winter's Herald of October 24th
