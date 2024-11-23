@@ -94,6 +94,6 @@ jobs:
       - name: Submit sitemap to IndexNow using indexnow-action
         uses: bojieyang/indexnow-action@v2
         with:
-          sitemap-location: 'https://thebigestwhale.github.io/indexnowtest/sitemap.xml' # 동적 URL 사용!
+          sitemap-location: 'https://3z.github.io/sitemap.xml' # 동적 URL 사용!
           key: ${{ secrets.INDEXNOW_KEY }}
           limit: 1000
