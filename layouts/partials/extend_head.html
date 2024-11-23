@@ -1,0 +1,20 @@
+{{ if or .Params.math .Site.Params.math }}
+{{ partial "math.html" . }}
+{{ end }}
+
+{{ with .OutputFormats.Get "rss" -}}
+{{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+{{ end }}
+
+
+<!-- Google Ads 스크립트 (비동기 로드) -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2475873789030046"
+     crossorigin="anonymous"></script>
+
+<!-- Google Fonts 로드 -->    
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1&family=Noto+Sans+SC:wght@400&display=swap" rel="stylesheet">
+
+<!-- Yandex 소유권 확인 메타 태그 -->
+<meta name="yandex-verification" content="140abe1c0e14be36" />

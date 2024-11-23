@@ -1,0 +1,252 @@
+baseURL: https://3z5t.github.io/
+languageCode: ko
+title: 365일의 모든 것
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: G-Z9YS4R0QDW
+
+module:
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod
+
+outputs:
+  home:
+    - html
+    - rss
+    - json
+  section:
+    - html
+    - rss
+  taxonomy:
+    - html
+  term:
+    - html
+
+sitemap:
+  changefreq: daily
+  priority: 0.5
+  filename: sitemap.xml
+  
+services:
+  rss:
+    limit: 42
+
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  assets:
+    disableHLJS: true
+
+  env: production
+  title: 365days of all
+  description: 365일에 대한 모든 것들을 알려드릴게요
+  keywords: [blog]
+  author: 365days
+  DateFormat: January 2, 2006
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  profileMode:
+    enabled: true
+    title: 365 days of all
+    subtitle: 365days
+    imageURL: https://images.unsplash.com/photo-1635492491273-455af7728453?q=80&w=1320&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    imageWidth: 250
+    imageHeight: 250
+
+  # socialIcons:
+  #   - name: email
+  #     url: "mailto:orousoultzoglou@gmail.com"
+  #   - name: github
+  #     url: "https://github.com/xlxs4/"
+  #   - name: cv
+  #     url: "https://xlxs4.com/files/cv.pdf"
+  #   - name: linkedin
+  #     url: "https://www.linkedin.com/in/orestis-ousoultzoglou/"
+  #   - name: mastodon
+  #     url: "https://fosstodon.org/@xlxs4"
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  UseHugoToc: true
+
+  homeInfoParams:
+    Title: 365일
+    Content: will see...
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  highlight:
+    anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    noClasses: false    
+
+defaultContentLanguage: ko
+defaultContentLanguageInSubdir: false
+languages:
+  ko:
+    weight: 1
+    languageName: 한국어
+    languageCode: ko
+    contentDir: content/ko/
+    title: 365일의 모든 것
+    menu:
+      main:
+        - name: 게시글
+          url: /posts/
+          weight: 4
+        - name: 아카이브
+          url: /archives/
+          weight: 5
+        - name: 검색
+          url: /search/
+          weight: 10
+        - name: 태그
+          url: /tags/
+          weight: 10
+        - name: 소개
+          url: /about/
+          weight: 15
+  en:
+    weight: 2
+    languageName: English
+    languageCode: en
+    contentDir: content/en/
+    title: Everything of 365 Days
+    menu:
+      main:
+        - name: Posts
+          url: /posts/
+          weight: 4
+        - name: Archive
+          url: /archives/
+          weight: 5
+        - name: Search
+          url: /search/
+          weight: 10
+        - name: Tags
+          url: /tags/
+          weight: 10
+        - name: About
+          url: en/about/
+          weight: 15
+  ja:
+    weight: 3
+    languageName: 日本語
+    languageCode: ja
+    contentDir: content/ja/
+    title: 365日のすべて
+    menu:
+      main:
+        - name: 投稿
+          url: /posts/
+          weight: 4
+        - name: アーカイブ
+          url: /archives/
+          weight: 5
+        - name: 検索
+          url: /search/
+          weight: 10
+        - name: タグ
+          url: /tags/
+          weight: 10
+        - name: について
+          url: ja/about/
+          weight: 15
+  zh:
+    weight: 4
+    languageName: 中國語
+    languageCode: zh
+    contentDir: content/zh/
+    title: 365 天的一切
+    menu:
+      main:
+        - name: 帖子
+          url: /posts/
+          weight: 4
+        - name: 档案馆
+          url: /archives/
+          weight: 5
+        - name: 搜寻
+          url: /search/
+          weight: 10
+        - name: 标记
+          url: /tags/
+          weight: 10
+        - name: 大约
+          url: zh/about/
+          weight: 15
+  es:
+    weight: 5
+    languageName: Español
+    languageCode: es
+    contentDir: content/es/
+    title: Todo sobre los 365 Días
+    menu:
+      main:
+        - name: Publicaciones
+          url: /posts/
+          weight: 4
+        - name: Archivo
+          url: /archives/
+          weight: 5
+        - name: Buscar
+          url: /search/
+          weight: 10
+        - name: Etiquetas
+          url: /tags/
+          weight: 10
+        - name: Acerca de
+          url: es/about/
+          weight: 15
+  fr:
+    weight: 6
+    languageName: Français
+    languageCode: fr
+    contentDir: content/fr/
+    title: Les Merveilles des 365 Jours
+    menu:
+      main:
+        - name: Articles
+          url: /posts/
+          weight: 4
+        - name: Archives
+          url: /archives/
+          weight: 5
+        - name: Recherche
+          url: /search/
+          weight: 10
+        - name: Étiquettes
+          url: /tags/
+          weight: 10
+        - name: À propos
+          url: /about/
+          weight: 15
