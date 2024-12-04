@@ -16,7 +16,7 @@ draft: false
 ![조팝나물의 이미지](https://cdn.pixabay.com/photo/2013/08/30/10/53/alpine-hawkweed-177284_1280.jpg#center)
 
 
-## 6월 16일 탄생화: 조밥나물 (Hieracium)
+## 5월 16일 탄생화: 조밥나물 (Hieracium)
 
 ### 조밥나물에 대한 설명
 
