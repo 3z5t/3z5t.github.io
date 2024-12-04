@@ -192,7 +192,7 @@ languages:
         - name: 帖子
           url: /posts/
           weight: 4
-        - name: 档案馆
+        - name: 档案
           url: /archives/
           weight: 5
         - name: 搜寻
@@ -248,5 +248,28 @@ languages:
           url: /tags/
           weight: 10
         - name: À propos
+          url: /about/
+          weight: 15
+  ru:
+    weight: 7
+    languageName: Русский
+    languageCode: ru
+    contentDir: content/ru/
+    title: Всё о 365 Днях
+    menu:
+      main:
+        - name: Публикации
+          url: /posts/
+          weight: 4
+        - name: Архив
+          url: /archives/
+          weight: 5
+        - name: Поиск
+          url: /search/
+          weight: 10
+        - name: Теги
+          url: /tags/
+          weight: 10
+        - name: О сайте
           url: /about/
           weight: 15

@@ -5,27 +5,6 @@
     font-style: normal;
 }
 
-@font-face {
-    font-family: 'omyu_pretty';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-01@1.0/omyu_pretty.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'NanumSquareNeo-Variable';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/NanumSquareNeo-Variable.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-}
-
-
-@font-face {
-    font-family: 'NEXON Lv1 Gothic OTF';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
 
 
 @font-face {
@@ -35,13 +14,18 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'SF_HailSnow';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/SF_HailSnow.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 
 :root {
     --default-font: 'KOMACON', sans-serif;
     --body-font: 'Pretendard-Regular', sans-serif;
-    --code-font: 'NEXON Lv1 Gothic OTF', sans-serif;
-    --japanese-font: 'Kiwi+Maru', sans-serif;
-    --handwriting-font: 'omyu_pretty', sans-serif;
+    --code-font: 'SF_HailSnow', sans-serif;
   }
  
 
@@ -60,7 +44,7 @@ header {
 
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: var(--default-font), var(--japanese-font), sans-serif ;
+    font-family: var(--default-font), sans-serif ;
     font-weight: bold ;
 }
 

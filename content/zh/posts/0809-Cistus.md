@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![岩薔薇的图片](https://cdn.pixabay.com/photo/2019/05/31/19/52/cistus-4242872_1280.jpg#center)
+![岩薔薇的图片](https://cdn.pixabay.com/photo/2020/04/13/16/49/laden-5039229_1280.jpg#center)
 
 
 ## 岩薔薇的描述
