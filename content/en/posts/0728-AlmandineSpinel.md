@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-{{< youtube id="Aqw0CzhljFA" >}}
+{{< youtube id="gdtmbMHIie4" >}}
 
 ## Birthstone for July 28th: Almandine Spinel
 

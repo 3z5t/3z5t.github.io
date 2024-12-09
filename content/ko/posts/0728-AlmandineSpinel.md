@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-{{< youtube id="Aqw0CzhljFA" >}}
+{{< youtube id="gdtmbMHIie4" >}}
 
 ## 7월 28일의 탄생석: 알만딘 스피넬
 
