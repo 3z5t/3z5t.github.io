@@ -248,7 +248,7 @@ languages:
           url: /tags/
           weight: 10
         - name: À propos
-          url: /about/
+          url: fr/about/
           weight: 15
   ru:
     weight: 7
@@ -271,5 +271,28 @@ languages:
           url: /tags/
           weight: 10
         - name: О сайте
-          url: /about/
+          url: ru/about/
+          weight: 15
+  pt:
+    weight: 8
+    languageName: Português
+    languageCode: pt
+    contentDir: content/pt/
+    title: Tudo sobre 365 Dias
+    menu:
+      main:
+        - name: Publicações
+          url: /posts/
+          weight: 4
+        - name: Arquivo
+          url: /archives/
+          weight: 5
+        - name: Pesquisa
+          url: /search/
+          weight: 10
+        - name: Tags
+          url: /tags/
+          weight: 10
+        - name: Sobre
+          url: pt/about/
           weight: 15
