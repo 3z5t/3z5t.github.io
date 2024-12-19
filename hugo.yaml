@@ -296,3 +296,26 @@ languages:
         - name: Sobre
           url: pt/about/
           weight: 15
+  cs:
+    weight: 9
+    languageName: Čeština
+    languageCode: cs
+    contentDir: content/cs/
+    title: Vše o 365 dnech
+    menu:
+      main:
+        - name: Příspěvky
+          url: /posts/
+          weight: 4
+        - name: Archiv
+          url: /archives/
+          weight: 5
+        - name: Vyhledávání
+          url: /search/
+          weight: 10
+        - name: Štítky
+          url: /tags/
+          weight: 10
+        - name: O nás
+          url: cs/about/
+          weight: 15
