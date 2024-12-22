@@ -319,3 +319,26 @@ languages:
         - name: O nás
           url: cs/about/
           weight: 15
+  de:
+    weight: 10
+    languageName: Deutsch
+    languageCode: de
+    contentDir: content/de/
+    title: Alles über 365 Tage
+    menu:
+      main:
+        - name: Beiträge
+          url: /posts/
+          weight: 4
+        - name: Archiv
+          url: /archives/
+          weight: 5
+        - name: Suche
+          url: /search/
+          weight: 10
+        - name: Tags
+          url: /tags/
+          weight: 10
+        - name: Über uns
+          url: de/about/
+          weight: 15
