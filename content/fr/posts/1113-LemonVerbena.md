@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Verveine citronnelle](https://cdn.pixabay.com/photo/2013/01/08/01/25/lemon-verbena-74349_1280.jpg#center)
+![Image de Verveine citronnelle](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_1280.jpg#center)
 
 
 ## Portrait botanique de Verveine citronnelle
