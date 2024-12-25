@@ -63,15 +63,15 @@ params:
 
   # socialIcons:
   #   - name: email
-  #     url: "mailto:orousoultzoglou@gmail.com"
+  #     url: "mailto:"
   #   - name: github
-  #     url: "https://github.com/xlxs4/"
+  #     url: "https://github.com/"
   #   - name: cv
-  #     url: "https://xlxs4.com/files/cv.pdf"
+  #     url: "https://xlxs4.com/"
   #   - name: linkedin
-  #     url: "https://www.linkedin.com/in/orestis-ousoultzoglou/"
+  #     url: "https://"
   #   - name: mastodon
-  #     url: "https://fosstodon.org/@xlxs4"
+  #     url: "https://"
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -341,4 +341,27 @@ languages:
           weight: 10
         - name: Über uns
           url: de/about/
+          weight: 15
+  ar:
+    weight: 11
+    languageName: العربية
+    languageCode: ar
+    contentDir: content/ar/
+    title: كل شيء عن ٣٦٥ يوماً
+    menu:
+      main:
+        - name: المنشورات
+          url: /ar/posts/
+          weight: 4
+        - name: الأرشيف
+          url: /ar/archives/
+          weight: 5
+        - name: البحث
+          url: /ar/search/
+          weight: 10
+        - name: الوسوم
+          url: /ar/tags/
+          weight: 10
+        - name: حول
+          url: /ar/about/
           weight: 15
