@@ -85,3 +85,7 @@ pre code {
 :lang(zh) {
     font-family: 'Noto Sans SC', sans-serif; 
 }
+
+:lang(ar) {
+    font-family: 'Vazirmatn', sans-serif; 
+}
