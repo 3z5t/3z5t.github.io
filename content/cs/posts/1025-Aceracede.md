@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Červený císařský javor](https://cdn.pixabay.com/photo/2016/12/22/03/34/red-leaves-1924443_1280.jpg#center)
+![Obrázek Červený císařský javor](https://cdn.pixabay.com/photo/2016/12/22/03/34/red-leaves-1924443_640.jpg#center)
 
 
 ## 25. října – Narozeninová květina: Červený císařský javor

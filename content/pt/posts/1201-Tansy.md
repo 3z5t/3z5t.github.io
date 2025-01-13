@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Tanaceto](https://cdn.pixabay.com/photo/2016/02/08/14/43/tansy-1186677_1280.jpg#center)
+![Imagem de Tanaceto](https://cdn.pixabay.com/photo/2016/02/08/14/43/tansy-1186677_640.jpg#center)
 
 
 ## Flor de nascimento de 1 de dezembro: Tanaceto

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![자목련의 이미지](https://cdn.pixabay.com/photo/2023/04/24/10/17/flowers-7947730_1280.jpg#center)
+![자목련의 이미지](https://cdn.pixabay.com/photo/2023/04/24/10/17/flowers-7947730_640.jpg#center)
 
 
 ### 자목련(Lily Magnolia)에 대한 설명

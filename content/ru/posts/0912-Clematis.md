@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Клематис](https://cdn.pixabay.com/photo/2019/05/29/23/48/ville-de-lyon-4238823_1280.jpg#center)
+![Изображение Клематис](https://cdn.pixabay.com/photo/2019/05/29/23/48/ville-de-lyon-4238823_640.jpg#center)
 
 ## Клематис — символ изящества и внутренней гармонии
 

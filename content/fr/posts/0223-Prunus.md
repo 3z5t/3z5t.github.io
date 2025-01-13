@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Prunus](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_1280.jpg#center)
+![Image de Prunus](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_640.jpg#center)
 
 
 ## Prunus, la fleur du 23 février : Une délicate expression de timidité et de charme discret

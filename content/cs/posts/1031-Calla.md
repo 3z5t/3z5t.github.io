@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Kala](https://cdn.pixabay.com/photo/2020/11/18/07/47/calla-lily-5754565_1280.jpg#center)
+![Obrázek Kala](https://cdn.pixabay.com/photo/2020/11/18/07/47/calla-lily-5754565_640.jpg#center)
 
 
 ## 31. října – Narozeninová květina: Kala

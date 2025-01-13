@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![버드나무의 이미지](https://cdn.pixabay.com/photo/2020/03/24/18/05/weeping-willow-4964961_1280.jpg#center)
+![버드나무의 이미지](https://cdn.pixabay.com/photo/2020/03/24/18/05/weeping-willow-4964961_640.jpg#center)
 
 
 ### 9월 13일의 꽃: 버드나무(Weeping Willow)

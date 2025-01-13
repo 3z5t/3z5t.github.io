@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![アルメリアのイメージ](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_1280.jpg#center)
+![アルメリアのイメージ](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_640.jpg#center)
 
 
 ## アルメリア（Armeria）に関する説明

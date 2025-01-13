@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Кувшинка белая](https://cdn.pixabay.com/photo/2017/06/17/21/21/water-lilies-2413578_1280.jpg#center)
+![Изображение Кувшинка белая](https://cdn.pixabay.com/photo/2017/06/17/21/21/water-lilies-2413578_640.jpg#center)
 
 ## Кувшинка белая: Символ чистоты сердца
 

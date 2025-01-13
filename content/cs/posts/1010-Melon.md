@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Meloun](https://cdn.pixabay.com/photo/2022/04/01/14/43/melon-flower-7104975_1280.jpg#center)
+![Obrázek Meloun](https://cdn.pixabay.com/photo/2022/04/01/14/43/melon-flower-7104975_640.jpg#center)
 
 
 ## 10. října – Narozeninová květina: Meloun

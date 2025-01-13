@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Áster da montanha](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_1280.jpg#center)
+![Imagem de Áster da montanha](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_640.jpg#center)
 
 
 ### Descrição de Áster da montanha

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Calêndula do Pântano](https://cdn.pixabay.com/photo/2018/04/17/15/09/caltha-palustris-3327710_1280.jpg#center)
+![Imagem de Calêndula do Pântano](https://cdn.pixabay.com/photo/2018/04/17/15/09/caltha-palustris-3327710_640.jpg#center)
 
 
 ## Flor de nascimento de 30 de janeiro: Calêndula do Pântano

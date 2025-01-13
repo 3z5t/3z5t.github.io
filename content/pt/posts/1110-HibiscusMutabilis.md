@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Rosa Confederada](https://cdn.pixabay.com/photo/2019/08/10/14/04/hibiscus-mutabilis-4397033_1280.jpg#center)
+![Imagem de Rosa Confederada](https://cdn.pixabay.com/photo/2019/08/10/14/04/hibiscus-mutabilis-4397033_640.jpg#center)
 
 
 ## Flor de nascimento de 10 de novembro: Rosa Confederada

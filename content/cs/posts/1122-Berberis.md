@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Dřišťál obecný](https://cdn.pixabay.com/photo/2023/06/01/07/04/flowers-8032934_1280.jpg#center)
+![Obrázek Dřišťál obecný](https://cdn.pixabay.com/photo/2023/06/01/07/04/flowers-8032934_640.jpg#center)
 
 ## 22. listopadu – Narozeninová květina: Dřišťál obecný
 

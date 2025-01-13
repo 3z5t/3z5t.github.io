@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Lavanda](https://cdn.pixabay.com/photo/2020/07/08/08/06/flowers-5383054_1280.jpg#center)
+![Imagem de Lavanda](https://cdn.pixabay.com/photo/2020/07/08/08/06/flowers-5383054_640.jpg#center)
 
 
 ## Flor de nascimento de 5 de julho: Lavanda

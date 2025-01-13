@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة نَبات أبو خَنجَر](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_1280.jpg#center)
+![صورة نَبات أبو خَنجَر](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_640.jpg#center)
 
 ## زهرة ميلاد ٦ سبتمبر: نَبات أبو خَنجَر
 

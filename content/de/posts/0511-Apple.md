@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Apfelbaum](https://cdn.pixabay.com/photo/2022/04/20/20/23/flowers-7146137_1280.jpg#center)
+![Bild von Apfelbaum](https://cdn.pixabay.com/photo/2022/04/20/20/23/flowers-7146137_640.jpg#center)
 
 
 ## Geburtsblume des 11. Mai: Apfelbaum

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Aciano](https://cdn.pixabay.com/photo/2019/05/24/02/20/the-idyll-4225323_1280.jpg#center)
+![Imagen de Aciano](https://cdn.pixabay.com/photo/2019/05/24/02/20/the-idyll-4225323_640.jpg#center)
 
 
 ## Aciano, la Flor del Nacimiento del 5 de Marzo

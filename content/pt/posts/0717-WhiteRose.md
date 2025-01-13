@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Rosa Branca](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_1280.jpg#center)
+![Imagem de Rosa Branca](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_640.jpg#center)
 
 
 ## Flor de nascimento de 17 de julho: Rosa Branca

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Sweet William](https://cdn.pixabay.com/photo/2016/10/25/16/26/dianthus-1769322_1280.jpg#center)
+![Image of Sweet William](https://cdn.pixabay.com/photo/2016/10/25/16/26/dianthus-1769322_640.jpg#center)
 
 
 ### Description of Sweet William

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Grande ciguë](https://cdn.pixabay.com/photo/2022/08/21/14/15/hemlock-7401397_1280.jpg#center)
+![Image de Grande ciguë](https://cdn.pixabay.com/photo/2022/08/21/14/15/hemlock-7401397_640.jpg#center)
 
 
 ## Grande ciguë (Poison Hemlock), la fleur du 15 mars : Une réflexion sur la résignation sereine

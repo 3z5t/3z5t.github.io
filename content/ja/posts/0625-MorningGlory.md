@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![アサガオのイメージ](https://cdn.pixabay.com/photo/2018/10/13/19/39/morning-glory-3744967_1280.jpg#center)
+![アサガオのイメージ](https://cdn.pixabay.com/photo/2018/10/13/19/39/morning-glory-3744967_640.jpg#center)
 
 
 ### アサガオに関する説明

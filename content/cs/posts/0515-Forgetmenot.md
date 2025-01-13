@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Pomněnka](https://cdn.pixabay.com/photo/2020/05/11/18/59/nots-5159760_1280.jpg#center)
+![Obrázek Pomněnka](https://cdn.pixabay.com/photo/2020/05/11/18/59/nots-5159760_640.jpg#center)
 
 ## 15. května – Narozeninová květina: Pomněnka
 

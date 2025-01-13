@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Amendoeira](https://cdn.pixabay.com/photo/2020/03/15/13/11/almond-tree-4933573_1280.jpg#center)
+![Imagem de Amendoeira](https://cdn.pixabay.com/photo/2020/03/15/13/11/almond-tree-4933573_640.jpg#center)
 
 
 ## Flor de nascimento de 14 de março: Amendoeira

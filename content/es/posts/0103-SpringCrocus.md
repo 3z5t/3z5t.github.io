@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Azafrán de primavera](https://cdn.pixabay.com/photo/2014/02/10/08/17/flowers-263278_1280.jpg#center)
+![Imagen de Azafrán de primavera](https://cdn.pixabay.com/photo/2014/02/10/08/17/flowers-263278_640.jpg#center)
 
 
 ## Azafrán de Primavera, la Flor del Nacimiento del 3 de Enero

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Schmidtiana](https://cdn.pixabay.com/photo/2013/07/26/05/45/large-speedwell-167462_1280.jpg#center)
+![Image of Schmidtiana](https://cdn.pixabay.com/photo/2013/07/26/05/45/large-speedwell-167462_640.jpg#center)
 
 
 ### Description of Schmidtiana

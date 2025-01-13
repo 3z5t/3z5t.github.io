@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Kalmia](https://cdn.pixabay.com/photo/2015/05/17/12/01/kalmia-770766_1280.jpg#center)
+![Imagen de Kalmia](https://cdn.pixabay.com/photo/2015/05/17/12/01/kalmia-770766_640.jpg#center)
 
 
 ## Kalmia, la Flor del Nacimiento del 20 de Febrero

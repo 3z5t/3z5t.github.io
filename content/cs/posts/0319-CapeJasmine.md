@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Gardénie jasmínovitá](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_1280.jpg#center)
+![Obrázek Gardénie jasmínovitá](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_640.jpg#center)
 
 
 ## 19. března – Narozeninová květina: Gardénie jasmínovitá

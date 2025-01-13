@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![山茶花的图片](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_1280.jpg#center)
+![山茶花的图片](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_640.jpg#center)
 
 
 ## 山茶花的描述

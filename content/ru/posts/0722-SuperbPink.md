@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Гвоздика](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_1280.jpg#center)
+![Изображение Гвоздика](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_640.jpg#center)
 
 ## Гвоздика (Superb Pink): Символ светлой грусти и чистой любви
 

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Espirea](https://cdn.pixabay.com/photo/2022/05/08/07/44/flowers-7181453_1280.jpg#center)
+![Imagen de Espirea](https://cdn.pixabay.com/photo/2022/05/08/07/44/flowers-7181453_640.jpg#center)
 
 
 ## Espirea: La Flor del 22 de Agosto, Símbolo de Perseverancia

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딸기의 이미지](https://cdn.pixabay.com/photo/2023/05/21/10/03/flower-8008187_1280.jpg#center)
+![딸기의 이미지](https://cdn.pixabay.com/photo/2023/05/21/10/03/flower-8008187_640.jpg#center)
 
 
 ### 딸기(Strawberry)에 대한 설명

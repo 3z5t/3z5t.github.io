@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة شَجَر البُرتُقال](https://cdn.pixabay.com/photo/2019/04/26/16/14/orange-flower-4157944_1280.jpg#center)
+![صورة شَجَر البُرتُقال](https://cdn.pixabay.com/photo/2019/04/26/16/14/orange-flower-4157944_640.jpg#center)
 
 ## زهرة ميلاد ٧ سبتمبر: شَجَر البُرتُقال
 

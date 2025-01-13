@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![귀고리꽃의 이미지](https://cdn.pixabay.com/photo/2013/09/03/19/25/fuchsia-178705_1280.jpg#center)
+![귀고리꽃의 이미지](https://cdn.pixabay.com/photo/2013/09/03/19/25/fuchsia-178705_640.jpg#center)
 
 
 ### 귀고리꽃 (Fuchsia)

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![쑥국화의 이미지](https://cdn.pixabay.com/photo/2016/02/08/14/43/tansy-1186677_1280.jpg#center)
+![쑥국화의 이미지](https://cdn.pixabay.com/photo/2016/02/08/14/43/tansy-1186677_640.jpg#center)
 
 
 ### 12월 1일의 꽃: 쑥국화 (Tansy)

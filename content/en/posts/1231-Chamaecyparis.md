@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Chamaecyparis](https://cdn.pixabay.com/photo/2015/09/17/13/36/hinoki-944147_1280.jpg#center)
+![Image of Chamaecyparis](https://cdn.pixabay.com/photo/2015/09/17/13/36/hinoki-944147_640.jpg#center)
 
 
 ### Description of Chamaecyparis

@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Manzano](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_1280.jpg#center)
+![Imagen de Manzano](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_640.jpg#center)
 
 
 ## Manzano: La Flor del 29 de Septiembre, Símbolo de "Renombre"

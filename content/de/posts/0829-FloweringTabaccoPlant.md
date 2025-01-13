@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Ziertabak](https://cdn.pixabay.com/photo/2019/09/06/19/32/tobacco-4457154_1280.jpg#center)
+![Bild von Ziertabak](https://cdn.pixabay.com/photo/2019/09/06/19/32/tobacco-4457154_640.jpg#center)
 
 ## Geburtsblume des 29. August: Ziertabak
 

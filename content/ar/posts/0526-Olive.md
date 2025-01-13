@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة شَجَر الزَّيْتون](https://cdn.pixabay.com/photo/2015/05/29/10/00/olives-789140_1280.jpg#center)
+![صورة شَجَر الزَّيْتون](https://cdn.pixabay.com/photo/2015/05/29/10/00/olives-789140_640.jpg#center)
 
 ## زهرة ميلاد ٢٦ مايو: شَجَر الزَّيْتون
 

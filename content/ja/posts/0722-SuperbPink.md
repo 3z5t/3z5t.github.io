@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ナデシコのイメージ](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_1280.jpg#center)
+![ナデシコのイメージ](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_640.jpg#center)
 
 
 ### ナデシコに関する説明

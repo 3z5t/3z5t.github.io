@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Gardénia du Cap](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_1280.jpg#center)
+![Image de Gardénia du Cap](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_640.jpg#center)
 
 
 ## Gardénia du Cap (Cape Jasmine), la fleur du 19 mars : Une ode à la joie infinie et à la pureté intemporelle

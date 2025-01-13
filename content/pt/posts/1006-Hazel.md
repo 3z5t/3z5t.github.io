@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Aveleira](https://cdn.pixabay.com/photo/2019/03/25/18/37/hazel-flowers-4081036_1280.jpg#center)
+![Imagem de Aveleira](https://cdn.pixabay.com/photo/2019/03/25/18/37/hazel-flowers-4081036_640.jpg#center)
 
 ## Flor de nascimento de 6 de outubro: Aveleira
 

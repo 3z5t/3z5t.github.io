@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![スミレ（白色）のイメージ](https://cdn.pixabay.com/photo/2019/04/04/03/27/flowers-4101916_1280.jpg#center)
+![スミレ（白色）のイメージ](https://cdn.pixabay.com/photo/2019/04/04/03/27/flowers-4101916_640.jpg#center)
 
 
 ## スミレ（白色）（Violet）の紹介

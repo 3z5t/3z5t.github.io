@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Mandloň](https://cdn.pixabay.com/photo/2020/03/15/13/11/almond-tree-4933573_1280.jpg#center)
+![Obrázek Mandloň](https://cdn.pixabay.com/photo/2020/03/15/13/11/almond-tree-4933573_640.jpg#center)
 
 
 ## 14. března – Narozeninová květina: Mandloň

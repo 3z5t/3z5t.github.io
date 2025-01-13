@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Feigenbaum](https://cdn.pixabay.com/photo/2016/09/10/08/09/fig-tree-1658686_1280.jpg#center)
+![Bild von Feigenbaum](https://cdn.pixabay.com/photo/2016/09/10/08/09/fig-tree-1658686_640.jpg#center)
 
 
 ## Geburtsblume des 5. April: Feigenbaum

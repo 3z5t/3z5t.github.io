@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![黃水仙的图片](https://cdn.pixabay.com/photo/2022/04/02/12/29/wild-daffodils-7106921_1280.jpg#center)
+![黃水仙的图片](https://cdn.pixabay.com/photo/2022/04/02/12/29/wild-daffodils-7106921_640.jpg#center)
 
 
 ## 黃水仙的描述

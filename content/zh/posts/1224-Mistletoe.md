@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![槲寄生的图片](https://cdn.pixabay.com/photo/2012/02/24/10/17/mistletoe-berries-16393_1280.jpg#center)
+![槲寄生的图片](https://cdn.pixabay.com/photo/2012/02/24/10/17/mistletoe-berries-16393_640.jpg#center)
 
 
 ## 槲寄生的描述

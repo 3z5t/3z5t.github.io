@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![黃花九輪草的图片](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_1280.jpg#center)
+![黃花九輪草的图片](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_640.jpg#center)
 
 
 ## 黃花九輪草的描述

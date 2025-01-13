@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة بهشية](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_1280.jpg#center)
+![صورة بهشية](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_640.jpg#center)
 
 ## زهرة ميلاد ٢٥ ديسمبر: بهشية
 

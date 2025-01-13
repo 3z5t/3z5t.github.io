@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Miosótis](https://cdn.pixabay.com/photo/2020/05/11/18/59/nots-5159760_1280.jpg#center)
+![Imagem de Miosótis](https://cdn.pixabay.com/photo/2020/05/11/18/59/nots-5159760_640.jpg#center)
 
 
 ## Flor de nascimento de 15 de maio: Miosótis

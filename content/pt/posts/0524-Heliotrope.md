@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Heliotrópio](https://cdn.pixabay.com/photo/2017/08/18/13/52/vanilla-flower-2655056_1280.jpg#center)
+![Imagem de Heliotrópio](https://cdn.pixabay.com/photo/2017/08/18/13/52/vanilla-flower-2655056_640.jpg#center)
 
 ## Flor de nascimento de 24 de maio: Heliotrópio
 

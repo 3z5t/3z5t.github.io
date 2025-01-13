@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Mandelbaum](https://cdn.pixabay.com/photo/2016/02/01/15/15/almond-blossom-1173735_1280.jpg#center)
+![Bild von Mandelbaum](https://cdn.pixabay.com/photo/2016/02/01/15/15/almond-blossom-1173735_640.jpg#center)
 
 
 ## Geburtsblume des 1. April: Mandelbaum

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Hepática](https://cdn.pixabay.com/photo/2018/04/18/08/59/flower-3329845_1280.jpg#center)
+![Imagen de Hepática](https://cdn.pixabay.com/photo/2018/04/18/08/59/flower-3329845_640.jpg#center)
 
 
 ## Hepática, la Flor del Nacimiento del 5 de Enero

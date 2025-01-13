@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Rosa almizclada](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_1280.jpg#center)
+![Imagen de Rosa almizclada](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_640.jpg#center)
 
 
 ## Rosa Almizclada, la Flor del Nacimiento del 25 de Febrero

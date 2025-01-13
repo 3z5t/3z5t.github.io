@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Lupina](https://cdn.pixabay.com/photo/2019/10/29/08/38/grass-4586431_1280.jpg#center)
+![Obrázek Lupina](https://cdn.pixabay.com/photo/2019/10/29/08/38/grass-4586431_640.jpg#center)
 
 
 ## 2. listopadu – Narozeninová květina: Lupina

@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Œillet arc-en-ciel](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_1280.jpg#center)
+![Image de Œillet arc-en-ciel](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_640.jpg#center)
 
 
 ## Œillet arc-en-ciel (Superb Pink), la fleur du 22 juillet

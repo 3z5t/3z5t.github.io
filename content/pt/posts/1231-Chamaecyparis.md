@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Cipreste](https://cdn.pixabay.com/photo/2015/09/17/13/36/hinoki-944147_1280.jpg#center)
+![Imagem de Cipreste](https://cdn.pixabay.com/photo/2015/09/17/13/36/hinoki-944147_640.jpg#center)
 
 
 ## Flor de nascimento de 31 de dezembro: Cipreste

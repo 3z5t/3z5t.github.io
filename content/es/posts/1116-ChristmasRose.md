@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Eléboro](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_1280.jpg#center)
+![Imagen de Eléboro](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_640.jpg#center)
 
 
 ### Descripción de Eléboro

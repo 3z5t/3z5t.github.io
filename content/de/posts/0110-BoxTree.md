@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Buchsbaum](https://cdn.pixabay.com/photo/2017/10/26/18/49/boxwood-2892034_1280.jpg#center)
+![Bild von Buchsbaum](https://cdn.pixabay.com/photo/2017/10/26/18/49/boxwood-2892034_640.jpg#center)
 
 
 ## Geburtsblume des 10. Januar: Buchsbaum

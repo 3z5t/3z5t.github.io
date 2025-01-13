@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![クリのイメージ](https://cdn.pixabay.com/photo/2019/05/22/20/54/chestnut-blossom-4222522_1280.jpg#center)
+![クリのイメージ](https://cdn.pixabay.com/photo/2019/05/22/20/54/chestnut-blossom-4222522_640.jpg#center)
 
 
 ## クリに関する説明

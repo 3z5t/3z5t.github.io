@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Nomeolvides](https://cdn.pixabay.com/photo/2018/05/04/15/44/blue-3374250_1280.jpg#center)
+![Imagen de Nomeolvides](https://cdn.pixabay.com/photo/2018/05/04/15/44/blue-3374250_640.jpg#center)
 
 
 ## Nomeolvides, la Flor del Nacimiento del 7 de Febrero

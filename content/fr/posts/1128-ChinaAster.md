@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Aster de Chine](https://cdn.pixabay.com/photo/2019/10/08/17/53/asters-4535620_1280.jpg#center)
+![Image de Aster de Chine](https://cdn.pixabay.com/photo/2019/10/08/17/53/asters-4535620_640.jpg#center)
 
 
 ### Portrait botanique de Aster de Chine (China Aster)

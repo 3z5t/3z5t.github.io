@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Lime Tree, Linden](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_1280.jpg#center)
+![Image of Lime Tree, Linden](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_640.jpg#center)
 
 
 ### Description of Lime Tree, Linden

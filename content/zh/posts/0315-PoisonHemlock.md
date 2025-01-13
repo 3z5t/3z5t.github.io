@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![毒參的图片](https://cdn.pixabay.com/photo/2022/08/21/14/15/hemlock-7401397_1280.jpg#center)
+![毒參的图片](https://cdn.pixabay.com/photo/2022/08/21/14/15/hemlock-7401397_640.jpg#center)
 
 
 ## 毒参的描述

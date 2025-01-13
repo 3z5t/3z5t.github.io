@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![흑종초의 이미지](https://cdn.pixabay.com/photo/2017/02/04/20/59/nigella-damascena-miss-jekyll-2038376_1280.jpg#center)
+![흑종초의 이미지](https://cdn.pixabay.com/photo/2017/02/04/20/59/nigella-damascena-miss-jekyll-2038376_640.jpg#center)
 
 
 ### 흑종초(Nigella Damascena)에 대한 설명

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Gardenie](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_1280.jpg#center)
+![Bild von Gardenie](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_640.jpg#center)
 
 
 ## Geburtsblume des 19. März: Gardenie

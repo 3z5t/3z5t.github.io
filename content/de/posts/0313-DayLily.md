@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Taglilie](https://cdn.pixabay.com/photo/2018/03/20/20/48/nature-3244629_1280.jpg#center)
+![Bild von Taglilie](https://cdn.pixabay.com/photo/2018/03/20/20/48/nature-3244629_640.jpg#center)
 
 
 ## Geburtsblume des 13. März: Taglilie

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Melone](https://cdn.pixabay.com/photo/2022/04/01/14/43/melon-flower-7104975_1280.jpg#center)
+![Bild von Melone](https://cdn.pixabay.com/photo/2022/04/01/14/43/melon-flower-7104975_640.jpg#center)
 
 
 ## Geburtsblume des 10. Oktober: Melone

@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![マッシュマリーゴールドのイメージ](https://cdn.pixabay.com/photo/2018/04/17/15/09/caltha-palustris-3327710_1280.jpg#center)
+![マッシュマリーゴールドのイメージ](https://cdn.pixabay.com/photo/2018/04/17/15/09/caltha-palustris-3327710_640.jpg#center)
 
 
 ## マッシュマリーゴールドに関する説明

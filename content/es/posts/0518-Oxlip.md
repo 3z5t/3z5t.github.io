@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Primavera común](https://cdn.pixabay.com/photo/2021/05/13/11/57/oxslip-6250682_1280.jpg#center)
+![Imagen de Primavera común](https://cdn.pixabay.com/photo/2021/05/13/11/57/oxslip-6250682_640.jpg#center)
 
 
 ## Primavera común, la Flor del Nacimiento del 18 de Mayo

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![레제다 오도라타의 이미지](https://cdn.pixabay.com/photo/2015/01/18/18/59/wau-603313_1280.jpg#center)
+![레제다 오도라타의 이미지](https://cdn.pixabay.com/photo/2015/01/18/18/59/wau-603313_640.jpg#center)
 
 
 ### 레제다 오도라타(Reseda Odorata): 우아한 향기의 꽃

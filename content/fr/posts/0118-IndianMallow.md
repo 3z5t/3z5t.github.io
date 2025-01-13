@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Mauve indienne](https://cdn.pixabay.com/photo/2019/08/13/17/30/abutilon-4403857_1280.jpg#center)
+![Image de Mauve indienne](https://cdn.pixabay.com/photo/2019/08/13/17/30/abutilon-4403857_640.jpg#center)
 
 
 ## Mauve indienne, la fleur du 18 janvier : Une énigme délicate et lumineuse

@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Sagittaire](https://cdn.pixabay.com/photo/2018/06/11/19/14/arrowhead-3469144_1280.jpg#center)
+![Image de Sagittaire](https://cdn.pixabay.com/photo/2018/06/11/19/14/arrowhead-3469144_640.jpg#center)
 
 
 ## Portrait botanique de Sagittaire (Arrowhead)

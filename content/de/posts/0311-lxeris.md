@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Ixeris](https://cdn.pixabay.com/photo/2020/05/16/11/18/bee-5177103_1280.jpg#center)
+![Bild von Ixeris](https://cdn.pixabay.com/photo/2020/05/16/11/18/bee-5177103_640.jpg#center)
 
 
 ## Geburtsblume des 11. März: Ixeris

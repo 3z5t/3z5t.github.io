@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة اليسوم الحلو](https://cdn.pixabay.com/photo/2020/06/22/13/50/sweet-alyssum-5329266_1280.jpg#center)
+![صورة اليسوم الحلو](https://cdn.pixabay.com/photo/2020/06/22/13/50/sweet-alyssum-5329266_640.jpg#center)
 
 ## زهرة ميلاد ١٢ يناير: اليسوم الحلو
 

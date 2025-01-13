@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة صَفصاف باكي](https://cdn.pixabay.com/photo/2020/03/24/18/05/weeping-willow-4964961_1280.jpg#center)
+![صورة صَفصاف باكي](https://cdn.pixabay.com/photo/2020/03/24/18/05/weeping-willow-4964961_640.jpg#center)
 
 ## زهرة ميلاد ١٣ سبتمبر: صَفصاف باكي
 

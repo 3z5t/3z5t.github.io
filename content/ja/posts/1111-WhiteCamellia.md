@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![ツバキ（白色）のイメージ](https://cdn.pixabay.com/photo/2016/12/05/06/51/camellia-1883205_1280.jpg#center)
+![ツバキ（白色）のイメージ](https://cdn.pixabay.com/photo/2016/12/05/06/51/camellia-1883205_640.jpg#center)
 
 
 ## ツバキ（白色）に関する説明

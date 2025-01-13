@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Kamélie](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_1280.jpg#center)
+![Obrázek Kamélie](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_640.jpg#center)
 
 
 ## 29. dubna – Narozeninová květina: Kamélie

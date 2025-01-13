@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![アキノキリンソウのイメージ](https://cdn.pixabay.com/photo/2016/08/11/21/26/golden-rod-1586871_1280.jpg#center)
+![アキノキリンソウのイメージ](https://cdn.pixabay.com/photo/2016/08/11/21/26/golden-rod-1586871_640.jpg#center)
 
 
 ### アキノキリンソウに関する説明

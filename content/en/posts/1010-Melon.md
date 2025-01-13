@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Melon](https://cdn.pixabay.com/photo/2022/04/01/14/43/melon-flower-7104975_1280.jpg#center)
+![Image of Melon](https://cdn.pixabay.com/photo/2022/04/01/14/43/melon-flower-7104975_640.jpg#center)
 
 
 ### Description of Melon

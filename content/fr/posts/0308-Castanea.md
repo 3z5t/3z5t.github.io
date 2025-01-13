@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Châtaignier](https://cdn.pixabay.com/photo/2019/05/22/20/54/chestnut-blossom-4222522_1280.jpg#center)
+![Image de Châtaignier](https://cdn.pixabay.com/photo/2019/05/22/20/54/chestnut-blossom-4222522_640.jpg#center)
 
 
 ## Châtaignier (Castanea), la fleur du 8 mars : Une représentation de l’honnêteté et de la sincérité

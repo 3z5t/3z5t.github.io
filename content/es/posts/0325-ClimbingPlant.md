@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Enredadera](https://cdn.pixabay.com/photo/2016/06/12/22/30/wall-1453158_1280.jpg#center)
+![Imagen de Enredadera](https://cdn.pixabay.com/photo/2016/06/12/22/30/wall-1453158_640.jpg#center)
 
 
 ## Enredadera, la Flor del Nacimiento del 25 de Marzo

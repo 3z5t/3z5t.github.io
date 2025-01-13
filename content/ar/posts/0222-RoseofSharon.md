@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة وردة شارون](https://cdn.pixabay.com/photo/2019/07/16/14/50/rose-of-sharon-4342080_1280.jpg#center)
+![صورة وردة شارون](https://cdn.pixabay.com/photo/2019/07/16/14/50/rose-of-sharon-4342080_640.jpg#center)
 
 ## زهرة ميلاد ٢٢ فبراير: وردة شارون
 

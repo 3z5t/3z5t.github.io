@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Rosa blanca](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_1280.jpg#center)
+![Imagen de Rosa blanca](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_640.jpg#center)
 
 
 ## Rosa Blanca: La Flor del Respeto para el 17 de Julio

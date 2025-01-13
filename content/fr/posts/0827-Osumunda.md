@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Osmonde](https://cdn.pixabay.com/photo/2014/05/09/14/16/fern-340802_1280.jpg#center)
+![Image de Osmonde](https://cdn.pixabay.com/photo/2014/05/09/14/16/fern-340802_640.jpg#center)
 
 
 ## Osmonde, la fleur du 27 août

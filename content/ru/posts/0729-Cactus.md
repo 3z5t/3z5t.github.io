@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Кактус цветущий](https://cdn.pixabay.com/photo/2012/11/28/09/24/cactus-67547_1280.jpg#center)
+![Изображение Кактус цветущий](https://cdn.pixabay.com/photo/2012/11/28/09/24/cactus-67547_640.jpg#center)
 
 ## Кактус цветущий: Символ пылкого сердца
 

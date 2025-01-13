@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Aigremoine](https://cdn.pixabay.com/photo/2020/06/28/14/37/agrimony-flower-5349515_1280.jpg#center)
+![Image de Aigremoine](https://cdn.pixabay.com/photo/2020/06/28/14/37/agrimony-flower-5349515_640.jpg#center)
 
 
 ## Aigremoine (Agrimony), la fleur du 21 août

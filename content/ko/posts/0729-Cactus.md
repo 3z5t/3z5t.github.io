@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![선인장의 이미지](https://cdn.pixabay.com/photo/2012/11/28/09/24/cactus-67547_1280.jpg#center)
+![선인장의 이미지](https://cdn.pixabay.com/photo/2012/11/28/09/24/cactus-67547_640.jpg#center)
 
 
 ### 7월 29일의 꽃: 선인장(Cactus)

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Crisântemo Vermelho](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_1280.jpg#center)
+![Imagem de Crisântemo Vermelho](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_640.jpg#center)
 
 
 ## Flor de nascimento de 1 de outubro: Crisântemo Vermelho

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Mošusová růže](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_1280.jpg#center)
+![Obrázek Mošusová růže](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_640.jpg#center)
 
 
 ## 25. února – Narozeninová květina: Mošusová růže

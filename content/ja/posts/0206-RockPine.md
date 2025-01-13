@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ツメレンゲのイメージ](https://cdn.pixabay.com/photo/2015/04/22/15/06/a-fleshy-plant-734913_1280.jpg#center)
+![ツメレンゲのイメージ](https://cdn.pixabay.com/photo/2015/04/22/15/06/a-fleshy-plant-734913_640.jpg#center)
 
 ## **ツメレンゲ（Rock Pine）の説明**
 

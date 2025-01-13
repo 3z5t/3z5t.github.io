@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ライラックのイメージ](https://cdn.pixabay.com/photo/2019/05/05/21/02/lilac-4181712_1280.jpg#center)
+![ライラックのイメージ](https://cdn.pixabay.com/photo/2019/05/05/21/02/lilac-4181712_640.jpg#center)
 
 
 ## ライラックに関する説明

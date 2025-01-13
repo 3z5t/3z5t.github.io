@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Ciruelo](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_1280.jpg#center)
+![Imagen de Ciruelo](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_640.jpg#center)
 
 
 ## Ciruelo, la Flor del Nacimiento del 23 de Febrero

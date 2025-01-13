@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Fiala šedivá](https://cdn.pixabay.com/photo/2019/05/31/23/34/matthiola-4243235_1280.jpg#center)
+![Obrázek Fiala šedivá](https://cdn.pixabay.com/photo/2019/05/31/23/34/matthiola-4243235_640.jpg#center)
 
 ## 6. května – Narozeninová květina: Fiala šedivá
 

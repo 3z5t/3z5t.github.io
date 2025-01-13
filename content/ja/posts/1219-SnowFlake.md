@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![スノーフレークのイメージ](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_1280.jpg#center)
+![スノーフレークのイメージ](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_640.jpg#center)
 
 
 ## スノーフレークに関する説明

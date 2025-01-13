@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Герань красная](https://cdn.pixabay.com/photo/2019/07/12/14/52/geranium-4333041_1280.jpg#center)
+![Изображение Герань красная](https://cdn.pixabay.com/photo/2019/07/12/14/52/geranium-4333041_640.jpg#center)
 
 ## Герань красная: Цветок любви и благодарности
 

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![부처꽃의 이미지](https://cdn.pixabay.com/photo/2019/07/15/12/11/ordinary-loosestrife-4339197_1280.jpg#center)
+![부처꽃의 이미지](https://cdn.pixabay.com/photo/2019/07/15/12/11/ordinary-loosestrife-4339197_640.jpg#center)
 
 
 ### 10월 11일의 꽃: 부처꽃(Lythrum)

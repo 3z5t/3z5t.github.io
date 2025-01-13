@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Calabaza](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_1280.jpg#center)
+![Imagen de Calabaza](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_640.jpg#center)
 
 
 ## Calabaza: La Flor del 31 de Julio, Símbolo de Grandeza

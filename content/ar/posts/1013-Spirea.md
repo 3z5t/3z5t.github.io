@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة ملتفة الثمار](https://cdn.pixabay.com/photo/2020/04/21/04/50/meadowsweet-trees-5070844_1280.jpg#center)
+![صورة ملتفة الثمار](https://cdn.pixabay.com/photo/2020/04/21/04/50/meadowsweet-trees-5070844_640.jpg#center)
 
 ## زهرة ميلاد ١٣ أكتوبر: ملتفة الثمار
 

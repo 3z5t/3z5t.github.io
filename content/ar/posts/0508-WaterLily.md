@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة زَنْبَق الماء](https://cdn.pixabay.com/photo/2017/06/17/21/21/water-lilies-2413578_1280.jpg#center)
+![صورة زَنْبَق الماء](https://cdn.pixabay.com/photo/2017/06/17/21/21/water-lilies-2413578_640.jpg#center)
 
 ## زهرة ميلاد ٨ مايو: زَنْبَق الماء
 

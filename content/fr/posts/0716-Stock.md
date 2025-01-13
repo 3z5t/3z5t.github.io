@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Giroflée](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_1280.jpg#center)
+![Image de Giroflée](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_640.jpg#center)
 
 
 ## Giroflée (Stock), la fleur du 16 juillet

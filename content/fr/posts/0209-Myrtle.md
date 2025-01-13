@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Myrte](https://cdn.pixabay.com/photo/2020/06/29/20/22/flowers-5354285_1280.jpg#center)
+![Image de Myrte](https://cdn.pixabay.com/photo/2020/06/29/20/22/flowers-5354285_640.jpg#center)
 
 
 ## Myrte, la fleur du 9 février : Une célébration des murmures d'amour et des promesses durables

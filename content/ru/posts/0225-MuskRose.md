@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Роза мускусная](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_1280.jpg#center)
+![Изображение Роза мускусная](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_640.jpg#center)
 
 ## Роза мускусная: Символ Непредсказуемой Любви
 

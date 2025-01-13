@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Trávnička](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_1280.jpg#center)
+![Obrázek Trávnička](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_640.jpg#center)
 
 
 ## 29. února – Narozeninová květina: Trávnička

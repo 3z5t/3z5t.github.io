@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Prunus Mume](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_1280.jpg#center)
+![Image of Prunus Mume](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_640.jpg#center)
 
 
 ### Description of Prunus Mume

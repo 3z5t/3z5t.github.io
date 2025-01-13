@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Zeder](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_1280.jpg#center)
+![Bild von Zeder](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_640.jpg#center)
 
 
 ## Geburtsblume des 30. September: Zeder

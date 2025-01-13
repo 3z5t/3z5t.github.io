@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Cedro](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_1280.jpg#center)
+![Imagem de Cedro](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_640.jpg#center)
 
 
 ## Flor de nascimento de 30 de setembro: Cedro

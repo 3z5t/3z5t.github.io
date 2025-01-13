@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение кореопсис](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_1280.jpg#center)
+![Изображение кореопсис](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_640.jpg#center)
 
 ## Кореопсис: Символ Духа Соперничества
 

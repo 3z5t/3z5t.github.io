@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![寒梅的图片](https://cdn.pixabay.com/photo/2019/03/31/17/40/japanese-ornamental-quince-4093575_1280.jpg#center)
+![寒梅的图片](https://cdn.pixabay.com/photo/2019/03/31/17/40/japanese-ornamental-quince-4093575_640.jpg#center)
 
 
 ## 寒梅的描述

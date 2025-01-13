@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Jacinto amarillo](https://cdn.pixabay.com/photo/2015/04/23/19/03/hyacinth-736516_1280.jpg#center)
+![Imagen de Jacinto amarillo](https://cdn.pixabay.com/photo/2015/04/23/19/03/hyacinth-736516_640.jpg#center)
 
 
 ## Jacinto Amarillo, la Flor del Nacimiento del 16 de Enero

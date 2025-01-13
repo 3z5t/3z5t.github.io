@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![山楂的图片](https://cdn.pixabay.com/photo/2023/05/06/08/44/crataegus-7973879_1280.jpg#center)
+![山楂的图片](https://cdn.pixabay.com/photo/2023/05/06/08/44/crataegus-7973879_640.jpg#center)
 
 
 ## 山楂的描述

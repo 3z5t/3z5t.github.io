@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Echter Lavendel](https://cdn.pixabay.com/photo/2020/07/08/08/06/flowers-5383054_1280.jpg#center)
+![Bild von Echter Lavendel](https://cdn.pixabay.com/photo/2020/07/08/08/06/flowers-5383054_640.jpg#center)
 
 
 ## Geburtsblume des 5. Juli: Echter Lavendel

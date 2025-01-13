@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Alerce](https://cdn.pixabay.com/photo/2012/09/09/10/09/larch-56567_1280.jpg#center)
+![Imagen de Alerce](https://cdn.pixabay.com/photo/2012/09/09/10/09/larch-56567_640.jpg#center)
 
 
 ## Alerce, la Flor del Nacimiento del 9 de Marzo

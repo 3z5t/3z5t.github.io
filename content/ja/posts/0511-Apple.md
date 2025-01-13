@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![リンゴのイメージ](https://cdn.pixabay.com/photo/2022/04/20/20/23/flowers-7146137_1280.jpg#center)
+![リンゴのイメージ](https://cdn.pixabay.com/photo/2022/04/20/20/23/flowers-7146137_640.jpg#center)
 
 
 ## リンゴに関する説明

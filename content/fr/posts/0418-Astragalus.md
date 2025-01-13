@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Astragale sinique](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_1280.jpg#center)
+![Image de Astragale sinique](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_640.jpg#center)
 
 
 ## Astragale sinique (_Astragalus sinicus_), la fleur du 18 avril : Un symbole d'amour immense

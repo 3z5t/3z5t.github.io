@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![月桂樹的图片](https://cdn.pixabay.com/photo/2017/09/23/19/24/laurel-2779880_1280.jpg#center)
+![月桂樹的图片](https://cdn.pixabay.com/photo/2017/09/23/19/24/laurel-2779880_640.jpg#center)
 
 
 ## 月桂树的描述

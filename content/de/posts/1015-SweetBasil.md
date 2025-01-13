@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Basilikum](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_1280.jpg#center)
+![Bild von Basilikum](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_640.jpg#center)
 
 
 ## Geburtsblume des 15. Oktober: Basilikum

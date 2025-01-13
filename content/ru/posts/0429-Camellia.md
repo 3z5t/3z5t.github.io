@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Камелия японская](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_1280.jpg#center)
+![Изображение Камелия японская](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_640.jpg#center)
 
 ## Камелия японская: Изящество и очарование
 

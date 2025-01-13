@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Sommerlinde](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_1280.jpg#center)
+![Bild von Sommerlinde](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_640.jpg#center)
 
 
 ## Geburtsblume des 30. Juli: Sommerlinde

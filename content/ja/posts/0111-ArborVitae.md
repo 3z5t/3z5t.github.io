@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ナツメの木のイメージ](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_1280.jpg#center)
+![ナツメの木のイメージ](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_640.jpg#center)
 
 
 ## ナツメの木（Arbor-Vitae）についての説明

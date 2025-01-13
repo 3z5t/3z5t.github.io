@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Panicaut](https://cdn.pixabay.com/photo/2017/07/28/10/13/eryngium-2548232_1280.jpg#center)
+![Image de Panicaut](https://cdn.pixabay.com/photo/2017/07/28/10/13/eryngium-2548232_640.jpg#center)
 
 
 ## Panicaut, la fleur du 28 août

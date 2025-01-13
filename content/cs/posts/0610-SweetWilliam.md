@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Hvozdík bradatý](https://cdn.pixabay.com/photo/2016/10/25/16/26/dianthus-1769322_1280.jpg#center)
+![Obrázek Hvozdík bradatý](https://cdn.pixabay.com/photo/2016/10/25/16/26/dianthus-1769322_640.jpg#center)
 
 
 ## 10. června – Narozeninová květina: Hvozdík bradatý

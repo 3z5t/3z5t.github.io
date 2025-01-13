@@ -11,7 +11,7 @@ tags:
   - 탄생화
   - 꽃
 ---
-![꽃 사진](https://cdn.pixabay.com/photo/2015/07/13/16/03/reeds-843366_1280.jpg#center)
+![꽃 사진](https://cdn.pixabay.com/photo/2015/07/13/16/03/reeds-843366_640.jpg#center)
 안녕하세요, 꽃 애호가 여러분. 오늘은 1월 23일의 꽃, 부들(Bulrush)에 대해 이야기해 보려 합니다. 그 견고하고 신중한 모습으로 사람들의 마음을 사로잡는 부들(Bulrush), 그 속에 담긴 이야기를 함께 알아봅시다.
 
 

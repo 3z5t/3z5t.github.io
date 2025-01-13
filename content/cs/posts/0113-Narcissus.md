@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Narcis](https://cdn.pixabay.com/photo/2021/04/06/19/20/daffodils-6157253_1280.jpg#center)
+![Obrázek Narcis](https://cdn.pixabay.com/photo/2021/04/06/19/20/daffodils-6157253_640.jpg#center)
 
 ## 13. ledna – Narozeninová květina: Narcis
 

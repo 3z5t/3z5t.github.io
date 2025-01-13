@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Dondiego de día](https://cdn.pixabay.com/photo/2018/10/13/19/39/morning-glory-3744967_1280.jpg#center)
+![Imagen de Dondiego de día](https://cdn.pixabay.com/photo/2018/10/13/19/39/morning-glory-3744967_640.jpg#center)
 
 
 ## Dondiego de Día: La Flor del Carpe Diem para el 25 de Junio

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Pomeranzenbaum](https://cdn.pixabay.com/photo/2020/04/03/16/23/Orange-blossom-4999435_1280.jpg#center)
+![Bild von Pomeranzenbaum](https://cdn.pixabay.com/photo/2020/04/03/16/23/Orange-blossom-4999435_640.jpg#center)
 
 
 ## Geburtsblume des 24. September: Pomeranzenbaum

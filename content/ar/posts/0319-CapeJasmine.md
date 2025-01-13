@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الجاردينيا](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_1280.jpg#center)
+![صورة الجاردينيا](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_640.jpg#center)
 
 ## زهرة ميلاد ١٩ مارس: الجاردينيا
 

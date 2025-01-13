@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة عشبة الإكسيريس](https://cdn.pixabay.com/photo/2020/05/16/11/18/bee-5177103_1280.jpg#center)
+![صورة عشبة الإكسيريس](https://cdn.pixabay.com/photo/2020/05/16/11/18/bee-5177103_640.jpg#center)
 
 ## زهرة ميلاد ١١ مارس: عشبة الإكسيريس
 

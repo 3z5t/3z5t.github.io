@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Coreopsis](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_1280.jpg#center)
+![Imagen de Coreopsis](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_640.jpg#center)
 
 
 ## Coreopsis, la Flor del Nacimiento del 13 de Abril

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ウメのイメージ](https://cdn.pixabay.com/photo/2020/04/29/08/10/plum-blossoms-5107763_1280.jpg#center)
+![ウメのイメージ](https://cdn.pixabay.com/photo/2020/04/29/08/10/plum-blossoms-5107763_640.jpg#center)
 
 
 ## ウメに関する説明

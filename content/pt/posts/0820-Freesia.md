@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Frésia](https://cdn.pixabay.com/photo/2019/10/04/22/30/flower-4526658_1280.jpg#center)
+![Imagem de Frésia](https://cdn.pixabay.com/photo/2019/10/04/22/30/flower-4526658_640.jpg#center)
 
 
 ## Flor de nascimento de 20 de agosto: Frésia

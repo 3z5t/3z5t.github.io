@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة أذن الفأر](https://cdn.pixabay.com/photo/2018/05/04/15/44/blue-3374250_1280.jpg#center)
+![صورة أذن الفأر](https://cdn.pixabay.com/photo/2018/05/04/15/44/blue-3374250_640.jpg#center)
 
 ## زهرة ميلاد ٧ فبراير: أذن الفأر
 

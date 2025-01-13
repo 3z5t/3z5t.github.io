@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![골든 로드의 이미지](https://cdn.pixabay.com/photo/2016/08/11/21/26/golden-rod-1586871_1280.jpg#center)
+![골든 로드의 이미지](https://cdn.pixabay.com/photo/2016/08/11/21/26/golden-rod-1586871_640.jpg#center)
 
 
 ### 골든 로드(Golden Rod) – 여름의 황금빛을 담은 꽃

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Ветреница](https://cdn.pixabay.com/photo/2016/11/30/14/20/anemone-1872919_1280.jpg#center)
+![Изображение Ветреница](https://cdn.pixabay.com/photo/2016/11/30/14/20/anemone-1872919_640.jpg#center)
 
 
 ## Ветреница: Символ Предвкушения

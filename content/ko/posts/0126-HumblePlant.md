@@ -11,7 +11,7 @@ tags:
   - 탄생화
   - 꽃
 ---
-![꽃 사진](https://cdn.pixabay.com/photo/2022/06/07/22/59/flower-7249417_1280.jpg#center)
+![꽃 사진](https://cdn.pixabay.com/photo/2022/06/07/22/59/flower-7249417_640.jpg#center)
 
  미모사는 그 예민한 모습과 사랑스러운 꽃으로 많은 사람들에게 사랑받고 있습니다. 오늘은 미모사에 대한 자세한 정보를 알려드리겠습니다.
 

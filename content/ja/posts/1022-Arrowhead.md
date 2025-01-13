@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![オモダカのイメージ](https://cdn.pixabay.com/photo/2018/06/11/19/14/arrowhead-3469144_1280.jpg#center)
+![オモダカのイメージ](https://cdn.pixabay.com/photo/2018/06/11/19/14/arrowhead-3469144_640.jpg#center)
 
 
 ## オモダカ（Arrowhead）について

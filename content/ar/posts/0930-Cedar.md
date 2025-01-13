@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة أرز](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_1280.jpg#center)
+![صورة أرز](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_640.jpg#center)
 
 ## زهرة ميلاد ٣٠ سبتمبر: أرز
 

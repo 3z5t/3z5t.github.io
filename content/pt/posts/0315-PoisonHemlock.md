@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Cicuta](https://cdn.pixabay.com/photo/2022/08/21/14/15/hemlock-7401397_1280.jpg#center)
+![Imagem de Cicuta](https://cdn.pixabay.com/photo/2022/08/21/14/15/hemlock-7401397_640.jpg#center)
 
 
 ## Flor de nascimento de 15 de março: Cicuta

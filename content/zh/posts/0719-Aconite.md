@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![烏頭花的图片](https://cdn.pixabay.com/photo/2020/06/20/19/50/aconite-5322278_1280.jpg#center)
+![烏頭花的图片](https://cdn.pixabay.com/photo/2020/06/20/19/50/aconite-5322278_640.jpg#center)
 
 
 ## 烏頭花的描述

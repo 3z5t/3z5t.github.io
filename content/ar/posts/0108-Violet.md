@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة البنفسج الأرجواني](https://cdn.pixabay.com/photo/2018/08/02/03/46/violets-3578798_1280.png#center)
+![صورة البنفسج الأرجواني](https://cdn.pixabay.com/photo/2018/08/02/03/46/violets-3578798_640.png#center)
 
 ## زهرة ميلاد ٨ يناير: البنفسج الأرجواني
 

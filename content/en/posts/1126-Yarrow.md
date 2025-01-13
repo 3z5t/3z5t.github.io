@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Yarrow](https://cdn.pixabay.com/photo/2018/09/16/11/10/yarrow-plant-3681169_1280.jpg#center)
+![Image of Yarrow](https://cdn.pixabay.com/photo/2018/09/16/11/10/yarrow-plant-3681169_640.jpg#center)
 
 
 ### Description of Yarrow

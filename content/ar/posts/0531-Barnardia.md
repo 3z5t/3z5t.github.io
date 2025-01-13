@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة العُنْصُل](https://cdn.pixabay.com/photo/2020/01/23/07/40/squill-4787085_1280.jpg#center)
+![صورة العُنْصُل](https://cdn.pixabay.com/photo/2020/01/23/07/40/squill-4787085_640.jpg#center)
 
 ## زهرة ميلاد ٣١ مايو: العُنْصُل
 

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![산옥잠화의 이미지](https://cdn.pixabay.com/photo/2018/03/20/20/48/nature-3244629_1280.jpg#center)
+![산옥잠화의 이미지](https://cdn.pixabay.com/photo/2018/03/20/20/48/nature-3244629_640.jpg#center)
 
 
 ### 산옥잠화(Hosta longissima)

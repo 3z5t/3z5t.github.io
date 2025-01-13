@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![협죽도의 이미지](https://cdn.pixabay.com/photo/2022/08/25/11/47/red-oleander-7410079_1280.jpg#center)
+![협죽도의 이미지](https://cdn.pixabay.com/photo/2022/08/25/11/47/red-oleander-7410079_640.jpg#center)
 
 
 ### 협죽도(Oleander)에 대한 설명

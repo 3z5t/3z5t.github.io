@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Hépatique](https://cdn.pixabay.com/photo/2018/04/18/08/59/flower-3329845_1280.jpg#center)
+![Image de Hépatique](https://cdn.pixabay.com/photo/2018/04/18/08/59/flower-3329845_640.jpg#center)
 
 
 ## Hépatique, la fleur du 5 janvier : Symbole de patience et de résilience

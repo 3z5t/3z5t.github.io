@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Freesia](https://cdn.pixabay.com/photo/2019/10/04/22/30/flower-4526658_1280.jpg#center)
+![Image de Freesia](https://cdn.pixabay.com/photo/2019/10/04/22/30/flower-4526658_640.jpg#center)
 
 
 ## Freesia (Freesia), la fleur du 20 août

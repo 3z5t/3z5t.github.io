@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة شَقائِق النُّعْمان](https://cdn.pixabay.com/photo/2016/11/30/14/20/anemone-1872919_1280.jpg#center)
+![صورة شَقائِق النُّعْمان](https://cdn.pixabay.com/photo/2016/11/30/14/20/anemone-1872919_640.jpg#center)
 
 ## زهرة ميلاد ٢ أبريل: شَقائِق النُّعْمان
 

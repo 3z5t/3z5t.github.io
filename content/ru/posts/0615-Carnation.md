@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Гвоздика садовая](https://cdn.pixabay.com/photo/2023/01/06/21/34/carnation-7702161_1280.jpg#center)
+![Изображение Гвоздика садовая](https://cdn.pixabay.com/photo/2023/01/06/21/34/carnation-7702161_640.jpg#center)
 
 ## Гвоздика садовая: Символ страстных чувств
 

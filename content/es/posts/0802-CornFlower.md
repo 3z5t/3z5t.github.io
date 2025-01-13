@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Aciano](https://cdn.pixabay.com/photo/2018/05/17/17/25/cornflowers-3409140_1280.jpg#center)
+![Imagen de Aciano](https://cdn.pixabay.com/photo/2018/05/17/17/25/cornflowers-3409140_640.jpg#center)
 
 
 ## Aciano: La Flor del 2 de Agosto, Símbolo de Felicidad

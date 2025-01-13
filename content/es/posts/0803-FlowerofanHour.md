@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Hibisco](https://cdn.pixabay.com/photo/2016/02/12/17/32/flower-1196470_1280.jpg#center)
+![Imagen de Hibisco](https://cdn.pixabay.com/photo/2016/02/12/17/32/flower-1196470_640.jpg#center)
 
 
 ## Hibisco: La Flor del 3 de Agosto, Belleza Efímera

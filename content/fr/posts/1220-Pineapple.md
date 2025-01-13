@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Ananas](https://cdn.pixabay.com/photo/2018/09/09/12/51/pineapple-3664499_1280.jpg#center)
+![Image de Ananas](https://cdn.pixabay.com/photo/2018/09/09/12/51/pineapple-3664499_640.jpg#center)
 
 
 ### Portrait botanique de Ananas

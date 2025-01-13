@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Datura](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_1280.jpg#center)
+![Imagen de Datura](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_640.jpg#center)
 
 
 ## Datura: La Flor del 23 de Octubre, Símbolo de "Respeto"

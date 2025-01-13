@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![迷迭香的图片](https://cdn.pixabay.com/photo/2015/12/13/00/11/rosemary-1090419_1280.jpg#center)
+![迷迭香的图片](https://cdn.pixabay.com/photo/2015/12/13/00/11/rosemary-1090419_640.jpg#center)
 
 
 ## 迷迭香的描述

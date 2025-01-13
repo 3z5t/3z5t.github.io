@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Jetel luční](https://cdn.pixabay.com/photo/2018/05/25/22/58/klee-3430247_1280.jpg#center)
+![Obrázek Jetel luční](https://cdn.pixabay.com/photo/2018/05/25/22/58/klee-3430247_640.jpg#center)
 
 
 ## 17. června – Narozeninová květina: Jetel luční

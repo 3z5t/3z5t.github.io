@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![꽃창포의 이미지](https://cdn.pixabay.com/photo/2019/02/25/20/19/iris-4020510_1280.jpg#center)
+![꽃창포의 이미지](https://cdn.pixabay.com/photo/2019/02/25/20/19/iris-4020510_640.jpg#center)
 
 
 ### 꽃창포(Flag Iris)에 대한 설명

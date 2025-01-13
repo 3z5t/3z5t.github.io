@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Macieira](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_1280.jpg#center)
+![Imagem de Macieira](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_640.jpg#center)
 
 
 ## Flor de nascimento de 29 de setembro: Macieira

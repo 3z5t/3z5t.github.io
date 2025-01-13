@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![덩굴성 식물의 이미지](https://cdn.pixabay.com/photo/2016/06/12/22/30/wall-1453158_1280.jpg#center)
+![덩굴성 식물의 이미지](https://cdn.pixabay.com/photo/2016/06/12/22/30/wall-1453158_640.jpg#center)
 
 
 ### 덩굴성 식물(Climbing Plant)의 설명

@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Acacia rosa](https://cdn.pixabay.com/photo/2014/10/04/21/03/acacia-pink-474087_1280.jpg#center)
+![Imagen de Acacia rosa](https://cdn.pixabay.com/photo/2014/10/04/21/03/acacia-pink-474087_640.jpg#center)
 
 
 ## Acacia Rosa, la Flor del Nacimiento del 28 de Marzo

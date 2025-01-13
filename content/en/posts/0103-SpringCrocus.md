@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Spring Crocus](https://cdn.pixabay.com/photo/2014/02/10/08/17/flowers-263278_1280.jpg#center)
+![Image of Spring Crocus](https://cdn.pixabay.com/photo/2014/02/10/08/17/flowers-263278_640.jpg#center)
 
 
 ## Spring Crocus: The Birth Flower of January 3rd

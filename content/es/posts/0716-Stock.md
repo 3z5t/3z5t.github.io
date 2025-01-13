@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Alhelí](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_1280.jpg#center)
+![Imagen de Alhelí](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_640.jpg#center)
 
 
 ## Alhelí: La Flor de la Belleza Eterna para el 16 de Julio

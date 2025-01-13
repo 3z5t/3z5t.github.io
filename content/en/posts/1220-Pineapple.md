@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Pineapple](https://cdn.pixabay.com/photo/2018/09/09/12/51/pineapple-3664499_1280.jpg#center)
+![Image of Pineapple](https://cdn.pixabay.com/photo/2018/09/09/12/51/pineapple-3664499_640.jpg#center)
 
 
 ### Description of Pineapple

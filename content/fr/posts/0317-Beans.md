@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Fleur de haricot](https://cdn.pixabay.com/photo/2023/09/26/08/25/helmet-bean-8276784_1280.jpg#center)
+![Image de Fleur de haricot](https://cdn.pixabay.com/photo/2023/09/26/08/25/helmet-bean-8276784_640.jpg#center)
 
 
 ## Fleur de haricot (Beans), la fleur du 17 mars : Une promesse de bonheur et de prospérité

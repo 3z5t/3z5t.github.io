@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Snap Dragon](https://cdn.pixabay.com/photo/2012/03/02/00/37/snapdragon-20809_1280.jpg#center)
+![Image of Snap Dragon](https://cdn.pixabay.com/photo/2012/03/02/00/37/snapdragon-20809_640.jpg#center)
 
 
 ### Description of Snap Dragon

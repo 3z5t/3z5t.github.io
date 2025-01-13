@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of DaturaMetel](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_1280.jpg#center)
+![Image of DaturaMetel](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_640.jpg#center)
 
 
 ### Description of Datura Metel

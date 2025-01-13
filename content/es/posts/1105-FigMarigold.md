@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Aster coreano](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_1280.jpg#center)
+![Imagen de Aster coreano](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_640.jpg#center)
 
 
 ### Descripción de Aster Coreano

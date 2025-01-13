@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Calceolaria](https://cdn.pixabay.com/photo/2018/03/15/17/43/plant-3228944_1280.jpg#center)
+![Imagen de Calceolaria](https://cdn.pixabay.com/photo/2018/03/15/17/43/plant-3228944_640.jpg#center)
 
 
 ## Calceolaria, la Flor del Nacimiento del 27 de Marzo

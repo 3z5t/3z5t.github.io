@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![쥐꼬리망초의 이미지](https://cdn.pixabay.com/photo/2013/03/07/15/36/asperugo-procumbens-91224_1280.jpg)
+![쥐꼬리망초의 이미지](https://cdn.pixabay.com/photo/2013/03/07/15/36/asperugo-procumbens-91224_640.jpg)
 
   
 쥐꼬리망초(Justicia procumbens)는 매력적인 꽃을 가진 식물입니다. 이 꽃은 주로 남아프리카 지역에서 발견되며, 사람들의 눈길을 끄는 아름다움으로 많은 사랑을 받고 있습니다. 낮은 식물로 자라나지만 작지만 강한 매력을 품고 있어 정원이나 꽃밭에 자리를 잡는 것을 즐깁니다.

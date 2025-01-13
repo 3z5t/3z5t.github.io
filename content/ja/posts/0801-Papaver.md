@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ケシ（赤色）のイメージ](https://cdn.pixabay.com/photo/2019/06/02/11/22/poppies-4246241_1280.jpg#center)
+![ケシ（赤色）のイメージ](https://cdn.pixabay.com/photo/2019/06/02/11/22/poppies-4246241_640.jpg#center)
 
 
 ### ケシ（赤色）に関する説明

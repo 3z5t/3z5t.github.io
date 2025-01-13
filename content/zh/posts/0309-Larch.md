@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![落葉松的图片](https://cdn.pixabay.com/photo/2012/09/09/10/09/larch-56567_1280.jpg#center)
+![落葉松的图片](https://cdn.pixabay.com/photo/2012/09/09/10/09/larch-56567_640.jpg#center)
 
 
 ## 落葉松的描述

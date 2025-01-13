@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة دلبوث](https://cdn.pixabay.com/photo/2020/07/13/18/56/flowers-5401735_1280.jpg#center)
+![صورة دلبوث](https://cdn.pixabay.com/photo/2020/07/13/18/56/flowers-5401735_640.jpg#center)
 
 ## زهرة ميلاد ٢٣ مارس: دلبوث
 

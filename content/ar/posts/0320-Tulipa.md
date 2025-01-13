@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة التوليب البنفسجي](https://cdn.pixabay.com/photo/2022/05/06/15/20/tulips-7178547_1280.jpg#center)
+![صورة التوليب البنفسجي](https://cdn.pixabay.com/photo/2022/05/06/15/20/tulips-7178547_640.jpg#center)
 
 ## زهرة ميلاد ٢٠ مارس: التوليب البنفسجي
 

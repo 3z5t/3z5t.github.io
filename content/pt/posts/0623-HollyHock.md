@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Malva-rosa](https://cdn.pixabay.com/photo/2018/08/15/05/58/hollyhock-3607356_1280.jpg#center)
+![Imagem de Malva-rosa](https://cdn.pixabay.com/photo/2018/08/15/05/58/hollyhock-3607356_640.jpg#center)
 
 
 ## Flor de nascimento de 23 de junho: Malva-rosa

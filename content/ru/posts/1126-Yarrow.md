@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Тысячелистник обыкновенный](https://cdn.pixabay.com/photo/2018/09/16/11/10/yarrow-plant-3681169_1280.jpg#center)
+![Изображение Тысячелистник обыкновенный](https://cdn.pixabay.com/photo/2018/09/16/11/10/yarrow-plant-3681169_640.jpg#center)
 
 ## Тысячелистник обыкновенный (Yarrow): Дар вдохновлять
 

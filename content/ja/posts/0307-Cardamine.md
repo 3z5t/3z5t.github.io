@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![コウノトリのイメージ](https://cdn.pixabay.com/photo/2020/05/16/20/52/forest-cress-5179218_1280.jpg#center)
+![コウノトリのイメージ](https://cdn.pixabay.com/photo/2020/05/16/20/52/forest-cress-5179218_640.jpg#center)
 
 
 ## コウノトリに関する説明

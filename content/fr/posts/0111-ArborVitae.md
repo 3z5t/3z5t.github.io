@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Thuya](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_1280.jpg#center)
+![Image de Thuya](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_640.jpg#center)
 
 
 ## Thuya, la fleur du 11 janvier : Un symbole d’amitié indéfectible

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة سيلينة تاجية](https://cdn.pixabay.com/photo/2020/06/26/15/14/lychnis-coronaria-5343032_1280.jpg#center)
+![صورة سيلينة تاجية](https://cdn.pixabay.com/photo/2020/06/26/15/14/lychnis-coronaria-5343032_640.jpg#center)
 
 ## زهرة ميلاد ١٩ أغسطس: سيلينة تاجية
 

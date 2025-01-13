@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![마거리트의 이미지](https://cdn.pixabay.com/photo/2016/09/09/08/30/marguerite-1656357_1280.jpg#center)
+![마거리트의 이미지](https://cdn.pixabay.com/photo/2016/09/09/08/30/marguerite-1656357_640.jpg#center)
 
 
 ### 9월 3일의 꽃: 마거리트(Marguerite)

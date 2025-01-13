@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Спирея японская](https://cdn.pixabay.com/photo/2020/04/21/04/50/meadowsweet-trees-5070844_1280.jpg#center)
+![Изображение Спирея японская](https://cdn.pixabay.com/photo/2020/04/21/04/50/meadowsweet-trees-5070844_640.jpg#center)
 
 ## Спирея японская — символ незапятнанной любви
 

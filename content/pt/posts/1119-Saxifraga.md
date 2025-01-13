@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Saxifraga oppositifolia](https://cdn.pixabay.com/photo/2016/12/13/22/11/badan-1905221_1280.jpg#center)
+![Imagem de Saxifraga oppositifolia](https://cdn.pixabay.com/photo/2016/12/13/22/11/badan-1905221_640.jpg#center)
 
 
 ## Flor de nascimento de 19 de novembro: Saxifraga oppositifolia

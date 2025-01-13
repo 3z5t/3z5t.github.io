@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![紫鬱金香的图片](https://cdn.pixabay.com/photo/2022/05/06/15/20/tulips-7178547_1280.jpg#center)
+![紫鬱金香的图片](https://cdn.pixabay.com/photo/2022/05/06/15/20/tulips-7178547_640.jpg#center)
 
 
 ## 紫鬱金香的描述

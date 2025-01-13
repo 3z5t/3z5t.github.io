@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Heidekraut](https://cdn.pixabay.com/photo/2016/11/30/05/29/erika-1871921_1280.jpg#center)
+![Bild von Heidekraut](https://cdn.pixabay.com/photo/2016/11/30/05/29/erika-1871921_640.jpg#center)
 
 ## Geburtsblume des 5. August: Heidekraut
 

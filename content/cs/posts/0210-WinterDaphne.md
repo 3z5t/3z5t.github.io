@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Lýkovec vonný](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_1280.jpg#center)
+![Obrázek Lýkovec vonný](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_640.jpg#center)
 
 
 ## 10. února – Narozeninová květina: Lýkovec vonný

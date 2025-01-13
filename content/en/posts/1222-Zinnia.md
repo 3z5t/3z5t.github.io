@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Zinnia](https://cdn.pixabay.com/photo/2017/09/28/15/27/dream-park-2795924_1280.jpg#center)
+![Image of Zinnia](https://cdn.pixabay.com/photo/2017/09/28/15/27/dream-park-2795924_640.jpg#center)
 
 
 ### Description of Zinnia

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![브리오니아의 이미지](https://cdn.pixabay.com/photo/2022/05/13/10/21/bryonia-7193340_1280.jpg#center)
+![브리오니아의 이미지](https://cdn.pixabay.com/photo/2022/05/13/10/21/bryonia-7193340_640.jpg#center)
 
 
 ### 11월 3일의 꽃: 브리오니아(Bryonia)

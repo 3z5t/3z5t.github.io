@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![무궁화의 이미지](https://cdn.pixabay.com/photo/2022/08/14/07/18/flower-7385082_1280.jpg#center)
+![무궁화의 이미지](https://cdn.pixabay.com/photo/2022/08/14/07/18/flower-7385082_640.jpg#center)
 
 
 ### 10월 28일의 꽃: 무궁화(Rose of Sharon)

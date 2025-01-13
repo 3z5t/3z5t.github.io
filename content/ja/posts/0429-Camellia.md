@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ツバキのイメージ](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_1280.jpg#center)
+![ツバキのイメージ](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_640.jpg#center)
 
 
 ## ツバキに関する説明

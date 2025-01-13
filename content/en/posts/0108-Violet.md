@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Violet](https://cdn.pixabay.com/photo/2018/08/02/03/46/violets-3578798_1280.png#center)
+![Image of Violet](https://cdn.pixabay.com/photo/2018/08/02/03/46/violets-3578798_640.png#center)
 
 
 ## Violet: The Birth Flower of January 8th

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Ranúnculo](https://cdn.pixabay.com/photo/2023/07/02/07/20/buttercup-8101494_1280.jpg#center)
+![Imagem de Ranúnculo](https://cdn.pixabay.com/photo/2023/07/02/07/20/buttercup-8101494_640.jpg#center)
 
 
 ## Flor de nascimento de 18 de fevereiro: Ranúnculo

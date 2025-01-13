@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Mimosa](https://cdn.pixabay.com/photo/2022/06/07/22/59/flower-7249417_1280.jpg#center)
+![Imagem de Mimosa](https://cdn.pixabay.com/photo/2022/06/07/22/59/flower-7249417_640.jpg#center)
 
 ## Flor de nascimento de 26 de janeiro: Mimosa
 

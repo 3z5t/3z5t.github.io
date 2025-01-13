@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Sweet Alyssum](https://cdn.pixabay.com/photo/2020/06/22/13/50/sweet-alyssum-5329266_1280.jpg#center)
+![Image of Sweet Alyssum](https://cdn.pixabay.com/photo/2020/06/22/13/50/sweet-alyssum-5329266_640.jpg#center)
 
 
 ## Sweet Alyssum: The Birth Flower of January 12th

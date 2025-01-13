@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![クリスマスホーリーのイメージ](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_1280.jpg#center)
+![クリスマスホーリーのイメージ](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_640.jpg#center)
 
 
 ## クリスマスホーリーに関する説明

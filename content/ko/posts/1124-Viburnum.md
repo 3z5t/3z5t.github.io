@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![가막살나무의 이미지](https://cdn.pixabay.com/photo/2019/05/19/21/28/viburnum-4215322_1280.jpg#center)
+![가막살나무의 이미지](https://cdn.pixabay.com/photo/2019/05/19/21/28/viburnum-4215322_640.jpg#center)
 
 
 ### 11월 24일의 꽃: 가막살나무 (Viburnum)

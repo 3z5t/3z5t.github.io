@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Kornblume](https://cdn.pixabay.com/photo/2019/05/24/02/20/the-idyll-4225323_1280.jpg#center)
+![Bild von Kornblume](https://cdn.pixabay.com/photo/2019/05/24/02/20/the-idyll-4225323_640.jpg#center)
 
 
 ## Geburtsblume des 5. März: Kornblume

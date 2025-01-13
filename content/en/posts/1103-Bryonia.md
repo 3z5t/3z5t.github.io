@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Bryonia](https://cdn.pixabay.com/photo/2022/05/13/10/21/bryonia-7193340_1280.jpg#center)
+![Image of Bryonia](https://cdn.pixabay.com/photo/2022/05/13/10/21/bryonia-7193340_640.jpg#center)
 
 
 ### Description of Bryonia

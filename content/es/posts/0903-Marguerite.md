@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Margarita](https://cdn.pixabay.com/photo/2016/09/09/08/30/marguerite-1656357_1280.jpg#center)
+![Imagen de Margarita](https://cdn.pixabay.com/photo/2016/09/09/08/30/marguerite-1656357_640.jpg#center)
 
 
 ## Margarita: La Flor del 3 de Septiembre, Símbolo del Amor Secreto

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة طَرَخْشَقون](https://cdn.pixabay.com/photo/2023/05/22/14/49/dandelion-8010882_1280.jpg#center)
+![صورة طَرَخْشَقون](https://cdn.pixabay.com/photo/2023/05/22/14/49/dandelion-8010882_640.jpg#center)
 
 ## زهرة ميلاد ٣ مايو: طَرَخْشَقون
 

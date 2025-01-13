@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![クロッカスサフラン（クロッカスサティバス）のイメージ](https://cdn.pixabay.com/photo/2019/02/28/16/54/krokus-4026324_1280.jpg#center)
+![クロッカスサフラン（クロッカスサティバス）のイメージ](https://cdn.pixabay.com/photo/2019/02/28/16/54/krokus-4026324_640.jpg#center)
 
 
 ## クロッカスサフラン（クロッカスサティバス）に関する説明

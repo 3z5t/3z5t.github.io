@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Berglilie](https://cdn.pixabay.com/photo/2020/07/26/18/19/flowers-5440298_1280.jpg#center)
+![Bild von Berglilie](https://cdn.pixabay.com/photo/2020/07/26/18/19/flowers-5440298_640.jpg#center)
 
 ## Geburtsblume des 18. November: Berglilie
 

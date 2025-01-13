@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Fuchsia](https://cdn.pixabay.com/photo/2013/09/03/19/25/fuchsia-178705_1280.jpg#center)
+![Image de Fuchsia](https://cdn.pixabay.com/photo/2013/09/03/19/25/fuchsia-178705_640.jpg#center)
 
 
 ## Fuchsia, la fleur du 22 mai

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![부용의 이미지](https://cdn.pixabay.com/photo/2019/08/10/14/04/hibiscus-mutabilis-4397033_1280.jpg#center)
+![부용의 이미지](https://cdn.pixabay.com/photo/2019/08/10/14/04/hibiscus-mutabilis-4397033_640.jpg#center)
 
 
 ### 11월 10일의 꽃: 부용 (Hibiscus Mutabilis)

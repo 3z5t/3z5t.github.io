@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Tavolník](https://cdn.pixabay.com/photo/2022/05/08/07/44/flowers-7181453_1280.jpg#center)
+![Obrázek Tavolník](https://cdn.pixabay.com/photo/2022/05/08/07/44/flowers-7181453_640.jpg#center)
 
 
 ## 22. srpna – Narozeninová květina: Tavolník

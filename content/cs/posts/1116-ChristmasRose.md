@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Čemeřice černá](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_1280.jpg#center)
+![Obrázek Čemeřice černá](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_640.jpg#center)
 
 
 ## 16. listopadu – Narozeninová květina: Čemeřice černá

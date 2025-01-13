@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Deutsche Mispel](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_1280.jpg#center)
+![Bild von Deutsche Mispel](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_640.jpg#center)
 
 
 ## Geburtsblume des 1. November: Deutsche Mispel

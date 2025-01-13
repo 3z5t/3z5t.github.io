@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Aksamitník](https://cdn.pixabay.com/photo/2022/07/03/14/40/marigold-7299451_1280.jpg#center)
+![Obrázek Aksamitník](https://cdn.pixabay.com/photo/2022/07/03/14/40/marigold-7299451_640.jpg#center)
 
 ## 7. listopadu – Narozeninová květina: Aksamitník
 

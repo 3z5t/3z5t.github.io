@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![デイジーのイメージ](https://cdn.pixabay.com/photo/2018/05/23/23/10/daisies-3425426_1280.jpg#center)
+![デイジーのイメージ](https://cdn.pixabay.com/photo/2018/05/23/23/10/daisies-3425426_640.jpg#center)
 
 
 ## デイジーに関する説明

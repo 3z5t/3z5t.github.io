@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![진달래의 이미지](https://cdn.pixabay.com/photo/2018/05/15/03/08/azaleas-3402117_1280.jpg#center)
+![진달래의 이미지](https://cdn.pixabay.com/photo/2018/05/15/03/08/azaleas-3402117_640.jpg#center)
 
 
 ### 진달래(Azalea) 에 대한 설명

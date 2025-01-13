@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Astrágalo Sinicus](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_1280.jpg#center)
+![Imagem de Astrágalo Sinicus](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_640.jpg#center)
 
 
 ## Flor de nascimento de 18 de abril: Astrágalo Sinicus

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Amieiro](https://cdn.pixabay.com/photo/2020/01/25/16/05/hazel-4792798_1280.jpg#center)
+![Imagem de Amieiro](https://cdn.pixabay.com/photo/2020/01/25/16/05/hazel-4792798_640.jpg#center)
 
 
 ## Flor de nascimento de 16 de dezembro: Amieiro

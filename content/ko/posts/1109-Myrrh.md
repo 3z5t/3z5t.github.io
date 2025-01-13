@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![몰약꽃의 이미지](https://cdn.pixabay.com/photo/2018/02/26/17/48/nature-3183605_1280.jpg#center)
+![몰약꽃의 이미지](https://cdn.pixabay.com/photo/2018/02/26/17/48/nature-3183605_640.jpg#center)
 
 
 ### 11월 9일의 꽃: 몰약꽃 (Myrrh)

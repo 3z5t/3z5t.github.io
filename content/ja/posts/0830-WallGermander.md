@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ウォールジャーマンダーのイメージ](https://cdn.pixabay.com/photo/2020/08/12/12/16/teucrium-paradise-delight-5482517_1280.jpg#center)
+![ウォールジャーマンダーのイメージ](https://cdn.pixabay.com/photo/2020/08/12/12/16/teucrium-paradise-delight-5482517_640.jpg#center)
 
 
 ## ウォールジャーマンダー（Wall Germander）について

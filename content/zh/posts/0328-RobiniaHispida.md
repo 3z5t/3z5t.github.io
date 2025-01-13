@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![毛洋槐的图片](https://cdn.pixabay.com/photo/2014/10/04/21/03/acacia-pink-474087_1280.jpg#center)
+![毛洋槐的图片](https://cdn.pixabay.com/photo/2014/10/04/21/03/acacia-pink-474087_640.jpg#center)
 
 
 ## 毛洋槐的描述

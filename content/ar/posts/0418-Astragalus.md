@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة قتاد](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_1280.jpg#center)
+![صورة قتاد](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_640.jpg#center)
 
 ## زهرة ميلاد ١٨ أبريل: قتاد
 

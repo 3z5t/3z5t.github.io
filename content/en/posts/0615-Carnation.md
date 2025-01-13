@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Carnation](https://cdn.pixabay.com/photo/2023/01/06/21/34/carnation-7702161_1280.jpg#center)
+![Image of Carnation](https://cdn.pixabay.com/photo/2023/01/06/21/34/carnation-7702161_640.jpg#center)
 
 
 ### Description of Carnation

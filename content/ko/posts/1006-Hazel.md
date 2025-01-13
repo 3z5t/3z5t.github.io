@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![개암나무의 이미지](https://cdn.pixabay.com/photo/2019/03/25/18/37/hazel-flowers-4081036_1280.jpg#center)
+![개암나무의 이미지](https://cdn.pixabay.com/photo/2019/03/25/18/37/hazel-flowers-4081036_640.jpg#center)
 
 
 ### 10월 6일의 꽃: 개암나무(Hazel)

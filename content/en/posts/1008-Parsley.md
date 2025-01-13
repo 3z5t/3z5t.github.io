@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Parsley](https://cdn.pixabay.com/photo/2022/06/05/13/57/cow-parsley-7244120_1280.jpg#center)
+![Image of Parsley](https://cdn.pixabay.com/photo/2022/06/05/13/57/cow-parsley-7244120_640.jpg#center)
 
 
 ### Description of Parsley

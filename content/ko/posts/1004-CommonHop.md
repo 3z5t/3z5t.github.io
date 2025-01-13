@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![홉의 이미지](https://cdn.pixabay.com/photo/2014/08/04/18/12/hop-vines-409870_1280.jpg#center)
+![홉의 이미지](https://cdn.pixabay.com/photo/2014/08/04/18/12/hop-vines-409870_640.jpg#center)
 
 
 ### 10월 4일의 꽃: 홉(Common Hop)

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة زَهْرة الرَّبيع المُعَطَّرة](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_1280.jpg#center)
+![صورة زَهْرة الرَّبيع المُعَطَّرة](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_640.jpg#center)
 
 ## زهرة ميلاد ١ مايو: زَهْرة الرَّبيع المُعَطَّرة
 

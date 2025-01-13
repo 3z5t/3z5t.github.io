@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة حشيشة الكناري](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_1280.jpg#center)
+![صورة حشيشة الكناري](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_640.jpg#center)
 
 ## زهرة ميلاد ١٣ فبراير: حشيشة الكناري
 

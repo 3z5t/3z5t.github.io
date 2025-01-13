@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Фуксия гибридная](https://cdn.pixabay.com/photo/2013/09/03/19/25/fuchsia-178705_1280.jpg#center)
+![Изображение Фуксия гибридная](https://cdn.pixabay.com/photo/2013/09/03/19/25/fuchsia-178705_640.jpg#center)
 
 ## Фуксия гибридная: Воодушевлённая душа
 

@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Clavel tornasolado](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_1280.jpg#center)
+![Imagen de Clavel tornasolado](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_640.jpg#center)
 
 
 ## Clavel Tornasolado: La Flor del Anhelo y el Amor Puro para el 22 de Julio

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![네모필라의 이미지](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_1280.jpg#center)
+![네모필라의 이미지](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_640.jpg#center)
 
 
 ### 네모필라

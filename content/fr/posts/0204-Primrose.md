@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Primevère rouge](https://cdn.pixabay.com/photo/2017/02/05/17/06/flower-2040617_1280.jpg#center)
+![Image de Primevère rouge](https://cdn.pixabay.com/photo/2017/02/05/17/06/flower-2040617_640.jpg#center)
 
 
 ## Primevère rouge, la fleur du 4 février : Une célébration de la beauté naturelle

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ツルハナナスのイメージ](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_1280.jpg#center)
+![ツルハナナスのイメージ](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_640.jpg#center)
 
 
 ### ツルハナナス（Solanum）について

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Black Poplar](https://cdn.pixabay.com/photo/2012/10/09/06/00/leaves-60488_1280.jpg#center)
+![Image of Black Poplar](https://cdn.pixabay.com/photo/2012/10/09/06/00/leaves-60488_640.jpg#center)
 
 
 ## Black Poplar: The Birth Flower of January 28th

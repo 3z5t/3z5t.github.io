@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![水仙的图片](https://cdn.pixabay.com/photo/2021/04/06/19/20/daffodils-6157253_1280.jpg#center)
+![水仙的图片](https://cdn.pixabay.com/photo/2021/04/06/19/20/daffodils-6157253_640.jpg#center)
 
 
 ## 水仙的描述

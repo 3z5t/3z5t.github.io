@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Thuja](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_1280.jpg#center)
+![Bild von Thuja](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_640.jpg#center)
 
 
 ## Geburtsblume des 11. Januar: Thuja

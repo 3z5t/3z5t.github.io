@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Forget-me-not](https://cdn.pixabay.com/photo/2018/05/04/15/44/blue-3374250_1280.jpg#center)
+![Image of Forget-me-not](https://cdn.pixabay.com/photo/2018/05/04/15/44/blue-3374250_640.jpg#center)
 
 
 ### Description of Forget-me-not

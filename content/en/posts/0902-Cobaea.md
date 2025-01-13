@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Cobaea](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_1280.jpg#center)
+![Image of Cobaea](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_640.jpg#center)
 
 
 ### Description of Cobaea

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of York &Lancaster Rose](https://cdn.pixabay.com/photo/2014/03/30/13/01/rose-301406_1280.jpg#center)
+![Image of York &Lancaster Rose](https://cdn.pixabay.com/photo/2014/03/30/13/01/rose-301406_640.jpg#center)
 
 
 ### Description of York & Lancaster Rose

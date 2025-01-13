@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Rosa de Sharon](https://cdn.pixabay.com/photo/2022/08/14/07/18/flower-7385082_1280.jpg#center)
+![Imagem de Rosa de Sharon](https://cdn.pixabay.com/photo/2022/08/14/07/18/flower-7385082_640.jpg#center)
 
 
 ## Flor de nascimento de 28 de outubro: Rosa de Sharon

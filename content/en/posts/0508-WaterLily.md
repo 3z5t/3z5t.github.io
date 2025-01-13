@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Water Lily](https://cdn.pixabay.com/photo/2017/06/17/21/21/water-lilies-2413578_1280.jpg#center)
+![Image of Water Lily](https://cdn.pixabay.com/photo/2017/06/17/21/21/water-lilies-2413578_640.jpg#center)
 
 
 ### Description of Water Lily

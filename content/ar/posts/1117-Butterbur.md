@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة قبعية](https://cdn.pixabay.com/photo/2015/09/24/17/19/hunt-955953_1280.jpg#center)
+![صورة قبعية](https://cdn.pixabay.com/photo/2015/09/24/17/19/hunt-955953_640.jpg#center)
 
 ## زهرة ميلاد ١٧ نوفمبر: قبعية
 

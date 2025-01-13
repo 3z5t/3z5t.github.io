@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![보리의 이미지](https://cdn.pixabay.com/photo/2018/03/19/20/20/wheat-3241114_1280.jpg#center)
+![보리의 이미지](https://cdn.pixabay.com/photo/2018/03/19/20/20/wheat-3241114_640.jpg#center)
 
 
 ### 보리(Straw): 2월 28일의 자연의 풍요

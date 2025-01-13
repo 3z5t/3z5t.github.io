@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Waldgeißblatt](https://cdn.pixabay.com/photo/2018/08/13/04/58/flower-3602283_1280.jpg#center)
+![Bild von Waldgeißblatt](https://cdn.pixabay.com/photo/2018/08/13/04/58/flower-3602283_640.jpg#center)
 
 
 ## Geburtsblume des 30. Juni: Waldgeißblatt

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Lichořeřišnice větší](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_1280.jpg#center)
+![Obrázek Lichořeřišnice větší](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_640.jpg#center)
 
 
 ## 6. září – Narozeninová květina: Lichořeřišnice větší

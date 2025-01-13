@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Květ fazole](https://cdn.pixabay.com/photo/2023/09/26/08/25/helmet-bean-8276784_1280.jpg#center)
+![Obrázek Květ fazole](https://cdn.pixabay.com/photo/2023/09/26/08/25/helmet-bean-8276784_640.jpg#center)
 
 
 ## 17. března – Narozeninová květina: Květ fazole

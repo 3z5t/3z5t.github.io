@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Niederliegende Justicia](https://cdn.pixabay.com/photo/2013/03/07/15/36/asperugo-procumbens-91224_1280.jpg#center)
+![Bild von Niederliegende Justicia](https://cdn.pixabay.com/photo/2013/03/07/15/36/asperugo-procumbens-91224_640.jpg#center)
 
 
 ## Geburtsblume des 12. Februar: Niederliegende Justicia

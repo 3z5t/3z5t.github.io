@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Arce emperador](https://cdn.pixabay.com/photo/2016/12/22/03/34/red-leaves-1924443_1280.jpg#center)
+![Imagen de Arce emperador](https://cdn.pixabay.com/photo/2016/12/22/03/34/red-leaves-1924443_640.jpg#center)
 
 
 ## Arce Emperador (Aceraceae): La Flor del 25 de Octubre, Símbolo de "Fortaleza Espiritual"

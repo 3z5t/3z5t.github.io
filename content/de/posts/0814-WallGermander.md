@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Edel-Gamander](https://cdn.pixabay.com/photo/2020/08/12/12/16/teucrium-paradise-delight-5482517_1280.jpg#center)
+![Bild von Edel-Gamander](https://cdn.pixabay.com/photo/2020/08/12/12/16/teucrium-paradise-delight-5482517_640.jpg#center)
 
 
 ## Geburtsblume des 14. August: Edel-Gamander

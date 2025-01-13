@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Gemeiner Flieder](https://cdn.pixabay.com/photo/2019/05/05/21/02/lilac-4181712_1280.jpg#center)
+![Bild von Gemeiner Flieder](https://cdn.pixabay.com/photo/2019/05/05/21/02/lilac-4181712_640.jpg#center)
 
 
 ## Geburtsblume des 12. Mai: Gemeiner Flieder

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![콩꽃의 이미지](https://cdn.pixabay.com/photo/2023/09/26/08/25/helmet-bean-8276784_1280.jpg#center)
+![콩꽃의 이미지](https://cdn.pixabay.com/photo/2023/09/26/08/25/helmet-bean-8276784_640.jpg#center)
 
 
 ### 콩꽃(Beans)의 설명

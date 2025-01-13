@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Membrillero](https://cdn.pixabay.com/photo/2019/03/31/17/40/japanese-ornamental-quince-4093575_1280.jpg#center)
+![Imagen de Membrillero](https://cdn.pixabay.com/photo/2019/03/31/17/40/japanese-ornamental-quince-4093575_640.jpg#center)
 
 
 ## Membrillero: La Flor del 14 de Septiembre, Símbolo de Tentación

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![風鈴草的图片](https://cdn.pixabay.com/photo/2018/12/31/02/18/lanterns-3904294_1280.jpg#center)
+![風鈴草的图片](https://cdn.pixabay.com/photo/2018/12/31/02/18/lanterns-3904294_640.jpg#center)
 
 
 ## 風鈴草的描述

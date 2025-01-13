@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Avellano](https://cdn.pixabay.com/photo/2019/03/25/18/37/hazel-flowers-4081036_1280.jpg#center)
+![Imagen de Avellano](https://cdn.pixabay.com/photo/2019/03/25/18/37/hazel-flowers-4081036_640.jpg#center)
 
 
 ## Avellano: La Flor del 6 de Octubre, Símbolo de la "Reconciliación"

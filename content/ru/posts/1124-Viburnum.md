@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Калина обыкновенная](https://cdn.pixabay.com/photo/2019/05/19/21/28/viburnum-4215322_1280.jpg#center)
+![Изображение Калина обыкновенная](https://cdn.pixabay.com/photo/2019/05/19/21/28/viburnum-4215322_640.jpg#center)
 
 ## Калина обыкновенная (Viburnum): символ бессмертной любви
 

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Bleuet](https://cdn.pixabay.com/photo/2018/05/17/17/25/cornflowers-3409140_1280.jpg#center)
+![Image de Bleuet](https://cdn.pixabay.com/photo/2018/05/17/17/25/cornflowers-3409140_640.jpg#center)
 
 
 ## Bleuet, la fleur du 2 août

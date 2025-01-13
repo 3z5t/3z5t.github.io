@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Rose de Sharon](https://cdn.pixabay.com/photo/2022/08/14/07/18/flower-7385082_1280.jpg#center)
+![Image de Rose de Sharon](https://cdn.pixabay.com/photo/2022/08/14/07/18/flower-7385082_640.jpg#center)
 
 
 ## Portrait botanique de la Rose de Sharon (Hibiscus syriacus)

@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Nigelle de Damas](https://cdn.pixabay.com/photo/2017/02/04/20/59/nigella-damascena-miss-jekyll-2038376_1280.jpg#center)
+![Image de Nigelle de Damas](https://cdn.pixabay.com/photo/2017/02/04/20/59/nigella-damascena-miss-jekyll-2038376_640.jpg#center)
 
 
 ## Nigelle de Damas (Nigella Damascena), la fleur du 31 mars : Un hommage à l’amour rêvé et à la délicatesse de l’imaginaire

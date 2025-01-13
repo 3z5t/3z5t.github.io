@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Vřesovec](https://cdn.pixabay.com/photo/2016/11/30/05/29/erika-1871921_1280.jpg#center)
+![Obrázek Vřesovec](https://cdn.pixabay.com/photo/2016/11/30/05/29/erika-1871921_640.jpg#center)
 
 
 ## 5. srpna – Narozeninová květina: Vřesovec

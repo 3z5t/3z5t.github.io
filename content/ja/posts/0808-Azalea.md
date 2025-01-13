@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ツツジのイメージ](https://cdn.pixabay.com/photo/2018/05/15/03/08/azaleas-3402117_1280.jpg#center)
+![ツツジのイメージ](https://cdn.pixabay.com/photo/2018/05/15/03/08/azaleas-3402117_640.jpg#center)
 
 
 ### ツツジに関する説明

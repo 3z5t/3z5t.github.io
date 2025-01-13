@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Nigella Damascena](https://cdn.pixabay.com/photo/2017/02/04/20/59/nigella-damascena-miss-jekyll-2038376_1280.jpg#center)
+![Image of Nigella Damascena](https://cdn.pixabay.com/photo/2017/02/04/20/59/nigella-damascena-miss-jekyll-2038376_640.jpg#center)
 
 
 ### Description of Nigella Damascena

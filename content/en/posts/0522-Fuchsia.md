@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Fuchsia](https://cdn.pixabay.com/photo/2013/09/03/19/25/fuchsia-178705_1280.jpg#center)
+![Image of Fuchsia](https://cdn.pixabay.com/photo/2013/09/03/19/25/fuchsia-178705_640.jpg#center)
 
 
 ### Description of Fuchsia

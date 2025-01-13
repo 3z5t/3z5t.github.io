@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Marguerite](https://cdn.pixabay.com/photo/2018/05/23/23/10/daisies-3425426_1280.jpg#center)
+![Image de Marguerite](https://cdn.pixabay.com/photo/2018/05/23/23/10/daisies-3425426_640.jpg#center)
 
 
 ## Marguerite, la fleur du 27 mai

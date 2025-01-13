@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Rittersporn](https://cdn.pixabay.com/photo/2019/08/28/07/43/nature-4436024_1280.jpg#center)
+![Bild von Rittersporn](https://cdn.pixabay.com/photo/2019/08/28/07/43/nature-4436024_640.jpg#center)
 
 ## Geburtsblume des 21. Mai: Rittersporn
 

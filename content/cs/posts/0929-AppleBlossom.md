@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Jablko](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_1280.jpg#center)
+![Obrázek Jablko](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_640.jpg#center)
 
 
 ## 29. září – Narozeninová květina: Jablko

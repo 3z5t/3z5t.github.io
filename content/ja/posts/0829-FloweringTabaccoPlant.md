@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ハナタバコのイメージ](https://cdn.pixabay.com/photo/2019/09/06/19/32/tobacco-4457154_1280.jpg#center)
+![ハナタバコのイメージ](https://cdn.pixabay.com/photo/2019/09/06/19/32/tobacco-4457154_640.jpg#center)
 
 
 ## ハナタバコ（Flowering Tobacco Plant）について

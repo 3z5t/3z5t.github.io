@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Lomikámen](https://cdn.pixabay.com/photo/2016/12/13/22/11/badan-1905221_1280.jpg#center)
+![Obrázek Lomikámen](https://cdn.pixabay.com/photo/2016/12/13/22/11/badan-1905221_640.jpg#center)
 
 
 ## 19. listopadu – Narozeninová květina: Lomikámen

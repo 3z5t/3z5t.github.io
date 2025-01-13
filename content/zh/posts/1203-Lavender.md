@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![薰衣草的图片](https://cdn.pixabay.com/photo/2021/06/29/18/51/lavender-6374964_1280.jpg#center)
+![薰衣草的图片](https://cdn.pixabay.com/photo/2021/06/29/18/51/lavender-6374964_640.jpg#center)
 
 
 ## 薰衣草的描述

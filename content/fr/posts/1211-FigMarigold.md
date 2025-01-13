@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Aster de montagne](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_1280.jpg#center)
+![Image de Aster de montagne](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_640.jpg#center)
 
 
 ## Portrait botanique de Aster de montagne

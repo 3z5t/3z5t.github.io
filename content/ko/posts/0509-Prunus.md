@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![겹벚꽃의 이미지](https://cdn.pixabay.com/photo/2020/05/13/11/38/cherry-blossoms-5167156_1280.jpg#center)
+![겹벚꽃의 이미지](https://cdn.pixabay.com/photo/2020/05/13/11/38/cherry-blossoms-5167156_640.jpg#center)
 
 
 ### 겹벚꽃(Prunus)에 대한 설명

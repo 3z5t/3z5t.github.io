@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Cognassier](https://cdn.pixabay.com/photo/2019/03/31/17/40/japanese-ornamental-quince-4093575_1280.jpg#center)
+![Image de Cognassier](https://cdn.pixabay.com/photo/2019/03/31/17/40/japanese-ornamental-quince-4093575_640.jpg#center)
 
 
 ## Cognassier (Quince), la fleur du 14 septembre

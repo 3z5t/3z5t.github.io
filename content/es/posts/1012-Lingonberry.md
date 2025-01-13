@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Arándano rojo](https://cdn.pixabay.com/photo/2018/12/24/21/48/lingonberry-twig-3893546_1280.jpg#center)
+![Imagen de Arándano rojo](https://cdn.pixabay.com/photo/2018/12/24/21/48/lingonberry-twig-3893546_640.jpg#center)
 
 
 ## Arándano Rojo: La Flor del 12 de Octubre, Símbolo de "Espíritu Indomable"

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Églantier](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_1280.jpg#center)
+![Image de Églantier](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_640.jpg#center)
 
 
 ## Portrait botanique de l'Églantier (Briar Rose)

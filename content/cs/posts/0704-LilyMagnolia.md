@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Šácholan liliokvětý](https://cdn.pixabay.com/photo/2023/04/24/10/17/flowers-7947730_1280.jpg#center)
+![Obrázek Šácholan liliokvětý](https://cdn.pixabay.com/photo/2023/04/24/10/17/flowers-7947730_640.jpg#center)
 
 
 ## 4. července – Narozeninová květina: Šácholan liliokvětý

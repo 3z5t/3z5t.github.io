@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![호박의 이미지](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_1280.jpg#center)
+![호박의 이미지](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_640.jpg#center)
 
 
 ### 7월 31일의 꽃: 호박(Pumpkin)

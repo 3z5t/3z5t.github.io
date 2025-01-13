@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Arbor-Vitae](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_1280.jpg#center)
+![Image of Arbor-Vitae](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_640.jpg#center)
 
 
 ## Arbor-Vitae: The Birth Flower of January 11th

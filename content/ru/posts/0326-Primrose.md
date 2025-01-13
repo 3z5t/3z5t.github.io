@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Примула белая](https://cdn.pixabay.com/photo/2012/06/08/19/22/primula-schlusselblume-49782_1280.jpg#center)
+![Изображение Примула белая](https://cdn.pixabay.com/photo/2012/06/08/19/22/primula-schlusselblume-49782_640.jpg#center)
 
 ## Примула белая: Символ Первой Любви
 

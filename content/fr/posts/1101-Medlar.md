@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Néflier](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_1280.jpg#center)
+![Image de Néflier](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_640.jpg#center)
 
 
 ## Portrait botanique de Néflier (Medlar)

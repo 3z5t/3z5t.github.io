@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![패랭이꽃의 이미지](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_1280.jpg#center)
+![패랭이꽃의 이미지](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_640.jpg#center)
 
 
 ### 패랭이꽃(Superb Pink) 설명

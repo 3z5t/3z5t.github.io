@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Serbal](https://cdn.pixabay.com/photo/2013/12/09/12/21/mountain-ash-225903_1280.jpg#center)
+![Imagen de Serbal](https://cdn.pixabay.com/photo/2013/12/09/12/21/mountain-ash-225903_640.jpg#center)
 
 
 ## Serbal, la Flor del Nacimiento del 27 de Enero

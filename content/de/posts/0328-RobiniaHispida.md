@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Borstige Robinie](https://cdn.pixabay.com/photo/2014/10/04/21/03/acacia-pink-474087_1280.jpg#center)
+![Bild von Borstige Robinie](https://cdn.pixabay.com/photo/2014/10/04/21/03/acacia-pink-474087_640.jpg#center)
 
 
 ## Geburtsblume des 28. März: Borstige Robinie

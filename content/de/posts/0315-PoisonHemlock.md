@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Gefleckter Schierling](https://cdn.pixabay.com/photo/2022/08/21/14/15/hemlock-7401397_1280.jpg#center)
+![Bild von Gefleckter Schierling](https://cdn.pixabay.com/photo/2022/08/21/14/15/hemlock-7401397_640.jpg#center)
 
 
 ## Geburtsblume des 15. März: Gefleckter Schierling

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Mračňák](https://cdn.pixabay.com/photo/2019/08/13/17/30/abutilon-4403857_1280.jpg#center)
+![Obrázek Mračňák](https://cdn.pixabay.com/photo/2019/08/13/17/30/abutilon-4403857_640.jpg#center)
 
 ## 18. ledna – Narozeninová květina: Mračňák
 

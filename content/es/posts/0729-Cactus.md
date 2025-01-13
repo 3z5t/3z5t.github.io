@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Cactus](https://cdn.pixabay.com/photo/2012/11/28/09/24/cactus-67547_1280.jpg#center)
+![Imagen de Cactus](https://cdn.pixabay.com/photo/2012/11/28/09/24/cactus-67547_640.jpg#center)
 
 
 ## Cactus: La Flor del 29 de Julio, Símbolo de Pasión Ardiente

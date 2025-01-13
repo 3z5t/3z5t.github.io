@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة كامِيليا بَيضاء](https://cdn.pixabay.com/photo/2016/12/05/06/51/camellia-1883205_1280.jpg#center)
+![صورة كامِيليا بَيضاء](https://cdn.pixabay.com/photo/2016/12/05/06/51/camellia-1883205_640.jpg#center)
 
 ## زهرة ميلاد ١١ نوفمبر: كامِيليا بَيضاء
 

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ヤマユリのイメージ](https://cdn.pixabay.com/photo/2020/07/26/18/19/flowers-5440298_1280.jpg#center)
+![ヤマユリのイメージ](https://cdn.pixabay.com/photo/2020/07/26/18/19/flowers-5440298_640.jpg#center)
 
 
 ## ヤマユリに関する説明

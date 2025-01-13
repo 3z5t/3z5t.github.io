@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Campanilla](https://cdn.pixabay.com/photo/2018/12/31/02/18/lanterns-3904294_1280.jpg#center)
+![Imagen de Campanilla](https://cdn.pixabay.com/photo/2018/12/31/02/18/lanterns-3904294_640.jpg#center)
 
 
 ## Campanilla: La Flor de la Gratitud para el 10 de Julio

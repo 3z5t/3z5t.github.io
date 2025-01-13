@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Alysse odorante](https://cdn.pixabay.com/photo/2020/06/22/13/50/sweet-alyssum-5329266_1280.jpg#center)
+![Image de Alysse odorante](https://cdn.pixabay.com/photo/2020/06/22/13/50/sweet-alyssum-5329266_640.jpg#center)
 
 
 ## Alysse odorante, la fleur du 12 janvier : Une élégance délicate et captivante

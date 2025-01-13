@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Календула лекарственная](https://cdn.pixabay.com/photo/2018/07/10/11/11/marigold-3528402_1280.jpg#center)
+![Изображение Календула лекарственная](https://cdn.pixabay.com/photo/2018/07/10/11/11/marigold-3528402_640.jpg#center)
 
 ## Календула лекарственная — символ света и грусти
 

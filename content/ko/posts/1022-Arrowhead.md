@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![벗풀의 이미지](https://cdn.pixabay.com/photo/2018/06/11/19/14/arrowhead-3469144_1280.jpg#center)
+![벗풀의 이미지](https://cdn.pixabay.com/photo/2018/06/11/19/14/arrowhead-3469144_640.jpg#center)
 
 
 ### 10월 22일의 꽃: 벗풀(Arrowhead)

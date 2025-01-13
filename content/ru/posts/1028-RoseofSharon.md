@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Гибискус сирийский](https://cdn.pixabay.com/photo/2022/08/14/07/18/flower-7385082_1280.jpg#center)
+![Изображение Гибискус сирийский](https://cdn.pixabay.com/photo/2022/08/14/07/18/flower-7385082_640.jpg#center)
 
 ## Гибискус сирийский — символ изысканной красоты
 

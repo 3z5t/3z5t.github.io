@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Ožanka kalamandra](https://cdn.pixabay.com/photo/2020/08/12/12/16/teucrium-paradise-delight-5482517_1280.jpg#center)
+![Obrázek Ožanka kalamandra](https://cdn.pixabay.com/photo/2020/08/12/12/16/teucrium-paradise-delight-5482517_640.jpg#center)
 
 
 ## 30. srpna – Narozeninová květina: Ožanka kalamandra

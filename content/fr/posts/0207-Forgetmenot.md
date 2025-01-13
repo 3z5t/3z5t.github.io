@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Myosotis](https://cdn.pixabay.com/photo/2018/05/04/15/44/blue-3374250_1280.jpg#center)
+![Image de Myosotis](https://cdn.pixabay.com/photo/2018/05/04/15/44/blue-3374250_640.jpg#center)
 
 
 ## Myosotis, la fleur du 7 février : Une douce promesse d’éternel souvenir

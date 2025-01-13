@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Pfeilkraut](https://cdn.pixabay.com/photo/2018/06/11/19/14/arrowhead-3469144_1280.jpg#center)
+![Bild von Pfeilkraut](https://cdn.pixabay.com/photo/2018/06/11/19/14/arrowhead-3469144_640.jpg#center)
 
 
 ## Geburtsblume des 22. Oktober: Pfeilkraut

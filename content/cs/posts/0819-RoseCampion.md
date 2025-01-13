@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Kohoutek věncový](https://cdn.pixabay.com/photo/2020/06/26/15/14/lychnis-coronaria-5343032_1280.jpg#center)
+![Obrázek Kohoutek věncový](https://cdn.pixabay.com/photo/2020/06/26/15/14/lychnis-coronaria-5343032_640.jpg#center)
 
 
 ## 19. srpna – Narozeninová květina: Kohoutek věncový

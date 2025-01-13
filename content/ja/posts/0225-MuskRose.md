@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![ムスクローズのイメージ](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_1280.jpg#center)
+![ムスクローズのイメージ](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_640.jpg#center)
 
 
 ## ムスクローズに関する説明

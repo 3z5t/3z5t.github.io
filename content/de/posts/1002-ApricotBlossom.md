@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Aprikosenblüte](https://cdn.pixabay.com/photo/2018/02/20/16/15/flowers-3168025_1280.jpg#center)
+![Bild von Aprikosenblüte](https://cdn.pixabay.com/photo/2018/02/20/16/15/flowers-3168025_640.jpg#center)
 
 
 ## Geburtsblume des 2. Oktober: Aprikosenblüte

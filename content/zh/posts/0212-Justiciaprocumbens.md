@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![爵床的图片](https://cdn.pixabay.com/photo/2013/03/07/15/36/asperugo-procumbens-91224_1280.jpg#center)
+![爵床的图片](https://cdn.pixabay.com/photo/2013/03/07/15/36/asperugo-procumbens-91224_640.jpg#center)
 
 
 ## 爵床的描述

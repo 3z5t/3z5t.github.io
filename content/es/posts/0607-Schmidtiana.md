@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Verónica de Schmidt](https://cdn.pixabay.com/photo/2013/07/26/05/45/large-speedwell-167462_1280.jpg#center)
+![Imagen de Verónica de Schmidt](https://cdn.pixabay.com/photo/2013/07/26/05/45/large-speedwell-167462_640.jpg#center)
 
 
 ## Verónica de Schmidt, la Flor del Nacimiento del 7 de Junio

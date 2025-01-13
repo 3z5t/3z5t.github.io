@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Papoula Branca](https://cdn.pixabay.com/photo/2021/05/14/19/21/poppy-6254293_1280.jpg#center)
+![Imagem de Papoula Branca](https://cdn.pixabay.com/photo/2021/05/14/19/21/poppy-6254293_640.jpg#center)
 
 
 ## Flor de nascimento de 3 de julho: Papoula Branca

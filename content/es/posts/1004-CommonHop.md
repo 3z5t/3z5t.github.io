@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Lúpulo](https://cdn.pixabay.com/photo/2014/08/04/18/12/hop-vines-409870_1280.jpg#center)
+![Imagen de Lúpulo](https://cdn.pixabay.com/photo/2014/08/04/18/12/hop-vines-409870_640.jpg#center)
 
 
 ## Lúpulo: La Flor del 4 de Octubre, Símbolo de "Pureza"

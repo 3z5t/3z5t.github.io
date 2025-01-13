@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Abricotier](https://cdn.pixabay.com/photo/2018/02/20/16/15/flowers-3168025_1280.jpg#center)
+![Image de Abricotier](https://cdn.pixabay.com/photo/2018/02/20/16/15/flowers-3168025_640.jpg#center)
 
 
 ## Abricotier (Apricot Blossom), la fleur du 2 octobre

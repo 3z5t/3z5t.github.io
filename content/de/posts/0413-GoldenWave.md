@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Mädchenauge](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_1280.jpg#center)
+![Bild von Mädchenauge](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_640.jpg#center)
 
 
 ## Geburtsblume des 13. April: Mädchenauge

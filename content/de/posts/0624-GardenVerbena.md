@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Gartenverbene](https://cdn.pixabay.com/photo/2015/05/07/07/58/flowers-756181_1280.jpg#center)
+![Bild von Gartenverbene](https://cdn.pixabay.com/photo/2015/05/07/07/58/flowers-756181_640.jpg#center)
 
 
 ## Geburtsblume des 24. Juni: Gartenverbene

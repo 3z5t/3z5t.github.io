@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Třeslice](https://cdn.pixabay.com/photo/2017/06/30/13/13/hjertegrs-2458228_1280.jpg#center)
+![Obrázek Třeslice](https://cdn.pixabay.com/photo/2017/06/30/13/13/hjertegrs-2458228_640.jpg#center)
 
 
 ## 22. září – Narozeninová květina: Třeslice

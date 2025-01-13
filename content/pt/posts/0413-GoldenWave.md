@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Coreopsis basalis](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_1280.jpg#center)
+![Imagem de Coreopsis basalis](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_640.jpg#center)
 
 
 ## Flor de nascimento de 13 de abril: Coreopsis basalis

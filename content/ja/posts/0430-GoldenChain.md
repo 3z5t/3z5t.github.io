@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![キングサリのイメージ](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_1280.jpg#center)
+![キングサリのイメージ](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_640.jpg#center)
 
 
 ## キングサリに関する説明

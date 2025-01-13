@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Apricot Blossom](https://cdn.pixabay.com/photo/2018/02/20/16/15/flowers-3168025_1280.jpg#center)
+![Image of Apricot Blossom](https://cdn.pixabay.com/photo/2018/02/20/16/15/flowers-3168025_640.jpg#center)
 
 
 ### Description of Apricot Blossom

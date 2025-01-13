@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Trn](https://cdn.pixabay.com/photo/2016/11/12/14/06/spur-1818848_1280.jpg#center)
+![Obrázek Trn](https://cdn.pixabay.com/photo/2016/11/12/14/06/spur-1818848_640.jpg#center)
 
 
 ## 15. ledna – Narozeninová květina: Trn

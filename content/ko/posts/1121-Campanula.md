@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![초롱꽃의 이미지](https://cdn.pixabay.com/photo/2020/03/04/02/40/nature-4900321_1280.jpg#center)
+![초롱꽃의 이미지](https://cdn.pixabay.com/photo/2020/03/04/02/40/nature-4900321_640.jpg#center)
 
 
 ### 11월 21일의 꽃: 초롱꽃 (Campanula)

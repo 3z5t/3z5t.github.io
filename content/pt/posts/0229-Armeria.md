@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Armeria](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_1280.jpg#center)
+![Imagem de Armeria](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_640.jpg#center)
 
 ## Flor de nascimento de 29 de fevereiro: Armeria
 

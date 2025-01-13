@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Гелиотроп перувианский](https://cdn.pixabay.com/photo/2017/08/18/13/52/vanilla-flower-2655056_1280.jpg#center)
+![Изображение Гелиотроп перувианский](https://cdn.pixabay.com/photo/2017/08/18/13/52/vanilla-flower-2655056_640.jpg#center)
 
 ## Гелиотроп перувианский: Бесконечная любовь
 

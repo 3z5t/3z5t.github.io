@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Limoeiro](https://cdn.pixabay.com/photo/2016/04/17/14/28/lemon-blossom-1334788_1280.jpg#center)
+![Imagem de Limoeiro](https://cdn.pixabay.com/photo/2016/04/17/14/28/lemon-blossom-1334788_640.jpg#center)
 
 ## Flor de nascimento de 12 de novembro: Limoeiro
 

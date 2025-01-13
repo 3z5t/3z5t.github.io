@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Tulipeira](https://cdn.pixabay.com/photo/2013/05/27/14/16/tulip-tree-113995_1280.jpg#center)
+![Imagem de Tulipeira](https://cdn.pixabay.com/photo/2013/05/27/14/16/tulip-tree-113995_640.jpg#center)
 
 
 ## Flor de nascimento de 17 de agosto: Tulipeira

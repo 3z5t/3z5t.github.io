@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![빨강무늬 제라늄의 이미지](https://cdn.pixabay.com/photo/2013/11/04/19/02/red-205385_1280.jpg#center)
+![빨강무늬 제라늄의 이미지](https://cdn.pixabay.com/photo/2013/11/04/19/02/red-205385_640.jpg#center)
 
 
 ### 빨강무늬 제라늄(Geranium Zonal)에 대한 설명

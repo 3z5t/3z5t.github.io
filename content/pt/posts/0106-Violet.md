@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Violeta](https://cdn.pixabay.com/photo/2019/04/04/03/27/flowers-4101916_1280.jpg#center)
+![Imagem de Violeta](https://cdn.pixabay.com/photo/2019/04/04/03/27/flowers-4101916_640.jpg#center)
 
 ## Flor de nascimento de 6 de janeiro: Violeta
 

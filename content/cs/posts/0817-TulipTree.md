@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Liliovník tulipánokvětý](https://cdn.pixabay.com/photo/2013/05/27/14/16/tulip-tree-113995_1280.jpg#center)
+![Obrázek Liliovník tulipánokvětý](https://cdn.pixabay.com/photo/2013/05/27/14/16/tulip-tree-113995_640.jpg#center)
 
 
 ## 17. srpna – Narozeninová květina: Liliovník tulipánokvětý

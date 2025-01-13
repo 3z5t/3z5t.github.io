@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![빨강 양귀비의 이미지](https://cdn.pixabay.com/photo/2019/06/02/11/22/poppies-4246241_1280.jpg#center)
+![빨강 양귀비의 이미지](https://cdn.pixabay.com/photo/2019/06/02/11/22/poppies-4246241_640.jpg#center)
 
 
 ### 빨강 양귀비(Papaver)

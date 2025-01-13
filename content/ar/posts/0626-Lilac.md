@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة اللَّيلَك الأبيَض](https://cdn.pixabay.com/photo/2023/12/04/18/10/lilac-8430051_1280.jpg#center)
+![صورة اللَّيلَك الأبيَض](https://cdn.pixabay.com/photo/2023/12/04/18/10/lilac-8430051_640.jpg#center)
 
 ## زهرة ميلاد ٢٦ يونيو: اللَّيلَك الأبيَض
 

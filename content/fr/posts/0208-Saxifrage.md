@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Saxifrage](https://cdn.pixabay.com/photo/2016/12/13/22/11/badan-1905221_1280.jpg#center)
+![Image de Saxifrage](https://cdn.pixabay.com/photo/2016/12/13/22/11/badan-1905221_640.jpg#center)
 
 
 ## Saxifrage, la fleur du 8 février : Un symbole de force intérieure et de sentiments profonds

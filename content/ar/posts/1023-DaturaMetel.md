@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة داتورة ماثلة](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_1280.jpg#center)
+![صورة داتورة ماثلة](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_640.jpg#center)
 
 ## زهرة ميلاد ٢٣ أكتوبر: داتورة ماثلة
 

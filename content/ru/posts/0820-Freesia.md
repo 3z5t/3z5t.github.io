@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Фрезия](https://cdn.pixabay.com/photo/2019/10/04/22/30/flower-4526658_1280.jpg#center)
+![Изображение Фрезия](https://cdn.pixabay.com/photo/2019/10/04/22/30/flower-4526658_640.jpg#center)
 
 ## Фрезия — цветок нежности и чистоты
 

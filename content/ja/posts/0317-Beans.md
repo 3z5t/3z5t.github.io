@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![マメの花のイメージ](https://cdn.pixabay.com/photo/2023/09/26/08/25/helmet-bean-8276784_1280.jpg#center)
+![マメの花のイメージ](https://cdn.pixabay.com/photo/2023/09/26/08/25/helmet-bean-8276784_640.jpg#center)
 
 
 ## マメの花に関する説明

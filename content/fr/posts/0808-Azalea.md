@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Azalée](https://cdn.pixabay.com/photo/2018/05/15/03/08/azaleas-3402117_1280.jpg#center)
+![Image de Azalée](https://cdn.pixabay.com/photo/2018/05/15/03/08/azaleas-3402117_640.jpg#center)
 
 
 ## Azalée, la fleur du 8 août

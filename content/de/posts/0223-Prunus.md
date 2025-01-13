@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Prunus](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_1280.jpg#center)
+![Bild von Prunus](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_640.jpg#center)
 
 
 ## Geburtsblume des 23. Februar: Prunus

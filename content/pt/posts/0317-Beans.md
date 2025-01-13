@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Flor do Feijão](https://cdn.pixabay.com/photo/2023/09/26/08/25/helmet-bean-8276784_1280.jpg#center)
+![Imagem de Flor do Feijão](https://cdn.pixabay.com/photo/2023/09/26/08/25/helmet-bean-8276784_640.jpg#center)
 
 
 ## Flor de nascimento de 17 de março: Flor do Feijão

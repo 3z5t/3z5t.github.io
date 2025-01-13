@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Хризантема](https://cdn.pixabay.com/photo/2019/02/08/13/11/chrysanthemum-3983195_1280.jpg#center)
+![Изображение Хризантема](https://cdn.pixabay.com/photo/2019/02/08/13/11/chrysanthemum-3983195_640.jpg#center)
 
 ## Хризантема (Chrysanthemum): Символ страсти и красоты
 

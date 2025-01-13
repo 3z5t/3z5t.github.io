@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Канареечник](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_1280.jpg#center)
+![Изображение Канареечник](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_640.jpg#center)
 
 ## Канареечник: Символ Терпения и Стойкости
 

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![加州藍鐘穗花的图片](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_1280.jpg#center)
+![加州藍鐘穗花的图片](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_640.jpg#center)
 
 
 ## 加州藍鐘穗花的描述

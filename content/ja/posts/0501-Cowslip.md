@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![カウスリップのイメージ](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_1280.jpg#center)
+![カウスリップのイメージ](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_640.jpg#center)
 
 
 ## カウスリップに関する説明

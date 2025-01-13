@@ -15,7 +15,7 @@ draft: false
 
 
 
-![Image of Rose of Sharon](https://cdn.pixabay.com/photo/2019/07/16/14/50/rose-of-sharon-4342080_1280.jpg#center)
+![Image of Rose of Sharon](https://cdn.pixabay.com/photo/2019/07/16/14/50/rose-of-sharon-4342080_640.jpg#center)
 
 
 ### Description of Rose of Sharon

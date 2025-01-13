@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Arrowhead](https://cdn.pixabay.com/photo/2018/06/11/19/14/arrowhead-3469144_1280.jpg#center)
+![Image of Arrowhead](https://cdn.pixabay.com/photo/2018/06/11/19/14/arrowhead-3469144_640.jpg#center)
 
 
 ### Description of Arrowhead

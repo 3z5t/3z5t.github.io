@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![토끼풀의 이미지](https://cdn.pixabay.com/photo/2018/09/03/09/02/clover-3650704_1280.jpg#center)
+![토끼풀의 이미지](https://cdn.pixabay.com/photo/2018/09/03/09/02/clover-3650704_640.jpg#center)
 
 
 ### 토끼풀 (Clover)

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Kokardenblume](https://cdn.pixabay.com/photo/2014/12/05/01/21/gaillardia-557400_1280.jpg#center)
+![Bild von Kokardenblume](https://cdn.pixabay.com/photo/2014/12/05/01/21/gaillardia-557400_640.jpg#center)
 
 
 ## Geburtsblume des 19. Mai: Kokardenblume

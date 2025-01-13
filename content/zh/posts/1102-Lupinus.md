@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![羽扇豆的图片](https://cdn.pixabay.com/photo/2019/10/29/08/38/grass-4586431_1280.jpg#center)
+![羽扇豆的图片](https://cdn.pixabay.com/photo/2019/10/29/08/38/grass-4586431_640.jpg#center)
 
 
 ## 羽扇豆的描述

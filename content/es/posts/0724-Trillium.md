@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Trilio](https://cdn.pixabay.com/photo/2018/05/19/14/37/trillium-3413621_1280.jpg#center)
+![Imagen de Trilio](https://cdn.pixabay.com/photo/2018/05/19/14/37/trillium-3413621_640.jpg#center)
 
 
 ## Trilio: La Flor de la Ternura de Corazón para el 24 de Julio

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Schwertlilie](https://cdn.pixabay.com/photo/2019/02/25/20/19/iris-4020510_1280.jpg#center)
+![Bild von Schwertlilie](https://cdn.pixabay.com/photo/2019/02/25/20/19/iris-4020510_640.jpg#center)
 
 
 ## Geburtsblume des 10. Mai: Schwertlilie

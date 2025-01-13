@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Madressilva](https://cdn.pixabay.com/photo/2018/08/13/04/58/flower-3602283_1280.jpg#center)
+![Imagem de Madressilva](https://cdn.pixabay.com/photo/2018/08/13/04/58/flower-3602283_640.jpg#center)
 
 
 ## Flor de nascimento de 30 de junho: Madressilva

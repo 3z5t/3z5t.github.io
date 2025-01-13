@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Áster da China](https://cdn.pixabay.com/photo/2019/10/08/17/53/asters-4535620_1280.jpg#center)
+![Imagem de Áster da China](https://cdn.pixabay.com/photo/2019/10/08/17/53/asters-4535620_640.jpg#center)
 
 
 ## Flor de nascimento de 28 de novembro: Áster da China

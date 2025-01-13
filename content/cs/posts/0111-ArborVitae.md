@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Zerav západní](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_1280.jpg#center)
+![Obrázek Zerav západní](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_640.jpg#center)
 
 
 ## 11. ledna – Narozeninová květina: Zerav západní

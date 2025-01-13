@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Echter Jasmin](https://cdn.pixabay.com/photo/2020/06/06/15/48/scent-of-jasmine-5267072_1280.jpg#center)
+![Bild von Echter Jasmin](https://cdn.pixabay.com/photo/2020/06/06/15/48/scent-of-jasmine-5267072_640.jpg#center)
 
 
 ## Geburtsblume des 8. Juni: Echter Jasmin

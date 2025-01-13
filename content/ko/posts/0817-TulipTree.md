@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![백합나무의 이미지](https://cdn.pixabay.com/photo/2013/05/27/14/16/tulip-tree-113995_1280.jpg#center)
+![백합나무의 이미지](https://cdn.pixabay.com/photo/2013/05/27/14/16/tulip-tree-113995_640.jpg#center)
 
 
 ### 백합나무(Tulip-Tree): 자연의 고요함을 담은 아름다움

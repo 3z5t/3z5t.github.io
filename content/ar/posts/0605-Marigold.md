@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة مخملية](https://cdn.pixabay.com/photo/2023/03/07/18/56/marigold-7836281_1280.jpg#center)
+![صورة مخملية](https://cdn.pixabay.com/photo/2023/03/07/18/56/marigold-7836281_640.jpg#center)
 
 
 ## زهرة ميلاد ٥ يونيو: مخملية

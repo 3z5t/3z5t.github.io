@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Gardenia](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_1280.jpg#center)
+![Imagen de Gardenia](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_640.jpg#center)
 
 
 ## Gardenia, la Flor del Nacimiento del 19 de Marzo

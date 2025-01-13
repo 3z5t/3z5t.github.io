@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Topol černý](https://cdn.pixabay.com/photo/2012/10/09/06/00/leaves-60488_1280.jpg#center)
+![Obrázek Topol černý](https://cdn.pixabay.com/photo/2012/10/09/06/00/leaves-60488_640.jpg#center)
 
 
 ## 28. ledna – Narozeninová květina: Topol černý

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Weiße Primel](https://cdn.pixabay.com/photo/2012/06/08/19/22/primula-schlusselblume-49782_1280.jpg#center)
+![Bild von Weiße Primel](https://cdn.pixabay.com/photo/2012/06/08/19/22/primula-schlusselblume-49782_640.jpg#center)
 
 
 ## Geburtsblume des 26. März: Weiße Primel

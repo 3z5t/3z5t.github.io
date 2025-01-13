@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Urze](https://cdn.pixabay.com/photo/2016/11/30/05/29/erika-1871921_1280.jpg#center)
+![Imagem de Urze](https://cdn.pixabay.com/photo/2016/11/30/05/29/erika-1871921_640.jpg#center)
 
 
 ## Flor de nascimento de 5 de agosto: Urze

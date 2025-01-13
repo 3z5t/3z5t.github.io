@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![인동의 이미지](https://cdn.pixabay.com/photo/2018/08/13/04/58/flower-3602283_1280.jpg#center)
+![인동의 이미지](https://cdn.pixabay.com/photo/2018/08/13/04/58/flower-3602283_640.jpg#center)
 
 
 ### 인동(Honey Suckle)에 대한 설명

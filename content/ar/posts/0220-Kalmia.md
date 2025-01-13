@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة كالميا](https://cdn.pixabay.com/photo/2015/05/17/12/01/kalmia-770766_1280.jpg#center)
+![صورة كالميا](https://cdn.pixabay.com/photo/2015/05/17/12/01/kalmia-770766_640.jpg#center)
 
 ## زهرة ميلاد ٢٠ فبراير: كالميا
 

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ハイビスカストリオナムのイメージ](https://cdn.pixabay.com/photo/2016/02/12/17/32/flower-1196470_1280.jpg#center)
+![ハイビスカストリオナムのイメージ](https://cdn.pixabay.com/photo/2016/02/12/17/32/flower-1196470_640.jpg#center)
 
 
 ### ハイビスカストリオナムに関する説明

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Marmeleiro](https://cdn.pixabay.com/photo/2019/03/31/17/40/japanese-ornamental-quince-4093575_1280.jpg#center)
+![Imagem de Marmeleiro](https://cdn.pixabay.com/photo/2019/03/31/17/40/japanese-ornamental-quince-4093575_640.jpg#center)
 
 
 ## Flor de nascimento de 14 de setembro: Marmeleiro

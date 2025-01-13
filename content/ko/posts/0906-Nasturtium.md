@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![한련의 이미지](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_1280.jpg#center)
+![한련의 이미지](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_640.jpg#center)
 
 
 ### 9월 6일의 꽃: 한련(Nasturtium)

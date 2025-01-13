@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة شجرة التِّين](https://cdn.pixabay.com/photo/2016/09/10/08/09/fig-tree-1658686_1280.jpg#center)
+![صورة شجرة التِّين](https://cdn.pixabay.com/photo/2016/09/10/08/09/fig-tree-1658686_640.jpg#center)
 
 ## زهرة ميلاد ٥ أبريل: شجرة التِّين
 

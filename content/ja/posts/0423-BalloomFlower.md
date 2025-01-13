@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![キキョウのイメージ](https://cdn.pixabay.com/photo/2018/11/30/16/48/bellflower-flower-3848146_1280.jpg#center)
+![キキョウのイメージ](https://cdn.pixabay.com/photo/2018/11/30/16/48/bellflower-flower-3848146_640.jpg#center)
 
 
 ## キキョウに関する説明

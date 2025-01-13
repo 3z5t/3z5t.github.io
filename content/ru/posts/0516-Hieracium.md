@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение спирея сливолистная](https://cdn.pixabay.com/photo/2013/08/30/10/53/alpine-hawkweed-177284_1280.jpg#center)
+![Изображение спирея сливолистная](https://cdn.pixabay.com/photo/2013/08/30/10/53/alpine-hawkweed-177284_640.jpg#center)
 
 ## Спирея сливолистная: Символ упорства и старания
 

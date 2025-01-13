@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Lavendar](https://cdn.pixabay.com/photo/2020/07/08/08/06/flowers-5383054_1280.jpg#center)
+![Image of Lavendar](https://cdn.pixabay.com/photo/2020/07/08/08/06/flowers-5383054_640.jpg#center)
 
 
 ### Description of Lavender

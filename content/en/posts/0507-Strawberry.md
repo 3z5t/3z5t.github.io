@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Strawberry](https://cdn.pixabay.com/photo/2023/05/21/10/03/flower-8008187_1280.jpg#center)
+![Image of Strawberry](https://cdn.pixabay.com/photo/2023/05/21/10/03/flower-8008187_640.jpg#center)
 
 
 ### Description of Strawberry

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة زَهْر الحَوْذان](https://cdn.pixabay.com/photo/2015/05/04/20/26/buttercup-752927_1280.jpg#center)
+![صورة زَهْر الحَوْذان](https://cdn.pixabay.com/photo/2015/05/04/20/26/buttercup-752927_640.jpg#center)
 
 ## زهرة ميلاد ٢ مارس: زَهْر الحَوْذان
 

@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Brezo](https://cdn.pixabay.com/photo/2016/11/30/05/29/erika-1871921_1280.jpg#center)
+![Imagen de Brezo](https://cdn.pixabay.com/photo/2016/11/30/05/29/erika-1871921_640.jpg#center)
 
 
 ## Brezo: La Flor del 5 de Agosto, Símbolo de Soledad Contemplativa

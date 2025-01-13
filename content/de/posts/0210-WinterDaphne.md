@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Seidelbast](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_1280.jpg#center)
+![Bild von Seidelbast](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_640.jpg#center)
 
 
 ## Geburtsblume des 10. Februar: Seidelbast

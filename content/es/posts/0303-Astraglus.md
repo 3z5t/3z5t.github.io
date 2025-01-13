@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Astrágalo](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_1280.jpg#center)
+![Imagen de Astrágalo](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_640.jpg#center)
 
 
 ## Astrágalo, la Flor del Nacimiento del 3 de Marzo

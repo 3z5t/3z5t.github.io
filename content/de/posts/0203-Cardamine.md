@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Wiesen-Schaumkraut](https://cdn.pixabay.com/photo/2020/04/13/17/30/cuckoo-5039419_1280.jpg#center)
+![Bild von Wiesen-Schaumkraut](https://cdn.pixabay.com/photo/2020/04/13/17/30/cuckoo-5039419_640.jpg#center)
 
 ## Geburtsblume des 3. Februar: Wiesen-Schaumkraut
 

@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![玫瑰的图片](https://cdn.pixabay.com/photo/2014/03/30/13/01/rose-301406_1280.jpg#center)
+![玫瑰的图片](https://cdn.pixabay.com/photo/2014/03/30/13/01/rose-301406_640.jpg#center)
 
 
 ## 玫瑰的描述

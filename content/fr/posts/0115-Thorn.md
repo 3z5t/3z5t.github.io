@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Épine](https://cdn.pixabay.com/photo/2016/11/12/14/06/spur-1818848_1280.jpg#center)
+![Image de Épine](https://cdn.pixabay.com/photo/2016/11/12/14/06/spur-1818848_640.jpg#center)
 
 
 ## Épine, la fleur du 15 janvier : Entre protection et austérité

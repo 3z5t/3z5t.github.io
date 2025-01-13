@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Boj](https://cdn.pixabay.com/photo/2017/10/26/18/49/boxwood-2892034_1280.jpg#center)
+![Imagen de Boj](https://cdn.pixabay.com/photo/2017/10/26/18/49/boxwood-2892034_640.jpg#center)
 
 
 ## Boj, la Flor del Nacimiento del 10 de Enero

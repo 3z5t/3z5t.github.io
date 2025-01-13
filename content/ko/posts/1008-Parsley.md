@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![파슬리의 이미지](https://cdn.pixabay.com/photo/2022/06/05/13/57/cow-parsley-7244120_1280.jpg#center)
+![파슬리의 이미지](https://cdn.pixabay.com/photo/2022/06/05/13/57/cow-parsley-7244120_640.jpg#center)
 
 
 ### 10월 8일의 꽃: 파슬리(Parsley)

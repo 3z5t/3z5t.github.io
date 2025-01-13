@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![살구꽃의 이미지](https://cdn.pixabay.com/photo/2018/02/20/16/15/flowers-3168025_1280.jpg#center)
+![살구꽃의 이미지](https://cdn.pixabay.com/photo/2018/02/20/16/15/flowers-3168025_640.jpg#center)
 
 
 ### 10월 2일의 꽃: 살구꽃(Apricot Blossom)

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![크리스마스 로즈의 이미지](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_1280.jpg#center)
+![크리스마스 로즈의 이미지](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_640.jpg#center)
 
 
 ### 11월 16일의 꽃: 크리스마스 로즈 (Christmas Rose)

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![접시꽃의 이미지](https://cdn.pixabay.com/photo/2018/08/15/05/58/hollyhock-3607356_1280.jpg#center)
+![접시꽃의 이미지](https://cdn.pixabay.com/photo/2018/08/15/05/58/hollyhock-3607356_640.jpg#center)
 
 
 ### 접시꽃(Hollyhock): 정열의 여름꽃

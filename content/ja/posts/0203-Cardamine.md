@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![コウノトリのイメージ](https://cdn.pixabay.com/photo/2020/04/13/17/30/cuckoo-5039419_1280.jpg#center)
+![コウノトリのイメージ](https://cdn.pixabay.com/photo/2020/04/13/17/30/cuckoo-5039419_640.jpg#center)
 
 
 ## コウノトリ（Cardamine）に関する説明

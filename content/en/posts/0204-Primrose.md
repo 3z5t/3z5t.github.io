@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Primrose](https://cdn.pixabay.com/photo/2017/02/05/17/06/flower-2040617_1280.jpg#center)
+![Image of Primrose](https://cdn.pixabay.com/photo/2017/02/05/17/06/flower-2040617_640.jpg#center)
 
 
 ## Primrose: The Birth Flower of February 4th

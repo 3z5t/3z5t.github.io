@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Астра китайская](https://cdn.pixabay.com/photo/2019/10/08/17/53/asters-4535620_1280.jpg#center)
+![Изображение Астра китайская](https://cdn.pixabay.com/photo/2019/10/08/17/53/asters-4535620_640.jpg#center)
 
 ## Астра китайская (China Aster): Философская мысль
 

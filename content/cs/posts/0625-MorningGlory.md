@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Povijnice nachová](https://cdn.pixabay.com/photo/2018/10/13/19/39/morning-glory-3744967_1280.jpg#center)
+![Obrázek Povijnice nachová](https://cdn.pixabay.com/photo/2018/10/13/19/39/morning-glory-3744967_640.jpg#center)
 
 
 ## 25. června – Narozeninová květina: Povijnice nachová

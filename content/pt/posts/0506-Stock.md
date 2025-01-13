@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Flor de Estoque](https://cdn.pixabay.com/photo/2019/05/31/23/34/matthiola-4243235_1280.jpg#center)
+![Imagem de Flor de Estoque](https://cdn.pixabay.com/photo/2019/05/31/23/34/matthiola-4243235_640.jpg#center)
 
 ## Flor de nascimento de 6 de maio: Flor de Estoque
 

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Jungfer im Grünen](https://cdn.pixabay.com/photo/2017/02/04/20/59/nigella-damascena-miss-jekyll-2038376_1280.jpg#center)
+![Bild von Jungfer im Grünen](https://cdn.pixabay.com/photo/2017/02/04/20/59/nigella-damascena-miss-jekyll-2038376_640.jpg#center)
 
 
 ## Geburtsblume des 31. März: Jungfer im Grünen

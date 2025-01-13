@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Sorbier](https://cdn.pixabay.com/photo/2013/12/09/12/21/mountain-ash-225903_1280.jpg#center)
+![Image de Sorbier](https://cdn.pixabay.com/photo/2013/12/09/12/21/mountain-ash-225903_640.jpg#center)
 
 
 ## Sorbier, la fleur du 27 janvier : Symbole de persévérance et de protection

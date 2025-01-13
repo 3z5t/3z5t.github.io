@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of lxeris](https://cdn.pixabay.com/photo/2020/05/16/11/18/bee-5177103_1280.jpg#center)
+![Image of lxeris](https://cdn.pixabay.com/photo/2020/05/16/11/18/bee-5177103_640.jpg#center)
 
 
 ### Description of Ixeris

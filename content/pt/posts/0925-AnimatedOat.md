@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Aveia Animada](https://cdn.pixabay.com/photo/2017/06/21/08/27/barley-2426466_1280.jpg#center)
+![Imagem de Aveia Animada](https://cdn.pixabay.com/photo/2017/06/21/08/27/barley-2426466_640.jpg#center)
 
 
 ## Flor de nascimento de 25 de setembro: Aveia Animada

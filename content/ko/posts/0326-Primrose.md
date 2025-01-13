@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![흰앵초의 이미지](https://cdn.pixabay.com/photo/2012/06/08/19/22/primula-schlusselblume-49782_1280.jpg#center)
+![흰앵초의 이미지](https://cdn.pixabay.com/photo/2012/06/08/19/22/primula-schlusselblume-49782_640.jpg#center)
 
 
 ### 흰앵초(Primrose)에 대한 설명

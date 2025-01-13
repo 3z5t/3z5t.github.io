@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Паслён сладко-горький](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_1280.jpg#center)
+![Изображение Паслён сладко-горький](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_640.jpg#center)
 
 ## Паслён сладко-горький: очарование контрастов
 

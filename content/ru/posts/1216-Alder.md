@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Ольха](https://cdn.pixabay.com/photo/2020/01/25/16/05/hazel-4792798_1280.jpg#center)
+![Изображение Ольха](https://cdn.pixabay.com/photo/2020/01/25/16/05/hazel-4792798_640.jpg#center)
 
 ## Ольха (Alder): Символ величия и достоинства
 

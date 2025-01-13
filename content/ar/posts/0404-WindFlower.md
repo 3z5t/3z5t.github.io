@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة شقائق النعمان الحمراء](https://cdn.pixabay.com/photo/2017/06/23/03/45/anemone-2433412_1280.png#center)
+![صورة شقائق النعمان الحمراء](https://cdn.pixabay.com/photo/2017/06/23/03/45/anemone-2433412_640.png#center)
 
 ## زهرة ميلاد ٤ أبريل: شقائق النعمان الحمراء
 

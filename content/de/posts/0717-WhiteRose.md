@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Weiße Rose](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_1280.jpg#center)
+![Bild von Weiße Rose](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_640.jpg#center)
 
 ## Geburtsblume des 17. Juli: Weiße Rose
 

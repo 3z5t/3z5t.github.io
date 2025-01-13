@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Алиссум душистый](https://cdn.pixabay.com/photo/2020/06/22/13/50/sweet-alyssum-5329266_1280.jpg#center)
+![Изображение Алиссум душистый](https://cdn.pixabay.com/photo/2020/06/22/13/50/sweet-alyssum-5329266_640.jpg#center)
 
 
 ## Алиссум душистый: Цветок Исключительной Красоты

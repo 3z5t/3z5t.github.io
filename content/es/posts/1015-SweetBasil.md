@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Albahaca dulce](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_1280.jpg#center)
+![Imagen de Albahaca dulce](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_640.jpg#center)
 
 
 ## Albahaca Dulce: La Flor del 15 de Octubre, Símbolo de "Esperanza Hermosa"

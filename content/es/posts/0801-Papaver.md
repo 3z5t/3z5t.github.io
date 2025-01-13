@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Amapola roja](https://cdn.pixabay.com/photo/2019/06/02/11/22/poppies-4246241_1280.jpg#center)
+![Imagen de Amapola roja](https://cdn.pixabay.com/photo/2019/06/02/11/22/poppies-4246241_640.jpg#center)
 
 
 ## Amapola roja: La Flor del 1 de Agosto, Símbolo de Consuelo

@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Germandro](https://cdn.pixabay.com/photo/2020/08/12/12/16/teucrium-paradise-delight-5482517_1280.jpg#center)
+![Imagen de Germandro](https://cdn.pixabay.com/photo/2020/08/12/12/16/teucrium-paradise-delight-5482517_640.jpg#center)
 
 
 ## Germandro: La Flor del 30 de Agosto, Símbolo de Sinceridad

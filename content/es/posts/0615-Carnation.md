@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Clavel](https://cdn.pixabay.com/photo/2023/01/06/21/34/carnation-7702161_1280.jpg#center)
+![Imagen de Clavel](https://cdn.pixabay.com/photo/2023/01/06/21/34/carnation-7702161_640.jpg#center)
 
 
 ## Clavel: La Flor de la Pasión para el 15 de Junio

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![갈풀의 이미지](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_1280.jpg)
+![갈풀의 이미지](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_640.jpg)
 
 
 ### 갈풀

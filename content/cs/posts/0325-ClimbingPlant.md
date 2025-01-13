@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Popínavá rostlina](https://cdn.pixabay.com/photo/2016/06/12/22/30/wall-1453158_1280.jpg#center)
+![Obrázek Popínavá rostlina](https://cdn.pixabay.com/photo/2016/06/12/22/30/wall-1453158_640.jpg#center)
 
 
 ## 25. března – Narozeninová květina: Popínavá rostlina

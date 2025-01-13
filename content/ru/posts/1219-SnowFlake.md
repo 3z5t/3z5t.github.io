@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Белоцветник](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_1280.jpg#center)
+![Изображение Белоцветник](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_640.jpg#center)
 
 ## Белоцветник (Snow Flake): Символ чистой красоты
 

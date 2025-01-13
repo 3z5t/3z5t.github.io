@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Jabloň](https://cdn.pixabay.com/photo/2022/04/20/20/23/flowers-7146137_1280.jpg#center)
+![Obrázek Jabloň](https://cdn.pixabay.com/photo/2022/04/20/20/23/flowers-7146137_640.jpg#center)
 
 
 ## 11. května – Narozeninová květina: Jabloň

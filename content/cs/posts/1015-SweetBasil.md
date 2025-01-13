@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Bazalka](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_1280.jpg#center)
+![Obrázek Bazalka](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_640.jpg#center)
 
 
 ## 15. října – Narozeninová květina: Bazalka

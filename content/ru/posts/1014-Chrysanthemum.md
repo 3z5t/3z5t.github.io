@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Хризантема](https://cdn.pixabay.com/photo/2022/08/17/15/21/flower-7392770_1280.jpg#center)
+![Изображение Хризантема](https://cdn.pixabay.com/photo/2022/08/17/15/21/flower-7392770_640.jpg#center)
 
 ## Хризантема — символ истины
 

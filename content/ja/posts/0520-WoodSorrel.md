@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![カタバミのイメージ](https://cdn.pixabay.com/photo/2015/08/25/09/31/oxalis-corniculata-906419_1280.jpg#center)
+![カタバミのイメージ](https://cdn.pixabay.com/photo/2015/08/25/09/31/oxalis-corniculata-906419_640.jpg#center)
 
 
 ## カタバミに関する説明

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Granatapfelblüte](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_1280.jpg#center)
+![Bild von Granatapfelblüte](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_640.jpg#center)
 
 
 ## Geburtsblume des 7. August: Granatapfelblüte

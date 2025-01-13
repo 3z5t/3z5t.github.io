@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Caqui](https://cdn.pixabay.com/photo/2016/07/21/12/25/gamkkot-1532393_1280.jpg#center)
+![Imagen de Caqui](https://cdn.pixabay.com/photo/2016/07/21/12/25/gamkkot-1532393_640.jpg#center)
 
 
 ## Caqui: La Flor del 26 de Septiembre, Símbolo de "Belleza Natural"

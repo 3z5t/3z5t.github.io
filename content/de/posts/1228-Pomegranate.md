@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Granatapfelbaum](https://cdn.pixabay.com/photo/2017/10/07/05/33/pomegranate-2825556_1280.jpg#center)
+![Bild von Granatapfelbaum](https://cdn.pixabay.com/photo/2017/10/07/05/33/pomegranate-2825556_640.jpg#center)
 
 ## Geburtsblume des 28. Dezember: Granatapfelbaum
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Lírio-de-um-dia](https://cdn.pixabay.com/photo/2018/03/20/20/48/nature-3244629_1280.jpg#center)
+![Imagem de Lírio-de-um-dia](https://cdn.pixabay.com/photo/2018/03/20/20/48/nature-3244629_640.jpg#center)
 
 
 ## Flor de nascimento de 13 de março: Lírio-de-um-dia

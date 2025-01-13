@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Pomeranč](https://cdn.pixabay.com/photo/2020/04/03/16/23/Orange-blossom-4999435_1280.jpg#center)
+![Obrázek Pomeranč](https://cdn.pixabay.com/photo/2020/04/03/16/23/Orange-blossom-4999435_640.jpg#center)
 
 ## 24. září – Narozeninová květina: Pomeranč
 

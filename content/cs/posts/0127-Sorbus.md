@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Jeřáb](https://cdn.pixabay.com/photo/2013/12/09/12/21/mountain-ash-225903_1280.jpg#center)
+![Obrázek Jeřáb](https://cdn.pixabay.com/photo/2013/12/09/12/21/mountain-ash-225903_640.jpg#center)
 
 
 ## 27. ledna – Narozeninová květina: Jeřáb

@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![ミモザのイメージ](https://cdn.pixabay.com/photo/2022/06/07/22/59/flower-7249417_1280.jpg#center)
+![ミモザのイメージ](https://cdn.pixabay.com/photo/2022/06/07/22/59/flower-7249417_640.jpg#center)
 
 
 ## ミモザに関する説明

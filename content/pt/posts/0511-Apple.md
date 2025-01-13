@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Macieira](https://cdn.pixabay.com/photo/2022/04/20/20/23/flowers-7146137_1280.jpg#center)
+![Imagem de Macieira](https://cdn.pixabay.com/photo/2022/04/20/20/23/flowers-7146137_640.jpg#center)
 
 
 ## Flor de nascimento de 11 de maio: Macieira

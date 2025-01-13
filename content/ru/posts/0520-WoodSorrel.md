@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Кислица обыкновенная](https://cdn.pixabay.com/photo/2015/08/25/09/31/oxalis-corniculata-906419_1280.jpg#center)
+![Изображение Кислица обыкновенная](https://cdn.pixabay.com/photo/2015/08/25/09/31/oxalis-corniculata-906419_640.jpg#center)
 
 ## Кислица обыкновенная: Лучезарное сердце
 

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Олеандр обыкновенный](https://cdn.pixabay.com/photo/2022/08/25/11/47/red-oleander-7410079_1280.jpg#center)
+![Изображение Олеандр обыкновенный](https://cdn.pixabay.com/photo/2022/08/25/11/47/red-oleander-7410079_640.jpg#center)
 
 ## Олеандр обыкновенный: Предостережение
 

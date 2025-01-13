@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![レモンバーベナのイメージ](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_1280.jpg#center)
+![レモンバーベナのイメージ](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_640.jpg#center)
 
 
 ## レモンバーベナに関する説明

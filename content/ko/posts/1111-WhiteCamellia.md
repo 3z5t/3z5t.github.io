@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![흰동백의 이미지](https://cdn.pixabay.com/photo/2016/12/05/06/51/camellia-1883205_1280.jpg#center)
+![흰동백의 이미지](https://cdn.pixabay.com/photo/2016/12/05/06/51/camellia-1883205_640.jpg#center)
 
 
 ### 11월 11일의 꽃: 흰동백 (White Camellia)

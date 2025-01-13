@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Resedá](https://cdn.pixabay.com/photo/2015/01/18/18/59/wau-603313_1280.jpg#center)
+![Imagem de Resedá](https://cdn.pixabay.com/photo/2015/01/18/18/59/wau-603313_640.jpg#center)
 
 
 ## Flor de nascimento de 12 de junho: Resedá

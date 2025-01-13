@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Albaricoquero](https://cdn.pixabay.com/photo/2018/02/20/16/15/flowers-3168025_1280.jpg#center)
+![Imagen de Albaricoquero](https://cdn.pixabay.com/photo/2018/02/20/16/15/flowers-3168025_640.jpg#center)
 
 
 ## Albaricoquero: La Flor del 2 de Octubre, Símbolo de "Dulce Timidez"

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Granátové jablko](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_1280.jpg#center)
+![Obrázek Granátové jablko](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_640.jpg#center)
 
 
 ## 7. srpna – Narozeninová květina: Granátové jablko

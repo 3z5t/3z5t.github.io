@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة البَقدونِس](https://cdn.pixabay.com/photo/2022/06/05/13/57/cow-parsley-7244120_1280.jpg#center)
+![صورة البَقدونِس](https://cdn.pixabay.com/photo/2022/06/05/13/57/cow-parsley-7244120_640.jpg#center)
 
 ## زهرة ميلاد ٨ أكتوبر: البَقدونِس
 

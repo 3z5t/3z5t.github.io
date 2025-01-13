@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Mil-folhas](https://cdn.pixabay.com/photo/2018/09/16/11/10/yarrow-plant-3681169_1280.jpg#center)
+![Imagem de Mil-folhas](https://cdn.pixabay.com/photo/2018/09/16/11/10/yarrow-plant-3681169_640.jpg#center)
 
 
 ## Flor de nascimento de 26 de novembro: Mil-folhas

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Lierre mexicain](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_1280.jpg#center)
+![Image de Lierre mexicain](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_640.jpg#center)
 
 
 ## Lierre mexicain (Cobaea), la fleur du 2 septembre

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Škumpa](https://cdn.pixabay.com/photo/2021/10/17/17/03/sumac-leaves-6718977_1280.jpg#center)
+![Obrázek Škumpa](https://cdn.pixabay.com/photo/2021/10/17/17/03/sumac-leaves-6718977_640.jpg#center)
 
 
 ## 25. listopadu – Narozeninová květina: Škumpa

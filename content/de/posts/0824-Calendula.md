@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Ringelblume](https://cdn.pixabay.com/photo/2018/07/10/11/11/marigold-3528402_1280.jpg#center)
+![Bild von Ringelblume](https://cdn.pixabay.com/photo/2018/07/10/11/11/marigold-3528402_640.jpg#center)
 
 
 ## Geburtsblume des 24. August: Ringelblume

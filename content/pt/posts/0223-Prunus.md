@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Ameixeira](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_1280.jpg#center)
+![Imagem de Ameixeira](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_640.jpg#center)
 
 
 ## Flor de nascimento de 23 de fevereiro: Ameixeira

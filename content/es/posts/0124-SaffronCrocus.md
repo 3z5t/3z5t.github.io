@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Azafrán](https://cdn.pixabay.com/photo/2019/02/28/16/54/krokus-4026324_1280.jpg#center)
+![Imagen de Azafrán](https://cdn.pixabay.com/photo/2019/02/28/16/54/krokus-4026324_640.jpg#center)
 
 
 ## Azafrán, la Flor del Nacimiento del 24 de Enero

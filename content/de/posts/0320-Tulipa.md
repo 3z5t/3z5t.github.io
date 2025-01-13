@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Violette Tulpe](https://cdn.pixabay.com/photo/2022/05/06/15/20/tulips-7178547_1280.jpg#center)
+![Bild von Violette Tulpe](https://cdn.pixabay.com/photo/2022/05/06/15/20/tulips-7178547_640.jpg#center)
 
 
 ## Geburtsblume des 20. März: Violette Tulpe

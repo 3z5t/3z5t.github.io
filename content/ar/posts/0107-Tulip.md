@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة زهر التوليب](https://cdn.pixabay.com/photo/2020/04/28/13/17/tulips-5104494_1280.jpg#center)
+![صورة زهر التوليب](https://cdn.pixabay.com/photo/2020/04/28/13/17/tulips-5104494_640.jpg#center)
 
 ## زهرة ميلاد ٧ يناير: زهر التوليب
 

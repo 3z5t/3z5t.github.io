@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![スミレ（紫色）のイメージ](https://cdn.pixabay.com/photo/2018/08/02/03/46/violets-3578798_1280.png#center)
+![スミレ（紫色）のイメージ](https://cdn.pixabay.com/photo/2018/08/02/03/46/violets-3578798_640.png#center)
 
 
 ## スミレ（紫色）（Violet）の紹介

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Bartnelke](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_1280.jpg#center)
+![Bild von Bartnelke](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_640.jpg#center)
 
 
 ## Geburtsblume des 22. Juli: Bartnelke

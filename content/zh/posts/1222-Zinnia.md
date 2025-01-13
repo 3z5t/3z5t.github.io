@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![百合的图片](https://cdn.pixabay.com/photo/2017/09/28/15/27/dream-park-2795924_1280.jpg#center)
+![百合的图片](https://cdn.pixabay.com/photo/2017/09/28/15/27/dream-park-2795924_640.jpg#center)
 
 ## 百合的描述
 

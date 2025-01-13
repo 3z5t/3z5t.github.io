@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Лютик едкий](https://cdn.pixabay.com/photo/2023/07/02/07/20/buttercup-8101494_1280.jpg#center)
+![Изображение Лютик едкий](https://cdn.pixabay.com/photo/2023/07/02/07/20/buttercup-8101494_640.jpg#center)
 
 ## Лютик едкий: Искренность и правдивость
 

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة زهر البرقوق الياباني](https://cdn.pixabay.com/photo/2020/04/29/08/10/plum-blossoms-5107763_1280.jpg#center)
+![صورة زهر البرقوق الياباني](https://cdn.pixabay.com/photo/2020/04/29/08/10/plum-blossoms-5107763_640.jpg#center)
 
 ## زهرة ميلاد ٢٧ ديسمبر: زهر البرقوق الياباني
 

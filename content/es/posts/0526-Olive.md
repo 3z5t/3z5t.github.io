@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Olivo](https://cdn.pixabay.com/photo/2015/05/29/10/00/olives-789140_1280.jpg#center)
+![Imagen de Olivo](https://cdn.pixabay.com/photo/2015/05/29/10/00/olives-789140_640.jpg#center)
 
 
 ## Olivo, la Flor del Nacimiento del 26 de Mayo

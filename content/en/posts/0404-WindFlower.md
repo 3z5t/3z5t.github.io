@@ -15,7 +15,7 @@ draft: false
 
 
 
-![Image of Wind Flower](https://cdn.pixabay.com/photo/2017/06/23/03/45/anemone-2433412_1280.png#center)
+![Image of Wind Flower](https://cdn.pixabay.com/photo/2017/06/23/03/45/anemone-2433412_640.png#center)
 
 
 ### ### Description of Wind Flower

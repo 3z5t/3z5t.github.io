@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![개옻나무의 이미지](https://cdn.pixabay.com/photo/2021/10/17/17/03/sumac-leaves-6718977_1280.jpg#center)
+![개옻나무의 이미지](https://cdn.pixabay.com/photo/2021/10/17/17/03/sumac-leaves-6718977_640.jpg#center)
 
 
 ### 11월 25일의 꽃: 개옻나무 (Rhus trichocarpa)

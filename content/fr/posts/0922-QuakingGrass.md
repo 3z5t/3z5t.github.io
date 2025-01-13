@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Brize tremblante](https://cdn.pixabay.com/photo/2017/06/30/13/13/hjertegrs-2458228_1280.jpg#center)
+![Image de Brize tremblante](https://cdn.pixabay.com/photo/2017/06/30/13/13/hjertegrs-2458228_640.jpg#center)
 
 
 ## Brize tremblante (Quaking Grass), la fleur du 22 septembre

@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Saxífraga](https://cdn.pixabay.com/photo/2016/12/13/22/11/badan-1905221_1280.jpg#center)
+![Imagen de Saxífraga](https://cdn.pixabay.com/photo/2016/12/13/22/11/badan-1905221_640.jpg#center)
 
 
 ## Saxífraga, la Flor del Nacimiento del 8 de Febrero

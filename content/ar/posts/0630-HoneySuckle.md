@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة زَهر العَسَل](https://cdn.pixabay.com/photo/2018/08/13/04/58/flower-3602283_1280.jpg#center)
+![صورة زَهر العَسَل](https://cdn.pixabay.com/photo/2018/08/13/04/58/flower-3602283_640.jpg#center)
 
 ## زهرة ميلاد ٣٠ يونيو: زَهر العَسَل
 

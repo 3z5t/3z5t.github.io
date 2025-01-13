@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Heckenrose](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_1280.jpg#center)
+![Bild von Heckenrose](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_640.jpg#center)
 
 
 ## Geburtsblume des 27. Oktober: Heckenrose

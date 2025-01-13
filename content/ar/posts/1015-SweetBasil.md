@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة رَيحان حُلو](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_1280.jpg#center)
+![صورة رَيحان حُلو](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_640.jpg#center)
 
 ## زهرة ميلاد ١٥ أكتوبر: رَيحان حُلو
 

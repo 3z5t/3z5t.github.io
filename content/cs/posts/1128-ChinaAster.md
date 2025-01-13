@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Čínská astra](https://cdn.pixabay.com/photo/2019/10/08/17/53/asters-4535620_1280.jpg#center)
+![Obrázek Čínská astra](https://cdn.pixabay.com/photo/2019/10/08/17/53/asters-4535620_640.jpg#center)
 
 ## 28. listopadu – Narozeninová květina: Čínská astra
 

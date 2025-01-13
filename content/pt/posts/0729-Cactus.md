@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Cacto](https://cdn.pixabay.com/photo/2012/11/28/09/24/cactus-67547_1280.jpg#center)
+![Imagem de Cacto](https://cdn.pixabay.com/photo/2012/11/28/09/24/cactus-67547_640.jpg#center)
 
 ## Flor de nascimento de 29 de julho: Cacto
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Flower of an Hour](https://cdn.pixabay.com/photo/2016/02/12/17/32/flower-1196470_1280.jpg#center)
+![Image of Flower of an Hour](https://cdn.pixabay.com/photo/2016/02/12/17/32/flower-1196470_640.jpg#center)
 
 
 ### Description of Flower of an Hour

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Tuia](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_1280.jpg#center)
+![Imagem de Tuia](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_640.jpg#center)
 
 
 ## Flor de nascimento de 11 de janeiro: Tuia

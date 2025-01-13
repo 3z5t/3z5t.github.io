@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Calla](https://cdn.pixabay.com/photo/2020/11/18/07/47/calla-lily-5754565_1280.jpg#center)
+![Bild von Calla](https://cdn.pixabay.com/photo/2020/11/18/07/47/calla-lily-5754565_640.jpg#center)
 
 
 ## Geburtsblume des 31. Oktober: Calla

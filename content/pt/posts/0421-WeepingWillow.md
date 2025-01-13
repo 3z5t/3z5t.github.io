@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Salgueiro-chorão](https://cdn.pixabay.com/photo/2022/06/02/16/23/weeping-willow-7238442_1280.jpg#center)
+![Imagem de Salgueiro-chorão](https://cdn.pixabay.com/photo/2022/06/02/16/23/weeping-willow-7238442_640.jpg#center)
 
 
 ## Flor de nascimento de 21 de abril: Salgueiro-chorão

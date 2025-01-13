@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Echte Kamille](https://cdn.pixabay.com/photo/2018/06/29/22/51/chamomile-3506765_1280.jpg#center)
+![Bild von Echte Kamille](https://cdn.pixabay.com/photo/2018/06/29/22/51/chamomile-3506765_640.jpg#center)
 
 
 ## Geburtsblume des 14. Februar: Echte Kamille

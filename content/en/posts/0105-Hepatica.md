@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Hepatica](https://cdn.pixabay.com/photo/2018/04/18/08/59/flower-3329845_1280.jpg#center)
+![Image of Hepatica](https://cdn.pixabay.com/photo/2018/04/18/08/59/flower-3329845_640.jpg#center)
 
 
 ## Hepatica: The Birth Flower of January 5th

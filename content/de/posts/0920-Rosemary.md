@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Echter Rosmarin](https://cdn.pixabay.com/photo/2015/12/13/00/11/rosemary-1090419_1280.jpg#center)
+![Bild von Echter Rosmarin](https://cdn.pixabay.com/photo/2015/12/13/00/11/rosemary-1090419_640.jpg#center)
 
 
 ## Geburtsblume des 20. September: Echter Rosmarin

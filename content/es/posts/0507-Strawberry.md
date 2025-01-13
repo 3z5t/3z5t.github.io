@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Hoja de fresa](https://cdn.pixabay.com/photo/2023/05/21/10/03/flower-8008187_1280.jpg#center)
+![Imagen de Hoja de fresa](https://cdn.pixabay.com/photo/2023/05/21/10/03/flower-8008187_640.jpg#center)
 
 
 ## Hoja de Fresa, la Flor del Nacimiento del 7 de Mayo

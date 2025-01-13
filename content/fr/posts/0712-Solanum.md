@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Solanum](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_1280.jpg#center)
+![Image de Solanum](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_640.jpg#center)
 
 
 ## Solanum (Solanum), la fleur du 12 juillet

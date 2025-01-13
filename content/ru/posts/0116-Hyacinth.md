@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Изображение Жёлтый гиацинт](https://cdn.pixabay.com/photo/2015/04/23/19/03/hyacinth-736516_1280.jpg#center)
+![Изображение Жёлтый гиацинт](https://cdn.pixabay.com/photo/2015/04/23/19/03/hyacinth-736516_640.jpg#center)
 
 
 ## Жёлтый гиацинт: Цветок Победы и Поражения

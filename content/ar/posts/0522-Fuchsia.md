@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الفوشِيَّة](https://cdn.pixabay.com/photo/2013/09/03/19/25/fuchsia-178705_1280.jpg#center)
+![صورة الفوشِيَّة](https://cdn.pixabay.com/photo/2013/09/03/19/25/fuchsia-178705_640.jpg#center)
 
 ## زهرة ميلاد ٢٢ مايو: الفوشِيَّة
 

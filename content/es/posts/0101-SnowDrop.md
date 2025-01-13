@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Campanilla de nieve](https://cdn.pixabay.com/photo/2020/02/24/10/51/flower-4875870_1280.jpg#center)
+![Imagen de Campanilla de nieve](https://cdn.pixabay.com/photo/2020/02/24/10/51/flower-4875870_640.jpg#center)
 
 
 ## Campanilla de Nieve, la Flor del Nacimiento del 1 de Enero

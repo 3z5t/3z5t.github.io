@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Waldsauerklee](https://cdn.pixabay.com/photo/2015/08/25/09/31/oxalis-corniculata-906419_1280.jpg#center)
+![Bild von Waldsauerklee](https://cdn.pixabay.com/photo/2015/08/25/09/31/oxalis-corniculata-906419_640.jpg#center)
 
 
 ## Geburtsblume des 20. Mai: Waldsauerklee

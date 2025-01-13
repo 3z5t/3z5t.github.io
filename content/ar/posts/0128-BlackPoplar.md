@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الحور الأسود](https://cdn.pixabay.com/photo/2012/10/09/06/00/leaves-60488_1280.jpg#center)
+![صورة الحور الأسود](https://cdn.pixabay.com/photo/2012/10/09/06/00/leaves-60488_640.jpg#center)
 
 ## زهرة ميلاد ٢٨ يناير: الحور الأسود
 

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة شَجَر التُّفاح](https://cdn.pixabay.com/photo/2022/04/20/20/23/flowers-7146137_1280.jpg#center)
+![صورة شَجَر التُّفاح](https://cdn.pixabay.com/photo/2022/04/20/20/23/flowers-7146137_640.jpg#center)
 
 ## زهرة ميلاد ١١ مايو: شَجَر التُّفاح
 

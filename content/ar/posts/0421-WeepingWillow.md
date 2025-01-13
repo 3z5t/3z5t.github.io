@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الصَّفْصاف الباكي](https://cdn.pixabay.com/photo/2022/06/02/16/23/weeping-willow-7238442_1280.jpg#center)
+![صورة الصَّفْصاف الباكي](https://cdn.pixabay.com/photo/2022/06/02/16/23/weeping-willow-7238442_640.jpg#center)
 
 ## زهرة ميلاد ٢١ أبريل: الصَّفْصاف الباكي
 

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Камнеломка](https://cdn.pixabay.com/photo/2016/12/13/22/11/badan-1905221_1280.jpg#center)
+![Изображение Камнеломка](https://cdn.pixabay.com/photo/2016/12/13/22/11/badan-1905221_640.jpg#center)
 
 ## Камнеломка (Saxifraga): символ хранителя тайн
 

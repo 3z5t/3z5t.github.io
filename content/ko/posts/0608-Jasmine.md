@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![재스민의 이미지](https://cdn.pixabay.com/photo/2020/06/06/15/48/scent-of-jasmine-5267072_1280.jpg#center)
+![재스민의 이미지](https://cdn.pixabay.com/photo/2020/06/06/15/48/scent-of-jasmine-5267072_640.jpg#center)
 
 
 ### 재스민(Jasmine): 우아한 향기의 상징

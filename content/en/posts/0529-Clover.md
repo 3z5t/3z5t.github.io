@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Clover](https://cdn.pixabay.com/photo/2018/09/03/09/02/clover-3650704_1280.jpg#center)
+![Image of Clover](https://cdn.pixabay.com/photo/2018/09/03/09/02/clover-3650704_640.jpg#center)
 
 
 ### Description of Clover

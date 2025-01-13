@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Manjericão-doce](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_1280.jpg#center)
+![Imagem de Manjericão-doce](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_640.jpg#center)
 
 
 ## Flor de nascimento de 15 de outubro: Manjericão-doce

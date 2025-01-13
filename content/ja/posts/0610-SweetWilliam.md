@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![ビジョナデシコのイメージ](https://cdn.pixabay.com/photo/2016/10/25/16/26/dianthus-1769322_1280.jpg#center)
+![ビジョナデシコのイメージ](https://cdn.pixabay.com/photo/2016/10/25/16/26/dianthus-1769322_640.jpg#center)
 
 
 ## ビジョナデシコに関する説明

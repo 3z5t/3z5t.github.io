@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Prímula Maior](https://cdn.pixabay.com/photo/2021/05/13/11/57/oxslip-6250682_1280.jpg#center)
+![Imagem de Prímula Maior](https://cdn.pixabay.com/photo/2021/05/13/11/57/oxslip-6250682_640.jpg#center)
 
 
 ## Flor de nascimento de 18 de maio: Prímula Maior

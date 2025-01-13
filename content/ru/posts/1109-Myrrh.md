@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Мирра](https://cdn.pixabay.com/photo/2018/02/26/17/48/nature-3183605_1280.jpg#center)
+![Изображение Мирра](https://cdn.pixabay.com/photo/2018/02/26/17/48/nature-3183605_640.jpg#center)
 
 ## Мирра: Ароматный символ искренности и глубокой связи
 

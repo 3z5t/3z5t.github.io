@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Fig Marigold](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_1280.jpg#center)
+![Image of Fig Marigold](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_640.jpg#center)
 
 
 ### Description of Fig Marigold

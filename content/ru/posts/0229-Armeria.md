@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Армерия приморская](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_1280.jpg#center)
+![Изображение Армерия приморская](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_640.jpg#center)
 
 ## Армерия приморская: Символ Заботы и Милосердия
 

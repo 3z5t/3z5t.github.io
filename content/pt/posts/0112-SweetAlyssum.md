@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Alyssum Doce](https://cdn.pixabay.com/photo/2020/06/22/13/50/sweet-alyssum-5329266_1280.jpg#center)
+![Imagem de Alyssum Doce](https://cdn.pixabay.com/photo/2020/06/22/13/50/sweet-alyssum-5329266_640.jpg#center)
 
 
 ## Flor de nascimento de 12 de janeiro: Alyssum Doce

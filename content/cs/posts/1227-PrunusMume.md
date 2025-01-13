@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Meruňka japonská](https://cdn.pixabay.com/photo/2020/04/29/08/10/plum-blossoms-5107763_1280.jpg#center)
+![Obrázek Meruňka japonská](https://cdn.pixabay.com/photo/2020/04/29/08/10/plum-blossoms-5107763_640.jpg#center)
 
 
 ## 27. prosince – Narozeninová květina: Meruňka japonská

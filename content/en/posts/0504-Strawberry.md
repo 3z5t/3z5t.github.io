@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Strawberry](https://cdn.pixabay.com/photo/2016/06/20/00/40/strawberries-1467902_1280.jpg#center)
+![Image of Strawberry](https://cdn.pixabay.com/photo/2016/06/20/00/40/strawberries-1467902_640.jpg#center)
 
 
 ### Description of Strawberry

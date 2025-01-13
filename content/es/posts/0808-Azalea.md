@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Azalea](https://cdn.pixabay.com/photo/2018/05/15/03/08/azaleas-3402117_1280.jpg#center)
+![Imagen de Azalea](https://cdn.pixabay.com/photo/2018/05/15/03/08/azaleas-3402117_640.jpg#center)
 
 
 ## Azalea: La Flor del 8 de Agosto, Símbolo del Júbilo del Amor

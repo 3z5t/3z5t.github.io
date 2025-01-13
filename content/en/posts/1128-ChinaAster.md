@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of China Aster](https://cdn.pixabay.com/photo/2019/10/08/17/53/asters-4535620_1280.jpg#center)
+![Image of China Aster](https://cdn.pixabay.com/photo/2019/10/08/17/53/asters-4535620_640.jpg#center)
 
 
 ### Description of China Aster

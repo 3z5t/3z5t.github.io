@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Chardon](https://cdn.pixabay.com/photo/2018/07/05/02/49/thistle-3517440_1280.jpg#center)
+![Image de Chardon](https://cdn.pixabay.com/photo/2018/07/05/02/49/thistle-3517440_640.jpg#center)
 
 
 ## Chardon (Thistle), la fleur du 18 septembre

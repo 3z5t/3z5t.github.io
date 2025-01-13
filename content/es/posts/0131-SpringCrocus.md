@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Azafrán primaveral](https://cdn.pixabay.com/photo/2020/03/30/15/21/crocus-4984558_1280.jpg#center)
+![Imagen de Azafrán primaveral](https://cdn.pixabay.com/photo/2020/03/30/15/21/crocus-4984558_640.jpg#center)
 
 
 ## Azafrán Primaveral, la Flor del Nacimiento del 31 de Enero

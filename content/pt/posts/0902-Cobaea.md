@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Sino-de-convento](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_1280.jpg#center)
+![Imagem de Sino-de-convento](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_640.jpg#center)
 
 
 ## Flor de nascimento de 2 de setembro: Sino-de-convento

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Кипарисовик Лавсона](https://cdn.pixabay.com/photo/2015/09/17/13/36/hinoki-944147_1280.jpg#center)
+![Изображение Кипарисовик Лавсона](https://cdn.pixabay.com/photo/2015/09/17/13/36/hinoki-944147_640.jpg#center)
 
 ## Кипарисовик Лавсона (Chamaecyparis): Вечная жизнь в зелени хвои
 

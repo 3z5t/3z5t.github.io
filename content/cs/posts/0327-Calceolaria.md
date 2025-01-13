@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Pantoflíček](https://cdn.pixabay.com/photo/2018/03/15/17/43/plant-3228944_1280.jpg#center)
+![Obrázek Pantoflíček](https://cdn.pixabay.com/photo/2018/03/15/17/43/plant-3228944_640.jpg#center)
 
 ## 27. března – Narozeninová květina: Pantoflíček
 

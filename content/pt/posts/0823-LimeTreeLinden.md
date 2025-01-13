@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Tília](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_1280.jpg#center)
+![Imagem de Tília](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_640.jpg#center)
 
 
 ## Flor de nascimento de 23 de agosto: Tília

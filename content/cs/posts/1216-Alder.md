@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Olše](https://cdn.pixabay.com/photo/2020/01/25/16/05/hazel-4792798_1280.jpg#center)
+![Obrázek Olše](https://cdn.pixabay.com/photo/2020/01/25/16/05/hazel-4792798_640.jpg#center)
 
 
 ## 16. prosince – Narozeninová květina: Olše

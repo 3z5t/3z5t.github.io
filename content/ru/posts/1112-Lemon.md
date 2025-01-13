@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Лимон](https://cdn.pixabay.com/photo/2016/04/17/14/28/lemon-blossom-1334788_1280.jpg#center)
+![Изображение Лимон](https://cdn.pixabay.com/photo/2016/04/17/14/28/lemon-blossom-1334788_640.jpg#center)
 
 ## Лимон: символ искренней тоски и свежести
 

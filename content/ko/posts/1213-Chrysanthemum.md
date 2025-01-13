@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![자홍색 국화의 이미지](https://cdn.pixabay.com/photo/2019/02/08/13/11/chrysanthemum-3983195_1280.jpg#center)
+![자홍색 국화의 이미지](https://cdn.pixabay.com/photo/2019/02/08/13/11/chrysanthemum-3983195_640.jpg#center)
 
 ### 자홍색 국화 (Chrysanthemum)
 

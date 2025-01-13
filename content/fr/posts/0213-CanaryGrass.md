@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Canne de Provence](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_1280.jpg#center)
+![Image de Canne de Provence](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_640.jpg#center)
 
 
 ## Canne de Provence (Canary Grass), la fleur du 13 février : Une ode à la patience et à la ténacité

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Golden Wave](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_1280.jpg#center)
+![Image of Golden Wave](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_640.jpg#center)
 
 
 ### Description of Golden Wave

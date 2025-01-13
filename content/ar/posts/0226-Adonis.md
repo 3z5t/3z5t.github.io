@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة أدونيس ربيعي](https://cdn.pixabay.com/photo/2016/04/12/17/25/pheasants-eye-1324890_1280.jpg#center)
+![صورة أدونيس ربيعي](https://cdn.pixabay.com/photo/2016/04/12/17/25/pheasants-eye-1324890_640.jpg#center)
 
 ## زهرة ميلاد ٢٦ فبراير: أدونيس ربيعي
 

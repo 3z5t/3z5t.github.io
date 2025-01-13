@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Souci](https://cdn.pixabay.com/photo/2018/07/10/11/11/marigold-3528402_1280.jpg#center)
+![Image de Souci](https://cdn.pixabay.com/photo/2018/07/10/11/11/marigold-3528402_640.jpg#center)
 
 
 ## Souci (Calendula), la fleur du 24 août

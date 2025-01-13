@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Spirea nupcial](https://cdn.pixabay.com/photo/2020/04/21/04/50/meadowsweet-trees-5070844_1280.jpg#center)
+![Imagen de Spirea nupcial](https://cdn.pixabay.com/photo/2020/04/21/04/50/meadowsweet-trees-5070844_640.jpg#center)
 
 
 ## Spirea Nupcial: La Flor del 13 de Octubre, Símbolo de "Amor Transparente"

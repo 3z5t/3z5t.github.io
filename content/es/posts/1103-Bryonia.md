@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Brionia](https://cdn.pixabay.com/photo/2022/05/13/10/21/bryonia-7193340_1280.jpg#center)
+![Imagen de Brionia](https://cdn.pixabay.com/photo/2022/05/13/10/21/bryonia-7193340_640.jpg#center)
 
 
 ### Descripción de Brionia

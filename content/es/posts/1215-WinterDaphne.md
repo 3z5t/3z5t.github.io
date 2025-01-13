@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Dafne invernal](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_1280.jpg#center)
+![Imagen de Dafne invernal](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_640.jpg#center)
 
 
 ### Descripción de Dafne invernal

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![매자나무의 이미지](https://cdn.pixabay.com/photo/2023/06/01/07/04/flowers-8032934_1280.jpg#center)
+![매자나무의 이미지](https://cdn.pixabay.com/photo/2023/06/01/07/04/flowers-8032934_640.jpg#center)
 
 
 ### 11월 22일의 꽃: 매자나무 (Berberis)

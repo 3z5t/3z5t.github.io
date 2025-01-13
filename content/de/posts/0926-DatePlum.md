@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Kakipflaume](https://cdn.pixabay.com/photo/2016/07/21/12/25/gamkkot-1532393_1280.jpg#center)
+![Bild von Kakipflaume](https://cdn.pixabay.com/photo/2016/07/21/12/25/gamkkot-1532393_640.jpg#center)
 
 
 ## Geburtsblume des 26. September: Kakipflaume

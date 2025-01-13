@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Pflaumenblüte](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_1280.jpg#center)
+![Bild von Pflaumenblüte](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_640.jpg#center)
 
 
 ## Geburtsblume des 24. Oktober: Pflaumenblüte

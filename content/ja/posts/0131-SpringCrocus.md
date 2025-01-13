@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![サフラン（黄色）のイメージ](https://cdn.pixabay.com/photo/2020/03/30/15/21/crocus-4984558_1280.jpg#center)
+![サフラン（黄色）のイメージ](https://cdn.pixabay.com/photo/2020/03/30/15/21/crocus-4984558_640.jpg#center)
 
 
 ## サフラン（黄色）に関する説明

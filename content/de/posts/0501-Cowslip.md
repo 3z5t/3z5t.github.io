@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Waldschlüsselblume](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_1280.jpg#center)
+![Bild von Waldschlüsselblume](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_640.jpg#center)
 
 
 ## Geburtsblume des 1. Mai: Waldschlüsselblume

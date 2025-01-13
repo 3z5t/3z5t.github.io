@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Larch](https://cdn.pixabay.com/photo/2012/09/09/10/09/larch-56567_1280.jpg#center)
+![Image of Larch](https://cdn.pixabay.com/photo/2012/09/09/10/09/larch-56567_640.jpg#center)
 
 
 ### Description of Larch

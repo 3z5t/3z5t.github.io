@@ -11,7 +11,7 @@ tags:
   - 탄생화
   - 꽃
 ---
-![꽃 사진](https://cdn.pixabay.com/photo/2013/12/09/12/21/mountain-ash-225903_1280.jpg#center)
+![꽃 사진](https://cdn.pixabay.com/photo/2013/12/09/12/21/mountain-ash-225903_640.jpg#center)
 
 안녕하세요, 꽃 애호가 여러분. 오늘은 1월 27일의 꽃, 마가목(Sorbus)에 대해 이야기해 보려 합니다. 그 견고하고 단단한 모습으로 사람들의 마음을 사로잡는 마가목, 그 속에 담긴 이야기를 함께 알아봅시다.
 

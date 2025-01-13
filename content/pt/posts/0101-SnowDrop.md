@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Gota-de-neve](https://cdn.pixabay.com/photo/2020/02/24/10/51/flower-4875870_1280.jpg#center)
+![Imagem de Gota-de-neve](https://cdn.pixabay.com/photo/2020/02/24/10/51/flower-4875870_640.jpg#center)
 
 
 ## Flor de nascimento de 1 de janeiro: Gota-de-neve

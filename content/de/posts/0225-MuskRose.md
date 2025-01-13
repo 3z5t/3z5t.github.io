@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Moschusrose](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_1280.jpg#center)
+![Bild von Moschusrose](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_640.jpg#center)
 
 
 ## Geburtsblume des 25. Februar: Moschusrose

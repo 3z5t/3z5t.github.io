@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Anêmona](https://cdn.pixabay.com/photo/2016/11/30/14/20/anemone-1872919_1280.jpg#center)
+![Imagem de Anêmona](https://cdn.pixabay.com/photo/2016/11/30/14/20/anemone-1872919_640.jpg#center)
 
 
 ## Flor de nascimento de 2 de abril: Anêmona

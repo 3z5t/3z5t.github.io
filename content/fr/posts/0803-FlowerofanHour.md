@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Belle-de-jour](https://cdn.pixabay.com/photo/2016/02/12/17/32/flower-1196470_1280.jpg#center)
+![Image de Belle-de-jour](https://cdn.pixabay.com/photo/2016/02/12/17/32/flower-1196470_640.jpg#center)
 
 
 ## Belle-de-jour, la fleur du 3 août

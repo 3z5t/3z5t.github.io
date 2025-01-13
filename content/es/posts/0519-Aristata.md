@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Aristata](https://cdn.pixabay.com/photo/2014/12/05/01/21/gaillardia-557400_1280.jpg#center)
+![Imagen de Aristata](https://cdn.pixabay.com/photo/2014/12/05/01/21/gaillardia-557400_640.jpg#center)
 
 
 ## Aristata, la Flor del Nacimiento del 19 de Mayo

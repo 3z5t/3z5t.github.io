@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Tavolník japonský](https://cdn.pixabay.com/photo/2020/04/21/04/50/meadowsweet-trees-5070844_1280.jpg#center)
+![Obrázek Tavolník japonský](https://cdn.pixabay.com/photo/2020/04/21/04/50/meadowsweet-trees-5070844_640.jpg#center)
 
 
 ## 13. října – Narozeninová květina: Tavolník japonský

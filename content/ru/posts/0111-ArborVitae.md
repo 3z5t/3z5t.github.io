@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Изображение Туя](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_1280.jpg#center)
+![Изображение Туя](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_640.jpg#center)
 
 
 ## Туя: Древо Жизни и Символ Крепкой Дружбы

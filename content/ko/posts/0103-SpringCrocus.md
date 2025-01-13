@@ -12,7 +12,7 @@ tags:
   - 꽃
 ---
 
-![꽃 사진](https://cdn.pixabay.com/photo/2014/02/10/08/17/flowers-263278_1280.jpg#center)
+![꽃 사진](https://cdn.pixabay.com/photo/2014/02/10/08/17/flowers-263278_640.jpg#center)
 ### 새해 세 번째 날, 청춘의 상징 '사프란'과 그의 이야기
 안녕하세요, 꽃과 함께 하는 여러분. 새해 세 번째 날인 1월 3일의 꽃인 사프란에 대해 이야기해보려고 합니다. 
 

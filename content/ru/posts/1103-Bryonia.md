@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Переступень белый](https://cdn.pixabay.com/photo/2022/05/13/10/21/bryonia-7193340_1280.jpg#center)
+![Изображение Переступень белый](https://cdn.pixabay.com/photo/2022/05/13/10/21/bryonia-7193340_640.jpg#center)
 
 ## Переступень белый — символ решительного отказа
 

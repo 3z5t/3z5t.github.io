@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Salgueirinha](https://cdn.pixabay.com/photo/2019/07/15/12/11/ordinary-loosestrife-4339197_1280.jpg#center)
+![Imagem de Salgueirinha](https://cdn.pixabay.com/photo/2019/07/15/12/11/ordinary-loosestrife-4339197_640.jpg#center)
 
 
 ## Flor de nascimento de 11 de outubro: Salgueirinha

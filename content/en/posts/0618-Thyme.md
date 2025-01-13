@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Thyme](https://cdn.pixabay.com/photo/2020/05/07/12/57/thyme-5141399_1280.jpg#center)
+![Image of Thyme](https://cdn.pixabay.com/photo/2020/05/07/12/57/thyme-5141399_640.jpg#center)
 
 
 ### Description of Thyme

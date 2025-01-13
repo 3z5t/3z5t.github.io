@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![柿的图片](https://cdn.pixabay.com/photo/2016/07/21/12/25/gamkkot-1532393_1280.jpg#center)
+![柿的图片](https://cdn.pixabay.com/photo/2016/07/21/12/25/gamkkot-1532393_640.jpg#center)
 
 
 ## 柿的描述

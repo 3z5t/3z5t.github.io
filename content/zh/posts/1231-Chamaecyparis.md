@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![扁柏的图片](https://cdn.pixabay.com/photo/2015/09/17/13/36/hinoki-944147_1280.jpg#center)
+![扁柏的图片](https://cdn.pixabay.com/photo/2015/09/17/13/36/hinoki-944147_640.jpg#center)
 
 
 ## 扁柏的描述

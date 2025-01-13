@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة زعفران الربيع](https://cdn.pixabay.com/photo/2019/02/28/16/54/krokus-4026324_1280.jpg#center)
+![صورة زعفران الربيع](https://cdn.pixabay.com/photo/2019/02/28/16/54/krokus-4026324_640.jpg#center)
 
 ## زهرة ميلاد ٢٤ يناير: زعفران الربيع
 

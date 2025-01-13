@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Papaver](https://cdn.pixabay.com/photo/2021/05/14/19/21/poppy-6254293_1280.jpg#center)
+![Image of Papaver](https://cdn.pixabay.com/photo/2021/05/14/19/21/poppy-6254293_640.jpg#center)
 
 
 ### Description of Papaver

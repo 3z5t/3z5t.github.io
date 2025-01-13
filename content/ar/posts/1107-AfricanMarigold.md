@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة مخملية قائمة](https://cdn.pixabay.com/photo/2022/07/03/14/40/marigold-7299451_1280.jpg#center)
+![صورة مخملية قائمة](https://cdn.pixabay.com/photo/2022/07/03/14/40/marigold-7299451_640.jpg#center)
 
 ## زهرة ميلاد ٧ نوفمبر: مخملية قائمة
 

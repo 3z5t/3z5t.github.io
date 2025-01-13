@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![カラスムギのイメージ](https://cdn.pixabay.com/photo/2017/06/21/08/27/barley-2426466_1280.jpg#center)
+![カラスムギのイメージ](https://cdn.pixabay.com/photo/2017/06/21/08/27/barley-2426466_640.jpg#center)
 
 
 ## カラスムギ（Animated Oat）について

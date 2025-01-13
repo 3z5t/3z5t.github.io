@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Winter Daphne](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_1280.jpg#center)
+![Image of Winter Daphne](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_640.jpg#center)
 
 
 ### Description of Winter Daphne

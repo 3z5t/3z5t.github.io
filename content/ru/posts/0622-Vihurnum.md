@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Калина обыкновенная](https://cdn.pixabay.com/photo/2021/11/12/22/52/viburnum-lantana-6790205_1280.jpg#center)
+![Изображение Калина обыкновенная](https://cdn.pixabay.com/photo/2021/11/12/22/52/viburnum-lantana-6790205_640.jpg#center)
 
 ## Калина обыкновенная: Символ бессмертной любви
 

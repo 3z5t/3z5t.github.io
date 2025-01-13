@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Königsfarn](https://cdn.pixabay.com/photo/2014/05/09/14/16/fern-340802_1280.jpg#center)
+![Bild von Königsfarn](https://cdn.pixabay.com/photo/2014/05/09/14/16/fern-340802_640.jpg#center)
 
 
 ## Geburtsblume des 27. August: Königsfarn

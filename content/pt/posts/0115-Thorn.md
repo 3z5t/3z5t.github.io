@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Espinho](https://cdn.pixabay.com/photo/2016/11/12/14/06/spur-1818848_1280.jpg#center)
+![Imagem de Espinho](https://cdn.pixabay.com/photo/2016/11/12/14/06/spur-1818848_640.jpg#center)
 
 
 ## Flor de nascimento de 15 de janeiro: Espinho

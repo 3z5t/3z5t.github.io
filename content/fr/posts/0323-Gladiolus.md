@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Glaïeul](https://cdn.pixabay.com/photo/2020/07/13/18/56/flowers-5401735_1280.jpg#center)
+![Image de Glaïeul](https://cdn.pixabay.com/photo/2020/07/13/18/56/flowers-5401735_640.jpg#center)
 
 
 ## Glaïeul (Gladiolus), la fleur du 23 mars : Une icône d’amour passionné et de force intérieure

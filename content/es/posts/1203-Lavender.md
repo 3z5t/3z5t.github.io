@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Lavanda](https://cdn.pixabay.com/photo/2021/06/29/18/51/lavender-6374964_1280.jpg#center)
+![Imagen de Lavanda](https://cdn.pixabay.com/photo/2021/06/29/18/51/lavender-6374964_640.jpg#center)
 
 
 ### Descripción de Lavanda

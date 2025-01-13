@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Superb Pink](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_1280.jpg#center)
+![Image of Superb Pink](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_640.jpg#center)
 
 
 ### Description of Superb Pink

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Zlatý déšť](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_1280.jpg#center)
+![Obrázek Zlatý déšť](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_640.jpg#center)
 
 ## 30. dubna – Narozeninová květina: Zlatý déšť
 

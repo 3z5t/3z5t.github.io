@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الخَنشار](https://cdn.pixabay.com/photo/2014/05/09/14/16/fern-340802_1280.jpg#center)
+![صورة الخَنشار](https://cdn.pixabay.com/photo/2014/05/09/14/16/fern-340802_640.jpg#center)
 
 ## زهرة ميلاد ٢٧ أغسطس: الخَنشار
 

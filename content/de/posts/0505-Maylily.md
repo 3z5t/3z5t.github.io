@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Maiglöckchen](https://cdn.pixabay.com/photo/2018/03/21/22/26/nature-3248514_1280.jpg#center)
+![Bild von Maiglöckchen](https://cdn.pixabay.com/photo/2018/03/21/22/26/nature-3248514_640.jpg#center)
 
 
 ## Geburtsblume des 5. Mai: Maiglöckchen

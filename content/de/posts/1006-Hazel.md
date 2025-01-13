@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Haselnussstrauch](https://cdn.pixabay.com/photo/2019/03/25/18/37/hazel-flowers-4081036_1280.jpg#center)
+![Bild von Haselnussstrauch](https://cdn.pixabay.com/photo/2019/03/25/18/37/hazel-flowers-4081036_640.jpg#center)
 
 
 ## Geburtsblume des 6. Oktober: Haselnussstrauch

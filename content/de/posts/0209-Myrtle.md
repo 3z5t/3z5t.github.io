@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Myrte](https://cdn.pixabay.com/photo/2020/06/29/20/22/flowers-5354285_1280.jpg#center)
+![Bild von Myrte](https://cdn.pixabay.com/photo/2020/06/29/20/22/flowers-5354285_640.jpg#center)
 
 ## Geburtsblume des 9. Februar: Myrte
 

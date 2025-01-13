@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![カーネーションのイメージ](https://cdn.pixabay.com/photo/2023/01/06/21/34/carnation-7702161_1280.jpg#center)
+![カーネーションのイメージ](https://cdn.pixabay.com/photo/2023/01/06/21/34/carnation-7702161_640.jpg#center)
 
 
 ## カーネーションに関する説明

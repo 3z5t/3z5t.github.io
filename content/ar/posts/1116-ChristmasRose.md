@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة خربق أسود](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_1280.jpg#center)
+![صورة خربق أسود](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_640.jpg#center)
 
 ## زهرة ميلاد ١٦ نوفمبر: خربق أسود
 

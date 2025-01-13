@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Magnolie](https://cdn.pixabay.com/photo/2023/04/24/10/17/flowers-7947730_1280.jpg#center)
+![Bild von Magnolie](https://cdn.pixabay.com/photo/2023/04/24/10/17/flowers-7947730_640.jpg#center)
 
 
 ## Geburtsblume des 4. Juli: Magnolie

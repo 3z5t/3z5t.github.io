@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Capuchina](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_1280.jpg#center)
+![Imagen de Capuchina](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_640.jpg#center)
 
 
 ## Capuchina: La Flor del 6 de Septiembre, Símbolo del Patriotismo

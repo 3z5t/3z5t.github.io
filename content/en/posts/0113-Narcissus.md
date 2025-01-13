@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Narcissus](https://cdn.pixabay.com/photo/2021/04/06/19/20/daffodils-6157253_1280.jpg#center)
+![Image of Narcissus](https://cdn.pixabay.com/photo/2021/04/06/19/20/daffodils-6157253_640.jpg#center)
 
 
 ## Narcissus: The Birth Flower of January 13th

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Гранат обыкновенный](https://cdn.pixabay.com/photo/2017/10/07/05/33/pomegranate-2825556_1280.jpg#center)
+![Изображение Гранат обыкновенный](https://cdn.pixabay.com/photo/2017/10/07/05/33/pomegranate-2825556_640.jpg#center)
 
 ## Гранат обыкновенный (Pomegranate): Символ плодородия и зрелости
 

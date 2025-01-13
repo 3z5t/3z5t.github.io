@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Narcis žlutý](https://cdn.pixabay.com/photo/2022/04/02/12/29/wild-daffodils-7106921_1280.jpg#center)
+![Obrázek Narcis žlutý](https://cdn.pixabay.com/photo/2022/04/02/12/29/wild-daffodils-7106921_640.jpg#center)
 
 ## 2. ledna – Narozeninová květina: Narcis žlutý
 

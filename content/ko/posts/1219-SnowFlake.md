@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![은방울수선의 이미지](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_1280.jpg#center)
+![은방울수선의 이미지](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_640.jpg#center)
 
 
 ## 12월 19일의 꽃: 은방울수선 (Snow Flake)

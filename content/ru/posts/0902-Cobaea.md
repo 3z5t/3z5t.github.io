@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Кобея](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_1280.jpg#center)
+![Изображение Кобея](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_640.jpg#center)
 
 ## Кобея — цветок грации и перемен
 

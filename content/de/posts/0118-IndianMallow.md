@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Indische Malve](https://cdn.pixabay.com/photo/2019/08/13/17/30/abutilon-4403857_1280.jpg#center)
+![Bild von Indische Malve](https://cdn.pixabay.com/photo/2019/08/13/17/30/abutilon-4403857_640.jpg#center)
 
 
 ## Geburtsblume des 18. Januar: Indische Malve

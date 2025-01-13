@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![수박풀의 이미지](https://cdn.pixabay.com/photo/2016/02/12/17/32/flower-1196470_1280.jpg#center)
+![수박풀의 이미지](https://cdn.pixabay.com/photo/2016/02/12/17/32/flower-1196470_640.jpg#center)
 
 
 ### 수박풀(Flower of an Hour)

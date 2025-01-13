@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Ива плакучая](https://cdn.pixabay.com/photo/2022/06/02/16/23/weeping-willow-7238442_1280.jpg#center)
+![Изображение Ива плакучая](https://cdn.pixabay.com/photo/2022/06/02/16/23/weeping-willow-7238442_640.jpg#center)
 
 ## Ива плакучая: Символ Светлой Грусти и Надежды
 

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![파인애플의 이미지](https://cdn.pixabay.com/photo/2018/09/09/12/51/pineapple-3664499_1280.jpg#center)
+![파인애플의 이미지](https://cdn.pixabay.com/photo/2018/09/09/12/51/pineapple-3664499_640.jpg#center)
 
 
 ### 파인애플 (Pineapple)

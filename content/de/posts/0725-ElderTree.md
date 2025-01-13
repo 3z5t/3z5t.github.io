@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Schwarzer Holunder](https://cdn.pixabay.com/photo/2017/06/20/07/56/elder-2422131_1280.jpg#center)
+![Bild von Schwarzer Holunder](https://cdn.pixabay.com/photo/2017/06/20/07/56/elder-2422131_640.jpg#center)
 
 
 ## Geburtsblume des 25. Juli: Schwarzer Holunder

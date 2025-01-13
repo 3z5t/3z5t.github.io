@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Justicia Procumbes](https://cdn.pixabay.com/photo/2013/03/07/15/36/asperugo-procumbens-91224_1280.jpg#center)
+![Image of Justicia Procumbes](https://cdn.pixabay.com/photo/2013/03/07/15/36/asperugo-procumbens-91224_640.jpg#center)
 
 
 ### Description of Justicia Procumbens

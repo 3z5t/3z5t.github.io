@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Trébol](https://cdn.pixabay.com/photo/2018/10/23/19/10/clover-3768689_1280.jpg#center)
+![Imagen de Trébol](https://cdn.pixabay.com/photo/2018/10/23/19/10/clover-3768689_640.jpg#center)
 
 
 ## Trébol: La Flor del 31 de Agosto, Símbolo de Promesa

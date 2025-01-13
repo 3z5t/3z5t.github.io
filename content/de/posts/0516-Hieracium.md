@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Habichtskraut](https://cdn.pixabay.com/photo/2013/08/30/10/53/alpine-hawkweed-177284_1280.jpg#center)
+![Bild von Habichtskraut](https://cdn.pixabay.com/photo/2013/08/30/10/53/alpine-hawkweed-177284_640.jpg#center)
 
 
 ## Geburtsblume des 16. Mai: Habichtskraut

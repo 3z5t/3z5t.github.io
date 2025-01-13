@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Колокольчик](https://cdn.pixabay.com/photo/2020/03/04/02/40/nature-4900321_1280.jpg#center)
+![Изображение Колокольчик](https://cdn.pixabay.com/photo/2020/03/04/02/40/nature-4900321_640.jpg#center)
 
 ## Колокольчик (Campanula): символ правдивого сердца
 

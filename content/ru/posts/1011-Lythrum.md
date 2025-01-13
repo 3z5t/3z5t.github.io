@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Дербенник иволистный](https://cdn.pixabay.com/photo/2019/07/15/12/11/ordinary-loosestrife-4339197_1280.jpg#center)
+![Изображение Дербенник иволистный](https://cdn.pixabay.com/photo/2019/07/15/12/11/ordinary-loosestrife-4339197_640.jpg#center)
 
 ## Дербенник иволистный — символ любовной тоски
 

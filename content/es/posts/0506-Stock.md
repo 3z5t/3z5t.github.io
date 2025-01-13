@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Alhelí](https://cdn.pixabay.com/photo/2019/05/31/23/34/matthiola-4243235_1280.jpg#center)
+![Imagen de Alhelí](https://cdn.pixabay.com/photo/2019/05/31/23/34/matthiola-4243235_640.jpg#center)
 
 
 ## Alhelí, la Flor del Nacimiento del 6 de Mayo

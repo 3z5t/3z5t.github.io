@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة خانِق الذِّئب](https://cdn.pixabay.com/photo/2020/06/20/19/50/aconite-5322278_1280.jpg#center)
+![صورة خانِق الذِّئب](https://cdn.pixabay.com/photo/2020/06/20/19/50/aconite-5322278_640.jpg#center)
 
 ## زهرة ميلاد ١٩ يوليو: خانِق الذِّئب
 

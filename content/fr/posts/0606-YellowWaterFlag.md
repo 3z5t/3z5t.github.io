@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Iris coréen](https://cdn.pixabay.com/photo/2022/02/21/14/31/iris-7026891_1280.jpg#center)
+![Image de Iris coréen](https://cdn.pixabay.com/photo/2022/02/21/14/31/iris-7026891_640.jpg#center)
 
 
 ## Iris coréen (Yellow Water Flag), la fleur du 6 juin

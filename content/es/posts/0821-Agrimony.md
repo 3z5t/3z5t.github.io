@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Agrimonia](https://cdn.pixabay.com/photo/2020/06/28/14/37/agrimony-flower-5349515_1280.jpg#center)
+![Imagen de Agrimonia](https://cdn.pixabay.com/photo/2020/06/28/14/37/agrimony-flower-5349515_640.jpg#center)
 
 
 ## Agrimonia: La Flor del 21 de Agosto, Símbolo de Gratitud

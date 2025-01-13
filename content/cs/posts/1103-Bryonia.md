@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Posed](https://cdn.pixabay.com/photo/2022/05/13/10/21/bryonia-7193340_1280.jpg#center)
+![Obrázek Posed](https://cdn.pixabay.com/photo/2022/05/13/10/21/bryonia-7193340_640.jpg#center)
 
 
 ## 3. listopadu – Narozeninová květina: Posed

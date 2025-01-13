@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![오렌지의 이미지](https://cdn.pixabay.com/photo/2019/04/26/16/14/orange-flower-4157944_1280.jpg#center)
+![오렌지의 이미지](https://cdn.pixabay.com/photo/2019/04/26/16/14/orange-flower-4157944_640.jpg#center)
 
 
 ### 9월 7일의 꽃: 오렌지(Orange)

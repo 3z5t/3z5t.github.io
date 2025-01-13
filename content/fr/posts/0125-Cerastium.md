@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Céraiste](https://cdn.pixabay.com/photo/2019/05/12/19/11/downy-madarhur-4198805_1280.jpg#center)
+![Image de Céraiste](https://cdn.pixabay.com/photo/2019/05/12/19/11/downy-madarhur-4198805_640.jpg#center)
 
 
 ## Céraiste, la fleur du 25 janvier : Un symbole d’authenticité et de simplicité

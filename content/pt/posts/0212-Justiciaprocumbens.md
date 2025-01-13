@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Justícia rasteira](https://cdn.pixabay.com/photo/2013/03/07/15/36/asperugo-procumbens-91224_1280.jpg#center)
+![Imagem de Justícia rasteira](https://cdn.pixabay.com/photo/2013/03/07/15/36/asperugo-procumbens-91224_640.jpg#center)
 
 
 ## Flor de nascimento de 12 de fevereiro: Justícia rasteira

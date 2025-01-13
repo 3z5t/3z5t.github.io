@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Kleiner Odermennig](https://cdn.pixabay.com/photo/2020/06/28/14/37/agrimony-flower-5349515_1280.jpg#center)
+![Bild von Kleiner Odermennig](https://cdn.pixabay.com/photo/2020/06/28/14/37/agrimony-flower-5349515_640.jpg#center)
 
 
 ## Geburtsblume des 21. August: Kleiner Odermennig

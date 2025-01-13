@@ -13,7 +13,7 @@ tags:
 draft: flase
 ---
 
-![비단향꽃무의 이미지](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_1280.jpg#center)
+![비단향꽃무의 이미지](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_640.jpg#center)
 
 ### 비단향꽃무(Stock): 시간 속의 영원한 아름다움
 

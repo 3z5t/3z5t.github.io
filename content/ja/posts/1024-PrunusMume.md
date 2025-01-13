@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ウメのイメージ](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_1280.jpg#center)
+![ウメのイメージ](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_640.jpg#center)
 
 
 ## ウメ（Prunus Mume）について

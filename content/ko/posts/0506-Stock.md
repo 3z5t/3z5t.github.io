@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![비단향꽃무의 이미지](https://cdn.pixabay.com/photo/2019/05/31/23/34/matthiola-4243235_1280.jpg#center)
+![비단향꽃무의 이미지](https://cdn.pixabay.com/photo/2019/05/31/23/34/matthiola-4243235_640.jpg#center)
 
 
 ### 비단향꽃무(Stock)에 대한 설명

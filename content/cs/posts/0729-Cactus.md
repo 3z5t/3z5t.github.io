@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Kaktus](https://cdn.pixabay.com/photo/2012/11/28/09/24/cactus-67547_1280.jpg#center)
+![Obrázek Kaktus](https://cdn.pixabay.com/photo/2012/11/28/09/24/cactus-67547_640.jpg#center)
 
 ## 29. července – Narozeninová květina: Kaktus
 

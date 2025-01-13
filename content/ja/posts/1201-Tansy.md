@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![タンジーのイメージ](https://cdn.pixabay.com/photo/2016/02/08/14/43/tansy-1186677_1280.jpg#center)
+![タンジーのイメージ](https://cdn.pixabay.com/photo/2016/02/08/14/43/tansy-1186677_640.jpg#center)
 
 
 ## タンジーに関する説明

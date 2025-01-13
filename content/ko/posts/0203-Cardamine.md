@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![황새냉이의 이미지](https://cdn.pixabay.com/photo/2020/04/13/17/30/cuckoo-5039419_1280.jpg)
+![황새냉이의 이미지](https://cdn.pixabay.com/photo/2020/04/13/17/30/cuckoo-5039419_640.jpg)
 
 
 황새냉이는 봄에 활짝 핀 꽃으로, 그 아름다운 흰 꽃잎과 연두색 잎사귀로 인해 많은 사람들에게 사랑받는 꽃 중 하나입니다.

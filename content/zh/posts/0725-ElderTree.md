@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![馬蹄樹的图片](https://cdn.pixabay.com/photo/2017/06/20/07/56/elder-2422131_1280.jpg#center)
+![馬蹄樹的图片](https://cdn.pixabay.com/photo/2017/06/20/07/56/elder-2422131_640.jpg#center)
 
 
 ## 馬蹄樹的描述

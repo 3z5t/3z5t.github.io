@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![パセリのイメージ](https://cdn.pixabay.com/photo/2022/06/05/13/57/cow-parsley-7244120_1280.jpg#center)
+![パセリのイメージ](https://cdn.pixabay.com/photo/2022/06/05/13/57/cow-parsley-7244120_640.jpg#center)
 
 
 ## パセリ（Parsley）について

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Oleander](https://cdn.pixabay.com/photo/2022/08/25/11/47/red-oleander-7410079_1280.jpg#center)
+![Image of Oleander](https://cdn.pixabay.com/photo/2022/08/25/11/47/red-oleander-7410079_640.jpg#center)
 
 
 ### Description of Oleander

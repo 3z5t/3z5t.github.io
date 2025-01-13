@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Pryskyřník](https://cdn.pixabay.com/photo/2023/07/02/07/20/buttercup-8101494_1280.jpg#center)
+![Obrázek Pryskyřník](https://cdn.pixabay.com/photo/2023/07/02/07/20/buttercup-8101494_640.jpg#center)
 
 
 ## 18. února – Narozeninová květina: Pryskyřník

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الهياسنث الأصفر](https://cdn.pixabay.com/photo/2015/04/23/19/03/hyacinth-736516_1280.jpg#center)
+![صورة الهياسنث الأصفر](https://cdn.pixabay.com/photo/2015/04/23/19/03/hyacinth-736516_640.jpg#center)
 
 ## زهرة ميلاد ١٦ يناير: الهياسنث الأصفر
 

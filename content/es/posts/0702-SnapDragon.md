@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Boca de dragón](https://cdn.pixabay.com/photo/2012/03/02/00/37/snapdragon-20809_1280.jpg#center)
+![Imagen de Boca de dragón](https://cdn.pixabay.com/photo/2012/03/02/00/37/snapdragon-20809_640.jpg#center)
 
 
 ## Boca de Dragón: La Flor del Anhelo y la Ambición para el 2 de Julio

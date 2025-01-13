@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Berro amargo](https://cdn.pixabay.com/photo/2020/04/13/17/30/cuckoo-5039419_1280.jpg#center)
+![Imagen de Berro amargo](https://cdn.pixabay.com/photo/2020/04/13/17/30/cuckoo-5039419_640.jpg#center)
 
 
 ## Berro Amargo, la Flor del Nacimiento del 3 de Febrero

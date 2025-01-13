@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الخَوْخ](https://cdn.pixabay.com/photo/2017/07/20/19/18/peach-blossom-2523391_1280.jpg#center)
+![صورة الخَوْخ](https://cdn.pixabay.com/photo/2017/07/20/19/18/peach-blossom-2523391_640.jpg#center)
 
 ## زهرة ميلاد ١٢ أبريل: الخَوْخ
 

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Margerite](https://cdn.pixabay.com/photo/2016/09/09/08/30/marguerite-1656357_1280.jpg#center)
+![Bild von Margerite](https://cdn.pixabay.com/photo/2016/09/09/08/30/marguerite-1656357_640.jpg#center)
 
 ## Geburtsblume des 3. September: Margerite
 

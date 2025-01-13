@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Álamo negro](https://cdn.pixabay.com/photo/2012/10/09/06/00/leaves-60488_1280.jpg#center)
+![Imagen de Álamo negro](https://cdn.pixabay.com/photo/2012/10/09/06/00/leaves-60488_640.jpg#center)
 
 
 ## Álamo Negro, la Flor del Nacimiento del 28 de Enero

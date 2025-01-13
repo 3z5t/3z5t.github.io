@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![天竺葵的图片](https://cdn.pixabay.com/photo/2020/06/02/10/21/flowers-5250327_1280.jpg#center)
+![天竺葵的图片](https://cdn.pixabay.com/photo/2020/06/02/10/21/flowers-5250327_640.jpg#center)
 
 
 ## 天竺葵的描述

@@ -11,7 +11,7 @@ tags:
   - 1월 2일
   - 꽃
 ---
-![꽃 사진](https://cdn.pixabay.com/photo/2022/04/02/12/29/wild-daffodils-7106921_1280.jpg#center)
+![꽃 사진](https://cdn.pixabay.com/photo/2022/04/02/12/29/wild-daffodils-7106921_640.jpg#center)
 
 안녕하세요, 꽃을 사랑하고 그 의미에 대해 깊이 생각하는 여러분. 오늘은 새해가 시작된 뒤 두 번째 날인 1월 2일, 이 날을 상징하는 꽃인 노랑수선화에 대해 함께 이야기 나눠보려 합니다. 
 

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة سوسن ياباني](https://cdn.pixabay.com/photo/2019/02/25/20/19/iris-4020510_1280.jpg#center)
+![صورة سوسن ياباني](https://cdn.pixabay.com/photo/2019/02/25/20/19/iris-4020510_640.jpg#center)
 
 ## زهرة ميلاد ١٠ مايو: سوسن ياباني
 

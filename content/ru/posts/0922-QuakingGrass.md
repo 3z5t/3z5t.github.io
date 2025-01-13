@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Трясунка средняя](https://cdn.pixabay.com/photo/2017/06/30/13/13/hjertegrs-2458228_1280.jpg#center)
+![Изображение Трясунка средняя](https://cdn.pixabay.com/photo/2017/06/30/13/13/hjertegrs-2458228_640.jpg#center)
 
 ## Трясунка средняя — символ трепета чувств и нежности
 

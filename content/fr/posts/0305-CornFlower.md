@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Bleuet](https://cdn.pixabay.com/photo/2019/05/24/02/20/the-idyll-4225323_1280.jpg#center)
+![Image de Bleuet](https://cdn.pixabay.com/photo/2019/05/24/02/20/the-idyll-4225323_640.jpg#center)
 
 
 ## Bleuet (Corn Flower), la fleur du 5 mars : Une icône de bonheur et de beauté discrète

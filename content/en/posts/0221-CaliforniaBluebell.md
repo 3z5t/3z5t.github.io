@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of California Blue-bell](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_1280.jpg#center)
+![Image of California Blue-bell](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_640.jpg#center)
 
 
 ### Description of California Blue-bell

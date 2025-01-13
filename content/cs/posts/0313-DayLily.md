@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Denivka](https://cdn.pixabay.com/photo/2018/03/20/20/48/nature-3244629_1280.jpg#center)
+![Obrázek Denivka](https://cdn.pixabay.com/photo/2018/03/20/20/48/nature-3244629_640.jpg#center)
 
 
 ## 13. března – Narozeninová květina: Denivka

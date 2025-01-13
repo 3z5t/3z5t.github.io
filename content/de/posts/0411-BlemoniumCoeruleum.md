@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Jakobsleiter](https://cdn.pixabay.com/photo/2022/08/25/17/02/jacobs-ladder-7410808_1280.jpg#center)
+![Bild von Jakobsleiter](https://cdn.pixabay.com/photo/2022/08/25/17/02/jacobs-ladder-7410808_640.jpg#center)
 
 
 ## Geburtsblume des 11. April: Jakobsleiter

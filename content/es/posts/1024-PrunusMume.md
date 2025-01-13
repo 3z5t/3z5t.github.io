@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Ciruelo chino](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_1280.jpg#center)
+![Imagen de Ciruelo chino](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_640.jpg#center)
 
 
 ## Ciruelo Chino (Prunus Mume): La Flor del 24 de Octubre, Símbolo de "Nobleza de Corazón"

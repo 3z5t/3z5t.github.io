@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Alpenveilchen](https://cdn.pixabay.com/photo/2014/10/08/17/43/cyclamen-480477_1280.jpg#center)
+![Bild von Alpenveilchen](https://cdn.pixabay.com/photo/2014/10/08/17/43/cyclamen-480477_640.jpg#center)
 
 
 ## Geburtsblume des 14. Januar: Alpenveilchen

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Kalifornische Glockenblume](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_1280.jpg#center)
+![Bild von Kalifornische Glockenblume](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_640.jpg#center)
 
 
 ## Geburtsblume des 21. Februar: Kalifornische Glockenblume

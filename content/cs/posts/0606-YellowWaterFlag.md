@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Kosatec žlutý](https://cdn.pixabay.com/photo/2022/02/21/14/31/iris-7026891_1280.jpg#center)
+![Obrázek Kosatec žlutý](https://cdn.pixabay.com/photo/2022/02/21/14/31/iris-7026891_640.jpg#center)
 
 ## 6. června – Narozeninová květina: Kosatec žlutý
 

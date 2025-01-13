@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Ixeris](https://cdn.pixabay.com/photo/2020/05/16/11/18/bee-5177103_1280.jpg#center)
+![Imagem de Ixeris](https://cdn.pixabay.com/photo/2020/05/16/11/18/bee-5177103_640.jpg#center)
 
 
 ## Flor de nascimento de 11 de março: Ixeris

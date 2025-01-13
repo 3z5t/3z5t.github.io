@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة قيصوم ألفي الأوراق](https://cdn.pixabay.com/photo/2018/09/16/11/10/yarrow-plant-3681169_1280.jpg#center)
+![صورة قيصوم ألفي الأوراق](https://cdn.pixabay.com/photo/2018/09/16/11/10/yarrow-plant-3681169_640.jpg#center)
 
 ## زهرة ميلاد ٢٦ نوفمبر: قيصوم ألفي الأوراق
 

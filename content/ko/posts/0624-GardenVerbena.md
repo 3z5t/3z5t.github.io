@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![버베나의 이미지](https://cdn.pixabay.com/photo/2015/05/07/07/58/flowers-756181_1280.jpg#center)
+![버베나의 이미지](https://cdn.pixabay.com/photo/2015/05/07/07/58/flowers-756181_640.jpg#center)
 
 
 ### 버베나(Garden Verbena): 정원의 화합과 아름다움

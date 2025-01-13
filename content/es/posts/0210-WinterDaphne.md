@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Dafne de invierno](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_1280.jpg#center)
+![Imagen de Dafne de invierno](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_640.jpg#center)
 
 
 ## Dafne de Invierno, la Flor del Nacimiento del 10 de Febrero

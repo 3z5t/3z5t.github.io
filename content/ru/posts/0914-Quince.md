@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Айва японская](https://cdn.pixabay.com/photo/2019/03/31/17/40/japanese-ornamental-quince-4093575_1280.jpg#center)
+![Изображение Айва японская](https://cdn.pixabay.com/photo/2019/03/31/17/40/japanese-ornamental-quince-4093575_640.jpg#center)
 
 ## Айва японская — символ сладкого искушения и утончённой красоты
 

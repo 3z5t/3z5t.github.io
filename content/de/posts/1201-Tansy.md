@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Gemeiner Rainfarn](https://cdn.pixabay.com/photo/2016/02/08/14/43/tansy-1186677_1280.jpg#center)
+![Bild von Gemeiner Rainfarn](https://cdn.pixabay.com/photo/2016/02/08/14/43/tansy-1186677_640.jpg#center)
 
 
 ## Geburtsblume des 1. Dezember: Gemeiner Rainfarn

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![매화의 이미지](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_1280.jpg#center)
+![매화의 이미지](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_640.jpg#center)
 
 
 ### 10월 24일의 꽃: 매화 (Prunus Mume)

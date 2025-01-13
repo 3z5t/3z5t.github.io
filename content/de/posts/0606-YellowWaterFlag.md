@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Wasser-Schwertlilie](https://cdn.pixabay.com/photo/2022/02/21/14/31/iris-7026891_1280.jpg#center)
+![Bild von Wasser-Schwertlilie](https://cdn.pixabay.com/photo/2022/02/21/14/31/iris-7026891_640.jpg#center)
 
 ## Geburtsblume des 6. Juni: Wasser-Schwertlilie
 

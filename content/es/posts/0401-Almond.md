@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Almendro](https://cdn.pixabay.com/photo/2016/02/01/15/15/almond-blossom-1173735_1280.jpg#center)
+![Imagen de Almendro](https://cdn.pixabay.com/photo/2016/02/01/15/15/almond-blossom-1173735_640.jpg#center)
 
 
 ## Almendro, la Flor del Nacimiento del 1 de Abril

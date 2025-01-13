@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Morangueiro do Jardim](https://cdn.pixabay.com/photo/2016/06/20/00/40/strawberries-1467902_1280.jpg#center)
+![Imagem de Morangueiro do Jardim](https://cdn.pixabay.com/photo/2016/06/20/00/40/strawberries-1467902_640.jpg#center)
 
 
 ## Flor de nascimento de 4 de maio: Morangueiro do Jardim

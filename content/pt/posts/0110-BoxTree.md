@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Buxo](https://cdn.pixabay.com/photo/2017/10/26/18/49/boxwood-2892034_1280.jpg#center)
+![Imagem de Buxo](https://cdn.pixabay.com/photo/2017/10/26/18/49/boxwood-2892034_640.jpg#center)
 
 ## Flor de nascimento de 10 de janeiro: Buxo
 

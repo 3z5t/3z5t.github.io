@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![紅海葵的图片](https://cdn.pixabay.com/photo/2017/06/23/03/45/anemone-2433412_1280.png#center)
+![紅海葵的图片](https://cdn.pixabay.com/photo/2017/06/23/03/45/anemone-2433412_640.png#center)
 
 
 ## 紅海葵的描述

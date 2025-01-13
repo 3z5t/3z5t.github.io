@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Œillet de poète](https://cdn.pixabay.com/photo/2016/10/25/16/26/dianthus-1769322_1280.jpg#center)
+![Image de Œillet de poète](https://cdn.pixabay.com/photo/2016/10/25/16/26/dianthus-1769322_640.jpg#center)
 
 
 ## Œillet de poète (Sweet William), la fleur du 10 juin

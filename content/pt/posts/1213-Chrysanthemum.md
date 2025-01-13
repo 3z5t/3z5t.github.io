@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Crisântemo Magenta](https://cdn.pixabay.com/photo/2019/02/08/13/11/chrysanthemum-3983195_1280.jpg#center)
+![Imagem de Crisântemo Magenta](https://cdn.pixabay.com/photo/2019/02/08/13/11/chrysanthemum-3983195_640.jpg#center)
 
 
 ## Flor de nascimento de 13 de dezembro: Crisântemo Magenta

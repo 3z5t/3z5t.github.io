@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![墨西哥常春藤的图片](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_1280.jpg#center)
+![墨西哥常春藤的图片](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_640.jpg#center)
 
 
 ## 墨西哥常春藤的描述

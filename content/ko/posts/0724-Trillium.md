@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![연령초의 이미지](https://cdn.pixabay.com/photo/2018/05/19/14/37/trillium-3413621_1280.jpg#center)
+![연령초의 이미지](https://cdn.pixabay.com/photo/2018/05/19/14/37/trillium-3413621_640.jpg#center)
 
 
 ### 연령초(Trillium)

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Levandule](https://cdn.pixabay.com/photo/2021/06/29/18/51/lavender-6374964_1280.jpg#center)
+![Obrázek Levandule](https://cdn.pixabay.com/photo/2021/06/29/18/51/lavender-6374964_640.jpg#center)
 
 ## 3. prosince – Narozeninová květina: Levandule
 

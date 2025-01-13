@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![빨강 제라늄의 이미지](https://cdn.pixabay.com/photo/2019/07/12/14/52/geranium-4333041_1280.jpg#center)
+![빨강 제라늄의 이미지](https://cdn.pixabay.com/photo/2019/07/12/14/52/geranium-4333041_640.jpg#center)
 
 
 ### 빨강 제라늄(Geranium) 설명

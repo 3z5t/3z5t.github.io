@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Campanilla de California](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_1280.jpg#center)
+![Imagen de Campanilla de California](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_640.jpg#center)
 
 
 ## Campanilla de California, la Flor del Nacimiento del 21 de Febrero

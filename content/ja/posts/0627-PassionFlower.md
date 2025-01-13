@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![トケイソウのイメージ](https://cdn.pixabay.com/photo/2016/10/06/03/32/watch-flowers-1718103_1280.jpg#center)
+![トケイソウのイメージ](https://cdn.pixabay.com/photo/2016/10/06/03/32/watch-flowers-1718103_640.jpg#center)
 
 
 ### トケイソウに関する説明

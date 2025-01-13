@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Lilac](https://cdn.pixabay.com/photo/2023/12/04/18/10/lilac-8430051_1280.jpg#center)
+![Image of Lilac](https://cdn.pixabay.com/photo/2023/12/04/18/10/lilac-8430051_640.jpg#center)
 
 
 ### Description of Lilac

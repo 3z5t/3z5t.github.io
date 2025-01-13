@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Кампсис укореняющийся](https://cdn.pixabay.com/photo/2020/06/14/14/59/flowers-5298209_1280.jpg#center)
+![Изображение Кампсис укореняющийся](https://cdn.pixabay.com/photo/2020/06/14/14/59/flowers-5298209_640.jpg#center)
 
 ## Кампсис укореняющийся: Честь и достоинство
 

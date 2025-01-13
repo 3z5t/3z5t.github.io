@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Гвоздика турецкая](https://cdn.pixabay.com/photo/2016/10/25/16/26/dianthus-1769322_1280.jpg#center)
+![Изображение Гвоздика турецкая](https://cdn.pixabay.com/photo/2016/10/25/16/26/dianthus-1769322_640.jpg#center)
 
 ## Гвоздика турецкая: Символ рыцарского благородства
 

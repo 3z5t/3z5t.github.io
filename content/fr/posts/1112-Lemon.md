@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Citron](https://cdn.pixabay.com/photo/2016/04/17/14/28/lemon-blossom-1334788_1280.jpg#center)
+![Image de Citron](https://cdn.pixabay.com/photo/2016/04/17/14/28/lemon-blossom-1334788_640.jpg#center)
 
 
 ## Portrait botanique de Citron

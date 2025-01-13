@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ポピー（白色）のイメージ](https://cdn.pixabay.com/photo/2021/05/14/19/21/poppy-6254293_1280.jpg#center)
+![ポピー（白色）のイメージ](https://cdn.pixabay.com/photo/2021/05/14/19/21/poppy-6254293_640.jpg#center)
 
 
 ### ポピー（白色）に関する説明

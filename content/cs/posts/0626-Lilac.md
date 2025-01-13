@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Bílý šeřík](https://cdn.pixabay.com/photo/2023/12/04/18/10/lilac-8430051_1280.jpg#center)
+![Obrázek Bílý šeřík](https://cdn.pixabay.com/photo/2023/12/04/18/10/lilac-8430051_640.jpg#center)
 
 ## 26. června – Narozeninová květina: Bílý šeřík
 

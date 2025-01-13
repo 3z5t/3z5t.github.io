@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Rose de Noël](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_1280.jpg#center)
+![Image de Rose de Noël](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_640.jpg#center)
 
 
 ## Portrait botanique de Rose de Noël

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Mišpule obecná](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_1280.jpg#center)
+![Obrázek Mišpule obecná](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_640.jpg#center)
 
 
 ## 1. listopadu – Narozeninová květina: Mišpule obecná

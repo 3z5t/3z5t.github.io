@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![鬱金香的图片](https://cdn.pixabay.com/photo/2020/04/28/13/17/tulips-5104494_1280.jpg#center)
+![鬱金香的图片](https://cdn.pixabay.com/photo/2020/04/28/13/17/tulips-5104494_640.jpg#center)
 
 
 ## 鬱金香的描述

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Vavřín vítězný](https://cdn.pixabay.com/photo/2017/09/23/19/24/laurel-2779880_1280.jpg#center)
+![Obrázek Vavřín vítězný](https://cdn.pixabay.com/photo/2017/09/23/19/24/laurel-2779880_640.jpg#center)
 
 
 ## 16. února – Narozeninová květina: Vavřín vítězný

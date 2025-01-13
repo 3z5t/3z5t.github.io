@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Rosa de Sarón](https://cdn.pixabay.com/photo/2022/08/14/07/18/flower-7385082_1280.jpg#center)
+![Imagen de Rosa de Sarón](https://cdn.pixabay.com/photo/2022/08/14/07/18/flower-7385082_640.jpg#center)
 
 
 ### Descripción de Rosa de Sarón

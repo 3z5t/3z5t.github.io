@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Adonis](https://cdn.pixabay.com/photo/2016/04/12/17/25/pheasants-eye-1324890_1280.jpg#center)
+![Imagen de Adonis](https://cdn.pixabay.com/photo/2016/04/12/17/25/pheasants-eye-1324890_640.jpg#center)
 
 
 ## Adonis, la Flor del Nacimiento del 26 de Febrero

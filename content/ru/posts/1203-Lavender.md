@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Лаванда узколистная](https://cdn.pixabay.com/photo/2021/06/29/18/51/lavender-6374964_1280.jpg#center)
+![Изображение Лаванда узколистная](https://cdn.pixabay.com/photo/2021/06/29/18/51/lavender-6374964_640.jpg#center)
 
 ## Лаванда узколистная (Lavender): Символ надежды и ожидания
 

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Escila](https://cdn.pixabay.com/photo/2020/01/23/07/40/squill-4787085_1280.jpg#center)
+![Imagen de Escila](https://cdn.pixabay.com/photo/2020/01/23/07/40/squill-4787085_640.jpg#center)
 
 
 ## Escila, la Flor del Nacimiento del 31 de Mayo

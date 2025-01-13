@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Weeping Willow](https://cdn.pixabay.com/photo/2020/03/24/18/05/weeping-willow-4964961_1280.jpg#center)
+![Image of Weeping Willow](https://cdn.pixabay.com/photo/2020/03/24/18/05/weeping-willow-4964961_640.jpg#center)
 
 
 ### Description of Weeping Willow

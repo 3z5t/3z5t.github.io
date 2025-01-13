@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الزعفران الربيعي](https://cdn.pixabay.com/photo/2014/02/10/08/17/flowers-263278_1280.jpg#center)
+![صورة الزعفران الربيعي](https://cdn.pixabay.com/photo/2014/02/10/08/17/flowers-263278_640.jpg#center)
 
 ## زهرة ميلاد ٣ يناير: الزعفران الربيعي
 

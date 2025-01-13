@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Ranúnculo](https://cdn.pixabay.com/photo/2015/05/04/20/26/buttercup-752927_1280.jpg#center)
+![Imagem de Ranúnculo](https://cdn.pixabay.com/photo/2015/05/04/20/26/buttercup-752927_640.jpg#center)
 
 
 ## Flor de nascimento de 2 de março: Ranúnculo

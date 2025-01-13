@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Löwenmäulchen](https://cdn.pixabay.com/photo/2012/03/02/00/37/snapdragon-20809_1280.jpg#center)
+![Bild von Löwenmäulchen](https://cdn.pixabay.com/photo/2012/03/02/00/37/snapdragon-20809_640.jpg#center)
 
 
 ## Geburtsblume des 2. Juli: Löwenmäulchen

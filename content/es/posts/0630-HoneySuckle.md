@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Madreselva](https://cdn.pixabay.com/photo/2018/08/13/04/58/flower-3602283_1280.jpg#center)
+![Imagen de Madreselva](https://cdn.pixabay.com/photo/2018/08/13/04/58/flower-3602283_640.jpg#center)
 
 
 ## Madreselva: La Flor del Amor Eterno para el 30 de Junio

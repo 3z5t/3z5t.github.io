@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![橄欖樹的图片](https://cdn.pixabay.com/photo/2015/05/29/10/00/olives-789140_1280.jpg#center)
+![橄欖樹的图片](https://cdn.pixabay.com/photo/2015/05/29/10/00/olives-789140_640.jpg#center)
 
 
 ## 橄欖樹的描述

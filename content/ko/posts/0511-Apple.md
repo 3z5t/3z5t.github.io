@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![사과꽃의 이미지](https://cdn.pixabay.com/photo/2022/04/20/20/23/flowers-7146137_1280.jpg#center)
+![사과꽃의 이미지](https://cdn.pixabay.com/photo/2022/04/20/20/23/flowers-7146137_640.jpg#center)
 
 
 ### 사과꽃(Apple)에 대한 설명

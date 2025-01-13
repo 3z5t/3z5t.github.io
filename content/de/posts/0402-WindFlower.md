@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Windröschen](https://cdn.pixabay.com/photo/2016/11/30/14/20/anemone-1872919_1280.jpg#center)
+![Bild von Windröschen](https://cdn.pixabay.com/photo/2016/11/30/14/20/anemone-1872919_640.jpg#center)
 
 
 ## Geburtsblume des 2. April: Windröschen

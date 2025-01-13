@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![繡球花的图片](https://cdn.pixabay.com/photo/2021/11/12/22/52/viburnum-lantana-6790205_1280.jpg#center)
+![繡球花的图片](https://cdn.pixabay.com/photo/2021/11/12/22/52/viburnum-lantana-6790205_640.jpg#center)
 
 
 ## 繡球花的描述

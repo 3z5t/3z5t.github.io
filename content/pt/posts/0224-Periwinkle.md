@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Pervinca](https://cdn.pixabay.com/photo/2022/03/31/05/09/flower-7102225_1280.jpg#center)
+![Imagem de Pervinca](https://cdn.pixabay.com/photo/2022/03/31/05/09/flower-7102225_640.jpg#center)
 
 
 ## Flor de nascimento de 24 de fevereiro: Pervinca

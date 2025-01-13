@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![아몬드의 이미지](https://cdn.pixabay.com/photo/2016/02/01/15/15/almond-blossom-1173735_1280.jpg#center)
+![아몬드의 이미지](https://cdn.pixabay.com/photo/2016/02/01/15/15/almond-blossom-1173735_640.jpg#center)
 
 
 ### 아몬드(Almond)에 대한 설명

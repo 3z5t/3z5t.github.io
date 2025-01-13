@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Haferrispe](https://cdn.pixabay.com/photo/2017/06/21/08/27/barley-2426466_1280.jpg#center)
+![Bild von Haferrispe](https://cdn.pixabay.com/photo/2017/06/21/08/27/barley-2426466_640.jpg#center)
 
 
 ## Geburtsblume des 25. September: Haferrispe

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Pomagranate](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_1280.jpg#center)
+![Image of Pomagranate](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_640.jpg#center)
 
 
 ### Description of Pomegranate

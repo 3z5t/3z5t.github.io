@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Geranio](https://cdn.pixabay.com/photo/2022/06/25/15/54/cranesbill-7283721_1280.jpg#center)
+![Imagen de Geranio](https://cdn.pixabay.com/photo/2022/06/25/15/54/cranesbill-7283721_640.jpg#center)
 
 
 ## Geranio: La Flor del Amor Verdadero para el 27 de Julio

@@ -11,7 +11,7 @@ tags:
   - 탄생화
   - 꽃
 ---
-![꽃 사진](https://cdn.pixabay.com/photo/2022/03/27/10/45/lesser-celandine-7094719_1280.jpg#center)
+![꽃 사진](https://cdn.pixabay.com/photo/2022/03/27/10/45/lesser-celandine-7094719_640.jpg#center)
 
 안녕하세요, 꽃 애호가 여러분. 오늘은 1월 20일의 꽃, 미나리아재비(Butter Cup)에 대해 이야기해 보려 합니다. 그 생기발랄한 모습과 의미로 사람들의 마음을 사로잡는 미나리아재비(Butter Cup), 그 속에 담긴 이야기를 함께 알아봅시다.
 

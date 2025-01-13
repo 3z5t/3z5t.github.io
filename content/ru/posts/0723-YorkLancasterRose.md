@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Тюдоровская роза](https://cdn.pixabay.com/photo/2014/03/30/13/01/rose-301406_1280.jpg#center)
+![Изображение Тюдоровская роза](https://cdn.pixabay.com/photo/2014/03/30/13/01/rose-301406_640.jpg#center)
 
 
 ## Тюдоровская роза (York & Lancaster Rose): Символ красоты и изящества

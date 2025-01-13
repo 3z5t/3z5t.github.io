@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Leucojum](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_1280.jpg#center)
+![Imagen de Leucojum](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_640.jpg#center)
 
 
 ### Descripción de Leucojum

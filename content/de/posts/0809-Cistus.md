@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Zistrose](https://cdn.pixabay.com/photo/2020/04/13/16/49/laden-5039229_1280.jpg#center)
+![Bild von Zistrose](https://cdn.pixabay.com/photo/2020/04/13/16/49/laden-5039229_640.jpg#center)
 
 
 ## Geburtsblume des 9. August: Zistrose

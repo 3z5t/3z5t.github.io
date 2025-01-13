@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![나팔수선화의 이미지](https://cdn.pixabay.com/photo/2017/02/09/20/41/flower-2053451_1280.jpg#center)
+![나팔수선화의 이미지](https://cdn.pixabay.com/photo/2017/02/09/20/41/flower-2053451_640.jpg#center)
 
 
 ### 나팔수선화(Daffodil)에 대한 설명

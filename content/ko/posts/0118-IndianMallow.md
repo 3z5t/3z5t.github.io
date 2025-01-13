@@ -11,7 +11,7 @@ tags:
   - 탄생화
   - 꽃
 ---
-![꽃 사진](https://cdn.pixabay.com/photo/2019/08/13/17/30/abutilon-4403857_1280.jpg#center)
+![꽃 사진](https://cdn.pixabay.com/photo/2019/08/13/17/30/abutilon-4403857_640.jpg#center)
 
 안녕하세요, 꽃 애호가 여러분. 오늘은 1월 18일의 꽃, 어저귀(Indian Mallow)에 대해 이야기해 보려 합니다. 그 유니크한 모습과 의미로 사람들의 마음을 사로잡는 어저귀(Indian Mallow), 그 속에 담긴 이야기를 함께 알아봅시다.
 

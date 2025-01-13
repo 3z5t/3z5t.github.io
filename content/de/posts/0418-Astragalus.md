@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Chinesischer Tragant](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_1280.jpg#center)
+![Bild von Chinesischer Tragant](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_640.jpg#center)
 
 
 ## Geburtsblume des 18. April: Chinesischer Tragant

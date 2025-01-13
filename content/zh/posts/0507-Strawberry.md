@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![草莓葉的图片](https://cdn.pixabay.com/photo/2023/05/21/10/03/flower-8008187_1280.jpg#center)
+![草莓葉的图片](https://cdn.pixabay.com/photo/2023/05/21/10/03/flower-8008187_640.jpg#center)
 
 
 ## 草莓叶的描述

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Castaño](https://cdn.pixabay.com/photo/2019/05/22/20/54/chestnut-blossom-4222522_1280.jpg#center)
+![Imagen de Castaño](https://cdn.pixabay.com/photo/2019/05/22/20/54/chestnut-blossom-4222522_640.jpg#center)
 
 
 ## Castaño, la Flor del Nacimiento del 8 de Marzo

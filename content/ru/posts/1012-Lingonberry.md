@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Брусника обыкновенная](https://cdn.pixabay.com/photo/2018/12/24/21/48/lingonberry-twig-3893546_1280.jpg#center)
+![Изображение Брусника обыкновенная](https://cdn.pixabay.com/photo/2018/12/24/21/48/lingonberry-twig-3893546_640.jpg#center)
 
 ## Брусника обыкновенная — символ духа свободы
 

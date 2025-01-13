@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Zvonek](https://cdn.pixabay.com/photo/2020/03/04/02/40/nature-4900321_1280.jpg#center)
+![Obrázek Zvonek](https://cdn.pixabay.com/photo/2020/03/04/02/40/nature-4900321_640.jpg#center)
 
 
 ## 21. listopadu – Narozeninová květina: Zvonek

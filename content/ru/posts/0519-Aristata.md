@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Аристата изящная](https://cdn.pixabay.com/photo/2014/12/05/01/21/gaillardia-557400_1280.jpg#center)
+![Изображение Аристата изящная](https://cdn.pixabay.com/photo/2014/12/05/01/21/gaillardia-557400_640.jpg#center)
 
 ## Аристата изящная: Обладатель красоты
 

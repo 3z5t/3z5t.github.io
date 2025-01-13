@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Rosa de Natal](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_1280.jpg#center)
+![Imagem de Rosa de Natal](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_640.jpg#center)
 
 
 ## Flor de nascimento de 16 de novembro: Rosa de Natal

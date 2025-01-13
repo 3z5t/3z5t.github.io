@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Овсюг](https://cdn.pixabay.com/photo/2017/06/21/08/27/barley-2426466_1280.jpg#center)
+![Изображение Овсюг](https://cdn.pixabay.com/photo/2017/06/21/08/27/barley-2426466_640.jpg#center)
 
 ## Овсюг пустой — символ лёгкости, ритма и любви к музыке
 

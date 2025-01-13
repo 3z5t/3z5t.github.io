@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Hyacint](https://cdn.pixabay.com/photo/2016/03/24/22/09/hyacinthus-orientalis-1277753_1280.jpg#center)
+![Obrázek Hyacint](https://cdn.pixabay.com/photo/2016/03/24/22/09/hyacinthus-orientalis-1277753_640.jpg#center)
 
 
 ## 4. ledna – Narozeninová květina: Hyacint

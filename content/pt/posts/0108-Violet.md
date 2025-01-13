@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Violeta Roxa](https://cdn.pixabay.com/photo/2018/08/02/03/46/violets-3578798_1280.png#center)
+![Imagem de Violeta Roxa](https://cdn.pixabay.com/photo/2018/08/02/03/46/violets-3578798_640.png#center)
 
 ## Flor de nascimento de 8 de janeiro: Violeta Roxa
 

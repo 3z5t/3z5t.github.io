@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![榿木的图片](https://cdn.pixabay.com/photo/2020/01/25/16/05/hazel-4792798_1280.jpg#center)
+![榿木的图片](https://cdn.pixabay.com/photo/2020/01/25/16/05/hazel-4792798_640.jpg#center)
 
 
 ## 榿木的描述

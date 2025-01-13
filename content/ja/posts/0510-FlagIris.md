@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ハナショウブのイメージ](https://cdn.pixabay.com/photo/2019/02/25/20/19/iris-4020510_1280.jpg#center)
+![ハナショウブのイメージ](https://cdn.pixabay.com/photo/2019/02/25/20/19/iris-4020510_640.jpg#center)
 
 
 ## ハナショウブに関する説明

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Цинния изящная](https://cdn.pixabay.com/photo/2017/09/28/15/27/dream-park-2795924_1280.jpg#center)
+![Изображение Цинния изящная](https://cdn.pixabay.com/photo/2017/09/28/15/27/dream-park-2795924_640.jpg#center)
 
 ## Цинния изящная (Zinnia): Символ радости жизни
 

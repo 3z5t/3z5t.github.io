@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Devětsil](https://cdn.pixabay.com/photo/2015/09/24/17/19/hunt-955953_1280.jpg#center)
+![Obrázek Devětsil](https://cdn.pixabay.com/photo/2015/09/24/17/19/hunt-955953_640.jpg#center)
 
 
 ## 17. listopadu – Narozeninová květina: Devětsil

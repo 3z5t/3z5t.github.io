@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Lírio da Colina](https://cdn.pixabay.com/photo/2020/07/26/18/19/flowers-5440298_1280.jpg#center)
+![Imagem de Lírio da Colina](https://cdn.pixabay.com/photo/2020/07/26/18/19/flowers-5440298_640.jpg#center)
 
 
 ## Flor de nascimento de 18 de novembro: Lírio da Colina

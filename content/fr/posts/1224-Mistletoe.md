@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Gui](https://cdn.pixabay.com/photo/2012/02/24/10/17/mistletoe-berries-16393_1280.jpg#center)
+![Image de Gui](https://cdn.pixabay.com/photo/2012/02/24/10/17/mistletoe-berries-16393_640.jpg#center)
 
 
 ### Portrait botanique de Gui

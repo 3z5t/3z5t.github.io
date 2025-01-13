@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![勿忘草的图片](https://cdn.pixabay.com/photo/2018/05/04/15/44/blue-3374250_1280.jpg#center)
+![勿忘草的图片](https://cdn.pixabay.com/photo/2018/05/04/15/44/blue-3374250_640.jpg#center)
 
 
 ## 勿忘草的描述

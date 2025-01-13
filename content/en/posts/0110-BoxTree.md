@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Box-Tree](https://cdn.pixabay.com/photo/2017/10/26/18/49/boxwood-2892034_1280.jpg#center)
+![Image of Box-Tree](https://cdn.pixabay.com/photo/2017/10/26/18/49/boxwood-2892034_640.jpg#center)
 
 
 ## Box-Tree: The Birth Flower of January 10th

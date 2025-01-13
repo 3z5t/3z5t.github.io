@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![금사슬나무의 이미지](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_1280.jpg#center)
+![금사슬나무의 이미지](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_640.jpg#center)
 
 
 ### 금사슬나무(Golden-Chain)에 대한 설명

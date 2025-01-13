@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Гранат обыкновенный](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_1280.jpg#center)
+![Изображение Гранат обыкновенный](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_640.jpg#center)
 
 ## Гранат обыкновенный: Зрелое очарование
 

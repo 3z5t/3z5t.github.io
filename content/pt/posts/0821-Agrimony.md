@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Agrimônia](https://cdn.pixabay.com/photo/2020/06/28/14/37/agrimony-flower-5349515_1280.jpg#center)
+![Imagem de Agrimônia](https://cdn.pixabay.com/photo/2020/06/28/14/37/agrimony-flower-5349515_640.jpg#center)
 
 ## Flor de nascimento de 21 de agosto: Agrimônia
 

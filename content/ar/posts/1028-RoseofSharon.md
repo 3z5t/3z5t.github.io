@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة وَردة شارون](https://cdn.pixabay.com/photo/2022/08/14/07/18/flower-7385082_1280.jpg#center)
+![صورة وَردة شارون](https://cdn.pixabay.com/photo/2022/08/14/07/18/flower-7385082_640.jpg#center)
 
 ## زهرة ميلاد ٢٨ أكتوبر: وَردة شارون
 

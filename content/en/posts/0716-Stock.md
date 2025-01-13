@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Stock](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_1280.jpg#center)
+![Image of Stock](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_640.jpg#center)
 
 
 ### Description of Stock

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Líska obecná](https://cdn.pixabay.com/photo/2019/03/25/18/37/hazel-flowers-4081036_1280.jpg#center)
+![Obrázek Líska obecná](https://cdn.pixabay.com/photo/2019/03/25/18/37/hazel-flowers-4081036_640.jpg#center)
 
 ## 6. října – Narozeninová květina: Líska obecná
 

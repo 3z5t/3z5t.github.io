@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Trauerweide](https://cdn.pixabay.com/photo/2022/06/02/16/23/weeping-willow-7238442_1280.jpg#center)
+![Bild von Trauerweide](https://cdn.pixabay.com/photo/2022/06/02/16/23/weeping-willow-7238442_640.jpg#center)
 
 
 ## Geburtsblume des 21. April: Trauerweide

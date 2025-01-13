@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Nasturtium](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_1280.jpg#center)
+![Image of Nasturtium](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_640.jpg#center)
 
 
 ### Description of Nasturtium

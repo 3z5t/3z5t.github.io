@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![산나리의 이미지](https://cdn.pixabay.com/photo/2020/07/26/18/19/flowers-5440298_1280.jpg#center)
+![산나리의 이미지](https://cdn.pixabay.com/photo/2020/07/26/18/19/flowers-5440298_640.jpg#center)
 
 
 ### 11월 18일의 꽃: 산나리 (Golden-rayed Lily)

@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Girasol](https://cdn.pixabay.com/photo/2018/08/22/13/46/sunflower-3623668_1280.jpg#center)
+![Imagen de Girasol](https://cdn.pixabay.com/photo/2018/08/22/13/46/sunflower-3623668_640.jpg#center)
 
 
 ## Girasol: La Flor del 15 de Agosto, Símbolo de Luz Radiante

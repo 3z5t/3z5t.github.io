@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة حشيشة مَثْلُوثة](https://cdn.pixabay.com/photo/2018/05/19/14/37/trillium-3413621_1280.jpg#center)
+![صورة حشيشة مَثْلُوثة](https://cdn.pixabay.com/photo/2018/05/19/14/37/trillium-3413621_640.jpg#center)
 
 ## زهرة ميلاد ٢٤ يوليو: حشيشة مَثْلُوثة
 

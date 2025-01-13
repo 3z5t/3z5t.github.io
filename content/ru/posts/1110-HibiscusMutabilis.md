@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Роза конфедератская](https://cdn.pixabay.com/photo/2019/08/10/14/04/hibiscus-mutabilis-4397033_1280.jpg#center)
+![Изображение Роза конфедератская](https://cdn.pixabay.com/photo/2019/08/10/14/04/hibiscus-mutabilis-4397033_640.jpg#center)
 
 ## Роза конфедератская: символ утончённой красоты и перемен
 

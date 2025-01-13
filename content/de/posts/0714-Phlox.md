@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Flammenblume](https://cdn.pixabay.com/photo/2016/07/15/09/02/flower-1518501_1280.jpg#center)
+![Bild von Flammenblume](https://cdn.pixabay.com/photo/2016/07/15/09/02/flower-1518501_640.jpg#center)
 
 ## Geburtsblume des 14. Juli: Flammenblume
 

@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Justicia procumbente](https://cdn.pixabay.com/photo/2013/03/07/15/36/asperugo-procumbens-91224_1280.jpg#center)
+![Imagen de Justicia procumbente](https://cdn.pixabay.com/photo/2013/03/07/15/36/asperugo-procumbens-91224_640.jpg#center)
 
 
 ## Justicia Procumbente, la Flor del Nacimiento del 12 de Febrero

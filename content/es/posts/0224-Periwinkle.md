@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Vincapervinca](https://cdn.pixabay.com/photo/2022/03/31/05/09/flower-7102225_1280.jpg#center)
+![Imagen de Vincapervinca](https://cdn.pixabay.com/photo/2022/03/31/05/09/flower-7102225_640.jpg#center)
 
 
 ## Vincapervinca, la Flor del Nacimiento del 24 de Febrero

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Lesknice kanárská](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_1280.jpg#center)
+![Obrázek Lesknice kanárská](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_640.jpg#center)
 
 
 ## 13. února – Narozeninová květina: Lesknice kanárská

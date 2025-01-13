@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Myrta](https://cdn.pixabay.com/photo/2020/06/29/20/22/flowers-5354285_1280.jpg#center)
+![Obrázek Myrta](https://cdn.pixabay.com/photo/2020/06/29/20/22/flowers-5354285_640.jpg#center)
 
 
 ## 9. února – Narozeninová květina: Myrta

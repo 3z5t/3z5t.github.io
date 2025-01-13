@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Jacinto](https://cdn.pixabay.com/photo/2016/03/24/22/09/hyacinthus-orientalis-1277753_1280.jpg#center)
+![Imagen de Jacinto](https://cdn.pixabay.com/photo/2016/03/24/22/09/hyacinthus-orientalis-1277753_640.jpg#center)
 
 
 ## Jacinto, la Flor del Nacimiento del 4 de Enero

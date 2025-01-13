@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Škumpa čínská](https://cdn.pixabay.com/photo/2017/08/20/08/03/tree-2660826_1280.jpg#center)
+![Obrázek Škumpa čínská](https://cdn.pixabay.com/photo/2017/08/20/08/03/tree-2660826_640.jpg#center)
 
 
 ## 27. listopadu – Narozeninová květina: Škumpa čínská

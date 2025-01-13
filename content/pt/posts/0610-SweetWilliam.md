@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Cravo-do-poeta](https://cdn.pixabay.com/photo/2016/10/25/16/26/dianthus-1769322_1280.jpg#center)
+![Imagem de Cravo-do-poeta](https://cdn.pixabay.com/photo/2016/10/25/16/26/dianthus-1769322_640.jpg#center)
 
 
 ## Flor de nascimento de 10 de junho: Cravo-do-poeta

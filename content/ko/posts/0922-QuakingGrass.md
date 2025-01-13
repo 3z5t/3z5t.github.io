@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![방울새풀의 이미지](https://cdn.pixabay.com/photo/2017/06/30/13/13/hjertegrs-2458228_1280.jpg#center)
+![방울새풀의 이미지](https://cdn.pixabay.com/photo/2017/06/30/13/13/hjertegrs-2458228_640.jpg#center)
 
 
 ### 9월 22일의 꽃: 방울새풀(Quaking Grass)

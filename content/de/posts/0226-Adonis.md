@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Adonisröschen](https://cdn.pixabay.com/photo/2016/04/12/17/25/pheasants-eye-1324890_1280.jpg#center)
+![Bild von Adonisröschen](https://cdn.pixabay.com/photo/2016/04/12/17/25/pheasants-eye-1324890_640.jpg#center)
 
 
 ## Geburtsblume des 26. Februar: Adonisröschen

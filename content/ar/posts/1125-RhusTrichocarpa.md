@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة السُّمّاق](https://cdn.pixabay.com/photo/2021/10/17/17/03/sumac-leaves-6718977_1280.jpg#center)
+![صورة السُّمّاق](https://cdn.pixabay.com/photo/2021/10/17/17/03/sumac-leaves-6718977_640.jpg#center)
 
 ## زهرة ميلاد ٢٥ نوفمبر: السُّمّاق
 

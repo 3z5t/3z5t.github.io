@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Renoncule](https://cdn.pixabay.com/photo/2023/07/02/07/20/buttercup-8101494_1280.jpg#center)
+![Image de Renoncule](https://cdn.pixabay.com/photo/2023/07/02/07/20/buttercup-8101494_640.jpg#center)
 
 
 ## Renoncule (Buttercup), la fleur du 18 février : Un éclat d'innocence et de charme discret

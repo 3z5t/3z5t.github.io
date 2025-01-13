@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Gerânio-zonal](https://cdn.pixabay.com/photo/2013/11/04/19/02/red-205385_1280.jpg#center)
+![Imagem de Gerânio-zonal](https://cdn.pixabay.com/photo/2013/11/04/19/02/red-205385_640.jpg#center)
 
 
 ## Flor de nascimento de 11 de agosto: Gerânio-zonal

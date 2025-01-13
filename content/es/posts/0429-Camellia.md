@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Camelia](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_1280.jpg#center)
+![Imagen de Camelia](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_640.jpg#center)
 
 
 ## Camelia, la Flor del Nacimiento del 29 de Abril

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Vergissmeinnicht](https://cdn.pixabay.com/photo/2020/05/11/18/59/nots-5159760_1280.jpg#center)
+![Bild von Vergissmeinnicht](https://cdn.pixabay.com/photo/2020/05/11/18/59/nots-5159760_640.jpg#center)
 
 
 ## Geburtsblume des 15. Mai: Vergissmeinnicht

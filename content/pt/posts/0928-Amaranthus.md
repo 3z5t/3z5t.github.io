@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Amaranto](https://cdn.pixabay.com/photo/2017/09/20/19/42/foxtail-2769772_1280.jpg#center)
+![Imagem de Amaranto](https://cdn.pixabay.com/photo/2017/09/20/19/42/foxtail-2769772_640.jpg#center)
 
 
 ## Flor de nascimento de 28 de setembro: Amaranto

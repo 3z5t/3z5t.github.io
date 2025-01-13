@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Омела белая](https://cdn.pixabay.com/photo/2012/02/24/10/17/mistletoe-berries-16393_1280.jpg#center)
+![Изображение Омела белая](https://cdn.pixabay.com/photo/2012/02/24/10/17/mistletoe-berries-16393_640.jpg#center)
 
 ## Омела белая (Mistletoe): Символ долготерпения
 

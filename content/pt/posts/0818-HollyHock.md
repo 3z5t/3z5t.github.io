@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Malva-rosa](https://cdn.pixabay.com/photo/2020/07/01/04/55/korean-flower-5358423_1280.jpg#center)
+![Imagem de Malva-rosa](https://cdn.pixabay.com/photo/2020/07/01/04/55/korean-flower-5358423_640.jpg#center)
 
 
 ## Flor de nascimento de 18 de agosto: Malva-rosa

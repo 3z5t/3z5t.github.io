@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Erva seca](https://cdn.pixabay.com/photo/2015/12/11/11/01/leaves-1087952_1280.jpg#center)
+![Imagem de Erva seca](https://cdn.pixabay.com/photo/2015/12/11/11/01/leaves-1087952_640.jpg#center)
 
 
 ## Flor de nascimento de 30 de novembro: Erva seca

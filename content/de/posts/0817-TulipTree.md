@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Tulpenbaum](https://cdn.pixabay.com/photo/2013/05/27/14/16/tulip-tree-113995_1280.jpg#center)
+![Bild von Tulpenbaum](https://cdn.pixabay.com/photo/2013/05/27/14/16/tulip-tree-113995_640.jpg#center)
 
 
 ## Geburtsblume des 17. August: Tulpenbaum

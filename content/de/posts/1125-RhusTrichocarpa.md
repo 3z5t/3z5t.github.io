@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Behaarter Giftsumach](https://cdn.pixabay.com/photo/2021/10/17/17/03/sumac-leaves-6718977_1280.jpg#center)
+![Bild von Behaarter Giftsumach](https://cdn.pixabay.com/photo/2021/10/17/17/03/sumac-leaves-6718977_640.jpg#center)
 
 
 ## Geburtsblume des 25. November: Behaarter Giftsumach

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة زهر الحوذان](https://cdn.pixabay.com/photo/2022/03/27/10/45/lesser-celandine-7094719_1280.jpg#center)
+![صورة زهر الحوذان](https://cdn.pixabay.com/photo/2022/03/27/10/45/lesser-celandine-7094719_640.jpg#center)
 
 ## زهرة ميلاد ٢٠ يناير: زهر الحوذان
 

@@ -17,7 +17,7 @@ draft: false
 
 
 
-![Imagen de Anémona roja](https://cdn.pixabay.com/photo/2017/06/23/03/45/anemone-2433412_1280.png#center)
+![Imagen de Anémona roja](https://cdn.pixabay.com/photo/2017/06/23/03/45/anemone-2433412_640.png#center)
 
 
 ## Anémona Roja, la Flor del Nacimiento del 4 de Abril

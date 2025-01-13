@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Flor de judía](https://cdn.pixabay.com/photo/2023/09/26/08/25/helmet-bean-8276784_1280.jpg#center)
+![Imagen de Flor de judía](https://cdn.pixabay.com/photo/2023/09/26/08/25/helmet-bean-8276784_640.jpg#center)
 
 
 ## Flor de Judía, la Flor del Nacimiento del 17 de Marzo

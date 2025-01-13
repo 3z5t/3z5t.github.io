@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Первоцвет весенний](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_1280.jpg#center)
+![Изображение Первоцвет весенний](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_640.jpg#center)
 
 ## Первоцвет весенний: Светлая грусть и радость юности
 

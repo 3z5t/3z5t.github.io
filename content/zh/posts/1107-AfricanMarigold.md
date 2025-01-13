@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![萬壽菊的图片](https://cdn.pixabay.com/photo/2022/07/03/14/40/marigold-7299451_1280.jpg#center)
+![萬壽菊的图片](https://cdn.pixabay.com/photo/2022/07/03/14/40/marigold-7299451_640.jpg#center)
 
 
 ## 萬壽菊的描述

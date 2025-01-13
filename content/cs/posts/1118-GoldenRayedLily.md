@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Lilie zlatohlavá](https://cdn.pixabay.com/photo/2020/07/26/18/19/flowers-5440298_1280.jpg#center)
+![Obrázek Lilie zlatohlavá](https://cdn.pixabay.com/photo/2020/07/26/18/19/flowers-5440298_640.jpg#center)
 
 
 ## 18. listopadu – Narozeninová květina: Lilie zlatohlavá

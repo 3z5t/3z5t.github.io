@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![노랑 붓꽃의 이미지](https://cdn.pixabay.com/photo/2022/02/21/14/31/iris-7026891_1280.jpg#center)
+![노랑 붓꽃의 이미지](https://cdn.pixabay.com/photo/2022/02/21/14/31/iris-7026891_640.jpg#center)
 
 
 ### 노랑 붓꽃(Yellow Water Flag): 물가의 황금빛
