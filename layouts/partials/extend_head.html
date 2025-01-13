@@ -19,8 +19,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-<!-- 기본 폰트 (항상 로드) -->
+<!-- 라틴문자 & 키릴문자 언어용 (한국어, 영어, 프랑스어, 스페인어, 포르투갈어, 체코어, 러시아어) -->
+{{ if or (eq .Lang "ko") (eq .Lang "en") (eq .Lang "fr") (eq .Lang "es") (eq .Lang "pt") (eq .Lang "cs") (eq .Lang "ru") }}
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
+{{ end }}
 
 <!-- 일본어 페이지용 -->
 {{ if eq .Lang "ja" }}
