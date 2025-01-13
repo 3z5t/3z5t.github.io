@@ -2,16 +2,14 @@
 <img loading="eager" 
      src="{{ .Destination | safeURL }}" 
      alt="{{ .Text }}" 
-     width="1280"
-     height="853"
+     style="max-width: 100%; height: auto;"
      fetchpriority="high"
      {{ with .Title}} title="{{ . }}"{{ end }} />
 {{- else -}}
 <img loading="eager" 
      src="{{ .Destination | safeURL }}" 
      alt="{{ .Text }}" 
-     width="1280"
-     height="853"
+     style="max-width: 100%; height: auto;"
      fetchpriority="high"
      {{ with .Title}} title="{{ . }}"{{ end }} />
 {{- end -}}
