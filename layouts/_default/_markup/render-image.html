@@ -1,0 +1,5 @@
+{{- if strings.HasPrefix .Destination "http" -}}
+<img loading="eager" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+{{- else -}}
+<img loading="eager" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+{{- end -}}
