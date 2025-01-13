@@ -62,28 +62,16 @@ pre code {
 }
 
 
-/* 한국어, 영어, 프랑스어, 스페인어, 포르투갈어, 체코어, 러시아어용 */
-:root[lang="ko"], 
-:root[lang="en"],
-:root[lang="fr"],
-:root[lang="es"],
-:root[lang="pt"],
-:root[lang="cs"],
-:root[lang="ru"] {
-  font-family: 'Noto Sans KR', sans-serif;
+/* 일본어에 대한 폰트 설정 */
+
+:lang(ja) {
+    font-family: 'M PLUS 1', sans-serif; 
 }
 
-/* 일본어용 */
-:root[lang="ja"] {
-  font-family: 'M PLUS 1', sans-serif;
+:lang(zh) {
+    font-family: 'Noto Sans SC', sans-serif; 
 }
 
-/* 중국어용 */
-:root[lang="zh"] {
-  font-family: 'Noto Sans SC', sans-serif;
-}
-
-/* 아랍어용 */
-:root[lang="ar"] {
-  font-family: 'Vazirmatn', sans-serif;
+:lang(ar) {
+    font-family: 'Vazirmatn', sans-serif; 
 }
