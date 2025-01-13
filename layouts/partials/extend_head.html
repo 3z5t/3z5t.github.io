@@ -11,10 +11,28 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2475873789030046"
      crossorigin="anonymous"></script>
 
-<!-- Google Fonts 로드 -->    
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1&family=Noto+Sans+KR&family=Noto+Sans+SC&family=Vazirmatn&display=swap" rel="stylesheet">
 
 <!-- Yandex 소유권 확인 메타 태그 -->
 <meta name="yandex-verification" content="140abe1c0e14be36" />
+
+<!-- 기본 DNS 프리커넥트 -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- 기본 폰트 (항상 로드) -->
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
+
+<!-- 일본어 페이지용 -->
+{{ if eq .Lang "ja" }}
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1&display=swap" rel="stylesheet">
+{{ end }}
+
+<!-- 중국어 페이지용 -->
+{{ if eq .Lang "zh" }}
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap" rel="stylesheet">
+{{ end }}
+
+<!-- 아랍어 페이지용 -->
+{{ if eq .Lang "ar" }}
+<link href="https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap" rel="stylesheet">
+{{ end }}
