@@ -6,12 +6,6 @@
 }
 
 
-@font-face {
-    font-family: 'KOMACON';
-    src: url('https://cdn.jsdelivr.net/gh/fontbee/font@main/Yoondesign/KOMACON.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
 
 @font-face {
     font-family: 'SF_HailSnow';
@@ -22,7 +16,7 @@
 
 
 :root {
-    --default-font: 'KOMACON', sans-serif;
+    --default-font: 'Noto Sans KR', sans-serif;
     --body-font: 'Pretendard-Regular', sans-serif;
     --code-font: 'SF_HailSnow', sans-serif;
   }
