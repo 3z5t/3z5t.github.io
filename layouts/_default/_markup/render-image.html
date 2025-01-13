@@ -1,5 +1,17 @@
 {{- if strings.HasPrefix .Destination "http" -}}
-<img loading="eager" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+<img loading="eager" 
+     src="{{ .Destination | safeURL }}" 
+     alt="{{ .Text }}" 
+     width="1280"
+     height="853"
+     fetchpriority="high"
+     {{ with .Title}} title="{{ . }}"{{ end }} />
 {{- else -}}
-<img loading="eager" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+<img loading="eager" 
+     src="{{ .Destination | safeURL }}" 
+     alt="{{ .Text }}" 
+     width="1280"
+     height="853"
+     fetchpriority="high"
+     {{ with .Title}} title="{{ . }}"{{ end }} />
 {{- end -}}
