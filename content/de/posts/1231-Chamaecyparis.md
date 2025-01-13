@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Scheinzypresse](https://cdn.pixabay.com/photo/2015/09/17/13/36/hinoki-944147_640.jpg#center)
+![Bild von Scheinzypresse](https://cdn.pixabay.com/photo/2015/09/17/13/36/hinoki-944147_1280.jpg#center)
 
 
 ## Geburtsblume des 31. Dezember: Scheinzypresse

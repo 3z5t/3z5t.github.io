@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Ипомея пурпурная](https://cdn.pixabay.com/photo/2021/08/09/15/36/morning-glory-6533658_640.jpg#center)
+![Изображение Ипомея пурпурная](https://cdn.pixabay.com/photo/2021/08/09/15/36/morning-glory-6533658_1280.jpg#center)
 
 ## Ипомея пурпурная: Символ Всепоглощающей Радости
 

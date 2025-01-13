@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Märzglöckchen](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_640.jpg#center)
+![Bild von Märzglöckchen](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_1280.jpg#center)
 
 
 ## Geburtsblume des 19. Dezember: Märzglöckchen

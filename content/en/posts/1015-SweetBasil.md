@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Sweet Basil](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_640.jpg#center)
+![Image of Sweet Basil](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_1280.jpg#center)
 
 
 ### Description of Sweet Basil

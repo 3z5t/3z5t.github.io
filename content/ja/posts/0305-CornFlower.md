@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ヤグルマギクのイメージ](https://cdn.pixabay.com/photo/2019/05/24/02/20/the-idyll-4225323_640.jpg#center)
+![ヤグルマギクのイメージ](https://cdn.pixabay.com/photo/2019/05/24/02/20/the-idyll-4225323_1280.jpg#center)
 
 
 ## ヤグルマギクに関する説明

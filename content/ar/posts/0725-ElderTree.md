@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة شَجَر البَيلَسان](https://cdn.pixabay.com/photo/2017/06/20/07/56/elder-2422131_640.jpg#center)
+![صورة شَجَر البَيلَسان](https://cdn.pixabay.com/photo/2017/06/20/07/56/elder-2422131_1280.jpg#center)
 
 ## زهرة ميلاد ٢٥ يوليو: شَجَر البَيلَسان
 

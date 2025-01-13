@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Červená kamélie](https://cdn.pixabay.com/photo/2019/03/03/16/13/camellia-4032179_640.jpg#center)
+![Obrázek Červená kamélie](https://cdn.pixabay.com/photo/2019/03/03/16/13/camellia-4032179_1280.jpg#center)
 
 
 ## 10. prosince – Narozeninová květina: Červená kamélie

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Brusnice brusinka](https://cdn.pixabay.com/photo/2018/12/24/21/48/lingonberry-twig-3893546_640.jpg#center)
+![Obrázek Brusnice brusinka](https://cdn.pixabay.com/photo/2018/12/24/21/48/lingonberry-twig-3893546_1280.jpg#center)
 
 
 ## 12. října – Narozeninová květina: Brusnice brusinka

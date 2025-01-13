@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![海石竹的图片](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_640.jpg#center)
+![海石竹的图片](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_1280.jpg#center)
 
 
 ## 海石竹的描述

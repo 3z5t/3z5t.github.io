@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ゼラニウム（赤色）のイメージ](https://cdn.pixabay.com/photo/2019/07/12/14/52/geranium-4333041_640.jpg#center)
+![ゼラニウム（赤色）のイメージ](https://cdn.pixabay.com/photo/2019/07/12/14/52/geranium-4333041_1280.jpg#center)
 
 
 ### ゼラニウム（赤色）に関する説明

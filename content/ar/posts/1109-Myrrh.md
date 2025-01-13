@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة المُرّ](https://cdn.pixabay.com/photo/2018/02/26/17/48/nature-3183605_640.jpg#center)
+![صورة المُرّ](https://cdn.pixabay.com/photo/2018/02/26/17/48/nature-3183605_1280.jpg#center)
 
 ## زهرة ميلاد ٩ نوفمبر: المُرّ
 

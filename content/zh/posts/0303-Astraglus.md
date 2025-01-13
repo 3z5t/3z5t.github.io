@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![紫雲英的图片](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_640.jpg#center)
+![紫雲英的图片](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_1280.jpg#center)
 
 
 ## 紫雲英的描述

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Schneeglöckchen](https://cdn.pixabay.com/photo/2020/02/24/10/51/flower-4875870_640.jpg#center)
+![Bild von Schneeglöckchen](https://cdn.pixabay.com/photo/2020/02/24/10/51/flower-4875870_1280.jpg#center)
 
 
 ## Geburtsblume des 1. Januar: Schneeglöckchen

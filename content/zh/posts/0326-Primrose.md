@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![白櫻草的图片](https://cdn.pixabay.com/photo/2012/06/08/19/22/primula-schlusselblume-49782_640.jpg#center)
+![白櫻草的图片](https://cdn.pixabay.com/photo/2012/06/08/19/22/primula-schlusselblume-49782_1280.jpg#center)
 
 
 ## 白櫻草的描述

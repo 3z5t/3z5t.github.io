@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Ranúnculo](https://cdn.pixabay.com/photo/2022/03/27/10/45/lesser-celandine-7094719_640.jpg#center)
+![Imagem de Ranúnculo](https://cdn.pixabay.com/photo/2022/03/27/10/45/lesser-celandine-7094719_1280.jpg#center)
 
 
 ## Flor de nascimento de 20 de janeiro: Ranúnculo

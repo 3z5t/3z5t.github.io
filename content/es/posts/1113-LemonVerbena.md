@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Cedrón](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_640.jpg#center)
+![Imagen de Cedrón](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_1280.jpg#center)
 
 
 ### Descripción de Cedrón

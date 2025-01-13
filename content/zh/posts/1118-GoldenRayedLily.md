@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![山百合的图片](https://cdn.pixabay.com/photo/2020/07/26/18/19/flowers-5440298_640.jpg#center)
+![山百合的图片](https://cdn.pixabay.com/photo/2020/07/26/18/19/flowers-5440298_1280.jpg#center)
 
 
 ## 山百合的描述

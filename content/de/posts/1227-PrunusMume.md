@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Pflaumenblüte](https://cdn.pixabay.com/photo/2020/04/29/08/10/plum-blossoms-5107763_640.jpg#center)
+![Bild von Pflaumenblüte](https://cdn.pixabay.com/photo/2020/04/29/08/10/plum-blossoms-5107763_1280.jpg#center)
 
 
 ## Geburtsblume des 27. Dezember: Pflaumenblüte

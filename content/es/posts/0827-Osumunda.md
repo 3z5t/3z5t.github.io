@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Osmunda](https://cdn.pixabay.com/photo/2014/05/09/14/16/fern-340802_640.jpg#center)
+![Imagen de Osmunda](https://cdn.pixabay.com/photo/2014/05/09/14/16/fern-340802_1280.jpg#center)
 
 
 ## Osmunda: La Flor del 27 de Agosto, Símbolo del Ensueño

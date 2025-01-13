@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Laurel de la victoria](https://cdn.pixabay.com/photo/2017/09/23/19/24/laurel-2779880_640.jpg#center)
+![Imagen de Laurel de la victoria](https://cdn.pixabay.com/photo/2017/09/23/19/24/laurel-2779880_1280.jpg#center)
 
 
 ## Laurel de la Victoria, la Flor del Nacimiento del 16 de Febrero

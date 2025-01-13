@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Echter Lavendel](https://cdn.pixabay.com/photo/2021/06/29/18/51/lavender-6374964_640.jpg#center)
+![Bild von Echter Lavendel](https://cdn.pixabay.com/photo/2021/06/29/18/51/lavender-6374964_1280.jpg#center)
 
 
 ## Geburtsblume des 3. Dezember: Echter Lavendel

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![메리골드의 이미지](https://cdn.pixabay.com/photo/2023/03/07/18/56/marigold-7836281_640.jpg#center)
+![메리골드의 이미지](https://cdn.pixabay.com/photo/2023/03/07/18/56/marigold-7836281_1280.jpg#center)
 
 
 ### 메리골드(Marigold): 따뜻한 햇살의 상징

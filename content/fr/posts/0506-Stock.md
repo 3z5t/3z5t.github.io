@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Giroflée](https://cdn.pixabay.com/photo/2019/05/31/23/34/matthiola-4243235_640.jpg#center)
+![Image de Giroflée](https://cdn.pixabay.com/photo/2019/05/31/23/34/matthiola-4243235_1280.jpg#center)
 
 
 ## Giroflée (Stock), la fleur du 6 mai

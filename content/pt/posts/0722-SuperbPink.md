@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Cravo Chinês](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_640.jpg#center)
+![Imagem de Cravo Chinês](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_1280.jpg#center)
 
 
 ## Flor de nascimento de 22 de julho: Cravo Chinês

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Ananas](https://cdn.pixabay.com/photo/2018/09/09/12/51/pineapple-3664499_640.jpg#center)
+![Bild von Ananas](https://cdn.pixabay.com/photo/2018/09/09/12/51/pineapple-3664499_1280.jpg#center)
 
 
 ## Geburtsblume des 20. Dezember: Ananas

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Табак душистый](https://cdn.pixabay.com/photo/2019/09/06/19/32/tobacco-4457154_640.jpg#center)
+![Изображение Табак душистый](https://cdn.pixabay.com/photo/2019/09/06/19/32/tobacco-4457154_1280.jpg#center)
 
 ## Табак душистый — цветок утешения и нежного присутствия
 

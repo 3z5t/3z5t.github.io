@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![冬青的图片](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_640.jpg#center)
+![冬青的图片](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_1280.jpg#center)
 
 
 ## 冬青的描述

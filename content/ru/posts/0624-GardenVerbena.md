@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Вербена садовая](https://cdn.pixabay.com/photo/2015/05/07/07/58/flowers-756181_640.jpg#center)
+![Изображение Вербена садовая](https://cdn.pixabay.com/photo/2015/05/07/07/58/flowers-756181_1280.jpg#center)
 
 ## Вербена садовая: Цветок семейного единства
 

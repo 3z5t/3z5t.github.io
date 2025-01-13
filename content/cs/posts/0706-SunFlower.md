@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Slunečnice roční](https://cdn.pixabay.com/photo/2022/07/30/14/35/sunflowers-7353922_640.jpg#center)
+![Obrázek Slunečnice roční](https://cdn.pixabay.com/photo/2022/07/30/14/35/sunflowers-7353922_1280.jpg#center)
 
 
 ## 6. července – Narozeninová květina: Slunečnice roční

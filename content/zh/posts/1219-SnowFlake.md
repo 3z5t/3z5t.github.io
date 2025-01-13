@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![雪片蓮的图片](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_640.jpg#center)
+![雪片蓮的图片](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_1280.jpg#center)
 
 
 ## 雪片蓮的描述

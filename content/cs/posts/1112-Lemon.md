@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Citron](https://cdn.pixabay.com/photo/2016/04/17/14/28/lemon-blossom-1334788_640.jpg#center)
+![Obrázek Citron](https://cdn.pixabay.com/photo/2016/04/17/14/28/lemon-blossom-1334788_1280.jpg#center)
 
 
 ## 12. listopadu – Narozeninová květina: Citron

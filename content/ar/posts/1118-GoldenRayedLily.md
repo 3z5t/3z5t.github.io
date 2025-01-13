@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة زنبق ذهبي](https://cdn.pixabay.com/photo/2020/07/26/18/19/flowers-5440298_640.jpg#center)
+![صورة زنبق ذهبي](https://cdn.pixabay.com/photo/2020/07/26/18/19/flowers-5440298_1280.jpg#center)
 
 ## زهرة ميلاد ١٨ نوفمبر: زنبق ذهبي
 

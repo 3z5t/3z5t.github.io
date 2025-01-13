@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Grasnelke](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_640.jpg#center)
+![Bild von Grasnelke](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_1280.jpg#center)
 
 
 ## Geburtsblume des 29. Februar: Grasnelke

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![삼나무의 이미지](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_640.jpg#center)
+![삼나무의 이미지](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_1280.jpg#center)
 
 
 ### 9월 30일의 꽃: 삼나무(Cedar)

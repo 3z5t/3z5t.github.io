@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![黑色白楊木的图片](https://cdn.pixabay.com/photo/2012/10/09/06/00/leaves-60488_640.jpg#center)
+![黑色白楊木的图片](https://cdn.pixabay.com/photo/2012/10/09/06/00/leaves-60488_1280.jpg#center)
 
 
 ## 黑色白楊木的描述

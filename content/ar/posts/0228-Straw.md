@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة سنابل الشعير](https://cdn.pixabay.com/photo/2018/03/19/20/20/wheat-3241114_640.jpg#center)
+![صورة سنابل الشعير](https://cdn.pixabay.com/photo/2018/03/19/20/20/wheat-3241114_1280.jpg#center)
 
 ## زهرة ميلاد ٢٨ فبراير: سنابل الشعير
 

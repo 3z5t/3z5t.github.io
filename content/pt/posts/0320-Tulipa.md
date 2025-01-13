@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Tulipa Roxa](https://cdn.pixabay.com/photo/2022/05/06/15/20/tulips-7178547_640.jpg#center)
+![Imagem de Tulipa Roxa](https://cdn.pixabay.com/photo/2022/05/06/15/20/tulips-7178547_1280.jpg#center)
 
 
 ## Flor de nascimento de 20 de março: Tulipa Roxa

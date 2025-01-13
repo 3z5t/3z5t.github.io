@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Ranúnculo](https://cdn.pixabay.com/photo/2023/07/02/07/20/buttercup-8101494_640.jpg#center)
+![Imagen de Ranúnculo](https://cdn.pixabay.com/photo/2023/07/02/07/20/buttercup-8101494_1280.jpg#center)
 
 
 ## Ranúnculo, la Flor del Nacimiento del 2 de Mayo

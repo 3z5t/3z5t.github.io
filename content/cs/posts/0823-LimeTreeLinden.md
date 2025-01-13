@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Lípa](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_640.jpg#center)
+![Obrázek Lípa](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_1280.jpg#center)
 
 
 ## 23. srpna – Narozeninová květina: Lípa

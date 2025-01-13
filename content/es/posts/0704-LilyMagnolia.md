@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Magnolia lirio](https://cdn.pixabay.com/photo/2023/04/24/10/17/flowers-7947730_640.jpg#center)
+![Imagen de Magnolia lirio](https://cdn.pixabay.com/photo/2023/04/24/10/17/flowers-7947730_1280.jpg#center)
 
 
 ## Magnolia Lirio: La Flor del Amor a la Naturaleza para el 4 de Julio

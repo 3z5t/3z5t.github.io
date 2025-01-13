@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![들장미의 이미지](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_640.jpg#center)
+![들장미의 이미지](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_1280.jpg#center)
 
 
 ### 10월 27일의 꽃: 들장미(Briar Rose)

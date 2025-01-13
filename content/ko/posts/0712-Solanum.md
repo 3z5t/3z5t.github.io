@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![좁은입배풍동의 이미지](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_640.jpg#center)
+![좁은입배풍동의 이미지](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_1280.jpg#center)
 
 
 ### 좁은입배풍동에 대한 설명

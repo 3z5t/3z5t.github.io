@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Rosa amarilla](https://cdn.pixabay.com/photo/2021/04/08/18/59/yellow-rose-6162613_640.jpg#center)
+![Imagen de Rosa amarilla](https://cdn.pixabay.com/photo/2021/04/08/18/59/yellow-rose-6162613_1280.jpg#center)
 
 
 ## Rosa Amarilla: La Flor de la Belleza para el 21 de Julio

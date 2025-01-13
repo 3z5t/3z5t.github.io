@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Amendoeira](https://cdn.pixabay.com/photo/2016/02/01/15/15/almond-blossom-1173735_640.jpg#center)
+![Imagem de Amendoeira](https://cdn.pixabay.com/photo/2016/02/01/15/15/almond-blossom-1173735_1280.jpg#center)
 
 
 ## Flor de nascimento de 1 de abril: Amendoeira

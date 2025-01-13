@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Hledík větší](https://cdn.pixabay.com/photo/2012/03/02/00/37/snapdragon-20809_640.jpg#center)
+![Obrázek Hledík větší](https://cdn.pixabay.com/photo/2012/03/02/00/37/snapdragon-20809_1280.jpg#center)
 
 ## 2. července – Narozeninová květina: Hledík větší
 

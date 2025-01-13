@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Heath](https://cdn.pixabay.com/photo/2016/11/30/05/29/erika-1871921_640.jpg#center)
+![Image of Heath](https://cdn.pixabay.com/photo/2016/11/30/05/29/erika-1871921_1280.jpg#center)
 
 
 ### Description of Heath

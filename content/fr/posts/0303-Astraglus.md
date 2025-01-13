@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Astragale](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_640.jpg#center)
+![Image de Astragale](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_1280.jpg#center)
 
 
 ## Astragale (Astragalus), la fleur du 3 mars : Un hommage au bonheur et à la vitalité

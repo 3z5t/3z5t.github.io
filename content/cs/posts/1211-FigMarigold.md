@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Horský aster](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_640.jpg#center)
+![Obrázek Horský aster](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_1280.jpg#center)
 
 
 ## 11. prosince – Narozeninová květina: Horský aster

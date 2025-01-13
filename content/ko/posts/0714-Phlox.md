@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![플록스의 이미지](https://cdn.pixabay.com/photo/2016/07/15/09/02/flower-1518501_640.jpg#center)
+![플록스의 이미지](https://cdn.pixabay.com/photo/2016/07/15/09/02/flower-1518501_1280.jpg#center)
 
 
 ### 플록스(Phlox): 자연 속의 온화한 미소

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![獐耳細辛的图片](https://cdn.pixabay.com/photo/2018/04/18/08/59/flower-3329845_640.jpg#center)
+![獐耳細辛的图片](https://cdn.pixabay.com/photo/2018/04/18/08/59/flower-3329845_1280.jpg#center)
 
 
 ## 獐耳細辛的描述

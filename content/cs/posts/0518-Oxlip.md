@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Prvosenka vyšší](https://cdn.pixabay.com/photo/2021/05/13/11/57/oxslip-6250682_640.jpg#center)
+![Obrázek Prvosenka vyšší](https://cdn.pixabay.com/photo/2021/05/13/11/57/oxslip-6250682_1280.jpg#center)
 
 ## 18. května – Narozeninová květina: Prvosenka vyšší
 

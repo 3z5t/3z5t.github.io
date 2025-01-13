@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![龍芽草花精的图片](https://cdn.pixabay.com/photo/2020/06/28/14/37/agrimony-flower-5349515_640.jpg#center)
+![龍芽草花精的图片](https://cdn.pixabay.com/photo/2020/06/28/14/37/agrimony-flower-5349515_1280.jpg#center)
 
 
 ## 龍芽草花精的描述

@@ -12,7 +12,7 @@ tags:
   - 꽃
 ---
 
-![꽃 사진](https://cdn.pixabay.com/photo/2016/03/24/22/09/hyacinthus-orientalis-1277753_640.jpg#center)
+![꽃 사진](https://cdn.pixabay.com/photo/2016/03/24/22/09/hyacinthus-orientalis-1277753_1280.jpg#center)
 
 안녕하세요, 꽃의 아름다운 세계를 함께 여행하며 감상하는 우리 모두의 여정에 함께 합하게 된 여러분. 새해가 밝아온 지 얼마 되지 않아, 우리가 함께 시작한 이 여정의 첫 페이지를 넘긴 지 벌써 네 번째 날이 돌아왔습니다. 바로 1월 4일, 오늘은 우리가 함께 이야기를 나눌 꽃으로 아름다운 히아신스를 준비했습니다.
 

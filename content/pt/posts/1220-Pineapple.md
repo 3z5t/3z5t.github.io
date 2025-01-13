@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Abacaxi](https://cdn.pixabay.com/photo/2018/09/09/12/51/pineapple-3664499_640.jpg#center)
+![Imagem de Abacaxi](https://cdn.pixabay.com/photo/2018/09/09/12/51/pineapple-3664499_1280.jpg#center)
 
 
 ## Flor de nascimento de 20 de dezembro: Abacaxi

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Остролист падуб](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_640.jpg#center)
+![Изображение Остролист падуб](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_1280.jpg#center)
 
 ## Остролист падуб (Holly): Символ предсказаний и магии зимы
 

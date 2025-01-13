@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Sauce llorón](https://cdn.pixabay.com/photo/2020/03/24/18/05/weeping-willow-4964961_640.jpg#center)
+![Imagen de Sauce llorón](https://cdn.pixabay.com/photo/2020/03/24/18/05/weeping-willow-4964961_1280.jpg#center)
 
 
 ## Sauce Llorón: La Flor del 13 de Septiembre, Símbolo de Sinceridad

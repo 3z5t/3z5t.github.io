@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Jacinto Amarelo](https://cdn.pixabay.com/photo/2015/04/23/19/03/hyacinth-736516_640.jpg#center)
+![Imagem de Jacinto Amarelo](https://cdn.pixabay.com/photo/2015/04/23/19/03/hyacinth-736516_1280.jpg#center)
 
 
 ## Flor de nascimento de 16 de janeiro: Jacinto Amarelo

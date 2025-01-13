@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Espino](https://cdn.pixabay.com/photo/2016/11/12/14/06/spur-1818848_640.jpg#center)
+![Imagen de Espino](https://cdn.pixabay.com/photo/2016/11/12/14/06/spur-1818848_1280.jpg#center)
 
 
 ## Espino, la Flor del Nacimiento del 15 de Enero

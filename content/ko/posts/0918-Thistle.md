@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![엉겅퀴의 이미지](https://cdn.pixabay.com/photo/2018/07/05/02/49/thistle-3517440_640.jpg#center)
+![엉겅퀴의 이미지](https://cdn.pixabay.com/photo/2018/07/05/02/49/thistle-3517440_1280.jpg#center)
 
 
 ### 9월 18일의 꽃: 엉겅퀴(Thistle)

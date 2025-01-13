@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Bolehlav plamatý](https://cdn.pixabay.com/photo/2022/08/21/14/15/hemlock-7401397_640.jpg#center)
+![Obrázek Bolehlav plamatý](https://cdn.pixabay.com/photo/2022/08/21/14/15/hemlock-7401397_1280.jpg#center)
 
 
 ## 15. března – Narozeninová květina: Bolehlav plamatý

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Адонис весенний](https://cdn.pixabay.com/photo/2016/04/12/17/25/pheasants-eye-1324890_640.jpg#center)
+![Изображение Адонис весенний](https://cdn.pixabay.com/photo/2016/04/12/17/25/pheasants-eye-1324890_1280.jpg#center)
 
 ## Адонис весенний: Символ Воспоминаний
 

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![カラーのイメージ](https://cdn.pixabay.com/photo/2020/11/18/07/47/calla-lily-5754565_640.jpg#center)
+![カラーのイメージ](https://cdn.pixabay.com/photo/2020/11/18/07/47/calla-lily-5754565_1280.jpg#center)
 
 
 ## カラーについて

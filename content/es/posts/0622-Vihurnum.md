@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Viburno](https://cdn.pixabay.com/photo/2021/11/12/22/52/viburnum-lantana-6790205_640.jpg#center)
+![Imagen de Viburno](https://cdn.pixabay.com/photo/2021/11/12/22/52/viburnum-lantana-6790205_1280.jpg#center)
 
 
 ## Viburno: La Flor del Amor Más Fuerte que la Muerte para el 22 de Junio

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Tulipa](https://cdn.pixabay.com/photo/2020/04/28/13/17/tulips-5104494_640.jpg#center)
+![Image of Tulipa](https://cdn.pixabay.com/photo/2020/04/28/13/17/tulips-5104494_1280.jpg#center)
 
 
 ## Tulipa: The Birth Flower of January 7th

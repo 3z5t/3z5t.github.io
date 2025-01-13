@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![담홍색 참제비고깔의 이미지](https://cdn.pixabay.com/photo/2019/08/28/07/43/nature-4436024_640.jpg#center)
+![담홍색 참제비고깔의 이미지](https://cdn.pixabay.com/photo/2019/08/28/07/43/nature-4436024_1280.jpg#center)
 
 
 ### 담홍색 참제비고깔 (Larkspur)

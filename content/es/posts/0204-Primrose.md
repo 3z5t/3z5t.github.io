@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Prímula roja](https://cdn.pixabay.com/photo/2017/02/05/17/06/flower-2040617_640.jpg#center)
+![Imagen de Prímula roja](https://cdn.pixabay.com/photo/2017/02/05/17/06/flower-2040617_1280.jpg#center)
 
 
 ## Prímula Roja, la Flor del Nacimiento del 4 de Febrero

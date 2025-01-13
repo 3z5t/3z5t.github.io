@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة شجرة السلسلة الذهبية](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_640.jpg#center)
+![صورة شجرة السلسلة الذهبية](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_1280.jpg#center)
 
 ## زهرة ميلاد ٣٠ أبريل: شجرة السلسلة الذهبية
 

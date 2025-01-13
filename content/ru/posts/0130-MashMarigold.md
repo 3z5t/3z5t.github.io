@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Изображение Калужница болотная](https://cdn.pixabay.com/photo/2018/04/17/15/09/caltha-palustris-3327710_640.jpg#center)
+![Изображение Калужница болотная](https://cdn.pixabay.com/photo/2018/04/17/15/09/caltha-palustris-3327710_1280.jpg#center)
 
 
 ## Калужница болотная: Цветок Грядущего Счастья

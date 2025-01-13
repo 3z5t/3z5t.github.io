@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Calêndula](https://cdn.pixabay.com/photo/2018/07/10/11/11/marigold-3528402_640.jpg#center)
+![Imagem de Calêndula](https://cdn.pixabay.com/photo/2018/07/10/11/11/marigold-3528402_1280.jpg#center)
 
 
 ## Flor de nascimento de 24 de agosto: Calêndula

@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![勻檜葉的图片](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_640.jpg#center)
+![勻檜葉的图片](https://cdn.pixabay.com/photo/2017/08/25/18/32/wood-2680999_1280.jpg#center)
 
 
 ## 勻檜葉的描述

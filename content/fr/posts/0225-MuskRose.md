@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Rose musquée](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_640.jpg#center)
+![Image de Rose musquée](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_1280.jpg#center)
 
 
 ## Rose musquée (Musk Rose), la fleur du 25 février : Une ode à l’amour imprévisible et à la beauté naturelle

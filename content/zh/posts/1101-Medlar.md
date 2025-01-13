@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![枸杞的图片](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_640.jpg#center)
+![枸杞的图片](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_1280.jpg#center)
 
 
 ## 枸杞的描述

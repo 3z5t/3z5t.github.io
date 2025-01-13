@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![銀梅花的图片](https://cdn.pixabay.com/photo/2020/06/29/20/22/flowers-5354285_640.jpg#center)
+![銀梅花的图片](https://cdn.pixabay.com/photo/2020/06/29/20/22/flowers-5354285_1280.jpg#center)
 
 
 ## 銀梅花的描述

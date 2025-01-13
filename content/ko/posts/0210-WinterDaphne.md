@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![서향의 이미지](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_640.jpg)
+![서향의 이미지](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_1280.jpg)
 
 
 ### 서향

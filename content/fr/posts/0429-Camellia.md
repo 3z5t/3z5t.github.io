@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Camélia](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_640.jpg#center)
+![Image de Camélia](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_1280.jpg#center)
 
 
 ## Camélia (Camellia), la fleur du 29 avril

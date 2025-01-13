@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Crisantemo rojo](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_640.jpg#center)
+![Imagen de Crisantemo rojo](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_1280.jpg#center)
 
 
 ## Crisantemo Rojo: La Flor del 1 de Octubre, Símbolo de "Amor"

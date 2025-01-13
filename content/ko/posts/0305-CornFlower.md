@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![수레국화의 이미지](https://cdn.pixabay.com/photo/2019/05/24/02/20/the-idyll-4225323_640.jpg#center)
+![수레국화의 이미지](https://cdn.pixabay.com/photo/2019/05/24/02/20/the-idyll-4225323_1280.jpg#center)
 
 안녕하세요, 오늘은 3월 5일을 빛내는 아름다운 꽃, 수레국화(Corn Flower)에 대해 알아보겠습니다.
 

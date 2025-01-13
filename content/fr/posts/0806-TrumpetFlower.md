@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Bignone](https://cdn.pixabay.com/photo/2020/06/14/14/59/flowers-5298209_640.jpg#center)
+![Image de Bignone](https://cdn.pixabay.com/photo/2020/06/14/14/59/flowers-5298209_1280.jpg#center)
 
 
 ## Bignone, la fleur du 6 août

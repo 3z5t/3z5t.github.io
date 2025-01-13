@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Flox](https://cdn.pixabay.com/photo/2016/07/15/09/02/flower-1518501_640.jpg#center)
+![Imagem de Flox](https://cdn.pixabay.com/photo/2016/07/15/09/02/flower-1518501_1280.jpg#center)
 
 
 ## Flor de nascimento de 14 de julho: Flox

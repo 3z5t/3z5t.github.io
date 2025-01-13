@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Mandloň](https://cdn.pixabay.com/photo/2016/02/01/15/15/almond-blossom-1173735_640.jpg#center)
+![Obrázek Mandloň](https://cdn.pixabay.com/photo/2016/02/01/15/15/almond-blossom-1173735_1280.jpg#center)
 
 
 ## 1. dubna – Narozeninová květina: Mandloň

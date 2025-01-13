@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Steinbrech](https://cdn.pixabay.com/photo/2016/12/13/22/11/badan-1905221_640.jpg#center)
+![Bild von Steinbrech](https://cdn.pixabay.com/photo/2016/12/13/22/11/badan-1905221_1280.jpg#center)
 
 
 ## Geburtsblume des 19. November: Steinbrech

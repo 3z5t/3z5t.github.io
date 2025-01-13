@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![スイセンのイメージ](https://cdn.pixabay.com/photo/2021/04/06/19/20/daffodils-6157253_640.jpg#center)
+![スイセンのイメージ](https://cdn.pixabay.com/photo/2021/04/06/19/20/daffodils-6157253_1280.jpg#center)
 
 
 ## スイセン（Narcissus）についての説明

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Alecrim](https://cdn.pixabay.com/photo/2015/12/13/00/11/rosemary-1090419_640.jpg#center)
+![Imagem de Alecrim](https://cdn.pixabay.com/photo/2015/12/13/00/11/rosemary-1090419_1280.jpg#center)
 
 
 ## Flor de nascimento de 20 de setembro: Alecrim

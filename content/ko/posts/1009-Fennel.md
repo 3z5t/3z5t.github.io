@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![회향의 이미지](https://cdn.pixabay.com/photo/2018/07/26/18/15/fennel-3564229_640.jpg#center)
+![회향의 이미지](https://cdn.pixabay.com/photo/2018/07/26/18/15/fennel-3564229_1280.jpg#center)
 
 
 ### 10월 9일의 꽃: 회향(Fennel)

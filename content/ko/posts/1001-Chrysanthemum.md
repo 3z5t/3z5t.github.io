@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![빨강 국화의 이미지](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_640.jpg#center)
+![빨강 국화의 이미지](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_1280.jpg#center)
 
 
 ### 10월 1일의 꽃: 빨강 국화(Chrysanthemum)

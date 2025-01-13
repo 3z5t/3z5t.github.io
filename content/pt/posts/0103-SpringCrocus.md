@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Açafrão da Primavera](https://cdn.pixabay.com/photo/2014/02/10/08/17/flowers-263278_640.jpg#center)
+![Imagem de Açafrão da Primavera](https://cdn.pixabay.com/photo/2014/02/10/08/17/flowers-263278_1280.jpg#center)
 
 ## Flor de nascimento de 3 de janeiro: Açafrão da Primavera
 

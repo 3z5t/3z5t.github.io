@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Ibišek syrský](https://cdn.pixabay.com/photo/2019/07/16/14/50/rose-of-sharon-4342080_640.jpg#center)
+![Obrázek Ibišek syrský](https://cdn.pixabay.com/photo/2019/07/16/14/50/rose-of-sharon-4342080_1280.jpg#center)
 
 ## 22. února – Narozeninová květina: Ibišek syrský
 

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![마르멜루의 이미지](https://cdn.pixabay.com/photo/2019/03/31/17/40/japanese-ornamental-quince-4093575_640.jpg#center)
+![마르멜루의 이미지](https://cdn.pixabay.com/photo/2019/03/31/17/40/japanese-ornamental-quince-4093575_1280.jpg#center)
 
 
 ### 9월 14일의 꽃: 마르멜루(Quince)

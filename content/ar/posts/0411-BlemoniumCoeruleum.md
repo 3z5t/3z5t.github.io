@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة سُلَّم يَعْقوب](https://cdn.pixabay.com/photo/2022/08/25/17/02/jacobs-ladder-7410808_640.jpg#center)
+![صورة سُلَّم يَعْقوب](https://cdn.pixabay.com/photo/2022/08/25/17/02/jacobs-ladder-7410808_1280.jpg#center)
 
 ## زهرة ميلاد ١١ أبريل: سُلَّم يَعْقوب
 

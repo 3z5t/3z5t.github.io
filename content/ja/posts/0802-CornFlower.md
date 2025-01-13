@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ヤグルマギクのイメージ](https://cdn.pixabay.com/photo/2018/05/17/17/25/cornflowers-3409140_640.jpg#center)
+![ヤグルマギクのイメージ](https://cdn.pixabay.com/photo/2018/05/17/17/25/cornflowers-3409140_1280.jpg#center)
 
 
 ### ヤグルマギクに関する説明

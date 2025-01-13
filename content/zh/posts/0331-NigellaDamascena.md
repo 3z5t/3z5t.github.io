@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![黑種草的图片](https://cdn.pixabay.com/photo/2017/02/04/20/59/nigella-damascena-miss-jekyll-2038376_640.jpg#center)
+![黑種草的图片](https://cdn.pixabay.com/photo/2017/02/04/20/59/nigella-damascena-miss-jekyll-2038376_1280.jpg#center)
 
 
 ## 黑种草的描述

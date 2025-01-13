@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Tulip-Tree](https://cdn.pixabay.com/photo/2013/05/27/14/16/tulip-tree-113995_640.jpg#center)
+![Image of Tulip-Tree](https://cdn.pixabay.com/photo/2013/05/27/14/16/tulip-tree-113995_1280.jpg#center)
 
 
 ### Description of Tulip-Tree

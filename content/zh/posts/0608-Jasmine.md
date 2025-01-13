@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![茉莉花的图片](https://cdn.pixabay.com/photo/2020/06/06/15/48/scent-of-jasmine-5267072_640.jpg#center)
+![茉莉花的图片](https://cdn.pixabay.com/photo/2020/06/06/15/48/scent-of-jasmine-5267072_1280.jpg#center)
 
 
 ## 茉莉花的描述

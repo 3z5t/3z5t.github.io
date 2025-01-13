@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Nigela de Damasco](https://cdn.pixabay.com/photo/2017/02/04/20/59/nigella-damascena-miss-jekyll-2038376_640.jpg#center)
+![Imagem de Nigela de Damasco](https://cdn.pixabay.com/photo/2017/02/04/20/59/nigella-damascena-miss-jekyll-2038376_1280.jpg#center)
 
 
 ## Flor de nascimento de 31 de março: Nigela de Damasco

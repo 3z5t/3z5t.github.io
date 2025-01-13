@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![미나리아재비의 이미지](https://cdn.pixabay.com/photo/2023/07/02/07/20/buttercup-8101494_640.jpg#center)
+![미나리아재비의 이미지](https://cdn.pixabay.com/photo/2023/07/02/07/20/buttercup-8101494_1280.jpg#center)
 
 
 ### 미나리아재비(Buttercup)에 대한 설명

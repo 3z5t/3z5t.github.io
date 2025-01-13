@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Kalina obecná](https://cdn.pixabay.com/photo/2021/11/12/22/52/viburnum-lantana-6790205_640.jpg#center)
+![Obrázek Kalina obecná](https://cdn.pixabay.com/photo/2021/11/12/22/52/viburnum-lantana-6790205_1280.jpg#center)
 
 ## 22. června – Narozeninová květina: Kalina obecná
 

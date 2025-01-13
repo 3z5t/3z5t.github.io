@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Trombeta Chinesa](https://cdn.pixabay.com/photo/2020/06/14/14/59/flowers-5298209_640.jpg#center)
+![Imagem de Trombeta Chinesa](https://cdn.pixabay.com/photo/2020/06/14/14/59/flowers-5298209_1280.jpg#center)
 
 
 ## Flor de nascimento de 6 de agosto: Trombeta Chinesa

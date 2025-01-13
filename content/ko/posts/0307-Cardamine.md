@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![황새냉이의 이미지](https://cdn.pixabay.com/photo/2020/05/16/20/52/forest-cress-5179218_640.jpg#center)
+![황새냉이의 이미지](https://cdn.pixabay.com/photo/2020/05/16/20/52/forest-cress-5179218_1280.jpg#center)
 
 
 안녕하세요, 오늘은 3월 7일, 봄의 소리를 들려주는 황새냉이(Cardamine)에 대한 이야기를 나누어보려 합니다.

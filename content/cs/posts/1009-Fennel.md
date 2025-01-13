@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Fenykl obecný](https://cdn.pixabay.com/photo/2018/07/26/18/15/fennel-3564229_640.jpg#center)
+![Obrázek Fenykl obecný](https://cdn.pixabay.com/photo/2018/07/26/18/15/fennel-3564229_1280.jpg#center)
 
 ## 9. října – Narozeninová květina: Fenykl obecný
 

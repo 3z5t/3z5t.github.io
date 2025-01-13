@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Wiesen-Schaumkraut](https://cdn.pixabay.com/photo/2020/05/16/20/52/forest-cress-5179218_640.jpg#center)
+![Bild von Wiesen-Schaumkraut](https://cdn.pixabay.com/photo/2020/05/16/20/52/forest-cress-5179218_1280.jpg#center)
 
 
 ## Geburtsblume des 7. März: Wiesen-Schaumkraut

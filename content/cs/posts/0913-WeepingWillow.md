@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Vrba náhrobní](https://cdn.pixabay.com/photo/2020/03/24/18/05/weeping-willow-4964961_640.jpg#center)
+![Obrázek Vrba náhrobní](https://cdn.pixabay.com/photo/2020/03/24/18/05/weeping-willow-4964961_1280.jpg#center)
 
 
 ## 13. září – Narozeninová květina: Vrba náhrobní

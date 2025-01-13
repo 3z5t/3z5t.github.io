@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![櫻草的图片](https://cdn.pixabay.com/photo/2021/05/13/11/57/oxslip-6250682_640.jpg#center)
+![櫻草的图片](https://cdn.pixabay.com/photo/2021/05/13/11/57/oxslip-6250682_1280.jpg#center)
 
 
 ## 櫻草的描述

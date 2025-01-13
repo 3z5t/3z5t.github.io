@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![꽃담배의 이미지](https://cdn.pixabay.com/photo/2019/09/06/19/32/tobacco-4457154_640.jpg#center)
+![꽃담배의 이미지](https://cdn.pixabay.com/photo/2019/09/06/19/32/tobacco-4457154_1280.jpg#center)
 
 
 ### 꽃담배(Flowering Tobacco Plant): 사랑과 외로움의 상징

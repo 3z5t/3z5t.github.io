@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الخُزامى](https://cdn.pixabay.com/photo/2021/06/29/18/51/lavender-6374964_640.jpg#center)
+![صورة الخُزامى](https://cdn.pixabay.com/photo/2021/06/29/18/51/lavender-6374964_1280.jpg#center)
 
 ## زهرة ميلاد ٣ ديسمبر: الخُزامى
 

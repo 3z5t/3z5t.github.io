@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Cardo ruso](https://cdn.pixabay.com/photo/2017/07/28/10/13/eryngium-2548232_640.jpg#center)
+![Imagen de Cardo ruso](https://cdn.pixabay.com/photo/2017/07/28/10/13/eryngium-2548232_1280.jpg#center)
 
 
 ## Cardo ruso: La Flor del 28 de Agosto, Símbolo del Amor Secreto

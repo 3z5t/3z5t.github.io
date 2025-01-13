@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Prunus](https://cdn.pixabay.com/photo/2020/05/13/11/38/cherry-blossoms-5167156_640.jpg#center)
+![Imagem de Prunus](https://cdn.pixabay.com/photo/2020/05/13/11/38/cherry-blossoms-5167156_1280.jpg#center)
 
 
 ## Flor de nascimento de 9 de maio: Prunus

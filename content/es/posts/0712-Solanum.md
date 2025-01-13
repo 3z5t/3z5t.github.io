@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Dulcamara](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_640.jpg#center)
+![Imagen de Dulcamara](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_1280.jpg#center)
 
 
 ## Dulcamara: La Flor de la Libertad para el 12 de Julio

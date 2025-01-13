@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Arum italicum](https://cdn.pixabay.com/photo/2016/12/13/22/11/badan-1905221_640.jpg#center)
+![Imagen de Arum italicum](https://cdn.pixabay.com/photo/2016/12/13/22/11/badan-1905221_1280.jpg#center)
 
 
 ### Descripción de Arum italicum

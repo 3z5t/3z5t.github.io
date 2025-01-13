@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Blaue Mannstreu](https://cdn.pixabay.com/photo/2017/07/28/10/13/eryngium-2548232_640.jpg#center)
+![Bild von Blaue Mannstreu](https://cdn.pixabay.com/photo/2017/07/28/10/13/eryngium-2548232_1280.jpg#center)
 
 
 ## Geburtsblume des 28. August: Blaue Mannstreu

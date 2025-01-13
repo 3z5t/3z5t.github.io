@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Flowering Tabacco Plant](https://cdn.pixabay.com/photo/2019/09/06/19/32/tobacco-4457154_640.jpg#center)
+![Image of Flowering Tabacco Plant](https://cdn.pixabay.com/photo/2019/09/06/19/32/tobacco-4457154_1280.jpg#center)
 
 
 ### Description of Flowering Tobacco Plant

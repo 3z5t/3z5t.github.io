@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![린덴의 이미지](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_640.jpg#center)
+![린덴의 이미지](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_1280.jpg#center)
 
 
 ### 린덴(Lime Tree, Linden): 사랑과 조화의 상징

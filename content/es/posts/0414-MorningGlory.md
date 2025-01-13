@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Dondiego de día](https://cdn.pixabay.com/photo/2021/08/09/15/36/morning-glory-6533658_640.jpg#center)
+![Imagen de Dondiego de día](https://cdn.pixabay.com/photo/2021/08/09/15/36/morning-glory-6533658_1280.jpg#center)
 
 
 ## Dondiego de Día, la Flor del Nacimiento del 14 de Abril

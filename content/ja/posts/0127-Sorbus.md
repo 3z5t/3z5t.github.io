@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ナナカマドのイメージ](https://cdn.pixabay.com/photo/2013/12/09/12/21/mountain-ash-225903_640.jpg#center)
+![ナナカマドのイメージ](https://cdn.pixabay.com/photo/2013/12/09/12/21/mountain-ash-225903_1280.jpg#center)
 
 
 ## ナナカマドに関する説明

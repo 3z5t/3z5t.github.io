@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Ibišek proměnlivý](https://cdn.pixabay.com/photo/2019/08/10/14/04/hibiscus-mutabilis-4397033_640.jpg#center)
+![Obrázek Ibišek proměnlivý](https://cdn.pixabay.com/photo/2019/08/10/14/04/hibiscus-mutabilis-4397033_1280.jpg#center)
 
 
 ## 10. listopadu – Narozeninová květina: Ibišek proměnlivý

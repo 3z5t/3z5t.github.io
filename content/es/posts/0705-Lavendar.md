@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Lavanda](https://cdn.pixabay.com/photo/2020/07/08/08/06/flowers-5383054_640.jpg#center)
+![Imagen de Lavanda](https://cdn.pixabay.com/photo/2020/07/08/08/06/flowers-5383054_1280.jpg#center)
 
 
 ## Lavanda: La Flor del Aroma Intenso para el 5 de Julio

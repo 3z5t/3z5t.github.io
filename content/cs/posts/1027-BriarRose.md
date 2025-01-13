@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Šípková růže](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_640.jpg#center)
+![Obrázek Šípková růže](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_1280.jpg#center)
 
 ## 27. října – Narozeninová květina: Šípková růže
 

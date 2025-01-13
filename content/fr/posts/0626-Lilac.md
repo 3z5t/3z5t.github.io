@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Lilas blanc](https://cdn.pixabay.com/photo/2023/12/04/18/10/lilac-8430051_640.jpg#center)
+![Image de Lilas blanc](https://cdn.pixabay.com/photo/2023/12/04/18/10/lilac-8430051_1280.jpg#center)
 
 
 ## Lilas blanc (Lilac), la fleur du 26 juin

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Flor do Maracujá](https://cdn.pixabay.com/photo/2016/10/06/03/32/watch-flowers-1718103_640.jpg#center)
+![Imagem de Flor do Maracujá](https://cdn.pixabay.com/photo/2016/10/06/03/32/watch-flowers-1718103_1280.jpg#center)
 
 
 ## Flor de nascimento de 27 de junho: Flor do Maracujá

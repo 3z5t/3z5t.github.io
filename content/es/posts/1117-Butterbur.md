@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Petasita](https://cdn.pixabay.com/photo/2015/09/24/17/19/hunt-955953_640.jpg#center)
+![Imagen de Petasita](https://cdn.pixabay.com/photo/2015/09/24/17/19/hunt-955953_1280.jpg#center)
 
 
 ### Descripción de Petasita

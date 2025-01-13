@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Eryngium](https://cdn.pixabay.com/photo/2017/07/28/10/13/eryngium-2548232_640.jpg#center)
+![Image of Eryngium](https://cdn.pixabay.com/photo/2017/07/28/10/13/eryngium-2548232_1280.jpg#center)
 
 
 ### Description of Eryngium

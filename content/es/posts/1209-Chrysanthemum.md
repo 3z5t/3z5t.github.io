@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Crisantemo](https://cdn.pixabay.com/photo/2021/09/27/16/46/chrysanthemums-6661564_640.jpg#center)
+![Imagen de Crisantemo](https://cdn.pixabay.com/photo/2021/09/27/16/46/chrysanthemums-6661564_1280.jpg#center)
 
 
 ### Descripción de Crisantemo

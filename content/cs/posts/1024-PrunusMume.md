@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Meruňka japonská](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_640.jpg#center)
+![Obrázek Meruňka japonská](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_1280.jpg#center)
 
 
 ## 24. října – Narozeninová květina: Meruňka japonská

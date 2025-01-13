@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![繡線菊的图片](https://cdn.pixabay.com/photo/2022/05/08/07/44/flowers-7181453_640.jpg#center)
+![繡線菊的图片](https://cdn.pixabay.com/photo/2022/05/08/07/44/flowers-7181453_1280.jpg#center)
 
 
 ## 繡線菊的描述

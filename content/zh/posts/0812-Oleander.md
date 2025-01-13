@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![夾竹桃的图片](https://cdn.pixabay.com/photo/2022/08/25/11/47/red-oleander-7410079_640.jpg#center)
+![夾竹桃的图片](https://cdn.pixabay.com/photo/2022/08/25/11/47/red-oleander-7410079_1280.jpg#center)
 
 
 ## 夾竹桃的描述

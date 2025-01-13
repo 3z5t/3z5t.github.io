@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة قرصعنة](https://cdn.pixabay.com/photo/2017/07/28/10/13/eryngium-2548232_640.jpg#center)
+![صورة قرصعنة](https://cdn.pixabay.com/photo/2017/07/28/10/13/eryngium-2548232_1280.jpg#center)
 
 ## زهرة ميلاد ٢٨ أغسطس: قرصعنة
 

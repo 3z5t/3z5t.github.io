@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة زهرة اللبن الثلجية](https://cdn.pixabay.com/photo/2020/02/24/10/51/flower-4875870_640.jpg#center)
+![صورة زهرة اللبن الثلجية](https://cdn.pixabay.com/photo/2020/02/24/10/51/flower-4875870_1280.jpg#center)
 
 ## زهرة ميلاد ١ يناير: زهرة اللبن الثلجية
 

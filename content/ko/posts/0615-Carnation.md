@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![카네이션의 이미지](https://cdn.pixabay.com/photo/2023/01/06/21/34/carnation-7702161_640.jpg#center)
+![카네이션의 이미지](https://cdn.pixabay.com/photo/2023/01/06/21/34/carnation-7702161_1280.jpg#center)
 
 
 ### 카네이션(Carnation): 영원한 사랑과 아름다움의 상징

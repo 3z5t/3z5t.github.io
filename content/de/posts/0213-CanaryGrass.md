@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Kanariengras](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_640.jpg#center)
+![Bild von Kanariengras](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_1280.jpg#center)
 
 ## Geburtsblume des 13. Februar: Kanariengras
 

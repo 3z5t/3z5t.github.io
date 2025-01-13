@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Climbing Plant](https://cdn.pixabay.com/photo/2016/06/12/22/30/wall-1453158_640.jpg#center)
+![Image of Climbing Plant](https://cdn.pixabay.com/photo/2016/06/12/22/30/wall-1453158_1280.jpg#center)
 
 
 ### Description of Climbing Plant

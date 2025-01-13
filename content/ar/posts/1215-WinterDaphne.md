@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة دفنة ذات رائحة](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_640.jpg#center)
+![صورة دفنة ذات رائحة](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_1280.jpg#center)
 
 ## زهرة ميلاد ١٥ ديسمبر: دفنة ذات رائحة
 

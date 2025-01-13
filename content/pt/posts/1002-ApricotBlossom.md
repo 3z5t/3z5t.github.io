@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Damasqueiro](https://cdn.pixabay.com/photo/2018/02/20/16/15/flowers-3168025_640.jpg#center)
+![Imagem de Damasqueiro](https://cdn.pixabay.com/photo/2018/02/20/16/15/flowers-3168025_1280.jpg#center)
 
 
 ## Flor de nascimento de 2 de outubro: Damasqueiro

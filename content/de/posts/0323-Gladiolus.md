@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Gladiole](https://cdn.pixabay.com/photo/2020/07/13/18/56/flowers-5401735_640.jpg#center)
+![Bild von Gladiole](https://cdn.pixabay.com/photo/2020/07/13/18/56/flowers-5401735_1280.jpg#center)
 
 
 ## Geburtsblume des 23. März: Gladiole

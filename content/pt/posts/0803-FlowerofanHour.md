@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Flor-de-uma-hora](https://cdn.pixabay.com/photo/2016/02/12/17/32/flower-1196470_640.jpg#center)
+![Imagem de Flor-de-uma-hora](https://cdn.pixabay.com/photo/2016/02/12/17/32/flower-1196470_1280.jpg#center)
 
 
 ## Flor de nascimento de 3 de agosto: Flor-de-uma-hora

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Partenociso](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_640.jpg#center)
+![Imagen de Partenociso](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_1280.jpg#center)
 
 
 ## Partenociso: La Flor del 2 de Septiembre, Símbolo del Cambio

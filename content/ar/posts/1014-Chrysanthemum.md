@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة أقحُوان أبيَض](https://cdn.pixabay.com/photo/2022/08/17/15/21/flower-7392770_640.jpg#center)
+![صورة أقحُوان أبيَض](https://cdn.pixabay.com/photo/2022/08/17/15/21/flower-7392770_1280.jpg#center)
 
 ## زهرة ميلاد ١٤ أكتوبر: أقحُوان أبيَض
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Prvosenka jarní](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_640.jpg#center)
+![Obrázek Prvosenka jarní](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_1280.jpg#center)
 
 
 ## 1. května – Narozeninová květina: Prvosenka jarní

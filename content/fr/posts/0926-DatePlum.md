@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Plaqueminier](https://cdn.pixabay.com/photo/2016/07/21/12/25/gamkkot-1532393_640.jpg#center)
+![Image de Plaqueminier](https://cdn.pixabay.com/photo/2016/07/21/12/25/gamkkot-1532393_1280.jpg#center)
 
 
 ## Plaqueminier (Date Plum), la fleur du 26 septembre

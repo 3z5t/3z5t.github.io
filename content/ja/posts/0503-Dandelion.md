@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![タンポポのイメージ](https://cdn.pixabay.com/photo/2023/05/22/14/49/dandelion-8010882_640.jpg#center)
+![タンポポのイメージ](https://cdn.pixabay.com/photo/2023/05/22/14/49/dandelion-8010882_1280.jpg#center)
 
 
 ## タンポポに関する説明

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Viburno](https://cdn.pixabay.com/photo/2019/05/19/21/28/viburnum-4215322_640.jpg#center)
+![Imagem de Viburno](https://cdn.pixabay.com/photo/2019/05/19/21/28/viburnum-4215322_1280.jpg#center)
 
 
 ## Flor de nascimento de 24 de novembro: Viburno

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Левкой седой](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_640.jpg#center)
+![Изображение Левкой седой](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_1280.jpg#center)
 
 ## Левкой седой: изысканная простота и стойкость красоты
 

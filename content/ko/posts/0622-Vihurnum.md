@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![가막살나무의 이미지](https://cdn.pixabay.com/photo/2021/11/12/22/52/viburnum-lantana-6790205_640.jpg#center)
+![가막살나무의 이미지](https://cdn.pixabay.com/photo/2021/11/12/22/52/viburnum-lantana-6790205_1280.jpg#center)
 
 
 ### 가막살나무(Viburnum): 여름의 정수를 담은 꽃

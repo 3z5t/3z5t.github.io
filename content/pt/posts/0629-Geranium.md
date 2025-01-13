@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Gerânio Vermelho](https://cdn.pixabay.com/photo/2019/07/12/14/52/geranium-4333041_640.jpg#center)
+![Imagem de Gerânio Vermelho](https://cdn.pixabay.com/photo/2019/07/12/14/52/geranium-4333041_1280.jpg#center)
 
 
 ## Flor de nascimento de 29 de junho: Gerânio Vermelho

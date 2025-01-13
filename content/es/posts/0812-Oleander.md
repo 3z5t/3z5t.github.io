@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Adelfa](https://cdn.pixabay.com/photo/2022/08/25/11/47/red-oleander-7410079_640.jpg#center)
+![Imagen de Adelfa](https://cdn.pixabay.com/photo/2022/08/25/11/47/red-oleander-7410079_1280.jpg#center)
 
 
 ## Adelfa: La Flor del 12 de Agosto, Símbolo de Precaución

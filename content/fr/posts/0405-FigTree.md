@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Figuier](https://cdn.pixabay.com/photo/2016/09/10/08/09/fig-tree-1658686_640.jpg#center)
+![Image de Figuier](https://cdn.pixabay.com/photo/2016/09/10/08/09/fig-tree-1658686_1280.jpg#center)
 
 
 ## Figuier (Fig-Tree), la fleur du 5 avril : Un symbole de richesse et d’abondance

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Tulipán morado](https://cdn.pixabay.com/photo/2022/05/06/15/20/tulips-7178547_640.jpg#center)
+![Imagen de Tulipán morado](https://cdn.pixabay.com/photo/2022/05/06/15/20/tulips-7178547_1280.jpg#center)
 
 
 ## Tulipán Morado, la Flor del Nacimiento del 20 de Marzo

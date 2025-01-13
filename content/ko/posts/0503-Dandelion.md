@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![민들레의 이미지](https://cdn.pixabay.com/photo/2023/05/22/14/49/dandelion-8010882_640.jpg#center)
+![민들레의 이미지](https://cdn.pixabay.com/photo/2023/05/22/14/49/dandelion-8010882_1280.jpg#center)
 
 
 ### 민들레(Dandelion)에 대한 설명

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Stechpalme](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_640.jpg#center)
+![Bild von Stechpalme](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_1280.jpg#center)
 
 
 ## Geburtsblume des 25. Dezember: Stechpalme

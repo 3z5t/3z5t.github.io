@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ブリオニアのイメージ](https://cdn.pixabay.com/photo/2022/05/13/10/21/bryonia-7193340_640.jpg#center)
+![ブリオニアのイメージ](https://cdn.pixabay.com/photo/2022/05/13/10/21/bryonia-7193340_1280.jpg#center)
 
 
 ## ブリオニアに関する説明

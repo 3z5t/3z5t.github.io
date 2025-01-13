@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Crisantemo magenta](https://cdn.pixabay.com/photo/2019/02/08/13/11/chrysanthemum-3983195_640.jpg#center)
+![Imagen de Crisantemo magenta](https://cdn.pixabay.com/photo/2019/02/08/13/11/chrysanthemum-3983195_1280.jpg#center)
 
 ### Descripción de Crisantemo magenta
 

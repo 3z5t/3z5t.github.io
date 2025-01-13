@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة جريس](https://cdn.pixabay.com/photo/2020/03/04/02/40/nature-4900321_640.jpg#center)
+![صورة جريس](https://cdn.pixabay.com/photo/2020/03/04/02/40/nature-4900321_1280.jpg#center)
 
 ## زهرة ميلاد ٢١ نوفمبر: جريس
 

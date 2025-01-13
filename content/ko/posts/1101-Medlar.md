@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![서양모과의 이미지](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_640.jpg#center)
+![서양모과의 이미지](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_1280.jpg#center)
 
 
 ### 11월 1일의 꽃: 서양모과(Medlar)

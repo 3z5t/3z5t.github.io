@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Matthiola](https://cdn.pixabay.com/photo/2019/05/31/23/34/matthiola-4243235_640.jpg#center)
+![Bild von Matthiola](https://cdn.pixabay.com/photo/2019/05/31/23/34/matthiola-4243235_1280.jpg#center)
 
 ## Geburtsblume des 6. Mai: Matthiola
 

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Grenadier](https://cdn.pixabay.com/photo/2017/10/07/05/33/pomegranate-2825556_640.jpg#center)
+![Image de Grenadier](https://cdn.pixabay.com/photo/2017/10/07/05/33/pomegranate-2825556_1280.jpg#center)
 
 
 ### Portrait botanique de Grenadier

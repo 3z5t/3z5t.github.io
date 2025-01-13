@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![白玫瑰的图片](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_640.jpg#center)
+![白玫瑰的图片](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_1280.jpg#center)
 
 
 ## 白玫瑰的描述

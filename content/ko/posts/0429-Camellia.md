@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![동백나무의 이미지](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_640.jpg#center)
+![동백나무의 이미지](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_1280.jpg#center)
 
 
 ### 동백나무(Camellia)에 대한 설명

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Flor de Estoque](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_640.jpg#center)
+![Imagem de Flor de Estoque](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_1280.jpg#center)
 
 
 ## Flor de nascimento de 16 de julho: Flor de Estoque

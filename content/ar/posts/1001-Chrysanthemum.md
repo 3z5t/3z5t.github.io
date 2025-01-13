@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة أقحُوان أحمَر](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_640.jpg#center)
+![صورة أقحُوان أحمَر](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_1280.jpg#center)
 
 ## زهرة ميلاد ١ أكتوبر: أقحُوان أحمَر
 

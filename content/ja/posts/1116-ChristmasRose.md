@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![クリスマスローズのイメージ](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_640.jpg#center)
+![クリスマスローズのイメージ](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_1280.jpg#center)
 
 
 ## クリスマスローズに関する説明

@@ -12,7 +12,7 @@ tags:
   - 꽃
 ---
 
-![snowdrop 사진](https://cdn.pixabay.com/photo/2020/02/24/10/51/flower-4875870_640.jpg#center)
+![snowdrop 사진](https://cdn.pixabay.com/photo/2020/02/24/10/51/flower-4875870_1280.jpg#center)
 
 안녕하세요, 꽃의 아름다움에 마음을 빼앗긴 여러분. 오늘은 우리에게 새해의 첫 날을 장식하고, 희망의 메시지를 전하는 아름답고 독특한 꽃, 바로 '스노드롭'에 대해 이야기하려 합니다. 
 

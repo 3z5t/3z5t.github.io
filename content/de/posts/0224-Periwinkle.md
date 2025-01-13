@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Immergrün](https://cdn.pixabay.com/photo/2022/03/31/05/09/flower-7102225_640.jpg#center)
+![Bild von Immergrün](https://cdn.pixabay.com/photo/2022/03/31/05/09/flower-7102225_1280.jpg#center)
 
 
 ## Geburtsblume des 24. Februar: Immergrün

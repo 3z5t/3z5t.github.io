@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Pelargonie](https://cdn.pixabay.com/photo/2020/06/02/10/21/flowers-5250327_640.jpg#center)
+![Bild von Pelargonie](https://cdn.pixabay.com/photo/2020/06/02/10/21/flowers-5250327_1280.jpg#center)
 
 
 ## Geburtsblume des 28. Juni: Pelargonie

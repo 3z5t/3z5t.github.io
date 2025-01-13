@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Астрагал](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_640.jpg#center)
+![Изображение Астрагал](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_1280.jpg#center)
 
 ## Астрагал: Символ Моего Счастья
 

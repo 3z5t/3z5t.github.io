@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![驢蹄草的图片](https://cdn.pixabay.com/photo/2018/04/17/15/09/caltha-palustris-3327710_640.jpg#center)
+![驢蹄草的图片](https://cdn.pixabay.com/photo/2018/04/17/15/09/caltha-palustris-3327710_1280.jpg#center)
 
 
 ## 驢蹄草的描述

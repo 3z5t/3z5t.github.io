@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Cèdre](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_640.jpg#center)
+![Image de Cèdre](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_1280.jpg#center)
 
 
 ## Cèdre (Cedar), la fleur du 30 septembre

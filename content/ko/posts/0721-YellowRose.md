@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![노랑장미의 이미지](https://cdn.pixabay.com/photo/2021/04/08/18/59/yellow-rose-6162613_640.jpg#center)
+![노랑장미의 이미지](https://cdn.pixabay.com/photo/2021/04/08/18/59/yellow-rose-6162613_1280.jpg#center)
 
 
 ### 노랑장미(Yellow Rose)의 매력

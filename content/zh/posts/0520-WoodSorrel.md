@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![酢漿草的图片](https://cdn.pixabay.com/photo/2015/08/25/09/31/oxalis-corniculata-906419_640.jpg#center)
+![酢漿草的图片](https://cdn.pixabay.com/photo/2015/08/25/09/31/oxalis-corniculata-906419_1280.jpg#center)
 
 
 ## 酢漿草的描述

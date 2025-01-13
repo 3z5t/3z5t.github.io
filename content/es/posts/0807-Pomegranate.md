@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Granado](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_640.jpg#center)
+![Imagen de Granado](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_1280.jpg#center)
 
 
 ## Granado: La Flor del 7 de Agosto, Símbolo de Belleza Madura

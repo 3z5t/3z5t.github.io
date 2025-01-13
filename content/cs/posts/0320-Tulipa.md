@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Fialový tulipán](https://cdn.pixabay.com/photo/2022/05/06/15/20/tulips-7178547_640.jpg#center)
+![Obrázek Fialový tulipán](https://cdn.pixabay.com/photo/2022/05/06/15/20/tulips-7178547_1280.jpg#center)
 
 
 ## 20. března – Narozeninová květina: Fialový tulipán

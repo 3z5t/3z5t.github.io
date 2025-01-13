@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Nespereira](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_640.jpg#center)
+![Imagem de Nespereira](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_1280.jpg#center)
 
 
 ## Flor de nascimento de 1 de novembro: Nespereira

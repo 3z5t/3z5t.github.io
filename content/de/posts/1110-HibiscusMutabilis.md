@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Filziger Roseneibisch](https://cdn.pixabay.com/photo/2019/08/10/14/04/hibiscus-mutabilis-4397033_640.jpg#center)
+![Bild von Filziger Roseneibisch](https://cdn.pixabay.com/photo/2019/08/10/14/04/hibiscus-mutabilis-4397033_1280.jpg#center)
 
 ## Geburtsblume des 10. November: Filziger Roseneibisch
 

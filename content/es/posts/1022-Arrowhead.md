@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Sagitaria](https://cdn.pixabay.com/photo/2018/06/11/19/14/arrowhead-3469144_640.jpg#center)
+![Imagen de Sagitaria](https://cdn.pixabay.com/photo/2018/06/11/19/14/arrowhead-3469144_1280.jpg#center)
 
 
 ## Sagitaria: La Flor del 22 de Octubre, Símbolo de "Credibilidad"

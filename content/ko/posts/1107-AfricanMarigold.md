@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![천수국의 이미지](https://cdn.pixabay.com/photo/2022/07/03/14/40/marigold-7299451_640.jpg#center)
+![천수국의 이미지](https://cdn.pixabay.com/photo/2022/07/03/14/40/marigold-7299451_1280.jpg#center)
 
 
 ### 11월 7일의 꽃: 천수국(African Marigold)

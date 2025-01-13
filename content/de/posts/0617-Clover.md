@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Wiesenklee](https://cdn.pixabay.com/photo/2018/05/25/22/58/klee-3430247_640.jpg#center)
+![Bild von Wiesenklee](https://cdn.pixabay.com/photo/2018/05/25/22/58/klee-3430247_1280.jpg#center)
 
 ## Geburtsblume des 17. Juni: Wiesenklee
 

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Humble Plant](https://cdn.pixabay.com/photo/2022/06/07/22/59/flower-7249417_640.jpg#center)
+![Image of Humble Plant](https://cdn.pixabay.com/photo/2022/06/07/22/59/flower-7249417_1280.jpg#center)
 
 ## Humble Plant: The Birth Flower of January 26th
 

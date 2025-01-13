@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Sun Flower](https://cdn.pixabay.com/photo/2018/08/22/13/46/sunflower-3623668_640.jpg#center)
+![Image of Sun Flower](https://cdn.pixabay.com/photo/2018/08/22/13/46/sunflower-3623668_1280.jpg#center)
 
 
 ### Description of Sunflower

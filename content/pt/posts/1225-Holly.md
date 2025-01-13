@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Azevinho](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_640.jpg#center)
+![Imagem de Azevinho](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_1280.jpg#center)
 
 
 ## Flor de nascimento de 25 de dezembro: Azevinho

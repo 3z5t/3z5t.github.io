@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Slivoň](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_640.jpg#center)
+![Obrázek Slivoň](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_1280.jpg#center)
 
 
 ## 23. února – Narozeninová květina: Slivoň

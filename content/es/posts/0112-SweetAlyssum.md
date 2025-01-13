@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Aliso dulce](https://cdn.pixabay.com/photo/2020/06/22/13/50/sweet-alyssum-5329266_640.jpg#center)
+![Imagen de Aliso dulce](https://cdn.pixabay.com/photo/2020/06/22/13/50/sweet-alyssum-5329266_1280.jpg#center)
 
 
 ## Aliso Dulce, la Flor del Nacimiento del 12 de Enero

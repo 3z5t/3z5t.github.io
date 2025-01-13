@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة زهر الحوذان](https://cdn.pixabay.com/photo/2023/07/02/07/20/buttercup-8101494_640.jpg#center)
+![صورة زهر الحوذان](https://cdn.pixabay.com/photo/2023/07/02/07/20/buttercup-8101494_1280.jpg#center)
 
 ## زهرة ميلاد ١٨ فبراير: زهر الحوذان
 

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![菊花的图片](https://cdn.pixabay.com/photo/2021/09/27/16/46/chrysanthemums-6661564_640.jpg#center)
+![菊花的图片](https://cdn.pixabay.com/photo/2021/09/27/16/46/chrysanthemums-6661564_1280.jpg#center)
 
 
 ## 菊花的描述

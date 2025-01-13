@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![머위의 이미지](https://cdn.pixabay.com/photo/2015/09/24/17/19/hunt-955953_640.jpg#center)
+![머위의 이미지](https://cdn.pixabay.com/photo/2015/09/24/17/19/hunt-955953_1280.jpg#center)
 
 
 ### 11월 17일의 꽃: 머위 (Butterbur)

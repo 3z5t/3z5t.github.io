@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Weißer Flieder](https://cdn.pixabay.com/photo/2023/12/04/18/10/lilac-8430051_640.jpg#center)
+![Bild von Weißer Flieder](https://cdn.pixabay.com/photo/2023/12/04/18/10/lilac-8430051_1280.jpg#center)
 
 ## Geburtsblume des 26. Juni: Weißer Flieder
 

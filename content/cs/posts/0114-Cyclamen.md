@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Brambořík](https://cdn.pixabay.com/photo/2014/10/08/17/43/cyclamen-480477_640.jpg#center)
+![Obrázek Brambořík](https://cdn.pixabay.com/photo/2014/10/08/17/43/cyclamen-480477_1280.jpg#center)
 
 ## 14. ledna – Narozeninová květina: Brambořík
 

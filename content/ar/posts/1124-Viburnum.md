@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة رباطية](https://cdn.pixabay.com/photo/2019/05/19/21/28/viburnum-4215322_640.jpg#center)
+![صورة رباطية](https://cdn.pixabay.com/photo/2019/05/19/21/28/viburnum-4215322_1280.jpg#center)
 
 ## زهرة ميلاد ٢٤ نوفمبر: رباطية
 

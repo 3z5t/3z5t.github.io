@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Heliotrop](https://cdn.pixabay.com/photo/2017/08/18/13/52/vanilla-flower-2655056_640.jpg#center)
+![Obrázek Heliotrop](https://cdn.pixabay.com/photo/2017/08/18/13/52/vanilla-flower-2655056_1280.jpg#center)
 
 
 ## 24. května – Narozeninová květina: Heliotrop

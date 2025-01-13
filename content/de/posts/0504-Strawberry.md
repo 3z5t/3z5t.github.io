@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Gartenerdbeere](https://cdn.pixabay.com/photo/2016/06/20/00/40/strawberries-1467902_640.jpg#center)
+![Bild von Gartenerdbeere](https://cdn.pixabay.com/photo/2016/06/20/00/40/strawberries-1467902_1280.jpg#center)
 
 
 ## Geburtsblume des 4. Mai: Gartenerdbeere

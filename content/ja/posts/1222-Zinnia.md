@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ジニアのイメージ](https://cdn.pixabay.com/photo/2017/09/28/15/27/dream-park-2795924_640.jpg#center)
+![ジニアのイメージ](https://cdn.pixabay.com/photo/2017/09/28/15/27/dream-park-2795924_1280.jpg#center)
 
 
 ## ジニアに関する説明

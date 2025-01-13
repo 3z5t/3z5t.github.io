@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الدَّبَق](https://cdn.pixabay.com/photo/2012/02/24/10/17/mistletoe-berries-16393_640.jpg#center)
+![صورة الدَّبَق](https://cdn.pixabay.com/photo/2012/02/24/10/17/mistletoe-berries-16393_1280.jpg#center)
 
 ## زهرة ميلاد ٢٤ ديسمبر: الدَّبَق
 

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![薰衣草的图片](https://cdn.pixabay.com/photo/2020/07/08/08/06/flowers-5383054_640.jpg#center)
+![薰衣草的图片](https://cdn.pixabay.com/photo/2020/07/08/08/06/flowers-5383054_1280.jpg#center)
 
 
 ## 薰衣草的描述

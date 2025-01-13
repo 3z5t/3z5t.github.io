@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Žlutý hyacint](https://cdn.pixabay.com/photo/2015/04/23/19/03/hyacinth-736516_640.jpg#center)
+![Obrázek Žlutý hyacint](https://cdn.pixabay.com/photo/2015/04/23/19/03/hyacinth-736516_1280.jpg#center)
 
 ## 16. ledna – Narozeninová květina: Žlutý hyacint
 

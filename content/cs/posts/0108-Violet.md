@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Fialka nachová](https://cdn.pixabay.com/photo/2018/08/02/03/46/violets-3578798_640.png#center)
+![Obrázek Fialka nachová](https://cdn.pixabay.com/photo/2018/08/02/03/46/violets-3578798_1280.png#center)
 
 
 ## 8. ledna – Narozeninová květina: Fialka nachová

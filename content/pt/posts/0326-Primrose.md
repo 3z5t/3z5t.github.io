@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Prímula Branca](https://cdn.pixabay.com/photo/2012/06/08/19/22/primula-schlusselblume-49782_640.jpg#center)
+![Imagem de Prímula Branca](https://cdn.pixabay.com/photo/2012/06/08/19/22/primula-schlusselblume-49782_1280.jpg#center)
 
 
 ## Flor de nascimento de 26 de março: Prímula Branca

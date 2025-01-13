@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![빙카의 이미지](https://cdn.pixabay.com/photo/2022/03/31/05/09/flower-7102225_640.jpg#center)
+![빙카의 이미지](https://cdn.pixabay.com/photo/2022/03/31/05/09/flower-7102225_1280.jpg#center)
 
 안녕하세요, .오늘은 2월 24일, 아름다운 꽃 빙카에 대해 이야기하려고 합니다. 빙카는 그 화려한 꽃봉오리와 풍성한 녹색 잎사귀로 많은 이들에게 사랑받는데요.
 

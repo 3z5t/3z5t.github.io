@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Gewöhnliche Pestwurz](https://cdn.pixabay.com/photo/2015/09/24/17/19/hunt-955953_640.jpg#center)
+![Bild von Gewöhnliche Pestwurz](https://cdn.pixabay.com/photo/2015/09/24/17/19/hunt-955953_1280.jpg#center)
 
 
 ## Geburtsblume des 17. November: Gewöhnliche Pestwurz

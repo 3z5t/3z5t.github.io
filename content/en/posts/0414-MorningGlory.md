@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Morning-Glory](https://cdn.pixabay.com/photo/2021/08/09/15/36/morning-glory-6533658_640.jpg#center)
+![Image of Morning-Glory](https://cdn.pixabay.com/photo/2021/08/09/15/36/morning-glory-6533658_1280.jpg#center)
 
 
 ### Description of Morning Glory

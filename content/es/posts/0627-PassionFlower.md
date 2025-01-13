@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Pasionaria](https://cdn.pixabay.com/photo/2016/10/06/03/32/watch-flowers-1718103_640.jpg#center)
+![Imagen de Pasionaria](https://cdn.pixabay.com/photo/2016/10/06/03/32/watch-flowers-1718103_1280.jpg#center)
 
 
 ## Pasionaria: La Flor del Amor Divino para el 27 de Junio

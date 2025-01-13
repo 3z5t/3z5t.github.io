@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Lobélie](https://cdn.pixabay.com/photo/2017/06/05/16/17/praise-lien-2374492_640.jpg#center)
+![Image de Lobélie](https://cdn.pixabay.com/photo/2017/06/05/16/17/praise-lien-2374492_1280.jpg#center)
 
 
 ## Portrait botanique de Lobélie (Lobelia)

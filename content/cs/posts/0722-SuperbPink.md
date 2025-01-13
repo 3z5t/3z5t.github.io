@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Hvozdík čínský](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_640.jpg#center)
+![Obrázek Hvozdík čínský](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_1280.jpg#center)
 
 
 ## 22. července – Narozeninová květina: Hvozdík čínský

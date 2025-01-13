@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Chrpa](https://cdn.pixabay.com/photo/2019/05/24/02/20/the-idyll-4225323_640.jpg#center)
+![Obrázek Chrpa](https://cdn.pixabay.com/photo/2019/05/24/02/20/the-idyll-4225323_1280.jpg#center)
 
 
 ## 5. března – Narozeninová květina: Chrpa

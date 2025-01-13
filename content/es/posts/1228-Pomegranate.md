@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Granado](https://cdn.pixabay.com/photo/2017/10/07/05/33/pomegranate-2825556_640.jpg#center)
+![Imagen de Granado](https://cdn.pixabay.com/photo/2017/10/07/05/33/pomegranate-2825556_1280.jpg#center)
 
 
 ### Descripción de Granado

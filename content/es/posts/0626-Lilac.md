@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Lila blanca](https://cdn.pixabay.com/photo/2023/12/04/18/10/lilac-8430051_640.jpg#center)
+![Imagen de Lila blanca](https://cdn.pixabay.com/photo/2023/12/04/18/10/lilac-8430051_1280.jpg#center)
 
 
 ## Lila Blanca: La Flor de la Promesa Sagrada para el 26 de Junio

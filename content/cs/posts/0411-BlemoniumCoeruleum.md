@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Jirnice modrá](https://cdn.pixabay.com/photo/2022/08/25/17/02/jacobs-ladder-7410808_640.jpg#center)
+![Obrázek Jirnice modrá](https://cdn.pixabay.com/photo/2022/08/25/17/02/jacobs-ladder-7410808_1280.jpg#center)
 
 
 ## 11. dubna – Narozeninová květina: Jirnice modrá

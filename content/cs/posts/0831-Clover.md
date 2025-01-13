@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Jetel](https://cdn.pixabay.com/photo/2018/10/23/19/10/clover-3768689_640.jpg#center)
+![Obrázek Jetel](https://cdn.pixabay.com/photo/2018/10/23/19/10/clover-3768689_1280.jpg#center)
 
 
 ## 31. srpna – Narozeninová květina: Jetel

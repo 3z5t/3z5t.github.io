@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Hyacinth](https://cdn.pixabay.com/photo/2016/03/24/22/09/hyacinthus-orientalis-1277753_640.jpg#center)
+![Image of Hyacinth](https://cdn.pixabay.com/photo/2016/03/24/22/09/hyacinthus-orientalis-1277753_1280.jpg#center)
 
 
 ## Hyacinth: The Birth Flower of January 4th

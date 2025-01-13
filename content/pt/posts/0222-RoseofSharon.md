@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Rosa de Sharon](https://cdn.pixabay.com/photo/2019/07/16/14/50/rose-of-sharon-4342080_640.jpg#center)
+![Imagem de Rosa de Sharon](https://cdn.pixabay.com/photo/2019/07/16/14/50/rose-of-sharon-4342080_1280.jpg#center)
 
 ## Flor de nascimento de 22 de fevereiro: Rosa de Sharon
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Blatouch](https://cdn.pixabay.com/photo/2018/04/17/15/09/caltha-palustris-3327710_640.jpg#center)
+![Obrázek Blatouch](https://cdn.pixabay.com/photo/2018/04/17/15/09/caltha-palustris-3327710_1280.jpg#center)
 
 ## 30. ledna – Narozeninová květina: Blatouch
 

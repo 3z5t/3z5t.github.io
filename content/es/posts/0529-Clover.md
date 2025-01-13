@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Trébol](https://cdn.pixabay.com/photo/2018/09/03/09/02/clover-3650704_640.jpg#center)
+![Imagen de Trébol](https://cdn.pixabay.com/photo/2018/09/03/09/02/clover-3650704_1280.jpg#center)
 
 
 ## Trébol, la Flor del Nacimiento del 29 de Mayo

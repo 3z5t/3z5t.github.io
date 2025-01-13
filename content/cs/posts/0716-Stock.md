@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Fiala šedivá](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_640.jpg#center)
+![Obrázek Fiala šedivá](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_1280.jpg#center)
 
 ## 16. července – Narozeninová květina: Fiala šedivá
 

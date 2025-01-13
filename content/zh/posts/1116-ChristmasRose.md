@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![聖誕玫瑰的图片](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_640.jpg#center)
+![聖誕玫瑰的图片](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_1280.jpg#center)
 
 
 ## 聖誕玫瑰的描述

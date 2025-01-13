@@ -11,7 +11,7 @@ tags:
   - 탄생화
   - 꽃
 ---
-![꽃 사진](https://cdn.pixabay.com/photo/2012/10/09/06/00/leaves-60488_640.jpg#center)
+![꽃 사진](https://cdn.pixabay.com/photo/2012/10/09/06/00/leaves-60488_1280.jpg#center)
 안녕하세요, 나무와 꽃 애호가 여러분. 오늘은 1월 28일의 나무, 검은 포플라(Black Poplar)에 대해 이야기해 보려 합니다. 그 거대하고 웅장한 모습으로 사람들의 마음을 사로잡는 검은 포플라, 그 속에 담긴 이야기를 함께 알아봅시다.
 
 

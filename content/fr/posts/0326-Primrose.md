@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Primevère blanche](https://cdn.pixabay.com/photo/2012/06/08/19/22/primula-schlusselblume-49782_640.jpg#center)
+![Image de Primevère blanche](https://cdn.pixabay.com/photo/2012/06/08/19/22/primula-schlusselblume-49782_1280.jpg#center)
 
 
 ## Primevère blanche (Primrose), la fleur du 26 mars : Une ode au premier amour et à l’innocence pure

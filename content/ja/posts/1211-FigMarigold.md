@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![山アスターのイメージ](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_640.jpg#center)
+![山アスターのイメージ](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_1280.jpg#center)
 
 
 ## 山アスター（Mountain Aster）の魅力と物語

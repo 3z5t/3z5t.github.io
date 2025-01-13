@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Rote Chrysantheme](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_640.jpg#center)
+![Bild von Rote Chrysantheme](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_1280.jpg#center)
 
 
 ## Geburtsblume des 1. Oktober: Rote Chrysantheme

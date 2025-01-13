@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![린덴 나무의 이미지](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_640.jpg#center)
+![린덴 나무의 이미지](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_1280.jpg#center)
 
 
 ### 7월 30일의 꽃: 린덴 나무(Lime Tree, Linden)

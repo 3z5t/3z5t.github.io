@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة البابونج](https://cdn.pixabay.com/photo/2018/06/29/22/51/chamomile-3506765_640.jpg#center)
+![صورة البابونج](https://cdn.pixabay.com/photo/2018/06/29/22/51/chamomile-3506765_1280.jpg#center)
 
 ## زهرة ميلاد ١٤ فبراير: البابونج
 

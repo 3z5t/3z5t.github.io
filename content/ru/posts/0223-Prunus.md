@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Слива](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_640.jpg#center)
+![Изображение Слива](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_1280.jpg#center)
 
 ## Слива: Символ Скромности
 

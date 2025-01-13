@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Papoula Vermelha](https://cdn.pixabay.com/photo/2019/06/02/11/22/poppies-4246241_640.jpg#center)
+![Imagem de Papoula Vermelha](https://cdn.pixabay.com/photo/2019/06/02/11/22/poppies-4246241_1280.jpg#center)
 
 
 ## Flor de nascimento de 1 de agosto: Papoula Vermelha

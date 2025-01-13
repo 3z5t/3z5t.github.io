@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Holly](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_640.jpg#center)
+![Image of Holly](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_1280.jpg#center)
 
 
 ### Description of Holly

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![꽃고비의 이미지](https://cdn.pixabay.com/photo/2022/08/25/17/02/jacobs-ladder-7410808_640.jpg#center)
+![꽃고비의 이미지](https://cdn.pixabay.com/photo/2022/08/25/17/02/jacobs-ladder-7410808_1280.jpg#center)
 
 
 ### 꽃고비(Blemonium Coeruleum)에 대한 설명

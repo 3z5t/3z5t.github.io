@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Flox](https://cdn.pixabay.com/photo/2016/07/15/09/02/flower-1518501_640.jpg#center)
+![Imagen de Flox](https://cdn.pixabay.com/photo/2016/07/15/09/02/flower-1518501_1280.jpg#center)
 
 
 ## Flox: La Flor de la Serenidad para el 14 de Julio

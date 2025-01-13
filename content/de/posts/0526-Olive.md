@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Olivenbaum](https://cdn.pixabay.com/photo/2015/05/29/10/00/olives-789140_640.jpg#center)
+![Bild von Olivenbaum](https://cdn.pixabay.com/photo/2015/05/29/10/00/olives-789140_1280.jpg#center)
 
 ## Geburtsblume des 26. Mai: Olivenbaum
 

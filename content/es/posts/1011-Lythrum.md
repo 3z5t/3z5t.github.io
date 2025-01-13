@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Salicaria](https://cdn.pixabay.com/photo/2019/07/15/12/11/ordinary-loosestrife-4339197_640.jpg#center)
+![Imagen de Salicaria](https://cdn.pixabay.com/photo/2019/07/15/12/11/ordinary-loosestrife-4339197_1280.jpg#center)
 
 
 ## Salicaria: La Flor del 11 de Octubre, Símbolo de "Melancolía Amorosa"

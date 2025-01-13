@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Fresia](https://cdn.pixabay.com/photo/2019/10/04/22/30/flower-4526658_640.jpg#center)
+![Imagen de Fresia](https://cdn.pixabay.com/photo/2019/10/04/22/30/flower-4526658_1280.jpg#center)
 
 
 ## Fresia: La Flor del 20 de Agosto, Símbolo de Pureza y Honestidad

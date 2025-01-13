@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Espuela roja](https://cdn.pixabay.com/photo/2019/08/28/07/43/nature-4436024_640.jpg#center)
+![Imagen de Espuela roja](https://cdn.pixabay.com/photo/2019/08/28/07/43/nature-4436024_1280.jpg#center)
 
 
 ## Espuela Roja, la Flor del Nacimiento del 21 de Mayo

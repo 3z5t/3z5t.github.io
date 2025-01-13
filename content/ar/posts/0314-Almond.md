@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة شجر اللَّوز](https://cdn.pixabay.com/photo/2020/03/15/13/11/almond-tree-4933573_640.jpg#center)
+![صورة شجر اللَّوز](https://cdn.pixabay.com/photo/2020/03/15/13/11/almond-tree-4933573_1280.jpg#center)
 
 ## زهرة ميلاد ١٤ مارس: شجر اللَّوز
 

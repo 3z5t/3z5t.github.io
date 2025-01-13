@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Chrysanthème rouge](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_640.jpg#center)
+![Image de Chrysanthème rouge](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_1280.jpg#center)
 
 
 ## Chrysanthème rouge (Chrysanthemum), la fleur du 1er octobre

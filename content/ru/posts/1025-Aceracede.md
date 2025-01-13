@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Клён красный](https://cdn.pixabay.com/photo/2016/12/22/03/34/red-leaves-1924443_640.jpg#center)
+![Изображение Клён красный](https://cdn.pixabay.com/photo/2016/12/22/03/34/red-leaves-1924443_1280.jpg#center)
 
 ## Клён красный — символ силы и элегантности
 

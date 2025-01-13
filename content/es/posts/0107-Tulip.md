@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Tulipán](https://cdn.pixabay.com/photo/2020/04/28/13/17/tulips-5104494_640.jpg#center)
+![Imagen de Tulipán](https://cdn.pixabay.com/photo/2020/04/28/13/17/tulips-5104494_1280.jpg#center)
 
 
 ## Tulipán, la Flor del Nacimiento del 7 de Enero

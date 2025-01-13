@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Изображение Цикламен](https://cdn.pixabay.com/photo/2014/10/08/17/43/cyclamen-480477_640.jpg#center)
+![Изображение Цикламен](https://cdn.pixabay.com/photo/2014/10/08/17/43/cyclamen-480477_1280.jpg#center)
 
 
 ## Цикламен: Цветок Застенчивого Характера

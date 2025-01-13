@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة زَهرة الجَرَس](https://cdn.pixabay.com/photo/2018/12/31/02/18/lanterns-3904294_640.jpg#center)
+![صورة زَهرة الجَرَس](https://cdn.pixabay.com/photo/2018/12/31/02/18/lanterns-3904294_1280.jpg#center)
 
 ## زهرة ميلاد ١٠ يوليو: زَهرة الجَرَس
 

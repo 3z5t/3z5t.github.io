@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Jasmín](https://cdn.pixabay.com/photo/2020/06/06/15/48/scent-of-jasmine-5267072_640.jpg#center)
+![Obrázek Jasmín](https://cdn.pixabay.com/photo/2020/06/06/15/48/scent-of-jasmine-5267072_1280.jpg#center)
 
 
 ## 8. června – Narozeninová květina: Jasmín

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![스위트 바질의 이미지](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_640.jpg#center)
+![스위트 바질의 이미지](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_1280.jpg#center)
 
 
 ### 10월 15일의 꽃: 스위트 바질(Sweet Basil)

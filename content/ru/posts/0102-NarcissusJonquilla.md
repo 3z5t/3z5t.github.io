@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Изображение Жонкиль](https://cdn.pixabay.com/photo/2022/04/02/12/29/wild-daffodils-7106921_640.jpg#center)
+![Изображение Жонкиль](https://cdn.pixabay.com/photo/2022/04/02/12/29/wild-daffodils-7106921_1280.jpg#center)
 
 ## Жонкиль: Цветок Ответа на Любовь
 

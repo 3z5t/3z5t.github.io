@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Romãzeira](https://cdn.pixabay.com/photo/2017/10/07/05/33/pomegranate-2825556_640.jpg#center)
+![Imagem de Romãzeira](https://cdn.pixabay.com/photo/2017/10/07/05/33/pomegranate-2825556_1280.jpg#center)
 
 
 ## Flor de nascimento de 28 de dezembro: Romãzeira

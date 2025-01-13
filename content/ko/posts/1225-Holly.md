@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![서양호랑가시나무의 이미지](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_640.jpg#center)
+![서양호랑가시나무의 이미지](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_1280.jpg#center)
 
 
 ### 서양호랑가시나무 (Holly)

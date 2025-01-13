@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Сердечник извилистый](https://cdn.pixabay.com/photo/2020/04/13/17/30/cuckoo-5039419_640.jpg#center)
+![Изображение Сердечник извилистый](https://cdn.pixabay.com/photo/2020/04/13/17/30/cuckoo-5039419_1280.jpg#center)
 
 
 ## Сердечник извилистый: Цветок Преданности

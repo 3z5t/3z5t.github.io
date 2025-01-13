@@ -17,7 +17,7 @@ draft: false
 
 
 
-![Imagen de Camelia blanca](https://cdn.pixabay.com/photo/2016/12/05/06/51/camellia-1883205_640.jpg#center)
+![Imagen de Camelia blanca](https://cdn.pixabay.com/photo/2016/12/05/06/51/camellia-1883205_1280.jpg#center)
 
 
 ### Descripción de Camelia Blanca

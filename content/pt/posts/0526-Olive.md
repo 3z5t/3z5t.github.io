@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Oliveira](https://cdn.pixabay.com/photo/2015/05/29/10/00/olives-789140_640.jpg#center)
+![Imagem de Oliveira](https://cdn.pixabay.com/photo/2015/05/29/10/00/olives-789140_1280.jpg#center)
 
 
 ## Flor de nascimento de 26 de maio: Oliveira

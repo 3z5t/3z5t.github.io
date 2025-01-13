@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Buis](https://cdn.pixabay.com/photo/2017/10/26/18/49/boxwood-2892034_640.jpg#center)
+![Image de Buis](https://cdn.pixabay.com/photo/2017/10/26/18/49/boxwood-2892034_1280.jpg#center)
 
 
 ## Buis, la fleur du 10 janvier : Symbole de résilience et de triomphe

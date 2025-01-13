@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Калифорнийский колокольчик](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_640.jpg#center)
+![Изображение Калифорнийский колокольчик](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_1280.jpg#center)
 
 ## Калифорнийский колокольчик: Символ Патриотизма
 

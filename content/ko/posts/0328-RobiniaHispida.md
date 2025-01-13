@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![꽃아카시아나무의 이미지](https://cdn.pixabay.com/photo/2014/10/04/21/03/acacia-pink-474087_640.jpg#center)
+![꽃아카시아나무의 이미지](https://cdn.pixabay.com/photo/2014/10/04/21/03/acacia-pink-474087_1280.jpg#center)
 
 
 ### 꽃아카시아나무(Robinia Hispida)에 대한 설명

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![에린지움의 이미지](https://cdn.pixabay.com/photo/2017/07/28/10/13/eryngium-2548232_640.jpg#center)
+![에린지움의 이미지](https://cdn.pixabay.com/photo/2017/07/28/10/13/eryngium-2548232_1280.jpg#center)
 
 
 ### 에린지움(Eryngium): 비밀스런 애정과 신비의 꽃

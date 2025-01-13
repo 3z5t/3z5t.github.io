@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![メロンのイメージ](https://cdn.pixabay.com/photo/2022/04/01/14/43/melon-flower-7104975_640.jpg#center)
+![メロンのイメージ](https://cdn.pixabay.com/photo/2022/04/01/14/43/melon-flower-7104975_1280.jpg#center)
 
 
 ## メロンについて

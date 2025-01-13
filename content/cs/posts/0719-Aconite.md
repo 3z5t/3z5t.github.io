@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Oměj](https://cdn.pixabay.com/photo/2020/06/20/19/50/aconite-5322278_640.jpg#center)
+![Obrázek Oměj](https://cdn.pixabay.com/photo/2020/06/20/19/50/aconite-5322278_1280.jpg#center)
 
 ## 19. července – Narozeninová květina: Oměj
 

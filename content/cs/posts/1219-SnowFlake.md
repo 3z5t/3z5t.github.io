@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Sněženka](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_640.jpg#center)
+![Obrázek Sněženka](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_1280.jpg#center)
 
 
 ## 19. prosince – Narozeninová květina: Sněženka

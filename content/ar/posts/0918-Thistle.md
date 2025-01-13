@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة شَوك](https://cdn.pixabay.com/photo/2018/07/05/02/49/thistle-3517440_640.jpg#center)
+![صورة شَوك](https://cdn.pixabay.com/photo/2018/07/05/02/49/thistle-3517440_1280.jpg#center)
 
 ## زهرة ميلاد ١٨ سبتمبر: شَوك
 

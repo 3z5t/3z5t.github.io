@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Prímula blanca](https://cdn.pixabay.com/photo/2012/06/08/19/22/primula-schlusselblume-49782_640.jpg#center)
+![Imagen de Prímula blanca](https://cdn.pixabay.com/photo/2012/06/08/19/22/primula-schlusselblume-49782_1280.jpg#center)
 
 
 ## Prímula Blanca, la Flor del Nacimiento del 26 de Marzo

@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Lavande](https://cdn.pixabay.com/photo/2021/06/29/18/51/lavender-6374964_640.jpg#center)
+![Image de Lavande](https://cdn.pixabay.com/photo/2021/06/29/18/51/lavender-6374964_1280.jpg#center)
 
 
 ### Portrait botanique de Lavande

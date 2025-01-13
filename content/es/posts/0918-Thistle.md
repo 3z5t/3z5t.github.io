@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Cardo](https://cdn.pixabay.com/photo/2018/07/05/02/49/thistle-3517440_640.jpg#center)
+![Imagen de Cardo](https://cdn.pixabay.com/photo/2018/07/05/02/49/thistle-3517440_1280.jpg#center)
 
 
 ## Cardo: La Flor del 18 de Septiembre, Símbolo de Austeridad

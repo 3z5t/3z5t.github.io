@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Cesmína](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_640.jpg#center)
+![Obrázek Cesmína](https://cdn.pixabay.com/photo/2021/12/22/19/43/holly-6888146_1280.jpg#center)
 
 
 ## 25. prosince – Narozeninová květina: Cesmína

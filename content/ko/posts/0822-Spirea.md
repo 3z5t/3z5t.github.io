@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![스피리아의 이미지](https://cdn.pixabay.com/photo/2022/05/08/07/44/flowers-7181453_640.jpg#center)
+![스피리아의 이미지](https://cdn.pixabay.com/photo/2022/05/08/07/44/flowers-7181453_1280.jpg#center)
 
 
 ### 스피리아(Spirea): 작은 꽃송이 속의 큰 의미

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Osmunda](https://cdn.pixabay.com/photo/2014/05/09/14/16/fern-340802_640.jpg#center)
+![Imagem de Osmunda](https://cdn.pixabay.com/photo/2014/05/09/14/16/fern-340802_1280.jpg#center)
 
 ## Flor de nascimento de 27 de agosto: Osmunda
 

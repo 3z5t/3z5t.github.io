@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Berglorbeer](https://cdn.pixabay.com/photo/2015/05/17/12/01/kalmia-770766_640.jpg#center)
+![Bild von Berglorbeer](https://cdn.pixabay.com/photo/2015/05/17/12/01/kalmia-770766_1280.jpg#center)
 
 
 ## Geburtsblume des 20. Februar: Berglorbeer

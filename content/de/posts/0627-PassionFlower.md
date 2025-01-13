@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Passionsblume](https://cdn.pixabay.com/photo/2016/10/06/03/32/watch-flowers-1718103_640.jpg#center)
+![Bild von Passionsblume](https://cdn.pixabay.com/photo/2016/10/06/03/32/watch-flowers-1718103_1280.jpg#center)
 
 
 ## Geburtsblume des 27. Juni: Passionsblume

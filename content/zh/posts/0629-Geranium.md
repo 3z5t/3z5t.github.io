@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![紅天竺葵的图片](https://cdn.pixabay.com/photo/2019/07/12/14/52/geranium-4333041_640.jpg#center)
+![紅天竺葵的图片](https://cdn.pixabay.com/photo/2019/07/12/14/52/geranium-4333041_1280.jpg#center)
 
 
 ## 紅天竺葵的描述

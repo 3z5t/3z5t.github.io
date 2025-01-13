@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Milenrama](https://cdn.pixabay.com/photo/2018/09/16/11/10/yarrow-plant-3681169_640.jpg#center)
+![Imagen de Milenrama](https://cdn.pixabay.com/photo/2018/09/16/11/10/yarrow-plant-3681169_1280.jpg#center)
 
 
 ### Descripción de Milenrama

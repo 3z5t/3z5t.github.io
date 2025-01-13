@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة زَهْرة الرَبيع الحمراء](https://cdn.pixabay.com/photo/2017/02/05/17/06/flower-2040617_640.jpg#center)
+![صورة زَهْرة الرَبيع الحمراء](https://cdn.pixabay.com/photo/2017/02/05/17/06/flower-2040617_1280.jpg#center)
 
 ## زهرة ميلاد ٤ فبراير: زَهْرة الرَبيع الحمراء
 

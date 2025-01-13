@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![金黃草的图片](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_640.jpg#center)
+![金黃草的图片](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_1280.jpg#center)
 
 
 ## 金黃草的描述

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Robinia Hispida](https://cdn.pixabay.com/photo/2014/10/04/21/03/acacia-pink-474087_640.jpg#center)
+![Image of Robinia Hispida](https://cdn.pixabay.com/photo/2014/10/04/21/03/acacia-pink-474087_1280.jpg#center)
 
 
 ### Description of Robinia Hispida

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Kornblume](https://cdn.pixabay.com/photo/2018/05/17/17/25/cornflowers-3409140_640.jpg#center)
+![Bild von Kornblume](https://cdn.pixabay.com/photo/2018/05/17/17/25/cornflowers-3409140_1280.jpg#center)
 
 ## Geburtsblume des 2. August: Kornblume
 

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Lemon Verbena](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_640.jpg#center)
+![Image of Lemon Verbena](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_1280.jpg#center)
 
 
 ### Description of Lemon Verbena

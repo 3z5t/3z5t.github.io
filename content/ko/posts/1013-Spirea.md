@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![조팝나무의 이미지](https://cdn.pixabay.com/photo/2020/04/21/04/50/meadowsweet-trees-5070844_640.jpg#center)
+![조팝나무의 이미지](https://cdn.pixabay.com/photo/2020/04/21/04/50/meadowsweet-trees-5070844_1280.jpg#center)
 
 
 ### 10월 13일의 꽃: 조팝나무(Spirea)

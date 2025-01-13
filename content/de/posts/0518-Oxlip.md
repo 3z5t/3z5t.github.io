@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Waldprimel](https://cdn.pixabay.com/photo/2021/05/13/11/57/oxslip-6250682_640.jpg#center)
+![Bild von Waldprimel](https://cdn.pixabay.com/photo/2021/05/13/11/57/oxslip-6250682_1280.jpg#center)
 
 
 ## Geburtsblume des 18. Mai: Waldprimel

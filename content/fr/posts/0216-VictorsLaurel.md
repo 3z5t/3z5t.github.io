@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Laurier du vainqueur](https://cdn.pixabay.com/photo/2017/09/23/19/24/laurel-2779880_640.jpg#center)
+![Image de Laurier du vainqueur](https://cdn.pixabay.com/photo/2017/09/23/19/24/laurel-2779880_1280.jpg#center)
 
 
 ## Laurier du vainqueur (Victor’s Laurel), la fleur du 16 février : L’emblème éternel de l’honneur et de la gloire

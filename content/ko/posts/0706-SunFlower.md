@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![해바라기의 이미지](https://cdn.pixabay.com/photo/2022/07/30/14/35/sunflowers-7353922_640.jpg#center)
+![해바라기의 이미지](https://cdn.pixabay.com/photo/2022/07/30/14/35/sunflowers-7353922_1280.jpg#center)
 
 
 ### 해바라기(Sun Flower)에 대한 설명

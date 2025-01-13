@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![白色牽牛花的图片](https://cdn.pixabay.com/photo/2021/08/09/15/36/morning-glory-6533658_640.jpg#center)
+![白色牽牛花的图片](https://cdn.pixabay.com/photo/2021/08/09/15/36/morning-glory-6533658_1280.jpg#center)
 
 
 ## 白色牵牛花的描述

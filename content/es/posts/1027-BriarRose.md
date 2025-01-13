@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Rosa silvestre](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_640.jpg#center)
+![Imagen de Rosa silvestre](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_1280.jpg#center)
 
 
 ### Descripción de Rosa Silvestre

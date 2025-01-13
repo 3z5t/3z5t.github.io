@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Apple Blossom](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_640.jpg#center)
+![Image of Apple Blossom](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_1280.jpg#center)
 
 
 ### Description of Apple Blossom

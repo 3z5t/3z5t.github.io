@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Sabugueiro](https://cdn.pixabay.com/photo/2017/06/20/07/56/elder-2422131_640.jpg#center)
+![Imagem de Sabugueiro](https://cdn.pixabay.com/photo/2017/06/20/07/56/elder-2422131_1280.jpg#center)
 
 
 ## Flor de nascimento de 25 de julho: Sabugueiro

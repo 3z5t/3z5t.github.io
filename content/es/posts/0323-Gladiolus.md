@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Gladiolo](https://cdn.pixabay.com/photo/2020/07/13/18/56/flowers-5401735_640.jpg#center)
+![Imagen de Gladiolo](https://cdn.pixabay.com/photo/2020/07/13/18/56/flowers-5401735_1280.jpg#center)
 
 
 ## Gladiolo, la Flor del Nacimiento del 23 de Marzo

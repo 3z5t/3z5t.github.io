@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![地中海藍鐘花的图片](https://cdn.pixabay.com/photo/2020/01/23/07/40/squill-4787085_640.jpg#center)
+![地中海藍鐘花的图片](https://cdn.pixabay.com/photo/2020/01/23/07/40/squill-4787085_1280.jpg#center)
 
 
 ## 地中海藍鐘花的描述

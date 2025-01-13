@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Goldlack](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_640.jpg#center)
+![Bild von Goldlack](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_1280.jpg#center)
 
 
 ## Geburtsblume des 16. Juli: Goldlack

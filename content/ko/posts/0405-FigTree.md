@@ -15,7 +15,7 @@ draft: false
 
 
 
-![무화과의 이미지](https://cdn.pixabay.com/photo/2016/09/10/08/09/fig-tree-1658686_640.jpg#center)
+![무화과의 이미지](https://cdn.pixabay.com/photo/2016/09/10/08/09/fig-tree-1658686_1280.jpg#center)
 
 
 ### 무화과(Fig-Tree)에 대한 설명

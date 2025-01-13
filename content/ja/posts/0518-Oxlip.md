@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![セイタカセイヨウサクラソウのイメージ](https://cdn.pixabay.com/photo/2021/05/13/11/57/oxslip-6250682_640.jpg#center)
+![セイタカセイヨウサクラソウのイメージ](https://cdn.pixabay.com/photo/2021/05/13/11/57/oxslip-6250682_1280.jpg#center)
 
 
 ## セイタカセイヨウサクラソウに関する説明

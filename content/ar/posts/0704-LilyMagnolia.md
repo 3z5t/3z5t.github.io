@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة زَنبَق الماغنوليا](https://cdn.pixabay.com/photo/2023/04/24/10/17/flowers-7947730_640.jpg#center)
+![صورة زَنبَق الماغنوليا](https://cdn.pixabay.com/photo/2023/04/24/10/17/flowers-7947730_1280.jpg#center)
 
 ## زهرة ميلاد ٤ يوليو: زَنبَق الماغنوليا
 

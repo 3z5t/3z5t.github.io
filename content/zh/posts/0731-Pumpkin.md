@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![南瓜的图片](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_640.jpg#center)
+![南瓜的图片](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_1280.jpg#center)
 
 
 ## 南瓜的描述

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![甜羅勒的图片](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_640.jpg#center)
+![甜羅勒的图片](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_1280.jpg#center)
 
 
 ## 甜羅勒的描述

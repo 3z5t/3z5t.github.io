@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![금잔화의 이미지](https://cdn.pixabay.com/photo/2018/07/10/11/11/marigold-3528402_640.jpg#center)
+![금잔화의 이미지](https://cdn.pixabay.com/photo/2018/07/10/11/11/marigold-3528402_1280.jpg#center)
 
 
 ### 금잔화(Calendula): 따스한 색감 속의 이별의 슬픔

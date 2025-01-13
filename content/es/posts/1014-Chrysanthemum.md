@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Crisantemo blanco](https://cdn.pixabay.com/photo/2022/08/17/15/21/flower-7392770_640.jpg#center)
+![Imagen de Crisantemo blanco](https://cdn.pixabay.com/photo/2022/08/17/15/21/flower-7392770_1280.jpg#center)
 
 
 ## Crisantemo Blanco: La Flor del 14 de Octubre, Símbolo de "Verdad"

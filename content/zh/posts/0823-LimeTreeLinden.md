@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![菩提樹的图片](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_640.jpg#center)
+![菩提樹的图片](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_1280.jpg#center)
 
 
 ## 菩提樹的描述

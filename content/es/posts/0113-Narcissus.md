@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Narciso](https://cdn.pixabay.com/photo/2021/04/06/19/20/daffodils-6157253_640.jpg#center)
+![Imagen de Narciso](https://cdn.pixabay.com/photo/2021/04/06/19/20/daffodils-6157253_1280.jpg#center)
 
 
 ## Narciso, la Flor del Nacimiento del 13 de Enero

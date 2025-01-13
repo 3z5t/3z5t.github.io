@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Дубровник обыкновенный](https://cdn.pixabay.com/photo/2020/08/12/12/16/teucrium-paradise-delight-5482517_640.jpg#center)
+![Изображение Дубровник обыкновенный](https://cdn.pixabay.com/photo/2020/08/12/12/16/teucrium-paradise-delight-5482517_1280.jpg#center)
 
 ## Дубровник обыкновенный: Глубокое уважение
 

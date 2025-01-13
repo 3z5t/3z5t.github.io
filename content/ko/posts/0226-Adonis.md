@@ -12,7 +12,7 @@ tags:
   - 꽃
 draft: false
 ---
-![아도니스의 이미지](https://cdn.pixabay.com/photo/2016/04/12/17/25/pheasants-eye-1324890_640.jpg#center)
+![아도니스의 이미지](https://cdn.pixabay.com/photo/2016/04/12/17/25/pheasants-eye-1324890_1280.jpg#center)
 
 안녕하세요,  오늘은 2월 26일에 어울리는 꽃, 아도니스에 대해 이야기하려고 합니다. 아도니스는 그 특별한 매력으로 많은 이들의 마음을 사로잡고 있는데요.
 

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Gelbe Hyazinthe](https://cdn.pixabay.com/photo/2015/04/23/19/03/hyacinth-736516_640.jpg#center)
+![Bild von Gelbe Hyazinthe](https://cdn.pixabay.com/photo/2015/04/23/19/03/hyacinth-736516_1280.jpg#center)
 
 
 ## Geburtsblume des 16. Januar: Gelbe Hyazinthe

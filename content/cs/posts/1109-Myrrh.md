@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Myrha](https://cdn.pixabay.com/photo/2018/02/26/17/48/nature-3183605_640.jpg#center)
+![Obrázek Myrha](https://cdn.pixabay.com/photo/2018/02/26/17/48/nature-3183605_1280.jpg#center)
 
 
 ## 9. listopadu – Narozeninová květina: Myrha

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Řeřišnice luční](https://cdn.pixabay.com/photo/2020/04/13/17/30/cuckoo-5039419_640.jpg#center)
+![Obrázek Řeřišnice luční](https://cdn.pixabay.com/photo/2020/04/13/17/30/cuckoo-5039419_1280.jpg#center)
 
 
 ## 3. února – Narozeninová květina: Řeřišnice luční

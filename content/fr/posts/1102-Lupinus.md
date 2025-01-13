@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Lupin](https://cdn.pixabay.com/photo/2019/10/29/08/38/grass-4586431_640.jpg#center)
+![Image de Lupin](https://cdn.pixabay.com/photo/2019/10/29/08/38/grass-4586431_1280.jpg#center)
 
 
 ## Portrait botanique de Lupin (Lupinus)

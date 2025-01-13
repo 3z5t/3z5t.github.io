@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ツル植物のイメージ](https://cdn.pixabay.com/photo/2016/06/12/22/30/wall-1453158_640.jpg#center)
+![ツル植物のイメージ](https://cdn.pixabay.com/photo/2016/06/12/22/30/wall-1453158_1280.jpg#center)
 
 
 ## ツル植物に関する説明

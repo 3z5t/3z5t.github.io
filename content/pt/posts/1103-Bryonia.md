@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Briônia](https://cdn.pixabay.com/photo/2022/05/13/10/21/bryonia-7193340_640.jpg#center)
+![Imagem de Briônia](https://cdn.pixabay.com/photo/2022/05/13/10/21/bryonia-7193340_1280.jpg#center)
 
 
 ## Flor de nascimento de 3 de novembro: Briônia

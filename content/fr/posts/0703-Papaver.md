@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Pavot blanc](https://cdn.pixabay.com/photo/2021/05/14/19/21/poppy-6254293_640.jpg#center)
+![Image de Pavot blanc](https://cdn.pixabay.com/photo/2021/05/14/19/21/poppy-6254293_1280.jpg#center)
 
 
 ## Pavot blanc (Papaver), la fleur du 3 juillet

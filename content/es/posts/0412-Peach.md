@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Melocotonero](https://cdn.pixabay.com/photo/2017/07/20/19/18/peach-blossom-2523391_640.jpg#center)
+![Imagen de Melocotonero](https://cdn.pixabay.com/photo/2017/07/20/19/18/peach-blossom-2523391_1280.jpg#center)
 
 
 ## Melocotonero, la Flor del Nacimiento del 12 de Abril

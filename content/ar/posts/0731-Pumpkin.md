@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة اليَقطين](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_640.jpg#center)
+![صورة اليَقطين](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_1280.jpg#center)
 
 ## زهرة ميلاد ٣١ يوليو: اليَقطين
 

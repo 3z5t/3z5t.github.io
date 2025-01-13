@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Lobélia](https://cdn.pixabay.com/photo/2017/06/05/16/17/praise-lien-2374492_640.jpg#center)
+![Imagem de Lobélia](https://cdn.pixabay.com/photo/2017/06/05/16/17/praise-lien-2374492_1280.jpg#center)
 
 
 ## Flor de nascimento de 30 de outubro: Lobélia

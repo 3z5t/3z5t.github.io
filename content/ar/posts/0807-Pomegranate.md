@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الرُّمّان](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_640.jpg#center)
+![صورة الرُّمّان](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_1280.jpg#center)
 
 ## زهرة ميلاد ٧ أغسطس: الرُّمّان
 

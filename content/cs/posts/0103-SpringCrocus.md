@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Jarní krokus](https://cdn.pixabay.com/photo/2014/02/10/08/17/flowers-263278_640.jpg#center)
+![Obrázek Jarní krokus](https://cdn.pixabay.com/photo/2014/02/10/08/17/flowers-263278_1280.jpg#center)
 
 
 ## 3. ledna – Narozeninová květina: Jarní krokus

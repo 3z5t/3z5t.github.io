@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة لَويزة لَيمونِيَّة](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_640.jpg#center)
+![صورة لَويزة لَيمونِيَّة](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_1280.jpg#center)
 
 ## زهرة ميلاد ١٣ نوفمبر: لَويزة لَيمونِيَّة
 

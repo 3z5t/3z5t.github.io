@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Romãzeira](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_640.jpg#center)
+![Imagem de Romãzeira](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_1280.jpg#center)
 
 
 ## Flor de nascimento de 7 de agosto: Romãzeira

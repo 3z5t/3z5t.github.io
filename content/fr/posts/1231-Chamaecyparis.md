@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Cyprès chauve](https://cdn.pixabay.com/photo/2015/09/17/13/36/hinoki-944147_640.jpg#center)
+![Image de Cyprès chauve](https://cdn.pixabay.com/photo/2015/09/17/13/36/hinoki-944147_1280.jpg#center)
 
 
 ### Portrait botanique de Cyprès chauve (Chamaecyparis)

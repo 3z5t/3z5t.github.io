@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![百里香的图片](https://cdn.pixabay.com/photo/2020/05/07/12/57/thyme-5141399_640.jpg#center)
+![百里香的图片](https://cdn.pixabay.com/photo/2020/05/07/12/57/thyme-5141399_1280.jpg#center)
 
 
 ## 百里香的描述

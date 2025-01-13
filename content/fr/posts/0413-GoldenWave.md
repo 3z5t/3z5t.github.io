@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Vague dorée](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_640.jpg#center)
+![Image de Vague dorée](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_1280.jpg#center)
 
 
 ## Vague dorée (_Coreopsis tinctoria_), la fleur du 13 avril : Une onde de lumière et d’ambition compétitive

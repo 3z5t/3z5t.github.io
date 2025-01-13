@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![雪松的图片](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_640.jpg#center)
+![雪松的图片](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_1280.jpg#center)
 
 ## 雪松的描述
 

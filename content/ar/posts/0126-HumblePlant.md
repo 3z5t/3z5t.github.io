@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة شجر الميموزا](https://cdn.pixabay.com/photo/2022/06/07/22/59/flower-7249417_640.jpg#center)
+![صورة شجر الميموزا](https://cdn.pixabay.com/photo/2022/06/07/22/59/flower-7249417_1280.jpg#center)
 
 ## زهرة ميلاد ٢٦ يناير: شجر الميموزا
 

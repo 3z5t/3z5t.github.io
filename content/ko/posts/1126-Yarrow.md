@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![서양톱풀의 이미지](https://cdn.pixabay.com/photo/2018/09/16/11/10/yarrow-plant-3681169_640.jpg#center)
+![서양톱풀의 이미지](https://cdn.pixabay.com/photo/2018/09/16/11/10/yarrow-plant-3681169_1280.jpg#center)
 
 
 ### 11월 26일의 꽃: 서양톱풀 (Yarrow)

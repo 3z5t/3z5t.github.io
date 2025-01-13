@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Jonquille](https://cdn.pixabay.com/photo/2022/04/02/12/29/wild-daffodils-7106921_640.jpg#center)
+![Bild von Jonquille](https://cdn.pixabay.com/photo/2022/04/02/12/29/wild-daffodils-7106921_1280.jpg#center)
 
 
 ## Geburtsblume des 2. Januar: Jonquille

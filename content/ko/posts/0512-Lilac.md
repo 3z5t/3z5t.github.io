@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![라일락의 이미지](https://cdn.pixabay.com/photo/2019/05/05/21/02/lilac-4181712_640.jpg#center)
+![라일락의 이미지](https://cdn.pixabay.com/photo/2019/05/05/21/02/lilac-4181712_1280.jpg#center)
 
 
 ### 라일락(Lilac): 봄의 상징과 사랑의 꽃

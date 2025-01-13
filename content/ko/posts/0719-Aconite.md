@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![백부자의 이미지](https://cdn.pixabay.com/photo/2020/06/20/19/50/aconite-5322278_640.jpg#center)
+![백부자의 이미지](https://cdn.pixabay.com/photo/2020/06/20/19/50/aconite-5322278_1280.jpg#center)
 
 
 ### 백부자(Aconite) : 신비로운 아름다움과 그 상징

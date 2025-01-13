@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Bez černý](https://cdn.pixabay.com/photo/2017/06/20/07/56/elder-2422131_640.jpg#center)
+![Obrázek Bez černý](https://cdn.pixabay.com/photo/2017/06/20/07/56/elder-2422131_1280.jpg#center)
 
 
 ## 25. července – Narozeninová květina: Bez černý

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة زهر الهياسنث](https://cdn.pixabay.com/photo/2016/03/24/22/09/hyacinthus-orientalis-1277753_640.jpg#center)
+![صورة زهر الهياسنث](https://cdn.pixabay.com/photo/2016/03/24/22/09/hyacinthus-orientalis-1277753_1280.jpg#center)
 
 ## زهرة ميلاد ٤ يناير: زهر الهياسنث
 

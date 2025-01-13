@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Chmel otáčivý](https://cdn.pixabay.com/photo/2014/08/04/18/12/hop-vines-409870_640.jpg#center)
+![Obrázek Chmel otáčivý](https://cdn.pixabay.com/photo/2014/08/04/18/12/hop-vines-409870_1280.jpg#center)
 
 
 ## 4. října – Narozeninová květina: Chmel otáčivý

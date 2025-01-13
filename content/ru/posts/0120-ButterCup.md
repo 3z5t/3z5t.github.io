@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Изображение Лютик](https://cdn.pixabay.com/photo/2022/03/27/10/45/lesser-celandine-7094719_640.jpg#center)
+![Изображение Лютик](https://cdn.pixabay.com/photo/2022/03/27/10/45/lesser-celandine-7094719_1280.jpg#center)
 
 
 ## Лютик: Цветок Чистоты и Невинности

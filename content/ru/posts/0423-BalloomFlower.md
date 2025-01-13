@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Платикодон крупноцветковый](https://cdn.pixabay.com/photo/2018/11/30/16/48/bellflower-flower-3848146_640.jpg#center)
+![Изображение Платикодон крупноцветковый](https://cdn.pixabay.com/photo/2018/11/30/16/48/bellflower-flower-3848146_1280.jpg#center)
 
 ## Платикодон крупноцветковый: Символ Доброты и Нежности
 

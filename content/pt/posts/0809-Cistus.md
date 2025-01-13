@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Esteva](https://cdn.pixabay.com/photo/2020/04/13/16/49/laden-5039229_640.jpg#center)
+![Imagem de Esteva](https://cdn.pixabay.com/photo/2020/04/13/16/49/laden-5039229_1280.jpg#center)
 
 
 ## Flor de nascimento de 9 de agosto: Esteva

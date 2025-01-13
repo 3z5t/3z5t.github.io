@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Lúpulo Comum](https://cdn.pixabay.com/photo/2014/08/04/18/12/hop-vines-409870_640.jpg#center)
+![Imagem de Lúpulo Comum](https://cdn.pixabay.com/photo/2014/08/04/18/12/hop-vines-409870_1280.jpg#center)
 
 
 ## Flor de nascimento de 4 de outubro: Lúpulo Comum

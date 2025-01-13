@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Manzanilla](https://cdn.pixabay.com/photo/2018/06/29/22/51/chamomile-3506765_640.jpg#center)
+![Imagen de Manzanilla](https://cdn.pixabay.com/photo/2018/06/29/22/51/chamomile-3506765_1280.jpg#center)
 
 
 ## Manzanilla, la Flor del Nacimiento del 14 de Febrero

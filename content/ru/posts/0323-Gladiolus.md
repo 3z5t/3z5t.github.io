@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Гладиолус](https://cdn.pixabay.com/photo/2020/07/13/18/56/flowers-5401735_640.jpg#center)
+![Изображение Гладиолус](https://cdn.pixabay.com/photo/2020/07/13/18/56/flowers-5401735_1280.jpg#center)
 
 
 ## Гладиолус: Символ Пылкой Любви

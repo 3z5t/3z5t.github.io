@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![석류의 이미지](https://cdn.pixabay.com/photo/2017/10/07/05/33/pomegranate-2825556_640.jpg#center)
+![석류의 이미지](https://cdn.pixabay.com/photo/2017/10/07/05/33/pomegranate-2825556_1280.jpg#center)
 
 
 ### 석류(Pomegranate)

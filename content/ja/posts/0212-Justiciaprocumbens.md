@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![キツネノマゴのイメージ](https://cdn.pixabay.com/photo/2013/03/07/15/36/asperugo-procumbens-91224_640.jpg#center)
+![キツネノマゴのイメージ](https://cdn.pixabay.com/photo/2013/03/07/15/36/asperugo-procumbens-91224_1280.jpg#center)
 
 
 ## キツネノマゴに関する説明

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Golden-Chain](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_640.jpg#center)
+![Image of Golden-Chain](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_1280.jpg#center)
 
 
 ### Description of Golden-Chain

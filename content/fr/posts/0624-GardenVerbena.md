@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Verveine officinale](https://cdn.pixabay.com/photo/2015/05/07/07/58/flowers-756181_640.jpg#center)
+![Image de Verveine officinale](https://cdn.pixabay.com/photo/2015/05/07/07/58/flowers-756181_1280.jpg#center)
 
 
 ## Verveine officinale (Garden Verbena), la fleur du 24 juin

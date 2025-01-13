@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![大麥的图片](https://cdn.pixabay.com/photo/2018/03/19/20/20/wheat-3241114_640.jpg#center)
+![大麥的图片](https://cdn.pixabay.com/photo/2018/03/19/20/20/wheat-3241114_1280.jpg#center)
 
 
 ## 大麦的描述

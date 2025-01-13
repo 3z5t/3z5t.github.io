@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![이미지](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_640.jpg#center)
+![이미지](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_1280.jpg#center)
 
 안녕하세요, 오늘은 2월 25일에 어울리는 사향장미에 대해 이야기하려고 합니다. 사향장미는 그 특유의 향기와 아름다움으로 많은 이들을 매료시키는데요.
 

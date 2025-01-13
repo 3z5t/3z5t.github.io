@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ユキヤナギのイメージ](https://cdn.pixabay.com/photo/2020/04/21/04/50/meadowsweet-trees-5070844_640.jpg#center)
+![ユキヤナギのイメージ](https://cdn.pixabay.com/photo/2020/04/21/04/50/meadowsweet-trees-5070844_1280.jpg#center)
 
 
 ## ユキヤナギについて

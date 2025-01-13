@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![복사꽃의 이미지](https://cdn.pixabay.com/photo/2017/07/20/19/18/peach-blossom-2523391_640.jpg#center)
+![복사꽃의 이미지](https://cdn.pixabay.com/photo/2017/07/20/19/18/peach-blossom-2523391_1280.jpg#center)
 
 ### 복사꽃(Peach)에 대한 설명
 

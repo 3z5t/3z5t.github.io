@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Caléndula](https://cdn.pixabay.com/photo/2018/07/10/11/11/marigold-3528402_640.jpg#center)
+![Imagen de Caléndula](https://cdn.pixabay.com/photo/2018/07/10/11/11/marigold-3528402_1280.jpg#center)
 
 
 ## Caléndula: La Flor del 24 de Agosto, Símbolo de la Melancolía de la Ausencia

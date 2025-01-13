@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Trille](https://cdn.pixabay.com/photo/2018/05/19/14/37/trillium-3413621_640.jpg#center)
+![Image de Trille](https://cdn.pixabay.com/photo/2018/05/19/14/37/trillium-3413621_1280.jpg#center)
 
 
 ## Trille (Trillium), la fleur du 24 juillet

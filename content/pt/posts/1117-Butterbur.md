@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Petasita](https://cdn.pixabay.com/photo/2015/09/24/17/19/hunt-955953_640.jpg#center)
+![Imagem de Petasita](https://cdn.pixabay.com/photo/2015/09/24/17/19/hunt-955953_1280.jpg#center)
 
 
 ## Flor de nascimento de 17 de novembro: Petasita

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Vergissmeinnicht](https://cdn.pixabay.com/photo/2018/05/04/15/44/blue-3374250_640.jpg#center)
+![Bild von Vergissmeinnicht](https://cdn.pixabay.com/photo/2018/05/04/15/44/blue-3374250_1280.jpg#center)
 
 
 ## Geburtsblume des 7. Februar: Vergissmeinnicht

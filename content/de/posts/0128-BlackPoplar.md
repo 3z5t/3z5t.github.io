@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Schwarzpappel](https://cdn.pixabay.com/photo/2012/10/09/06/00/leaves-60488_640.jpg#center)
+![Bild von Schwarzpappel](https://cdn.pixabay.com/photo/2012/10/09/06/00/leaves-60488_1280.jpg#center)
 
 
 ## Geburtsblume des 28. Januar: Schwarzpappel

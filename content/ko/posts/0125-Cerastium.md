@@ -11,7 +11,7 @@ tags:
   - 탄생화
   - 꽃
 ---
-![꽃 사진](https://cdn.pixabay.com/photo/2019/05/12/19/11/downy-madarhur-4198805_640.jpg#center)
+![꽃 사진](https://cdn.pixabay.com/photo/2019/05/12/19/11/downy-madarhur-4198805_1280.jpg#center)
 점나도나물은 그 순수한 아름다움과 소박한 매력으로 많은 사람들에게 사랑받고 있습니다. 오늘은 점나도나물에 대한 자세한 정보를 알려드리겠습니다.
 
 

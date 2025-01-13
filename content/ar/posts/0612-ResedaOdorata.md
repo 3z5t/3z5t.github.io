@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة بليحاء](https://cdn.pixabay.com/photo/2015/01/18/18/59/wau-603313_640.jpg#center)
+![صورة بليحاء](https://cdn.pixabay.com/photo/2015/01/18/18/59/wau-603313_1280.jpg#center)
 
 ## زهرة ميلاد ١٢ يونيو: بليحاء
 

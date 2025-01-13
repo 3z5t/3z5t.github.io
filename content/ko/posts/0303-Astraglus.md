@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![자운영의 이미지](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_640.jpg#center)
+![자운영의 이미지](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_1280.jpg#center)
 
 안녕하세요, 여러분. 오늘은 3월 3일을 빛내는 자운영(Astragalus)에 대해 알아보겠습니다.
 

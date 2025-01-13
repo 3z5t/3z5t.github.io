@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Crisântemo](https://cdn.pixabay.com/photo/2021/09/27/16/46/chrysanthemums-6661564_640.jpg#center)
+![Imagem de Crisântemo](https://cdn.pixabay.com/photo/2021/09/27/16/46/chrysanthemums-6661564_1280.jpg#center)
 
 
 ## Flor de nascimento de 9 de dezembro: Crisântemo

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![シロバナヨウシュチョウセンアサガオのイメージ](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_640.jpg#center)
+![シロバナヨウシュチョウセンアサガオのイメージ](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_1280.jpg#center)
 
 
 ## シロバナヨウシュチョウセンアサガオ（Datura Metel）について

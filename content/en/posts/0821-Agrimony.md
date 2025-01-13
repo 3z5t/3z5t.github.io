@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Agrimony](https://cdn.pixabay.com/photo/2020/06/28/14/37/agrimony-flower-5349515_640.jpg#center)
+![Image of Agrimony](https://cdn.pixabay.com/photo/2020/06/28/14/37/agrimony-flower-5349515_1280.jpg#center)
 
 
 ### Description of Agrimony

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![小蒼蘭的图片](https://cdn.pixabay.com/photo/2019/10/04/22/30/flower-4526658_640.jpg#center)
+![小蒼蘭的图片](https://cdn.pixabay.com/photo/2019/10/04/22/30/flower-4526658_1280.jpg#center)
 
 
 ## 小蒼蘭的描述

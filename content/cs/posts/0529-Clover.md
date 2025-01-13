@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Jetel](https://cdn.pixabay.com/photo/2018/09/03/09/02/clover-3650704_640.jpg#center)
+![Obrázek Jetel](https://cdn.pixabay.com/photo/2018/09/03/09/02/clover-3650704_1280.jpg#center)
 
 
 ## 29. května – Narozeninová květina: Jetel

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Fúcsia](https://cdn.pixabay.com/photo/2013/09/03/19/25/fuchsia-178705_640.jpg#center)
+![Imagem de Fúcsia](https://cdn.pixabay.com/photo/2013/09/03/19/25/fuchsia-178705_1280.jpg#center)
 
 
 ## Flor de nascimento de 22 de maio: Fúcsia

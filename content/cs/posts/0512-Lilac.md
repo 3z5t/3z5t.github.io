@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Šeřík obecný](https://cdn.pixabay.com/photo/2019/05/05/21/02/lilac-4181712_640.jpg#center)
+![Obrázek Šeřík obecný](https://cdn.pixabay.com/photo/2019/05/05/21/02/lilac-4181712_1280.jpg#center)
 
 ## 12. května – Narozeninová květina: Šeřík obecný
 

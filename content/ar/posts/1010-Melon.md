@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة بطيخ](https://cdn.pixabay.com/photo/2022/04/01/14/43/melon-flower-7104975_640.jpg#center)
+![صورة بطيخ](https://cdn.pixabay.com/photo/2022/04/01/14/43/melon-flower-7104975_1280.jpg#center)
 
 ## زهرة ميلاد ١٠ أكتوبر: بطيخ
 

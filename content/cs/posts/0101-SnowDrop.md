@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Sněženka](https://cdn.pixabay.com/photo/2020/02/24/10/51/flower-4875870_640.jpg#center)
+![Obrázek Sněženka](https://cdn.pixabay.com/photo/2020/02/24/10/51/flower-4875870_1280.jpg#center)
 
 ## 1. ledna – Narozeninová květina: Sněženka
 

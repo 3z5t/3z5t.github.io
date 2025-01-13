@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Rosa Tudor](https://cdn.pixabay.com/photo/2014/03/30/13/01/rose-301406_640.jpg#center)
+![Imagem de Rosa Tudor](https://cdn.pixabay.com/photo/2014/03/30/13/01/rose-301406_1280.jpg#center)
 
 
 ## Flor de nascimento de 23 de julho: Rosa Tudor

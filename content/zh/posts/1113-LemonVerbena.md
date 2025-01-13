@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![檸檬馬鞭草的图片](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_640.jpg#center)
+![檸檬馬鞭草的图片](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_1280.jpg#center)
 
 
 ## 檸檬馬鞭草的描述

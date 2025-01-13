@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Butterblume](https://cdn.pixabay.com/photo/2022/03/27/10/45/lesser-celandine-7094719_640.jpg#center)
+![Bild von Butterblume](https://cdn.pixabay.com/photo/2022/03/27/10/45/lesser-celandine-7094719_1280.jpg#center)
 
 
 ## Geburtsblume des 20. Januar: Butterblume

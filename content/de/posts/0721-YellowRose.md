@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Gelbe Rose](https://cdn.pixabay.com/photo/2021/04/08/18/59/yellow-rose-6162613_640.jpg#center)
+![Bild von Gelbe Rose](https://cdn.pixabay.com/photo/2021/04/08/18/59/yellow-rose-6162613_1280.jpg#center)
 
 
 ## Geburtsblume des 21. Juli: Gelbe Rose

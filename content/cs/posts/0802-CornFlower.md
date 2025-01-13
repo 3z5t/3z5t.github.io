@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Chrpa modrá](https://cdn.pixabay.com/photo/2018/05/17/17/25/cornflowers-3409140_640.jpg#center)
+![Obrázek Chrpa modrá](https://cdn.pixabay.com/photo/2018/05/17/17/25/cornflowers-3409140_1280.jpg#center)
 
 
 ## 2. srpna – Narozeninová květina: Chrpa modrá

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة لَبلاب المَكسيك](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_640.jpg#center)
+![صورة لَبلاب المَكسيك](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_1280.jpg#center)
 
 ## زهرة ميلاد ٢ سبتمبر: لَبلاب المَكسيك
 

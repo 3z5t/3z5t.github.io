@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Cardamine](https://cdn.pixabay.com/photo/2020/04/13/17/30/cuckoo-5039419_640.jpg#center)
+![Image of Cardamine](https://cdn.pixabay.com/photo/2020/04/13/17/30/cuckoo-5039419_1280.jpg#center)
 
 
 ## Cardamine: The Birth Flower of February 3rd

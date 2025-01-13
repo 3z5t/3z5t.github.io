@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Apfelbaum](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_640.jpg#center)
+![Bild von Apfelbaum](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_1280.jpg#center)
 
 
 ## Geburtsblume des 29. September: Apfelbaum

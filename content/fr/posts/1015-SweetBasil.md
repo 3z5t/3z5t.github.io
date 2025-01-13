@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Basilic sacré](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_640.jpg#center)
+![Image de Basilic sacré](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_1280.jpg#center)
 
 
 ## Portrait botanique de Basilic sacré

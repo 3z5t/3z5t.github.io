@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![旱金蓮的图片](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_640.jpg#center)
+![旱金蓮的图片](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_1280.jpg#center)
 
 
 ## 旱金蓮的描述

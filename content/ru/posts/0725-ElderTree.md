@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Бузина чёрная](https://cdn.pixabay.com/photo/2017/06/20/07/56/elder-2422131_640.jpg#center)
+![Изображение Бузина чёрная](https://cdn.pixabay.com/photo/2017/06/20/07/56/elder-2422131_1280.jpg#center)
 
 ## Бузина чёрная (Elder-Tree): Символ трудолюбия
 

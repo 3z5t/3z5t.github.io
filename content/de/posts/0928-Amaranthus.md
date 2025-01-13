@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Gartenfuchsschwanz](https://cdn.pixabay.com/photo/2017/09/20/19/42/foxtail-2769772_640.jpg#center)
+![Bild von Gartenfuchsschwanz](https://cdn.pixabay.com/photo/2017/09/20/19/42/foxtail-2769772_1280.jpg#center)
 
 
 ## Geburtsblume des 28. September: Gartenfuchsschwanz

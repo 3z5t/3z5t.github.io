@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Sorbus](https://cdn.pixabay.com/photo/2013/12/09/12/21/mountain-ash-225903_640.jpg#center)
+![Image of Sorbus](https://cdn.pixabay.com/photo/2013/12/09/12/21/mountain-ash-225903_1280.jpg#center)
 
 
 ## Sorbus: The Birth Flower of January 27th

@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Prunier chinois](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_640.jpg#center)
+![Image de Prunier chinois](https://cdn.pixabay.com/photo/2021/03/07/08/28/plum-blossom-6075483_1280.jpg#center)
 
 
 ## Portrait botanique de Prunier chinois (Prunus mume)

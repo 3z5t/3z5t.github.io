@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Gladiolus](https://cdn.pixabay.com/photo/2020/07/13/18/56/flowers-5401735_640.jpg#center)
+![Obrázek Gladiolus](https://cdn.pixabay.com/photo/2020/07/13/18/56/flowers-5401735_1280.jpg#center)
 
 
 ## 23. března – Narozeninová květina: Gladiolus

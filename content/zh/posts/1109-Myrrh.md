@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![沒藥的图片](https://cdn.pixabay.com/photo/2018/02/26/17/48/nature-3183605_640.jpg#center)
+![沒藥的图片](https://cdn.pixabay.com/photo/2018/02/26/17/48/nature-3183605_1280.jpg#center)
 
 
 ## 沒藥的描述

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ジャスミンのイメージ](https://cdn.pixabay.com/photo/2020/06/06/15/48/scent-of-jasmine-5267072_640.jpg#center)
+![ジャスミンのイメージ](https://cdn.pixabay.com/photo/2020/06/06/15/48/scent-of-jasmine-5267072_1280.jpg#center)
 
 
 ## ジャスミンに関する説明

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Zimolez](https://cdn.pixabay.com/photo/2018/08/13/04/58/flower-3602283_640.jpg#center)
+![Obrázek Zimolez](https://cdn.pixabay.com/photo/2018/08/13/04/58/flower-3602283_1280.jpg#center)
 
 
 ## 30. června – Narozeninová květina: Zimolez

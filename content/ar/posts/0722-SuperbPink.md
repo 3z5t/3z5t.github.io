@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة قَرَنفُل قَوس قُزَح](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_640.jpg#center)
+![صورة قَرَنفُل قَوس قُزَح](https://cdn.pixabay.com/photo/2015/08/12/12/04/dianthus-885812_1280.jpg#center)
 
 ## زهرة ميلاد ٢٢ يوليو: قَرَنفُل قَوس قُزَح
 

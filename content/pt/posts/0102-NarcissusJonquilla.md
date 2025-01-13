@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Narciso-junquilho](https://cdn.pixabay.com/photo/2022/04/02/12/29/wild-daffodils-7106921_640.jpg#center)
+![Imagem de Narciso-junquilho](https://cdn.pixabay.com/photo/2022/04/02/12/29/wild-daffodils-7106921_1280.jpg#center)
 
 ## Flor de nascimento de 2 de janeiro: Narciso-junquilho
 

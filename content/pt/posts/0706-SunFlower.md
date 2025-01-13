@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Girassol](https://cdn.pixabay.com/photo/2022/07/30/14/35/sunflowers-7353922_640.jpg#center)
+![Imagem de Girassol](https://cdn.pixabay.com/photo/2022/07/30/14/35/sunflowers-7353922_1280.jpg#center)
 
 ## Flor de nascimento de 6 de julho: Girassol
 

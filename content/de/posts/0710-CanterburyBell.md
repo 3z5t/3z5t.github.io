@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Glockenblume](https://cdn.pixabay.com/photo/2018/12/31/02/18/lanterns-3904294_640.jpg#center)
+![Bild von Glockenblume](https://cdn.pixabay.com/photo/2018/12/31/02/18/lanterns-3904294_1280.jpg#center)
 
 
 ## Geburtsblume des 10. Juli: Glockenblume

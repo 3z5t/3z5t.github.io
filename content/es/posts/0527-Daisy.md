@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Margarita](https://cdn.pixabay.com/photo/2018/05/23/23/10/daisies-3425426_640.jpg#center)
+![Imagen de Margarita](https://cdn.pixabay.com/photo/2018/05/23/23/10/daisies-3425426_1280.jpg#center)
 
 
 ## Margarita, la Flor del Nacimiento del 27 de Mayo

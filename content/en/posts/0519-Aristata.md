@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Aristata](https://cdn.pixabay.com/photo/2014/12/05/01/21/gaillardia-557400_640.jpg#center)
+![Image of Aristata](https://cdn.pixabay.com/photo/2014/12/05/01/21/gaillardia-557400_1280.jpg#center)
 
 
 ### Description of Aristata

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![미나리아재비의 이미지](https://cdn.pixabay.com/photo/2015/05/04/20/26/buttercup-752927_640.jpg#center)
+![미나리아재비의 이미지](https://cdn.pixabay.com/photo/2015/05/04/20/26/buttercup-752927_1280.jpg#center)
 
 
 ### 미나리아재비(Butter Cup): 3월 2일의 매혹적인 꽃

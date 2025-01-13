@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![토끼풀의 이미지](https://cdn.pixabay.com/photo/2018/10/23/19/10/clover-3768689_640.jpg#center)
+![토끼풀의 이미지](https://cdn.pixabay.com/photo/2018/10/23/19/10/clover-3768689_1280.jpg#center)
 
 
 ### 8월 31일의 꽃: 토끼풀(Clover)

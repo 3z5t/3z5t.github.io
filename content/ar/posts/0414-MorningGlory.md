@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة مَجْدُ الصّبَاح الأبيض](https://cdn.pixabay.com/photo/2021/08/09/15/36/morning-glory-6533658_640.jpg#center)
+![صورة مَجْدُ الصّبَاح الأبيض](https://cdn.pixabay.com/photo/2021/08/09/15/36/morning-glory-6533658_1280.jpg#center)
 
 ## زهرة ميلاد ١٤ أبريل: مَجْدُ الصّبَاح الأبيض
 

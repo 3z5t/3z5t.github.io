@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Cerastio](https://cdn.pixabay.com/photo/2019/05/12/19/11/downy-madarhur-4198805_640.jpg#center)
+![Imagen de Cerastio](https://cdn.pixabay.com/photo/2019/05/12/19/11/downy-madarhur-4198805_1280.jpg#center)
 
 
 ## Cerastio, la Flor del Nacimiento del 25 de Enero

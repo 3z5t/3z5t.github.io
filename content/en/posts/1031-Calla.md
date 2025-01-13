@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Calla](https://cdn.pixabay.com/photo/2020/11/18/07/47/calla-lily-5754565_640.jpg#center)
+![Image of Calla](https://cdn.pixabay.com/photo/2020/11/18/07/47/calla-lily-5754565_1280.jpg#center)
 
 
 ### Description of Calla

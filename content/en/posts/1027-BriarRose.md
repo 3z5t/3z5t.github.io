@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Briar Rose](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_640.jpg#center)
+![Image of Briar Rose](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_1280.jpg#center)
 
 
 ### Description of Briar Rose

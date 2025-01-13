@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![杏仁的图片](https://cdn.pixabay.com/photo/2020/03/15/13/11/almond-tree-4933573_640.jpg#center)
+![杏仁的图片](https://cdn.pixabay.com/photo/2020/03/15/13/11/almond-tree-4933573_1280.jpg#center)
 
 
 ## 杏仁的描述

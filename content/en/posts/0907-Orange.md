@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Orange](https://cdn.pixabay.com/photo/2019/04/26/16/14/orange-flower-4157944_640.jpg#center)
+![Image of Orange](https://cdn.pixabay.com/photo/2019/04/26/16/14/orange-flower-4157944_1280.jpg#center)
 
 
 ### Description of Orange

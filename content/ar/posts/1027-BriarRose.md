@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة وَرد السِّياج](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_640.jpg#center)
+![صورة وَرد السِّياج](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_1280.jpg#center)
 
 ## زهرة ميلاد ٢٧ أكتوبر: وَرد السِّياج
 

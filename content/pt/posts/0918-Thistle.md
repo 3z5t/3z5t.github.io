@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Cardo](https://cdn.pixabay.com/photo/2018/07/05/02/49/thistle-3517440_640.jpg#center)
+![Imagem de Cardo](https://cdn.pixabay.com/photo/2018/07/05/02/49/thistle-3517440_1280.jpg#center)
 
 
 ## Flor de nascimento de 18 de setembro: Cardo

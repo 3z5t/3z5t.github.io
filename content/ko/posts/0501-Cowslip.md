@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![카우슬립 앵초의 이미지](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_640.jpg#center)
+![카우슬립 앵초의 이미지](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_1280.jpg#center)
 
 
 ### 카우슬립 앵초(Cowslip)에 대한 설명

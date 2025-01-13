@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![石榴的图片](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_640.jpg#center)
+![石榴的图片](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_1280.jpg#center)
 
 
 ## 石榴的描述

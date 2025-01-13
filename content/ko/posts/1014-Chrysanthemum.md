@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![흰색 국화의 이미지](https://cdn.pixabay.com/photo/2022/08/17/15/21/flower-7392770_640.jpg#center)
+![흰색 국화의 이미지](https://cdn.pixabay.com/photo/2022/08/17/15/21/flower-7392770_1280.jpg#center)
 
 
 ### 10월 14일의 꽃: 흰색 국화(Chrysanthemum)

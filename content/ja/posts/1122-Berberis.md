@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![メギのイメージ](https://cdn.pixabay.com/photo/2023/06/01/07/04/flowers-8032934_640.jpg#center)
+![メギのイメージ](https://cdn.pixabay.com/photo/2023/06/01/07/04/flowers-8032934_1280.jpg#center)
 
 
 ## メギに関する説明

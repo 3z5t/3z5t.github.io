@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Blemonium Coeruleum](https://cdn.pixabay.com/photo/2022/08/25/17/02/jacobs-ladder-7410808_640.jpg#center)
+![Image of Blemonium Coeruleum](https://cdn.pixabay.com/photo/2022/08/25/17/02/jacobs-ladder-7410808_1280.jpg#center)
 
 
 ### Description of Blemonium Coeruleum

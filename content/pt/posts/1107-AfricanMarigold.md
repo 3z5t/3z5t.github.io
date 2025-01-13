@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Calêndula](https://cdn.pixabay.com/photo/2022/07/03/14/40/marigold-7299451_640.jpg#center)
+![Imagem de Calêndula](https://cdn.pixabay.com/photo/2022/07/03/14/40/marigold-7299451_1280.jpg#center)
 
 
 ## Flor de nascimento de 7 de novembro: Calêndula

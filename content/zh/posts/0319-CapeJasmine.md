@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![梔子花的图片](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_640.jpg#center)
+![梔子花的图片](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_1280.jpg#center)
 
 
 ## 梔子花的描述

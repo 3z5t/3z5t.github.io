@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![독당근의 이미지](https://cdn.pixabay.com/photo/2022/08/21/14/15/hemlock-7401397_640.jpg#center)
+![독당근의 이미지](https://cdn.pixabay.com/photo/2022/08/21/14/15/hemlock-7401397_1280.jpg#center)
 
 
 ### 독당근(Conium Macutatum)의 설명

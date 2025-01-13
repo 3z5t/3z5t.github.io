@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ハナシノブのイメージ](https://cdn.pixabay.com/photo/2022/08/25/17/02/jacobs-ladder-7410808_640.jpg#center)
+![ハナシノブのイメージ](https://cdn.pixabay.com/photo/2022/08/25/17/02/jacobs-ladder-7410808_1280.jpg#center)
 
 
 ## ハナシノブに関する説明

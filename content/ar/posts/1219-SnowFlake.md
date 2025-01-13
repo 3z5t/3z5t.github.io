@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة ليوكوجوم](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_640.jpg#center)
+![صورة ليوكوجوم](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_1280.jpg#center)
 
 ## زهرة ميلاد ١٩ ديسمبر: ليوكوجوم
 

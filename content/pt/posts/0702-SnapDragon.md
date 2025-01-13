@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Boca-de-leão](https://cdn.pixabay.com/photo/2012/03/02/00/37/snapdragon-20809_640.jpg#center)
+![Imagem de Boca-de-leão](https://cdn.pixabay.com/photo/2012/03/02/00/37/snapdragon-20809_1280.jpg#center)
 
 
 ## Flor de nascimento de 2 de julho: Boca-de-leão

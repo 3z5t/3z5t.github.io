@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Solidago](https://cdn.pixabay.com/photo/2016/08/11/21/26/golden-rod-1586871_640.jpg#center)
+![Imagen de Solidago](https://cdn.pixabay.com/photo/2016/08/11/21/26/golden-rod-1586871_1280.jpg#center)
 
 
 ## Solidago: La Flor del 13 de Agosto, Guardiana de los Límites

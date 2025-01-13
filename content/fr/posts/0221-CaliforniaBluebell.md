@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Pavot bleu de Californie](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_640.jpg#center)
+![Image de Pavot bleu de Californie](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_1280.jpg#center)
 
 
 ## Pavot bleu de Californie (California Blue-bell), la fleur du 21 février : Un symbole vibrant de patriotisme et de liberté

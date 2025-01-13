@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Avena viva](https://cdn.pixabay.com/photo/2017/06/21/08/27/barley-2426466_640.jpg#center)
+![Imagen de Avena viva](https://cdn.pixabay.com/photo/2017/06/21/08/27/barley-2426466_1280.jpg#center)
 
 
 ## Avena Viva: La Flor del 25 de Septiembre, Símbolo de "Amor por la Música"

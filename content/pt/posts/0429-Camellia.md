@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Camélia](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_640.jpg#center)
+![Imagem de Camélia](https://cdn.pixabay.com/photo/2024/01/17/15/45/camellia-8514865_1280.jpg#center)
 
 ## Flor de nascimento de 29 de abril: Camélia
 

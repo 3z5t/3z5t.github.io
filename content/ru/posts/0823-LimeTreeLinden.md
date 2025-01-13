@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Липа сердцевидная](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_640.jpg#center)
+![Изображение Липа сердцевидная](https://cdn.pixabay.com/photo/2020/06/28/18/30/linde-5350285_1280.jpg#center)
 
 ## Липа сердцевидная — символ любви и верности
 

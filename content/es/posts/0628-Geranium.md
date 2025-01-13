@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Geranio](https://cdn.pixabay.com/photo/2020/06/02/10/21/flowers-5250327_640.jpg#center)
+![Imagen de Geranio](https://cdn.pixabay.com/photo/2020/06/02/10/21/flowers-5250327_1280.jpg#center)
 
 
 ## Geranio: La Flor de la Felicidad por Ti para el 28 de Junio

@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Citrouille](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_640.jpg#center)
+![Image de Citrouille](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_1280.jpg#center)
 
 
 ## Citrouille, la fleur du 31 juillet

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Weißklee](https://cdn.pixabay.com/photo/2018/09/03/09/02/clover-3650704_640.jpg#center)
+![Bild von Weißklee](https://cdn.pixabay.com/photo/2018/09/03/09/02/clover-3650704_1280.jpg#center)
 
 
 ## Geburtsblume des 29. Mai: Weißklee

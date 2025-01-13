@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Phus](https://cdn.pixabay.com/photo/2017/08/20/08/03/tree-2660826_640.jpg#center)
+![Imagem de Phus](https://cdn.pixabay.com/photo/2017/08/20/08/03/tree-2660826_1280.jpg#center)
 
 
 ## Flor de nascimento de 27 de novembro: Phus

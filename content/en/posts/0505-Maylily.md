@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of May lily](https://cdn.pixabay.com/photo/2018/03/21/22/26/nature-3248514_640.jpg#center)
+![Image of May lily](https://cdn.pixabay.com/photo/2018/03/21/22/26/nature-3248514_1280.jpg#center)
 
 
 ### Description of May Lily

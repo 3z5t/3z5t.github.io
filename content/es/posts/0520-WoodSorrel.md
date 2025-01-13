@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Acederilla](https://cdn.pixabay.com/photo/2015/08/25/09/31/oxalis-corniculata-906419_640.jpg#center)
+![Imagen de Acederilla](https://cdn.pixabay.com/photo/2015/08/25/09/31/oxalis-corniculata-906419_1280.jpg#center)
 
 
 ## Acederilla, la Flor del Nacimiento del 20 de Mayo

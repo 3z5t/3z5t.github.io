@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Fraise des jardins](https://cdn.pixabay.com/photo/2016/06/20/00/40/strawberries-1467902_640.jpg#center)
+![Image de Fraise des jardins](https://cdn.pixabay.com/photo/2016/06/20/00/40/strawberries-1467902_1280.jpg#center)
 
 
 ## Fraise des jardins (Strawberry), la fleur du 4 mai

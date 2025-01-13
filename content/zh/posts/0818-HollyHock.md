@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![蜀葵的图片](https://cdn.pixabay.com/photo/2020/07/01/04/55/korean-flower-5358423_640.jpg#center)
+![蜀葵的图片](https://cdn.pixabay.com/photo/2020/07/01/04/55/korean-flower-5358423_1280.jpg#center)
 
 
 ## 蜀葵的描述

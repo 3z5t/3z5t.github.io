@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Escalera de Jacob](https://cdn.pixabay.com/photo/2022/08/25/17/02/jacobs-ladder-7410808_640.jpg#center)
+![Imagen de Escalera de Jacob](https://cdn.pixabay.com/photo/2022/08/25/17/02/jacobs-ladder-7410808_1280.jpg#center)
 
 
 ## Escalera de Jacob, la Flor del Nacimiento del 11 de Abril

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Armeria](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_640.jpg#center)
+![Image of Armeria](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_1280.jpg#center)
 
 
 ### Description of Armeria

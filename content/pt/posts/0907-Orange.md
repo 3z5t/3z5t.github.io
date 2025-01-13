@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Laranjeira](https://cdn.pixabay.com/photo/2019/04/26/16/14/orange-flower-4157944_640.jpg#center)
+![Imagem de Laranjeira](https://cdn.pixabay.com/photo/2019/04/26/16/14/orange-flower-4157944_1280.jpg#center)
 
 ## Flor de nascimento de 7 de setembro: Laranjeira
 

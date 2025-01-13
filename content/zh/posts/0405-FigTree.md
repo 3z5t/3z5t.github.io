@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![無花果樹的图片](https://cdn.pixabay.com/photo/2016/09/10/08/09/fig-tree-1658686_640.jpg#center)
+![無花果樹的图片](https://cdn.pixabay.com/photo/2016/09/10/08/09/fig-tree-1658686_1280.jpg#center)
 
 
 ## 無花果樹的描述

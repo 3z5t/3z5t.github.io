@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Pomeranč](https://cdn.pixabay.com/photo/2019/04/26/16/14/orange-flower-4157944_640.jpg#center)
+![Obrázek Pomeranč](https://cdn.pixabay.com/photo/2019/04/26/16/14/orange-flower-4157944_1280.jpg#center)
 
 
 ## 7. září – Narozeninová květina: Pomeranč

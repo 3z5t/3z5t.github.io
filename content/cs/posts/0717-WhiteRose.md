@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Bílá růže](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_640.jpg#center)
+![Obrázek Bílá růže](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_1280.jpg#center)
 
 
 ## 17. července – Narozeninová květina: Bílá růže

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Горный астер](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_640.jpg#center)
+![Изображение Горный астер](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_1280.jpg#center)
 
 
 ### Горный Астер: Цветок 11 декабря

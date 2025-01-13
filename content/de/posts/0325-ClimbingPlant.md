@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Rankengewächs](https://cdn.pixabay.com/photo/2016/06/12/22/30/wall-1453158_640.jpg#center)
+![Bild von Rankengewächs](https://cdn.pixabay.com/photo/2016/06/12/22/30/wall-1453158_1280.jpg#center)
 
 
 ## Geburtsblume des 25. März: Rankengewächs

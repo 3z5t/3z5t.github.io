@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Thorn](https://cdn.pixabay.com/photo/2016/11/12/14/06/spur-1818848_640.jpg#center)
+![Image of Thorn](https://cdn.pixabay.com/photo/2016/11/12/14/06/spur-1818848_1280.jpg#center)
 
 
 ## Thorn: The Birth Flower of January 15th

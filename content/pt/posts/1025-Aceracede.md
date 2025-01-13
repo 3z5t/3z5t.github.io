@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Bordo Imperador Vermelho](https://cdn.pixabay.com/photo/2016/12/22/03/34/red-leaves-1924443_640.jpg#center)
+![Imagem de Bordo Imperador Vermelho](https://cdn.pixabay.com/photo/2016/12/22/03/34/red-leaves-1924443_1280.jpg#center)
 
 
 ## Flor de nascimento de 25 de outubro: Bordo Imperador Vermelho

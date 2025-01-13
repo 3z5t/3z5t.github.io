@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة تُفّاح](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_640.jpg#center)
+![صورة تُفّاح](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_1280.jpg#center)
 
 ## زهرة ميلاد ٢٩ سبتمبر: تُفّاح
 

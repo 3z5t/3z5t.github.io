@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الخَلَنْج](https://cdn.pixabay.com/photo/2016/11/30/05/29/erika-1871921_640.jpg#center)
+![صورة الخَلَنْج](https://cdn.pixabay.com/photo/2016/11/30/05/29/erika-1871921_1280.jpg#center)
 
 ## زهرة ميلاد ٥ أغسطس: الخَلَنْج
 

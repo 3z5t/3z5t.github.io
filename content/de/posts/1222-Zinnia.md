@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Zinnie](https://cdn.pixabay.com/photo/2017/09/28/15/27/dream-park-2795924_640.jpg#center)
+![Bild von Zinnie](https://cdn.pixabay.com/photo/2017/09/28/15/27/dream-park-2795924_1280.jpg#center)
 
 
 ## Geburtsblume des 22. Dezember: Zinnie

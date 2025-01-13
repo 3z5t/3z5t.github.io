@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Iris coreano](https://cdn.pixabay.com/photo/2022/02/21/14/31/iris-7026891_640.jpg#center)
+![Imagen de Iris coreano](https://cdn.pixabay.com/photo/2022/02/21/14/31/iris-7026891_1280.jpg#center)
 
 
 ## Iris Coreano, la Flor del Nacimiento del 6 de Junio

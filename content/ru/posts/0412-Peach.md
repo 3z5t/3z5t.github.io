@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Персик обыкновенный](https://cdn.pixabay.com/photo/2017/07/20/19/18/peach-blossom-2523391_640.jpg#center)
+![Изображение Персик обыкновенный](https://cdn.pixabay.com/photo/2017/07/20/19/18/peach-blossom-2523391_1280.jpg#center)
 
 ## Персик обыкновенный: Символ "Пленённый любовью"
 

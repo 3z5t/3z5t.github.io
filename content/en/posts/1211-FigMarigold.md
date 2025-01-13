@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Mountain Aster](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_640.jpg#center)
+![Image of Mountain Aster](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_1280.jpg#center)
 
 
 ## Mountain Aster: The Flower of December 11th

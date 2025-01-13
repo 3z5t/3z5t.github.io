@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![アサガオ（白）のイメージ](https://cdn.pixabay.com/photo/2021/08/09/15/36/morning-glory-6533658_640.jpg#center)
+![アサガオ（白）のイメージ](https://cdn.pixabay.com/photo/2021/08/09/15/36/morning-glory-6533658_1280.jpg#center)
 
 
 ## アサガオ（白）に関する説明

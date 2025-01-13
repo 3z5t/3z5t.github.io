@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الوَردة البَيضاء](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_640.jpg#center)
+![صورة الوَردة البَيضاء](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_1280.jpg#center)
 
 ## زهرة ميلاد ١٧ يوليو: الوَردة البَيضاء
 

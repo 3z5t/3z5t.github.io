@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Miosótis](https://cdn.pixabay.com/photo/2018/05/04/15/44/blue-3374250_640.jpg#center)
+![Imagem de Miosótis](https://cdn.pixabay.com/photo/2018/05/04/15/44/blue-3374250_1280.jpg#center)
 
 ## Flor de nascimento de 7 de fevereiro: Miosótis
 

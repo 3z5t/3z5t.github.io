@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Василёк синий](https://cdn.pixabay.com/photo/2018/05/17/17/25/cornflowers-3409140_640.jpg#center)
+![Изображение Василёк синий](https://cdn.pixabay.com/photo/2018/05/17/17/25/cornflowers-3409140_1280.jpg#center)
 
 ## Василёк синий: Символ безмятежного счастья
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Cedr](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_640.jpg#center)
+![Obrázek Cedr](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_1280.jpg#center)
 
 
 ## 30. září – Narozeninová květina: Cedr

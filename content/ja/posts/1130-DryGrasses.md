@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![枯れ葉/落ち葉のイメージ](https://cdn.pixabay.com/photo/2015/12/11/11/01/leaves-1087952_640.jpg#center)
+![枯れ葉/落ち葉のイメージ](https://cdn.pixabay.com/photo/2015/12/11/11/01/leaves-1087952_1280.jpg#center)
 
 
 ## 枯れ葉/落ち葉に関する説明

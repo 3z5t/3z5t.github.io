@@ -11,7 +11,7 @@ tags:
   - 탄생화
   - 꽃
 ---
-![꽃 사진](https://cdn.pixabay.com/photo/2021/04/06/19/20/daffodils-6157253_640.jpg#center)
+![꽃 사진](https://cdn.pixabay.com/photo/2021/04/06/19/20/daffodils-6157253_1280.jpg#center)
 안녕하세요, 오늘은 1월 13일의 꽃인 수선화에 대해 이야기해 보겠습니다.
 
 ### 수선화

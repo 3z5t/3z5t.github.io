@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Pampeliška](https://cdn.pixabay.com/photo/2023/05/22/14/49/dandelion-8010882_640.jpg#center)
+![Obrázek Pampeliška](https://cdn.pixabay.com/photo/2023/05/22/14/49/dandelion-8010882_1280.jpg#center)
 
 
 ## 3. května – Narozeninová květina: Pampeliška

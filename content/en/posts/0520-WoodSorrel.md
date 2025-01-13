@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Wood Sorrel](https://cdn.pixabay.com/photo/2015/08/25/09/31/oxalis-corniculata-906419_640.jpg#center)
+![Image of Wood Sorrel](https://cdn.pixabay.com/photo/2015/08/25/09/31/oxalis-corniculata-906419_1280.jpg#center)
 
 
 ### Description of Wood Sorrel

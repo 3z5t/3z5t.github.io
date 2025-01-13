@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Grape](https://cdn.pixabay.com/photo/2020/01/16/13/46/grapes-4770606_640.jpg#center)
+![Image of Grape](https://cdn.pixabay.com/photo/2020/01/16/13/46/grapes-4770606_1280.jpg#center)
 
 
 ### Description of Grape

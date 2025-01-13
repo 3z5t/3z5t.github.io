@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة جرس كاليفورنيا الأزرق](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_640.jpg#center)
+![صورة جرس كاليفورنيا الأزرق](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_1280.jpg#center)
 
 ## زهرة ميلاد ٢١ فبراير: جرس كاليفورنيا الأزرق
 

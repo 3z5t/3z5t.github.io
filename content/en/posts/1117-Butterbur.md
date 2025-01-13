@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Butterbur](https://cdn.pixabay.com/photo/2015/09/24/17/19/hunt-955953_640.jpg#center)
+![Image of Butterbur](https://cdn.pixabay.com/photo/2015/09/24/17/19/hunt-955953_1280.jpg#center)
 
 
 ### Description of Butterbur

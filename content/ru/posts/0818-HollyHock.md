@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Изображение Шток-роза розовая](https://cdn.pixabay.com/photo/2020/07/01/04/55/korean-flower-5358423_640.jpg#center)
+![Изображение Шток-роза розовая](https://cdn.pixabay.com/photo/2020/07/01/04/55/korean-flower-5358423_1280.jpg#center)
 
 
 ## Шток-роза розовая: Всепоглощающая любовь

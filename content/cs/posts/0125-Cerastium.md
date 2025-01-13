@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Rožec](https://cdn.pixabay.com/photo/2019/05/12/19/11/downy-madarhur-4198805_640.jpg#center)
+![Obrázek Rožec](https://cdn.pixabay.com/photo/2019/05/12/19/11/downy-madarhur-4198805_1280.jpg#center)
 
 
 ## 25. ledna – Narozeninová květina: Rožec

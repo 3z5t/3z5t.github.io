@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Prímula Vermelha](https://cdn.pixabay.com/photo/2017/02/05/17/06/flower-2040617_640.jpg#center)
+![Imagem de Prímula Vermelha](https://cdn.pixabay.com/photo/2017/02/05/17/06/flower-2040617_1280.jpg#center)
 
 
 ## Flor de nascimento de 4 de fevereiro: Prímula Vermelha

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Jarní krokus](https://cdn.pixabay.com/photo/2020/03/30/15/21/crocus-4984558_640.jpg#center)
+![Obrázek Jarní krokus](https://cdn.pixabay.com/photo/2020/03/30/15/21/crocus-4984558_1280.jpg#center)
 
 
 ## 31. ledna – Narozeninová květina: Jarní krokus

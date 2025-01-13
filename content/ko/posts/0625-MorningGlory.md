@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![나팔꽃의 이미지](https://cdn.pixabay.com/photo/2018/10/13/19/39/morning-glory-3744967_640.jpg#center)
+![나팔꽃의 이미지](https://cdn.pixabay.com/photo/2018/10/13/19/39/morning-glory-3744967_1280.jpg#center)
 
 
 ### 나팔꽃(Morning Glory): 하루의 시작을 장식하는 아름다움

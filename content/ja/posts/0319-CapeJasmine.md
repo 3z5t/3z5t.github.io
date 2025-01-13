@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![クチナシのイメージ](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_640.jpg#center)
+![クチナシのイメージ](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_1280.jpg#center)
 
 
 ## クチナシに関する説明

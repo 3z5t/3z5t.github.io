@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة عُشْبُ الطَّيْر](https://cdn.pixabay.com/photo/2019/05/12/19/11/downy-madarhur-4198805_640.jpg#center)
+![صورة عُشْبُ الطَّيْر](https://cdn.pixabay.com/photo/2019/05/12/19/11/downy-madarhur-4198805_1280.jpg#center)
 
 ## زهرة ميلاد ٢٥ يناير: عُشْبُ الطَّيْر
 

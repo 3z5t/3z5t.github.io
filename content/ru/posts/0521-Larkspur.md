@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Дельфиниум красный](https://cdn.pixabay.com/photo/2019/08/28/07/43/nature-4436024_640.jpg#center)
+![Изображение Дельфиниум красный](https://cdn.pixabay.com/photo/2019/08/28/07/43/nature-4436024_1280.jpg#center)
 
 ## Дельфиниум красный: Свобода духа
 

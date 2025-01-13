@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![レモンのイメージ](https://cdn.pixabay.com/photo/2016/04/17/14/28/lemon-blossom-1334788_640.jpg#center)
+![レモンのイメージ](https://cdn.pixabay.com/photo/2016/04/17/14/28/lemon-blossom-1334788_1280.jpg#center)
 
 
 ## レモンに関する説明

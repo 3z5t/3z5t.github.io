@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Tanaceto](https://cdn.pixabay.com/photo/2016/02/08/14/43/tansy-1186677_640.jpg#center)
+![Imagen de Tanaceto](https://cdn.pixabay.com/photo/2016/02/08/14/43/tansy-1186677_1280.jpg#center)
 
 
 ### Descripción de Tanaceto

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Açafrão](https://cdn.pixabay.com/photo/2019/02/28/16/54/krokus-4026324_640.jpg#center)
+![Imagem de Açafrão](https://cdn.pixabay.com/photo/2019/02/28/16/54/krokus-4026324_1280.jpg#center)
 
 
 ## Flor de nascimento de 24 de janeiro: Açafrão

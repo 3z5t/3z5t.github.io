@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة نجم](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_640.jpg#center)
+![صورة نجم](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_1280.jpg#center)
 
 ## زهرة ميلاد ٥ نوفمبر: نجم
 

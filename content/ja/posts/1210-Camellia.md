@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![ツバキ（赤色）のイメージ](https://cdn.pixabay.com/photo/2019/03/03/16/13/camellia-4032179_640.jpg#center)
+![ツバキ（赤色）のイメージ](https://cdn.pixabay.com/photo/2019/03/03/16/13/camellia-4032179_1280.jpg#center)
 
 
 ## ツバキ（赤色）に関する説明

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Lärche](https://cdn.pixabay.com/photo/2012/09/09/10/09/larch-56567_640.jpg#center)
+![Bild von Lärche](https://cdn.pixabay.com/photo/2012/09/09/10/09/larch-56567_1280.jpg#center)
 
 
 ## Geburtsblume des 9. März: Lärche

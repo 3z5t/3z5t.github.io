@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Clavel silvestre](https://cdn.pixabay.com/photo/2016/10/25/16/26/dianthus-1769322_640.jpg#center)
+![Imagen de Clavel silvestre](https://cdn.pixabay.com/photo/2016/10/25/16/26/dianthus-1769322_1280.jpg#center)
 
 
 ## Clavel Silvestre: La Flor de la Caballerosidad para el 10 de Junio

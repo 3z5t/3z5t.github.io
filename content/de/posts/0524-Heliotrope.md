@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Heliotrop](https://cdn.pixabay.com/photo/2017/08/18/13/52/vanilla-flower-2655056_640.jpg#center)
+![Bild von Heliotrop](https://cdn.pixabay.com/photo/2017/08/18/13/52/vanilla-flower-2655056_1280.jpg#center)
 
 
 ## Geburtsblume des 24. Mai: Heliotrop

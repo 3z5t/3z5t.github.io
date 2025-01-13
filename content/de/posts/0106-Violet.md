@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Veilchen](https://cdn.pixabay.com/photo/2019/04/04/03/27/flowers-4101916_640.jpg#center)
+![Bild von Veilchen](https://cdn.pixabay.com/photo/2019/04/04/03/27/flowers-4101916_1280.jpg#center)
 
 
 ## Geburtsblume des 6. Januar: Veilchen

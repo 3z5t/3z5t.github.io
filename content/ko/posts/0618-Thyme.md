@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![백리향의 이미지](https://cdn.pixabay.com/photo/2020/05/07/12/57/thyme-5141399_640.jpg#center)
+![백리향의 이미지](https://cdn.pixabay.com/photo/2020/05/07/12/57/thyme-5141399_1280.jpg#center)
 
 
 ### 백리향(Thyme): 용기와 신뢰의 상징

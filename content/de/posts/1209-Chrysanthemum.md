@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Chrysantheme](https://cdn.pixabay.com/photo/2021/09/27/16/46/chrysanthemums-6661564_640.jpg#center)
+![Bild von Chrysantheme](https://cdn.pixabay.com/photo/2021/09/27/16/46/chrysanthemums-6661564_1280.jpg#center)
 
 
 ## Geburtsblume des 9. Dezember: Chrysantheme

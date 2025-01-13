@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Marguerite](https://cdn.pixabay.com/photo/2016/09/09/08/30/marguerite-1656357_640.jpg#center)
+![Image de Marguerite](https://cdn.pixabay.com/photo/2016/09/09/08/30/marguerite-1656357_1280.jpg#center)
 
 
 ## Marguerite (Marguerite), la fleur du 3 septembre

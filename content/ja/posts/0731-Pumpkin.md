@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![カボチャのイメージ](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_640.jpg#center)
+![カボチャのイメージ](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_1280.jpg#center)
 
 
 ### カボチャに関する説明

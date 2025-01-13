@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Prímula](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_640.jpg#center)
+![Imagem de Prímula](https://cdn.pixabay.com/photo/2020/03/23/13/33/cowslip-4960878_1280.jpg#center)
 
 
 ## Flor de nascimento de 1 de maio: Prímula

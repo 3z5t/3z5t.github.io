@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![チューリップ（紫）のイメージ](https://cdn.pixabay.com/photo/2022/05/06/15/20/tulips-7178547_640.jpg#center)
+![チューリップ（紫）のイメージ](https://cdn.pixabay.com/photo/2022/05/06/15/20/tulips-7178547_1280.jpg#center)
 
 
 ## チューリップ（紫）に関する説明

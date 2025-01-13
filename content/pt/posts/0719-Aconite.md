@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Acônito](https://cdn.pixabay.com/photo/2020/06/20/19/50/aconite-5322278_640.jpg#center)
+![Imagem de Acônito](https://cdn.pixabay.com/photo/2020/06/20/19/50/aconite-5322278_1280.jpg#center)
 
 
 ## Flor de nascimento de 19 de julho: Acônito

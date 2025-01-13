@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![雛菊的图片](https://cdn.pixabay.com/photo/2018/05/23/23/10/daisies-3425426_640.jpg#center)
+![雛菊的图片](https://cdn.pixabay.com/photo/2018/05/23/23/10/daisies-3425426_1280.jpg#center)
 
 
 ## 雛菊的描述

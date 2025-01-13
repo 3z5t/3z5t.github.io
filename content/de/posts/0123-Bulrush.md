@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Rohrkolben](https://cdn.pixabay.com/photo/2015/07/13/16/03/reeds-843366_640.jpg#center)
+![Bild von Rohrkolben](https://cdn.pixabay.com/photo/2015/07/13/16/03/reeds-843366_1280.jpg#center)
 
 ## Geburtsblume des 23. Januar: Rohrkolben
 

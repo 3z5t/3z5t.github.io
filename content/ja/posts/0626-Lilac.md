@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ライラック（白色）のイメージ](https://cdn.pixabay.com/photo/2023/12/04/18/10/lilac-8430051_640.jpg#center)
+![ライラック（白色）のイメージ](https://cdn.pixabay.com/photo/2023/12/04/18/10/lilac-8430051_1280.jpg#center)
 
 
 ### ライラック（白色）に関する説明

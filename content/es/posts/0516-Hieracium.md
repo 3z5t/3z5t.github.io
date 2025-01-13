@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Hieracio](https://cdn.pixabay.com/photo/2013/08/30/10/53/alpine-hawkweed-177284_640.jpg#center)
+![Imagen de Hieracio](https://cdn.pixabay.com/photo/2013/08/30/10/53/alpine-hawkweed-177284_1280.jpg#center)
 
 ## Descubre el significado de la Flor del Nacimiento Hieracio del 16 de mayo
 

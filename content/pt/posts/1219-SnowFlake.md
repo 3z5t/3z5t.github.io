@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Campainhas do outono](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_640.jpg#center)
+![Imagem de Campainhas do outono](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_1280.jpg#center)
 
 
 ## Flor de nascimento de 19 de dezembro: Campainhas do outono

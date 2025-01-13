@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![은매화의 이미지](https://cdn.pixabay.com/photo/2020/06/29/20/22/flowers-5354285_640.jpg)
+![은매화의 이미지](https://cdn.pixabay.com/photo/2020/06/29/20/22/flowers-5354285_1280.jpg)
 
 
 ### 은매화

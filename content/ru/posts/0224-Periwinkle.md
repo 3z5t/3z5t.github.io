@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Барвинок малый](https://cdn.pixabay.com/photo/2022/03/31/05/09/flower-7102225_640.jpg#center)
+![Изображение Барвинок малый](https://cdn.pixabay.com/photo/2022/03/31/05/09/flower-7102225_1280.jpg#center)
 
 ## Барвинок малый: Символ Светлых Воспоминаний
 

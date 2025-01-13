@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Violeta púrpura](https://cdn.pixabay.com/photo/2018/08/02/03/46/violets-3578798_640.png#center)
+![Imagen de Violeta púrpura](https://cdn.pixabay.com/photo/2018/08/02/03/46/violets-3578798_1280.png#center)
 
 
 ## Violeta Púrpura, la Flor del Nacimiento del 8 de Enero

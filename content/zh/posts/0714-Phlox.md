@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![天藍繡球的图片](https://cdn.pixabay.com/photo/2016/07/15/09/02/flower-1518501_640.jpg#center)
+![天藍繡球的图片](https://cdn.pixabay.com/photo/2016/07/15/09/02/flower-1518501_1280.jpg#center)
 
 
 ## 天藍繡球的描述

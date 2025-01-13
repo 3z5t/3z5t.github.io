@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Krásnoočko velkokvěté](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_640.jpg#center)
+![Obrázek Krásnoočko velkokvěté](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_1280.jpg#center)
 
 
 ## 13. dubna – Narozeninová květina: Krásnoočko velkokvěté

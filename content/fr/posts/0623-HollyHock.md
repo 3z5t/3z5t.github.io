@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Rose trémière](https://cdn.pixabay.com/photo/2018/08/15/05/58/hollyhock-3607356_640.jpg#center)
+![Image de Rose trémière](https://cdn.pixabay.com/photo/2018/08/15/05/58/hollyhock-3607356_1280.jpg#center)
 
 
 ## Rose trémière (Hollyhock), la fleur du 23 juin

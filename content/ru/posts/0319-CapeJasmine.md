@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Гардения жасминовидная](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_640.jpg#center)
+![Изображение Гардения жасминовидная](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_1280.jpg#center)
 
 ## Гардения жасминовидная: Символ Бесконечного Счастья
 

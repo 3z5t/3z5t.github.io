@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![월계수의 이미지](https://cdn.pixabay.com/photo/2017/09/23/19/24/laurel-2779880_640.jpg#center)
+![월계수의 이미지](https://cdn.pixabay.com/photo/2017/09/23/19/24/laurel-2779880_1280.jpg#center)
 
 
 ### 월계수

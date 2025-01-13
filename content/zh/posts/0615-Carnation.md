@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![康乃馨的图片](https://cdn.pixabay.com/photo/2023/01/06/21/34/carnation-7702161_640.jpg#center)
+![康乃馨的图片](https://cdn.pixabay.com/photo/2023/01/06/21/34/carnation-7702161_1280.jpg#center)
 
 
 ## 康乃馨的描述

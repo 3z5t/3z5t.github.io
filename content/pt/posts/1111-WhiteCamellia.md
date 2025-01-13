@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Camélia Branca](https://cdn.pixabay.com/photo/2016/12/05/06/51/camellia-1883205_640.jpg#center)
+![Imagem de Camélia Branca](https://cdn.pixabay.com/photo/2016/12/05/06/51/camellia-1883205_1280.jpg#center)
 
 
 ## Flor de nascimento de 11 de novembro: Camélia Branca

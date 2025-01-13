@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Ацтекские Бархатцы](https://cdn.pixabay.com/photo/2022/07/03/14/40/marigold-7299451_640.jpg#center)
+![Изображение Ацтекские Бархатцы](https://cdn.pixabay.com/photo/2022/07/03/14/40/marigold-7299451_1280.jpg#center)
 
 ## Ацтекские Бархатцы: яркая и символичная красота
 

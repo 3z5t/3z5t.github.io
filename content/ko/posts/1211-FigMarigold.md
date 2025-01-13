@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![단양쑥부쟁이의 이미지](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_640.jpg#center)
+![단양쑥부쟁이의 이미지](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_1280.jpg#center)
 
 
 ### 단양쑥부쟁이 (Fig Marigold)

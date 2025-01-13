@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Žlutá růže](https://cdn.pixabay.com/photo/2021/04/08/18/59/yellow-rose-6162613_640.jpg#center)
+![Obrázek Žlutá růže](https://cdn.pixabay.com/photo/2021/04/08/18/59/yellow-rose-6162613_1280.jpg#center)
 
 
 ## 21. července – Narozeninová květina: Žlutá růže

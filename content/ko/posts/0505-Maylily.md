@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![은방울꽃의 이미지](https://cdn.pixabay.com/photo/2018/03/21/22/26/nature-3248514_640.jpg#center)
+![은방울꽃의 이미지](https://cdn.pixabay.com/photo/2018/03/21/22/26/nature-3248514_1280.jpg#center)
 
 
 ### 은방울꽃(May Lily)에 대한 설명

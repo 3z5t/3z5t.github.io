@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![포도의 이미지](https://cdn.pixabay.com/photo/2020/01/16/13/46/grapes-4770606_640.jpg#center)
+![포도의 이미지](https://cdn.pixabay.com/photo/2020/01/16/13/46/grapes-4770606_1280.jpg#center)
 
 
 ### 10월 17일의 꽃: 포도(Grape)

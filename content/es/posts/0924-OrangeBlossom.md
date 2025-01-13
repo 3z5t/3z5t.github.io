@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Azahar](https://cdn.pixabay.com/photo/2020/04/03/16/23/Orange-blossom-4999435_640.jpg#center)
+![Imagen de Azahar](https://cdn.pixabay.com/photo/2020/04/03/16/23/Orange-blossom-4999435_1280.jpg#center)
 
 
 ## Azahar: La Flor del 24 de Septiembre, Símbolo de la "Felicidad Conyugal"

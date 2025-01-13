@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Rosa Almiscarada](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_640.jpg#center)
+![Imagem de Rosa Almiscarada](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_1280.jpg#center)
 
 
 ## Flor de nascimento de 25 de fevereiro: Rosa Almiscarada

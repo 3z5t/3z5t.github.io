@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Tulipa](https://cdn.pixabay.com/photo/2020/04/28/13/17/tulips-5104494_640.jpg#center)
+![Imagem de Tulipa](https://cdn.pixabay.com/photo/2020/04/28/13/17/tulips-5104494_1280.jpg#center)
 
 ## Flor de nascimento de 7 de janeiro: Tulipa
 

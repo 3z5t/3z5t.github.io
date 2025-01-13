@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Nachtschatten](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_640.jpg#center)
+![Bild von Nachtschatten](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_1280.jpg#center)
 
 
 ## Geburtsblume des 12. Juli: Nachtschatten

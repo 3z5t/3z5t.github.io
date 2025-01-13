@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Musk Rose](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_640.jpg#center)
+![Image of Musk Rose](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_1280.jpg#center)
 
 
 ### Description of Musk Rose

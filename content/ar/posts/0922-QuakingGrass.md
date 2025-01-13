@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة قصفة](https://cdn.pixabay.com/photo/2017/06/30/13/13/hjertegrs-2458228_640.jpg#center)
+![صورة قصفة](https://cdn.pixabay.com/photo/2017/06/30/13/13/hjertegrs-2458228_1280.jpg#center)
 
 ## زهرة ميلاد ٢٢ سبتمبر: قصفة
 

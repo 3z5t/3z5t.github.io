@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![낙엽과 마른 풀의 이미지](https://cdn.pixabay.com/photo/2015/12/11/11/01/leaves-1087952_640.jpg#center)
+![낙엽과 마른 풀의 이미지](https://cdn.pixabay.com/photo/2015/12/11/11/01/leaves-1087952_1280.jpg#center)
 
 
 ### 11월 30일의 꽃: 낙엽과 마른 풀 (Dry Grasses)

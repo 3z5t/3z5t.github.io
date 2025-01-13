@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Базилик душистый](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_640.jpg#center)
+![Изображение Базилик душистый](https://cdn.pixabay.com/photo/2017/09/19/16/34/plant-2765798_1280.jpg#center)
 
 ## Базилик душистый — символ светлой надежды
 

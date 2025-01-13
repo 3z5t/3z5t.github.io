@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![キョウチクトウのイメージ](https://cdn.pixabay.com/photo/2022/08/25/11/47/red-oleander-7410079_640.jpg#center)
+![キョウチクトウのイメージ](https://cdn.pixabay.com/photo/2022/08/25/11/47/red-oleander-7410079_1280.jpg#center)
 
 
 ### キョウチクトウに関する説明

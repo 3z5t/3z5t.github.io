@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Almendro](https://cdn.pixabay.com/photo/2020/03/15/13/11/almond-tree-4933573_640.jpg#center)
+![Imagen de Almendro](https://cdn.pixabay.com/photo/2020/03/15/13/11/almond-tree-4933573_1280.jpg#center)
 
 
 ## Almendro, la Flor del Nacimiento del 14 de Marzo

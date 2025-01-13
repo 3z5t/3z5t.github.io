@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ザクロのイメージ](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_640.jpg#center)
+![ザクロのイメージ](https://cdn.pixabay.com/photo/2012/09/30/02/58/flowers-58556_1280.jpg#center)
 
 
 ### ザクロに関する説明

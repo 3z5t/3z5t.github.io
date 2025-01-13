@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Герань садовая](https://cdn.pixabay.com/photo/2022/06/25/15/54/cranesbill-7283721_640.jpg#center)
+![Изображение Герань садовая](https://cdn.pixabay.com/photo/2022/06/25/15/54/cranesbill-7283721_1280.jpg#center)
 
 ## Герань садовая (Geranium): Символ верной любви
 

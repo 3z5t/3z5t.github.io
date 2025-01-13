@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Kapuzinerkresse](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_640.jpg#center)
+![Bild von Kapuzinerkresse](https://cdn.pixabay.com/photo/2014/06/15/19/52/nasturtium-369479_1280.jpg#center)
 
 
 ## Geburtsblume des 6. September: Kapuzinerkresse

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Lobelie](https://cdn.pixabay.com/photo/2017/06/05/16/17/praise-lien-2374492_640.jpg#center)
+![Bild von Lobelie](https://cdn.pixabay.com/photo/2017/06/05/16/17/praise-lien-2374492_1280.jpg#center)
 
 ## Geburtsblume des 30. Oktober: Lobelie
 

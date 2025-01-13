@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![麝香玫瑰的图片](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_640.jpg#center)
+![麝香玫瑰的图片](https://cdn.pixabay.com/photo/2020/04/26/11/08/rose-5094723_1280.jpg#center)
 
 
 ## 麝香玫瑰的描述

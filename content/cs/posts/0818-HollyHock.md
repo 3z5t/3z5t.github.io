@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Topolovka růžová](https://cdn.pixabay.com/photo/2020/07/01/04/55/korean-flower-5358423_640.jpg#center)
+![Obrázek Topolovka růžová](https://cdn.pixabay.com/photo/2020/07/01/04/55/korean-flower-5358423_1280.jpg#center)
 
 
 ## 18. srpna – Narozeninová květina: Topolovka růžová

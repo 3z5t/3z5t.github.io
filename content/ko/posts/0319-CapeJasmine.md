@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![치자나무의 이미지](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_640.jpg#center)
+![치자나무의 이미지](https://cdn.pixabay.com/photo/2021/07/09/20/23/gardenia-jasminoides-6399959_1280.jpg#center)
 
 
 ### 치자나무(Cape Jasmine)의 설명

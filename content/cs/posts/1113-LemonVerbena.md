@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Verbena citronová](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_640.jpg#center)
+![Obrázek Verbena citronová](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_1280.jpg#center)
 
 
 ## 13. listopadu – Narozeninová květina: Verbena citronová

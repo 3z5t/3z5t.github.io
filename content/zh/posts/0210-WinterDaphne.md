@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![白瑞香的图片](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_640.jpg#center)
+![白瑞香的图片](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_1280.jpg#center)
 
 
 ## 白瑞香的描述

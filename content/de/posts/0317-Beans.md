@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Bohnenblüte](https://cdn.pixabay.com/photo/2023/09/26/08/25/helmet-bean-8276784_640.jpg#center)
+![Bild von Bohnenblüte](https://cdn.pixabay.com/photo/2023/09/26/08/25/helmet-bean-8276784_1280.jpg#center)
 
 
 ## Geburtsblume des 17. März: Bohnenblüte

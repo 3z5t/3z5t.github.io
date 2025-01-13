@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة شَجَر البُرتُقال](https://cdn.pixabay.com/photo/2020/04/03/16/23/Orange-blossom-4999435_640.jpg#center)
+![صورة شَجَر البُرتُقال](https://cdn.pixabay.com/photo/2020/04/03/16/23/Orange-blossom-4999435_1280.jpg#center)
 
 ## زهرة ميلاد ٢٤ سبتمبر: شَجَر البُرتُقال
 

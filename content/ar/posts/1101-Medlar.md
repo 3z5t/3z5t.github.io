@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة المِشمِلة](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_640.jpg#center)
+![صورة المِشمِلة](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_1280.jpg#center)
 
 ## زهرة ميلاد ١ نوفمبر: المِشمِلة
 

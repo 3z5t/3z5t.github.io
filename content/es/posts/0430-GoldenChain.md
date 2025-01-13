@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Lluvia de oro](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_640.jpg#center)
+![Imagen de Lluvia de oro](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_1280.jpg#center)
 
 
 ## Lluvia de Oro, la Flor del Nacimiento del 30 de Abril

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![長春花的图片](https://cdn.pixabay.com/photo/2022/03/31/05/09/flower-7102225_640.jpg#center)
+![長春花的图片](https://cdn.pixabay.com/photo/2022/03/31/05/09/flower-7102225_1280.jpg#center)
 
 
 ## 長春花的描述

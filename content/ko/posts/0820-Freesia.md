@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![프리지아의 이미지](https://cdn.pixabay.com/photo/2019/10/04/22/30/flower-4526658_640.jpg#center)
+![프리지아의 이미지](https://cdn.pixabay.com/photo/2019/10/04/22/30/flower-4526658_1280.jpg#center)
 
 
 ### 프리지아(Freesia): 자연의 청순함을 담은 꽃

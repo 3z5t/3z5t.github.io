@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Cyclamen](https://cdn.pixabay.com/photo/2014/10/08/17/43/cyclamen-480477_640.jpg#center)
+![Image de Cyclamen](https://cdn.pixabay.com/photo/2014/10/08/17/43/cyclamen-480477_1280.jpg#center)
 
 
 ## Cyclamen, la fleur du 14 janvier : L'élégance de l'introspection

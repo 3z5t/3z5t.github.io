@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Zitronenverbene](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_640.jpg#center)
+![Bild von Zitronenverbene](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_1280.jpg#center)
 
 
 ## Geburtsblume des 13. November: Zitronenverbene

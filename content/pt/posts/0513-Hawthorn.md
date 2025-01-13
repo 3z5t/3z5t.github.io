@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Espinheiro](https://cdn.pixabay.com/photo/2023/05/06/08/44/crataegus-7973879_640.jpg#center)
+![Imagem de Espinheiro](https://cdn.pixabay.com/photo/2023/05/06/08/44/crataegus-7973879_1280.jpg#center)
 
 
 ## Flor de nascimento de 13 de maio: Espinheiro

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![낙엽송의 이미지](https://cdn.pixabay.com/photo/2012/09/09/10/09/larch-56567_640.jpg#center)
+![낙엽송의 이미지](https://cdn.pixabay.com/photo/2012/09/09/10/09/larch-56567_1280.jpg#center)
 
 안녕하세요, 꽃과 나무의 세계를 탐구하고 그 속에서 발견되는 깊은 의미를 전달하는 전문가입니다. 오늘은 3월 9일, 자연의 굳건함과 불멸을 상징하는 낙엽송(Larch)에 대한 이야기를 함께 나누어보고자 합니다.
 

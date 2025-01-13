@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Phlox](https://cdn.pixabay.com/photo/2016/07/15/09/02/flower-1518501_640.jpg#center)
+![Image of Phlox](https://cdn.pixabay.com/photo/2016/07/15/09/02/flower-1518501_1280.jpg#center)
 
 ### Description of Phlox
 

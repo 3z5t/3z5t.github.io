@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Cistus](https://cdn.pixabay.com/photo/2020/04/13/16/49/laden-5039229_640.jpg#center)
+![Image of Cistus](https://cdn.pixabay.com/photo/2020/04/13/16/49/laden-5039229_1280.jpg#center)
 
 
 ### Description of Cistus

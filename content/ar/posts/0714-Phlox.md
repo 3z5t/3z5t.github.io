@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الفُلوكس](https://cdn.pixabay.com/photo/2016/07/15/09/02/flower-1518501_640.jpg#center)
+![صورة الفُلوكس](https://cdn.pixabay.com/photo/2016/07/15/09/02/flower-1518501_1280.jpg#center)
 
 ## زهرة ميلاد ١٤ يوليو: الفُلوكس
 

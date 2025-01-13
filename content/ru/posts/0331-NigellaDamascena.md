@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Чернушка дамасская](https://cdn.pixabay.com/photo/2017/02/04/20/59/nigella-damascena-miss-jekyll-2038376_640.jpg#center)
+![Изображение Чернушка дамасская](https://cdn.pixabay.com/photo/2017/02/04/20/59/nigella-damascena-miss-jekyll-2038376_1280.jpg#center)
 
 ## Чернушка дамасская: Символ Любви из Сновидений
 

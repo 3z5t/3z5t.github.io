@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Дурман обыкновенный](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_640.jpg#center)
+![Изображение Дурман обыкновенный](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_1280.jpg#center)
 
 ## Дурман обыкновенный — символ почтения и мистики
 

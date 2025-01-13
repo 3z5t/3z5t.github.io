@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Espino blanco](https://cdn.pixabay.com/photo/2023/05/06/08/44/crataegus-7973879_640.jpg#center)
+![Imagen de Espino blanco](https://cdn.pixabay.com/photo/2023/05/06/08/44/crataegus-7973879_1280.jpg#center)
 
 
 ## Espino blanco, la Flor del Nacimiento del 13 de Mayo

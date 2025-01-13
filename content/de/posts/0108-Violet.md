@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Purpurveilchen](https://cdn.pixabay.com/photo/2018/08/02/03/46/violets-3578798_640.png#center)
+![Bild von Purpurveilchen](https://cdn.pixabay.com/photo/2018/08/02/03/46/violets-3578798_1280.png#center)
 
 
 ## Geburtsblume des 8. Januar: Purpurveilchen

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Campânula-da-Califórnia](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_640.jpg#center)
+![Imagem de Campânula-da-Califórnia](https://cdn.pixabay.com/photo/2022/03/10/22/24/baby-blue-eyes-7060845_1280.jpg#center)
 
 
 ## Flor de nascimento de 21 de fevereiro: Campânula-da-Califórnia

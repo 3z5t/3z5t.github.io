@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Zinnie](https://cdn.pixabay.com/photo/2017/09/28/15/27/dream-park-2795924_640.jpg#center)
+![Obrázek Zinnie](https://cdn.pixabay.com/photo/2017/09/28/15/27/dream-park-2795924_1280.jpg#center)
 
 
 ## 22. prosince – Narozeninová květina: Zinnie

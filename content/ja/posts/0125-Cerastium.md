@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![ドナドナムルのイメージ](https://cdn.pixabay.com/photo/2019/05/12/19/11/downy-madarhur-4198805_640.jpg#center)
+![ドナドナムルのイメージ](https://cdn.pixabay.com/photo/2019/05/12/19/11/downy-madarhur-4198805_1280.jpg#center)
 
 
 ## ドナドナムルに関する説明

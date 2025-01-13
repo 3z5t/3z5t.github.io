@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ゼラニウムのイメージ](https://cdn.pixabay.com/photo/2022/06/25/15/54/cranesbill-7283721_640.jpg#center)
+![ゼラニウムのイメージ](https://cdn.pixabay.com/photo/2022/06/25/15/54/cranesbill-7283721_1280.jpg#center)
 
 
 ### ゼラニウム（Geranium）に関する説明

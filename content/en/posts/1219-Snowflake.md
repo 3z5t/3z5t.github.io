@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Snow Flake](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_640.jpg#center)
+![Image of Snow Flake](https://cdn.pixabay.com/photo/2014/02/26/17/37/snowflake-275367_1280.jpg#center)
 
 
 ### Description of Snow Flake

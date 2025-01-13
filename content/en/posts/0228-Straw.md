@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Straw](https://cdn.pixabay.com/photo/2018/03/19/20/20/wheat-3241114_640.jpg#center)
+![Image of Straw](https://cdn.pixabay.com/photo/2018/03/19/20/20/wheat-3241114_1280.jpg#center)
 
 
 ### Description of Straw

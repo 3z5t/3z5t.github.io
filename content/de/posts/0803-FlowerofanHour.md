@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Stundenblume](https://cdn.pixabay.com/photo/2016/02/12/17/32/flower-1196470_640.jpg#center)
+![Bild von Stundenblume](https://cdn.pixabay.com/photo/2016/02/12/17/32/flower-1196470_1280.jpg#center)
 
 ## Geburtsblume des 3. August: Stundenblume
 

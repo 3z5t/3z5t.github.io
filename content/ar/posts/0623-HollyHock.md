@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الخَطمِيّة](https://cdn.pixabay.com/photo/2018/08/15/05/58/hollyhock-3607356_640.jpg#center)
+![صورة الخَطمِيّة](https://cdn.pixabay.com/photo/2018/08/15/05/58/hollyhock-3607356_1280.jpg#center)
 
 
 ## زهرة ميلاد ٢٣ يونيو: الخَطمِيّة

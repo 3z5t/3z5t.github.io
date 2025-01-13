@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Pryskyřník](https://cdn.pixabay.com/photo/2015/05/04/20/26/buttercup-752927_640.jpg#center)
+![Obrázek Pryskyřník](https://cdn.pixabay.com/photo/2015/05/04/20/26/buttercup-752927_1280.jpg#center)
 
 
 ## 2. března – Narozeninová květina: Pryskyřník

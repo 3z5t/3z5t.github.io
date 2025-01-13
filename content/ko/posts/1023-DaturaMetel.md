@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![흰독말풀의 이미지](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_640.jpg#center)
+![흰독말풀의 이미지](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_1280.jpg#center)
 
 
 ### 10월 23일의 꽃: 흰독말풀(Datura metel)

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Каштан благородный](https://cdn.pixabay.com/photo/2019/05/22/20/54/chestnut-blossom-4222522_640.jpg#center)
+![Изображение Каштан благородный](https://cdn.pixabay.com/photo/2019/05/22/20/54/chestnut-blossom-4222522_1280.jpg#center)
 
 ## Каштан благородный: Символ Искренности и Честности
 

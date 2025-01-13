@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![ワスレナグサのイメージ](https://cdn.pixabay.com/photo/2020/05/11/18/59/nots-5159760_640.jpg#center)
+![ワスレナグサのイメージ](https://cdn.pixabay.com/photo/2020/05/11/18/59/nots-5159760_1280.jpg#center)
 
 
 ## ワスレナグサに関する説明

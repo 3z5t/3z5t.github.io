@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Granátové jablko](https://cdn.pixabay.com/photo/2017/10/07/05/33/pomegranate-2825556_640.jpg#center)
+![Obrázek Granátové jablko](https://cdn.pixabay.com/photo/2017/10/07/05/33/pomegranate-2825556_1280.jpg#center)
 
 
 ## 28. prosince – Narozeninová květina: Granátové jablko

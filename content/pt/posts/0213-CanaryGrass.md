@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Alpiste](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_640.jpg#center)
+![Imagem de Alpiste](https://cdn.pixabay.com/photo/2019/12/27/15/34/phalaris-4722677_1280.jpg#center)
 
 
 ## Flor de nascimento de 13 de fevereiro: Alpiste

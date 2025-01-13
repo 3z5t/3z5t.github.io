@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة حميضة](https://cdn.pixabay.com/photo/2015/08/25/09/31/oxalis-corniculata-906419_640.jpg#center)
+![صورة حميضة](https://cdn.pixabay.com/photo/2015/08/25/09/31/oxalis-corniculata-906419_1280.jpg#center)
 
 ## زهرة ميلاد ٢٠ مايو: حميضة
 

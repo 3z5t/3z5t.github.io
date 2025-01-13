@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Berberis](https://cdn.pixabay.com/photo/2023/06/01/07/04/flowers-8032934_640.jpg#center)
+![Image of Berberis](https://cdn.pixabay.com/photo/2023/06/01/07/04/flowers-8032934_1280.jpg#center)
 
 
 ### Description of Berberis

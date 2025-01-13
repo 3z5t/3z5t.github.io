@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![アーモンドのイメージ](https://cdn.pixabay.com/photo/2016/02/01/15/15/almond-blossom-1173735_640.jpg#center)
+![アーモンドのイメージ](https://cdn.pixabay.com/photo/2016/02/01/15/15/almond-blossom-1173735_1280.jpg#center)
 
 
 ## アーモンドに関する説明

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Christmas Rose](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_640.jpg#center)
+![Image of Christmas Rose](https://cdn.pixabay.com/photo/2021/12/07/16/43/christmas-rose-6853652_1280.jpg#center)
 
 
 ### Description of Christmas Rose

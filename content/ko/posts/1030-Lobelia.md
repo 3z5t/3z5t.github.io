@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![로벨리아의 이미지](https://cdn.pixabay.com/photo/2017/06/05/16/17/praise-lien-2374492_640.jpg#center)
+![로벨리아의 이미지](https://cdn.pixabay.com/photo/2017/06/05/16/17/praise-lien-2374492_1280.jpg#center)
 
 
 ### 10월 30일의 꽃: 로벨리아(Lobelia)

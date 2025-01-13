@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Rosa Brava](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_640.jpg#center)
+![Imagem de Rosa Brava](https://cdn.pixabay.com/photo/2018/05/10/10/39/brambles-3387246_1280.jpg#center)
 
 
 ## Flor de nascimento de 27 de outubro: Rosa Brava

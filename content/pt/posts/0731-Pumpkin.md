@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Abóbora](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_640.jpg#center)
+![Imagem de Abóbora](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_1280.jpg#center)
 
 
 ## Flor de nascimento de 31 de julho: Abóbora

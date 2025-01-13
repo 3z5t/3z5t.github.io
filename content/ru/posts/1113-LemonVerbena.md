@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Вербена лимонная](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_640.jpg#center)
+![Изображение Вербена лимонная](https://cdn.pixabay.com/photo/2020/05/16/19/40/lemon-verbena-5178934_1280.jpg#center)
 
 ## Вербена лимонная: символ несгибаемой воли
 

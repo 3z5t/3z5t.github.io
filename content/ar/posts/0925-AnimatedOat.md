@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة شوفان بري](https://cdn.pixabay.com/photo/2017/06/21/08/27/barley-2426466_640.jpg#center)
+![صورة شوفان بري](https://cdn.pixabay.com/photo/2017/06/21/08/27/barley-2426466_1280.jpg#center)
 
 ## زهرة ميلاد ٢٥ سبتمبر: شوفان بري
 

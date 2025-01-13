@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Butter Cup](https://cdn.pixabay.com/photo/2015/05/04/20/26/buttercup-752927_640.jpg#center)
+![Image of Butter Cup](https://cdn.pixabay.com/photo/2015/05/04/20/26/buttercup-752927_1280.jpg#center)
 
 
 ### Description of Buttercup

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Bílá kamélie](https://cdn.pixabay.com/photo/2016/12/05/06/51/camellia-1883205_640.jpg#center)
+![Obrázek Bílá kamélie](https://cdn.pixabay.com/photo/2016/12/05/06/51/camellia-1883205_1280.jpg#center)
 
 ## 11. listopadu – Narozeninová květina: Bílá kamélie
 

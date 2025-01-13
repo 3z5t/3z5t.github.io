@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![루피너스의 이미지](https://cdn.pixabay.com/photo/2019/10/29/08/38/grass-4586431_640.jpg#center)
+![루피너스의 이미지](https://cdn.pixabay.com/photo/2019/10/29/08/38/grass-4586431_1280.jpg#center)
 
 
 ### 11월 2일의 꽃: 루피너스(Lupinus)

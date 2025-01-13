@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Chrysanthemum](https://cdn.pixabay.com/photo/2022/08/17/15/21/flower-7392770_640.jpg#center)
+![Image of Chrysanthemum](https://cdn.pixabay.com/photo/2022/08/17/15/21/flower-7392770_1280.jpg#center)
 
 
 ### Description of Chrysanthemum

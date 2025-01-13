@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Lorbeerbaum](https://cdn.pixabay.com/photo/2017/09/23/19/24/laurel-2779880_640.jpg#center)
+![Bild von Lorbeerbaum](https://cdn.pixabay.com/photo/2017/09/23/19/24/laurel-2779880_1280.jpg#center)
 
 
 ## Geburtsblume des 16. Februar: Lorbeerbaum

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Astrágalo chino](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_640.jpg#center)
+![Imagen de Astrágalo chino](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_1280.jpg#center)
 
 
 ## Astrágalo Chino, la Flor del Nacimiento del 18 de Abril

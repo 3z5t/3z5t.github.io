@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Rhus Trichocarpa](https://cdn.pixabay.com/photo/2021/10/17/17/03/sumac-leaves-6718977_640.jpg#center)
+![Image of Rhus Trichocarpa](https://cdn.pixabay.com/photo/2021/10/17/17/03/sumac-leaves-6718977_1280.jpg#center)
 
 
 ### Description of Rhus Trichocarpa

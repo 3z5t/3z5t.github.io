@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Mexikanischer Efeu](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_640.jpg#center)
+![Bild von Mexikanischer Efeu](https://cdn.pixabay.com/photo/2018/12/27/07/16/cobia-3897121_1280.jpg#center)
 
 
 ## Geburtsblume des 2. September: Mexikanischer Efeu

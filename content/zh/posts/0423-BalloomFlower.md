@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![桔梗的图片](https://cdn.pixabay.com/photo/2018/11/30/16/48/bellflower-flower-3848146_640.jpg#center)
+![桔梗的图片](https://cdn.pixabay.com/photo/2018/11/30/16/48/bellflower-flower-3848146_1280.jpg#center)
 
 
 ## 桔梗的描述

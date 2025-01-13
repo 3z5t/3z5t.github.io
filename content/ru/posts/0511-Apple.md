@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Яблоня домашняя](https://cdn.pixabay.com/photo/2022/04/20/20/23/flowers-7146137_640.jpg#center)
+![Изображение Яблоня домашняя](https://cdn.pixabay.com/photo/2022/04/20/20/23/flowers-7146137_1280.jpg#center)
 
 ## Яблоня домашняя: Символ сладости и искушения
 

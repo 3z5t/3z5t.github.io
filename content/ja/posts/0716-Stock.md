@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ストックのイメージ](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_640.jpg#center)
+![ストックのイメージ](https://cdn.pixabay.com/photo/2017/04/04/18/19/matthiola-tricuspidata-2202665_1280.jpg#center)
 
 
 ### ストックに関する説明

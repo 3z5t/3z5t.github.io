@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Bergaster](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_640.jpg#center)
+![Bild von Bergaster](https://cdn.pixabay.com/photo/2017/11/14/00/28/wormwood-some-competition-2947198_1280.jpg#center)
 
 ## Geburtsblume des 11. Dezember: Bergaster
 

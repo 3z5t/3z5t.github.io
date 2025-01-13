@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Armérie](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_640.jpg#center)
+![Image de Armérie](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_1280.jpg#center)
 
 
 ## Armérie (Armeria), la fleur du 29 février : Une incarnation de la compassion et de la miséricorde

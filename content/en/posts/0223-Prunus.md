@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Prunus](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_640.jpg#center)
+![Image of Prunus](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_1280.jpg#center)
 
 
 ### Description of Prunus

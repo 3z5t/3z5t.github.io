@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Aliso](https://cdn.pixabay.com/photo/2020/01/25/16/05/hazel-4792798_640.jpg#center)
+![Imagen de Aliso](https://cdn.pixabay.com/photo/2020/01/25/16/05/hazel-4792798_1280.jpg#center)
 
 
 ### Descripción de Aliso

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![シロツメクサのイメージ](https://cdn.pixabay.com/photo/2018/09/03/09/02/clover-3650704_640.jpg#center)
+![シロツメクサのイメージ](https://cdn.pixabay.com/photo/2018/09/03/09/02/clover-3650704_1280.jpg#center)
 
 
 ## シロツメクサに関する説明

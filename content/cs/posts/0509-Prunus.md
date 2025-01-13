@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Slivoň švestka](https://cdn.pixabay.com/photo/2020/05/13/11/38/cherry-blossoms-5167156_640.jpg#center)
+![Obrázek Slivoň švestka](https://cdn.pixabay.com/photo/2020/05/13/11/38/cherry-blossoms-5167156_1280.jpg#center)
 
 
 ## 9. května – Narozeninová květina: Slivoň švestka

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Роза жёлтая](https://cdn.pixabay.com/photo/2021/04/08/18/59/yellow-rose-6162613_640.jpg#center)
+![Изображение Роза жёлтая](https://cdn.pixabay.com/photo/2021/04/08/18/59/yellow-rose-6162613_1280.jpg#center)
 
 ## Роза жёлтая: Символ природной красоты
 

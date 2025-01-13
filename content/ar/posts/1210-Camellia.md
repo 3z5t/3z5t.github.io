@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة كامِيليا حَمراء](https://cdn.pixabay.com/photo/2019/03/03/16/13/camellia-4032179_640.jpg#center)
+![صورة كامِيليا حَمراء](https://cdn.pixabay.com/photo/2019/03/03/16/13/camellia-4032179_1280.jpg#center)
 
 ## زهرة ميلاد ١٠ ديسمبر: كامِيليا حَمراء
 

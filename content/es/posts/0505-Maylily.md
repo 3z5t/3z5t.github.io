@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Lirio del valle](https://cdn.pixabay.com/photo/2018/03/21/22/26/nature-3248514_640.jpg#center)
+![Imagen de Lirio del valle](https://cdn.pixabay.com/photo/2018/03/21/22/26/nature-3248514_1280.jpg#center)
 
 
 ## Lirio del Valle, la Flor del Nacimiento del 5 de Mayo

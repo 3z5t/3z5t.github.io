@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Gewöhnlicher Schneeball](https://cdn.pixabay.com/photo/2019/05/19/21/28/viburnum-4215322_640.jpg#center)
+![Bild von Gewöhnlicher Schneeball](https://cdn.pixabay.com/photo/2019/05/19/21/28/viburnum-4215322_1280.jpg#center)
 
 
 ## Geburtsblume des 24. November: Gewöhnlicher Schneeball

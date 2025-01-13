@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![금어초의 이미지](https://cdn.pixabay.com/photo/2012/03/02/00/37/snapdragon-20809_640.jpg#center)
+![금어초의 이미지](https://cdn.pixabay.com/photo/2012/03/02/00/37/snapdragon-20809_1280.jpg#center)
 
 
 ### 금어초(Snap Dragon)에 대한 설명

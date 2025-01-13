@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Trevo](https://cdn.pixabay.com/photo/2018/09/03/09/02/clover-3650704_640.jpg#center)
+![Imagem de Trevo](https://cdn.pixabay.com/photo/2018/09/03/09/02/clover-3650704_1280.jpg#center)
 
 
 ## Flor de nascimento de 29 de maio: Trevo

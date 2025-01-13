@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Géranium](https://cdn.pixabay.com/photo/2022/06/25/15/54/cranesbill-7283721_640.jpg#center)
+![Image de Géranium](https://cdn.pixabay.com/photo/2022/06/25/15/54/cranesbill-7283721_1280.jpg#center)
 
 
 ## Géranium (Geranium), la fleur du 27 juillet

@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Lobelia](https://cdn.pixabay.com/photo/2017/06/05/16/17/praise-lien-2374492_640.jpg#center)
+![Imagen de Lobelia](https://cdn.pixabay.com/photo/2017/06/05/16/17/praise-lien-2374492_1280.jpg#center)
 
 
 ### Descripción de Lobelia

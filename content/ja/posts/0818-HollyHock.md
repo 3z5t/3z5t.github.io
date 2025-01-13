@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![タチアオイのイメージ](https://cdn.pixabay.com/photo/2020/07/01/04/55/korean-flower-5358423_640.jpg#center)
+![タチアオイのイメージ](https://cdn.pixabay.com/photo/2020/07/01/04/55/korean-flower-5358423_1280.jpg#center)
 
 
 ### タチアオイに関する説明

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Lilek](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_640.jpg#center)
+![Obrázek Lilek](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_1280.jpg#center)
 
 ## 12. července – Narozeninová květina: Lilek
 

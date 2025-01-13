@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Estramônio](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_640.jpg#center)
+![Imagem de Estramônio](https://cdn.pixabay.com/photo/2021/09/03/00/54/white-datura-6594773_1280.jpg#center)
 
 
 ## Flor de nascimento de 23 de outubro: Estramônio

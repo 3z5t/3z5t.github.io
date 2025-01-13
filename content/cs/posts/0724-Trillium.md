@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Trojlístek](https://cdn.pixabay.com/photo/2018/05/19/14/37/trillium-3413621_640.jpg#center)
+![Obrázek Trojlístek](https://cdn.pixabay.com/photo/2018/05/19/14/37/trillium-3413621_1280.jpg#center)
 
 ## 24. července – Narozeninová květina: Trojlístek
 

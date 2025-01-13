@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Rose blanche](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_640.jpg#center)
+![Image de Rose blanche](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_1280.jpg#center)
 
 
 ## Rose blanche (White Rose), la fleur du 17 juillet

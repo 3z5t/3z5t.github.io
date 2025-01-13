@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Мак белый](https://cdn.pixabay.com/photo/2021/05/14/19/21/poppy-6254293_640.jpg#center)
+![Изображение Мак белый](https://cdn.pixabay.com/photo/2021/05/14/19/21/poppy-6254293_1280.jpg#center)
 
 ## Мак белый: Цветок тишины и сладкого забвения
 

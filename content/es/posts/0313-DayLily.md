@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Lirio de día](https://cdn.pixabay.com/photo/2018/03/20/20/48/nature-3244629_640.jpg#center)
+![Imagen de Lirio de día](https://cdn.pixabay.com/photo/2018/03/20/20/48/nature-3244629_1280.jpg#center)
 
 
 ## Lirio de Día, la Flor del Nacimiento del 13 de Marzo

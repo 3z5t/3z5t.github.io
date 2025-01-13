@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![과꽃의 이미지](https://cdn.pixabay.com/photo/2019/10/08/17/53/asters-4535620_640.jpg#center)
+![과꽃의 이미지](https://cdn.pixabay.com/photo/2019/10/08/17/53/asters-4535620_1280.jpg#center)
 
 
 ### 11월 28일의 꽃: 과꽃 (China Aster)

@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![Image of Snow Drop](https://cdn.pixabay.com/photo/2020/02/24/10/51/flower-4875870_640.jpg#center)
+![Image of Snow Drop](https://cdn.pixabay.com/photo/2020/02/24/10/51/flower-4875870_1280.jpg#center)
 
 
 ## Snowdrop: The Birth Flower of January 1st

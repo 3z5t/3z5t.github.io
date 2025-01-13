@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![살구꽃의 이미지](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_640.jpg#center)
+![살구꽃의 이미지](https://cdn.pixabay.com/photo/2020/12/14/08/19/apricot-blossom-5830230_1280.jpg#center)
 
 
 안녕하세요,오늘은 2월 23일, 봄을 알리는 아름다운 꽃인 살구꽃에 대해 이야기하려고 합니다. 살구꽃은 그 아름다운 꽃말과 함께 봄의 시작을 알리며 많은 이들의 마음을 설레게 만드는데요.

@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Mirra](https://cdn.pixabay.com/photo/2018/02/26/17/48/nature-3183605_640.jpg#center)
+![Imagen de Mirra](https://cdn.pixabay.com/photo/2018/02/26/17/48/nature-3183605_1280.jpg#center)
 
 
 ### Descripción de Mirra

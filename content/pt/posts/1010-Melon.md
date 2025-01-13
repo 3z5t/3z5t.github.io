@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Melão](https://cdn.pixabay.com/photo/2022/04/01/14/43/melon-flower-7104975_640.jpg#center)
+![Imagem de Melão](https://cdn.pixabay.com/photo/2022/04/01/14/43/melon-flower-7104975_1280.jpg#center)
 
 
 ## Flor de nascimento de 10 de outubro: Melão

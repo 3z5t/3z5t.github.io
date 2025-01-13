@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Kalmie](https://cdn.pixabay.com/photo/2015/05/17/12/01/kalmia-770766_640.jpg#center)
+![Obrázek Kalmie](https://cdn.pixabay.com/photo/2015/05/17/12/01/kalmia-770766_1280.jpg#center)
 
 
 ## 20. února – Narozeninová květina: Kalmie

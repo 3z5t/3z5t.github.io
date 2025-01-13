@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![옥슬립 앵초의 이미지](https://cdn.pixabay.com/photo/2021/05/13/11/57/oxslip-6250682_640.jpg#center)
+![옥슬립 앵초의 이미지](https://cdn.pixabay.com/photo/2021/05/13/11/57/oxslip-6250682_1280.jpg#center)
 
 
 ### 옥슬립 앵초 (Oxlip)

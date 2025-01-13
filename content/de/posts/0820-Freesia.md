@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Freesie](https://cdn.pixabay.com/photo/2019/10/04/22/30/flower-4526658_640.jpg#center)
+![Bild von Freesie](https://cdn.pixabay.com/photo/2019/10/04/22/30/flower-4526658_1280.jpg#center)
 
 
 ## Geburtsblume des 20. August: Freesie

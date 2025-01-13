@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Reseda](https://cdn.pixabay.com/photo/2015/01/18/18/59/wau-603313_640.jpg#center)
+![Bild von Reseda](https://cdn.pixabay.com/photo/2015/01/18/18/59/wau-603313_1280.jpg#center)
 
 
 ## Geburtsblume des 12. Juni: Reseda

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![아르메리아의 이미지](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_640.jpg#center)
+![아르메리아의 이미지](https://cdn.pixabay.com/photo/2019/05/02/18/43/thrift-4174262_1280.jpg#center)
 
 
 ### 아르메리아(Armeria): 2월 29일의 신비로운 꽃

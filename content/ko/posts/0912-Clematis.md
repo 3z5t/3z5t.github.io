@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![클레마티스의 이미지](https://cdn.pixabay.com/photo/2019/05/29/23/48/ville-de-lyon-4238823_640.jpg#center)
+![클레마티스의 이미지](https://cdn.pixabay.com/photo/2019/05/29/23/48/ville-de-lyon-4238823_1280.jpg#center)
 
 
 ### 9월 12일의 꽃: 클레마티스(Clematis)

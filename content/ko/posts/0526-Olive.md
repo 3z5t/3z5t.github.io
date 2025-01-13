@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![올리브나무의 이미지](https://cdn.pixabay.com/photo/2015/05/29/10/00/olives-789140_640.jpg#center)
+![올리브나무의 이미지](https://cdn.pixabay.com/photo/2015/05/29/10/00/olives-789140_1280.jpg#center)
 
 
 ### 올리브나무 (Olive)

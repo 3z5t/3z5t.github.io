@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Crisântemo Branco](https://cdn.pixabay.com/photo/2022/08/17/15/21/flower-7392770_640.jpg#center)
+![Imagem de Crisântemo Branco](https://cdn.pixabay.com/photo/2022/08/17/15/21/flower-7392770_1280.jpg#center)
 
 
 ## Flor de nascimento de 14 de outubro: Crisântemo Branco

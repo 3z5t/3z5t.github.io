@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Romero](https://cdn.pixabay.com/photo/2015/12/13/00/11/rosemary-1090419_640.jpg#center)
+![Imagen de Romero](https://cdn.pixabay.com/photo/2015/12/13/00/11/rosemary-1090419_1280.jpg#center)
 
 
 ## Romero: La Flor del 20 de Septiembre, Símbolo de “Recuérdame”

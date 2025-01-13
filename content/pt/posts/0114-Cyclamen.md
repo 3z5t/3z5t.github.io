@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Ciclame](https://cdn.pixabay.com/photo/2014/10/08/17/43/cyclamen-480477_640.jpg#center)
+![Imagem de Ciclame](https://cdn.pixabay.com/photo/2014/10/08/17/43/cyclamen-480477_1280.jpg#center)
 
 ## Flor de nascimento de 14 de janeiro: Ciclame
 

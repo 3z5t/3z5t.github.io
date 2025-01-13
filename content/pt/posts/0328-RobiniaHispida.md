@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Robínia Híspida](https://cdn.pixabay.com/photo/2014/10/04/21/03/acacia-pink-474087_640.jpg#center)
+![Imagem de Robínia Híspida](https://cdn.pixabay.com/photo/2014/10/04/21/03/acacia-pink-474087_1280.jpg#center)
 
 
 ## Flor de nascimento de 28 de março: Robínia Híspida

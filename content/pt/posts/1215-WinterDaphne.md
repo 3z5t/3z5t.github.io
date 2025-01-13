@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Dafne de Inverno](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_640.jpg#center)
+![Imagem de Dafne de Inverno](https://cdn.pixabay.com/photo/2017/10/03/23/34/daphne-2814611_1280.jpg#center)
 
 
 ## Flor de nascimento de 15 de dezembro: Dafne de Inverno

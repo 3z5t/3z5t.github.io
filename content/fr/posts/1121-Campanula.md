@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Fleur-lanterne](https://cdn.pixabay.com/photo/2020/03/04/02/40/nature-4900321_640.jpg#center)
+![Image de Fleur-lanterne](https://cdn.pixabay.com/photo/2020/03/04/02/40/nature-4900321_1280.jpg#center)
 
 
 ### Portrait botanique de Fleur-lanterne (Campanula)

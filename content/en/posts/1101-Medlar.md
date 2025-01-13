@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Medlar](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_640.jpg#center)
+![Image of Medlar](https://cdn.pixabay.com/photo/2018/10/02/07/36/medlar-3718103_1280.jpg#center)
 
 
 ### Description of Medlar

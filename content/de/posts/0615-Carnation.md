@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Gartennelke](https://cdn.pixabay.com/photo/2023/01/06/21/34/carnation-7702161_640.jpg#center)
+![Bild von Gartennelke](https://cdn.pixabay.com/photo/2023/01/06/21/34/carnation-7702161_1280.jpg#center)
 
 
 ## Geburtsblume des 15. Juni: Gartennelke

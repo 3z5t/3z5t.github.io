@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ヤナギのイメージ](https://cdn.pixabay.com/photo/2020/03/24/18/05/weeping-willow-4964961_640.jpg#center)
+![ヤナギのイメージ](https://cdn.pixabay.com/photo/2020/03/24/18/05/weeping-willow-4964961_1280.jpg#center)
 
 
 ## ヤナギ（Weeping Willow）について

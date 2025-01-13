@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Ciruelo](https://cdn.pixabay.com/photo/2020/05/13/11/38/cherry-blossoms-5167156_640.jpg#center)
+![Imagen de Ciruelo](https://cdn.pixabay.com/photo/2020/05/13/11/38/cherry-blossoms-5167156_1280.jpg#center)
 
 
 ## Ciruelo, la Flor del Nacimiento del 9 de Mayo

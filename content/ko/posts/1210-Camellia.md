@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![붉은 동백의 이미지](https://cdn.pixabay.com/photo/2019/03/03/16/13/camellia-4032179_640.jpg#center)
+![붉은 동백의 이미지](https://cdn.pixabay.com/photo/2019/03/03/16/13/camellia-4032179_1280.jpg#center)
 
 
 ### 붉은 동백 (Camellia)에 대한 설명

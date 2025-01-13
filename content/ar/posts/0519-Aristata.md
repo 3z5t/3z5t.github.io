@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة أريستاتا](https://cdn.pixabay.com/photo/2014/12/05/01/21/gaillardia-557400_640.jpg#center)
+![صورة أريستاتا](https://cdn.pixabay.com/photo/2014/12/05/01/21/gaillardia-557400_1280.jpg#center)
 
 ## زهرة ميلاد ١٩ مايو: أريستاتا
 

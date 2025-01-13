@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![로즈메리의 이미지](https://cdn.pixabay.com/photo/2015/12/13/00/11/rosemary-1090419_640.jpg#center)
+![로즈메리의 이미지](https://cdn.pixabay.com/photo/2015/12/13/00/11/rosemary-1090419_1280.jpg#center)
 
 
 ### 9월 20일의 꽃: 로즈메리(Rosemary)

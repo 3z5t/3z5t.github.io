@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![アヤメ（黄色）のイメージ](https://cdn.pixabay.com/photo/2022/02/21/14/31/iris-7026891_640.jpg#center)
+![アヤメ（黄色）のイメージ](https://cdn.pixabay.com/photo/2022/02/21/14/31/iris-7026891_1280.jpg#center)
 
 
 ## アヤメ（黄色）に関する説明

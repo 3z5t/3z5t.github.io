@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Жимолость душистая](https://cdn.pixabay.com/photo/2018/08/13/04/58/flower-3602283_640.jpg#center)
+![Изображение Жимолость душистая](https://cdn.pixabay.com/photo/2018/08/13/04/58/flower-3602283_1280.jpg#center)
 
 ## Жимолость душистая: Цветок вечной любви
 

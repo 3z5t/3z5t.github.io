@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Astragalus](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_640.jpg#center)
+![Image of Astragalus](https://cdn.pixabay.com/photo/2020/05/31/17/13/astragalus-5243367_1280.jpg#center)
 
 
 ### Description of Astragalus

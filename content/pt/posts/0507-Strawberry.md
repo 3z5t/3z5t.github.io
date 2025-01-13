@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Folha de Morango](https://cdn.pixabay.com/photo/2023/05/21/10/03/flower-8008187_640.jpg#center)
+![Imagem de Folha de Morango](https://cdn.pixabay.com/photo/2023/05/21/10/03/flower-8008187_1280.jpg#center)
 
 
 ## Flor de nascimento de 7 de maio: Folha de Morango

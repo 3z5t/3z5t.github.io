@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Zahradní verbena](https://cdn.pixabay.com/photo/2015/05/07/07/58/flowers-756181_640.jpg#center)
+![Obrázek Zahradní verbena](https://cdn.pixabay.com/photo/2015/05/07/07/58/flowers-756181_1280.jpg#center)
 
 
 ## 24. června – Narozeninová květina: Zahradní verbena

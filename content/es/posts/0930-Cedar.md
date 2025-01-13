@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Cedro](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_640.jpg#center)
+![Imagen de Cedro](https://cdn.pixabay.com/photo/2016/06/19/20/56/cedar-balance-sheet-1467608_1280.jpg#center)
 
 
 ## Cedro: La Flor del 30 de Septiembre, Símbolo de "Majestuosidad"

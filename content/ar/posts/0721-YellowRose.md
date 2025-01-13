@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الوَردة الصَّفراء](https://cdn.pixabay.com/photo/2021/04/08/18/59/yellow-rose-6162613_640.jpg#center)
+![صورة الوَردة الصَّفراء](https://cdn.pixabay.com/photo/2021/04/08/18/59/yellow-rose-6162613_1280.jpg#center)
 
 ## زهرة ميلاد ٢١ يوليو: الوَردة الصَّفراء
 

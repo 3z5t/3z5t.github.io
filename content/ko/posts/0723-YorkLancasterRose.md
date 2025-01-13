@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![요크 앤 랭커스터 장미의 이미지](https://cdn.pixabay.com/photo/2014/03/30/13/01/rose-301406_640.jpg#center)
+![요크 앤 랭커스터 장미의 이미지](https://cdn.pixabay.com/photo/2014/03/30/13/01/rose-301406_1280.jpg#center)
 
 
 ### 요크 앤 랭커스터 장미(York & Lancaster Rose) 

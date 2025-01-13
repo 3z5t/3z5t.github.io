@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Goldregen](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_640.jpg#center)
+![Bild von Goldregen](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_1280.jpg#center)
 
 
 ## Geburtsblume des 30. April: Goldregen

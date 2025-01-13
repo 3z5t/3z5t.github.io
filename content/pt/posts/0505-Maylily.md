@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Lírio do Vale](https://cdn.pixabay.com/photo/2018/03/21/22/26/nature-3248514_640.jpg#center)
+![Imagem de Lírio do Vale](https://cdn.pixabay.com/photo/2018/03/21/22/26/nature-3248514_1280.jpg#center)
 
 
 ## Flor de nascimento de 5 de maio: Lírio do Vale

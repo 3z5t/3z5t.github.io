@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Mák vlčí](https://cdn.pixabay.com/photo/2019/06/02/11/22/poppies-4246241_640.jpg#center)
+![Obrázek Mák vlčí](https://cdn.pixabay.com/photo/2019/06/02/11/22/poppies-4246241_1280.jpg#center)
 
 ## 1. srpna – Narozeninová květina: Mák vlčí
 

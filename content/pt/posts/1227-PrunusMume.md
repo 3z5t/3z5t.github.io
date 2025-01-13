@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Ameixeira chinesa](https://cdn.pixabay.com/photo/2020/04/29/08/10/plum-blossoms-5107763_640.jpg#center)
+![Imagem de Ameixeira chinesa](https://cdn.pixabay.com/photo/2020/04/29/08/10/plum-blossoms-5107763_1280.jpg#center)
 
 
 ## Flor de nascimento de 27 de dezembro: Ameixeira chinesa

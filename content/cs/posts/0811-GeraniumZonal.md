@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Obrázek Pelargonie páskatá](https://cdn.pixabay.com/photo/2013/11/04/19/02/red-205385_640.jpg#center)
+![Obrázek Pelargonie páskatá](https://cdn.pixabay.com/photo/2013/11/04/19/02/red-205385_1280.jpg#center)
 
 
 ## 11. srpna – Narozeninová květina: Pelargonie páskatá

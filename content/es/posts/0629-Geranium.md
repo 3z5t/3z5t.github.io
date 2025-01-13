@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Geranio rojo](https://cdn.pixabay.com/photo/2019/07/12/14/52/geranium-4333041_640.jpg#center)
+![Imagen de Geranio rojo](https://cdn.pixabay.com/photo/2019/07/12/14/52/geranium-4333041_1280.jpg#center)
 
 
 ## Geranio Rojo: La Flor del Amor por Ti para el 29 de Junio

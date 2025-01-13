@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Pumpkin](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_640.jpg#center)
+![Image of Pumpkin](https://cdn.pixabay.com/photo/2018/08/08/12/05/pumpkin-flower-3592007_1280.jpg#center)
 
 
 ### Description of Pumpkin

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ガイラルディアのイメージ](https://cdn.pixabay.com/photo/2014/12/05/01/21/gaillardia-557400_640.jpg#center)
+![ガイラルディアのイメージ](https://cdn.pixabay.com/photo/2014/12/05/01/21/gaillardia-557400_1280.jpg#center)
 
 
 ## ガイラルディアに関する説明

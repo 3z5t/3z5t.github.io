@@ -14,7 +14,7 @@ draft: false
 ---
 
 
-![사과꽃의 이미지](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_640.jpg#center)
+![사과꽃의 이미지](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_1280.jpg#center)
 
 
 ### 9월 29일의 꽃: 사과꽃(Apple Blossom)

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Reseda](https://cdn.pixabay.com/photo/2015/01/18/18/59/wau-603313_640.jpg#center)
+![Imagen de Reseda](https://cdn.pixabay.com/photo/2015/01/18/18/59/wau-603313_1280.jpg#center)
 
 
 ## Reseda: La Flor del Encanto Natural para el 12 de Junio

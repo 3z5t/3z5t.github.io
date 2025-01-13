@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Gemeiner Schneeball](https://cdn.pixabay.com/photo/2021/11/12/22/52/viburnum-lantana-6790205_640.jpg#center)
+![Bild von Gemeiner Schneeball](https://cdn.pixabay.com/photo/2021/11/12/22/52/viburnum-lantana-6790205_1280.jpg#center)
 
 
 ## Geburtsblume des 22. Juni: Gemeiner Schneeball

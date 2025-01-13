@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Imagem de Laburno](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_640.jpg#center)
+![Imagem de Laburno](https://cdn.pixabay.com/photo/2022/01/03/18/41/weeping-golden-chain-6913355_1280.jpg#center)
 
 
 ## Flor de nascimento de 30 de abril: Laburno

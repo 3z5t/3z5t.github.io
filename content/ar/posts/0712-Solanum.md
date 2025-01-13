@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة باذِنجان بَرّي](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_640.jpg#center)
+![صورة باذِنجان بَرّي](https://cdn.pixabay.com/photo/2018/10/06/08/10/african-spiny-solanum-3727450_1280.jpg#center)
 
 ## زهرة ميلاد ١٢ يوليو: باذِنجان بَرّي
 

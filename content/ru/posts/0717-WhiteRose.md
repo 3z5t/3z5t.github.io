@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Роза белая](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_640.jpg#center)
+![Изображение Роза белая](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_1280.jpg#center)
 
 
 ## Левкой седой: изысканная простота и стойкость красоты

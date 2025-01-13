@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![リンゴのイメージ](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_640.jpg#center)
+![リンゴのイメージ](https://cdn.pixabay.com/photo/2022/05/03/14/50/flowers-7171863_1280.jpg#center)
 
 
 ## リンゴ（Apple Blossom）について

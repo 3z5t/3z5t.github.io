@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![ハルシャギクのイメージ](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_640.jpg#center)
+![ハルシャギクのイメージ](https://cdn.pixabay.com/photo/2022/06/02/06/43/flowers-7237132_1280.jpg#center)
 
 
 ## ハルシャギクに関する説明

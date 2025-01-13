@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![艾菊的图片](https://cdn.pixabay.com/photo/2016/02/08/14/43/tansy-1186677_640.jpg#center)
+![艾菊的图片](https://cdn.pixabay.com/photo/2016/02/08/14/43/tansy-1186677_1280.jpg#center)
 
 
 ## 艾菊的描述

@@ -16,7 +16,7 @@ draft: false
 ---
 
 
-![Imagen de Nomeolvides](https://cdn.pixabay.com/photo/2020/05/11/18/59/nots-5159760_640.jpg#center)
+![Imagen de Nomeolvides](https://cdn.pixabay.com/photo/2020/05/11/18/59/nots-5159760_1280.jpg#center)
 
 
 ## Nomeolvides, la Flor del Nacimiento del 15 de Mayo

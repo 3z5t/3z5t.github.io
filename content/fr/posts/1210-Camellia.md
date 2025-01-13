@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Camélia rouge](https://cdn.pixabay.com/photo/2019/03/03/16/13/camellia-4032179_640.jpg#center)
+![Image de Camélia rouge](https://cdn.pixabay.com/photo/2019/03/03/16/13/camellia-4032179_1280.jpg#center)
 
 
 ### Portrait botanique de Camélia rouge

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Hibiskus](https://cdn.pixabay.com/photo/2019/07/16/14/50/rose-of-sharon-4342080_640.jpg#center)
+![Bild von Hibiskus](https://cdn.pixabay.com/photo/2019/07/16/14/50/rose-of-sharon-4342080_1280.jpg#center)
 
 ## Geburtsblume des 22. Februar: Hibiskus
 

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الغار](https://cdn.pixabay.com/photo/2017/09/23/19/24/laurel-2779880_640.jpg#center)
+![صورة الغار](https://cdn.pixabay.com/photo/2017/09/23/19/24/laurel-2779880_1280.jpg#center)
 
 ## زهرة ميلاد ١٦ فبراير: الغار
 

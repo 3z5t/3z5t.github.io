@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![延齡草的图片](https://cdn.pixabay.com/photo/2018/05/19/14/37/trillium-3413621_640.jpg#center)
+![延齡草的图片](https://cdn.pixabay.com/photo/2018/05/19/14/37/trillium-3413621_1280.jpg#center)
 
 
 ## 延齡草的描述

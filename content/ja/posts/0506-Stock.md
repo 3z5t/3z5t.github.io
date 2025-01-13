@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![ストックのイメージ](https://cdn.pixabay.com/photo/2019/05/31/23/34/matthiola-4243235_640.jpg#center)
+![ストックのイメージ](https://cdn.pixabay.com/photo/2019/05/31/23/34/matthiola-4243235_1280.jpg#center)
 
 
 ## ストックに関する説明

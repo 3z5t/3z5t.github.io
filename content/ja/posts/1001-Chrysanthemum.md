@@ -17,7 +17,7 @@ draft: false
 
 
 
-![キク（赤色）のイメージ](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_640.jpg#center)
+![キク（赤色）のイメージ](https://cdn.pixabay.com/photo/2019/10/06/13/30/chrysanthemums-4530240_1280.jpg#center)
 
 ## キク（赤色）について
 

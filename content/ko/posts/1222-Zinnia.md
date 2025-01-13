@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![백일홍의 이미지](https://cdn.pixabay.com/photo/2017/09/28/15/27/dream-park-2795924_640.jpg#center)
+![백일홍의 이미지](https://cdn.pixabay.com/photo/2017/09/28/15/27/dream-park-2795924_1280.jpg#center)
 
 
 ### 백일홍 (Zinnia)

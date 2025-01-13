@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Изображение Ирис корейский](https://cdn.pixabay.com/photo/2022/02/21/14/31/iris-7026891_640.jpg#center)
+![Изображение Ирис корейский](https://cdn.pixabay.com/photo/2022/02/21/14/31/iris-7026891_1280.jpg#center)
 
 ## Ирис корейский: Символ красоты и счастья
 

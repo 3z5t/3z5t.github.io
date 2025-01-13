@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Image of Wall Germander](https://cdn.pixabay.com/photo/2020/08/12/12/16/teucrium-paradise-delight-5482517_640.jpg#center)
+![Image of Wall Germander](https://cdn.pixabay.com/photo/2020/08/12/12/16/teucrium-paradise-delight-5482517_1280.jpg#center)
 
 
 ### Description of Wall Germander

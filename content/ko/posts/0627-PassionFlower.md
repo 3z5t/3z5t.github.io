@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![시계꽃의 이미지](https://cdn.pixabay.com/photo/2016/10/06/03/32/watch-flowers-1718103_640.jpg#center)
+![시계꽃의 이미지](https://cdn.pixabay.com/photo/2016/10/06/03/32/watch-flowers-1718103_1280.jpg#center)
 
 
 ### 시계꽃(Passion Flower): 신비로운 아름다움과 신앙의 상징

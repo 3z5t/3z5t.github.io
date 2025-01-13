@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![백장미의 이미지](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_640.jpg#center)
+![백장미의 이미지](https://cdn.pixabay.com/photo/2015/10/01/10/19/white-rose-966788_1280.jpg#center)
 
 
 ### 백장미(White Rose): 순수함과 존경의 상징

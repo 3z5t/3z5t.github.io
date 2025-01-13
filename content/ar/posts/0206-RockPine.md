@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة الصنوبر الصخري](https://cdn.pixabay.com/photo/2015/04/22/15/06/a-fleshy-plant-734913_640.jpg#center)
+![صورة الصنوبر الصخري](https://cdn.pixabay.com/photo/2015/04/22/15/06/a-fleshy-plant-734913_1280.jpg#center)
 
 ## زهرة ميلاد ٦ فبراير: الصنوبر الصخري
 

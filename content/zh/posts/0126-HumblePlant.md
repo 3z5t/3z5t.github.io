@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![黃花含羞草的图片](https://cdn.pixabay.com/photo/2022/06/07/22/59/flower-7249417_640.jpg#center)
+![黃花含羞草的图片](https://cdn.pixabay.com/photo/2022/06/07/22/59/flower-7249417_1280.jpg#center)
 
 
 ## 黃花含羞草的描述

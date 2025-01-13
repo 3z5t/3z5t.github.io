@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Image de Épine-vinette de Corée](https://cdn.pixabay.com/photo/2023/06/01/07/04/flowers-8032934_640.jpg#center)
+![Image de Épine-vinette de Corée](https://cdn.pixabay.com/photo/2023/06/01/07/04/flowers-8032934_1280.jpg#center)
 
 
 ### Portrait botanique de Épine-vinette de Corée (Berberis)

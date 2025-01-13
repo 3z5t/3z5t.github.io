@@ -15,7 +15,7 @@ draft: false
 ---
 
 
-![Image de Renoncule](https://cdn.pixabay.com/photo/2015/05/04/20/26/buttercup-752927_640.jpg#center)
+![Image de Renoncule](https://cdn.pixabay.com/photo/2015/05/04/20/26/buttercup-752927_1280.jpg#center)
 
 
 ## Renoncule (Buttercup), la fleur du 2 mars : Une icône de noblesse et d’innocence

@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-![Imagen de Fresera](https://cdn.pixabay.com/photo/2016/06/20/00/40/strawberries-1467902_640.jpg#center)
+![Imagen de Fresera](https://cdn.pixabay.com/photo/2016/06/20/00/40/strawberries-1467902_1280.jpg#center)
 
 
 ## Fresera, la Flor del Nacimiento del 4 de Mayo

@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![Bild von Narzisse](https://cdn.pixabay.com/photo/2017/02/09/20/41/flower-2053451_640.jpg#center)
+![Bild von Narzisse](https://cdn.pixabay.com/photo/2017/02/09/20/41/flower-2053451_1280.jpg#center)
 
 
 ## Geburtsblume des 3. April: Narzisse

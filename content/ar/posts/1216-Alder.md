@@ -14,7 +14,7 @@ tags:
 draft: false
 ---
 
-![صورة نغت](https://cdn.pixabay.com/photo/2020/01/25/16/05/hazel-4792798_640.jpg#center)
+![صورة نغت](https://cdn.pixabay.com/photo/2020/01/25/16/05/hazel-4792798_1280.jpg#center)
 
 ## زهرة ميلاد ١٦ ديسمبر: نغت
 
