@@ -365,3 +365,26 @@ languages:
         - name: حول
           url: /ar/about/
           weight: 15
+  it:
+    weight: 12
+    languageName: Italiano
+    languageCode: it
+    contentDir: content/it/
+    title: Tutto in 365 Giorni
+    menu:
+      main:
+        - name: Articoli
+          url: it/posts/
+          weight: 4
+        - name: Archivio
+          url: /it/archives/
+          weight: 5
+        - name: Cerca
+          url: /it/search/
+          weight: 10
+        - name: Tags
+          url: /it/tags/
+          weight: 10
+        - name: Chi Siamo
+          url: /it/about/
+          weight: 15
