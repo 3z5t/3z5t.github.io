@@ -1,0 +1,19 @@
+{{- $lang := site.Language.Lang }}
+<div class="language-selector dropdown">
+    {{- with site.Home.AllTranslations }}
+    <button class="language-selector__button dropbtn">
+        {{ site.Language.LanguageName }}
+    </button>
+    <div class="language-selector__menu dropdown-content">
+        {{- range . -}}
+        {{- if ne $lang .Language.Lang }}
+        <a href="{{- .Permalink -}}" 
+           class="language-selector__option"
+           title="{{ .Language.LanguageName }}">
+            {{- .Language.LanguageName -}}
+        </a>
+        {{- end -}}
+        {{- end}}
+    </div>
+    {{- end }}
+</div>
