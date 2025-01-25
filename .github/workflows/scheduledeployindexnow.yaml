@@ -71,7 +71,7 @@ jobs:
     needs: deploy
     steps:
       - name: Wait for deployment to propagate
-        run: sleep 600  # 10분 대기하여 GitHub Pages 배포가 완전히 적용되도록 함
+        run: sleep 1800  # 30분 대기하여 GitHub Pages 배포가 완전히 적용되도록 함
       
       - name: Submit sitemap to IndexNow
         uses: bojieyang/indexnow-action@v2
