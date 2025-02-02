@@ -70,7 +70,7 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -84,7 +84,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3
+        uses: actions/deploy-pages@v4
 
   # IndexNow submission job after deployment is complete
   check-and-submit:
@@ -92,7 +92,7 @@ jobs:
     needs: deploy # This ensures that the IndexNow submission happens after deployment is complete.
     steps:
       - name: Submit sitemap to IndexNow using indexnow-action
-        uses: bojieyang/indexnow-action@v3
+        uses: bojieyang/indexnow-action@v2
         with:
           sitemap-location: 'https://3z5t.github.io/sitemap.xml' # 동적 URL 사용!
           key: ${{ secrets.INDEXNOW_KEY }}
