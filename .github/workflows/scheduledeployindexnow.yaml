@@ -35,7 +35,7 @@ jobs:
         uses: actions/configure-pages@v3
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.120.4'
           extended: true
@@ -51,7 +51,7 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -64,7 +64,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v3
 
   submit-sitemaps:
     runs-on: ubuntu-latest
@@ -74,7 +74,7 @@ jobs:
         run: sleep 1800  # 30분 대기하여 GitHub Pages 배포가 완전히 적용되도록 함
       
       - name: Submit sitemap to IndexNow
-        uses: bojieyang/indexnow-action@v2
+        uses: bojieyang/indexnow-action@v3
         with:
           sitemap-location: 'https://3z5t.github.io/sitemap.xml'
           key: ${{ secrets.INDEXNOW_KEY }}
