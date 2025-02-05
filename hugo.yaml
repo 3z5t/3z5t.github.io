@@ -388,3 +388,26 @@ languages:
         - name: Chi Siamo
           url: /it/about/
           weight: 15
+  vi:
+      weight: 13
+      languageName: Tiếng Việt
+      languageCode: vi
+      contentDir: content/vi/
+      title: Tất cả về 365 ngày
+      menu:
+        main:
+          - name: Bài viết
+            url: /posts/
+            weight: 4
+          - name: Lưu trữ
+            url: /archives/
+            weight: 5
+          - name: Tìm kiếm
+            url: /search/
+            weight: 10
+          - name: Thẻ
+            url: /tags/
+            weight: 10
+          - name: Giới thiệu
+            url: vi/about/
+            weight: 15
