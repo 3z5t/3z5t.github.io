@@ -4,4 +4,4 @@ Allow: /
 
 Sitemap: https://3z5t.github.io/sitemap.xml
 
-#DaumWebMasterTool:727d6b20d3a8f876e78927e9b77808259ddb001985bf69f90093f3c24ac291c0:D9a8IEFAzmC/NWsQ3tB0Wg==
+#DaumWebMasterTool:f5de488e165bc02d9d6a379d2eab29716f12d0d8a555ed50b96d6d9a6e750024:JPCc/R7M4bRw+jIJrtyX9w==
