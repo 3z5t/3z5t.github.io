@@ -411,3 +411,26 @@ languages:
           - name: Giới thiệu
             url: vi/about/
             weight: 15
+  th:
+    weight: 14
+    languageName: ไทย
+    languageCode: th
+    contentDir: content/th/
+    title: ทุกอย่างใน 365 วัน
+    menu:
+      main:
+        - name: โพสต์
+          url: /posts/
+          weight: 4
+        - name: คลังเก็บ
+          url: /archives/
+          weight: 5
+        - name: ค้นหา
+          url: /search/
+          weight: 10
+        - name: แท็ก
+          url: /tags/
+          weight: 10
+        - name: เกี่ยวกับ
+          url: /th/about/
+          weight: 15
