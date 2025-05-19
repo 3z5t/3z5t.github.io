@@ -1,4 +1,4 @@
---
+---
 title: Yeşil Spinel - 17 Nisan için Doğum Taşı
 date: 2025-04-17
 description: Yeşil Spinel - 17 Nisan için doğum taşı, Umut, inanç, şans sembolü. Bu özel taşın derin anlamını öğrenin.
