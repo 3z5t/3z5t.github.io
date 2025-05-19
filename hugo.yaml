@@ -434,3 +434,26 @@ languages:
         - name: เกี่ยวกับ
           url: /th/about/
           weight: 15
+  tr:
+    weight: 15
+    languageName: Türkçe
+    languageCode: tr
+    contentDir: content/tr/
+    title: 365 Günün Her Şeyi
+    menu:
+      main:
+        - name: Yazılar
+          url: /tr/posts/
+          weight: 4
+        - name: Arşiv
+          url: /tr/archives/
+          weight: 5
+        - name: Arama
+          url: /tr/search/
+          weight: 10
+        - name: Etiketler
+          url: /tr/tags/
+          weight: 10
+        - name: Hakkında
+          url: /tr/about/
+          weight: 15
