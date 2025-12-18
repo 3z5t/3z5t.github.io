@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![シャムロックグリーン](https://i.ibb.co/dJ3TbBdM/ja-5-19.png)
+![シャムロックグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_140.webp)
 
 ## 5月19日の誕生色: シャムロックグリーン (`#009966`)
 

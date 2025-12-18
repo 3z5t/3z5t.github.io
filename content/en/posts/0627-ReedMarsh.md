@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Reed Marsh](https://i.ibb.co/W4tz6rVb/en-Reed-Marsh-June-27th.png)
+![Reed Marsh](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_179.webp)
 
 ## Birthday Color for June 27th: Reed Marsh (`#B09A82`)
 

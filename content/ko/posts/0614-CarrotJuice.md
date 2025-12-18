@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![당근 주스](https://i.ibb.co/Pv1crFwR/ko-6-14.png)
+![당근 주스](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_166.webp)
 
 ## 6월 14일의 탄생색: 당근 주스 (`#E8742D`)
 

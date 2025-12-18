@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Cream](https://i.ibb.co/SXM4jd6V/en-Cream-May-9th.png)
+![Cream](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_130.webp)
 
 ## Birthday Color for May 9th: Cream (`#FFFFCC`)
 

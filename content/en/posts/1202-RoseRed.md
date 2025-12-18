@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Rose Red](https://i.ibb.co/hR6DDX4v/en-Rose-Red-December-2nd.png)
+![Rose Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_337.webp)
 
 ## Birthday Color for December 2nd: Rose Red (`#8D1C1C`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Vintage Navy](https://i.ibb.co/xK0zzkzb/en-Vintage-Navy-December-26th.png)
+![Vintage Navy](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_361.webp)
 
 ## Birthday Color for December 26th: Vintage Navy (`#494960`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Peach Puff](https://i.ibb.co/27BVMydy/en-Peach-Puff-August-3rd.png)
+![Peach Puff](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_216.webp)
 
 ## Birthday Color for August 3rd: Peach Puff (`#FFD7B5`)
 

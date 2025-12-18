@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![모닝글로리](https://i.ibb.co/8LxHNrty/ko-5-30.png)
+![모닝글로리](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_151.webp)
 
 ## 5월 30일의 탄생색: 모닝글로리 (`#99CCCC`)
 

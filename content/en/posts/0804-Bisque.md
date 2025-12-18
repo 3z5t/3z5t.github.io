@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Bisque](https://i.ibb.co/dJGyRgyP/en-Bisque-August-4th.png)
+![Bisque](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_217.webp)
 
 ## Birthday Color for August 4th: Bisque (`#FFE4C4`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 민트](https://i.ibb.co/r2KFbx7b/ko-3-4.png)
+![딥 민트](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_064.webp)
 
 ## 3월 4일의 탄생색: 딥 민트 (`#3ABAB5`)
 

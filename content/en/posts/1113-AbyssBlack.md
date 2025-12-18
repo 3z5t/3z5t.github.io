@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Abyss Black](https://i.ibb.co/XfB1jXyg/en-Abyss-Black-November-13th.png)
+![Abyss Black](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_318.webp)
 
 ## Birthday Color for November 13th: Abyss Black (`#1A1A1A`)
 

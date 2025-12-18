@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Royal Cobalt](https://i.ibb.co/XZtnNR6d/en-Royal-Cobalt-January-5th.png)
+![Royal Cobalt](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_005.webp)
 
 ## Birthday Color for January 5th: Royal Cobalt (`#00009B`)
 

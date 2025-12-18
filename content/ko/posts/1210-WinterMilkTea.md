@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![겨울 밀크티](https://i.ibb.co/5WpBDSvV/ko-12-10.png)
+![겨울 밀크티](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_345.webp)
 
 ## 12월 10일의 탄생색: 겨울 밀크티 (`#F2EDF3`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ソフトオリーブ](https://i.ibb.co/C5h1R3Mz/ja-10-30.png)
+![ソフトオリーブ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_304.webp)
 
 ## 10月30日の誕生色: ソフトオリーブ (`#7E9682`)
 

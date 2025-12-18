@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ライムグリーン](https://i.ibb.co/fL357YJ/ja-5-15.png)
+![ライムグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_136.webp)
 
 ## 5月15日の誕生色: ライムグリーン (`#6EAD5C`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![벌리우드](https://i.ibb.co/RpHZ0ZWz/ko-8-17.png)
+![벌리우드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_230.webp)
 
 ## 8월 17일의 탄생색: 벌리우드 (`#DCBF97`)
 

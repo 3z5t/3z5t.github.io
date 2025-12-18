@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dark Marsala](https://i.ibb.co/LqLfFvc/en-Dark-Marsala-October-4th.png)
+![Dark Marsala](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_278.webp)
 
 ## Birthday Color for October 4th: Dark Marsala (`#A4665D`)
 

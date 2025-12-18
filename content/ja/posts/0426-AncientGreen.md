@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![エイシェントグリーン](https://i.ibb.co/PZ9nDZrr/ja-4-26.png)
+![エイシェントグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_117.webp)
 
 ## 4月26日の誕生色: エイシェントグリーン (`#476664`)
 

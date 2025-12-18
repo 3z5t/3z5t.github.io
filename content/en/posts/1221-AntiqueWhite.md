@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Antique White](https://i.ibb.co/M5C7c1RG/en-Antique-White-December-21st.png)
+![Antique White](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_356.webp)
 
 ## Birthday Color for December 21st: Antique White (`#EBE2CE`)
 

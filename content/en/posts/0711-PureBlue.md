@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Pure Blue](https://i.ibb.co/DHV3dwcJ/en-Pure-Blue-July-11th.png)
+![Pure Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_193.webp)
 
 ## Birthday Color for July 11th: Pure Blue (`#3333FF`)
 

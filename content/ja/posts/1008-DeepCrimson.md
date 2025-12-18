@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープクリムゾン](https://i.ibb.co/TDLb4Ypr/ja-10-8.png)
+![ディープクリムゾン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_282.webp)
 
 ## 10月8日の誕生色: ディープクリムゾン (`#BA0046`)
 

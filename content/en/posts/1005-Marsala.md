@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Marsala](https://i.ibb.co/8gvLsDTz/en-Marsala-October-5th.png)
+![Marsala](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_279.webp)
 
 ## Birthday Color for October 5th: Marsala (`#E9AEA7`)
 

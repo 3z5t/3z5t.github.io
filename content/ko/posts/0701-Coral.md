@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![코랄](https://i.ibb.co/HLBmZjqy/ko-7-1.png)
+![코랄](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_183.webp)
 
 ## 7월 1일의 탄생색: 코랄 (`#FF7F50`)
 

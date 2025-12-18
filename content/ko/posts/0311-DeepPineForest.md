@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![깊은 솔숲](https://i.ibb.co/5g6qX9Wj/ko-3-11.png)
+![깊은 솔숲](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_071.webp)
 
 ## 3월 11일의 탄생색: 깊은 솔숲 (`#006400`)
 

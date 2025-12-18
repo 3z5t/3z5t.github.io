@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![프로스트 블루](https://i.ibb.co/3Y5mxbBK/ko-1-31.png)
+![프로스트 블루](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_031.webp)
 
 ## 1월 31일의 탄생색: 프로스트 블루 (`#9999CC`)
 

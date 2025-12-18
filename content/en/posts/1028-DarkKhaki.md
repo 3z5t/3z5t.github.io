@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dark Khaki](https://i.ibb.co/s9S9wSPb/en-Dark-Khaki-October-28th.png)
+![Dark Khaki](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_302.webp)
 
 ## Birthday Color for October 28th: Dark Khaki (`#BDB76B`)
 

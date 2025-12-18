@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Light Green Tea](https://i.ibb.co/r2VVd54Y/en-Light-Green-Tea-September-16th.png)
+![Light Green Tea](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_260.webp)
 
 ## Birthday Color for September 16th: Light Green Tea (`#ABA88A`)
 

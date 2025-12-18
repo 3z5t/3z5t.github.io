@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Melon](https://i.ibb.co/SDvwSMfx/en-Melon-April-9th.png)
+![Melon](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_100.webp)
 
 ## Birthday Color for April 9th: Melon (`#98E294`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Bright Brown](https://i.ibb.co/bgsvNrzP/en-Bright-Brown-September-19th.png)
+![Bright Brown](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_263.webp)
 
 ## Birthday Color for September 19th: Bright Brown (`#887865`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![エメラルドグリーン](https://i.ibb.co/v6sw98zH/ja-4-3.png)
+![エメラルドグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_094.webp)
 
 ## 4月3日の誕生色: エメラルドグリーン (`#00CC66`)
 

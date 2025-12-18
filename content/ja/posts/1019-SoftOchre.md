@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ソフトオーカー](https://i.ibb.co/7tKpf95q/ja-10-19.png)
+![ソフトオーカー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_293.webp)
 
 ## 10月19日の誕生色: ソフトオーカー (`#926630`)
 

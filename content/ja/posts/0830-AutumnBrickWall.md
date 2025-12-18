@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オータムブリックウォール](https://i.ibb.co/RTTjHRnQ/ja-8-30.png)
+![オータムブリックウォール](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_243.webp)
 
 ## 8月30日の誕生色: オータムブリックウォール (`#AA837E`)
 

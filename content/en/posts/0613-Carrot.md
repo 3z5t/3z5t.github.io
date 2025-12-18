@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Carrot](https://i.ibb.co/99xhcgpQ/en-Carrot-June-13th.png)
+![Carrot](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_165.webp)
 
 ## Birthday Color for June 13th: Carrot (`#EB731C`)
 

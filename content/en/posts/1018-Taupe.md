@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Taupe](https://i.ibb.co/SXr2Ryc4/en-Taupe-October-18th.png)
+![Taupe](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_292.webp)
 
 ## Birthday Color for October 18th: Taupe (`#805454`)
 

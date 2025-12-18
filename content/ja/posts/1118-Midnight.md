@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ミッドナイト](https://i.ibb.co/chds2JNR/ja-11-18.png)
+![ミッドナイト](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_323.webp)
 
 ## 11月18日の誕生色: ミッドナイト (`#242228`)
 

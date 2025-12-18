@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![빈티지 네이비](https://i.ibb.co/C3402x6M/ko-12-26.png)
+![빈티지 네이비](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_361.webp)
 
 ## 12월 26일의 탄생색: 빈티지 네이비 (`#494960`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Ivory Ice](https://i.ibb.co/zWSkqJNS/en-Ivory-Ice-August-12th.png)
+![Ivory Ice](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_225.webp)
 
 ## Birthday Color for August 12th: Ivory Ice (`#DEBA86`)
 

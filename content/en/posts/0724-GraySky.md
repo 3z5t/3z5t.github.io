@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Gray Sky](https://i.ibb.co/HDW7pLGR/en-Gray-Sky-July-24th.png)
+![Gray Sky](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_206.webp)
 
 ## Birthday Color for July 24th: Gray Sky (`#BDE0F4`)
 

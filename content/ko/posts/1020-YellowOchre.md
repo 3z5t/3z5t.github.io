@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![황토](https://i.ibb.co/s9TSg5HC/ko-10-20.png)
+![황토](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_294.webp)
 
 ## 10월 20일의 탄생색: 황토 (`#B28E58`)
 

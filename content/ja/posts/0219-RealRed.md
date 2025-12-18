@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![リアルレッド](https://i.ibb.co/bMb9jJQX/ja-2-19.png)
+![リアルレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_050.webp)
 
 ## 2月19日の誕生色: リアルレッド (`#C61400`)
 

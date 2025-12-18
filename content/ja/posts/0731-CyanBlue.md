@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![シアンブルー](https://i.ibb.co/kVrzMhBR/ja-7-31.png)
+![シアンブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_213.webp)
 
 ## 7月31日の誕生色: シアンブルー (`#0B93CE`)
 

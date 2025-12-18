@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![マルーン](https://i.ibb.co/Tx82VZ75/ja-10-14.png)
+![マルーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_288.webp)
 ## 10月14日の誕生色: マルーン (`#800000`)
 
 ### 1. マルーンについての説明（色の感覚と特徴）

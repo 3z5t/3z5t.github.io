@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープベージュ](https://i.ibb.co/CpPwJk0b/ja-8-27.png)
+![ディープベージュ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_240.webp)
 
 ## 8月27日の誕生色: ディープベージュ (`#D29E5C`)
 

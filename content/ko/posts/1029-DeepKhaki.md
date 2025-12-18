@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![진한 카키](https://i.ibb.co/m5Shbh2L/ko-10-29.png)
+![진한 카키](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_303.webp)
 
 ## 10월 29일의 탄생색: 진한 카키 (`#525C3E`)
 

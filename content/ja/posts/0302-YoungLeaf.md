@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ヤングリーフ](https://i.ibb.co/hJtVXMB2/ja-3-2.png)
+![ヤングリーフ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_062.webp)
 
 ## 3月2日の誕生色: ヤングリーフ (`#93AC8B`)
 

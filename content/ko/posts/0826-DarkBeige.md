@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![다크 베이지](https://i.ibb.co/zhVRWTrs/ko-8-26.png)
+![다크 베이지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_239.webp)
 
 ## 8월 26일의 탄생색: 다크 베이지 (`#DEB887`)
 

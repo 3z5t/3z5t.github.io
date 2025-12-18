@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ライトコーラル](https://i.ibb.co/MxvCpsBK/ja-7-3.png)
+![ライトコーラル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_185.webp)
 
 ## 7月3日の誕生色: ライトコーラル (`#F19292`)
 

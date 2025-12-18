@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ブライトブラウン](https://i.ibb.co/9SBLR1b/ja-9-19.png)
+![ブライトブラウン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_263.webp)
 
 ## 9月19日の誕生色: ブライトブラウン (`#887865`)
 

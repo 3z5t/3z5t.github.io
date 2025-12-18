@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープフォレスト](https://i.ibb.co/rf57RFcq/ja-4-27.png)
+![ディープフォレスト](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_118.webp)
 
 ## 4月27日の誕生色: ディープフォレスト (`#2F4A2F`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープアビス](https://i.ibb.co/KjcVBjsy/ja-11-19.png)
+![ディープアビス](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_324.webp)
 
 ## 11月19日の誕生色: ディープアビス (`#0D0D10`)
 

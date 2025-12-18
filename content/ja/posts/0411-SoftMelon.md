@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ソフトメロン](https://i.ibb.co/bDqvHhJ/ja-4-11.png)
+![ソフトメロン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_102.webp)
 
 ## 4月11日の誕生色: ソフトメロン (`#84C07A`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![リーフグリーン](https://i.ibb.co/vxztkFpS/ja-3-9.png)
+![リーフグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_069.webp)
 
 ## 3月9日の誕生色: リーフグリーン (`#587D4A`)
 

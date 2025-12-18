@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![シャイニングスター](https://i.ibb.co/G3ND13KF/ja-6-20.png)
+![シャイニングスター](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_172.webp)
 
 ## 6月20日の誕生色: シャイニングスター (`#EAAB5B`)
 

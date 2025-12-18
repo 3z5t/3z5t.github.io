@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ゴールデンサンド](https://i.ibb.co/Mx0wJ7vK/ja-6-29.png)
+![ゴールデンサンド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_181.webp)
 
 ## 6月29日の誕生色: ゴールデンサンド (`#CBA135`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![진한 딸기우유](https://i.ibb.co/WvmGBk2M/ko-3-20.png)
+![진한 딸기우유](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_080.webp)
 
 ## 3월 20일의 탄생색: 진한 딸기우유 (`#FF6FBD`)
 

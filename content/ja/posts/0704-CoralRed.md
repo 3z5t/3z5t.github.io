@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![コーラルレッド](https://i.ibb.co/Jw4r66W7/ja-7-4.png)
+![コーラルレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_186.webp)
 
 ## 7月4日の誕生色: コーラルレッド (`#FE5955`)
 

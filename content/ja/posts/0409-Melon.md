@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![メロン](https://i.ibb.co/23YSjrDm/ja-4-9.png)
+![メロン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_100.webp)
 
 ## 4月9日の誕生色: メロン (`#98E294`)
 

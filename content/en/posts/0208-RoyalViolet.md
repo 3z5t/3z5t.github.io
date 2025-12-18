@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Royal Violet](https://i.ibb.co/FbbLm0pw/en-Royal-Violet-February-8th.png)
+![Royal Violet](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_039.webp)
 
 ## Birthday Color for February 8th: Royal Violet (`#32127A`)
 

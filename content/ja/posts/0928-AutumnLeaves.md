@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オータムリーブス](https://i.ibb.co/bRJhP4SN/ja-9-28.png)
+![オータムリーブス](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_272.webp)
 
 ## 9月28日の誕生色: オータムリーブス (`#362925`)
 

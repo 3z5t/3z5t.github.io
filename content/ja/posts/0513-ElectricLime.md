@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![エレクトリックライム](https://i.ibb.co/N2Qv0kFQ/ja-5-13.png)
+![エレクトリックライム](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_134.webp)
 
 ## 5月13日の誕生色: エレクトリックライム (`#CCFF00`)
 

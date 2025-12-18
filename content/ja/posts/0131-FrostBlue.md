@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![フロストブルー](https://i.ibb.co/pBw8P4k1/ja-1-31.png)
+![フロストブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_031.webp)
 
 ## 1月31日の誕生色: フロストブルー (`#9999CC`)
 

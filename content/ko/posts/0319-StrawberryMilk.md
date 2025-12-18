@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딸기우유](https://i.ibb.co/fzFjCzr5/ko-3-19.png)
+![딸기우유](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_079.webp)
 
 ## 3월 19일의 탄생색: 딸기우유 (`#FF81D3`)
 

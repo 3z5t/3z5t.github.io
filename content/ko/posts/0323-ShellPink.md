@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![셸 핑크](https://i.ibb.co/5W68PMJw/ko-3-23.png)
+![셸 핑크](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_083.webp)
 
 ## 3월 23일의 탄생색: 셸 핑크 (`#E9CCC8`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ピーチヨーグルト](https://i.ibb.co/XrWv0BcT/ja-6-4.png)
+![ピーチヨーグルト](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_156.webp)
 
 ## 6月4日の誕生色: ピーチヨーグルト (`#FFC1B5`)
 

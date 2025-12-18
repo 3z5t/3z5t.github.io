@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Winter Leaves](https://i.ibb.co/JWkxGXLM/en-Winter-Leaves-November-12th.png)
+![Winter Leaves](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_317.webp)
 
 ## Birthday Color for November 12th: Winter Leaves (`#706863`)
 

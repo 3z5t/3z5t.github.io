@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![씨 그린](https://i.ibb.co/T6jJ1Xz/ko-4-29.png)
+![씨 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_120.webp)
 
 ## 4월 29일의 탄생색: 씨 그린 (`#19776B`)
 

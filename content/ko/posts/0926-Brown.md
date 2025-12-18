@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![브라운](https://i.ibb.co/r2Vnq5G3/ko-9-26.png)
+![브라운](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_270.webp)
 
 ## 9월 26일의 탄생색: 브라운 (`#7F3300`)
 

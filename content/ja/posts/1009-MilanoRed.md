@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ミラノレッド](https://i.ibb.co/60RPNksv/ja-10-9.png)
+![ミラノレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_283.webp)
 
 ## 10月9日の誕生色: ミラノレッド (`#993333`)
 

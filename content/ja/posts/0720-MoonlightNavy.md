@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ムーンライトネイビー](https://i.ibb.co/3yDRH5HG/ja-7-20.png)
+![ムーンライトネイビー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_202.webp)
 
 ## 7月20日の誕生色: ムーンライトネイビー (`#0A576C`)
 

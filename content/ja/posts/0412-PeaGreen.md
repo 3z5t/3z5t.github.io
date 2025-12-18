@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ピーグリーン（エンドウ豆）](https://i.ibb.co/Y7QQsT77/ja-4-12.png)
+![ピーグリーン（エンドウ豆）](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_103.webp)
 
 ## 4月12日の誕生色: ピーグリーン（エンドウ豆） (`#8C9E58`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Antique Choco](https://i.ibb.co/20s9wQ52/en-Antique-Choco-November-22nd.png)
+![Antique Choco](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_327.webp)
 
 ## Birthday Color for November 22nd: Antique Choco (`#1F070C`)
 

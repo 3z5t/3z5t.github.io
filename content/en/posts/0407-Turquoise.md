@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Turquoise](https://i.ibb.co/WNVgvQLD/en-Turquoise-April-7th.png)
+![Turquoise](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_098.webp)
 
 ## Birthday Color for April 7th: Turquoise (`#40E0D0`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![일렉트릭 블루](https://i.ibb.co/k6svktyz/ko-4-1.png)
+![일렉트릭 블루](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_092.webp)
 
 ## 4월 1일의 탄생색: 일렉트릭 블루 (#99FFFF)
 

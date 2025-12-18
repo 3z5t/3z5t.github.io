@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アッシュブラック](https://i.ibb.co/Cp2MLk2W/ja-11-2.png)
+![アッシュブラック](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_307.webp)
 
 ## 11月2日の誕生色: アッシュブラック (`#282221`)
 

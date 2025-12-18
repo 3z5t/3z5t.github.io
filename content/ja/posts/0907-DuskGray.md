@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ダスクグレー](https://i.ibb.co/fdftCCNL/ja-9-7.png)
+![ダスクグレー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_251.webp)
 
 ## 9月7日の誕生色: ダスクグレー (`#313035`)
 

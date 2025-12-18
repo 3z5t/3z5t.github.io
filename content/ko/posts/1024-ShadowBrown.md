@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![섀도우 브라운](https://i.ibb.co/JRwr3Q54/ko-10-24.png)
+![섀도우 브라운](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_298.webp)
 
 ## 10월 24일의 탄생색: 섀도우 브라운 (`#503D3E`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Oyster Pink](https://i.ibb.co/99tGqxLh/en-Oyster-Pink-March-24th.png)
+![Oyster Pink](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_084.webp)
 
 ## Birthday Color for March 24th: Oyster Pink (`#CEAAAD`)
 

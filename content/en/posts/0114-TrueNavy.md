@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![True Navy](https://i.ibb.co/GvBjYX4x/en-True-Navy-January-14th.png)
+![True Navy](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_014.webp)
 
 ## Birthday Color for January 14th: True Navy (`#313C75`)
 

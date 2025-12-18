@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Slate Green](https://i.ibb.co/93mjDLD2/en-Slate-Green-May-21st.png)
+![Slate Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_142.webp)
 
 ## Birthday Color for May 21st: Slate Green (`#557A7C`)
 

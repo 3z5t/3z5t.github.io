@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![로얄 베이지](https://i.ibb.co/PZHRmRX8/ko-8-18.png)
+![로얄 베이지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_231.webp)
 
 ## 8월 18일의 탄생색: 로얄 베이지 (`#AB9170`)
 

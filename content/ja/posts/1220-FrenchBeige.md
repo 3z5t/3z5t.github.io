@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![フレンチベージュ](https://i.ibb.co/LzC6nfvd/ja-12-20.png)
+![フレンチベージュ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_355.webp)
 
 ## 12月20日の誕生色: フレンチベージュ (`#D6A680`)
 

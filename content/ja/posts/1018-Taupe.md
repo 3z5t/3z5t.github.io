@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![トープ](https://i.ibb.co/QWmLcjQ/ja-10-18.png)
+![トープ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_292.webp)
 
 ## 10月18日の誕生色: トープ (`#805454`)
 

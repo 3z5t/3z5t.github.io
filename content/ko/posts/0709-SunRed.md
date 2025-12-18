@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![썬 레드](https://i.ibb.co/zHG7RwmH/ko-7-9.png)
+![썬 레드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_191.webp)
 
 ## 7월 9일의 탄생색: 썬 레드 (`#F01313`)
 

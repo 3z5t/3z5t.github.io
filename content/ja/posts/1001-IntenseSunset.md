@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![インテンスサンセット](https://i.ibb.co/G496jNMd/ja-10-1.png)
+![インテンスサンセット](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_275.webp)
 
 ## 10月1日の誕生色: インテンスサンセット (`#BC5445`)
 

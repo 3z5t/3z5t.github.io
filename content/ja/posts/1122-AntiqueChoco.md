@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アンティークチョコ](https://i.ibb.co/0yFbD1TB/ja-11-22.png)
+![アンティークチョコ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_327.webp)
 
 ## 11月22日の誕生色: アンティークチョコ (`#1F070C`)
 

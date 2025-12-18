@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープレッド](https://i.ibb.co/ch54XpV5/ja-2-18.png)
+![ディープレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_049.webp)
 
 ## 2月18日の誕生色: ディープレッド (`#F3392C`)
 

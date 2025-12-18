@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dark Espresso](https://i.ibb.co/cXy33GxH/en-Dark-Espresso-October-26th.png)
+![Dark Espresso](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_300.webp)
 
 ## Birthday Color for October 26th: Dark Espresso (`#504644`)
 

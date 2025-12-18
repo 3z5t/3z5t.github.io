@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![シルバーアンティーク](https://i.ibb.co/Z6kkptqm/ja-11-6.png)
+![シルバーアンティーク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_311.webp)
 
 ## 11月6日の誕生色: シルバーアンティーク (`#C6C3C6`)
 

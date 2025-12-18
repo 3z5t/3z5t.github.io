@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![골든 스타](https://i.ibb.co/rfQ0GB8N/ko-5-2.png)
+![골든 스타](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_123.webp)
 
 ## 5월 2일의 탄생색: 골든 스타 (`#E5A859`)
 

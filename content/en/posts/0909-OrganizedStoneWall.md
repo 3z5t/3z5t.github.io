@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Organized Stone Wall](https://i.ibb.co/kVHqKCYv/en-Organized-Stone-Wall-September-9th.png)
+![Organized Stone Wall](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_253.webp)
 
 ## Birthday Color for September 9th: Organized Stone Wall (`#665E5F`)
 

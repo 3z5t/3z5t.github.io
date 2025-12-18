@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Moose Gray](https://i.ibb.co/bjSDmf9y/en-Moose-Gray-November-7th.png)
+![Moose Gray](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_312.webp)
 ## Birthday Color for November 7th: Moose Gray (`#999999`)
 
 ### 1. Description of Moose Gray (Feeling and Traits)

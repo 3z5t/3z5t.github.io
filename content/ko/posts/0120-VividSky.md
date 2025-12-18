@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![비비드 스카이](https://i.ibb.co/Xf79fMDW/ko-1-20.png)
+![비비드 스카이](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_020.webp)
 
 ## 1월 20일의 탄생색: 비비드 스카이 (`#00BFFF`)
 

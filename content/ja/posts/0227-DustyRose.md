@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ダスティローズ](https://i.ibb.co/d0gvW1Cm/ja-2-27.png)
+![ダスティローズ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_058.webp)
 
 ## 2月27日の誕生色: ダスティローズ (`#794848`)
 

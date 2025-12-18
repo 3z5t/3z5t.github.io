@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ブライトモス](https://i.ibb.co/G4Y3Zxbb/ja-4-17.png)
+![ブライトモス](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_108.webp)
 
 ## 4月17日の誕生色: ブライトモス (`#ADC12D`)
 

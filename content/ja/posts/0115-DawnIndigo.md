@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ドーンインディゴ](https://i.ibb.co/3YkTk1V6/ja-1-15.png)
+![ドーンインディゴ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_015.webp)
 
 ## 1月15日の誕生色: ドーンインディゴ (`#2C3C57`)
 

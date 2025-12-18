@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dark Night](https://i.ibb.co/Pzz1DRcg/en-Dark-Night-November-17th.png)
+![Dark Night](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_322.webp)
 
 ## Birthday Color for November 17th: Dark Night (`#2A2333`)
 

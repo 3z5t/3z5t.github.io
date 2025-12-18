@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![グレースカイ](https://i.ibb.co/C3nVVTdJ/ja-7-24.png)
+![グレースカイ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_206.webp)
 
 ## 7月24日の誕生色: グレースカイ (`#BDE0F4`)
 

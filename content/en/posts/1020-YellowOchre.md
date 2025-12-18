@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Yellow Ochre](https://i.ibb.co/9H9N6xgv/en-Yellow-Ochre-October-20th.png)
+![Yellow Ochre](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_294.webp)
 
 ## Birthday Color for October 20th: Yellow Ochre (`#B28E58`)
 

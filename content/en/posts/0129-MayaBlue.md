@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Maya Blue](https://i.ibb.co/8gPqzwKS/en-Maya-Blue-January-29th.png)
+![Maya Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_029.webp)
 
 ## Birthday Color for January 29th: Maya Blue (`#6699FF`)
 

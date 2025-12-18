@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Blue Violet](https://i.ibb.co/0pDwrH7N/en-Blue-Violet-February-7th.png)
+![Blue Violet](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_038.webp)
 
 ## Birthday Color for February 7th: Blue Violet (`#8673C4`)
 

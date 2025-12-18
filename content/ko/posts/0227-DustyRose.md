@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![말린 장미](https://i.ibb.co/pvM2rJ9h/ko-2-27.png)
+![말린 장미](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_058.webp)
 ## 2월 27일의 탄생색: 말린 장미 (`#794848`)
 
 ### 1. 말린 장미에 대한 설명 (색의 느낌과 특징)

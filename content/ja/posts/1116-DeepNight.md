@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープナイト](https://i.ibb.co/WWsJDLp4/ja-11-16.png)
+![ディープナイト](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_321.webp)
 
 ## 11月16日の誕生色: ディープナイト (`#1A161F`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![파파야 블루](https://i.ibb.co/Rpt9jyxV/ko-4-22.png)
+![파파야 블루](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_113.webp)
 
 ## 4월 22일의 탄생색: 파파야 블루 (#37B5BE)
 

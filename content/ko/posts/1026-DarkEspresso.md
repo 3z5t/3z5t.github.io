@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![진한 고동빛](https://i.ibb.co/1F1wnTT/ko-10-26.png)
+![진한 고동빛](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_300.webp)
 
 ## 10월 26일의 탄생색: 진한 고동빛 (`#504644`)
 

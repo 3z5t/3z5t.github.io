@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Mystic Purple](https://i.ibb.co/G3QZq50V/en-Mystic-Purple-February-6th.png)
+![Mystic Purple](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_037.webp)
 
 ## Birthday Color for February 6th: Mystic Purple (`#520054`)
 

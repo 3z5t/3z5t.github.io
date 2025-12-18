@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Cool Beige](https://i.ibb.co/LdhnGbd1/en-Cool-Beige-August-24th.png)
+![Cool Beige](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_237.webp)
 
 ## Birthday Color for August 24th: Cool Beige (`#AF8E8A`)
 

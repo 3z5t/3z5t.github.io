@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![풀잎 초록](https://i.ibb.co/ZpVm2mWc/ko-3-9.png)
+![풀잎 초록](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_069.webp)
 ## 3월 9일의 탄생색: 풀잎 초록 (`#587D4A`)
 
 ### 1. 풀잎 초록에 대한 설명 (색의 느낌과 특징)

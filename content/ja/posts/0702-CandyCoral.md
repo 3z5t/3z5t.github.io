@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![キャンディコーラル](https://i.ibb.co/rRC4C273/ja-7-2.png)
+![キャンディコーラル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_184.webp)
 
 ## 7月2日の誕生色: キャンディコーラル (`#F18372`)
 

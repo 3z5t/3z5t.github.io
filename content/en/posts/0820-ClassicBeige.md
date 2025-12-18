@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Classic Beige](https://i.ibb.co/67vXBbgG/en-Classic-Beige-August-20th.png)
+![Classic Beige](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_233.webp)
 
 ## Birthday Color for August 20th: Classic Beige (`#D7C095`)
 

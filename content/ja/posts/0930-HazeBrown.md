@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ヘイズブラウン](https://i.ibb.co/8g1KCsPM/ja-9-30.png)
+![ヘイズブラウン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_274.webp)
 
 ## 9月30日の誕生色: ヘイズブラウン (`#9D8C7A`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Prussian Green](https://i.ibb.co/3Y8ZP1Z3/en-Prussian-Green-May-25th.png)
+![Prussian Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_146.webp)
 
 ## Birthday Color for May 25th: Prussian Green (`#009999`)
 

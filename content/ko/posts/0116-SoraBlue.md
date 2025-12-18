@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![소라](https://i.ibb.co/Pv08Fbqx/ko-1-16.png)
+![소라](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_016.webp)
 
 ## 1월 16일의 탄생색: 소라 (`#7F9BB9`)
 

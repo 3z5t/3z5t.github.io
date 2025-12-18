@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![브라이트 브라운](https://i.ibb.co/TqKL56Xx/ko-9-19.png)
+![브라이트 브라운](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_263.webp)
 
 ## 9월 19일의 탄생색: 브라이트 브라운 (`#887865`)
 

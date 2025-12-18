@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Cream Mocha](https://i.ibb.co/qFrV5vSL/en-Cream-Mocha-June-21st.png)
+![Cream Mocha](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_173.webp)
 
 ## Birthday Color for June 21st: Cream Mocha (`#D19A71`)
 

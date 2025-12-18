@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Coral](https://i.ibb.co/kgcfG9gL/en-Deep-Coral-October-16th.png)
+![Deep Coral](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_290.webp)
 
 ## Birthday Color for October 16th: Deep Coral (`#743636`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Antique Purple](https://i.ibb.co/ch9cfmrr/en-Antique-Purple-November-23rd.png)
+![Antique Purple](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_328.webp)
 ## Birthday Color for November 23rd: Antique Purple (`#5E162D`)
 
 ### 1. Description of Antique Purple (Feeling and Traits)

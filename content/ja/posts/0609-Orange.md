@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オレンジ](https://i.ibb.co/xT2fp57/ja-6-9.png)
+![オレンジ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_161.webp)
 ## 6月9日の誕生色: オレンジ (`#FF6633`)
 
 ### 1. オレンジについての説明（色の感覚と特徴）

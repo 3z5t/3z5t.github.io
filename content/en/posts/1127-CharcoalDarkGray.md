@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Charcoal Dark Gray](https://i.ibb.co/PGQCfG0H/en-Charcoal-Dark-Gray-November-27th.png)
+![Charcoal Dark Gray](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_332.webp)
 
 ## Birthday Color for November 27th: Charcoal Dark Gray (`#2F2C2C`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![와일드 스트로베리](https://i.ibb.co/BHcC4sgZ/ko-7-13.png)
+![와일드 스트로베리](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_195.webp)
 
 ## 7월 13일의 탄생색: 와일드 스트로베리 (`#FF3399`)
 

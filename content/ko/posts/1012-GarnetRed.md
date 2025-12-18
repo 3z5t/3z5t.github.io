@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![가넷 레드](https://i.ibb.co/hR5bDcS7/ko-10-12.png)
+![가넷 레드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_286.webp)
 
 ## 10월 12일의 탄생색: 가넷 레드 (`#AA0000`)
 

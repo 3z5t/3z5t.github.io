@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Knight Green](https://i.ibb.co/1YZ6T3r7/en-Knight-Green-May-17th.png)
+![Knight Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_138.webp)
 
 ## Birthday Color for May 17th: Knight Green (`#5C9432`)
 

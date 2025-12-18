@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Barley Tea](https://i.ibb.co/27ZVd0gD/en-Barley-Tea-September-17th.png)
+![Barley Tea](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_261.webp)
 
 ## Birthday Color for September 17th: Barley Tea (`#BD844B`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![이글 레드](https://i.ibb.co/ZRCRbQry/ko-7-8.png)
+![이글 레드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_190.webp)
 
 ## 7월 8일의 탄생색: 이글 레드 (`#FF2D2D`)
 

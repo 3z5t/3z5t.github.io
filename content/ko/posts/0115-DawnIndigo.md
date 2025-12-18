@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![새벽 쪽빛](https://i.ibb.co/TMdLKQTF/ko-1-15.png)
+![새벽 쪽빛](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_015.webp)
 
 ## 1월 15일의 탄생색: 새벽 쪽빛 (`#2C3C57`)
 

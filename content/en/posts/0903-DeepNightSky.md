@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Night Sky](https://i.ibb.co/gZ2xtSyh/en-Deep-Night-Sky-September-3rd.png)
+![Deep Night Sky](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_247.webp)
 
 ## Birthday Color for September 3rd: Deep Night Sky (`#142029`)
 

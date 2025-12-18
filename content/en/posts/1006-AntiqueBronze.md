@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Antique Bronze](https://i.ibb.co/skYysJf/en-Antique-Bronze-October-6th.png)
+![Antique Bronze](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_280.webp)
 
 ## Birthday Color for October 6th: Antique Bronze (`#9B6066`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Clear Sky](https://i.ibb.co/p6LFnLmG/en-Clear-Sky-January-21st.png)
+![Clear Sky](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_021.webp)
 
 ## Birthday Color for January 21st: Clear Sky (`#99DBE9`)
 

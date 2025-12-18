@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Ash Brown](https://i.ibb.co/xtnqwPyK/en-Ash-Brown-September-23rd.png)
+![Ash Brown](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_267.webp)
 
 ## Birthday Color for September 23rd: Ash Brown (`#534E4B`)
 

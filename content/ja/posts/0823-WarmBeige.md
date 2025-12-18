@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ウォームベージュ](https://i.ibb.co/GvcFZpJ8/ja-8-23.png)
+![ウォームベージュ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_236.webp)
 
 ## 8月23日の誕生色: ウォームベージュ (`#B69174`)
 

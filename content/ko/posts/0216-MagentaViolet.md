@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![마젠타 바이올렛](https://i.ibb.co/jZ4Px8H3/ko-2-16.png)
+![마젠타 바이올렛](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_047.webp)
 
 ## 2월 16일의 탄생색: 마젠타 바이올렛 (`#EE82EE`)
 

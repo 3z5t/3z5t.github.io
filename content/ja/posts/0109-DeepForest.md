@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープフォレスト](https://i.ibb.co/5W8XXMyv/ja-1-9.png)
+![ディープフォレスト](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_009.webp)
 
 ## 1月9日の誕生色: ディープフォレスト (`#13191A`)
 

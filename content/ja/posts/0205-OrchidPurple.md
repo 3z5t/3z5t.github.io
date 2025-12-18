@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オーキッドパープル](https://i.ibb.co/S7KQDQCm/ja-2-5.png)
+![オーキッドパープル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_036.webp)
 
 ## 2月5日の誕生色: オーキッドパープル (`#9F56A2`)
 

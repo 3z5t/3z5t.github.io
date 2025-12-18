@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![デリケートグリーン](https://i.ibb.co/6Rv33VHp/ja-6-1.png)
+![デリケートグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_153.webp)
 
 ## 6月1日の誕生色: デリケートグリーン (`#7DDCC4`)
 

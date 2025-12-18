@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Ivory](https://i.ibb.co/fzJCv5vy/en-Ivory-August-15th.png)
+![Ivory](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_228.webp)
 
 ## Birthday Color for August 15th: Ivory (`#FFFFE0`)
 

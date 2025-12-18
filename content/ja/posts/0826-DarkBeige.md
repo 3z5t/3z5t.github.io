@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ダークベージュ](https://i.ibb.co/ZRsZt6gG/ja-8-26.png)
+![ダークベージュ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_239.webp)
 
 ## 8月26日の誕生色: ダークベージュ (`#DEB887`)
 

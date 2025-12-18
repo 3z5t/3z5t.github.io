@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![어두운 밤](https://i.ibb.co/XfZ8QXdB/ko-11-17.png)
+![어두운 밤](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_322.webp)
 
 ## 11월 17일의 탄생색: 어두운 밤 (`#2A2333`)
 

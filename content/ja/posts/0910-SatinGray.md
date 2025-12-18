@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![サテングレー](https://i.ibb.co/jPwSrNKd/ja-9-10.png)
+![サテングレー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_254.webp)
 
 ## 9月10日の誕生色: サテングレー (`#B3A6A4`)
 

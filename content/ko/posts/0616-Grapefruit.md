@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![자몽](https://i.ibb.co/F4pKJFhv/ko-6-16.png)
+![자몽](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_168.webp)
 
 ## 6월 16일의 탄생색: 자몽 (`#FE7B84`)
 

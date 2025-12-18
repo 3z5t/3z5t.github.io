@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Real Black](https://i.ibb.co/B2XgsWB6/en-Real-Black-November-14th.png)
+![Real Black](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_319.webp)
 
 ## Birthday Color for November 14th: Real Black (`#2B2B2B`)
 

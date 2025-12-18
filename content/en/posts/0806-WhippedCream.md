@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Whipped Cream](https://i.ibb.co/B5kFnxdM/en-Whipped-Cream-August-6th.png)
+![Whipped Cream](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_219.webp)
 
 ## Birthday Color for August 6th: Whipped Cream (`#DFDCDD`)
 

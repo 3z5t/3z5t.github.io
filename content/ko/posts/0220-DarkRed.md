@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![다크 레드](https://i.ibb.co/0RsNYMWc/ko-2-20.png)
+![다크 레드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_051.webp)
 
 ## 2월 20일의 탄생색: 다크 레드 (`#840C18`)
 

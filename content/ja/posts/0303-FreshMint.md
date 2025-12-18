@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![フレッシュミント](https://i.ibb.co/ds88hHL3/ja-3-3.png)
+![フレッシュミント](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_063.webp)
 
 ## 3月3日の誕生色: フレッシュミント (`#64D1C3`)
 

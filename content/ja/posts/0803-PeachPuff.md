@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ピーチパフ](https://i.ibb.co/J02bYSN/ja-8-3.png)
+![ピーチパフ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_216.webp)
 
 ## 8月3日の誕生色: ピーチパフ (`#FFD7B5`)
 

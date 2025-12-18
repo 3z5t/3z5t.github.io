@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ダークマルーン](https://i.ibb.co/jP3yCgWt/ja-10-13.png)
+![ダークマルーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_287.webp)
 
 ## 10月13日の誕生色: ダークマルーン (`#3A0000`)
 

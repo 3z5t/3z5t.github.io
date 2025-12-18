@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Classic Navy](https://i.ibb.co/xqpQkbz2/en-Classic-Navy-January-6th.png)
+![Classic Navy](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_006.webp)
 
 ## Birthday Color for January 6th: Classic Navy (`#000066`)
 

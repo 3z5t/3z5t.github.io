@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Vita Lime](https://i.ibb.co/HTDLKgG6/en-Vita-Lime-April-19th.png)
+![Vita Lime](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_110.webp)
 
 ## Birthday Color for April 19th: Vita Lime (`#D1D734`)
 

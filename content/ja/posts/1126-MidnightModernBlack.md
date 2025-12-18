@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ミッドナイトモダンブラック](https://i.ibb.co/F40Qzv3T/ja-11-26.png)
+![ミッドナイトモダンブラック](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_331.webp)
 
 ## 11月26日の誕生色: ミッドナイトモダンブラック (`#1A1A1B`)
 

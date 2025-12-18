@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Spicy Red](https://i.ibb.co/gbJXQ6BG/en-Spicy-Red-October-10th.png)
+![Spicy Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_284.webp)
 
 ## Birthday Color for October 10th: Spicy Red (`#990033`)
 

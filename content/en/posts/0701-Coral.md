@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Coral](https://i.ibb.co/vxxbMw33/en-Coral-July-1st.png)
+![Coral](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_183.webp)
 
 ## Birthday Color for July 1st: Coral (`#FF7F50`)
 

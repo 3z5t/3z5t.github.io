@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アフタヌーンアッシュ](https://i.ibb.co/8LrHydhk/ja-9-6.png)
+![アフタヌーンアッシュ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_250.webp)
 
 ## 9月6日の誕生色: アフタヌーンアッシュ (`#191B28`)
 

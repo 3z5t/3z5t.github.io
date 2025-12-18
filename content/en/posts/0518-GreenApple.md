@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Green Apple](https://i.ibb.co/Lh5fmp0g/en-Green-Apple-May-18th.png)
+![Green Apple](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_139.webp)
 
 ## Birthday Color for May 18th: Green Apple (`#5CE546`)
 

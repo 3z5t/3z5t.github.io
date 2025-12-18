@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Charcoal](https://i.ibb.co/5ghPLXwj/en-Charcoal-November-11th.png)
+![Charcoal](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_316.webp)
 
 ## Birthday Color for November 11th: Charcoal (`#373F57`)
 

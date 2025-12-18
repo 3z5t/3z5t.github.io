@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![아이보리 아이스](https://i.ibb.co/TM4F5MRG/ko-8-12.png)
+![아이보리 아이스](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_225.webp)
 
 ## 8월 12일의 탄생색: 아이보리 아이스 (`#DEBA86`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Grey Purple](https://i.ibb.co/Xkb66VYR/en-Deep-Grey-Purple-February-4th.png)
+![Deep Grey Purple](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_035.webp)
 
 ## Birthday Color for February 4th: Deep Grey Purple (`#524782`)
 

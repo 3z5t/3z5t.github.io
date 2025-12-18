@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Sea Green](https://i.ibb.co/bRMW7cDQ/en-Sea-Green-April-29th.png)
+![Sea Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_120.webp)
 
 ## Birthday Color for April 29th: Sea Green (`#19776B`)
 

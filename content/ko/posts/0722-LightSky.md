@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![라이트 스카이](https://i.ibb.co/S4C8ZpxZ/ko-7-22.png)
+![라이트 스카이](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_204.webp)
 
 ## 7월 22일의 탄생색: 라이트 스카이 (`#3DDAEE`)
 

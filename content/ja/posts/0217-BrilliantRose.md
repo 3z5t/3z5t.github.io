@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ブリリアントローズ](https://i.ibb.co/M5JNz9Xt/ja-2-17.png)
+![ブリリアントローズ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_048.webp)
 
 ## 2月17日の誕生色: ブリリアントローズ (`#FF6699`)
 

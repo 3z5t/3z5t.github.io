@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Silver Rose](https://i.ibb.co/kf5KFw3/en-Silver-Rose-March-25th.png)
+![Silver Rose](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_085.webp)
 
 ## Birthday Color for March 25th: Silver Rose (`#BE8C92`)
 

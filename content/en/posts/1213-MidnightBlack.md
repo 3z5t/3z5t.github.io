@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Midnight Black](https://i.ibb.co/21nZFzj0/en-Midnight-Black-December-13th.png)
+![Midnight Black](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_348.webp)
 
 ## Birthday Color for December 13th: Midnight Black (`#141618`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![레몬](https://i.ibb.co/4wkzKPh8/ko-5-7.png)
+![레몬](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_128.webp)
 
 ## 5월 7일의 탄생색: 레몬 (`#EFDA00`)
 

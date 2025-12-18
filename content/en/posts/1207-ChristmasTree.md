@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Christmas Tree](https://i.ibb.co/nMLn2Tsf/en-Christmas-Tree-December-7th.png)
+![Christmas Tree](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_342.webp)
 
 ## Birthday Color for December 7th: Christmas Tree (`#506850`)
 

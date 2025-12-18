@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Pure Green](https://i.ibb.co/gZvdQXQN/en-Pure-Green-May-16th.png)
+![Pure Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_137.webp)
 
 ## Birthday Color for May 16th: Pure Green (`#2FBA10`)
 

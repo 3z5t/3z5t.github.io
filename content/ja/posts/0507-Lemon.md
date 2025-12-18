@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![レモン](https://i.ibb.co/Vc1wkwW3/ja-5-7.png)
+![レモン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_128.webp)
 
 ## 5月7日の誕生色: レモン (`#EFDA00`)
 

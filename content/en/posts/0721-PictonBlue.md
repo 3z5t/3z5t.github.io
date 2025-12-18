@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Picton Blue](https://i.ibb.co/cSBpVJX4/en-Picton-Blue-July-21st.png)
+![Picton Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_203.webp)
 
 ## Birthday Color for July 21st: Picton Blue (`#6699CC`)
 

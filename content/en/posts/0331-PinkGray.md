@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Pink Gray](https://i.ibb.co/vvxSw6zJ/en-Pink-Gray-March-31st.png)
+![Pink Gray](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_091.webp)
 
 ## Birthday Color for March 31st: Pink Gray (`#E5D7CD`)
 

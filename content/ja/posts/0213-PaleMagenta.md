@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ペールマゼンタ](https://i.ibb.co/4Z8Y5QTv/ja-2-13.png)
+![ペールマゼンタ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_044.webp)
 
 ## 2月13日の誕生色: ペールマゼンタ (`#61368D`)
 

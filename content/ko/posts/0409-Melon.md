@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![멜론](https://i.ibb.co/svyZRgQ8/ko-4-9.png)
+![멜론](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_100.webp)
 
 ## 4월 9일의 탄생색: 멜론 (#98E294)
 

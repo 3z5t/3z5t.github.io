@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ブライトブルー](https://i.ibb.co/CKk83StR/ja-1-28.png)
+![ブライトブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_028.webp)
 ## 1月28日の誕生色: ブライトブルー (`#9CB0D3`)
 
 ### 1. ブライトブルーについての説明

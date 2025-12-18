@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ソフトレモン](https://i.ibb.co/WWmrpdNY/ja-5-8.png)
+![ソフトレモン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_129.webp)
 
 ## 5月8日の誕生色: ソフトレモン (`#D5D679`)
 

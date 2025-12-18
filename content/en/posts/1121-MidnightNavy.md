@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Midnight Navy](https://i.ibb.co/fYMmDmBC/en-Midnight-Navy-November-21st.png)
+![Midnight Navy](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_326.webp)
 
 ## Birthday Color for November 21st: Midnight Navy (`#000033`)
 

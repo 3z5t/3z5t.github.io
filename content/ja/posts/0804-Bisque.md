@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ビスク](https://i.ibb.co/1GPYZ8DJ/ja-8-4.png)
+![ビスク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_217.webp)
 
 ## 8月4日の誕生色: ビスク (`#FFE4C4`)
 

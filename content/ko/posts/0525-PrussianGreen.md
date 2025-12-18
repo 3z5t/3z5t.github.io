@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![프러시안 그린](https://i.ibb.co/xSY2sgXd/ko-5-25.png)
+![프러시안 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_146.webp)
 
 ## 5월 25일의 탄생색: 프러시안 그린 (`#009999`)
 

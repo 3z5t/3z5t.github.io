@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Caribbean Green](https://i.ibb.co/m5bf2g28/en-Caribbean-Green-April-4th.png)
+![Caribbean Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_095.webp)
 
 ## Birthday Color for April 4th: Caribbean Green (`#00CC99`)
 

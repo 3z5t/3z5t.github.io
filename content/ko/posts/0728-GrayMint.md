@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![그레이 민트](https://i.ibb.co/8DjvRV6P/ko-7-28.png)
+![그레이 민트](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_210.webp)
 
 ## 7월 28일의 탄생색: 그레이 민트 (`#ADCECE`)
 

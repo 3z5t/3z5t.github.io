@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![수국 핑크](https://i.ibb.co/TSznMcp/ko-3-29.png)
+![수국 핑크](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_089.webp)
 
 ## 3월 29일의 탄생색: 수국 핑크 (#FFBFCA)
 

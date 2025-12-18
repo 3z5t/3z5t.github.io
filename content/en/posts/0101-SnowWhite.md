@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Snow White](https://i.ibb.co/842YxXHn/en-Snow-White-January-1st.png)
+![Snow White](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_001.webp)
 
 ## Birthday Color for January 1st: Snow White (`#F2F1F1`)
 

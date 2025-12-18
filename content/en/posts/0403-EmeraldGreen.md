@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Emerald Green](https://i.ibb.co/ds096CyJ/en-Emerald-Green-April-3rd.png)
+![Emerald Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_094.webp)
 
 ## Birthday Color for April 3rd: Emerald Green (`#00CC66`)
 

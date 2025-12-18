@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クリアスカイ](https://i.ibb.co/Y7hWhHn8/ja-1-21.png)
+![クリアスカイ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_021.webp)
 
 ## 1月21日の誕生色: クリアスカイ (`#99DBE9`)
 

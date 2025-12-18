@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![チェリーブロッサム](https://i.ibb.co/YFBLT1sx/ja-3-15.png)
+![チェリーブロッサム](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_075.webp)
 ## 3月15日の誕生色: チェリーブロッサム (`#F0ADCA`)
 
 ### 1. チェリーブロッサムについての説明

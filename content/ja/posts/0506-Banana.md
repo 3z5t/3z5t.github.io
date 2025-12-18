@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![バナナ](https://i.ibb.co/KpSVfxvm/ja-5-6.png)
+![バナナ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_127.webp)
 
 ## 5月6日の誕生色: バナナ (`#FFF462`)
 

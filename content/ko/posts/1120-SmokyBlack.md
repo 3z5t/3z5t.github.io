@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![스모키 블랙](https://i.ibb.co/MDd0jK45/ko-11-20.png)
+![스모키 블랙](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_325.webp)
 
 ## 11월 20일의 탄생색: 스모키 블랙 (`#100F0F`)
 

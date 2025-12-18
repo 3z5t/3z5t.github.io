@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![고운 모래](https://i.ibb.co/dJfVWZPc/ko-9-11.png)
+![고운 모래](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_255.webp)
 
 ## 9월 11일의 탄생색: 고운 모래 (`#EEE9E2`)
 

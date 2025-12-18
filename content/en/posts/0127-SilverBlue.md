@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Silver Blue](https://i.ibb.co/pv0tM1b9/en-Silver-Blue-January-27th.png)
+![Silver Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_027.webp)
 
 ## Birthday Color for January 27th: Silver Blue (`#ABB5C1`)
 

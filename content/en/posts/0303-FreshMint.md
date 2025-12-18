@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Fresh Mint](https://i.ibb.co/NdHhGCFZ/en-Fresh-Mint-March-3rd.png)
+![Fresh Mint](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_063.webp)
 
 ## Birthday Color for March 3rd: Fresh Mint (`#64D1C3`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープナイトスカイ](https://i.ibb.co/zVFQ2s1Z/ja-9-3.png)
+![ディープナイトスカイ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_247.webp)
 
 ## 9月3日の誕生色: ディープナイトスカイ (`#142029`)
 

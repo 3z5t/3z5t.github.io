@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ワイルドグリーン](https://i.ibb.co/fdN07Z5W/ja-4-30.png)
+![ワイルドグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_121.webp)
 
 ## 4月30日の誕生色: ワイルドグリーン (`#387146`)
 

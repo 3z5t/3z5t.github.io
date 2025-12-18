@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![パステルピンク](https://i.ibb.co/JMMkGYt/ja-3-22.png)
+![パステルピンク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_082.webp)
 
 ## 3月22日の誕生色: パステルピンク (`#FFD1DC`)
 

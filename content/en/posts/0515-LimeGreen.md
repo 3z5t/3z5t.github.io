@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Lime Green](https://i.ibb.co/VpxsKsgg/en-Lime-Green-May-15th.png)
+![Lime Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_136.webp)
 
 ## Birthday Color for May 15th: Lime Green (`#6EAD5C`)
 

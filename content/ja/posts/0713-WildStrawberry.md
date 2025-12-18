@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ワイルドストロベリー](https://i.ibb.co/Y4Dr4yKT/ja-7-13.png)
+![ワイルドストロベリー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_195.webp)
 
 ## 7月13日の誕生色: ワイルドストロベリー (`#FF3399`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Antique Gold](https://i.ibb.co/j9Dqz47T/en-Antique-Gold-May-4th.png)
+![Antique Gold](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_125.webp)
 
 ## Birthday Color for May 4th: Antique Gold (`#CFB53B`)
 

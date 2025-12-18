@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Vivid Red](https://i.ibb.co/xKvMpqTv/en-Vivid-Red-December-5th.png)
+![Vivid Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_340.webp)
 ## Birthday Color for December 5th: Vivid Red (#D93232)
 
 ### 1. Description of Vivid Red (Feeling and Traits)

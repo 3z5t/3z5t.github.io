@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![애쉬 브라운](https://i.ibb.co/TMTz7ZF2/ko-9-23.png)
+![애쉬 브라운](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_267.webp)
 
 ## 9월 23일의 탄생색: 애쉬 브라운 (`#534E4B`)
 

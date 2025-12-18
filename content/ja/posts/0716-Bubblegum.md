@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![バブルガム](https://i.ibb.co/JWFdw1NY/ja-7-16.png)
+![バブルガム](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_198.webp)
 
 ## 7月16日の誕生色: バブルガム (`#FBC9CB`)
 

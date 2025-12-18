@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![グリーンティー](https://i.ibb.co/fzC3PWd8/ja-9-15.png)
+![グリーンティー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_259.webp)
 
 ## 9月15日の誕生色: グリーンティー (`#98946E`)
 

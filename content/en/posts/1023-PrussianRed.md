@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Prussian Red](https://i.ibb.co/dH035QB/en-Prussian-Red-October-23rd.png)
+![Prussian Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_297.webp)
 
 ## Birthday Color for October 23rd: Prussian Red (`#CC3333`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Orchid Purple](https://i.ibb.co/sJkL2TM3/en-Orchid-Purple-February-5th.png)
+![Orchid Purple](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_036.webp)
 
 ## Birthday Color for February 5th: Orchid Purple (`#9F56A2`)
 

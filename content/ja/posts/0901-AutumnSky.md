@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オータムスカイ](https://i.ibb.co/NdFnFPyF/ja-9-1.png)
+![オータムスカイ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_245.webp)
 
 ## 9月1日の誕生色: オータムスカイ (`#59819A`)
 

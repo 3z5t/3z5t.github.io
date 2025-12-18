@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Forest Green](https://i.ibb.co/1GZHSK7L/en-Forest-Green-March-8th.png)
+![Forest Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_068.webp)
 
 ## Birthday Color for March 8th: Forest Green (`#006600`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![チョコ](https://i.ibb.co/fGxkSM00/ja-11-30.png)
+![チョコ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_335.webp)
 
 ## 11月30日の誕生色: チョコ (`#633122`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クラウディスカイ](https://i.ibb.co/KxWC4yNh/ja-1-24.png)
+![クラウディスカイ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_024.webp)
 
 ## 1月24日の誕生色: クラウディスカイ (`#C3CFE0`)
 

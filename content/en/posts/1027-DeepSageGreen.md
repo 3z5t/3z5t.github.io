@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Sage Green](https://i.ibb.co/zhYnwSS2/en-Deep-Sage-Green-October-27th.png)
+![Deep Sage Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_301.webp)
 
 ## Birthday Color for October 27th: Deep Sage Green (`#055F5F`)
 

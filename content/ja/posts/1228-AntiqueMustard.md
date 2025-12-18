@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アンティークマスタード](https://i.ibb.co/wZSFJ21Q/ja-12-28.png)
+![アンティークマスタード](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_363.webp)
 
 ## 12月28日の誕生色: アンティークマスタード (`#BB8F3D`)
 

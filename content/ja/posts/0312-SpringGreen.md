@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![スプリンググリーン](https://i.ibb.co/gFWqY8Yv/ja-3-12.png)
+![スプリンググリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_072.webp)
 
 ## 3月12日の誕生色: スプリンググリーン (`#00FF66`)
 

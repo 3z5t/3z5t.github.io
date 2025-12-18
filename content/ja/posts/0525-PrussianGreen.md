@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![プルシアングリーン](https://i.ibb.co/9HYchxPn/ja-5-25.png)
+![プルシアングリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_146.webp)
 
 ## 5月25日の誕生色: プルシアングリーン (`#009999`)
 

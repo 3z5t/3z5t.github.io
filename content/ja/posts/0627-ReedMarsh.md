@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![リードマーシュ（葦原）](https://i.ibb.co/NkRqB3m/ja-6-27.png)
+![リードマーシュ（葦原）](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_179.webp)
 
 ## 6月27日の誕生色: リードマーシュ（葦原） (`#B09A82`)
 

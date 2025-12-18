@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Banana](https://i.ibb.co/qMNhG6yL/en-Banana-May-6th.png)
+![Banana](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_127.webp)
 
 ## Birthday Color for May 6th: Banana (`#FFF462`)
 

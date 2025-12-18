@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Lime Olive](https://i.ibb.co/WNtsC6zb/en-Lime-Olive-April-15th.png)
+![Lime Olive](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_106.webp)
 
 ## Birthday Color for April 15th: Lime Olive (`#B8C249`)
 

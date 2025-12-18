@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![프렌치 베이지](https://i.ibb.co/1tzpBLTH/ko-12-20.png)
+![프렌치 베이지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_355.webp)
 
 ## 12월 20일의 탄생색: 프렌치 베이지 (`#D6A680`)
 

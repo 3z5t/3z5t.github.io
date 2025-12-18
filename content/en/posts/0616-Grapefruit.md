@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Grapefruit](https://i.ibb.co/Z60wRv6Q/en-Grapefruit-June-16th.png)
+![Grapefruit](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_168.webp)
 
 ## Birthday Color for June 16th: Grapefruit (`#FE7B84`)
 

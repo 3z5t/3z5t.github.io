@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オリーブ](https://i.ibb.co/fVCRhtGx/ja-4-14.png)
+![オリーブ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_105.webp)
 
 ## 4月14日の誕生色: オリーブ (`#666600`)
 

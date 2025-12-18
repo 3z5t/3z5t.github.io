@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Light Salmon](https://i.ibb.co/6cfDmFRX/en-Light-Salmon-August-2nd.png)
+![Light Salmon](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_215.webp)
 
 ## Birthday Color for August 2nd: Light Salmon (`#FFA07A`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![올드 그린](https://i.ibb.co/GQ2qrm2D/ko-9-20.png)
+![올드 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_264.webp)
 
 ## 9월 20일의 탄생색: 올드 그린 (`#726D46`)
 

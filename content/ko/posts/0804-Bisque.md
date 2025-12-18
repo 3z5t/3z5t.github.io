@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![비스크](https://i.ibb.co/qXsSdCR/ko-8-4.png)
+![비스크](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_217.webp)
 
 ## 8월 4일의 탄생색: 비스크 (`#FFE4C4`)
 

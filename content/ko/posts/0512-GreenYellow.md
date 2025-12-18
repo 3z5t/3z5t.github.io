@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![그린 옐로우](https://i.ibb.co/zdH1B2B/ko-5-12.png)
+![그린 옐로우](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_133.webp)
 
 ## 5월 12일의 탄생색: 그린 옐로우 (`#99FF33`)
 

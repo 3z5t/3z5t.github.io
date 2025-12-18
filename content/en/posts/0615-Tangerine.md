@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Tangerine](https://i.ibb.co/6cd9GFwY/en-Tangerine-June-15th.png)
+![Tangerine](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_167.webp)
 
 ## Birthday Color for June 15th: Tangerine (`#EE934F`)
 

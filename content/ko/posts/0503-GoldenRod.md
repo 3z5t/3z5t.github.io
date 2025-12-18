@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![골든 로드](https://i.ibb.co/F4JkCyPg/ko-5-3.png)
+![골든 로드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_124.webp)
 
 ## 5월 3일의 탄생색: 골든 로드 (`#DAA520`)
 

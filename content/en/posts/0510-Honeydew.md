@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Honeydew](https://i.ibb.co/twRprFMF/en-Honeydew-May-10th.png)
+![Honeydew](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_131.webp)
 
 ## Birthday Color for May 10th: Honeydew (`#CCFFCC`)
 

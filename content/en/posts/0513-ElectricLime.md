@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Electric Lime](https://i.ibb.co/tppM0T2k/en-Electric-Lime-May-13th.png)
+![Electric Lime](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_134.webp)
 
 ## Birthday Color for May 13th: Electric Lime (`#CCFF00`)
 

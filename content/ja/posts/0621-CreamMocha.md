@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クリームモカ](https://i.ibb.co/XZMt3wzJ/ja-6-21.png)
+![クリームモカ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_173.webp)
 
 ## 6月21日の誕生色: クリームモカ (`#D19A71`)
 

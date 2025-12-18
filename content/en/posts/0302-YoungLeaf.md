@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Young Leaf](https://i.ibb.co/V02n8qRB/en-Young-Leaf-March-2nd.png)
+![Young Leaf](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_062.webp)
 
 ## Birthday Color for March 2nd: Young Leaf (`#93AC8B`)
 

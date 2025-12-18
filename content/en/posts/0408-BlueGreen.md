@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Blue Green](https://i.ibb.co/HTN2xsrJ/en-Blue-Green-April-8th.png)
+![Blue Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_099.webp)
 ## Birthday Color for April 8th: Blue Green (`#30BA8F`)
 
 ### 1. Description of Blue Green (Feeling and Traits)

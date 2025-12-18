@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 와인](https://i.ibb.co/TM6hDTzF/ko-2-25.png)
+![딥 와인](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_056.webp)
 
 ## 2월 25일의 탄생색: 딥 와인 (`#77384C`)
 

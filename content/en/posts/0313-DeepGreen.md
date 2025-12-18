@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Green](https://i.ibb.co/JWQfWRP5/en-Deep-Green-March-13th.png)
+![Deep Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_073.webp)
 
 ## Birthday Color for March 13th: Deep Green (`#3D5E40`)
 

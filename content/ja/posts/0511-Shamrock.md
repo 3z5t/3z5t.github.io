@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![シャムロック](https://i.ibb.co/svFcyv90/ja-5-11.png)
+![シャムロック](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_132.webp)
 
 ## 5月11日の誕生色: シャムロック (`#33CC99`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Lavender Blue](https://i.ibb.co/ZzRf74JW/en-Lavender-Blue-February-1st.png)
+![Lavender Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_032.webp)
 
 ## Birthday Color for February 1st: Lavender Blue (`#CCCCFF`)
 

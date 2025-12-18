@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![マットローズ](https://i.ibb.co/CpPFzD5K/ja-2-28.png)
+![マットローズ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_059.webp)
 ## 2月28日の誕生色: マットローズ (`#AE675F`)
 
 ### 1. マットローズについての説明

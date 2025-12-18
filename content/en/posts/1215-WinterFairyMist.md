@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Winter Fairy Mist](https://i.ibb.co/4ZbDkjBK/en-Winter-Fairy-Mist-December-15th.png)
+![Winter Fairy Mist](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_350.webp)
 
 ## Birthday Color for December 15th: Winter Fairy Mist (`#B3C4E5`)
 

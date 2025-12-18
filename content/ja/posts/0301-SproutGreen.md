@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![スプラウトグリーン](https://i.ibb.co/k6ywL2hH/ja-3-1.png)
+![スプラウトグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_061.webp)
 
 ## 3月1日の誕生色: スプラウトグリーン (`#5FD059`)
 

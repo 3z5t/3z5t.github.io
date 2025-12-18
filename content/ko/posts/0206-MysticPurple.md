@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![미스틱 보라](https://i.ibb.co/dJmm9Q1z/ko-2-6.png)
+![미스틱 보라](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_037.webp)
 
 ## 2월 6일의 탄생색: 미스틱 보라 (`#520054`)
 

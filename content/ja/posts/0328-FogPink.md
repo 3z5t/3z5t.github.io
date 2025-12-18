@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![フォグピンク](https://i.ibb.co/39PVk3QR/ja-3-28.png)
+![フォグピンク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_088.webp)
 
 ## 3月28日の誕生色: フォグピンク (`#E0CECE`)
 

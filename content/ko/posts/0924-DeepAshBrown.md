@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 애쉬브라운](https://i.ibb.co/0pM3Ch3b/ko-9-24.png)
+![딥 애쉬브라운](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_268.webp)
 
 ## 9월 24일의 탄생색: 딥 애쉬브라운 (`#49423E`)
 

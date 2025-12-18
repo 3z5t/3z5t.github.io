@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クリアウォーターブルー](https://i.ibb.co/C3cN7h5Y/ja-5-27.png)
+![クリアウォーターブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_148.webp)
 
 ## 5月27日の誕生色: クリアウォーターブルー (`#3A8299`)
 

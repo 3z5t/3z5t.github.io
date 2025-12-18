@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オールドグリーン](https://i.ibb.co/VWGLcvfh/ja-9-20.png)
+![オールドグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_264.webp)
 
 ## 9月20日の誕生色: オールドグリーン (`#726D46`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ライムオリーブ](https://i.ibb.co/rKrb3MLT/ja-4-15.png)
+![ライムオリーブ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_106.webp)
 
 ## 4月15日の誕生色: ライムオリーブ (`#B8C249`)
 

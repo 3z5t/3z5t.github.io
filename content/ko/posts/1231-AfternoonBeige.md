@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![애프터눈 베이지](https://i.ibb.co/wZ51KCPC/ko-12-31.png)
+![애프터눈 베이지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_366.webp)
 
 ## 12월 31일의 탄생색: 애프터눈 베이지 (`#F5F5F5`)
 

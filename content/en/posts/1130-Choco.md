@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Choco](https://i.ibb.co/Q3B82jr7/en-Choco-November-30th.png)
+![Choco](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_335.webp)
 
 ## Birthday Color for November 30th: Choco (`#633122`)
 

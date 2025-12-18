@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![파스텔 소라](https://i.ibb.co/V07k4Bbb/ko-1-17.png)
+![파스텔 소라](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_017.webp)
 
 ## 1월 17일의 탄생색: 파스텔 소라 (`#B0C4DE`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![풋사과](https://i.ibb.co/Z1KYfLT6/ko-5-18.png)
+![풋사과](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_139.webp)
 
 ## 5월 18일의 탄생색: 풋사과 (`#5CE546`)
 

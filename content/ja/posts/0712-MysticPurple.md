@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ミスティックパープル](https://i.ibb.co/Kj63hSvw/ja-7-12.png)
+![ミスティックパープル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_194.webp)
 ## 7月12日の誕生色: ミスティックパープル (`#9900FF`)
 
 ### 1. ミスティックパープルについての説明（色の感覚と特徴）

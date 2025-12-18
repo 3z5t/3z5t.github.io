@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アフタヌーングレー](https://i.ibb.co/b5TgNJv5/ja-9-8.png)
+![アフタヌーングレー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_252.webp)
 
 ## 9月8日の誕生色: アフタヌーングレー (`#75787B`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![카네이션 핑크](https://i.ibb.co/hJB3r62x/ko-6-6.png)
+![카네이션 핑크](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_158.webp)
 
 ## 6월 6일의 탄생색: 카네이션 핑크 (`#FF99CC`)
 

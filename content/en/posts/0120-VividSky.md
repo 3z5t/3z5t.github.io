@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Vivid Sky](https://i.ibb.co/60Kh1jg2/en-Vivid-Sky-January-20th.png)
+![Vivid Sky](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_020.webp)
 
 ## Birthday Color for January 20th: Vivid Sky (`#00BFFF`)
 

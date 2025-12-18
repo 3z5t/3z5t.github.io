@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ファームピーチ](https://i.ibb.co/23J5BdJr/ja-8-7.png)
+![ファームピーチ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_220.webp)
 
 ## 8月7日の誕生色: ファームピーチ (`#F5EAE6`)
 

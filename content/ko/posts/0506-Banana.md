@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![바나나](https://i.ibb.co/xSsyTcrx/ko-5-6.png)
+![바나나](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_127.webp)
 
 ## 5월 6일의 탄생색: 바나나 (`#FFF462`)
 

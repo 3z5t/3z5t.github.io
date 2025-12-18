@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![숲 그린](https://i.ibb.co/kVBBh1t1/ko-4-28.png)
+![숲 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_119.webp)
 
 ## 4월 28일의 탄생색: 숲 그린 (`#228B22`)
 

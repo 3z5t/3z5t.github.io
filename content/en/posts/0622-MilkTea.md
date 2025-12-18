@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Milk Tea](https://i.ibb.co/G3k9c9wS/en-Milk-Tea-June-22nd.png)
+![Milk Tea](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_174.webp)
 
 ## Birthday Color for June 22nd: Milk Tea (`#E4B982`)
 

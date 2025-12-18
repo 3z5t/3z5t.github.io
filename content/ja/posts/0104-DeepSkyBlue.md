@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープスカイブルー](https://i.ibb.co/chSbSZMw/ja-1-4.png)
+![ディープスカイブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_004.webp)
 
 ## 1月4日の誕生色: ディープスカイブルー (`#00CCFF`)
 

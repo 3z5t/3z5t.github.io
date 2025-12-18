@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Strawberry Milk](https://i.ibb.co/84rTF9Jb/en-Strawberry-Milk-March-19th.png)
+![Strawberry Milk](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_079.webp)
 
 ## Birthday Color for March 19th: Strawberry Milk (`#FF81D3`)
 

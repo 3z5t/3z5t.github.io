@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ヴィンテージチューリップ](https://i.ibb.co/nMpxK3Gf/ja-12-4.png)
+![ヴィンテージチューリップ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_339.webp)
 
 ## 12月4日の誕生色: ヴィンテージチューリップ (`#B80C03`)
 

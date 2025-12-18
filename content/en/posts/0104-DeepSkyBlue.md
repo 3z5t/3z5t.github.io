@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Sky Blue](https://i.ibb.co/KjGdJxBX/en-Deep-Sky-Blue-January-4th.png)
+![Deep Sky Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_004.webp)
 
 ## Birthday Color for January 4th: Deep Sky Blue (`#00CCFF`)
 

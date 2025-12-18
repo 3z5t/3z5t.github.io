@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ビビッドレッド](https://i.ibb.co/W4gjBtK4/ja-12-5.png)
+![ビビッドレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_340.webp)
 
 ## 12月5日の誕生色: ビビッドレッド (`#D93232`)
 

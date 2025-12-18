@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アンティーククリスマスゴールド](https://i.ibb.co/3L7ZTVr/ja-12-25.png)
+![アンティーククリスマスゴールド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_360.webp)
 
 ## 12月25日の誕生色: アンティーククリスマスゴールド (`#947E4C`)
 

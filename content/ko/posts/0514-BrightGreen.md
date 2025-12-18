@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![브라이트 그린](https://i.ibb.co/M55N0Ch4/ko-5-14.png)
+![브라이트 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_135.webp)
 
 ## 5월 14일의 탄생색: 브라이트 그린 (`#66FF00`)
 

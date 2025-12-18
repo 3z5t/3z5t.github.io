@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 그레이퍼플](https://i.ibb.co/zHRbfj6w/ko-2-4.png)
+![딥 그레이퍼플](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_035.webp)
 
 ## 2월 4일의 탄생색: 딥 그레이퍼플 (`#524782`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Firm Peach](https://i.ibb.co/kVZPjP4Z/en-Firm-Peach-August-7th.png)
+![Firm Peach](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_220.webp)
 
 ## Birthday Color for August 7th: Firm Peach (`#F5EAE6`)
 

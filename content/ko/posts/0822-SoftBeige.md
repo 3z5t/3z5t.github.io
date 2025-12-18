@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![소프트 베이지](https://i.ibb.co/Nn3pqD2W/ko-8-22.png)
+![소프트 베이지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_235.webp)
 
 ## 8월 22일의 탄생색: 소프트 베이지 (`#ECBDA4`)
 

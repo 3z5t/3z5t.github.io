@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![상그리아](https://i.ibb.co/GfvZCkvv/ko-10-15.png)
+![상그리아](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_289.webp)
 
 ## 10월 15일의 탄생색: 상그리아 (`#990000`)
 

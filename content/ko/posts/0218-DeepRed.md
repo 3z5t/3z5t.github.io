@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 레드](https://i.ibb.co/qMFnZ1Yy/ko-2-18.png)
+![딥 레드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_049.webp)
 
 ## 2월 18일의 탄생색: 딥 레드 (`#F3392C`)
 

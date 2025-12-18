@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![フォレストガーデン](https://i.ibb.co/j90RYQmM/ja-4-25.png)
+![フォレストガーデン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_116.webp)
 
 ## 4月25日の誕生色: フォレストガーデン (`#317D61`)
 

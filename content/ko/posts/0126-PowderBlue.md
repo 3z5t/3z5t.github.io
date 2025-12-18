@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![파우더 블루](https://i.ibb.co/fdzc3Wpz/ko-1-26.png)
+![파우더 블루](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_026.webp)
 
 ## 1월 26일의 탄생색: 파우더 블루 (`#C4E8E6`)
 

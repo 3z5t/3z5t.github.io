@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ラベンダーパープル](https://i.ibb.co/5x1KvxrN/ja-2-3.png)
+![ラベンダーパープル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_034.webp)
 
 ## 2月3日の誕生色: ラベンダーパープル (`#DAB7F0`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![バーリーティー（麦茶）](https://i.ibb.co/tTVNnrJV/ja-9-17.png)
+![バーリーティー（麦茶）](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_261.webp)
 
 ## 9月17日の誕生色: バーリーティー（麦茶） (`#BD844B`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ピュアシルバー](https://i.ibb.co/xtstNHRn/ja-12-17.png)
+![ピュアシルバー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_352.webp)
 
 ## 12月17日の誕生色: ピュアシルバー (`#E5E5E5`)
 

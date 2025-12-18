@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ソフトライトパープル](https://i.ibb.co/m55Q8jHy/ja-2-9.png)
+![ソフトライトパープル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_040.webp)
 
 ## 2月9日の誕生色: ソフトライトパープル (`#AC79AE`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![스노우 화이트](https://i.ibb.co/Gf1h5knN/ko-1-1.png)
+![스노우 화이트](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_001.webp)
 
 ## 1월 1일의 탄생색: 스노우 화이트 (`#F2F1F1`)
 

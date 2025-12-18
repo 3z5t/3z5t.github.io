@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Midnight](https://i.ibb.co/0ydtHG05/en-Midnight-November-18th.png)
+![Midnight](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_323.webp)
 
 ## Birthday Color for November 18th: Midnight (`#242228`)
 

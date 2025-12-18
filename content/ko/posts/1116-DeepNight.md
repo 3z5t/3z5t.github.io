@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![깊은 밤](https://i.ibb.co/YFVdwbDP/ko-11-16.png)
+![깊은 밤](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_321.webp)
 
 ## 11월 16일의 탄생색: 깊은 밤 (`#1A161F`)
 

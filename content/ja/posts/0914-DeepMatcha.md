@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープ抹茶](https://i.ibb.co/gLBwXpfg/ja-9-14.png)
+![ディープ抹茶](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_258.webp)
 
 ## 9月14日の誕生色: ディープ抹茶 (`#74703F`)
 

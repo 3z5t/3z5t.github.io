@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Coral Red](https://i.ibb.co/HpRHPvfW/en-Coral-Red-July-4th.png)
+![Coral Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_186.webp)
 
 ## Birthday Color for July 4th: Coral Red (`#FE5955`)
 

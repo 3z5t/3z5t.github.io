@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープブラック](https://i.ibb.co/chpgZp6L/ja-1-7.png)
+![ディープブラック](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_007.webp)
 
 ## 1月7日の誕生色: ディープブラック (`#1A1A1F`)
 

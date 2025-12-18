@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![페일 마젠타](https://i.ibb.co/672kpFHB/ko-2-13.png)
+![페일 마젠타](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_044.webp)
 
 ## 2월 13일의 탄생색: 페일 마젠타 (`#61368D`)
 

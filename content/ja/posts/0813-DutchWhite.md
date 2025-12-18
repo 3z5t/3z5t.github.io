@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ダッチホワイト](https://i.ibb.co/ympKvp0V/ja-8-13.png)
+![ダッチホワイト](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_226.webp)
 
 ## 8月13日の誕生色: ダッチホワイト (`#EFE3B5`)
 

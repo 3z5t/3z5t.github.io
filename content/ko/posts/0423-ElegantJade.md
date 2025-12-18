@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![단아한 옥색](https://i.ibb.co/7xntfBbN/ko-4-23.png)
+![단아한 옥색](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_114.webp)
 
 ## 4월 23일의 탄생색: 단아한 옥색 (#79B49F)
 

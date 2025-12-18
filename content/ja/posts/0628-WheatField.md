@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ウィートフィールド（麦畑）](https://i.ibb.co/FQxnD60/ja-6-28.png)
+![ウィートフィールド（麦畑）](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_180.webp)
 
 ## 6月28日の誕生色: ウィートフィールド（麦畑） (`#B89A6D`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Winter Berry](https://i.ibb.co/cnScLdK/en-Winter-Berry-December-1st.png)
+![Winter Berry](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_336.webp)
 
 ## Birthday Color for December 1st: Winter Berry (`#AF2A24`)
 

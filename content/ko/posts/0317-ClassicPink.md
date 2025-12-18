@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![클래식 핑크](https://i.ibb.co/8gC7G9HD/ko-3-17.png)
+![클래식 핑크](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_077.webp)
 
 ## 3월 17일의 탄생색: 클래식 핑크 (`#FFC0CB`)
 

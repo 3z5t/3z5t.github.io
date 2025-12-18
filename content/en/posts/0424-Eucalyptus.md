@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Eucalyptus](https://i.ibb.co/chHQm4Zw/en-Eucalyptus-April-24th.png)
+![Eucalyptus](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_115.webp)
 
 ## Birthday Color for April 24th: Eucalyptus (`#339966`)
 

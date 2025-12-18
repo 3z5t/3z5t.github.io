@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![가을빛 분홍](https://i.ibb.co/spqWjXDC/ko-8-31.png)
+![가을빛 분홍](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_244.webp)
 
 ## 8월 31일의 탄생색: 가을빛 분홍 (`#CC8F8A`)
 

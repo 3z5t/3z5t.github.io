@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Light Cyan](https://i.ibb.co/hJhNrhzM/en-Light-Cyan-May-31st.png)
+![Light Cyan](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_152.webp)
 
 ## Birthday Color for May 31st: Light Cyan (`#E0FFFF`)
 

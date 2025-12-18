@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![보리차](https://i.ibb.co/zVx51szf/ko-9-17.png)
+![보리차](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_261.webp)
 
 ## 9월 17일의 탄생색: 보리차 (`#BD844B`)
 

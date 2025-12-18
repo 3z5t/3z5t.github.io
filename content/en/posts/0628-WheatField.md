@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Wheat Field](https://i.ibb.co/x8qyv7c7/en-Wheat-Field-June-28th.png)
+![Wheat Field](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_180.webp)
 
 ## Birthday Color for June 28th: Wheat Field (`#B89A6D`)
 

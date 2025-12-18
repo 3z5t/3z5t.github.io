@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Midnight Violet](https://i.ibb.co/spFHZFrC/en-Midnight-Violet-November-28th.png)
+![Midnight Violet](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_333.webp)
 
 ## Birthday Color for November 28th: Midnight Violet (`#20202E`)
 

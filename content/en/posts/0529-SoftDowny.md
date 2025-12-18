@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Soft Downy](https://i.ibb.co/zh23D8Qz/en-Soft-Downy-May-29th.png)
+![Soft Downy](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_150.webp)
 
 ## Birthday Color for May 29th: Soft Downy (`#66CCCC`)
 

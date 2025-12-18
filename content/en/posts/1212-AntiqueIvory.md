@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Antique Ivory](https://i.ibb.co/Q3ytkLQp/en-Antique-Ivory-December-12th.png)
+![Antique Ivory](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_347.webp)
 
 ## Birthday Color for December 12th: Antique Ivory (`#E9E1D8`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Christmas White](https://i.ibb.co/0jMGFfZN/en-Christmas-White-December-29th.png)
+![Christmas White](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_364.webp)
 
 ## Birthday Color for December 29th: Christmas White (`#E2E1EE`)
 

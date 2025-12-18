@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ヴィンテージネイビー](https://i.ibb.co/H9LtQrp/ja-12-26.png)
+![ヴィンテージネイビー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_361.webp)
 
 ## 12月26日の誕生色: ヴィンテージネイビー (`#494960`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Sun Red](https://i.ibb.co/RpXyW5bZ/en-Sun-Red-July-9th.png)
+![Sun Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_191.webp)
 
 ## Birthday Color for July 9th: Sun Red (`#F01313`)
 

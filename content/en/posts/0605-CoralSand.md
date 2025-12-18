@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Coral Sand](https://i.ibb.co/DP0wTKrK/en-Coral-Sand-June-5th.png)
+![Coral Sand](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_157.webp)
 
 ## Birthday Color for June 5th: Coral Sand (`#FFD0A1`)
 

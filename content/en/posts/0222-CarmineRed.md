@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Carmine Red](https://i.ibb.co/gMghpJQz/en-Carmine-Red-February-22nd.png)
+![Carmine Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_053.webp)
 
 ## Birthday Color for February 22nd: Carmine Red (`#B72F42`)
 

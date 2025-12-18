@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Morning Glory](https://i.ibb.co/3mRKB6kx/en-Morning-Glory-May-30th.png)
+![Morning Glory](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_151.webp)
 
 ## Birthday Color for May 30th: Morning Glory (`#99CCCC`)
 

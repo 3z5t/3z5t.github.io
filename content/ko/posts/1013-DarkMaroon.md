@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![다크 마룬](https://i.ibb.co/Jj5c2J5F/ko-10-13.png)
+![다크 마룬](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_287.webp)
 
 ## 10월 13일의 탄생색: 다크 마룬 (`#3A0000`)
 

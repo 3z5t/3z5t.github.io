@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![블루밍 그린](https://i.ibb.co/353vpdT3/ko-5-26.png)
+![블루밍 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_147.webp)
 
 ## 5월 26일의 탄생색: 블루밍 그린 (`#336666`)
 

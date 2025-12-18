@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![다람쥐 브라운](https://i.ibb.co/1GK37w2n/ko-9-22.png)
+![다람쥐 브라운](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_266.webp)
 
 ## 9월 22일의 탄생색: 다람쥐 브라운 (`#996A52`)
 

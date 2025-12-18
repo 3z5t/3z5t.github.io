@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 세이지 그린](https://i.ibb.co/hJFcTZrs/ko-10-27.png)
+![딥 세이지 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_301.webp)
 
 ## 10월 27일의 탄생색: 딥 세이지 그린 (`#055F5F`)
 

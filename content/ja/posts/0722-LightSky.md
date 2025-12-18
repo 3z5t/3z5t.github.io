@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ライトスカイ](https://i.ibb.co/35YYZjkb/ja-7-22.png)
+![ライトスカイ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_204.webp)
 
 ## 7月21日の誕生色: ピクトンブルー (`#6699CC`)
 

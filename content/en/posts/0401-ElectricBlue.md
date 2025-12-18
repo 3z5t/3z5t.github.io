@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Electric Blue](https://i.ibb.co/1fVr3PkX/en-Electric-Blue-April-1st.png)
+![Electric Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_092.webp)
 
 ## Birthday Color for April 1st: Electric Blue (`#99FFFF`)
 

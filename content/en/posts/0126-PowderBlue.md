@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Powder Blue](https://i.ibb.co/0VZd8n6N/en-Powder-Blue-January-26th.png)
+![Powder Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_026.webp)
 
 ## Birthday Color for January 26th: Powder Blue (`#C4E8E6`)
 

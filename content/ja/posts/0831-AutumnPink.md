@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オータムピンク](https://i.ibb.co/Y4LDkq4V/ja-8-31.png)
+![オータムピンク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_244.webp)
 
 ## 8月31日の誕生色: オータムピンク (`#CC8F8A`)
 

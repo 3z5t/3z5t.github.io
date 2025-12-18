@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![パステルソラ](https://i.ibb.co/XxCjhVD4/ja-1-17.png)
+![パステルソラ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_017.webp)
 
 ## 1月17日の誕生色: パステルソラ (`#B0C4DE`)
 

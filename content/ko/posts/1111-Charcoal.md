@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![차콜](https://i.ibb.co/fdNFzbRC/ko-11-11.png)
+![차콜](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_316.webp)
 
 ## 11월 11일의 탄생색: 차콜 (`#373F57`)
 

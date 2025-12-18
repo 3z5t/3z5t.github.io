@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![미스티 연보라](https://i.ibb.co/3mdL0knL/ko-12-24.png)
+![미스티 연보라](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_359.webp)
 
 ## 12월 24일의 탄생색: 미스티 연보라 (`#7F7F9B`)
 

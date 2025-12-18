@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ソフトシアン](https://i.ibb.co/VWKMHLvG/ja-7-30.png)
+![ソフトシアン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_212.webp)
 
 ## 7月30日の誕生色: ソフトシアン (`#6EC5EF`)
 

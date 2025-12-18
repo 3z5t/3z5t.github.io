@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Light Sky](https://i.ibb.co/0xq8dTG/en-Light-Sky-July-22nd.png)
+![Light Sky](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_204.webp)
 
 ## Birthday Color for July 22nd: Light Sky (`#3DDAEE`)
 

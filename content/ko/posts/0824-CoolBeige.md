@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![쿨 베이지](https://i.ibb.co/KzFgCFFg/ko-8-24.png)
+![쿨 베이지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_237.webp)
 
 ## 8월 24일의 탄생색: 쿨 베이지 (`#AF8E8A`)
 

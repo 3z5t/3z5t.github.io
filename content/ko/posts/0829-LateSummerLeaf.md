@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![늦여름의 잎사귀](https://i.ibb.co/JwmM4NDh/ko-8-29.png)
+![늦여름의 잎사귀](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_242.webp)
 
 ## 8월 29일의 탄생색: 늦여름의 잎사귀 (`#566353`)
 

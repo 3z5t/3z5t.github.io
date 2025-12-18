@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Winter Sand Beach](https://i.ibb.co/WvY2tqCg/en-Winter-Sand-Beach-September-12th.png)
+![Winter Sand Beach](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_256.webp)
 
 ## Birthday Color for September 12th: Winter Sand Beach (`#CEB9AB`)
 

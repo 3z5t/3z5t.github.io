@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Blue Lagoon](https://i.ibb.co/1t4JwZ4J/en-Blue-Lagoon-May-22nd.png)
+![Blue Lagoon](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_143.webp)
 
 ## Birthday Color for May 22nd: Blue Lagoon (`#006666`)
 

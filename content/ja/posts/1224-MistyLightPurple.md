@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ミスティライトパープル](https://i.ibb.co/svwMPwg9/ja-12-24.png)
+![ミスティライトパープル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_359.webp)
 
 ## 12月24日の誕生色: ミスティライトパープル (`#7F7F9B`)
 

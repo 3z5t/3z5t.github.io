@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![サンドピンク](https://i.ibb.co/zVtfHHjH/ja-3-30.png)
+![サンドピンク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_090.webp)
 
 ## 3月30日の誕生色: サンドピンク (`#F5C4AC`)
 

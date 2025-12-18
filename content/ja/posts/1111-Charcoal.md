@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![チャコール](https://i.ibb.co/vCZvj73g/ja-11-11.png)
+![チャコール](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_316.webp)
 
 ## 11月11日の誕生色: チャコール (`#373F57`)
 

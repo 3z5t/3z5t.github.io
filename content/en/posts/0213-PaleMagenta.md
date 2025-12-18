@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Pale Magenta](https://i.ibb.co/Ngw303Qv/en-Pale-Magenta-February-13th.png)
+![Pale Magenta](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_044.webp)
 
 ## Birthday Color for February 13th: Pale Magenta (`#61368D`)
 

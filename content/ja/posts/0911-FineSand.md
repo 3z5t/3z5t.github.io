@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ファインサンド](https://i.ibb.co/cSR2ZMgD/ja-9-11.png)
+![ファインサンド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_255.webp)
 
 ## 9月11日の誕生色: ファインサンド (`#EEE9E2`)
 

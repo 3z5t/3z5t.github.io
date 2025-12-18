@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![허니듀](https://i.ibb.co/RL5N05p/ko-5-10.png)
+![허니듀](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_131.webp)
 
 ## 5월 10일의 탄생색: 허니듀 (`#CCFFCC`)
 

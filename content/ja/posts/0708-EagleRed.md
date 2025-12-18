@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![イーグルレッド](https://i.ibb.co/Rp5brCBv/ja-7-8.png)
+![イーグルレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_190.webp)
 
 ## 7月8日の誕生色: イーグルレッド (`#FF2D2D`)
 

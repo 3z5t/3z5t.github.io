@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Afternoon Ash](https://i.ibb.co/mVPwNGjr/en-Afternoon-Ash-September-6th.png)
+![Afternoon Ash](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_250.webp)
 ## Birthday Color for September 6th: Afternoon Ash (`#191B28`)
 
 ### 1. Description of Afternoon Ash (Feeling and Traits)

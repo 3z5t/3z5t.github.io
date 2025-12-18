@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![클래식 레드](https://i.ibb.co/nqv2gS8P/ko-10-3.png)
+![클래식 레드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_277.webp)
 
 ## 10월 3일의 탄생색: 클래식 레드 (`#C61400`)
 

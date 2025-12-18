@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![비비드 라임](https://i.ibb.co/twd85Rdk/ko-3-5.png)
+![비비드 라임](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_065.webp)
 
 ## 3월 5일의 탄생색: 비비드 라임 (`#00FF00`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![벚꽃](https://i.ibb.co/TGgRmrc/ko-3-15.png)
+![벚꽃](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_075.webp)
 ## 3월 15일의 탄생색: 벚꽃 (`#F0ADCA`)
 
 ### 1. 벚꽃에 대한 설명 (색의 느낌과 특징)

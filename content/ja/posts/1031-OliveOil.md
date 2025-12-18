@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オリーブオイル](https://i.ibb.co/0ySVDbBH/ja-10-31.png)
+![オリーブオイル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_305.webp)
 
 ## 10月31日の誕生色: オリーブオイル (`#999900`)
 

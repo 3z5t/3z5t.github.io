@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ダークブルー](https://i.ibb.co/3Y8yXFCH/ja-1-13.png)
+![ダークブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_013.webp)
 
 ## 1月13日の誕生色: ダークブルー (`#00008B`)
 

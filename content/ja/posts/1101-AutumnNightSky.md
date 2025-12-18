@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オータムナイトスカイ](https://i.ibb.co/NddCfHSv/ja-11-1.png)
+![オータムナイトスカイ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_306.webp)
 
 ## 11月1日の誕生色: オータムナイトスカイ (`#3C3232`)
 

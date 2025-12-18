@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Light Beige](https://i.ibb.co/PshbsXtM/en-Light-Beige-August-21st.png)
+![Light Beige](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_234.webp)
 
 ## Birthday Color for August 21st: Light Beige (`#C1A99B`)
 

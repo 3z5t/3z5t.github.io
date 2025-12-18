@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Sandstone](https://i.ibb.co/cdd7rXR/en-Sandstone-June-30th.png)
+![Sandstone](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_182.webp)
 
 ## Birthday Color for June 30th: Sandstone (`#7B6D6D`)
 

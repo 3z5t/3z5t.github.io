@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![산호](https://i.ibb.co/tpLMjgg7/ko-7-4.png)
+![산호](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_186.webp)
 
 ## 7월 4일의 탄생색: 산호 (`#FE5955`)
 

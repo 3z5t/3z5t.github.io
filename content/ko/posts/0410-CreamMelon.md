@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![크림 멜론](https://i.ibb.co/Cpgb3qSf/ko-4-10.png)
+![크림 멜론](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_101.webp)
 
 ## 4월 10일의 탄생색: 크림 멜론 (#DCF8E4)
 

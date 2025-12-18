@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![더스크 그레이](https://i.ibb.co/Z1BDQWXJ/ko-9-7.png)
+![더스크 그레이](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_251.webp)
 
 ## 9월 7일의 탄생색: 더스크 그레이 (`#313035`)
 

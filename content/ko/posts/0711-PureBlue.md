@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![퓨어 블루](https://i.ibb.co/fzS3h1nC/ko-7-11.png)
+![퓨어 블루](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_193.webp)
 
 ## 7월 11일의 탄생색: 퓨어 블루 (`#3333FF`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ブラックチョコレート](https://i.ibb.co/Y4bXqnnG/ja-11-15.png)
+![ブラックチョコレート](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_320.webp)
 
 ## 11月15日の誕生色: ブラックチョコレート (`#191616`)
 

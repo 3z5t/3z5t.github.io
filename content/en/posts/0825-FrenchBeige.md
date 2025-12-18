@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![French Beige](https://i.ibb.co/ZRL5sCXj/en-French-Beige-August-25th.png)
+![French Beige](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_238.webp)
 
 ## Birthday Color for August 25th: French Beige (`#A67B5B`)
 

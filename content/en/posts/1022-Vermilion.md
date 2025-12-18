@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Vermilion](https://i.ibb.co/JRVRNnM4/en-Vermilion-October-22nd.png)
+![Vermilion](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_296.webp)
 ## Birthday Color for October 22nd: Vermilion (`#E34234`)
 
 ### 1. Description of Vermilion (Feeling and Traits)

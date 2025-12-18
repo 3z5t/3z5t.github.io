@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![높은 하늘](https://i.ibb.co/mxHNgbw/ko-1-22.png)
+![높은 하늘](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_022.webp)
 
 ## 1월 22일의 탄생색: 높은 하늘 (`#0B8AC3`)
 

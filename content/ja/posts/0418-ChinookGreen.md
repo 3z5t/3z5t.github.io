@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![チヌークグリーン](https://i.ibb.co/YTTh206w/ja-4-18.png)
+![チヌークグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_109.webp)
 
 ## 4月18日の誕生色: チヌークグリーン (`#99CC99`)
 

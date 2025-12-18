@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Hydrangea Pink](https://i.ibb.co/xSqHhkcn/en-Hydrangea-Pink-March-29th.png)
+![Hydrangea Pink](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_089.webp)
 
 ## Birthday Color for March 29th: Hydrangea Pink (`#FFBFCA`)
 

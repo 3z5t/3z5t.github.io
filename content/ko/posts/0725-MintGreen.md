@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![민트 그린](https://i.ibb.co/fVQR2TQf/ko-7-25.png)
+![민트 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_207.webp)
 
 ## 7월 25일의 탄생색: 민트 그린 (`#99FF99`)
 

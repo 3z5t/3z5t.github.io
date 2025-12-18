@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![라이트 코랄](https://i.ibb.co/PvLXtysQ/ko-7-3.png)
+![라이트 코랄](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_185.webp)
 
 ## 7월 3일의 탄생색: 라이트 코랄 (`#F19292`)
 

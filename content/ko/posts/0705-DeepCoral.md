@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 코랄](https://i.ibb.co/G3QrMs8g/ko-7-5.png)
+![딥 코랄](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_187.webp)
 
 ## 7월 5일의 탄생색: 딥 코랄 (`#743636`)
 

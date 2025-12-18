@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ロイヤルパープル](https://i.ibb.co/nNP2Zz55/ja-2-11.png)
+![ロイヤルパープル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_042.webp)
 
 ## 2月11日の誕生色: ロイヤルパープル (`#800080`)
 

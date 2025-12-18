@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アンティークパープル](https://i.ibb.co/6cBnt3ct/ja-11-23.png)
+![アンティークパープル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_328.webp)
 
 ## 11月23日の誕生色: アンティークパープル (`#5E162D`)
 

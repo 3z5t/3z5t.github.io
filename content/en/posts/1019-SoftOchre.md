@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Soft Ochre](https://i.ibb.co/hRxLFvGx/en-Soft-Ochre-October-19th.png)
+![Soft Ochre](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_293.webp)
 
 ## Birthday Color for October 19th: Soft Ochre (`#926630`)
 

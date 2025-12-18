@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ノーブルスカイブルー](https://i.ibb.co/gqrYdn6/ja-12-18.png)
+![ノーブルスカイブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_353.webp)
 
 ## 12月18日の誕生色: ノーブルスカイブルー (`#1FBEE3`)
 

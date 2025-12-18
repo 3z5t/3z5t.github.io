@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ブルーミンググリーン](https://i.ibb.co/Dfz1rsdh/ja-5-26.png)
+![ブルーミンググリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_147.webp)
 
 ## 5月26日の誕生色: ブルーミンググリーン (`#336666`)
 

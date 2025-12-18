@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Black Chocolate](https://i.ibb.co/nq9J1csH/en-Black-Chocolate-November-15th.png)
+![Black Chocolate](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_320.webp)
 
 ## Birthday Color for November 15th: Black Chocolate (`#191616`)
 

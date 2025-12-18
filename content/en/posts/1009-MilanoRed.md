@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Milano Red](https://i.ibb.co/ccB0T77d/en-Milano-Red-October-9th.png)
+![Milano Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_283.webp)
 
 ## Birthday Color for October 9th: Milano Red (`#993333`)
 

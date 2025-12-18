@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Moon Yellow](https://i.ibb.co/gMRsFcTk/en-Moon-Yellow-May-5th.png)
+![Moon Yellow](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_126.webp)
 
 ## Birthday Color for May 5th: Moon Yellow (`#FEB721`)
 

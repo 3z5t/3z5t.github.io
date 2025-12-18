@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![그레이시 그린](https://i.ibb.co/tpsDvcw9/ko-11-3.png)
+![그레이시 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_308.webp)
 
 ## 11월 3일의 탄생색: 그레이시 그린 (`#444236`)
 

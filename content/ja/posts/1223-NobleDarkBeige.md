@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ノーブルダークベージュ](https://i.ibb.co/VWFWbVqc/ja-12-23.png)
+![ノーブルダークベージュ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_358.webp)
 
 ## 12月23日の誕生色: ノーブルダークベージュ (`#D5A66B`)
 

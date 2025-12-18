@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![앤티크 화이트](https://i.ibb.co/bjL426Ww/ko-12-21.png)
+![앤티크 화이트](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_356.webp)
 
 ## 12월 21일의 탄생색: 앤티크 화이트 (`#EBE2CE`)
 

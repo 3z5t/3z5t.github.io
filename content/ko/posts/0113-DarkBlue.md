@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![다크 블루](https://i.ibb.co/ynDg5HSn/ko-1-13.png)
+![다크 블루](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_013.webp)
 
 ## 1월 13일의 탄생색: 다크 블루 (`#00008B`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![シャドウブラウン](https://i.ibb.co/YTprvF63/ja-10-24.png)
+![シャドウブラウン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_298.webp)
 
 ## 10月24日の誕生色: シャドウブラウン (`#503D3E`)
 

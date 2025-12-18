@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![시안 블루](https://i.ibb.co/hJ0MS949/ko-7-31.png)
+![시안 블루](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_213.webp)
 
 ## 7월 31일의 탄생색: 시안 블루 (`#0B93CE`)
 

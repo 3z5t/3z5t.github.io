@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![번트 엄버](https://i.ibb.co/3yhp6r0X/ko-10-7.png)
+![번트 엄버](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_281.webp)
 
 ## 10월 7일의 탄생색: 번트 엄버 (`#8D3131`)
 

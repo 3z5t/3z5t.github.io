@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Olive](https://i.ibb.co/YT2pmz1k/en-Olive-April-14th.png)
+![Olive](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_105.webp)
 
 ## Birthday Color for April 14th: Olive (`#666600`)
 

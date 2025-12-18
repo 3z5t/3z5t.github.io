@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![レッドブラウン](https://i.ibb.co/SXxhpMVz/ja-10-25.png)
+![レッドブラウン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_299.webp)
 
 ## 10月25日の誕生色: レッドブラウン (`#6C1818`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![비비드 레드](https://i.ibb.co/Kz0ZK1gP/ko-7-10.png)
+![비비드 레드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_192.webp)
 
 ## 7월 10일의 탄생색: 비비드 레드 (`#FF1414`)
 

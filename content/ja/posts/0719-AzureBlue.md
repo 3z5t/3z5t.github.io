@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アジュールブルー](https://i.ibb.co/zTbyTJ8F/ja-7-19.png)
+![アジュールブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_201.webp)
 
 ## 7月19日の誕生色: アジュールブルー (`#1E90FF`)
 

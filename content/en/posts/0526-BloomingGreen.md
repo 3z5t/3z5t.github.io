@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Blooming Green](https://i.ibb.co/ks656Z8X/en-Blooming-Green-May-26th.png)
+![Blooming Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_147.webp)
 
 ## Birthday Color for May 26th: Blooming Green (`#336666`)
 

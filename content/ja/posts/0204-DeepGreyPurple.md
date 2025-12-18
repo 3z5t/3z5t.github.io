@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープグレーパープル](https://i.ibb.co/Ldpm6MbW/ja-2-4.png)
+![ディープグレーパープル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_035.webp)
 
 ## 2月4日の誕生色: ディープグレーパープル (`#524782`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Eagle Red](https://i.ibb.co/Q38Qyt1Y/en-Eagle-Red-July-8th.png)
+![Eagle Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_190.webp)
 
 ## Birthday Color for July 8th: Eagle Red (`#FF2D2D`)
 

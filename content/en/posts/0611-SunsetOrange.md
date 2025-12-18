@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Sunset Orange](https://i.ibb.co/fVNj9nNg/en-Sunset-Orange-June-11th.png)
+![Sunset Orange](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_163.webp)
 
 ## Birthday Color for June 11th: Sunset Orange (`#FF6600`)
 

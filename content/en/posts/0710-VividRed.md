@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Vivid Red](https://i.ibb.co/7t0sL77p/en-Vivid-Red-July-10th.png)
+![Vivid Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_192.webp)
 
 ## Birthday Color for July 10th: Vivid Red (`#FF1414`)
 

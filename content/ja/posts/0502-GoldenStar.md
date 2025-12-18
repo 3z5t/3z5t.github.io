@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ゴールデンスター](https://i.ibb.co/Cp2QcJ36/ja-5-2.png)
+![ゴールデンスター](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_123.webp)
 
 ## 5月2日の誕生色: ゴールデンスター (`#E5A859`)
 

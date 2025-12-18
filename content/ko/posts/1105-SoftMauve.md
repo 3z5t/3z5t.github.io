@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![소프트 모브](https://i.ibb.co/hxMH2HRD/ko-11-5.png)
+![소프트 모브](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_310.webp)
 
 ## 11월 5일의 탄생색: 소프트 모브 (`#887A7C`)
 

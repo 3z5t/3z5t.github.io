@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Yogurt](https://i.ibb.co/1JmvWRKp/en-Yogurt-August-5th.png)
+![Yogurt](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_218.webp)
 
 ## Birthday Color for August 5th: Yogurt (`#FFDCB8`)
 

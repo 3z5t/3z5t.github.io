@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クリームメロン](https://i.ibb.co/6RcQg4vt/ja-4-10.png)
+![クリームメロン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_101.webp)
 
 ## 4月10日の誕生色: クリームメロン (`#DCF8E4`)
 

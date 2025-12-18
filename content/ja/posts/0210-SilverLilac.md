@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![シルバーライラック](https://i.ibb.co/RkdQfYD5/ja-2-10.png)
+![シルバーライラック](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_041.webp)
 
 ## 2月10日の誕生色: シルバーライラック (`#AEA2C9`)
 

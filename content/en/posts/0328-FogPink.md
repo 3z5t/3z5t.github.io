@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Fog Pink](https://i.ibb.co/ZRB7T44m/en-Fog-Pink-March-28th.png)
+![Fog Pink](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_088.webp)
 
 ## Birthday Color for March 28th: Fog Pink (`#E0CECE`)
 

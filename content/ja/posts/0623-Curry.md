@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![カレー](https://i.ibb.co/3L9D7VV/ja-6-23.png)
+![カレー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_175.webp)
 
 ## 6月23日の誕生色: カレー (`#D6A620`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Shell Pink](https://i.ibb.co/TMcjh8qY/en-Shell-Pink-March-23rd.png)
+![Shell Pink](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_083.webp)
 
 ## Birthday Color for March 23rd: Shell Pink (`#E9CCC8`)
 

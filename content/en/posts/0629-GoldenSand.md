@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Golden Sand](https://i.ibb.co/cWtY0y2/en-Golden-Sand-June-29th.png)
+![Golden Sand](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_181.webp)
 
 ## Birthday Color for June 29th: Golden Sand (`#CBA135`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Bright Green](https://i.ibb.co/q3k4CMJ8/en-Bright-Green-May-14th.png)
+![Bright Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_135.webp)
 
 ## Birthday Color for May 14th: Bright Green (`#66FF00`)
 

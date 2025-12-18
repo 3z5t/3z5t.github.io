@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Pearl](https://i.ibb.co/5gWDhgpL/en-Pearl-August-10th.png)
+![Pearl](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_223.webp)
 
 ## Birthday Color for August 10th: Pearl (`#EAE1DD`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![소프트 블루](https://i.ibb.co/YTdwMMHw/ko-1-30.png)
+![소프트 블루](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_030.webp)
 
 ## 1월 30일의 탄생색: 소프트 블루 (`#99CCFF`)
 

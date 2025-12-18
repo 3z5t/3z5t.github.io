@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![브라이트 핑크](https://i.ibb.co/BHJNPBjs/ko-3-21.png)
+![브라이트 핑크](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_081.webp)
 
 ## 3월 21일의 탄생색: 브라이트 핑크 (`#FFEAF3`)
 

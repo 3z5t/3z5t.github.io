@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Antique Mustard](https://i.ibb.co/b5hhwKzt/en-Antique-Mustard-December-28th.png)
+![Antique Mustard](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_363.webp)
 
 ## Birthday Color for December 28th: Antique Mustard (`#BB8F3D`)
 

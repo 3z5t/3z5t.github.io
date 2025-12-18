@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![フレンチベージュ](https://i.ibb.co/sDDNxSb/ja-8-25.png)
+![フレンチベージュ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_238.webp)
 
 ## 8月25日の誕生色: フレンチベージュ (`#A67B5B`)
 

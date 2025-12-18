@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ブルーグリーン](https://i.ibb.co/yF1MGdFM/ja-4-8.png)
+![ブルーグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_099.webp)
 
 ## 4月8日の誕生色: ブルーグリーン (`#30BA8F`)
 

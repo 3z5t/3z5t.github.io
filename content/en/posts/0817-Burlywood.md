@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Burlywood](https://i.ibb.co/m56Rr1gX/en-Burlywood-August-17th.png)
+![Burlywood](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_230.webp)
 
 ## Birthday Color for August 17th: Burlywood (`#DCBF97`)
 

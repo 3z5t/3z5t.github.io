@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![샴록](https://i.ibb.co/H0VbShj/ko-5-11.png)
+![샴록](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_132.webp)
 
 ## 5월 11일의 탄생색: 샴록 (`#33CC99`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dusty Rose](https://i.ibb.co/whmx2HNk/en-Dusty-Rose-February-27th.png)
+![Dusty Rose](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_058.webp)
 ## Birthday Color for February 27th: Dusty Rose (`#794848`)
 
 ### 1. Description of Dusty Rose (Feeling and Traits)

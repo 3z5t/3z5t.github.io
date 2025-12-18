@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![다크 포레스트 그레이](https://i.ibb.co/RpmqkFTy/ko-12-19.png)
+![다크 포레스트 그레이](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_354.webp)
 
 ## 12월 19일의 탄생색: 다크 포레스트 그레이 (`#2A3A2F`)
 

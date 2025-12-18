@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープコーラル](https://i.ibb.co/mrgC2kvP/ja-10-16.png)
+![ディープコーラル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_290.webp)
 
 ## 10月16日の誕生色: ディープコーラル (`#743636`)
 

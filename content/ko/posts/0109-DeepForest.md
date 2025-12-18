@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 포레스트](https://i.ibb.co/Q3qSXg18/ko-1-9.png)
+![딥 포레스트](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_009.webp)
 
 ## 1월 9일의 탄생색: 딥 포레스트 (`#13191A`)
 

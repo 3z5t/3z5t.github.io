@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![오키드 보라](https://i.ibb.co/bjDD5gHw/ko-2-5.png)
+![오키드 보라](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_036.webp)
 
 ## 2월 5일의 탄생색: 오키드 보라 (`#9F56A2`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![미드나잇 모던블랙](https://i.ibb.co/SDMS74PG/ko-11-26.png)
+![미드나잇 모던블랙](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_331.webp)
 
 ## 11월 26일의 탄생색: 미드나잇 모던블랙 (`#1A1A1B`)
 

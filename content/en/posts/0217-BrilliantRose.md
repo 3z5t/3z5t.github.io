@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Brilliant Rose](https://i.ibb.co/HfjNcV1p/en-Brilliant-Rose-February-17th.png)
+![Brilliant Rose](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_048.webp)
 
 ## Birthday Color for February 17th: Brilliant Rose (`#FF6699`)
 

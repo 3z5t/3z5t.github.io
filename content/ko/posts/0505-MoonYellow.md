@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![문 옐로우](https://i.ibb.co/rKSXZfdr/ko-5-5.png)
+![문 옐로우](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_126.webp)
 
 ## 5월 5일의 탄생색: 문 옐로우 (`#FEB721`)
 

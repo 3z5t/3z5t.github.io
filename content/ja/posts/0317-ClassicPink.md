@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クラシックピンク](https://i.ibb.co/nMSMDfvc/ja-3-17.png)
+![クラシックピンク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_077.webp)
 
 ## 3月17日の誕生色: クラシックピンク (`#FFC0CB`)
 

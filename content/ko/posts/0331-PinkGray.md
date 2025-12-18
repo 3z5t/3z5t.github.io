@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![핑크 그레이](https://i.ibb.co/1YWMfwS2/ko-3-31.png)
+![핑크 그레이](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_091.webp)
 
 ## 3월 31일의 탄생색: 핑크 그레이 (#E5D7CD)
 

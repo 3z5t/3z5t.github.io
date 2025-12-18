@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dusty Purple](https://i.ibb.co/dsxj3ND2/en-Dusty-Purple-November-4th.png)
+![Dusty Purple](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_309.webp)
 
 ## Birthday Color for November 4th: Dusty Purple (`#746B7A`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![スエードゴールド](https://i.ibb.co/27wkSLsB/ja-12-22.png)
+![スエードゴールド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_357.webp)
 
 ## 12月22日の誕生色: スエードゴールド (`#F9EBDA`)
 

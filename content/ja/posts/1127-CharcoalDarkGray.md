@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![チャコールダークグレー](https://i.ibb.co/NQdX1Bf/ja-11-27.png)
+![チャコールダークグレー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_332.webp)
 
 ## 11月27日の誕生色: チャコールダークグレー (`#2F2C2C`)
 

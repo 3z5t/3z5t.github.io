@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![카민 레드](https://i.ibb.co/yGvzYVQ/ko-2-22.png)
+![카민 레드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_053.webp)
 
 ## 2월 22일의 탄생색: 카민 레드 (`#B72F42`)
 

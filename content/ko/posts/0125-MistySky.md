@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![미스티 스카이](https://i.ibb.co/7x5jBhn2/ko-1-25.png)
+![미스티 스카이](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_025.webp)
 
 ## 1월 25일의 탄생색: 미스티 스카이 (`#C2BEC5`)
 

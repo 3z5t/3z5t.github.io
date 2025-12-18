@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Rudolph Brown](https://i.ibb.co/8DF5j5C4/en-Rudolph-Brown-December-3rd.png)
+![Rudolph Brown](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_338.webp)
 
 ## Birthday Color for December 3rd: Rudolph Brown (`#6C4D32`)
 

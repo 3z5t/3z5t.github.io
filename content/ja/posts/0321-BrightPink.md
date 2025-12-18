@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ブライトピンク](https://i.ibb.co/WpyBtKvD/ja-3-21.png)
+![ブライトピンク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_081.webp)
 
 ## 3月21日の誕生色: ブライトピンク (`#FFEAF3`)
 

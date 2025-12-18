@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![밀밭](https://i.ibb.co/LhcWXL1n/ko-6-28.png)
+![밀밭](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_180.webp)
 
 ## 6월 28일의 탄생색: 밀밭 (`#B89A6D`)
 

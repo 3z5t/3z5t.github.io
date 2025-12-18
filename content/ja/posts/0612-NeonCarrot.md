@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ネオンキャロット](https://i.ibb.co/JjTTQK4r/ja-6-12.png)
+![ネオンキャロット](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_164.webp)
 
 ## 6月12日の誕生色: ネオンキャロット (`#FF9933`)
 

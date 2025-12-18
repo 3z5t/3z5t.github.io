@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クリスマスツリー](https://i.ibb.co/N2nMJ2Qs/ja-12-7.png)
+![クリスマスツリー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_342.webp)
 
 ## 12月7日の誕生色: クリスマスツリー (`#506850`)
 

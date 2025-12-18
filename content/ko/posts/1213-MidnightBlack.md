@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![미드나잇 블랙](https://i.ibb.co/QvWfqB5b/ko-12-13.png)
+![미드나잇 블랙](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_348.webp)
 
 ## 12월 13일의 탄생색: 미드나잇 블랙 (`#141618`)
 

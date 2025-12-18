@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![미드나잇 라이더](https://i.ibb.co/wNCwKQNd/ko-11-29.png)
+![미드나잇 라이더](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_334.webp)
 
 ## 11월 29일의 탄생색: 미드나잇 라이더 (#333333)
 

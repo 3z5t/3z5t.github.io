@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![프레쉬 민트](https://i.ibb.co/4wjq6QHY/ko-3-3.png)
+![프레쉬 민트](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_063.webp)
 
 ## 3월 3일의 탄생색: 프레쉬 민트 (`#64D1C3`)
 

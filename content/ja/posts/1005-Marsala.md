@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![マルサラ](https://i.ibb.co/kgZyGBJj/ja-10-5.png)
+![マルサラ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_279.webp)
 
 ## 10月5日の誕生色: マルサラ (`#E9AEA7`)
 

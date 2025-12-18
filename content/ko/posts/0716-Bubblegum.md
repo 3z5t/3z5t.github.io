@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![버블껌](https://i.ibb.co/kVfX0mCG/ko-7-16.png)
+![버블껌](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_198.webp)
 
 ## 7월 16일의 탄생색: 버블껌 (`#FBC9CB`)
 

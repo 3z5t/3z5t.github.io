@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![캔디 코랄](https://i.ibb.co/bgJSRKdM/ko-7-2.png)
+![캔디 코랄](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_184.webp)
 
 ## 7월 2일의 탄생색: 캔디 코랄 (`#F18372`)
 

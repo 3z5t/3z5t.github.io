@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Cyan Blue](https://i.ibb.co/rGB1Crgb/en-Cyan-Blue-July-31st.png)
+![Cyan Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_213.webp)
 
 ## Birthday Color for July 31st: Cyan Blue (`#0B93CE`)
 

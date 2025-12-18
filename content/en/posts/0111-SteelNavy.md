@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Steel Navy](https://i.ibb.co/N6XyNF19/en-Steel-Navy-January-11th.png)
+![Steel Navy](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_011.webp)
 
 ## Birthday Color for January 11th: Steel Navy (`#1A3855`)
 

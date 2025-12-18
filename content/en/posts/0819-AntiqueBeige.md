@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Antique Beige](https://i.ibb.co/zTwstbM8/en-Antique-Beige-August-19th.png)
+![Antique Beige](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_232.webp)
 
 ## Birthday Color for August 19th: Antique Beige (`#A19475`)
 

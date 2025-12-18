@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Autumn Night Sky](https://i.ibb.co/wFvDxWyW/en-Autumn-Night-Sky-November-1st.png)
+![Autumn Night Sky](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_306.webp)
 
 ## Birthday Color for November 1st: Autumn Night Sky (`#3C3232`)
 

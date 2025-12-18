@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![シェルピンク](https://i.ibb.co/Z6Nxcfmm/ja-3-23.png)
+![シェルピンク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_083.webp)
 
 ## 3月23日の誕生色: シェルピンク (`#E9CCC8`)
 

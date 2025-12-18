@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![노블 다크베이지](https://i.ibb.co/BVj1bMjS/ko-12-23.png)
+![노블 다크베이지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_358.webp)
 
 ## 12월 23일의 탄생색: 노블 다크베이지 (`#D5A66B`)
 

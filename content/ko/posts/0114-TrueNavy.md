@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![트루 네이비](https://i.ibb.co/tT2wPSMy/ko-1-14.png)
+![트루 네이비](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_014.webp)
 
 ## 1월 14일의 탄생색: 트루 네이비 (`#313C75`)
 

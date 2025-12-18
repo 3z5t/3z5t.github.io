@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![라일락](https://i.ibb.co/HptjyTXS/ko-7-18.png)
+![라일락](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_200.webp)
 
 ## 7월 18일의 탄생색: 라일락 (`#CC99CC`)
 

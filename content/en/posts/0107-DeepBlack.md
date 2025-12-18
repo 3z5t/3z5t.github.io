@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Black](https://i.ibb.co/4nJNHjk2/en-Deep-Black-January-7th.png)
+![Deep Black](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_007.webp)
 
 ## Birthday Color for January 7th: Deep Black (`#1A1A1F`)
 

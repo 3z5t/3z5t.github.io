@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Bright Blue](https://i.ibb.co/prBSKywq/en-Bright-Blue-January-28th.png)
+![Bright Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_028.webp)
 
 ## Birthday Color for January 28th: Bright Blue (`#9CB0D3`)
 

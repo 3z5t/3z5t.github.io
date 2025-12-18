@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![윈터 베리](https://i.ibb.co/0pJ4VKth/ko-12-1.png)
+![윈터 베리](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_336.webp)
 
 ## 12월 1일의 탄생색: 윈터 베리 (`#AF2A24`)
 

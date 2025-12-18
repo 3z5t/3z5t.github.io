@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オーシャンスクーター](https://i.ibb.co/9k2hgmTV/ja-5-28.png)
+![オーシャンスクーター](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_149.webp)
 
 ## 5月28日の誕生色: オーシャンスクーター (`#339999`)
 

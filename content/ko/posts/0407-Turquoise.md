@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![터콰이즈](https://i.ibb.co/TDymY95K/ko-4-7.png)
+![터콰이즈](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_098.webp)
 
 ## 4월 7일의 탄생색: 터콰이즈 (#40E0D0)
 

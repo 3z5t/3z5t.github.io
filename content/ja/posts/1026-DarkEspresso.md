@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ダークエスプレッソ](https://i.ibb.co/vxm8rVdR/ja-10-26.png)
+![ダークエスプレッソ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_300.webp)
 
 ## 10月26日の誕生色: ダークエスプレッソ (`#504644`)
 

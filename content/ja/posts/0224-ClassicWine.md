@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クラシックワイン](https://i.ibb.co/vvhHNwpY/ja-2-24.png)
+![クラシックワイン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_055.webp)
 
 ## 2月24日の誕生色: クラシックワイン (`#893751`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![シルバーグレー](https://i.ibb.co/600cf8qw/ja-11-8.png)
+![シルバーグレー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_313.webp)
 
 ## 11月8日の誕生色: シルバーグレー (`#E2DFE5`)
 

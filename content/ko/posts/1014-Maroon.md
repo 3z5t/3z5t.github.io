@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![마룬](https://i.ibb.co/RTSPRpfd/ko-10-14.png)
+![마룬](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_288.webp)
 
 ## 10월 14일의 탄생색: 마룬 (`#800000`)
 

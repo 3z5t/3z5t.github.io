@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![フォレストグリーン](https://i.ibb.co/N63HBRGQ/ja-4-28.png)
+![フォレストグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_119.webp)
 
 ## 4月28日の誕生色: フォレストグリーン (`#228B22`)
 

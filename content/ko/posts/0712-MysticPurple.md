@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![미스틱 퍼플](https://i.ibb.co/VptDZsNy/ko-7-12.png)
+![미스틱 퍼플](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_194.webp)
 
 ## 7월 12일의 탄생색: 미스틱 퍼플 (`#9900FF`)
 

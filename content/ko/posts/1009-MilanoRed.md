@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![밀라노 레드](https://i.ibb.co/Z6sqRZc9/ko-10-9.png)
+![밀라노 레드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_283.webp)
 
 ## 10월 9일의 탄생색: 밀라노 레드 (`#993333`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![크리스마스 트리](https://i.ibb.co/21R1PXC3/ko-12-7.png)
+![크리스마스 트리](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_342.webp)
 
 ## 12월 7일의 탄생색: 크리스마스 트리 (`#506850`)
 

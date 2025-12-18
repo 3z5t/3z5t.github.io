@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ペールオレンジ](https://i.ibb.co/vvQfdsZk/ja-6-2.png)
+![ペールオレンジ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_154.webp)
 
 ## 6月2日の誕生色: ペールオレンジ (`#FFEBB0`)
 

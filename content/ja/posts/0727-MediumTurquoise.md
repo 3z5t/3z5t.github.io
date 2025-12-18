@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ミディアムターコイズ](https://i.ibb.co/9HD6YbQL/ja-7-27.png)
+![ミディアムターコイズ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_209.webp)
 
 ## 7月27日の誕生色: ミディアムターコイズ (`#33CCCC`)
 

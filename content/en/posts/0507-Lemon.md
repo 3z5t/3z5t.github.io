@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Lemon](https://i.ibb.co/jP69hQsy/en-Lemon-May-7th.png)
+![Lemon](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_128.webp)
 
 ## Birthday Color for May 7th: Lemon (`#EFDA00`)
 

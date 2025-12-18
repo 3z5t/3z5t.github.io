@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![프러시안 레드](https://i.ibb.co/CKbm9rvG/ko-10-23.png)
+![프러시안 레드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_297.webp)
 
 ## 10월 23일의 탄생색: 프러시안 레드 (`#CC3333`)
 

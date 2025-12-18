@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ムースグレー](https://i.ibb.co/Wv8M0G7k/ja-11-7.png)
+![ムースグレー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_312.webp)
 
 ## 11月7日の誕生色: ムースグレー (`#999999`)
 

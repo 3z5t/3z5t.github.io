@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![에메랄드 그린](https://i.ibb.co/tpCSmqKV/ko-4-3.png)
+![에메랄드 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_094.webp)
 
 ## 4월 3일의 탄생색: 에메랄드 그린 (#00CC66)
 

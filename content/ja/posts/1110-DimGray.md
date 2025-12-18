@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディムグレー](https://i.ibb.co/8nCnr92g/ja-11-10.png)
+![ディムグレー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_315.webp)
 
 ## 11月10日の誕生色: ディムグレー (`#666666`)
 

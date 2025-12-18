@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![シルバーブルー](https://i.ibb.co/8n1C1zp0/ja-1-27.png)
+![シルバーブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_027.webp)
 
 ## 1月27日の誕生色: シルバーブルー (`#ABB5C1`)
 

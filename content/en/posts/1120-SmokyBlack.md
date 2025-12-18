@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Smoky Black](https://i.ibb.co/fz7gWH1R/en-Smoky-Black-November-20th.png)
+![Smoky Black](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_325.webp)
 
 ## Birthday Color for November 20th: Smoky Black (`#100F0F`)
 

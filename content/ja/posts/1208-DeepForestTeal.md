@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープフォレストティール](https://i.ibb.co/rVFhyPq/ja-12-8.png)
+![ディープフォレストティール](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_343.webp)
 
 ## 12月8日の誕生色: ディープフォレストティール (`#17896E`)
 

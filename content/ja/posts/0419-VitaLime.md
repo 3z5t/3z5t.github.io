@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ヴィタライム](https://i.ibb.co/FZsR0wc/ja-4-19.png)
+![ヴィタライム](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_110.webp)
 
 ## 4月19日の誕生色: ヴィタライム (`#D1D734`)
 

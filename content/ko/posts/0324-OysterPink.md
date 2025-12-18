@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![오이스터 핑크](https://i.ibb.co/QFWFSgtV/ko-3-24.png)
+![오이스터 핑크](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_084.webp)
 
 ## 3월 24일의 탄생색: 오이스터 핑크 (`#CEAAAD`)
 

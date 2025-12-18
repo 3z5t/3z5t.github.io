@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![피치 퍼프](https://i.ibb.co/99T5vLny/ko-8-3.png)
+![피치 퍼프](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_216.webp)
 
 ## 8월 3일의 탄생색: 피치 퍼프 (`#FFD7B5`)
 

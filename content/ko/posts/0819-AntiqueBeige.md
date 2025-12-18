@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![앤티크 베이지](https://i.ibb.co/1YJPKN15/ko-8-19.png)
+![앤티크 베이지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_232.webp)
 
 ## 8월 19일의 탄생색: 앤티크 베이지 (`#A19475`)
 

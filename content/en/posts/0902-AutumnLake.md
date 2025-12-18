@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Autumn Lake](https://i.ibb.co/CyxnHHQ/en-Autumn-Lake-September-2nd.png)
+![Autumn Lake](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_246.webp)
 
 ## Birthday Color for September 2nd: Autumn Lake (`#55779B`)
 

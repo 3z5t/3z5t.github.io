@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Lilac](https://i.ibb.co/DPCGL9Wc/en-Lilac-July-18th.png)
+![Lilac](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_200.webp)
 
 ## Birthday Color for July 18th: Lilac (`#CC99CC`)
 

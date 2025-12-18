@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![レイトサマーリーフ](https://i.ibb.co/3YvYZvS1/ja-8-29.png)
+![レイトサマーリーフ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_242.webp)
 
 ## 8月29日の誕生色: レイトサマーリーフ (`#566353`)
 

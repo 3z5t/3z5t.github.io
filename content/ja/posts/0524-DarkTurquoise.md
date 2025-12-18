@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ダークターコイズ](https://i.ibb.co/WNNJNKbX/ja-5-24.png)
+![ダークターコイズ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_145.webp)
 
 ## 5月24日の誕生色: ダークターコイズ (`#3F97AF`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![프렌치 베이지](https://i.ibb.co/WvBmKcVd/ko-8-25.png)
+![프렌치 베이지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_238.webp)
 
 ## 8월 25일의 탄생색: 프렌치 베이지 (`#A67B5B`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![장미 레드](https://i.ibb.co/PzDKZ8d0/ko-12-2.png)
+![장미 레드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_337.webp)
 
 ## 12월 2일의 탄생색: 장미 레드 (`#8D1C1C`)
 

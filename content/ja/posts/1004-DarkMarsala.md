@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ダークマルサラ](https://i.ibb.co/N2h7k3V8/ja-10-4.png)
+![ダークマルサラ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_278.webp)
 
 ## 10月3日の誕生色: クラシックレッド (`#C61400`)
 

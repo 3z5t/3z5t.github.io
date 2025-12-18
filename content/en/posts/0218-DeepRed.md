@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Red](https://i.ibb.co/nq4FMjVZ/en-Deep-Red-February-18th.png)
+![Deep Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_049.webp)
 
 ## Birthday Color for February 18th: Deep Red (`#F3392C`)
 

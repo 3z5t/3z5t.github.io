@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Orange](https://i.ibb.co/rRhBMcQK/en-Orange-June-9th.png)
+![Orange](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_161.webp)
 
 ## Birthday Color for June 9th: Orange (`#FF6633`)
 

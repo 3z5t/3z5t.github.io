@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オーガナイズドストーンウォール](https://i.ibb.co/QFszDmTw/ja-9-9.png)
+![オーガナイズドストーンウォール](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_253.webp)
 
 ## 9月9日の誕生色: オーガナイズドストーンウォール (`#665E5F`)
 

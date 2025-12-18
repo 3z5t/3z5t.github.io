@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Sora](https://i.ibb.co/gFSS0yQ8/en-Deep-Sora-January-19th.png)
+![Deep Sora](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_019.webp)
 
 ## Birthday Color for January 19th: Deep Sora (`#667CB8`)
 

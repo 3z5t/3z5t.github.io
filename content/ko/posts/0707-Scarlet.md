@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![스칼렛](https://i.ibb.co/jZyq0L4f/ko-7-7.png)
+![스칼렛](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_189.webp)
 
 ## 7월 7일의 탄생색: 스칼렛 (`#FF3300`)
 

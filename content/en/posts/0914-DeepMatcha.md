@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Matcha](https://i.ibb.co/gZTWF3vB/en-Deep-Matcha-September-14th.png)
+![Deep Matcha](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_258.webp)
 
 ## Birthday Color for September 14th: Deep Matcha (`#74703F`)
 

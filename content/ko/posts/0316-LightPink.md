@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![연분홍](https://i.ibb.co/RG4HPC9k/ko-3-16.png)
+![연분홍](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_076.webp)
 
 ## 3월 16일의 탄생색: 연분홍 (`#FFAAAA`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![녹차](https://i.ibb.co/dsfRGDT1/ko-9-15.png)
+![녹차](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_259.webp)
 
 ## 9월 15일의 탄생색: 녹차 (`#98946E`)
 

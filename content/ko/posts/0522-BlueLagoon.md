@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![블루 라군](https://i.ibb.co/n81wtz01/ko-5-22.png)
+![블루 라군](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_143.webp)
 
 ## 5월 22일의 탄생색: 블루 라군 (`#006666`)
 

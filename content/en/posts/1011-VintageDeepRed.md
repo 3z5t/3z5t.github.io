@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Vintage Deep Red](https://i.ibb.co/LD89km6B/en-Vintage-Deep-Red-October-11th.png)
+![Vintage Deep Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_285.webp)
 
 ## Birthday Color for October 11th: Vintage Deep Red (`#8D192B`)
 

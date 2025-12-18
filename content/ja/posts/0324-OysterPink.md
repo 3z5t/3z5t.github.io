@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オイスターピンク](https://i.ibb.co/gZvkTYZH/ja-3-24.png)
+![オイスターピンク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_084.webp)
 
 ## 3月24日の誕生色: オイスターピンク (`#CEAAAD`)
 

@@ -13,6 +13,7 @@ tags:
 draft: false
 ---
 
+![SnowWhite](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_001.webp)
 ## 1月1日の誕生色: スノーホワイト (`#F2F1F1`)
 
 ### 1. スノーホワイトについての説明（色の感覚と特徴）

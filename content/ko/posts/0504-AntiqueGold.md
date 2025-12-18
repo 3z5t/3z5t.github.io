@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![앤티크 골드](https://i.ibb.co/Gv3FjrDN/ko-5-4.png)
+![앤티크 골드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_125.webp)
 
 ## 5월 4일의 탄생색: 앤티크 골드 (`#CFB53B`)
 

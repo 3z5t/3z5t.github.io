@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![サンセットオレンジ](https://i.ibb.co/qL2Ycs54/ja-6-11.png)
+![サンセットオレンジ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_163.webp)
 
 ## 6月11日の誕生色: サンセットオレンジ (`#FF6600`)
 

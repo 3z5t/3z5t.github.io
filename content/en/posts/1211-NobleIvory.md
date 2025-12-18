@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Noble Ivory](https://i.ibb.co/XZZ06nQw/en-Noble-Ivory-December-11th.png)
+![Noble Ivory](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_346.webp)
 
 ## Birthday Color for December 11th: Noble Ivory (`#F4EBE7`)
 

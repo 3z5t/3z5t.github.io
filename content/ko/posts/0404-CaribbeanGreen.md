@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![캐리비안 그린](https://i.ibb.co/5gR5mcYZ/ko-4-4.png)
+![캐리비안 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_095.webp)
 
 ## 4월 4일의 탄생색: 캐리비안 그린 (#00CC99)
 

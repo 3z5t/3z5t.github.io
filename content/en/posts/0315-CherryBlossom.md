@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Cherry Blossom](https://i.ibb.co/C3j4yF22/en-Cherry-Blossom-March-15th.png)
+![Cherry Blossom](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_075.webp)
 
 ## Birthday Color for March 15th: Cherry Blossom (`#F0ADCA`)
 

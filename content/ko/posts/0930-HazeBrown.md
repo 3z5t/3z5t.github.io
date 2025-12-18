@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![헤이즈 브라운](https://i.ibb.co/DH8HSkn0/ko-9-30.png)
+![헤이즈 브라운](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_274.webp)
 
 ## 9월 30일의 탄생색: 헤이즈 브라운 (`#9D8C7A`)
 

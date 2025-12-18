@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dusty Sora](https://i.ibb.co/CpTvCGYM/en-Dusty-Sora-January-18th.png)
+![Dusty Sora](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_018.webp)
 
 ## Birthday Color for January 18th: Dusty Sora (`#A4B0CC`)
 

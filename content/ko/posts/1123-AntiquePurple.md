@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![앤티크 보라](https://i.ibb.co/BHXj8Xbj/ko-11-23.png)
+![앤티크 보라](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_328.webp)
 ## 11월 23일의 탄생색: 앤티크 보라 (`#5E162D`)
 
 ### 1. 앤티크 보라에 대한 설명

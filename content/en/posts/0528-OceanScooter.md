@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Ocean Scooter](https://i.ibb.co/nNpP2WJw/en-Ocean-Scooter-May-28th.png)
+![Ocean Scooter](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_149.webp)
 
 ## Birthday Color for May 28th: Ocean Scooter (`#339999`)
 

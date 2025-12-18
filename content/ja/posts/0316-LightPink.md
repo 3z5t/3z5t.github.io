@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ライトピンク](https://i.ibb.co/zT0Sff4y/ja-3-16.png)
+![ライトピンク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_076.webp)
 
 ## 3月16日の誕生色: ライトピンク (`#FFAAAA`)
 

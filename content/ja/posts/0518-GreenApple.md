@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![グリーンアップル](https://i.ibb.co/HTPCxdg7/ja-5-18.png)
+![グリーンアップル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_139.webp)
 
 ## 5月18日の誕生色: グリーンアップル (`#5CE546`)
 

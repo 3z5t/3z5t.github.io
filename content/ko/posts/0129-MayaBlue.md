@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![마야 블루](https://i.ibb.co/JFvmd064/ko-1-29.png)
+![마야 블루](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_029.webp)
 
 ## 1월 29일의 탄생색: 마야 블루 (`#6699FF`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![미드나잇 바이올렛](https://i.ibb.co/4gnPWLNf/ko-11-28.png)
+![미드나잇 바이올렛](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_333.webp)
 ## 11월 28일의 탄생색: 미드나잇 바이올렛 (`#20202E`)
 
 ### 1. 미드나잇 바이올렛에 대한 설명

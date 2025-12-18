@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![カーマインレッド](https://i.ibb.co/V06ZXXzP/ja-2-22.png)
+![カーマインレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_053.webp)
 
 ## 2月22日の誕生色: カーマインレッド (`#B72F42`)
 

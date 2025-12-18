@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![여름빛 모래사장](https://i.ibb.co/6RFJRNRB/ko-9-13.png)
+![여름빛 모래사장](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_257.webp)
 
 ## 9월 13일의 탄생색: 여름빛 모래사장 (`#BF9F87`)
 

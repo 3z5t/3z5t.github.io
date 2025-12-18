@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ホットマゼンタ](https://i.ibb.co/MYqSkn0/ja-2-14.png)
+![ホットマゼンタ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_045.webp)
 
 ## 2月14日の誕生色: ホットマゼンタ (`#FF00CC`)
 

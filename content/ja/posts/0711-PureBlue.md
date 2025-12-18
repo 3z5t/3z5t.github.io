@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ピュアブルー](https://i.ibb.co/mrMw1WXk/ja-7-11.png)
+![ピュアブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_193.webp)
 
 ## 7月11日の誕生色: ピュアブルー (`#3333FF`)
 

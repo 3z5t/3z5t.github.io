@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープオレンジ](https://i.ibb.co/wNpc2HR4/ja-6-17.png)
+![ディープオレンジ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_169.webp)
 
 ## 6月17日の誕生色: ディープオレンジ (`#FD731C`)
 

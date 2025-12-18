@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![バーリーウッド](https://i.ibb.co/YTyjwSj2/ja-8-17.png)
+![バーリーウッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_230.webp)
 
 ## 8月17日の誕生色: バーリーウッド (`#DCBF97`)
 

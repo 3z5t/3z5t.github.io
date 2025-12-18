@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Curry](https://i.ibb.co/MxzfFggN/en-Curry-June-23rd.png)
+![Curry](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_175.webp)
 
 ## Birthday Color for June 23rd: Curry (`#D6A620`)
 

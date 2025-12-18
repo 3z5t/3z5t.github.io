@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ターコイズ](https://i.ibb.co/GvHQ1hqr/ja-4-7.png)
+![ターコイズ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_098.webp)
 
 ## 4月7日の誕生色: ターコイズ (`#40E0D0`)
 

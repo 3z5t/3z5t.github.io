@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![올리브 오일](https://i.ibb.co/HL5NQYxx/ko-10-31.png)
+![올리브 오일](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_305.webp)
 
 ## 10월 31일의 탄생색: 올리브 오일 (`#999900`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ピーチオレンジ](https://i.ibb.co/bYBN3xP/ja-6-3.png)
+![ピーチオレンジ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_155.webp)
 
 ## 6月3日の誕生色: ピーチオレンジ (`#FFCC99`)
 

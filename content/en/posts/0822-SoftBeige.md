@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Soft Beige](https://i.ibb.co/Dchkg5v/en-Soft-Beige-August-22nd.png)
+![Soft Beige](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_235.webp)
 
 ## Birthday Color for August 22nd: Soft Beige (`#ECBDA4`)
 

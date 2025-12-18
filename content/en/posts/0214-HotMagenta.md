@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Hot Magenta](https://i.ibb.co/9jNgCMk/en-Hot-Magenta-February-14th.png)
+![Hot Magenta](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_045.webp)
 
 ## Birthday Color for February 14th: Hot Magenta (`#FF00CC`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Grayish Green](https://i.ibb.co/WWXYRxdg/en-Grayish-Green-November-3rd.png)
+![Grayish Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_308.webp)
 
 ## Birthday Color for November 3rd: Grayish Green (`#444236`)
 

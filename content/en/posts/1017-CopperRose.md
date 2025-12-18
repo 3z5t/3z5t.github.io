@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Copper Rose](https://i.ibb.co/1GKQXW8h/en-Copper-Rose-October-17th.png)
+![Copper Rose](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_291.webp)
 
 ## Birthday Color for October 17th: Copper Rose (`#996666`)
 

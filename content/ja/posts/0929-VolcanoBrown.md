@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ボルケーノブラウン](https://i.ibb.co/k2pJzp7b/ja-9-29.png)
+![ボルケーノブラウン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_273.webp)
 
 ## 9月29日の誕生色: ボルケーノブラウン (`#675853`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Night](https://i.ibb.co/yc7v6wYs/en-Deep-Night-November-16th.png)
+![Deep Night](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_321.webp)
 
 ## Birthday Color for November 16th: Deep Night (`#1A161F`)
 

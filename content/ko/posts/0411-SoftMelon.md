@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![소프트 멜론](https://i.ibb.co/N6xLf2Rc/ko-4-11.png)
+![소프트 멜론](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_102.webp)
 
 ## 4월 11일의 탄생색: 소프트 멜론 (#84C07A)
 

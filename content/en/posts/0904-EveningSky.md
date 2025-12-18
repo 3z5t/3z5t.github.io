@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Evening Sky](https://i.ibb.co/N26MGHtz/en-Evening-Sky-September-4th.png)
+![Evening Sky](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_248.webp)
 
 ## Birthday Color for September 4th: Evening Sky (`#071734`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![バーミリオン](https://i.ibb.co/f6rDgdc/ja-10-22.png)
+![バーミリオン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_296.webp)
 
 ## 10月22日の誕生色: バーミリオン (`#E34234`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アイボリー](https://i.ibb.co/YTh4DF5w/ja-8-11.png)
+![アイボリー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_224.webp)
 
 ## 8月11日の誕生色: アイボリー (`#FFF3D4`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Mystic Purple](https://i.ibb.co/v6bmkSH3/en-Mystic-Purple-July-12th.png)
+![Mystic Purple](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_194.webp)
 
 ## Birthday Color for July 12th: Mystic Purple (`#9900FF`)
 

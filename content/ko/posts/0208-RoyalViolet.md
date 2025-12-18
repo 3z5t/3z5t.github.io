@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![로얄 바이올렛](https://i.ibb.co/cKF5fFmz/ko-2-8.png)
+![로얄 바이올렛](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_039.webp)
 
 ## 2월 8일의 탄생색: 로얄 바이올렛 (`#32127A`)
 

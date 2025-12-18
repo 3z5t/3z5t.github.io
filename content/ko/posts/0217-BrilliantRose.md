@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![브릴리언트 로즈](https://i.ibb.co/S4LFt8kV/ko-2-17.png)
+![브릴리언트 로즈](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_048.webp)
 
 ## 2월 17일의 탄생색: 브릴리언트 로즈 (`#FF6699`)
 

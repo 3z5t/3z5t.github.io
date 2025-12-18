@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ピュアクリムゾン](https://i.ibb.co/LzmX4JRq/ja-2-23.png)
+![ピュアクリムゾン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_054.webp)
 
 ## 2月23日の誕生色: ピュアクリムゾン (`#BA0046`)
 

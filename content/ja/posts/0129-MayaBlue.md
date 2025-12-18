@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![マヤブルー](https://i.ibb.co/Lzq56XzC/ja-1-29.png)
+![マヤブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_029.webp)
 
 ## 1月29日の誕生色: マヤブルー (`#6699FF`)
 

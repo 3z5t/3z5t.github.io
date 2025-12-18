@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![エレガントウルトラマリン](https://i.ibb.co/zWZrv9gk/ja-1-10.png)
+![エレガントウルトラマリン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_010.webp)
 
 ## 1月10日の誕生色: エレガントウルトラマリン (`#445B97`)
 

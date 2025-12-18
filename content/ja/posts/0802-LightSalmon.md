@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ライトサーモン](https://i.ibb.co/t6CV9PT/ja-8-2.png)
+![ライトサーモン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_215.webp)
 
 ## 8月2日の誕生色: ライトサーモン (`#FFA07A`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![スレートグリーン](https://i.ibb.co/cS6JP1Bs/ja-5-21.png)
+![スレートグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_142.webp)
 
 ## 5月21日の誕生色: スレートグリーン (`#557A7C`)
 

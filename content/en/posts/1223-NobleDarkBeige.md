@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Noble Dark Beige](https://i.ibb.co/DPW2g999/en-Noble-Dark-Beige-December-23rd.png)
+![Noble Dark Beige](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_358.webp)
 
 ## Birthday Color for December 23rd: Noble Dark Beige (`#D5A66B`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ピュアグリーン](https://i.ibb.co/TMFfTxRN/ja-5-16.png)
+![ピュアグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_137.webp)
 
 ## 5月16日の誕生色: ピュアグリーン (`#2FBA10`)
 

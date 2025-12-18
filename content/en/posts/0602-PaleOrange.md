@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Pale Orange](https://i.ibb.co/60pd0pcK/en-Pale-Orange-June-2nd.png)
+![Pale Orange](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_154.webp)
 
 ## Birthday Color for June 2nd: Pale Orange (`#FFEBB0`)
 

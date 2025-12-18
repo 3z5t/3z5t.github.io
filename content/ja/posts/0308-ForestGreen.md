@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![フォレストグリーン](https://i.ibb.co/2mb5vcQ/ja-3-8.png)
+![フォレストグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_068.webp)
 
 ## 3月8日の誕生色: フォレストグリーン (`#006600`)
 

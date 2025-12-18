@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![라벤더 블루](https://i.ibb.co/8LPdZHPM/ko-2-1.png)
+![라벤더 블루](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_032.webp)
 
 ## 2월 1일의 탄생색: 라벤더 블루 (`#CCCCFF`)
 

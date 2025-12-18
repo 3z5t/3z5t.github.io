@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Matte Gold](https://i.ibb.co/dwn44C9k/en-Matte-Gold-June-19th.png)
+![Matte Gold](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_171.webp)
 
 ## Birthday Color for June 19th: Matte Gold (`#DD9330`)
 

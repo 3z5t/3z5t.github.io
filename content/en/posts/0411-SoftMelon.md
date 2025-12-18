@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Soft Melon](https://i.ibb.co/G4zS8969/en-Soft-Melon-April-11th.png)
+![Soft Melon](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_102.webp)
 
 ## Birthday Color for April 11th: Soft Melon (`#84C07A`)
 

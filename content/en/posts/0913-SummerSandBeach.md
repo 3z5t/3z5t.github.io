@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Summer Sand Beach](https://i.ibb.co/xt3rcLvY/en-Summer-Sand-Beach-September-13th.png)
+![Summer Sand Beach](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_257.webp)
 
 ## Birthday Color for September 13th: Summer Sand Beach (`#BF9F87`)
 

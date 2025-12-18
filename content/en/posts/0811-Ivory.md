@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Ivory](https://i.ibb.co/fz2bB4Sh/en-Ivory-August-11th.png)
+![Ivory](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_224.webp)
 
 ## Birthday Color for August 11th: Ivory (`#FFF3D4`)
 

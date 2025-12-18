@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![나이트 그린](https://i.ibb.co/3mqQWh9W/ko-5-17.png)
+![나이트 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_138.webp)
 
 ## 5월 17일의 탄생색: 나이트 그린 (`#5C9432`)
 

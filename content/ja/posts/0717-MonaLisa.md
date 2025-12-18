@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![モナリザ](https://i.ibb.co/tMr8NqQv/ja-7-17.png)
+![モナリザ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_199.webp)
 
 ## 7月17日の誕生色: モナリザ (`#FF9999`)
 

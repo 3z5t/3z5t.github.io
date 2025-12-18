@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![コーラル](https://i.ibb.co/Mkkk9v66/ja-7-1.png)
+![コーラル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_183.webp)
 
 ## 7月1日の誕生色: コーラル (`#FF7F50`)
 

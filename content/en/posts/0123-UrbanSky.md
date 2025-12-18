@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Urban Sky](https://i.ibb.co/XZRhFVqx/en-Urban-Sky-January-23rd.png)
+![Urban Sky](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_023.webp)
 
 ## Birthday Color for January 23rd: Urban Sky (`#BBC1CA`)
 

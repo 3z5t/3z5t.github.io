@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ブリリアントレッド](https://i.ibb.co/5WZTdMnz/ja-12-6.png)
+![ブリリアントレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_341.webp)
 
 ## 12月6日の誕生色: ブリリアントレッド (`#F60100`)
 

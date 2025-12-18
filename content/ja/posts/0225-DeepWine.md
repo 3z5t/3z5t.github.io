@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープワイン](https://i.ibb.co/gZ9Kr3T9/ja-2-25.png)
+![ディープワイン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_056.webp)
 
 ## 2月25日の誕生色: ディープワイン (`#77384C`)
 

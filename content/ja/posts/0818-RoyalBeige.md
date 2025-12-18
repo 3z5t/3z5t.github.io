@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ロイヤルベージュ](https://i.ibb.co/fV43QpWP/ja-8-18.png)
+![ロイヤルベージュ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_231.webp)
 
 ## 8月18日の誕生色: ロイヤルベージュ (`#AB9170`)
 

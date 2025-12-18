@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ハニーデュー](https://i.ibb.co/N2GB88Jx/ja-5-10.png)
+![ハニーデュー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_131.webp)
 
 ## 5月10日の誕生色: ハニーデュー (`#CCFFCC`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![파인 그린](https://i.ibb.co/6cqDrh2T/ko-12-9.png)
+![파인 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_344.webp)
 
 ## 12월 9일의 탄생색: 파인 그린 (`#207670`)
 

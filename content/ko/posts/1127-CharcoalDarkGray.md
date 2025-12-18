@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![차콜 다크그레이](https://i.ibb.co/sv6vN1z0/ko-11-27.png)
+![차콜 다크그레이](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_332.webp)
 
 ## 11월 27일의 탄생색: 차콜 다크그레이 (`#2F2C2C`)
 

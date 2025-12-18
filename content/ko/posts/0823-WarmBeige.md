@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![웜 베이지](https://i.ibb.co/hR3H2JQH/ko-8-23.png)
+![웜 베이지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_236.webp)
 
 ## 8월 23일의 탄생색: 웜 베이지 (`#B69174`)
 

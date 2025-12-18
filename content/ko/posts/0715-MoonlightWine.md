@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![문라이트 와인](https://i.ibb.co/j9Grh24F/ko-7-15.png)
+![문라이트 와인](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_197.webp)
 
 ## 7월 15일의 탄생색: 문라이트 와인 (`#610928`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Papaya Blue](https://i.ibb.co/mryBmgc7/en-Papaya-Blue-April-22nd.png)
+![Papaya Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_113.webp)
 
 ## Birthday Color for April 22nd: Papaya Blue (`#37B5BE`)
 

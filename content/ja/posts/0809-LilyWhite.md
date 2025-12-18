@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![リリーホワイト](https://i.ibb.co/qLq6ynTL/ja-8-9.png)
+![リリーホワイト](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_222.webp)
 
 ## 8月9日の誕生色: リリーホワイト (`#F3F1EF`)
 

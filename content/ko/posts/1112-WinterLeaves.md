@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![겨울 낙엽](https://i.ibb.co/kYqPSmj/ko-11-12.png)
+![겨울 낙엽](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_317.webp)
 
 ## 11월 12일의 탄생색: 겨울 낙엽 (`#706863`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![エレクトリックブルー](https://i.ibb.co/fGXtCz10/ja-4-1.png)
+![エレクトリックブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_092.webp)
 
 ## 4月1日の誕生色: エレクトリックブルー (`#99FFFF`)
 

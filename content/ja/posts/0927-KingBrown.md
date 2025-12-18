@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![キングブラウン](https://i.ibb.co/gFh8x6Zh/ja-9-27.png)
+![キングブラウン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_271.webp)
 
 ## 9月27日の誕生色: キングブラウン (`#A86248`)
 

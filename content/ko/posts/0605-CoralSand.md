@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![코랄 샌드](https://i.ibb.co/QvtQQypN/ko-6-5.png)
+![코랄 샌드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_157.webp)
 
 ## 6월 5일의 탄생색: 코랄 샌드 (`#FFD0A1`)
 

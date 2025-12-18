@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Cloudy Sky](https://i.ibb.co/hJhNkXwF/en-Cloudy-Sky-January-24th.png)
+![Cloudy Sky](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_024.webp)
 
 ## Birthday Color for January 24th: Cloudy Sky (`#C3CFE0`)
 

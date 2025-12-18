@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ブランディパンチ](https://i.ibb.co/Cp5sYhfK/ja-6-18.png)
+![ブランディパンチ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_170.webp)
 
 ## 6月18日の誕生色: ブランディパンチ (`#C6794A`)
 

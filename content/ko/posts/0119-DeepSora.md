@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![진소라](https://i.ibb.co/gbpzz37z/ko-1-19.png)
+![진소라](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_019.webp)
 
 ## 1월 19일의 탄생색: 진소라 (`#667CB8`)
 

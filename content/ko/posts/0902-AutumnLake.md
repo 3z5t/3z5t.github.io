@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![가을 호수](https://i.ibb.co/W4Z56C8Q/ko-9-2.png)
+![가을 호수](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_246.webp)
 
 ## 9월 2일의 탄생색: 가을 호수 (`#55779B`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ミスティスカイ](https://i.ibb.co/jZJtR0cv/ja-1-25.png)
+![ミスティスカイ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_025.webp)
 
 ## 1月25日の誕生色: ミスティスカイ (`#C2BEC5`)
 

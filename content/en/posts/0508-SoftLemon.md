@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Soft Lemon](https://i.ibb.co/pjsbgtY8/en-Soft-Lemon-May-8th.png)
+![Soft Lemon](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_129.webp)
 
 ## Birthday Color for May 8th: Soft Lemon (`#D5D679`)
 

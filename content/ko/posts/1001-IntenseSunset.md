@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![강렬한 석양](https://i.ibb.co/LstKQWn/ko-10-1.png)
+![강렬한 석양](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_275.webp)
 
 ## 10월 1일의 탄생색: 강렬한 석양 (`#BC5445`)
 

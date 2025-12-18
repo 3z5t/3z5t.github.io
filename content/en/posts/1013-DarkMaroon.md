@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dark Maroon](https://i.ibb.co/0jrY53L1/en-Dark-Maroon-October-13th.png)
+![Dark Maroon](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_287.webp)
 
 ## Birthday Color for October 13th: Dark Maroon (`#3A0000`)
 

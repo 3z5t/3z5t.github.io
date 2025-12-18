@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dark Red](https://i.ibb.co/FqkHQR5G/en-Dark-Red-February-20th.png)
+![Dark Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_051.webp)
 
 ## Birthday Color for February 20th: Dark Red (`#840C18`)
 

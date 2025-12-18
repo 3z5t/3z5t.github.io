@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Fuchsia](https://i.ibb.co/nN2XBcWS/en-Fuchsia-July-14th.png)
+![Fuchsia](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_196.webp)
 
 ## Birthday Color for July 14th: Fuchsia (`#CC33CC`)
 

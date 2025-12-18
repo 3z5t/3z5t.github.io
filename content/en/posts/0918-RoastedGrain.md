@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Roasted Grain](https://i.ibb.co/gLRnBskC/en-Roasted-Grain-September-18th.png)
+![Roasted Grain](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_262.webp)
 
 ## Birthday Color for September 18th: Roasted Grain (`#A09588`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![グレープフルーツ](https://i.ibb.co/1tcTjWfT/ja-6-16.png)
+![グレープフルーツ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_168.webp)
 
 ## 6月16日の誕生色: グレープフルーツ (`#FE7B84`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![크림 모카](https://i.ibb.co/ycw6Bpgy/ko-6-21.png)
+![크림 모카](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_173.webp)
 
 ## 6월 21일의 탄생색: 크림 모카 (`#D19A71`)
 

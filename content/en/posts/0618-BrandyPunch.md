@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Brandy Punch](https://i.ibb.co/jkqvG8Q4/en-Brandy-Punch-June-18th.png)
+![Brandy Punch](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_170.webp)
 
 ## Birthday Color for June 18th: Brandy Punch (`#C6794A`)
 

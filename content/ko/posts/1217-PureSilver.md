@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![퓨어 실버](https://i.ibb.co/vvmJJc8R/ko-12-17.png)
+![퓨어 실버](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_352.webp)
 
 ## 12월 17일의 탄생색: 퓨어 실버 (`#E5E5E5`)
 

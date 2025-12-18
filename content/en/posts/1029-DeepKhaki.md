@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Khaki](https://i.ibb.co/TBS7fTDG/en-Deep-Khaki-October-29th.png)
+![Deep Khaki](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_303.webp)
 
 ## Birthday Color for October 29th: Deep Khaki (`#525C3E`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープオーシャン](https://i.ibb.co/PsgS1Md1/ja-9-5.png)
+![ディープオーシャン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_249.webp)
 
 ## 9月5日の誕生色: ディープオーシャン (`#5A6078`)
 

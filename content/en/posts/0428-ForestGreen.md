@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Forest Green](https://i.ibb.co/zWyWKbDR/en-Forest-Green-April-28th.png)
+![Forest Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_119.webp)
 
 ## Birthday Color for April 28th: Forest Green (`#228B22`)
 

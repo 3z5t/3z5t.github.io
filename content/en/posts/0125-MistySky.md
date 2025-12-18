@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Misty Sky](https://i.ibb.co/svS3SrV3/en-Misty-Sky-January-25th.png)
+![Misty Sky](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_025.webp)
 
 ## Birthday Color for January 25th: Misty Sky (`#C2BEC5`)
 

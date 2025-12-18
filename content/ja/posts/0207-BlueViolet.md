@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ブルーバイオレット](https://i.ibb.co/j9rsQJRj/ja-2-7.png)
+![ブルーバイオレット](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_038.webp)
 
 ## 2月7日の誕生色: ブルーバイオレット (`#8673C4`)
 

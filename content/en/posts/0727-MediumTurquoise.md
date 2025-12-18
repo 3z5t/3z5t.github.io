@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Medium Turquoise](https://i.ibb.co/MxdYjX49/en-Medium-Turquoise-July-27th.png)
+![Medium Turquoise](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_209.webp)
 
 ## Birthday Color for July 27th: Medium Turquoise (`#33CCCC`)
 

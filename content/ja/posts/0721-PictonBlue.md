@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ピクトンブルー](https://i.ibb.co/Zpz063XQ/ja-7-21.png)
+![ピクトンブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_203.webp)
 ## 7月21日の誕生色: ピクトンブルー (`#6699CC`)
 
 ### 1. ピクトンブルーについての説明（色の感覚と特徴）

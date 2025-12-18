@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Soft Cyan](https://i.ibb.co/hxym7sZw/en-Soft-Cyan-July-30th.png)
+![Soft Cyan](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_212.webp)
 
 ## Birthday Color for July 30th: Soft Cyan (`#6EC5EF`)
 

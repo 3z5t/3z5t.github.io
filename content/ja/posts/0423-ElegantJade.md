@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![エレガントジェイド](https://i.ibb.co/WNq2SHCW/ja-4-23.png)
+![エレガントジェイド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_114.webp)
 
 ## 4月23日の誕生色: エレガントジェイド (`#79B49F`)
 

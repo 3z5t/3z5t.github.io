@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Ash Beige](https://i.ibb.co/tTDFGBLT/en-Ash-Beige-August-28th.png)
+![Ash Beige](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_241.webp)
 
 ## Birthday Color for August 28th: Ash Beige (`#978B88`)
 

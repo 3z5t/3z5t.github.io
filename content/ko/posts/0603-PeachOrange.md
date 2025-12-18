@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![피치 오렌지](https://i.ibb.co/KpssDMGz/ko-6-3.png)
+![피치 오렌지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_155.webp)
 
 ## 6월 3일의 탄생색: 피치 오렌지 (`#FFCC99`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![スノークラウド](https://i.ibb.co/8LVcM6GD/ja-12-30.png)
+![スノークラウド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_365.webp)
 
 ## 12月30日の誕生色: スノークラウド (`#F1F5F7`)
 

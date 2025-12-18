@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Brandy Rose](https://i.ibb.co/DgtZ5fWf/en-Brandy-Rose-February-29th.png)
+![Brandy Rose](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_060.webp)
 
 ## Birthday Color for February 29th: Brandy Rose (`#B58A7B`)
 

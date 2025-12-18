@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![브릴리언트 레드](https://i.ibb.co/zWxsDrgf/ko-12-6.png)
+![브릴리언트 레드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_341.webp)
 
 ## 12월 6일의 탄생색: 브릴리언트 레드 (`#F60100`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープカーキ](https://i.ibb.co/0p7BQ82T/ja-10-29.png)
+![ディープカーキ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_303.webp)
 
 ## 10月29日の誕生色: ディープカーキ (`#525C3E`)
 

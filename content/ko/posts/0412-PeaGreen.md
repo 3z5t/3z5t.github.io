@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![완두콩](https://i.ibb.co/d0qrVWdR/ko-4-12.png)
+![완두콩](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_103.webp)
 
 ## 4월 12일의 탄생색: 완두콩 (#8C9E58)
 

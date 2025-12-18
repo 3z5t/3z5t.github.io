@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Soft Blue](https://i.ibb.co/q3T5X55n/en-Soft-Blue-January-30th.png)
+![Soft Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_030.webp)
 ## Birthday Color for January 30th: Soft Blue (`#99CCFF`)
 
 ### 1. Description of Soft Blue (Feeling and Traits)

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Lavender Blush](https://i.ibb.co/ycDSnLvk/en-Lavender-Blush-February-2nd.png)
+![Lavender Blush](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_033.webp)
 
 ## Birthday Color for February 2nd: Lavender Blush (`#FFCCFF`)
 

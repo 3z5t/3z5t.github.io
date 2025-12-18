@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![サンレッド](https://i.ibb.co/Lfqm0y7/ja-7-9.png)
+![サンレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_191.webp)
 
 ## 7月9日の誕生色: サンレッド (`#F01313`)
 

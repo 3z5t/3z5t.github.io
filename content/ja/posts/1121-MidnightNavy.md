@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ミッドナイトネイビー](https://i.ibb.co/5hJ74Tr7/ja-11-21.png)
+![ミッドナイトネイビー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_326.webp)
 
 ## 11月21日の誕生色: ミッドナイトネイビー (`#000033`)
 

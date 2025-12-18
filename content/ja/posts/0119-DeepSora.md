@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープソラ](https://i.ibb.co/4nkWFvsL/ja-1-19.png)
+![ディープソラ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_019.webp)
 
 ## 1月19日の誕生色: ディープソラ (`#667CB8`)
 

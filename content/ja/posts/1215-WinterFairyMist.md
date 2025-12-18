@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ウィンターフェアリーミスト](https://i.ibb.co/vxbXXzhs/ja-12-15.png)
+![ウィンターフェアリーミスト](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_350.webp)
 
 ## 12月15日の誕生色: ウィンターフェアリーミスト (`#B3C4E5`)
 

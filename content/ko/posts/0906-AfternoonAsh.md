@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![애프터눈 잿빛](https://i.ibb.co/DH9ZZpzs/ko-9-6.png)
+![애프터눈 잿빛](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_250.webp)
 
 ## 9월 6일의 탄생색: 애프터눈 잿빛 (`#191B28`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ヨーグルト](https://i.ibb.co/pjFbNGwr/ja-8-5.png)
+![ヨーグルト](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_218.webp)
 
 ## 8月5日の誕生色: ヨーグルト (`#FFDCB8`)
 

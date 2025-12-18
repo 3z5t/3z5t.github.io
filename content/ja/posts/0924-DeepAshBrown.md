@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープアッシュブラウン](https://i.ibb.co/XmGKnYp/ja-9-24.png)
+![ディープアッシュブラウン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_268.webp)
 
 ## 9月24日の誕生色: ディープアッシュブラウン (`#49423E`)
 

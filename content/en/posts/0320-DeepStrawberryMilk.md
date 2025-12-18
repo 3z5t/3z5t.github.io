@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Strawberry Milk](https://i.ibb.co/DPgSn5m2/en-Deep-Strawberry-Milk-March-20th.png)
+![Deep Strawberry Milk](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_080.webp)
 
 ## Birthday Color for March 20th: Deep Strawberry Milk (`#FF6FBD`)
 

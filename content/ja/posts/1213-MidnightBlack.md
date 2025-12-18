@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ミッドナイトブラック](https://i.ibb.co/FbYvFq5c/ja-12-13.png)
+![ミッドナイトブラック](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_348.webp)
 
 ## 12月13日の誕生色: ミッドナイトブラック (`#141618`)
 

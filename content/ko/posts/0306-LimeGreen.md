@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![라임 그린](https://i.ibb.co/ZqxDC2H/ko-3-6.png)
+![라임 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_066.webp)
 ## 3월 6일의 탄생색: 라임 그린 (`#6EAD5C`)
 
 ### 1. 라임 그린에 대한 설명 (색의 느낌과 특징)

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![백합 화이트](https://i.ibb.co/ZpjxW2F7/ko-8-9.png)
+![백합 화이트](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_222.webp)
 
 ## 8월 9일의 탄생색: 백합 화이트 (`#F3F1EF`)
 

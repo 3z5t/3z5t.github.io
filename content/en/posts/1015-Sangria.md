@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Sangria](https://i.ibb.co/SDLxgDHB/en-Sangria-October-15th.png)
+![Sangria](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_289.webp)
 
 ## Birthday Color for October 15th: Sangria (`#990000`)
 

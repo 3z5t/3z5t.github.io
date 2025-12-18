@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Magenta](https://i.ibb.co/kVJMHwBw/en-Deep-Magenta-February-12th.png)
+![Deep Magenta](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_043.webp)
 
 ## Birthday Color for February 12th: Deep Magenta (`#2C1725`)
 

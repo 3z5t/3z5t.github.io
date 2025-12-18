@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![단아한 군청](https://i.ibb.co/zTv37yw7/ko-1-10.png)
+![단아한 군청](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_010.webp)
 
 ## 1월 10일의 탄생색: 단아한 군청 (`#445B97`)
 

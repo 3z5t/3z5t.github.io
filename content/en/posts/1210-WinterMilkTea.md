@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Winter Milk Tea](https://i.ibb.co/FdG7K6J/en-Winter-Milk-Tea-December-10th.png)
+![Winter Milk Tea](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_345.webp)
 
 ## Birthday Color for December 10th: Winter Milk Tea (`#F2EDF3`)
 

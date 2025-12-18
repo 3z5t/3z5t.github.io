@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![심해](https://i.ibb.co/MDt9KCCK/ko-9-5.png)
+![심해](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_249.webp)
 
 ## 9월 5일의 탄생색: 심해 (`#5A6078`)
 

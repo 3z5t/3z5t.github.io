@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ウォールナット](https://i.ibb.co/XZ00jc9m/ja-6-25.png)
+![ウォールナット](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_177.webp)
 
 ## 6月25日の誕生色: ウォールナット (`#A49376`)
 

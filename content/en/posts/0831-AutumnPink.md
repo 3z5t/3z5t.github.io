@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Autumn Pink](https://i.ibb.co/rfzc7s0m/en-Autumn-Pink-August-31st.png)
+![Autumn Pink](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_244.webp)
 
 ## Birthday Color for August 31st: Autumn Pink (`#CC8F8A`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![심해의 푸른빛](https://i.ibb.co/tTPSgwTC/ko-1-12.png)
+![심해의 푸른빛](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_012.webp)
 
 ## 1월 12일의 탄생색: 심해의 푸른빛 (`#465C83`)
 

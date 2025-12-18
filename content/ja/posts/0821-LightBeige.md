@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ライトベージュ](https://i.ibb.co/FLRwmNT6/ja-8-21.png)
+![ライトベージュ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_234.webp)
 
 ## 8月21日の誕生色: ライトベージュ (`#C1A99B`)
 

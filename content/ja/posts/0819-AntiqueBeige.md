@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アンティークベージュ](https://i.ibb.co/gZHdq65X/ja-8-19.png)
+![アンティークベージュ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_232.webp)
 ## 8月19日の誕生色: アンティークベージュ (`#A19475`)
 
 ### 1. アンティークベージュについての説明（色の感覚と特徴）

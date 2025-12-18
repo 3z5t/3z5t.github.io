@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ビビッドレッド](https://i.ibb.co/gM4hLV7g/ja-7-10.png)
+![ビビッドレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_192.webp)
 
 ## 7月10日の誕生色: ビビッドレッド (`#FF1414`)
 

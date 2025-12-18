@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Autumn Leaves](https://i.ibb.co/21PCcfbD/en-Autumn-Leaves-September-28th.png)
+![Autumn Leaves](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_272.webp)
 
 ## Birthday Color for September 28th: Autumn Leaves (`#362925`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アンティークゴールド](https://i.ibb.co/zTtQ5x5B/ja-5-4.png)
+![アンティークゴールド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_125.webp)
 
 ## 5月4日の誕生色: アンティークゴールド (`#CFB53B`)
 

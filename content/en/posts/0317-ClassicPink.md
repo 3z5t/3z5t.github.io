@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Classic Pink](https://i.ibb.co/PvGSwDRT/en-Classic-Pink-March-17th.png)
+![Classic Pink](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_077.webp)
 
 ## Birthday Color for March 17th: Classic Pink (`#FFC0CB`)
 

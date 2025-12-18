@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アプリコット](https://i.ibb.co/Q3YcG8Kv/ja-6-7.png)
+![アプリコット](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_159.webp)
 
 ## 6月7日の誕生色: アプリコット (`#EA9E71`)
 

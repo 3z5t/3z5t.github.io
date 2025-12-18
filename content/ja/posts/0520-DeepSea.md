@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープシー](https://i.ibb.co/nN4fr7C3/ja-5-20.png)
+![ディープシー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_141.webp)
 ## 5月20日の誕生色: ディープシー (`#2F4F4F`)
 
 ### 1. ディープシーについての説明（色の感覚と特徴）

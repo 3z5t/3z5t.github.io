@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![옥슬리 그린](https://i.ibb.co/LhtNdVbF/ko-4-20.png)
+![옥슬리 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_111.webp)
 
 ## 4월 20일의 탄생색: 옥슬리 그린 (#669966)
 

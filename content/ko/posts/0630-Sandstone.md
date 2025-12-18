@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![샌드 스톤](https://i.ibb.co/r2bR5Dcd/ko-6-30.png)
+![샌드 스톤](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_182.webp)
 
 ## 6월 30일의 탄생색: 샌드 스톤 (`#7B6D6D`)
 

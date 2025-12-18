@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![아이리쉬 핑크](https://i.ibb.co/SwDHNjmM/ko-3-26.png)
+![아이리쉬 핑크](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_086.webp)
 
 ## 3월 26일의 탄생색: 아이리쉬 핑크 (`#DFAEA7`)
 

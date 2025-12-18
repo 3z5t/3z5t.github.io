@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![노블 스카이블루](https://i.ibb.co/0jbnzSDs/ko-12-18.png)
+![노블 스카이블루](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_353.webp)
 
 ## 12월 18일의 탄생색: 노블 스카이블루 (`#1FBEE3`)
 

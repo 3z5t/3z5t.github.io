@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Green Tea](https://i.ibb.co/VcGwv0Q3/en-Green-Tea-September-15th.png)
+![Green Tea](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_259.webp)
 
 ## Birthday Color for September 15th: Green Tea (`#98946E`)
 

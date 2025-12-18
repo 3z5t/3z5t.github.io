@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![코퍼 로즈](https://i.ibb.co/0p5n7PV6/ko-10-17.png)
+![코퍼 로즈](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_291.webp)
 
 ## 10월 17일의 탄생색: 코퍼 로즈 (`#996666`)
 

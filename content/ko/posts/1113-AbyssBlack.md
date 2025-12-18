@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![어비스 블랙](https://i.ibb.co/k2t68R9z/ko-11-13.png)
+![어비스 블랙](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_318.webp)
 
 ## 11월 13일의 탄생색: 어비스 블랙 (`#1A1A1A`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![애프터눈 그레이](https://i.ibb.co/hx3NWdNP/ko-9-8.png)
+![애프터눈 그레이](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_252.webp)
 
 ## 9월 8일의 탄생색: 애프터눈 그레이 (`#75787B`)
 

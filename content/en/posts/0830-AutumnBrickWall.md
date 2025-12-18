@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Autumn Brick Wall](https://i.ibb.co/7JWmxBfk/en-Autumn-Brick-Wall-August-30th.png)
+![Autumn Brick Wall](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_243.webp)
 ## Birthday Color for August 30th: Autumn Brick Wall (`#AA837E`)
 
 ### 1. Description of Autumn Brick Wall (Feeling and Traits)

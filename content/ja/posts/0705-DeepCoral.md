@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープコーラル](https://i.ibb.co/N2v1Kx48/ja-7-5.png)
+![ディープコーラル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_187.webp)
 
 ## 7月5日の誕生色: ディープコーラル (`#743636`)
 

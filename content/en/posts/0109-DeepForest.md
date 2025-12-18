@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Forest](https://i.ibb.co/35sMG1Fr/en-Deep-Forest-January-9th.png)
+![Deep Forest](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_009.webp)
 
 ## Birthday Color for January 9th: Deep Forest (`#13191A`)
 

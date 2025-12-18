@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アンティークアイボリー](https://i.ibb.co/fYxXxkvt/ja-12-12.png)
+![アンティークアイボリー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_347.webp)
 
 ## 12月12日の誕生色: アンティークアイボリー (`#E9E1D8`)
 

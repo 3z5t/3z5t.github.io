@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![パウダーブルー](https://i.ibb.co/8nSM9M33/ja-1-26.png)
+![パウダーブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_026.webp)
 
 ## 1月26日の誕生色: パウダーブルー (`#C4E8E6`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![앤티크 크리스마스 골드](https://i.ibb.co/tpVHNzgs/ko-12-25.png)
+![앤티크 크리스마스 골드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_360.webp)
 
 ## 12월 25일의 탄생색: 앤티크 크리스마스 골드 (`#947E4C`)
 

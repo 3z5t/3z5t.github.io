@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ライトシアン](https://i.ibb.co/Tx7yvr3G/ja-5-31.png)
+![ライトシアン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_152.webp)
 
 ## 5月31日の誕生色: ライトシアン (`#E0FFFF`)
 

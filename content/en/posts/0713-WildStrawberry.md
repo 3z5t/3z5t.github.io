@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Wild Strawberry](https://i.ibb.co/Q78XKvfg/en-Wild-Strawberry-July-13th.png)
+![Wild Strawberry](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_195.webp)
 
 ## Birthday Color for July 13th: Wild Strawberry (`#FF3399`)
 

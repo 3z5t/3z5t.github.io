@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クールベージュ](https://i.ibb.co/JRHjrzqk/ja-8-24.png)
+![クールベージュ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_237.webp)
 
 ## 8月24日の誕生色: クールベージュ (`#AF8E8A`)
 

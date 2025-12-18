@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![남보라](https://i.ibb.co/Wp7MFDh1/ko-2-7.png)
+![남보라](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_038.webp)
 
 ## 2월 7일의 탄생색: 남보라 (`#8673C4`)
 

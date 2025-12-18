@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ノーブルアイボリー](https://i.ibb.co/ccgd4pph/ja-12-11.png)
+![ノーブルアイボリー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_346.webp)
 
 ## 12月10日の誕生色: ウィンターミルクティー (`#F2EDF3`)
 

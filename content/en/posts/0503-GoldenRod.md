@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Golden Rod](https://i.ibb.co/Z1mLs6VP/en-Golden-Rod-May-3rd.png)
+![Golden Rod](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_124.webp)
 
 ## Birthday Color for May 3rd: Golden Rod (`#DAA520`)
 

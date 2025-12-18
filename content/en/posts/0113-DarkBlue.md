@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dark Blue](https://i.ibb.co/HDzLgBwh/en-Dark-Blue-January-13th.png)
+![Dark Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_013.webp)
 
 ## Birthday Color for January 13th: Dark Blue (`#00008B`)
 

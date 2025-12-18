@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Ash Brown](https://i.ibb.co/prLbPsNY/en-Deep-Ash-Brown-September-24th.png)
+![Deep Ash Brown](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_268.webp)
 
 ## Birthday Color for September 24th: Deep Ash Brown (`#49423E`)
 

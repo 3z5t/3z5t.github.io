@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![プルシアンレッド](https://i.ibb.co/jZx6VFb9/ja-10-23.png)
+![プルシアンレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_297.webp)
 
 ## 10月23日の誕生色: プルシアンレッド (`#CC3333`)
 

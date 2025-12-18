@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![シトラス](https://i.ibb.co/9kNKTr62/ja-4-13.png)
+![シトラス](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_104.webp)
 
 ## 4月13日の誕生色: シトラス (`#99CC00`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![볼케이노 브라운](https://i.ibb.co/Nhrsc8P/ko-9-29.png)
+![볼케이노 브라운](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_273.webp)
 
 ## 9월 29일의 탄생색: 볼케이노 브라운 (`#675853`)
 

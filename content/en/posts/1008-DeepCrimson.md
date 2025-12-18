@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Crimson](https://i.ibb.co/Q7K1gz0h/en-Deep-Crimson-October-8th.png)
+![Deep Crimson](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_282.webp)
 
 ## Birthday Color for October 8th: Deep Crimson (`#BA0046`)
 

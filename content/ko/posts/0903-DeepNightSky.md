@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![깊은 밤하늘](https://i.ibb.co/0yVRjgm7/ko-9-3.png)
+![깊은 밤하늘](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_247.webp)
 ## 9월 3일의 탄생색: 깊은 밤하늘 (`#142029`)
 
 ### 1. 깊은 밤하늘에 대한 설명

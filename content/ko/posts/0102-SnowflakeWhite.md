@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![눈꽃 화이트](https://i.ibb.co/7xKNm3c5/ko-1-2.png)
+![눈꽃 화이트](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_002.webp)
 
 ## 1월 2일의 탄생색: 눈꽃 화이트 (`#F2EDF3`)
 

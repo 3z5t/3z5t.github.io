@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![가을의 벽돌담](https://i.ibb.co/gLLPRjHg/ko-8-30.png)
+![가을의 벽돌담](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_243.webp)
 
 ## 8월 30일의 탄생색: 가을의 벽돌담 (`#AA837E`)
 

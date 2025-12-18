@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Pine Forest](https://i.ibb.co/hJtxmDjB/en-Deep-Pine-Forest-March-11th.png)
+![Deep Pine Forest](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_071.webp)
 
 ## Birthday Color for March 11th: Deep Pine Forest (`#006400`)
 

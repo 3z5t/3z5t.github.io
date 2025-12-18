@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![오렌지](https://i.ibb.co/BK32CNYL/ko-6-9.png)
+![오렌지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_161.webp)
 
 ## 6월 9일의 탄생색: 오렌지 (`#FF6633`)
 

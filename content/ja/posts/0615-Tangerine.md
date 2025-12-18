@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![タンジェリン](https://i.ibb.co/HLvhbLsD/ja-6-15.png)
+![タンジェリン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_167.webp)
 
 ## 6月15日の誕生色: タンジェリン (`#EE934F`)
 

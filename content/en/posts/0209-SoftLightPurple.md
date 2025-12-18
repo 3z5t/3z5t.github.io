@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Soft Light Purple](https://i.ibb.co/vCwMLqnP/en-Soft-Light-Purple-February-9th.png)
+![Soft Light Purple](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_040.webp)
 
 ## Birthday Color for February 9th: Soft Light Purple (`#AC79AE`)
 

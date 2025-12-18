@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クリーム](https://i.ibb.co/PvRDSMT2/ja-5-9.png)
+![クリーム](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_130.webp)
 
 ## 5月9日の誕生色: クリーム (`#FFFFCC`)
 

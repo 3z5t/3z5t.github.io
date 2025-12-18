@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Mustard](https://i.ibb.co/DBTKkWD/en-Mustard-June-24th.png)
+![Mustard](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_176.webp)
 
 ## Birthday Color for June 24th: Mustard (`#C29943`)
 

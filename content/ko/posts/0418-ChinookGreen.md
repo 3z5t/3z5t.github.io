@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![치녹 그린](https://i.ibb.co/bjSk7JNL/ko-4-18.png)
+![치녹 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_109.webp)
 
 ## 4월 18일의 탄생색: 치녹 그린 (#99CC99)
 

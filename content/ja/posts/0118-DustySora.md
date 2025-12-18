@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ダスティソラ](https://i.ibb.co/KjLTZ0RZ/ja-1-18.png)
+![ダスティソラ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_018.webp)
 
 ## 1月18日の誕生色: ダスティソラ (`#A4B0CC`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![새싹 연두](https://i.ibb.co/RppRCpQN/ko-3-1.png)
+![새싹 연두](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_061.webp)
 
 ## 3월 1일의 탄생색: 새싹 연두 (`#5FD059`)
 

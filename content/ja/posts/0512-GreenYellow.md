@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![グリーンイエロー](https://i.ibb.co/mrFSTn6R/ja-5-12.png)
+![グリーンイエロー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_133.webp)
 
 ## 5月12日の誕生色: グリーンイエロー (`#99FF33`)
 

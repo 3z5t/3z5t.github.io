@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![앤티크 브라운](https://i.ibb.co/vx30tZQp/ko-11-24.png)
+![앤티크 브라운](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_329.webp)
 
 ## 11월 24일의 탄생색: 앤티크 브라운 (`#35292A`)
 

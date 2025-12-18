@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Ocean](https://i.ibb.co/rK62rpcR/en-Deep-Ocean-September-5th.png)
+![Deep Ocean](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_249.webp)
 
 ## Birthday Color for September 5th: Deep Ocean (`#5A6078`)
 

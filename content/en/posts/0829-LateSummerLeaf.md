@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Late Summer Leaf](https://i.ibb.co/XNjJ7Rd/en-Late-Summer-Leaf-August-29th.png)
+![Late Summer Leaf](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_242.webp)
 
 ## Birthday Color for August 29th: Late Summer Leaf (`#566353`)
 

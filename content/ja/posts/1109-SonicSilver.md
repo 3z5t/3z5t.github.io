@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ソニックシルバー](https://i.ibb.co/RGdVS420/ja-11-9.png)
+![ソニックシルバー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_314.webp)
 
 ## 11月9日の誕生色: ソニックシルバー (`#767272`)
 

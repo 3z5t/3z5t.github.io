@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クラウドグレー](https://i.ibb.co/NnjjNLX5/ja-10-21.png)
+![クラウドグレー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_295.webp)
 
 ## 10月21日の誕生色: クラウドグレー (`#D8D3CD`)
 

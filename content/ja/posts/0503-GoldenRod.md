@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ゴールデンロッド](https://i.ibb.co/S4xPyxZ2/ja-5-3.png)
+![ゴールデンロッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_124.webp)
 
 ## 5月3日の誕生色: ゴールデンロッド (`#DAA520`)
 

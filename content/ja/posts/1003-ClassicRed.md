@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クラシックレッド](https://i.ibb.co/99JdNWxD/ja-10-3.png)
+![クラシックレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_277.webp)
 
 ## 10月3日の誕生色: クラシックレッド (`#C61400`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Orange Peel](https://i.ibb.co/sJPcgtfk/en-Orange-Peel-June-10th.png)
+![Orange Peel](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_162.webp)
 
 ## Birthday Color for June 10th: Orange Peel (`#FF9900`)
 

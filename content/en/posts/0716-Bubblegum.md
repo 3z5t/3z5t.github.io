@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Bubblegum](https://i.ibb.co/tT2W9syZ/en-Bubblegum-July-16th.png)
+![Bubblegum](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_198.webp)
 
 ## Birthday Color for July 16th: Bubblegum (`#FBC9CB`)
 

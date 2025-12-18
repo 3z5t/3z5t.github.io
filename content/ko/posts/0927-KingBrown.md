@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![킹 브라운](https://i.ibb.co/1tH3CqD9/ko-9-27.png)
+![킹 브라운](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_271.webp)
 
 ## 9월 27일의 탄생색: 킹 브라운 (`#A86248`)
 

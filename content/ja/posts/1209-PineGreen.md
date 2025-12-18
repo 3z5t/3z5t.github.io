@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![パイングリーン](https://i.ibb.co/JWMD0p8W/ja-12-9.png)
+![パイングリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_344.webp)
 
 ## 12月9日の誕生色: パイングリーン (`#207670`)
 

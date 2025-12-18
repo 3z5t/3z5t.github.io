@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![더스티 소라](https://i.ibb.co/8DNHz6r8/ko-1-18.png)
+![더스티 소라](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_018.webp)
 
 ## 1월 18일의 탄생색: 더스티 소라 (`#A4B0CC`)
 

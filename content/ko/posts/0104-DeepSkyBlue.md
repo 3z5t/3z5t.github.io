@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 스카이블루](https://i.ibb.co/GbLvXys/ko-1-4.png)
+![딥 스카이블루](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_004.webp)
 
 ## 1월 4일의 탄생색: 딥 스카이블루 (`#00CCFF`)
 

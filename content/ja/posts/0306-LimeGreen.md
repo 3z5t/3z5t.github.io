@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ライムグリーン](https://i.ibb.co/sv9hKKSL/ja-3-6.png)
+![ライムグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_066.webp)
 
 ## 3月6日の誕生色: ライムグリーン (`#6EAD5C`)
 

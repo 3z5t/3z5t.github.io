@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Bright Moss](https://i.ibb.co/r2GTdfbj/en-Bright-Moss-April-17th.png)
+![Bright Moss](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_108.webp)
 
 ## Birthday Color for April 17th: Bright Moss (`#ADC12D`)
 

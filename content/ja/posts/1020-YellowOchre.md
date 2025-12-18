@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![イエローオーカー](https://i.ibb.co/mC4pXjfP/ja-10-20.png)
+![イエローオーカー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_294.webp)
 
 ## 10月20日の誕生色: イエローオーカー (`#B28E58`)
 

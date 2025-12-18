@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Oxley Green](https://i.ibb.co/xqW3xDJy/en-Oxley-Green-April-20th.png)
+![Oxley Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_111.webp)
 
 ## Birthday Color for April 20th: Oxley Green (`#669966`)
 

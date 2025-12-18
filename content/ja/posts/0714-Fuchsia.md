@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![フューシャ](https://i.ibb.co/YTpMDpdy/ja-7-14.png)
+![フューシャ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_196.webp)
 
 ## 7月14日の誕生色: フューシャ (`#CC33CC`)
 

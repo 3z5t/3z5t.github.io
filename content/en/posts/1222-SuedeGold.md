@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Suede Gold](https://i.ibb.co/sdNSQ0JZ/en-Suede-Gold-December-22nd.png)
+![Suede Gold](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_357.webp)
 
 ## Birthday Color for December 22nd: Suede Gold (`#F9EBDA`)
 

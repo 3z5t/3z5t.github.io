@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![シーグリーン](https://i.ibb.co/fz1JsV95/ja-4-29.png)
+![シーグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_120.webp)
 
 ## 4月29日の誕生色: シーグリーン (`#19776B`)
 

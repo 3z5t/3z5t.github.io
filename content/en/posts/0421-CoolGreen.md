@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Cool Green](https://i.ibb.co/N6zB3Fw0/en-Cool-Green-April-21st.png)
+![Cool Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_112.webp)
 
 ## Birthday Color for April 21st: Cool Green (`#78BAAD`)
 

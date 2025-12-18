@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ウィンターサンドビーチ](https://i.ibb.co/b5wBGpSk/ja-9-12.png)
+![ウィンターサンドビーチ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_256.webp)
 
 ## 9月12日の誕生色: ウィンターサンドビーチ (`#CEB9AB`)
 

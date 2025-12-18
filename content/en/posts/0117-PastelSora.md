@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Pastel Sora](https://i.ibb.co/jkyZ31Ft/en-Pastel-Sora-January-17th.png)
+![Pastel Sora](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_017.webp)
 
 ## Birthday Color for January 17th: Pastel Sora (`#B0C4DE`)
 

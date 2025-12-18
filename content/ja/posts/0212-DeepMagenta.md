@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープマゼンタ](https://i.ibb.co/j9BjScQD/ja-2-12.png)
+![ディープマゼンタ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_043.webp)
 
 ## 2月12日の誕生色: ディープマゼンタ (`#2C1725`)
 

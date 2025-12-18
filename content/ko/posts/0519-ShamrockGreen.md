@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![샴록 그린](https://i.ibb.co/zW4mR3k5/ko-5-19.png)
+![샴록 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_140.webp)
 
 ## 5월 19일의 탄생색: 샴록 그린 (`#009966`)
 

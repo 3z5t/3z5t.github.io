@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![マゼンタバイオレット](https://i.ibb.co/C5pHn4M1/ja-2-16.png)
+![マゼンタバイオレット](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_047.webp)
 
 ## 2月16日の誕生色: マゼンタバイオレット (`#EE82EE`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Mint](https://i.ibb.co/twL5BBKb/en-Deep-Mint-March-4th.png)
+![Deep Mint](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_064.webp)
 
 ## Birthday Color for March 4th: Deep Mint (`#3ABAB5`)
 

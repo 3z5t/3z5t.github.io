@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![브라이트 블루](https://i.ibb.co/S4XXBjrm/ko-1-28.png)
+![브라이트 블루](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_028.webp)
 
 ## 1월 28일의 탄생색: 브라이트 블루 (`#9CB0D3`)
 

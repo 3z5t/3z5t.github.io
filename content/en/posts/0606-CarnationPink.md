@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Carnation Pink](https://i.ibb.co/h184ZFrW/en-Carnation-Pink-June-6th.png)
+![Carnation Pink](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_158.webp)
 
 ## Birthday Color for June 6th: Carnation Pink (`#FF99CC`)
 

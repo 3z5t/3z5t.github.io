@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![キャロット](https://i.ibb.co/j9WKxgTT/ja-6-13.png)
+![キャロット](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_165.webp)
 
 ## 6月13日の誕生色: キャロット (`#EB731C`)
 

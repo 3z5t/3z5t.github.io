@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![スカーレット](https://i.ibb.co/7dLVGZpY/ja-7-7.png)
+![スカーレット](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_189.webp)
 ## 7月7日の誕生色: スカーレット (`#FF3300`)
 
 ### 1. スカーレットについての説明（色の感覚と特徴）

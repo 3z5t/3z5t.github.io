@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![물렁한 복숭아](https://i.ibb.co/d0jKZQmC/ko-8-8.png)
+![물렁한 복숭아](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_221.webp)
 
 **8월 8일의 탄생색: 물렁한 복숭아 (#F8F3EA)**
 

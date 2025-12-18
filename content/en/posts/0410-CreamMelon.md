@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Cream Melon](https://i.ibb.co/8DQgV98H/en-Cream-Melon-April-10th.png)
+![Cream Melon](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_101.webp)
 
 ## Birthday Color for April 10th: Cream Melon (`#DCF8E4`)
 

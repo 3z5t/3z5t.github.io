@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アイボリーアイス](https://i.ibb.co/0pJDGKWs/ja-8-12.png)
+![アイボリーアイス](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_225.webp)
 
 ## 8月12日の誕生色: アイボリーアイス (`#DEBA86`)
 

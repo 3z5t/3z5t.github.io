@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![시트러스](https://i.ibb.co/4RX1qxSG/ko-4-13.png)
+![시트러스](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_104.webp)
 
 ## 4월 13일의 탄생색: 시트러스 (#99CC00)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![클라우디 스카이](https://i.ibb.co/kgS9HdZy/ko-1-24.png)
+![클라우디 스카이](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_024.webp)
 
 ## 1월 24일의 탄생색: 클라우디 스카이 (`#C3CFE0`)
 

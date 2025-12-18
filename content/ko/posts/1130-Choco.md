@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![초코](https://i.ibb.co/JRtNHTW2/ko-11-30.png)
+![초코](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_335.webp)
 
 ## 11월 30일의 탄생색: 초코 (`#633122`)
 

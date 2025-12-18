@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![앤티크 아이보리](https://i.ibb.co/4n5v6XhV/ko-12-12.png)
+![앤티크 아이보리](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_347.webp)
 
 ## 12월 12일의 탄생색: 앤티크 아이보리 (`#E9E1D8`)
 

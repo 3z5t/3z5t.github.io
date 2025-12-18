@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Soft Mauve](https://i.ibb.co/PGFPh8Ry/en-Soft-Mauve-November-5th.png)
+![Soft Mauve](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_310.webp)
 
 ## Birthday Color for November 5th: Soft Mauve (`#887A7C`)
 

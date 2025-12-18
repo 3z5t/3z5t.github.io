@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 말차](https://i.ibb.co/FkFYfKVB/ko-9-14.png)
+![딥 말차](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_258.webp)
 
 ## 9월 14일의 탄생색: 딥 말차 (`#74703F`)
 

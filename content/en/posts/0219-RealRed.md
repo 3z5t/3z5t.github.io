@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Real Red](https://i.ibb.co/TBxRt0ff/en-Real-Red-February-19th.png)
+![Real Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_050.webp)
 
 ## Birthday Color for February 19th: Real Red (`#C61400`)
 

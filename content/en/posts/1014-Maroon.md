@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Maroon](https://i.ibb.co/tTK9yvt8/en-Maroon-October-14th.png)
+![Maroon](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_288.webp)
 
 ## Birthday Color for October 14th: Maroon (`#800000`)
 

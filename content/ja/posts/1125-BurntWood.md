@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![バーントウッド](https://i.ibb.co/VYJqP96m/ja-11-25.png)
+![バーントウッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_330.webp)
 
 ## 11月25日の誕生色: バーントウッド (`#3F242D`)
 

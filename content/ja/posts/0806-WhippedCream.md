@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ホイップクリーム](https://i.ibb.co/QFj1mm7M/ja-8-6.png)
+![ホイップクリーム](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_219.webp)
 
 ## 8月6日の誕生色: ホイップクリーム (`#DFDCDD`)
 

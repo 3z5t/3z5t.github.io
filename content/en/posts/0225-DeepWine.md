@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Wine](https://i.ibb.co/mrttL2w8/en-Deep-Wine-February-25th.png)
+![Deep Wine](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_056.webp)
 
 ## Birthday Color for February 25th: Deep Wine (`#77384C`)
 

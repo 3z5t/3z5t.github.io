@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dutch White](https://i.ibb.co/zHS4YJCZ/en-Dutch-White-August-13th.png)
+![Dutch White](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_226.webp)
 
 ## Birthday Color for August 13th: Dutch White (`#EFE3B5`)
 

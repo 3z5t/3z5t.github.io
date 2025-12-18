@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Sand Pink](https://i.ibb.co/bSWWg9j/en-Sand-Pink-March-30th.png)
+![Sand Pink](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_090.webp)
 
 ## Birthday Color for March 30th: Sand Pink (`#F5C4AC`)
 

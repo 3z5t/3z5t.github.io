@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![노블 아이보리](https://i.ibb.co/KpkXrRNR/ko-12-11.png)
+![노블 아이보리](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_346.webp)
 
 ## 12월 11일의 탄생색: 노블 아이보리 (`#F4EBE7`)
 

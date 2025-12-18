@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アーバンシルバー](https://i.ibb.co/fVpjLRKh/ja-1-3.png)
+![アーバンシルバー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_003.webp)
 
 ## 1月3日の誕生色: アーバンシルバー (`#808080`)
 

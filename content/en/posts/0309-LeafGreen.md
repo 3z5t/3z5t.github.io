@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Leaf Green](https://i.ibb.co/TBgs13Nv/en-Leaf-Green-March-9th.png)
+![Leaf Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_069.webp)
 
 ## Birthday Color for March 9th: Leaf Green (`#587D4A`)
 

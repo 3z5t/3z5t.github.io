@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![미디움 터콰이즈](https://i.ibb.co/ZRBhG9pB/ko-7-27.png)
+![미디움 터콰이즈](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_209.webp)
 
 ## 7월 27일의 탄생색: 미디움 터콰이즈 (`#33CCCC`)
 

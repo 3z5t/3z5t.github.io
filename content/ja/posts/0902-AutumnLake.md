@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オータムレイク](https://i.ibb.co/5xr2DQmW/ja-9-2.png)
+![オータムレイク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_246.webp)
 
 ## 9月2日の誕生色: オータムレイク (`#55779B`)
 

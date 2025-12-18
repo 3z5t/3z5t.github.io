@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Soft Olive](https://i.ibb.co/vvXsz7NH/en-Soft-Olive-October-30th.png)
+![Soft Olive](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_304.webp)
 
 ## Birthday Color for October 30th: Soft Olive (`#7E9682`)
 

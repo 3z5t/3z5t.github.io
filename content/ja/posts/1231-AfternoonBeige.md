@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アフタヌーンベージュ](https://i.ibb.co/s97QYLYf/ja-12-31.png)
+![アフタヌーンベージュ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_366.webp)
 
 ## 12月31日の誕生色: アフタヌーンベージュ (`#F5F5F5`)
 

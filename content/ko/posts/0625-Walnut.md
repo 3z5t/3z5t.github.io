@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![호두](https://i.ibb.co/HLYGgJQf/ko-6-25.png)
+![호두](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_177.webp)
 
 ## 6월 25일의 탄생색: 호두 (`#A49376`)
 

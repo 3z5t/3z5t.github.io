@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![일렉트릭 라임](https://i.ibb.co/hvkRLV4/ko-5-13.png)
+![일렉트릭 라임](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_134.webp)
 
 ## 5월 13일의 탄생색: 일렉트릭 라임 (`#CCFF00`)
 

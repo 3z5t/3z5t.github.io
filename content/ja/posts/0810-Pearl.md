@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![パール](https://i.ibb.co/S7QrCSX0/ja-8-10.png)
+![パール](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_223.webp)
 
 ## 8月10日の誕生色: パール (`#EAE1DD`)
 

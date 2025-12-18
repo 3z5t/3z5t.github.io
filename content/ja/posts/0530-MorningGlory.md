@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![モーニンググローリー](https://i.ibb.co/FbwrhJR6/ja-5-30.png)
+![モーニンググローリー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_151.webp)
 
 ## 5月30日の誕生色: モーニンググローリー (`#99CCCC`)
 

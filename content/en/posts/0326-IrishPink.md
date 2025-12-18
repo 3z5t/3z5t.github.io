@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Irish Pink](https://i.ibb.co/sJ5TfkG2/en-Irish-Pink-March-26th.png)
+![Irish Pink](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_086.webp)
 
 ## Birthday Color for March 26th: Irish Pink (`#DFAEA7`)
 

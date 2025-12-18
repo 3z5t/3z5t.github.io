@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![미드나잇 네이비](https://i.ibb.co/40Hp7Mf/ko-11-21.png)
+![미드나잇 네이비](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_326.webp)
 ## 11월 21일의 탄생색: 미드나잇 네이비 (`#000033`)
 
 ### 1. 미드나잇 네이비에 대한 설명

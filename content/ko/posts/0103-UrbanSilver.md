@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![어반 실버](https://i.ibb.co/Xfw7gFVd/ko-1-3.png)
+![어반 실버](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_003.webp)
 
 ## 1월 3일의 탄생색: 어반 실버 (`#808080`)
 

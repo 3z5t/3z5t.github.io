@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クラシックベージュ](https://i.ibb.co/5WMdhFKn/ja-8-20.png)
+![クラシックベージュ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_233.webp)
 
 ## 8月20日の誕生色: クラシックベージュ (`#D7C095`)
 

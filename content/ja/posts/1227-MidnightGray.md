@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ミッドナイトグレー](https://i.ibb.co/0pYv5BTD/ja-12-27.png)
+![ミッドナイトグレー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_362.webp)
 
 ## 12月27日の誕生色: ミッドナイトグレー (`#565269`)
 

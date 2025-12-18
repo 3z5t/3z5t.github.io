@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Neon Carrot](https://i.ibb.co/20FgRJ32/en-Neon-Carrot-June-12th.png)
+![Neon Carrot](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_164.webp)
 
 ## Birthday Color for June 12th: Neon Carrot (`#FF9933`)
 

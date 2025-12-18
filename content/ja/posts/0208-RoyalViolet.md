@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ロイヤルバイオレット](https://i.ibb.co/ZzScjDbr/ja-2-8.png)
+![ロイヤルバイオレット](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_039.webp)
 
 ## 2月8日の誕生色: ロイヤルバイオレット (`#32127A`)
 

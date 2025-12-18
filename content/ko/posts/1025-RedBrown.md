@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![레드 브라운](https://i.ibb.co/hxdxghw7/ko-10-25.png)
+![레드 브라운](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_299.webp)
 
 ## 10월 25일의 탄생색: 레드 브라운 (`#6C1818`)
 

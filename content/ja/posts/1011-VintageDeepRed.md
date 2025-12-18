@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ヴィンテージディープレッド](https://i.ibb.co/gLk7dHMf/ja-10-11.png)
+![ヴィンテージディープレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_285.webp)
 
 ## 10月11日の誕生色: ヴィンテージディープレッド (`#8D192B`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Salmon](https://i.ibb.co/TxT8mLP0/en-Salmon-August-1st.png)
+![Salmon](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_214.webp)
 
 ## Birthday Color for August 1st: Salmon (`#FA8072`)
 

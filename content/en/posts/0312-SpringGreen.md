@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Spring Green](https://i.ibb.co/gLq27D8x/en-Spring-Green-March-12th.png)
+![Spring Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_072.webp)
 
 ## Birthday Color for March 12th: Spring Green (`#00FF66`)
 

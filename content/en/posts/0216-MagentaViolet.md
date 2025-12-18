@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Magenta Violet](https://i.ibb.co/WvvcFyVt/en-Magenta-Violet-February-16th.png)
+![Magenta Violet](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_047.webp)
 
 ## Birthday Color for February 16th: Magenta Violet (`#EE82EE`)
 

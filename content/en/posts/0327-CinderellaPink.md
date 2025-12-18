@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Cinderella Pink](https://i.ibb.co/fz760cSR/en-Cinderella-Pink-March-27th.png)
+![Cinderella Pink](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_087.webp)
 
 ## Birthday Color for March 27th: Cinderella Pink (`#FFC7C6`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![シンデレラピンク](https://i.ibb.co/yFSrdzqQ/ja-3-27.png)
+![シンデレラピンク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_087.webp)
 
 ## 3月27日の誕生色: シンデレラピンク (`#FFC7C6`)
 

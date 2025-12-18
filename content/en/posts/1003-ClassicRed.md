@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Classic Red](https://i.ibb.co/ycJGBwmj/en-Classic-Red-October-3rd.png)
+![Classic Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_277.webp)
 
 ## Birthday Color for October 3rd: Classic Red (`#C61400`)
 

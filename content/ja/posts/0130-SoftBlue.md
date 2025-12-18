@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ソフトブルー](https://i.ibb.co/7NZnkNP5/ja-1-30.png)
+![ソフトブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_030.webp)
 
 ## 1月30日の誕生色: ソフトブルー (`#99CCFF`)
 

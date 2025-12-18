@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![포레스트 가든](https://i.ibb.co/s9tD4F3H/ko-4-25.png)
+![포레스트 가든](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_116.webp)
 
 ## 4월 25일의 탄생색: 포레스트 가든 (#317D61)
 

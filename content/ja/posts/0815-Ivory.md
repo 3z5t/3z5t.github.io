@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アイボリー](https://i.ibb.co/jZz7cggt/ja-8-15.png)
+![アイボリー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_228.webp)
 
 ## 8月15日の誕生色: アイボリー (`#FFFFE0`)
 

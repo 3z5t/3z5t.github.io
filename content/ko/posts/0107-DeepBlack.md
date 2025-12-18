@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 블랙](https://i.ibb.co/Wpn8kZwB/ko-1-7.png)
+![딥 블랙](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_007.webp)
 
 ## 1월 7일의 탄생색: 딥 블랙 (`#1A1A1F`)
 

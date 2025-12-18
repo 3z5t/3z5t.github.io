@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![グレイッシュグリーン](https://i.ibb.co/Kzr98TWh/ja-11-3.png)
+![グレイッシュグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_308.webp)
 
 ## 11月3日の誕生色: グレイッシュグリーン (`#444236`)
 

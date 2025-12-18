@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Old Green](https://i.ibb.co/NXM3KLL/en-Old-Green-September-20th.png)
+![Old Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_264.webp)
 
 ## Birthday Color for September 20th: Old Green (`#726D46`)
 

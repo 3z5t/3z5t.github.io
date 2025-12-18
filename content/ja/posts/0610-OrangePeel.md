@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オレンジピール](https://i.ibb.co/gZX3Mdq1/ja-6-10.png)
+![オレンジピール](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_162.webp)
 
 ## 6月10日の誕生色: オレンジピール (`#FF9900`)
 

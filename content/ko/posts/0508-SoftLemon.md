@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![소프트 레몬](https://i.ibb.co/fzXtCfXm/ko-5-8.png)
+![소프트 레몬](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_129.webp)
 
 ## 5월 8일의 탄생색: 소프트 레몬 (`#D5D679`)
 

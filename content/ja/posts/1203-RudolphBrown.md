@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ルドルフブラウン](https://i.ibb.co/L4ygTcS/ja-12-3.png)
+![ルドルフブラウン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_338.webp)
 
 ## 12月3日の誕生色: ルドルフブラウン (`#6C4D32`)
 

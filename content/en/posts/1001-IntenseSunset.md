@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Intense Sunset](https://i.ibb.co/C3YTwJXz/en-Intense-Sunset-October-1st.png)
+![Intense Sunset](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_275.webp)
 
 ## Birthday Color for October 1st: Intense Sunset (`#BC5445`)
 

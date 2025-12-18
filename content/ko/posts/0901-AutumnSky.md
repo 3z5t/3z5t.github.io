@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![가을 하늘](https://i.ibb.co/V0DLxSHM/ko-9-1.png)
+![가을 하늘](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_245.webp)
 
 ## 9월 1일의 탄생색: 가을 하늘 (`#59819A`)
 

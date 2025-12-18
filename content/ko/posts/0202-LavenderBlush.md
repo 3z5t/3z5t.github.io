@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![라벤더 블러쉬](https://i.ibb.co/nqwQdtMq/ko-2-2.png)
+![라벤더 블러쉬](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_033.webp)
 
 ## 2월 2일의 탄생색: 라벤더 블러쉬 (`#FFCCFF`)
 

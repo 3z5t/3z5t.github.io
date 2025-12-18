@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ガーネットレッド](https://i.ibb.co/1GVjxqJ0/ja-10-12.png)
+![ガーネットレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_286.webp)
 
 ## 10月12日の誕生色: ガーネットレッド (`#AA0000`)
 

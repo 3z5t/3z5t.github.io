@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Antique Christmas Gold](https://i.ibb.co/MxkGnm2N/en-Antique-Christmas-Gold-December-25th.png)
+![Antique Christmas Gold](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_360.webp)
 
 ## Birthday Color for December 25th: Antique Christmas Gold (`#947E4C`)
 

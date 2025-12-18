@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dusk Gray](https://i.ibb.co/Fkqqc1Wy/en-Dusk-Gray-September-7th.png)
+![Dusk Gray](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_251.webp)
 
 ## Birthday Color for September 7th: Dusk Gray (`#313035`)
 

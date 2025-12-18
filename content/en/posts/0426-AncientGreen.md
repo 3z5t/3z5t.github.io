@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Ancient Green](https://i.ibb.co/gMw9J5cW/en-Ancient-Green-April-26th.png)
+![Ancient Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_117.webp)
 
 ## Birthday Color for April 26th: Ancient Green (`#476664`)
 

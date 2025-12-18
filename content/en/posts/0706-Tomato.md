@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Tomato](https://i.ibb.co/rG3Wx3Fw/en-Tomato-July-6th.png)
+![Tomato](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_188.webp)
 
 ## Birthday Color for July 6th: Tomato (`#FF6347`)
 
