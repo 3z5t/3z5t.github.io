@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Light Pink](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_078.webp)
+![Light Pink](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_078.webp)
 
 ## Birthday Color for March 18th: Light Pink (`#FFB6C1`)
 

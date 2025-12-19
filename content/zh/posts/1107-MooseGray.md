@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![驼鹿灰](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_312.webp)
+![驼鹿灰](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_312.webp)
 
 ### 11月7日 的生日色：驼鹿灰 (`#999999`)
 

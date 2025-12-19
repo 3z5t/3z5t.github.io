@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![라벤더 퍼플](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_034.webp)
+![라벤더 퍼플](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_034.webp)
 ## 2월 3일의 탄생색: 라벤더 퍼플 (`#DAB7F0`)
 
 2월 3일의 공기는 어딘가 **차분하면서도 고급스러운 설렘**을 품고 있어요. 아직은 겨울의 여운이 남아 있지만, 마음 한편에서는 이미 새로운 계절을 준비하는 날. 오늘의 탄생색 **라벤더 퍼플**은 그런 전환의 순간을 닮았습니다. 너무 화려하지도, 그렇다고 평범하지도 않은 이 색은 **조용한 존재감**으로 사람의 시선을 사로잡죠.

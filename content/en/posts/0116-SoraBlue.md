@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Sora Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_016.webp)
+![Sora Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_016.webp)
 
 ## Birthday Color for January 16th: Sora Blue (`#7F9BB9`)
 

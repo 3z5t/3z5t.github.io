@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![진베이지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_240.webp)
+![진베이지](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_240.webp)
 
 ## 8월 27일의 탄생색: 진베이지 (`#D29E5C`)
 

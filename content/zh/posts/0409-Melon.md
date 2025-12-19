@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![蜜瓜色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_100.webp)
+![蜜瓜色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_100.webp)
 
 ## 4月9日 的生日色：蜜瓜色 (`#98E294`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープミント](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_064.webp)
+![ディープミント](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_064.webp)
 
 ## 3月4日の誕生色: ディープミント (`#3ABAB5`)
 

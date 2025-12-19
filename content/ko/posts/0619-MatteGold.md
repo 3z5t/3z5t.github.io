@@ -13,6 +13,7 @@ tags:
 draft: false
 ---
 
+![MatteGold](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_171.webp)
 ## 6월 19일의 탄생색: 매트 골드 (`#DD9330`)
 
 ### 1. 매트 골드에 대한 설명

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![薄荷绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_207.webp)
+![薄荷绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_207.webp)
 
 ## 7月25日 的生日色：薄荷绿 (`#99FF99`)
 

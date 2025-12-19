@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Cloud Gray](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_295.webp)
+![Cloud Gray](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_295.webp)
 
 ## Birthday Color for October 21st: Cloud Gray (`#D8D3CD`)
 

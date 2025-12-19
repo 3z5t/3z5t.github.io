@@ -13,6 +13,7 @@ tags:
 draft: false
 ---
 
+![GoldenSand](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_181.webp)
 ## 6월 29일의 탄생색: 황금 모래 (`#CBA135`)
 
 ### 1. 황금 모래에 대한 설명

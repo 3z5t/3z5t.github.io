@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Fine Sand](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_255.webp)
+![Fine Sand](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_255.webp)
 
 ## Birthday Color for September 11th: Fine Sand (`#EEE9E2`)
 

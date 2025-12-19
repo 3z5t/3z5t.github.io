@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![라이트 핑크](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_078.webp)
+![라이트 핑크](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_078.webp)
 
 ## 3월 18일의 탄생색: 라이트 핑크 (`#FFB6C1`)
 

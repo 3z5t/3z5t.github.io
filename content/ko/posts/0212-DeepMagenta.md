@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 마젠타](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_043.webp)
+![딥 마젠타](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_043.webp)
 
 ## 2월 12일의 탄생색: 딥 마젠타 (`#2C1725`)
 

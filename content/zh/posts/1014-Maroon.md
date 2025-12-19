@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![栗色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_288.webp)
+![栗色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_288.webp)
 
 ## 10月14日 的生日色：栗色 (`#800000`)
 

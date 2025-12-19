@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![그레이 스카이](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_206.webp)
+![그레이 스카이](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_206.webp)
 
 ## 7월 24일의 탄생색: 그레이 스카이 (`#BDE0F4`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![라이트 살몬](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_215.webp)
+![라이트 살몬](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_215.webp)
 
 ## 8월 2일의 탄생색: 라이트 살몬 (`#FFA07A`)
 

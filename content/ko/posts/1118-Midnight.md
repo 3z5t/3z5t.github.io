@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![자정](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_323.webp)
+![자정](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_323.webp)
 
 ## 11월 18일의 탄생색: 자정 (`#242228`)
 

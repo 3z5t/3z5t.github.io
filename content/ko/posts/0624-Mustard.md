@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![머스타드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_176.webp)
+![머스타드](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_176.webp)
 
 ## 6월 24일의 탄생색: 머스타드 (`#C29943`)
 

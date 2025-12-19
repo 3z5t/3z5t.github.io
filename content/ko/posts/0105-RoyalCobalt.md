@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![로얄 코발트](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_005.webp)
+![로얄 코발트](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_005.webp)
 
 ## 1월 5일의 탄생색: 로얄 코발트 (`#00009B`)
 

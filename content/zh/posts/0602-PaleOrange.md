@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![淡橙](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_154.webp)
+![淡橙](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_154.webp)
 
 ## 6月2日 的生日色：淡橙 (`#FFEBB0`)
 

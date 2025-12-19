@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アイリッシュピンク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_086.webp)
+![アイリッシュピンク](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_086.webp)
 
 ## 3月26日の誕生色: アイリッシュピンク (`#DFAEA7`)
 

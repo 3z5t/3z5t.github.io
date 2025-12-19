@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![橙色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_161.webp)
+![橙色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_161.webp)
 
 ## 6月9日 的生日色：橙色 (`#FF6633`)
 

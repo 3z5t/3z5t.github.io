@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Pea Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_103.webp)
+![Pea Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_103.webp)
 
 ## Birthday Color for April 12th: Pea Green (`#8C9E58`)
 

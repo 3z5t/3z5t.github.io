@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ダークドーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_265.webp)
+![ダークドーン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_265.webp)
 
 ## 9月21日の誕生色: ダークドーン (`#3D4247`)
 

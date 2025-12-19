@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![优雅群青](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_010.webp)
+![优雅群青](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_010.webp)
 
 ## 1月10日的诞生色：优雅群青 (`#445B97`)
 

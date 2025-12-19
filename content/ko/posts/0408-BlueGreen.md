@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![블루 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_099.webp)
+![블루 그린](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_099.webp)
 
 ## 4월 8일의 탄생색: 블루 그린 (#30BA8F)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![앤티크 초코](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_327.webp)
+![앤티크 초코](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_327.webp)
 
 ## 11월 22일의 탄생색: 앤티크 초코 (`#1F070C`)
 

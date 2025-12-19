@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Ash Black](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_307.webp)
+![Ash Black](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_307.webp)
 
 ## Birthday Color for November 2nd: Ash Black (`#282221`)
 

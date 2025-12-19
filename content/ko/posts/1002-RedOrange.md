@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![레드 오렌지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_276.webp)
+![레드 오렌지](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_276.webp)
 
 ## 10월 2일의 탄생색: 레드 오렌지 (`#FF3333`)
 

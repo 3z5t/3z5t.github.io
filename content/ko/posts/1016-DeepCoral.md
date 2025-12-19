@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 코랄](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_290.webp)
+![딥 코랄](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_290.webp)
 
 ## 10월 16일의 탄생색: 딥 코랄 (`#743636`)
 

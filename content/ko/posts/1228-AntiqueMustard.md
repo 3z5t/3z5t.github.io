@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![앤티크 머스타드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_363.webp)
+![앤티크 머스타드](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_363.webp)
 
 ## 12월 28일의 탄생색: 앤티크 머스타드 (`#BB8F3D`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![霓虹胡萝卜](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_164.webp)
+![霓虹胡萝卜](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_164.webp)
 
 ## 6月12日 的生日色：霓虹胡萝卜 (`#FF9933`)
 

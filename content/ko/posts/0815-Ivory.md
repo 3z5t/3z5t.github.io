@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![상아 (Ivory)](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_228.webp)
+![상아 (Ivory)](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_228.webp)
 
 ## 8월 15일의 탄생색: 상아 (Ivory) (`#FFFFE0`)
 

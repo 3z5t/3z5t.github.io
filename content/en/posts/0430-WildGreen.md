@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Wild Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_121.webp)
+![Wild Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_121.webp)
 ## Birthday Color for April 30th: Wild Green (`#387146`)
 
 ### 1. Description of Wild Green (Feeling and Traits)

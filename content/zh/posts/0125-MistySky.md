@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![迷雾天蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_025.webp)
+![迷雾天蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_025.webp)
 
 ## 1月25日 的生日色：迷雾天蓝 (`#C2BEC5`)
 

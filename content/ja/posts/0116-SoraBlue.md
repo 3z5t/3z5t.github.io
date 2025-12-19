@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ソラブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_016.webp)
+![ソラブルー](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_016.webp)
 
 ## 1月16日の誕生色: ソラブルー (`#7F9BB9`)
 

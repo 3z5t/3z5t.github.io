@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Garnet Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_286.webp)
+![Garnet Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_286.webp)
 
 ## Birthday Color for October 12th: Garnet Red (`#AA0000`)
 

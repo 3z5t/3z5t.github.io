@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![古董褐](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_329.webp)
+![古董褐](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_329.webp)
 
 ## 11月24日 的生日色：古董褐 (`#35292A`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![嫩芽绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_061.webp)
+![嫩芽绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_061.webp)
 
 ## 3月1日 的生日色：嫩芽绿 (`#5FD059`)
 

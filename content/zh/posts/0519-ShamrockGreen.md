@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![三叶草绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_140.webp)
+![三叶草绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_140.webp)
 
 ## 5月19日 的生日色：三叶草绿 (`#009966`)
 

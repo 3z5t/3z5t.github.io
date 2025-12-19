@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Sonic Silver](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_314.webp)
+![Sonic Silver](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_314.webp)
 ## Birthday Color for November 9th: Sonic Silver (`#767272`)
 
 ### 1. Description of Sonic Silver (Feeling and Traits)

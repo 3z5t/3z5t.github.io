@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Burnt Umber](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_281.webp)
+![Burnt Umber](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_281.webp)
 
 ## Birthday Color for October 7th: Burnt Umber (`#8D3131`)
 

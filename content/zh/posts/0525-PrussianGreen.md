@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![普鲁士绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_146.webp)
+![普鲁士绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_146.webp)
 
 ## 5月25日 的生日色：普鲁士绿 (`#009999`)
 

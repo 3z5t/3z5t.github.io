@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![淡青](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_152.webp)
+![淡青](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_152.webp)
 
 ## 5月31日 的生日色：淡青 (`#E0FFFF`)
 

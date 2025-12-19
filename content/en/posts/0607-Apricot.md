@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Apricot](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_159.webp)
+![Apricot](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_159.webp)
 ## Birthday Color for June 7th: Apricot (`#EA9E71`)
 
 ### 1. Description of Apricot (Feeling and Traits)

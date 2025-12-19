@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![深抹茶](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_258.webp)
+![深抹茶](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_258.webp)
 
 ## 9月14日 的生日色：深抹茶 (`#74703F`)
 

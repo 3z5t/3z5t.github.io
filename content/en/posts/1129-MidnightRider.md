@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Midnight Rider](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_334.webp)
+![Midnight Rider](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_334.webp)
 
 ## Birthday Color for November 29th: Midnight Rider (`#333333`)
 

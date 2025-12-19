@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Olive Oil](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_305.webp)
+![Olive Oil](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_305.webp)
 
 ## Birthday Color for October 31st: Olive Oil (`#999900`)
 

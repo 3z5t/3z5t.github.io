@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![浅鲑鱼红](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_215.webp)
+![浅鲑鱼红](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_215.webp)
 
 ## 8月2日 的生日色：浅鲑鱼红 (`#FFA07A`)
 

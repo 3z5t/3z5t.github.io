@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![深珊瑚](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_187.webp)
+![深珊瑚](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_187.webp)
 
 ## 7月5日 的生日色：深珊瑚 (`#743636`)
 

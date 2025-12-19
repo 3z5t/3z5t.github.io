@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![マットゴールド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_171.webp)
+![マットゴールド](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_171.webp)
 
 ## 6月19日の誕生色: マットゴールド (`#DD9330`)
 

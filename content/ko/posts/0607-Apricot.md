@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![살구](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_159.webp)
+![살구](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_159.webp)
 
 ## 6월 7일의 탄생색: 살구 (`#EA9E71`)
 

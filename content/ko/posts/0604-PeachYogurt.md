@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![복숭아 요거트](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_156.webp)
+![복숭아 요거트](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_156.webp)
 
 ## 6월 4일의 탄생색: 복숭아 요거트 (`#FFC1B5`)
 

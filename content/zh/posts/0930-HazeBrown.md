@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![雾褐](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_274.webp)
+![雾褐](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_274.webp)
 
 ## 9月30日 的生日色：雾褐 (`#9D8C7A`)
 

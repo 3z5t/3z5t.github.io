@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![コーラルサンド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_157.webp)
+![コーラルサンド](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_157.webp)
 
 ## 6月5日の誕生色: コーラルサンド (`#FFD0A1`)
 

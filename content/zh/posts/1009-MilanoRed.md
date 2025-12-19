@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![米兰红](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_283.webp)
+![米兰红](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_283.webp)
 
 ## 10月9日 的生日色：米兰红 (`#993333`)
 

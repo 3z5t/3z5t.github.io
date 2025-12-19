@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![サーモン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_214.webp)
+![サーモン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_214.webp)
 
 ## 8月1日の誕生色: サーモン (`#FA8072`)
 

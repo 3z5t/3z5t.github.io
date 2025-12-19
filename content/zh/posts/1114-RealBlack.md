@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![正黑](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_319.webp)
+![正黑](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_319.webp)
 
 ## 11月14日 的生日色：正黑 (`#2B2B2B`)
 

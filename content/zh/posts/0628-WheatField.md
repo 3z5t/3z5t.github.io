@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![麦田](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_180.webp)
+![麦田](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_180.webp)
 
 ## 6月28日 的生日色：麦田 (`#B89A6D`)
 

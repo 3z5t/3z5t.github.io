@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![古绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_264.webp)
+![古绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_264.webp)
 
 ## 9月20日 的生日色：古绿 (`#726D46`)
 

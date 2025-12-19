@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![皇家紫罗兰](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_039.webp)
+![皇家紫罗兰](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_039.webp)
 
 ## 2月8日 的生日色：皇家紫罗兰 (`#32127A`)
 

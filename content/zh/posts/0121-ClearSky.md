@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![晴空蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_021.webp)
+![晴空蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_021.webp)
 
 ## 1月21日 的生日色：晴空蓝 (`#99DBE9`)
 

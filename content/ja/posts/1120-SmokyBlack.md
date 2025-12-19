@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![スモーキーブラック](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_325.webp)
+![スモーキーブラック](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_325.webp)
 
 ## 11月20日の誕生色: スモーキーブラック (`#100F0F`)
 

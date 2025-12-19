@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Brilliant Red](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_341.webp)
+![Brilliant Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_341.webp)
 
 ## Birthday Color for December 6th: Brilliant Red (`#F60100`)
 

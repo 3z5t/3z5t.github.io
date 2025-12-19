@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![深夜](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_321.webp)
+![深夜](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_321.webp)
 
 ## 11月16日 的生日色：深夜 (`#1A161F`)
 

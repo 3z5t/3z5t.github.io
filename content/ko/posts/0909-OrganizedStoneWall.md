@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![정돈된 돌담](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_253.webp)
+![정돈된 돌담](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_253.webp)
 
 ## 9월 9일의 탄생색: 정돈된 돌담 (`#665E5F`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![French Beige](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_355.webp)
+![French Beige](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_355.webp)
 ## Birthday Color for December 20th: French Beige (`#D6A680`)
 
 ### 1. Description of French Beige (Feeling and Traits)

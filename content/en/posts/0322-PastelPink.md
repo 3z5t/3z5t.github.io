@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Pastel Pink](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_082.webp)
+![Pastel Pink](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_082.webp)
 
 ## Birthday Color for March 22nd: Pastel Pink (`#FFD1DC`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![深夜空](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_247.webp)
+![深夜空](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_247.webp)
 
 ## 9月3日 的生日色：深夜空 (`#142029`)
 

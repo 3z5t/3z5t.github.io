@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![深黑](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_007.webp)
+![深黑](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_007.webp)
 
 ## 1月7日的诞生色：深黑 (`#1A1A1F`)
 

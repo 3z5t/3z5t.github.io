@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![芥末黄](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_176.webp)
+![芥末黄](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_176.webp)
 ## 6月24日 的生日色：芥末黄 (`#C29943`)
 
 ### 1. 初见 芥末黄 (色彩印象与特征)

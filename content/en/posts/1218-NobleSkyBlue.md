@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Noble Sky Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_353.webp)
+![Noble Sky Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_353.webp)
 
 ## Birthday Color for December 18th: Noble Sky Blue (`#1FBEE3`)
 

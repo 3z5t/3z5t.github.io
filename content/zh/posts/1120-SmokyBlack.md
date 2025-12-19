@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![烟黑](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_325.webp)
+![烟黑](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_325.webp)
 
 ## 11月20日 的生日色：烟黑 (`#100F0F`)
 

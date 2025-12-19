@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![正红](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_050.webp)
+![正红](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_050.webp)
 
 ## 2月19日 的生日色：正红 (`#C61400`)
 

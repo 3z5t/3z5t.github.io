@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![새들 브라운](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_269.webp)
+![새들 브라운](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_269.webp)
 
 ## 9월 25일의 탄생색: 새들 브라운 (`#4A2F29`)
 

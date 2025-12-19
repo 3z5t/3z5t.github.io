@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dark Beige](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_239.webp)
+![Dark Beige](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_239.webp)
 
 ## Birthday Color for August 26th: Dark Beige (`#DEB887`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 씨 (Deep Sea)](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_141.webp)
+![딥 씨 (Deep Sea)](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_141.webp)
 
 ## 5월 20일의 탄생색: 딥 씨 (Deep Sea) (`#2F4F4F`)
 

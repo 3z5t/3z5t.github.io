@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![奶油摩卡](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_173.webp)
+![奶油摩卡](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_173.webp)
 
 ## 6月21日 的生日色：奶油摩卡 (`#D19A71`)
 

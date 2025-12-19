@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![法式米色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_238.webp)
+![法式米色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_238.webp)
 
 ## 8月25日 的生日色：法式米色 (`#A67B5B`)
 

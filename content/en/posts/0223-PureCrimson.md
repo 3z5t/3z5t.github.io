@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Pure Crimson](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_054.webp)
+![Pure Crimson](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_054.webp)
 
 ## Birthday Color for February 23rd: Pure Crimson (`#BA0046`)
 

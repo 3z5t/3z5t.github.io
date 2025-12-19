@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ダークカーキ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_302.webp)
+![ダークカーキ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_302.webp)
 
 ## 10月28日の誕生色: ダークカーキ (`#BDB76B`)
 

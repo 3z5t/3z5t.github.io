@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![辛辣红](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_284.webp)
+![辛辣红](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_284.webp)
 
 ## 10月10日 的生日色：辛辣红 (`#990033`)
 

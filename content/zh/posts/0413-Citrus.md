@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![柑橘色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_104.webp)
+![柑橘色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_104.webp)
 
 ## 4月13日 的生日色：柑橘色 (`#99CC00`)
 

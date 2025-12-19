@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![コッパーローズ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_291.webp)
+![コッパーローズ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_291.webp)
 
 ## 10月17日の誕生色: コッパーローズ (`#996666`)
 

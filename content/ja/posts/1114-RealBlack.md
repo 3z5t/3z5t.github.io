@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![リアルブラック](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_319.webp)
+![リアルブラック](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_319.webp)
 
 ## 11月14日の誕生色: リアルブラック (`#2B2B2B`)
 

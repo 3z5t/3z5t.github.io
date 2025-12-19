@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![루돌프 브라운](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_338.webp)
+![루돌프 브라운](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_338.webp)
 
 ## 12월 3일의 탄생색: 루돌프 브라운 (`#6C4D32`)
 

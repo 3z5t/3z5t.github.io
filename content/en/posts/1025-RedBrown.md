@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Red Brown](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_299.webp)
+![Red Brown](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_299.webp)
 
 ## Birthday Color for October 25th: Red Brown (`#6C1818`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![鞍褐](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_269.webp)
+![鞍褐](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_269.webp)
 
 ## 9月25日 的生日色：鞍褐 (`#4A2F29`)
 

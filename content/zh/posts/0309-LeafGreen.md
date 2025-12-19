@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![叶绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_069.webp)
+![叶绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_069.webp)
 
 ## 3月9日 的生日色：叶绿 (`#587D4A`)
 

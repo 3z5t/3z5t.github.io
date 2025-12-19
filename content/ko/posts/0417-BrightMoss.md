@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![브라이트 모스](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_108.webp)
+![브라이트 모스](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_108.webp)
 
 ## 4월 17일의 탄생색: 브라이트 모스 (#ADC12D)
 

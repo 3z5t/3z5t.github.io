@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ブラウン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_270.webp)
+![ブラウン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_270.webp)
 
 ## 9月26日の誕生色: ブラウン (`#7F3300`)
 

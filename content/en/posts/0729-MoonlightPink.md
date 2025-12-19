@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Moonlight Pink](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_211.webp)
+![Moonlight Pink](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_211.webp)
 
 ## Birthday Color for July 29th: Moonlight Pink (`#E0C8C0`)
 

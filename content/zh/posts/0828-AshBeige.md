@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![灰米色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_241.webp)
+![灰米色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_241.webp)
 
 ## 8月28日 的生日色：灰米色 (`#978B88`)
 

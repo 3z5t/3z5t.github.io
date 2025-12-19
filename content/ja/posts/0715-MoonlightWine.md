@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ムーンライトワイン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_197.webp)
+![ムーンライトワイン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_197.webp)
 
 ## 7月15日の誕生色: ムーンライトワイン (`#610928`)
 

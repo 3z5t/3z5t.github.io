@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![バーミリオン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_052.webp)
+![バーミリオン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_052.webp)
 
 ## 2月21日の誕生色: バーミリオン (`#E34234`)
 

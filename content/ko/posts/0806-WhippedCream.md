@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![생크림](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_219.webp)
+![생크림](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_219.webp)
 
 ## 8월 6일의 탄생색: 생크림 (`#DFDCDD`)
 

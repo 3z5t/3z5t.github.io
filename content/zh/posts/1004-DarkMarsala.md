@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![暗玛萨拉](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_278.webp)
+![暗玛萨拉](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_278.webp)
 
 ## 10月4日 的生日色：暗玛萨拉 (`#A4665D`)
 

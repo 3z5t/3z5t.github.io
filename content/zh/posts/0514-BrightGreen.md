@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![亮绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_135.webp)
+![亮绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_135.webp)
 
 ## 5月14日 的生日色：亮绿 (`#66FF00`)
 

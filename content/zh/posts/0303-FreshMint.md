@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![清新薄荷](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_063.webp)
+![清新薄荷](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_063.webp)
 
 ## 3月3日 的生日色：清新薄荷 (`#64D1C3`)
 

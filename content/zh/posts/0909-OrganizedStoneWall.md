@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![整齐石墙](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_253.webp)
+![整齐石墙](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_253.webp)
 
 ## 9月9日 的生日色：整齐石墙 (`#665E5F`)
 

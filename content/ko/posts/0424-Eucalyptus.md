@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![유칼립투스](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_115.webp)
+![유칼립투스](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_115.webp)
 
 ## 4월 24일의 탄생색: 유칼립투스 (#339966)
 

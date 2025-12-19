@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![婴儿蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_205.webp)
+![婴儿蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_205.webp)
 
 ## 7月23日 的生日色：婴儿蓝 (`#66FFFF`)
 

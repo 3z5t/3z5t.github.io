@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![클래식 베이지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_233.webp)
+![클래식 베이지](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_233.webp)
 
 ## 8월 20일의 탄생색: 클래식 베이지 (`#D7C095`)
 

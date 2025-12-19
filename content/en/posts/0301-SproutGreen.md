@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Sprout Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_061.webp)
+![Sprout Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_061.webp)
 
 ## Birthday Color for March 1st: Sprout Green (`#5FD059`)
 

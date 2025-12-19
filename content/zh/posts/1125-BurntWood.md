@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![焦木色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_330.webp)
+![焦木色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_330.webp)
 
 ## 11月25日 的生日色：焦木色 (`#3F242D`)
 

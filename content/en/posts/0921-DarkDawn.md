@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dark Dawn](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_265.webp)
+![Dark Dawn](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_265.webp)
 
 ## Birthday Color for September 21st: Dark Dawn (`#3D4247`)
 

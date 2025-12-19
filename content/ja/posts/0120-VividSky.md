@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ビビッドスカイ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_020.webp)
+![ビビッドスカイ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_020.webp)
 
 ## 1月20日の誕生色: ビビッドスカイ (`#00BFFF`)
 

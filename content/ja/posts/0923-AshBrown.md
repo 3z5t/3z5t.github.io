@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アッシュブラウン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_267.webp)
+![アッシュブラウン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_267.webp)
 
 ## 9月23日の誕生色: アッシュブラウン (`#534E4B`)
 

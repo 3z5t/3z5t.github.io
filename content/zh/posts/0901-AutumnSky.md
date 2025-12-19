@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![秋空](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_245.webp)
+![秋空](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_245.webp)
 
 ## 9月1日 的生日色：秋空 (`#59819A`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ラベンダーブラッシュ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_033.webp)
+![ラベンダーブラッシュ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_033.webp)
 
 ## 2月2日の誕生色: ラベンダーブラッシュ (`#FFCCFF`)
 

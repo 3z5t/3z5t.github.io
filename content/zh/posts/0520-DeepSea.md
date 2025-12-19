@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![深海](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_141.webp)
+![深海](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_141.webp)
 
 ## 5月20日 的生日色：深海 (`#2F4F4F`)
 

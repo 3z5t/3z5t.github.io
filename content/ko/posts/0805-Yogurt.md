@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![요구르트](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_218.webp)
+![요구르트](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_218.webp)
 
 ## 8월 5일의 탄생색: 요구르트 (`#FFDCB8`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Moonlight Wine](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_197.webp)
+![Moonlight Wine](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_197.webp)
 
 ## Birthday Color for July 15th: Moonlight Wine (`#610928`)
 

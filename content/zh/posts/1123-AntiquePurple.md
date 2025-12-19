@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![古董紫](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_328.webp)
+![古董紫](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_328.webp)
 
 ## 11月23日 的生日色：古董紫 (`#5E162D`)
 

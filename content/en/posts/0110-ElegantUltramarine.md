@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Elegant Ultramarine](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_010.webp)
+![Elegant Ultramarine](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_010.webp)
 
 ## Birthday Color for January 10th: Elegant Ultramarine (`#445B97`)
 

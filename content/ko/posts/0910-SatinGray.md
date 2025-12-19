@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![새틴 그레이](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_254.webp)
+![새틴 그레이](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_254.webp)
 
 ## 9월 10일의 탄생색: 새틴 그레이 (`#B3A6A4`)
 

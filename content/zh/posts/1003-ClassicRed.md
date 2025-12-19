@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![经典红](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_277.webp)
+![经典红](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_277.webp)
 
 ## 10月3日 的生日色：经典红 (`#C61400`)
 

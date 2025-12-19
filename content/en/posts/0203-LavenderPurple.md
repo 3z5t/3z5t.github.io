@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Lavender Purple](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_034.webp)
+![Lavender Purple](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_034.webp)
 
 ## Birthday Color for February 3rd: Lavender Purple (`#DAB7F0`)
 

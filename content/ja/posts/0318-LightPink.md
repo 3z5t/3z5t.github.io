@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ライトピンク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_078.webp)
+![ライトピンク](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_078.webp)
 
 ## 3月18日の誕生色: ライトピンク (`#FFB6C1`)
 

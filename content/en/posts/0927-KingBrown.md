@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![King Brown](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_271.webp)
+![King Brown](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_271.webp)
 
 ## Birthday Color for September 27th: King Brown (`#A86248`)
 

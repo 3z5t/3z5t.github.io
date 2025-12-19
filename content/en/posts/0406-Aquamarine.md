@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Aquamarine](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_097.webp)
+![Aquamarine](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_097.webp)
 
 ## Birthday Color for April 6th: Aquamarine (`#99FFCC`)
 

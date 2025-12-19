@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![焦茶色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_281.webp)
+![焦茶色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_281.webp)
 
 ## 10月7日 的生日色：焦茶色 (`#8D3131`)
 

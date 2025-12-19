@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Pine Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_344.webp)
+![Pine Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_344.webp)
 ## Birthday Color for December 9th: Pine Green (`#207670`)
 
 ### 1. Description of Pine Green (Feeling and Traits)

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![소닉 실버](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_314.webp)
+![소닉 실버](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_314.webp)
 
 ## 11월 9일의 탄생색: 소닉 실버 (`#767272`)
 

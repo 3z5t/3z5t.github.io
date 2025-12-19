@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![圣诞苍空](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_349.webp)
+![圣诞苍空](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_349.webp)
 
 ## 12月14日 的生日色：圣诞苍空 (`#9AB4E0`)
 

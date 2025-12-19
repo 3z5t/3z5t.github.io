@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![雾粉](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_088.webp)
+![雾粉](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_088.webp)
 
 ## 3月28日 的生日色：雾粉 (#E0CECE)
 

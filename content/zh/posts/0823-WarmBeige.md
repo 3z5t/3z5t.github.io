@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![暖米色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_236.webp)
+![暖米色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_236.webp)
 
 ## 8月23日 的生日色：暖米色 (`#B69174`)
 

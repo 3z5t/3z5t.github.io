@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ミルクティー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_174.webp)
+![ミルクティー](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_174.webp)
 
 ## 6月22日の誕生色: ミルクティー (`#E4B982`)
 

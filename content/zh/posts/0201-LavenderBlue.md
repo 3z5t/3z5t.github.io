@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![薰衣草蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_032.webp)
+![薰衣草蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_032.webp)
 
 ## 2月1日 的生日色：薰衣草蓝 (`#CCCCFF`)
 

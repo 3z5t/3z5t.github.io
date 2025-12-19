@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Afternoon Gray](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_252.webp)
+![Afternoon Gray](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_252.webp)
 
 ## Birthday Color for September 8th: Afternoon Gray (`#75787B`)
 

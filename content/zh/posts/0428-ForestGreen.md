@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![森林绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_119.webp)
+![森林绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_119.webp)
 
 **4月28日 的生日色：森林绿 (`#228B22`)**
 

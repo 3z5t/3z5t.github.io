@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![イブニングスカイ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_248.webp)
+![イブニングスカイ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_248.webp)
 
 ## 9月4日の誕生色: イブニングスカイ (`#071734`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![沙粉](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_090.webp)
+![沙粉](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_090.webp)
 ## 3月30日 的生日色：沙粉 (`#F5C4AC`)
 
 ### 1. 初见 沙粉 (色彩印象与特征)

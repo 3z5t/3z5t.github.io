@@ -13,6 +13,7 @@ tags:
 draft: false
 ---
 
+![PaleGreen](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_067.webp)
 ## 3월 7일의 탄생색: 페일 그린 (`#98FB98`)
 
 ### 1. 페일 그린에 대한 설명 (색의 느낌과 특징)

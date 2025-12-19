@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープストロベリーミルク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_080.webp)
+![ディープストロベリーミルク](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_080.webp)
 
 ## 3月20日の誕生色: ディープストロベリーミルク (`#FF6FBD`)
 

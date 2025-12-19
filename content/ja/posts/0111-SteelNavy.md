@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![スチールネイビー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_011.webp)
+![スチールネイビー](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_011.webp)
 
 ## 1月11日の誕生色: スチールネイビー (`#1A3855`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![雪白](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_001.webp)
+![雪白](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_001.webp)
 
 **1月1日的诞生色：雪白 (#F2F1F1)**
 

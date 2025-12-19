@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Vermilion](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_052.webp)
+![Vermilion](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_052.webp)
 
 ## Birthday Color for February 21st: Vermilion (`#E34234`)
 

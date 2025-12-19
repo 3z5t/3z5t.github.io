@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![深森林凫蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_343.webp)
+![深森林凫蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_343.webp)
 
 ## 12月8日 的生日色：深森林凫蓝 (`#17896E`)
 

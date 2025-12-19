@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Satin Gray](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_254.webp)
+![Satin Gray](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_254.webp)
 
 ## Birthday Color for September 10th: Satin Gray (`#B3A6A4`)
 

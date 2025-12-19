@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![미드나잇 그레이](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_362.webp)
+![미드나잇 그레이](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_362.webp)
 
 ## 12월 27일의 탄생색: 미드나잇 그레이 (`#565269`)
 

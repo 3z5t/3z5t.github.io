@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![夏日沙滩](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_257.webp)
+![夏日沙滩](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_257.webp)
 
 ## 9月13日 的生日色：夏日沙滩 (`#BF9F87`)
 

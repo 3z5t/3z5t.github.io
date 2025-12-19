@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![闪耀之星](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_172.webp)
+![闪耀之星](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_172.webp)
 
 ## 6月20日 的生日色：闪耀之星 (`#EAAB5B`)
 

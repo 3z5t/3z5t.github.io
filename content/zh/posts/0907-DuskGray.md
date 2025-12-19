@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![黄昏灰](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_251.webp)
+![黄昏灰](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_251.webp)
 
 ## 9月7日 的生日色：黄昏灰 (`#313035`)
 

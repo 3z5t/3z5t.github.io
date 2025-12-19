@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![都市银](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_003.webp)
+![都市银](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_003.webp)
 
 ## 1月3日的诞生色：都市银 (`#808080`)
 

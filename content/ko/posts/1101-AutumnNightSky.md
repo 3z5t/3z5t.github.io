@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![가을빛 밤하늘](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_306.webp)
+![가을빛 밤하늘](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_306.webp)
 
 ## 11월 1일의 탄생색: 가을빛 밤하늘 (`#3C3232`)
 

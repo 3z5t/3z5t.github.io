@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Vintage Tulip](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_339.webp)
+![Vintage Tulip](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_339.webp)
 
 ## Birthday Color for December 4th: Vintage Tulip (`#B80C03`)
 

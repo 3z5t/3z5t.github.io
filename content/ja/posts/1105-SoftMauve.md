@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ソフトモーブ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_310.webp)
+![ソフトモーブ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_310.webp)
 
 ## 11月5日の誕生色: ソフトモーブ (`#887A7C`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![黄赭色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_294.webp)
+![黄赭色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_294.webp)
 ## 10月20日 的生日色：黄赭色 (`#B28E58`)
 
 ### 1. 初见 黄赭色 (色彩印象与特征)

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Saddle Brown](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_269.webp)
+![Saddle Brown](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_269.webp)
 
 ## Birthday Color for September 25th: Saddle Brown (`#4A2F29`)
 

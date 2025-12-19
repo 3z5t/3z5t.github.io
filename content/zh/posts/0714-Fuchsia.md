@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![紫红色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_196.webp)
+![紫红色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_196.webp)
 
 ## 7月14日 的生日色：紫红色 (`#CC33CC`)
 

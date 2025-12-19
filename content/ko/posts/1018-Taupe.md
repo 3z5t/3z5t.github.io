@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![토프 (Taupe)](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_292.webp)
+![토프 (Taupe)](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_292.webp)
 
 ## 10월 18일의 탄생색: 토프 (Taupe) (`#805454`)
 

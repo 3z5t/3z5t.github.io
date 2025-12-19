@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![深渊黑](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_318.webp)
+![深渊黑](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_318.webp)
 ## 11月13日 的生日色：深渊黑 (`#1A1A1A`)
 
 ### 1. 初见 深渊黑 (色彩印象与特征)

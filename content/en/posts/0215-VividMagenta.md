@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Vivid Magenta](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_046.webp)
+![Vivid Magenta](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_046.webp)
 
 ## Birthday Color for February 15th: Vivid Magenta (`#FF00FF`)
 

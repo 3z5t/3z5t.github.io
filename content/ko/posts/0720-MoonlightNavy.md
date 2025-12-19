@@ -13,6 +13,7 @@ tags:
 draft: false
 ---
 
+![MoonlightNavy](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_202.webp)
 ## 7월 20일의 탄생색: 문라이트 네이비 (`#0A576C`)
 
 ### 1. 문라이트 네이비에 대한 설명

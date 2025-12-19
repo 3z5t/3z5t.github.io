@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![银玫瑰](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_085.webp)
+![银玫瑰](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_085.webp)
 
 ## 3月25日 的生日色：银玫瑰 (#BE8C92)
 

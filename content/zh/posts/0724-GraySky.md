@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![灰天](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_206.webp)
+![灰天](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_206.webp)
 
 ## 7月24日 的生日色：灰天 (`#BDE0F4`)
 

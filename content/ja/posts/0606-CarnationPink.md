@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![カーネーションピンク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_158.webp)
+![カーネーションピンク](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_158.webp)
 
 ## 6月6日の誕生色: カーネーションピンク (`#FF99CC`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![夏末之叶](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_242.webp)
+![夏末之叶](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_242.webp)
 
 ## 8月29日 的生日色：夏末之叶 (`#566353`)
 

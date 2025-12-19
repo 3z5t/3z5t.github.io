@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![深卡其](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_302.webp)
+![深卡其](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_302.webp)
 
 ## 10月28日 的生日色：深卡其 (`#BDB76B`)
 

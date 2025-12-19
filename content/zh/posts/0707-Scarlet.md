@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![猩红](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_189.webp)
+![猩红](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_189.webp)
 
 ## 7月7日 的生日色：猩红 (`#FF3300`)
 

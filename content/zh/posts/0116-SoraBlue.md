@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![苍空蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_016.webp)
+![苍空蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_016.webp)
 
 ## 1月16日的生日色：苍空蓝 (`#7F9BB9`)
 

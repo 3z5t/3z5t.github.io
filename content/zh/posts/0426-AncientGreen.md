@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![远古绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_117.webp)
+![远古绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_117.webp)
 
 **4月26日 的生日色：远古绿 (`#476664`)**
 

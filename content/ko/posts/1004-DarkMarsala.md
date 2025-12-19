@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![다크 마르살라](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_278.webp)
+![다크 마르살라](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_278.webp)
 
 ## 10월 4일의 탄생색: 다크 마르살라 (`#A4665D`)
 

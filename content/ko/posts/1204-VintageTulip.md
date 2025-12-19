@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![빈티지 튤립](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_339.webp)
+![빈티지 튤립](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_339.webp)
 
 ## 12월 4일의 탄생색: 빈티지 튤립 (`#B80C03`)
 

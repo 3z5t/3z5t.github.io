@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Olive](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_107.webp)
+![Deep Olive](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_107.webp)
 
 ## Birthday Color for April 16th: Deep Olive (`#6B8E23`)
 

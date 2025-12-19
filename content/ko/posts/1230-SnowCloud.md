@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![스노우 클라우드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_365.webp)
+![스노우 클라우드](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_365.webp)
 
 ## 12월 30일의 탄생색: 스노우 클라우드 (`#F1F5F7`)
 

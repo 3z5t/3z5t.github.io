@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![秋夜空](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_306.webp)
+![秋夜空](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_306.webp)
 
 ## 11月1日 的生日色：秋夜空 (`#3C3232`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![松鼠褐](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_266.webp)
+![松鼠褐](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_266.webp)
 
 ## 9月22日 的生日色：松鼠褐 (`#996A52`)
 

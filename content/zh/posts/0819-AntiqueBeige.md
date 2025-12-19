@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![古董米色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_232.webp)
+![古董米色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_232.webp)
 
 ## 8月19日 的生日色：古董米色 (`#A19475`)
 

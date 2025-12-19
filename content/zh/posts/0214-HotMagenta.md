@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![热烈洋红](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_045.webp)
+![热烈洋红](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_045.webp)
 ## 2月14日 的生日色：热烈洋红 (`#FF00CC`)
 
 ### 1. 初见 热烈洋红

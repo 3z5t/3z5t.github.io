@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ラベンダーブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_032.webp)
+![ラベンダーブルー](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_032.webp)
 
 ## 2月1日の誕生色: ラベンダーブルー (`#CCCCFF`)
 

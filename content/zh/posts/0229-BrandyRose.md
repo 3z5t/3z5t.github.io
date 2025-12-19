@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![白兰地玫瑰](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_060.webp)
+![白兰地玫瑰](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_060.webp)
 
 ## 2月29日 的生日色：白兰地玫瑰 (`#B58A7B`)
 

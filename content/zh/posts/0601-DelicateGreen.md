@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![精致绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_153.webp)
+![精致绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_153.webp)
 
 ## 6月1日 的生日色：精致绿 (`#7DDCC4`)
 

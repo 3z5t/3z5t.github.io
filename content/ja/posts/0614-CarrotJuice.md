@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![キャロットジュース](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_166.webp)
+![キャロットジュース](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_166.webp)
 
 ## 6月14日の誕生色: キャロットジュース (`#E8742D`)
 

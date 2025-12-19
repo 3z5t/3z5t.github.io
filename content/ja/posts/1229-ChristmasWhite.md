@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クリスマスホワイト](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_364.webp)
+![クリスマスホワイト](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_364.webp)
 
 ## 12月29日の誕生色: クリスマスホワイト (`#E2E1EE`)
 

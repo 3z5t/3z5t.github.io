@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![サドルブラウン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_269.webp)
+![サドルブラウン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_269.webp)
 
 ## 9月25日の誕生色: サドルブラウン (`#4A2F29`)
 

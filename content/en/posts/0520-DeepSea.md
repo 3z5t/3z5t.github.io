@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Sea](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_141.webp)
+![Deep Sea](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_141.webp)
 
 ## Birthday Color for May 20th: Deep Sea (`#2F4F4F`)
 

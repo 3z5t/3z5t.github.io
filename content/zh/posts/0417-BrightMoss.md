@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![亮苔藓](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_108.webp)
+![亮苔藓](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_108.webp)
 
 ## 4月17日 的生日色：亮苔藓 (`#ADC12D`)
 

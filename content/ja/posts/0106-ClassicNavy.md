@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クラシックネイビー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_006.webp)
+![クラシックネイビー](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_006.webp)
 
 ## 1月6日の誕生色: クラシックネイビー (`#000066`)
 

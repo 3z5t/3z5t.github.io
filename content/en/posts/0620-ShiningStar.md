@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Shining Star](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_172.webp)
+![Shining Star](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_172.webp)
 
 ## Birthday Color for June 20th: Shining Star (`#EAAB5B`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![レッドオレンジ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_276.webp)
+![レッドオレンジ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_276.webp)
 
 ## 10月2日の誕生色: レッドオレンジ (`#FF3333`)
 

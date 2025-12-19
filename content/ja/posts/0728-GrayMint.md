@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![グレーミント](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_210.webp)
+![グレーミント](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_210.webp)
 
 ## 7月28日の誕生色: グレーミント (`#ADCECE`)
 

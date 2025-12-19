@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![缎面灰](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_254.webp)
+![缎面灰](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_254.webp)
 
 ## 9月10日 的生日色：缎面灰 (`#B3A6A4`)
 

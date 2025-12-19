@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![深橄榄](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_107.webp)
+![深橄榄](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_107.webp)
 
 ## 4月16日 的生日色：深橄榄 (`#6B8E23`)
 

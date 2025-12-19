@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![细沙](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_255.webp)
+![细沙](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_255.webp)
 
 ## 9月11日 的生日色：细沙 (`#EEE9E2`)
 

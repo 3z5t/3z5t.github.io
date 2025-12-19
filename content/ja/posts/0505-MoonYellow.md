@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ムーンイエロー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_126.webp)
+![ムーンイエロー](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_126.webp)
 
 ## 5月5日の誕生色: ムーンイエロー (`#FEB721`)
 

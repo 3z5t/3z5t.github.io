@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![银丁香](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_041.webp)
+![银丁香](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_041.webp)
 
 ## 2月10日 的生日色：银丁香 (`#AEA2C9`)
 

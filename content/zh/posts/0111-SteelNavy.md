@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![钢铁海军蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_011.webp)
+![钢铁海军蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_011.webp)
 
 ## 1月11日的诞生色：钢铁海军蓝 (`#1A3855`)
 

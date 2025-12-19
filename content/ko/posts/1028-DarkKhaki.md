@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![다크 카키](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_302.webp)
+![다크 카키](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_302.webp)
 
 ## 10월 28일의 탄생색: 다크 카키 (`#BDB76B`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Snowflake White](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_002.webp)
+![Snowflake White](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_002.webp)
 
 ## Birthday Color for January 2nd: Snowflake White (`#F2EDF3`)
 

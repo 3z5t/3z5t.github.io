@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![シルバーローズ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_085.webp)
+![シルバーローズ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_085.webp)
 
 ## 3月25日の誕生色: シルバーローズ (`#BE8C92`)
 

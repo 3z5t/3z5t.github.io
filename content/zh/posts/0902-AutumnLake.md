@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![秋湖](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_246.webp)
+![秋湖](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_246.webp)
 
 ## 9月2日 的生日色：秋湖 (`#55779B`)
 

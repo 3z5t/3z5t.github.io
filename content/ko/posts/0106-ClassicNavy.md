@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![클래식 네이비](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_006.webp)
+![클래식 네이비](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_006.webp)
 
 ## 1월 6일의 탄생색: 클래식 네이비 (`#000066`)
 

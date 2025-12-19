@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ユーカリ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_115.webp)
+![ユーカリ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_115.webp)
 ## 4月24日の誕生色: ユーカリ (`#339966`)
 
 ### 1. ユーカリについての説明（色の感覚と特徴）

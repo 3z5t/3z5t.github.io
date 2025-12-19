@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![洋红紫](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_047.webp)
+![洋红紫](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_047.webp)
 
 ## 2月16日 的生日色：洋红紫 (`#EE82EE`)
 

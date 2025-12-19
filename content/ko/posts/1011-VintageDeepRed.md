@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![빈티지 딥 레드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_285.webp)
+![빈티지 딥 레드](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_285.webp)
 
 ## 10월 11일의 탄생색: 빈티지 딥 레드 (`#8D192B`)
 

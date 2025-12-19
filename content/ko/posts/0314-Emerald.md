@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![에메랄드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_074.webp)
+![에메랄드](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_074.webp)
 
 ## 3월 14일의 탄생색: 에메랄드 (`#66CC66`)
 

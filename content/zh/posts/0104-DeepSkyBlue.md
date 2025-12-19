@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![深天蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_004.webp)
+![深天蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_004.webp)
 
 ## 1月4日的诞生色：深天蓝 (`#00CCFF`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![骑士绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_138.webp)
+![骑士绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_138.webp)
 ## 5月17日 的生日色：骑士绿 (`#5C9432`)
 
 ### 1. 初见 骑士绿 (色彩印象与特征)

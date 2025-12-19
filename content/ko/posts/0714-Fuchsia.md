@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![푸크시아](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_196.webp)
+![푸크시아](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_196.webp)
 
 ## 7월 14일의 탄생색: 푸크시아 (`#CC33CC`)
 

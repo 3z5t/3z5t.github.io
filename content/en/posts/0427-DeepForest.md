@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Forest](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_118.webp)
+![Deep Forest](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_118.webp)
 
 ## Birthday Color for April 27th: Deep Forest (`#2F4A2F`)
 

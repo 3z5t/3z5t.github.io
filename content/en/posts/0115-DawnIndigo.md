@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dawn Indigo](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_015.webp)
+![Dawn Indigo](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_015.webp)
 
 ## Birthday Color for January 15th: Dawn Indigo (`#2C3C57`)
 

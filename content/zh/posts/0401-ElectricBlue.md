@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![电子蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_092.webp)
+![电子蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_092.webp)
 
 ## 4月1日 的生日色：电子蓝 (`#99FFFF`)
 

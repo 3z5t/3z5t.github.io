@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![圣诞白](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_364.webp)
+![圣诞白](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_364.webp)
 
 ## 12月29日 的生日色：圣诞白 (`#E2E1EE`)
 

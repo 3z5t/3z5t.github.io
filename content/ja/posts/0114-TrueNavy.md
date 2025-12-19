@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![トゥルーネイビー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_014.webp)
+![トゥルーネイビー](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_014.webp)
 
 ## 1月14日の誕生色: トゥルーネイビー (`#313C75`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Azure Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_201.webp)
+![Azure Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_201.webp)
 
 ## Birthday Color for July 19th: Azure Blue (`#1E90FF`)
 

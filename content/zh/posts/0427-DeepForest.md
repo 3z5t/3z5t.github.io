@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![深森林](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_118.webp)
+![深森林](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_118.webp)
 
 **4月27日 的生日色：深森林 (`#2F4A2F`)**
 

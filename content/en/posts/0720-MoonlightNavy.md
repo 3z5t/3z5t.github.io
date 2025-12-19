@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Moonlight Navy](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_202.webp)
+![Moonlight Navy](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_202.webp)
 
 ## Birthday Color for July 20th: Moonlight Navy (`#0A576C`)
 

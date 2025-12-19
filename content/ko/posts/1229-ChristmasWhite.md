@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![크리스마스 화이트](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_364.webp)
+![크리스마스 화이트](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_364.webp)
 
 ## 12월 29일의 탄생색: 크리스마스 화이트 (`#E2E1EE`)
 

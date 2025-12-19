@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![黎明靛蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_015.webp)
+![黎明靛蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_015.webp)
 
 ## 1月15日的诞生色：黎明靛蓝 (`#2C3C57`)
 

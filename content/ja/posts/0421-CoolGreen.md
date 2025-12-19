@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![クールグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_112.webp)
+![クールグリーン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_112.webp)
 
 ## 4月21日の誕生色: クールグリーン (`#78BAAD`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Forest Teal](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_343.webp)
+![Deep Forest Teal](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_343.webp)
 
 ## Birthday Color for December 8th: Deep Forest Teal (`#17896E`)
 

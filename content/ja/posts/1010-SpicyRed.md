@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![スパイシーレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_284.webp)
+![スパイシーレッド](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_284.webp)
 
 ## 10月10日の誕生色: スパイシーレッド (`#990033`)
 

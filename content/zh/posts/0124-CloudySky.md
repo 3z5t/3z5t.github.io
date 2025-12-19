@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![多云天灰](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_024.webp)
+![多云天灰](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_024.webp)
 
 ## 1月24日 的生日色：多云天灰 (`#C3CFE0`)
 

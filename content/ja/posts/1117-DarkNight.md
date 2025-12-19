@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ダークナイト](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_322.webp)
+![ダークナイト](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_322.webp)
 
 ## 11月17日の誕生色: ダークナイト (`#2A2333`)
 

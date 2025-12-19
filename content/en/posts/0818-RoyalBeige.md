@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Royal Beige](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_231.webp)
+![Royal Beige](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_231.webp)
 
 ## Birthday Color for August 18th: Royal Beige (`#AB9170`)
 

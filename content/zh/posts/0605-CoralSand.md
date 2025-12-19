@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![珊瑚沙](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_157.webp)
+![珊瑚沙](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_157.webp)
 
 ## 6月5日 的生日色：珊瑚沙 (`#FFD0A1`)
 

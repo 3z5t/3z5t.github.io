@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アーバンスカイ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_023.webp)
+![アーバンスカイ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_023.webp)
 
 ## 1月23日の誕生色: アーバンスカイ (`#BBC1CA`)
 

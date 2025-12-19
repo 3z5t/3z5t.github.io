@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Matte Rose](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_059.webp)
+![Matte Rose](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_059.webp)
 
 ## Birthday Color for February 28th: Matte Rose (`#AE675F`)
 

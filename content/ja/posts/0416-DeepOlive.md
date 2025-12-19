@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープオリーブ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_107.webp)
+![ディープオリーブ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_107.webp)
 
 ## 4月16日の誕生色: ディープオリーブ (`#6B8E23`)
 

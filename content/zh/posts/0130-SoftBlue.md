@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![柔蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_030.webp)
+![柔蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_030.webp)
 
 ## 1月30日 的生日色：柔蓝 (`#99CCFF`)
 

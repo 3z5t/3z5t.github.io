@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![牵牛花](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_151.webp)
+![牵牛花](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_151.webp)
 
 ## 5月30日 的生日色：牵牛花 (`#99CCCC`)
 

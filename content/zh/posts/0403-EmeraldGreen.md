@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![翡翠绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_094.webp)
+![翡翠绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_094.webp)
 ## 4月3日 的生日色：翡翠绿 (`#00CC66`)
 
 ### 1. 初见 翡翠绿 (色彩印象与特征)

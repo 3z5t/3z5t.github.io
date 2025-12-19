@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープオーシャンブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_012.webp)
+![ディープオーシャンブルー](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_012.webp)
 
 ## 1月12日の誕生色: ディープオーシャンブルー (`#465C83`)
 

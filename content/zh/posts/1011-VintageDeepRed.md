@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![复古深红](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_285.webp)
+![复古深红](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_285.webp)
 ## 10月11日 的生日色：复古深红 (`#8D192B`)
 
 ### 1. 初见 复古深红 (色彩印象与特征)

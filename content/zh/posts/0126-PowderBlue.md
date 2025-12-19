@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![粉蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_026.webp)
+![粉蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_026.webp)
 
 ## 1月26日 的生日色：粉蓝 (`#C4E8E6`)
 

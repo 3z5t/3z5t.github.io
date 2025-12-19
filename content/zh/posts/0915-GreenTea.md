@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![绿茶](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_259.webp)
+![绿茶](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_259.webp)
 
 ## 9月15日 的生日色：绿茶 (`#98946E`)
 

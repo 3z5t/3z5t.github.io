@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ハイスカイ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_022.webp)
+![ハイスカイ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_022.webp)
 
 ## 1月22日の誕生色: ハイスカイ (`#0B8AC3`)
 

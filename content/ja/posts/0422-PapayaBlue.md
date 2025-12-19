@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![パパイヤブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_113.webp)
+![パパイヤブルー](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_113.webp)
 
 ## 4月22日の誕生色: パパイヤブルー (`#37B5BE`)
 

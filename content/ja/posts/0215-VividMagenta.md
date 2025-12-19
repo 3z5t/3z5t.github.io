@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ビビッドマゼンタ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_046.webp)
+![ビビッドマゼンタ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_046.webp)
 
 ## 2月15日の誕生色: ビビッドマゼンタ (`#FF00FF`)
 

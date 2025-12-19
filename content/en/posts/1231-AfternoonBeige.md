@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Afternoon Beige](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_366.webp)
+![Afternoon Beige](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_366.webp)
 
 ## Birthday Color for December 31st: Afternoon Beige (`#F5F5F5`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープシアン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_144.webp)
+![ディープシアン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_144.webp)
 
 ## 5月23日の誕生色: ディープシアン (`#347691`)
 

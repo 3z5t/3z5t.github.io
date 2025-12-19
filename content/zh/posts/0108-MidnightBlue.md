@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![午夜蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_008.webp)
+![午夜蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_008.webp)
 
 ## 1月8日的诞生色：午夜蓝 (`#191970`)
 

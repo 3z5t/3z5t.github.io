@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![百合白](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_222.webp)
+![百合白](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_222.webp)
 
 ## 8月9日 的生日色：百合白 (`#F3F1EF`)
 

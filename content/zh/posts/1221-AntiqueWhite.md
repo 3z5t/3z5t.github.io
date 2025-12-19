@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![古董白](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_356.webp)
+![古董白](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_356.webp)
 
 ## 12月21日 的生日色：古董白 (`#EBE2CE`)
 

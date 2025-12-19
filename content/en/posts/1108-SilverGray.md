@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Silver Gray](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_313.webp)
+![Silver Gray](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_313.webp)
 
 ## Birthday Color for November 8th: Silver Gray (`#E2DFE5`)
 

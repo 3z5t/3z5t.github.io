@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![香蕉黄](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_127.webp)
+![香蕉黄](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_127.webp)
 
 **5月6日 的生日色：香蕉黄 (`#FFF462`)**
 

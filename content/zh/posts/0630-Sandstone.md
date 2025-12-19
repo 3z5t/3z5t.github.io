@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![砂岩](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_182.webp)
+![砂岩](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_182.webp)
 
 ## 6月30日 的生日色：砂岩 (`#7B6D6D`)
 

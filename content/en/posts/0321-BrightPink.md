@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Bright Pink](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_081.webp)
+![Bright Pink](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_081.webp)
 
 ## Birthday Color for March 21st: Bright Pink (`#FFEAF3`)
 

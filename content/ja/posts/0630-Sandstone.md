@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![サンドストーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_182.webp)
+![サンドストーン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_182.webp)
 
 ## 6月30日の誕生色: サンドストーン (`#7B6D6D`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Burnt Wood](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_330.webp)
+![Burnt Wood](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_330.webp)
 ## Birthday Color for November 25th: Burnt Wood (`#3F242D`)
 
 ### 1. Description of Burnt Wood (Feeling and Traits)

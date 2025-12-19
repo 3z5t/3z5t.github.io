@@ -13,6 +13,7 @@ tags:
 draft: false
 ---
 
+![WildGreen](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_121.webp)
 ## 4월 30일의 탄생색: 와일드 그린 (`#387146`)
 
 ### 1. 와일드 그린에 대한 설명

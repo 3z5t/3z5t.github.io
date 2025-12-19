@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![玫瑰红](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_337.webp)
+![玫瑰红](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_337.webp)
 
 ## 12月2日 的生日色：玫瑰红 (`#8D1C1C`)
 

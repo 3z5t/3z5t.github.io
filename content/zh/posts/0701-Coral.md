@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![珊瑚色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_183.webp)
+![珊瑚色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_183.webp)
 
 ## 7月1日 的生日色：珊瑚色 (`#FF7F50`)
 

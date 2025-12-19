@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![더스티 퍼플](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_309.webp)
+![더스티 퍼플](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_309.webp)
 
 ## 11월 4일의 탄생색: 더스티 퍼플 (`#746B7A`)
 

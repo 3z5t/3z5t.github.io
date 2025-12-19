@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![红褐](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_299.webp)
+![红褐](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_299.webp)
 
 ## 10月25日 的生日色：红褐 (`#6C1818`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![古董象牙](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_347.webp)
+![古董象牙](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_347.webp)
 
 ## 12月12日 的生日色：古董象牙 (`#E9E1D8`)
 

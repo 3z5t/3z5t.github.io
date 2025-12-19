@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![오렌지 필](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_162.webp)
+![오렌지 필](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_162.webp)
 
 ## 6월 10일의 탄생색: 오렌지 필 (`#FF9900`)
 

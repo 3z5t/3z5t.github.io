@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![奥克斯利绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_111.webp)
+![奥克斯利绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_111.webp)
 
 ## 4月20日 的生日色：奥克斯利绿 (`#669966`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![紫丁香](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_200.webp)
+![紫丁香](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_200.webp)
 
 ## 7月18日 的生日色：紫丁香 (`#CC99CC`)
 

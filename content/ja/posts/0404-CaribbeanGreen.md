@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![カリビアングリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_095.webp)
+![カリビアングリーン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_095.webp)
 
 ## 4月4日の誕生色: カリビアングリーン (`#00CC99`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![핫 마젠타](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_045.webp)
+![핫 마젠타](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_045.webp)
 
 ## 2월 14일의 탄생색: 핫 마젠타 (`#FF00CC`)
 

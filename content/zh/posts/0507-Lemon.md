@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![柠檬黄](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_128.webp)
+![柠檬黄](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_128.webp)
 
 **5月7日 的生日色：柠檬黄 (`#EFDA00`)**
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![バーントアンバー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_281.webp)
+![バーントアンバー](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_281.webp)
 
 ## 10月7日の誕生色: バーントアンバー (`#8D3131`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![저녁 밤하늘](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_248.webp)
+![저녁 밤하늘](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_248.webp)
 
 ## 9월 4일의 탄생색: 저녁 밤하늘 (`#071734`)
 

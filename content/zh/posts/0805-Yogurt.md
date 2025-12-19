@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![酸奶白](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_218.webp)
+![酸奶白](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_218.webp)
 
 ## 8月5日 的生日色：酸奶白 (`#FFDCB8`)
 

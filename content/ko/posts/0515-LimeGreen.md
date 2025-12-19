@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![라임 그린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_136.webp)
+![라임 그린](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_136.webp)
 
 ## 5월 15일의 탄생색: 라임 그린 (`#6EAD5C`)
 

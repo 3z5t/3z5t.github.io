@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![绒面金](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_357.webp)
+![绒面金](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_357.webp)
 
 ## 12月22日 的生日色：绒面金 (`#F9EBDA`)
 

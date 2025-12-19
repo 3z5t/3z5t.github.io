@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![橄榄色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_105.webp)
+![橄榄色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_105.webp)
 
 ## 4月14日 的生日色：橄榄色 (`#666600`)
 

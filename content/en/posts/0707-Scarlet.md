@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Scarlet](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_189.webp)
+![Scarlet](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_189.webp)
 ## Birthday Color for July 7th: Scarlet (`#FF3300`)
 
 ### 1. Description of Scarlet (Feeling and Traits)

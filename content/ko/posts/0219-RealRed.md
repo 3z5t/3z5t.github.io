@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![리얼 레드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_050.webp)
+![리얼 레드](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_050.webp)
 
 ## 2월 19일의 탄생색: 리얼 레드 (`#C61400`)
 

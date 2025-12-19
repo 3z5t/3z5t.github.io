@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 올리브](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_107.webp)
+![딥 올리브](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_107.webp)
 ## 4월 16일의 탄생색: 딥 올리브 (#6B8E23)
 
 ### 1. 딥 올리브에 대한 설명

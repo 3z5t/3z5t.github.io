@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![橄榄油色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_305.webp)
+![橄榄油色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_305.webp)
 
 ## 10月31日 的生日色：橄榄油色 (`#999900`)
 

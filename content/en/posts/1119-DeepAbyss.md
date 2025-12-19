@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Abyss](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_324.webp)
+![Deep Abyss](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_324.webp)
 
 ## Birthday Color for November 19th: Deep Abyss (`#0D0D10`)
 

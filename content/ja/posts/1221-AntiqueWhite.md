@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![アンティークホワイト](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_356.webp)
+![アンティークホワイト](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_356.webp)
 
 ## 12月21日の誕生色: アンティークホワイト (`#EBE2CE`)
 

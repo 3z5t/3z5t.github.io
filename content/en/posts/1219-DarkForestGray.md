@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Dark Forest Gray](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_354.webp)
+![Dark Forest Gray](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_354.webp)
 
 ## Birthday Color for December 19th: Dark Forest Gray (`#2A3A2F`)
 

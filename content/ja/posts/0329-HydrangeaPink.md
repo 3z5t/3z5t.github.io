@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ハイドランジアピンク](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_089.webp)
+![ハイドランジアピンク](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_089.webp)
 
 ## 3月29日の誕生色: ハイドランジアピンク (`#FFBFCA`)
 

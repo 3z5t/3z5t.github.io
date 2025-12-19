@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![纯正海军蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_014.webp)
+![纯正海军蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_014.webp)
 
 ## 1月14日的诞生色：纯正海军蓝 (`#313C75`)
 

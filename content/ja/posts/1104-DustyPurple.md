@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ダスティパープル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_309.webp)
+![ダスティパープル](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_309.webp)
 ## 11月4日の誕生色: ダスティパープル (`#746B7A`)
 
 ### 1. ダスティパープルについての説明（色の感覚と特徴）

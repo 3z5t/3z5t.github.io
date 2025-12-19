@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Green Yellow](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_133.webp)
+![Green Yellow](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_133.webp)
 ## Birthday Color for May 12th: Green Yellow (`#99FF33`)
 
 ### 1. Description of Green Yellow (Feeling and Traits)

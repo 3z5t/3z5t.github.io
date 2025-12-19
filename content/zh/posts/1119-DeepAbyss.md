@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![深渊](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_324.webp)
+![深渊](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_324.webp)
 
 ## 11月19日 的生日色：深渊 (`#0D0D10`)
 

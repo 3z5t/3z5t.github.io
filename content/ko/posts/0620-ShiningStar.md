@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![샤이닝 스타](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_172.webp)
+![샤이닝 스타](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_172.webp)
 
 ## 6월 20일의 탄생색: 샤이닝 스타 (`#EAAB5B`)
 

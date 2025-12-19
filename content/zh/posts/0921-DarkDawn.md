@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![黑暗黎明](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_265.webp)
+![黑暗黎明](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_265.webp)
 ## 9月21日 的生日色：黑暗黎明 (`#3D4247`)
 
 ### 1. 初见 黑暗黎明

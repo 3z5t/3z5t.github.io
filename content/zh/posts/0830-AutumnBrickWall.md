@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![秋日砖墙](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_243.webp)
+![秋日砖墙](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_243.webp)
 
 ## 8月30日 的生日色：秋日砖墙 (`#AA837E`)
 

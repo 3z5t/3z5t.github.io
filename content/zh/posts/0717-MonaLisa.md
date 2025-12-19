@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![蒙娜丽莎](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_199.webp)
+![蒙娜丽莎](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_199.webp)
 
 ## 7月17日 的生日色：蒙娜丽莎 (`#FF9999`)
 

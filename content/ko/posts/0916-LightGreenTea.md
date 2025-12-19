@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![연녹차](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_260.webp)
+![연녹차](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_260.webp)
 
 ## 9월 16일의 탄생색: 연녹차 (`#ABA88A`)
 

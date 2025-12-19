@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![黄绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_133.webp)
+![黄绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_133.webp)
 
 ## 5月12日 的生日色：黄绿 (`#99FF33`)
 

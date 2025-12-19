@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![深苍空](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_019.webp)
+![深苍空](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_019.webp)
 
 ## 1月19日 的生日色：深苍空 (`#667CB8`)
 

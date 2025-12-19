@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![冬日浆果](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_336.webp)
+![冬日浆果](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_336.webp)
 
 ## 12月1日 的生日色：冬日浆果 (`#AF2A24`)
 

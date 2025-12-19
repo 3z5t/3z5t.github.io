@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Beige](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_240.webp)
+![Deep Beige](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_240.webp)
 
 ## Birthday Color for August 27th: Deep Beige (`#D29E5C`)
 

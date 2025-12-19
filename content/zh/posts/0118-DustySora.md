@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![尘埃苍空](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_018.webp)
+![尘埃苍空](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_018.webp)
 
 ## 1月18日 的生日色：尘埃苍空 (`#A4B0CC`)
 

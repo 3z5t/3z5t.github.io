@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Mona Lisa](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_199.webp)
+![Mona Lisa](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_199.webp)
 
 ## Birthday Color for July 17th: Mona Lisa (`#FF9999`)
 

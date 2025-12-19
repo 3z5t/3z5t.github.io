@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Emerald](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_074.webp)
+![Emerald](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_074.webp)
 
 ## Birthday Color for March 14th: Emerald (`#66CC66`)
 

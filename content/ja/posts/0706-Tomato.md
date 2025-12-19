@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![トマト](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_188.webp)
+![トマト](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_188.webp)
 
 ## 7月6日の誕生色: トマト (`#FF6347`)
 

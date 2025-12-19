@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![午后米色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_366.webp)
+![午后米色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_366.webp)
 
 ## 12月31日 的生日色：午后米色 (`#F5F5F5`)
 

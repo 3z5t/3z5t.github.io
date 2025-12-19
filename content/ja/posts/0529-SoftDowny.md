@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ソフトダウニー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_150.webp)
+![ソフトダウニー](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_150.webp)
 
 ## 5月29日の誕生色: ソフトダウニー (`#66CCCC`)
 

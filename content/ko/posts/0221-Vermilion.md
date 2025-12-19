@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![버밀리온](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_052.webp)
+![버밀리온](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_052.webp)
 
 ## 2월 21일의 탄생색: 버밀리온 (`#E34234`)
 

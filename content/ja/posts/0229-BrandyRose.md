@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ブランディローズ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_060.webp)
+![ブランディローズ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_060.webp)
 ## 2月29日の誕生色: ブランディローズ (`#B58A7B`)
 
 ### 1. ブランディローズについての説明

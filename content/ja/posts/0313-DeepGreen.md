@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ディープグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_073.webp)
+![ディープグリーン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_073.webp)
 
 ## 3月13日の誕生色: ディープグリーン (`#3D5E40`)
 

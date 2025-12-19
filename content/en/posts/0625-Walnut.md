@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Walnut](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_177.webp)
+![Walnut](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_177.webp)
 
 ## Birthday Color for June 25th: Walnut (`#A49376`)
 

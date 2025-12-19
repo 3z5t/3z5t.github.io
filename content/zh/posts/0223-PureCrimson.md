@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![纯绯红](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_054.webp)
+![纯绯红](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_054.webp)
 
 ## 2月23日 的生日色：纯绯红 (`#BA0046`)
 

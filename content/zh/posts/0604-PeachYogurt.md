@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![桃子酸奶](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_156.webp)
+![桃子酸奶](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_156.webp)
 
 ## 6月4日 的生日色：桃子酸奶 (`#FFC1B5`)
 

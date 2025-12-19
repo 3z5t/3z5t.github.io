@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![浅珊瑚](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_185.webp)
+![浅珊瑚](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_185.webp)
 ## 7月3日 的生日色：浅珊瑚 (`#F19292`)
 
 ### 1. 初见 浅珊瑚

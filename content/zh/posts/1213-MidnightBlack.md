@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![午夜黑](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_348.webp)
+![午夜黑](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_348.webp)
 
 ### 12月13日 的生日色：午夜黑 (`#141618`)
 

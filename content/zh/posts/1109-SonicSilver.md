@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![音速银](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_314.webp)
+![音速银](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_314.webp)
 
 ### 11月9日 的生日色：音速银 (`#767272`)
 

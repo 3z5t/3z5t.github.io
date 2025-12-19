@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![咖喱色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_175.webp)
+![咖喱色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_175.webp)
 
 ## 6月23日 的生日色：咖喱色 (`#D6A620`)
 

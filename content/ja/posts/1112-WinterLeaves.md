@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ウィンターリーブス](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_317.webp)
+![ウィンターリーブス](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_317.webp)
 
 ## 11月12日の誕生色: ウィンターリーブス (`#706863`)
 

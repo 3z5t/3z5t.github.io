@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![オクスリーグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_111.webp)
+![オクスリーグリーン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_111.webp)
 
 ## 4月20日の誕生色: オクスリーグリーン (`#669966`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![파스텔 핑크](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_082.webp)
+![파스텔 핑크](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_082.webp)
 
 ## 3월 22일의 탄생색: 파스텔 핑크 (`#FFD1DC`)
 

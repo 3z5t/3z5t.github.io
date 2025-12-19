@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![牡蛎粉](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_084.webp)
+![牡蛎粉](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_084.webp)
 
 ## 3月24日 的生日色：牡蛎粉 (#CEAAAD)
 

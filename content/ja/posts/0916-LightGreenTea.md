@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ライトグリーンティー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_260.webp)
+![ライトグリーンティー](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_260.webp)
 
 ## 9月16日の誕生色: ライトグリーンティー (`#ABA88A`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![秋粉](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_244.webp)
+![秋粉](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_244.webp)
 
 ## 8月31日 的生日色：秋粉 (`#CC8F8A`)
 

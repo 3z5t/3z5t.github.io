@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![深森林绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_009.webp)
+![深森林绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_009.webp)
 
 ## 1月9日的诞生色：深森林绿 (`#13191A`)
 

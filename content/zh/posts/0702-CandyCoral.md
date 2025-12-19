@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![糖果珊瑚](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_184.webp)
+![糖果珊瑚](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_184.webp)
 
 ## 7月2日 的生日色：糖果珊瑚 (`#F18372`)
 

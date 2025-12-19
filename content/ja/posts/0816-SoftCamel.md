@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ソフトキャメル](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_229.webp)
+![ソフトキャメル](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_229.webp)
 
 ## 8月16日の誕生色: ソフトキャメル (`#ECC586`)
 

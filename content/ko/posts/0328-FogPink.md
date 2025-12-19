@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![포그 핑크](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_088.webp)
+![포그 핑크](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_088.webp)
 
 ## 3월 28일의 탄생색: 포그 핑크 (`#E0CECE`)
 

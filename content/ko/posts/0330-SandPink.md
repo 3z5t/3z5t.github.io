@@ -13,6 +13,7 @@ tags:
 draft: false
 ---
 
+![SandPink](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_090.webp)
 ## 3월 30일의 탄생색: 샌드 핑크 (#F5C4AC)
 
 ### 1. 샌드 핑크에 대한 설명

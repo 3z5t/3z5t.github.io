@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ミッドナイトバイオレット](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_333.webp)
+![ミッドナイトバイオレット](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_333.webp)
 
 ## 11月28日の誕生色: ミッドナイトバイオレット (`#20202E`)
 

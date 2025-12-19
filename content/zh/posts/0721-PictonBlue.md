@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![皮克顿蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_203.webp)
+![皮克顿蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_203.webp)
 
 ## 7月21日 的生日色：皮克顿蓝 (`#6699CC`)
 

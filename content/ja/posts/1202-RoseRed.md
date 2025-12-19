@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ローズレッド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_337.webp)
+![ローズレッド](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_337.webp)
 
 ## 12月2日の誕生色: ローズレッド (`#8D1C1C`)
 

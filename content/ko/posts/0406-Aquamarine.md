@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![아쿠아마린](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_097.webp)
+![아쿠아마린](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_097.webp)
 
 ## 4월 6일의 탄생색: 아쿠아마린 (#99FFCC)
 

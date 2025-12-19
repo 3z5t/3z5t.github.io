@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Royal Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_351.webp)
+![Royal Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_351.webp)
 
 ## Birthday Color for December 16th: Royal Blue (`#1B76D8`)
 

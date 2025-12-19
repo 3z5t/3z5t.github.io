@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Volcano Brown](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_273.webp)
+![Volcano Brown](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_273.webp)
 
 ## Birthday Color for September 29th: Volcano Brown (`#675853`)
 

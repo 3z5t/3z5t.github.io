@@ -13,6 +13,7 @@ tags:
 draft: false
 ---
 
+![VitaLime](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_110.webp)
 ## 4월 19일의 탄생색: 비타 라임 (#D1D734)
 
 ### 1. 비타 라임에 대한 설명

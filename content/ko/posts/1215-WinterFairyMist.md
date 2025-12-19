@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![윈터 페어리 미스트](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_350.webp)
+![윈터 페어리 미스트](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_350.webp)
 
 ## 12월 15일의 탄생색: 윈터 페어리 미스트 (`#B3C4E5`)
 

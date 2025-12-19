@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Candy Coral](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_184.webp)
+![Candy Coral](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_184.webp)
 
 ## Birthday Color for July 2nd: Candy Coral (`#F18372`)
 

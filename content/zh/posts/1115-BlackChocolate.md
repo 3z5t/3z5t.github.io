@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![黑巧克力](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_320.webp)
+![黑巧克力](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_320.webp)
 
 ## 11月15日 的生日色：黑巧克力 (`#191616`)
 

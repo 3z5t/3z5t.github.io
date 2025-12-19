@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![冬日仙雾](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_350.webp)
+![冬日仙雾](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_350.webp)
 
 ## 12月15日 的生日色：冬日仙雾 (`#B3C4E5`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![크림](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_130.webp)
+![크림](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_130.webp)
 
 ## 5월 9일의 탄생색: 크림 (`#FFFFCC`)
 

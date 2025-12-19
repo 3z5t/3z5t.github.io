@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![灰薄荷](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_210.webp)
+![灰薄荷](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_210.webp)
 
 ## 7月28日 的生日色：灰薄荷 (`#ADCECE`)
 

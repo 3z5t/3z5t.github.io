@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![번트 우드](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_330.webp)
+![번트 우드](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_330.webp)
 
 ## 11월 25일의 탄생색: 번트 우드 (`#3F242D`)
 

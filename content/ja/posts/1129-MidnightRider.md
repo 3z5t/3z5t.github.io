@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ミッドナイトライダー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_334.webp)
+![ミッドナイトライダー](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_334.webp)
 
 ## 11月29日の誕生色: ミッドナイトライダー (`#333333`)
 

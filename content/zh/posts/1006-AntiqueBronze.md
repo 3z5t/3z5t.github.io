@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![古董青铜](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_280.webp)
+![古董青铜](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_280.webp)
 
 ## 10月6日 的生日色：古董青铜 (`#9B6066`)
 

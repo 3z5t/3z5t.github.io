@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![실버 블루](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_027.webp)
+![실버 블루](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_027.webp)
 
 ## 1월 27일의 탄생색: 실버 블루 (`#ABB5C1`)
 

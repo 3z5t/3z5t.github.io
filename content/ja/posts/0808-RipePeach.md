@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ライプピーチ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_221.webp)
+![ライプピーチ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_221.webp)
 
 ## 8月8日の誕生色: ライプピーチ (`#F8F3EA`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![午夜海军蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_326.webp)
+![午夜海军蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_326.webp)
 
 ## 11月21日 的生日色：午夜海军蓝 (`#000033`)
 

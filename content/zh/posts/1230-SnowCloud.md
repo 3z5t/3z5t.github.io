@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![雪云](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_365.webp)
+![雪云](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_365.webp)
 
 ## 12月30日 的生日色：雪云 (`#F1F5F7`)
 

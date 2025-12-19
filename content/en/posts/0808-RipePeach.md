@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Ripe Peach](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_221.webp)
+![Ripe Peach](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_221.webp)
 
 ## Birthday Color for August 8th: Ripe Peach (`#F8F3EA`)
 

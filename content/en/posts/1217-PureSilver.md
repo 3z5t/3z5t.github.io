@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Pure Silver](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_352.webp)
+![Pure Silver](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_352.webp)
 
 ## Birthday Color for December 17th: Pure Silver (`#E5E5E5`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Midnight Modern Black](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_331.webp)
+![Midnight Modern Black](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_331.webp)
 
 ## Birthday Color for November 26th: Midnight Modern Black (`#1A1A1B`)
 

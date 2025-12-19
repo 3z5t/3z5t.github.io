@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![经典酒红](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_055.webp)
+![经典酒红](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_055.webp)
 
 ## 2月24日 的生日色：经典酒红 (`#893751`)
 

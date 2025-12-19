@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![灰褐色](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_292.webp)
+![灰褐色](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_292.webp)
 
 ## 10月18日 的生日色：灰褐色 (`#805454`)
 

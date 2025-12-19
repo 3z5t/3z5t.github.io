@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ブルーラグーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_143.webp)
+![ブルーラグーン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_143.webp)
 
 ## 5月22日の誕生色: ブルーラグーン (`#006666`)
 

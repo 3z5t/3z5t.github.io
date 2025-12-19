@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![炭深灰](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_332.webp)
+![炭深灰](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_332.webp)
 
 ## 11月27日 的生日色：炭深灰 (`#2F2C2C`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ミントグリーン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_207.webp)
+![ミントグリーン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_207.webp)
 
 ## 7月25日の誕生色: ミントグリーン (`#99FF99`)
 

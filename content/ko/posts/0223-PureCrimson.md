@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![퓨어 크림슨](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_054.webp)
+![퓨어 크림슨](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_054.webp)
 
 ## 2월 23일의 탄생색: 퓨어 크림슨 (`#BA0046`)
 

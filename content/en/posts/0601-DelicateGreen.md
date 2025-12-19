@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Delicate Green](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_153.webp)
+![Delicate Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_153.webp)
 
 ## Birthday Color for June 1st: Delicate Green (`#7DDCC4`)
 

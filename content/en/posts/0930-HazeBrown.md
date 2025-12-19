@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Haze Brown](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_274.webp)
+![Haze Brown](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_274.webp)
 
 ## Birthday Color for September 30th: Haze Brown (`#9D8C7A`)
 

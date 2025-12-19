@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![サマーサンドビーチ](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_257.webp)
+![サマーサンドビーチ](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_257.webp)
 
 ## 9月13日の誕生色: サマーサンドビーチ (`#BF9F87`)
 

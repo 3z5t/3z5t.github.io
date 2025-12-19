@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![오션 스쿠터](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_149.webp)
+![오션 스쿠터](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_149.webp)
 
 ## 5월 28일의 탄생색: 오션 스쿠터 (`#339999`)
 

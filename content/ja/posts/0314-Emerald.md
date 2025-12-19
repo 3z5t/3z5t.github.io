@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![エメラルド](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_074.webp)
+![エメラルド](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_074.webp)
 
 ## 3月14日の誕生色: エメラルド (`#66CC66`)
 

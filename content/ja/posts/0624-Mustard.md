@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![マスタード](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_176.webp)
+![マスタード](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_176.webp)
 
 ## 6月24日の誕生色: マスタード (`#C29943`)
 

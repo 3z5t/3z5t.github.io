@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ロイヤルブルー](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_351.webp)
+![ロイヤルブルー](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_351.webp)
 
 ## 12月16日の誕生色: ロイヤルブルー (`#1B76D8`)
 

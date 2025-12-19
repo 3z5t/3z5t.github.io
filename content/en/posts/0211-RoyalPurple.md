@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Royal Purple](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_042.webp)
+![Royal Purple](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_042.webp)
 
 ## Birthday Color for February 11th: Royal Purple (`#800080`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Snow Cloud](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_365.webp)
+![Snow Cloud](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_365.webp)
 
 ## Birthday Color for December 30th: Snow Cloud (`#F1F5F7`)
 

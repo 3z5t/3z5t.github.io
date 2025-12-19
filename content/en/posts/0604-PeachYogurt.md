@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Peach Yogurt](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_156.webp)
+![Peach Yogurt](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_156.webp)
 
 ## Birthday Color for June 4th: Peach Yogurt (`#FFC1B5`)
 

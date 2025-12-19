@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Frost Blue](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_031.webp)
+![Frost Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_031.webp)
 
 ## Birthday Color for January 31st: Frost Blue (`#9999CC`)
 

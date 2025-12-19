@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![桃橙](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_155.webp)
+![桃橙](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_155.webp)
 
 ## 6月3日 的生日色：桃橙 (`#FFCC99`)
 

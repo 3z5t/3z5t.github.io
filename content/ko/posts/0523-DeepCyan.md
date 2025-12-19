@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![딥 시안](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_144.webp)
+![딥 시안](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_144.webp)
 
 ## 5월 23일의 탄생색: 딥 시안 (`#347691`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![石榴红](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_286.webp)
+![石榴红](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_286.webp)
 
 ## 10月12日 的生日色：石榴红 (`#AA0000`)
 

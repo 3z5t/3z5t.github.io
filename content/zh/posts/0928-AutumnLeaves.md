@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![秋叶](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_272.webp)
+![秋叶](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_272.webp)
 
 ## 9月28日 的生日色：秋叶 (`#362925`)
 

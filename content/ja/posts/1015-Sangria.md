@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![サングリア](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_289.webp)
+![サングリア](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_289.webp)
 
 ## 10月15日の誕生色: サングリア (`#990000`)
 

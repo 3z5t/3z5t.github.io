@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![绣球粉](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_089.webp)
+![绣球粉](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_089.webp)
 
 ## 3月29日 的生日色：绣球粉 (#FFBFCA)
 

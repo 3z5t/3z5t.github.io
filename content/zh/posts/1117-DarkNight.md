@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![暗夜](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_322.webp)
+![暗夜](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_322.webp)
 ## 11月17日 的生日色：暗夜 (`#2A2333`)
 
 ### 1. 初见 暗夜 (色彩印象与特征)

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Deep Coral](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_187.webp)
+![Deep Coral](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_187.webp)
 
 ## Birthday Color for July 5th: Deep Coral (`#743636`)
 

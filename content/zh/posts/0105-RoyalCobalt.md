@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![皇家钴蓝](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_005.webp)
+![皇家钴蓝](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_005.webp)
 
 ## 1月5日的诞生色：皇家钴蓝 (`#00009B`)
 

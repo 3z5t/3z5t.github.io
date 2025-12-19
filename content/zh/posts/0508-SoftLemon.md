@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![柔柠檬](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_129.webp)
+![柔柠檬](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_129.webp)
 
 **5月8日 的生日色：柔柠檬 (`#D5D679`)**
 

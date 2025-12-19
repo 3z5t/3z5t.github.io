@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![ローステッドグレイン](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ja/ja_262.webp)
+![ローステッドグレイン](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ja/ja_262.webp)
 
 ## 9月18日の誕生色: ローステッドグレイン (`#A09588`)
 

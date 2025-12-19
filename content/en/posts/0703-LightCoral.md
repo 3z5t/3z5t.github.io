@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Light Coral](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_185.webp)
+![Light Coral](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_185.webp)
 
 ## Birthday Color for July 3rd: Light Coral (`#F19292`)
 

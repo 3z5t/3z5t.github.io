@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![春绿](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_072.webp)
+![春绿](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_072.webp)
 
 ## 3月12日 的生日色：春绿 (`#00FF66`)
 

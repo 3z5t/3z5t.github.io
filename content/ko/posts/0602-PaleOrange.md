@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![페일 오렌지](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/ko/ko_154.webp)
+![페일 오렌지](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/ko/ko_154.webp)
 
 ## 6월 2일의 탄생색: 페일 오렌지 (`#FFEBB0`)
 

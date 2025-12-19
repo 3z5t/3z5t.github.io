@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![野草莓](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_195.webp)
+![野草莓](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_195.webp)
 
 ## 7月13日 的生日色：野草莓 (`#FF3399`)
 

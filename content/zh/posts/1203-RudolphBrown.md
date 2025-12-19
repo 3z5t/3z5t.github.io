@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![鲁道夫褐](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_338.webp)
+![鲁道夫褐](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_338.webp)
 
 ## 12月3日 的生日色：鲁道夫褐 (`#6C4D32`)
 

@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![维他青柠](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_110.webp)
+![维他青柠](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_110.webp)
 
 ## 4月19日 的生日色：维他青柠 (`#D1D734`)
 

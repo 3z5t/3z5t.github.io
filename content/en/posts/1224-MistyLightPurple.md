@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![Misty Light Purple](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/en/en_359.webp)
+![Misty Light Purple](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_359.webp)
 
 ## Birthday Color for December 24th: Misty Light Purple (`#7F7F9B`)
 

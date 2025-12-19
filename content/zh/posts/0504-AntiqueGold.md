@@ -13,7 +13,7 @@ tags:
 draft: false
 ---
 
-![古董金](https://cdn.jsdelivr.net/gh/3z5t/color-2026-images@main/images/zh/zh_125.webp)
+![古董金](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/zh/zh_125.webp)
 
 **5月4日 的生日色：古董金 (`#CFB53B`)**
 
