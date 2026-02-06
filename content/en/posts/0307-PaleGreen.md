@@ -1,21 +1,27 @@
 ---
-title: "Pale Green, The Birthday Color of March 7th"
-date: 2026-03-07
-description: "The birthday color for March 7th is Pale Green (98FB98). Its meaning is Delicate, Gentle, Harmonious."
-author: 365days
+title: "Pale Green, The Birthday Color of March 7"
+date: "2026-03-07"
+updated: "2026-03-07"
 tags:
-  - pale green
-  - birthday color
-  - march 7th
-  - 98fb98
-  - march
-  - mystic purple
-draft: false
+  - "pale green"
+  - "birthday color"
+  - "march 7"
+  - "98fb98"
+  - "march"
+  - "mystic purple"
+description: "The birthday color for March 7 is Pale Green (98FB98). Its meaning is Delicate, Gentle, Harmonious."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEishN-NVctOHq6v-FwfTzFsi0m3YUpyp0hPIeFDiklrkKOESnJSmjjgR7Ur5eDkT_nn890quCGhMnz3mFEx1Dti5uXExxxAikKubN-HqYtjpZkULwSczojqaxe91T-2fN32m4IQMFRbFgl8KhvWqxte2ezgxXXUVU0q1ycMJFVu3kVrUvd8WxR1tsa1Gz7b=s1600"
+en_name: "PaleGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Pale Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_067.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEishN-NVctOHq6v-FwfTzFsi0m3YUpyp0hPIeFDiklrkKOESnJSmjjgR7Ur5eDkT_nn890quCGhMnz3mFEx1Dti5uXExxxAikKubN-HqYtjpZkULwSczojqaxe91T-2fN32m4IQMFRbFgl8KhvWqxte2ezgxXXUVU0q1ycMJFVu3kVrUvd8WxR1tsa1Gz7b=s1600)
 
-## Birthday Color for March 7th: Pale Green (`#98FB98`)
+
+## Birthday Color for March 7: Pale Green (`#98FB98`)
 
 ### 1. Description of Pale Green (Feeling and Traits)
 
@@ -39,7 +45,7 @@ When it comes to **interior design**, **Pale Green** is the perfect shade for cr
 
 ### 4. Plus Tip (Destiny Color)
 
-For an added touch of **mystical energy**, combine **Pale Green** with **Mystic Purple**, the birthday color of **February 6th**. The pairing of these colors creates a soothing yet powerful balance, combining the calmness of green with the intuitive, spiritual energy of purple—perfect for creating a harmonious space or cultivating a peaceful yet **deeply spiritual vibe**.
+For an added touch of **mystical energy**, combine **Pale Green** with **Mystic Purple**, the birthday color of **February 6**. The pairing of these colors creates a soothing yet powerful balance, combining the calmness of green with the intuitive, spiritual energy of purple—perfect for creating a harmonious space or cultivating a peaceful yet **deeply spiritual vibe**.
 
 ### 5. Conclusion (A Poem of Healing)
 

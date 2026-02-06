@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjlXfuG-d3vmfIulWkVAkE9Y9jE01Gj8H-IAQ467ZsFCEfzAts8zAZo9UHppHh3pULWMNceDi4sECZ3vmC-l-WA9-2FNemwRe4ivpC3OmJiAFdIsuPa1r4l1kWoyXkGMgwGOWI2oFig_-Z4EHEp0W6plJ3sEnlFvSUthOcaMhsZBRA9rBbyNGHj_6zfNxIA=s1600)
+
 ## 12월 10일의 탄생색: 겨울 밀크티 (`#F2EDF3`)
 
 ### 1. 겨울 밀크티에 대한 설명 (색의 느낌과 특징)

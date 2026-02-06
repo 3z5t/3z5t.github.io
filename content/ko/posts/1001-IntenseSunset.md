@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEitl93vJvdwI1Y7pSU4g_7P60Cgn5anbRt8pHXIVlWQgkEe6b-2gQoxQczjgSKrWPZMJbraf5mfC6hEJ8WgSzLQ9Z2P1erOiI-S5gkW6cFOUQ75NxfAG4AEwEKvUpbjC0oqfvRcqeXiuLapGNZvv5sPqIU5Zfjdyak2LeEYvNjD13pW4eW_STFBOX-WWX_5=s1600)
+
 ## 10월 1일의 탄생색: 강렬한 석양 (`#BC5445`)
 
 ### 1. 강렬한 석양에 대한 설명: 하루의 가장 찬란한 클라이맥스

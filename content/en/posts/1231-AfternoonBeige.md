@@ -1,21 +1,27 @@
 ---
-title: "Afternoon Beige, The Birthday Color of December 31st"
-date: 2026-12-31
-description: "The birthday color for December 31st is Afternoon Beige (F5F5F5). Its meaning is Enjoying Reminiscence, Expectant, Hopeful."
-author: 365days
+title: "Afternoon Beige, The Birthday Color of December 31"
+date: "2026-12-31"
+updated: "2026-12-31"
 tags:
-  - afternoon beige
-  - birthday color
-  - december 31st
-  - f5f5f5
-  - december
-  - deep abyss
-draft: false
+  - "afternoon beige"
+  - "birthday color"
+  - "december 31"
+  - "f5f5f5"
+  - "december"
+  - "deep abyss"
+description: "The birthday color for December 31 is Afternoon Beige (F5F5F5). Its meaning is Enjoying Reminiscence, Expectant, Hopeful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiHCKX5UgdjoRQ8KMYlDGybVXVRXbmVHJhM3VDlYdeG9TUgUQEBF3VOarvf9qvGoZ5RDcxeFPoKhPDcjjXGWrIM8cJZJrXn6NyDd0NRM-e3T5gB140tznv6m3dbELbB3ec2m65a6wAHV_R5Nk9ucKLUwrynpUnLTdxVYWfH_igh_RVN1L6aWI1c9T67v5oT=s1600"
+en_name: "AfternoonBeige"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Afternoon Beige](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_366.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiHCKX5UgdjoRQ8KMYlDGybVXVRXbmVHJhM3VDlYdeG9TUgUQEBF3VOarvf9qvGoZ5RDcxeFPoKhPDcjjXGWrIM8cJZJrXn6NyDd0NRM-e3T5gB140tznv6m3dbELbB3ec2m65a6wAHV_R5Nk9ucKLUwrynpUnLTdxVYWfH_igh_RVN1L6aWI1c9T67v5oT=s1600)
 
-## Birthday Color for December 31st: Afternoon Beige (`#F5F5F5`)
+
+## Birthday Color for December 31: Afternoon Beige (`#F5F5F5`)
 
 ### 1. Description of Afternoon Beige (Feeling and Traits)
 
@@ -37,7 +43,7 @@ In interiors, **Afternoon Beige** is a wonderfully versatile choice for creating
 
 ### 4. Plus Tip (Destiny Color)
 
-As a subtle addition, the partner color **Deep Abyss**, born on **November 19th**, adds a profound depth when paired with **Afternoon Beige**. While **Afternoon Beige** brings lightness and calm, **Deep Abyss** introduces a sense of **mystery** and **serenity**, making the combination truly **balanced** and complementary. It’s a pairing that invites both **reflection** and **clarity**, offering the perfect blend of hope and **depth**.
+As a subtle addition, the partner color **Deep Abyss**, born on **November 19**, adds a profound depth when paired with **Afternoon Beige**. While **Afternoon Beige** brings lightness and calm, **Deep Abyss** introduces a sense of **mystery** and **serenity**, making the combination truly **balanced** and complementary. It’s a pairing that invites both **reflection** and **clarity**, offering the perfect blend of hope and **depth**.
 
 ### 5. Conclusion (A Poem of Healing)
 

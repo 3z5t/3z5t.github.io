@@ -1,21 +1,27 @@
 ---
-title: "Deep Abyss, The Birthday Color of November 19th"
-date: 2026-11-19
-description: "The birthday color for November 19th is Deep Abyss (0D0D10). Its meaning is Infinite, Mysterious, Profound."
-author: 365days
+title: "Deep Abyss, The Birthday Color of November 19"
+date: "2026-11-19"
+updated: "2026-11-19"
 tags:
-  - deep abyss
-  - birthday color
-  - november 19th
-  - 0d0d10
-  - november
-  - lily white
-draft: false
+  - "deep abyss"
+  - "birthday color"
+  - "november 19"
+  - "0d0d10"
+  - "november"
+  - "lily white"
+description: "The birthday color for November 19 is Deep Abyss (0D0D10). Its meaning is Infinite, Mysterious, Profound."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjUtgayle2KlX3HKAjvOPLkzmRZ3S74_wnu28Lz12JSu6xGdX96Dfx02XD1Lx4pa_PGBQJ7YpqaT8XLyAOpY-doRE_mQ1gsCOV4BmluEmzCVSXVFQXVxFyZDIR9_jw57k5H54b60FmgZ1XshLO_CEYCFi47EVeXXQUdg0KbMZ88uxyMHmUfXeue9PW_lJfr=s1600"
+en_name: "DeepAbyss"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Deep Abyss](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_324.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjUtgayle2KlX3HKAjvOPLkzmRZ3S74_wnu28Lz12JSu6xGdX96Dfx02XD1Lx4pa_PGBQJ7YpqaT8XLyAOpY-doRE_mQ1gsCOV4BmluEmzCVSXVFQXVxFyZDIR9_jw57k5H54b60FmgZ1XshLO_CEYCFi47EVeXXQUdg0KbMZ88uxyMHmUfXeue9PW_lJfr=s1600)
 
-## Birthday Color for November 19th: Deep Abyss (`#0D0D10`)
+
+## Birthday Color for November 19: Deep Abyss (`#0D0D10`)
 
 ### 1. Description of Deep Abyss (Feeling and Traits)
 
@@ -39,7 +45,7 @@ For beauty, **Deep Abyss** makes for an incredibly dramatic eyeliner or lip colo
 
 ### 4. Plus Tip (Destiny Color)
 
-**Lily White** (Hex: `#F3F1EF`), the birthday color of **August 9th**, complements **Deep Abyss** beautifully. The purity and nobility of **Lily White** provide a perfect contrast to the profound depth of **Deep Abyss**, creating an elegant and harmonious balance between light and dark. The combination of these two colors brings both mystery and clarity into the world of those born under their influence, making for a dynamic and powerful synergy.
+**Lily White** (Hex: `#F3F1EF`), the birthday color of **August 9**, complements **Deep Abyss** beautifully. The purity and nobility of **Lily White** provide a perfect contrast to the profound depth of **Deep Abyss**, creating an elegant and harmonious balance between light and dark. The combination of these two colors brings both mystery and clarity into the world of those born under their influence, making for a dynamic and powerful synergy.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,21 +1,27 @@
 ---
-title: "Misty Light Purple, The Birthday Color of December 24th"
-date: 2026-12-24
-description: "The birthday color for December 24th is Misty Light Purple (7F7F9B). Its meaning is Mysterious, Subtle, Expectant."
-author: 365days
+title: "Misty Light Purple, The Birthday Color of December 24"
+date: "2026-12-24"
+updated: "2026-12-24"
 tags:
-  - misty light purple
-  - birthday color
-  - december 24th
-  - 7f7f9b
-  - december
-  - bright brown
-draft: false
+  - "misty light purple"
+  - "birthday color"
+  - "december 24"
+  - "7f7f9b"
+  - "december"
+  - "bright brown"
+description: "The birthday color for December 24 is Misty Light Purple (7F7F9B). Its meaning is Mysterious, Subtle, Expectant."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEirT2g7lDCY_uZLfg5MjSX92YkJWTXOGwf5_MUc9Wlg6sNXy9huLbPiGs2AxK1XE6i25iybyoWqPQG4VkLgNujXE_JnRpCLTxN5iiZhwIm3EwLEPEviH8QZqGQhVF1hlxyEQyAVJ3Wo7S_H3QiizUa4SfDMibjSphvJ64-s4seSNYaFc9F2NKcEXFyi48LR=s1600"
+en_name: "MistyLightPurple"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Misty Light Purple](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_359.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEirT2g7lDCY_uZLfg5MjSX92YkJWTXOGwf5_MUc9Wlg6sNXy9huLbPiGs2AxK1XE6i25iybyoWqPQG4VkLgNujXE_JnRpCLTxN5iiZhwIm3EwLEPEviH8QZqGQhVF1hlxyEQyAVJ3Wo7S_H3QiizUa4SfDMibjSphvJ64-s4seSNYaFc9F2NKcEXFyi48LR=s1600)
 
-## Birthday Color for December 24th: Misty Light Purple (`#7F7F9B`)
+
+## Birthday Color for December 24: Misty Light Purple (`#7F7F9B`)
 
 ### 1. Description of Misty Light Purple (Feeling and Traits)
 
@@ -41,7 +47,7 @@ For interiors, **Misty Light Purple** works wonders in **bedrooms** or **studios
 
 ### 4. Plus Tip (Destiny Color)
 
-**Bright Brown**, the birthday color of September 19th, brings a grounding element to the ethereal **Misty Light Purple**. While **Misty Light Purple** speaks to mystery and creative potential, **Bright Brown** adds warmth and **stability**—a perfect balance. When combined, they create a serene yet dynamic synergy that captures both the **mystery of the unknown** and the **comfort of grounded reality**.
+**Bright Brown**, the birthday color of September 19, brings a grounding element to the ethereal **Misty Light Purple**. While **Misty Light Purple** speaks to mystery and creative potential, **Bright Brown** adds warmth and **stability**—a perfect balance. When combined, they create a serene yet dynamic synergy that captures both the **mystery of the unknown** and the **comfort of grounded reality**.
 
 ### 5. Conclusion (A Poem of Healing)
 

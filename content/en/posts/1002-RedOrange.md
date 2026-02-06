@@ -1,21 +1,27 @@
 ---
-title: "Red Orange, The Birthday Color of October 2nd"
-date: 2026-10-02
-description: "The birthday color for October 2nd is Red Orange (FF3333). Its meaning is Vibrant, Energetic, Dynamic."
-author: 365days
+title: "Red Orange, The Birthday Color of October 2"
+date: "2026-10-02"
+updated: "2026-10-02"
 tags:
-  - red orange
-  - birthday color
-  - october 2nd
-  - ff3333
-  - october
-  - noble sky blue
-draft: false
+  - "red orange"
+  - "birthday color"
+  - "october 2"
+  - "ff3333"
+  - "october"
+  - "noble sky blue"
+description: "The birthday color for October 2 is Red Orange (FF3333). Its meaning is Vibrant, Energetic, Dynamic."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjW4ERvwutkzyMX3awz3rIUKIJ4m83b65-F7vsofHsozePSMOPwe-9Kz-RYRggwjJq8e3H8t6c_gqi5kpAdhO1Z9p0ndiDJKmrHe7izIyiao0rVfmIpVy8acWEAZyfw53u90hLbAAObytWwkWiEgcaJ5qaEfEz13NgToqcM7BIYK-ZmNy_wtD4w3dOlpY9I=s1600"
+en_name: "RedOrange"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Red Orange](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_276.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjW4ERvwutkzyMX3awz3rIUKIJ4m83b65-F7vsofHsozePSMOPwe-9Kz-RYRggwjJq8e3H8t6c_gqi5kpAdhO1Z9p0ndiDJKmrHe7izIyiao0rVfmIpVy8acWEAZyfw53u90hLbAAObytWwkWiEgcaJ5qaEfEz13NgToqcM7BIYK-ZmNy_wtD4w3dOlpY9I=s1600)
 
-## Birthday Color for October 2nd: Red Orange (`#FF3333`)
+
+## Birthday Color for October 2: Red Orange (`#FF3333`)
 
 ### 1. **Description of Red Orange (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ Those born under the influence of **Red Orange** are naturally **dynamic** indiv
 
 ### 4. **Plus Tip (Destiny Color)**
 
-When **Red Orange** is paired with **Noble Sky Blue**, the birthday color of December 18th, a beautiful balance is struck. **Noble Sky Blue** offers a refreshing, calming influence, while **Red Orange** brings that dynamic, fiery passion. Together, they create an atmosphere of **vibrant optimism** with a touch of tranquility, making it the perfect duo for anyone who wants to feel both energized and centered.
+When **Red Orange** is paired with **Noble Sky Blue**, the birthday color of December 18, a beautiful balance is struck. **Noble Sky Blue** offers a refreshing, calming influence, while **Red Orange** brings that dynamic, fiery passion. Together, they create an atmosphere of **vibrant optimism** with a touch of tranquility, making it the perfect duo for anyone who wants to feel both energized and centered.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

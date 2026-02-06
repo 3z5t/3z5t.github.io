@@ -1,21 +1,27 @@
 ---
-title: "Bright Green, The Birthday Color of May 14th"
-date: 2026-05-14
-description: "The birthday color for May 14th is Bright Green (66FF00). Its meaning is Vitality, Creativity, Progressive."
-author: 365days
+title: "Bright Green, The Birthday Color of May 14"
+date: "2026-05-14"
+updated: "2026-05-14"
 tags:
-  - bright green
-  - birthday color
-  - may 14th
-  - 66ff00
-  - may
-  - mystic purple
-draft: false
+  - "bright green"
+  - "birthday color"
+  - "may 14"
+  - "66ff00"
+  - "may"
+  - "mystic purple"
+description: "The birthday color for May 14 is Bright Green (66FF00). Its meaning is Vitality, Creativity, Progressive."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgeVsyaLs_2kuJ8ZRdYghgofkqymTcw7ZdIiZ3BUEpQ_trV37757BwkrqV9gWCDRMIT3Di5ZICrhD_VEVCO7czFcZXSJL4-lMNqRT5wOU1GNBkFgSpg6Ven9ddwMlZLGICDBltSMpFctuxUgmE9qXtBy7wzIKN0pM0YBYH-ceWCOLE9UAeo5vBMkEyM1YXP=s1600"
+en_name: "BrightGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Bright Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_135.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgeVsyaLs_2kuJ8ZRdYghgofkqymTcw7ZdIiZ3BUEpQ_trV37757BwkrqV9gWCDRMIT3Di5ZICrhD_VEVCO7czFcZXSJL4-lMNqRT5wOU1GNBkFgSpg6Ven9ddwMlZLGICDBltSMpFctuxUgmE9qXtBy7wzIKN0pM0YBYH-ceWCOLE9UAeo5vBMkEyM1YXP=s1600)
 
-## Birthday Color for May 14th: Bright Green (`#66FF00`)
+
+## Birthday Color for May 14: Bright Green (`#66FF00`)
 
 ### 1. Description of Bright Green (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Bright Green** is a bold yet uplifting choice. It can be worn as a
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **May 14th**, combining **Bright Green** with **Mystic Purple** (Hex: `#9900FF`), the birthday color of **July 12th**, creates a dynamic synergy. The deep, mysterious qualities of **Mystic Purple** beautifully complement the **vibrant** energy of **Bright Green**, making this combination a perfect balance of creativity and mystique.
+For those born on **May 14**, combining **Bright Green** with **Mystic Purple** (Hex: `#9900FF`), the birthday color of **July 12**, creates a dynamic synergy. The deep, mysterious qualities of **Mystic Purple** beautifully complement the **vibrant** energy of **Bright Green**, making this combination a perfect balance of creativity and mystique.
 
 ### 5. Conclusion (A Poem of Healing)
 

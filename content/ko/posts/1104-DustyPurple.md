@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgosrvndUUa8r0_Kxu1kUU0bxf7oc9vgSKuITSWkC6lC8tFoDSwto01XGKnj-ZY3VSHjmibc49pMb8UHlfwtig3O24OipVU9ACeo7zj-wd5kbTL0CmQy18d6eU7ybPl_WteJZE6ALtM169KZVxqoQeeYIImekVMyAcW87LT2Ls9VGnr71X00YvivOGeuQnk=s1600)
+
 ## 11월 4일의 탄생색: 더스티 퍼플 (`#746B7A`)
 
 ### 1. 더스티 퍼플에 대한 설명: 안개 낀 새벽의 라벤더 밭을 닮은 몽환적인 빛

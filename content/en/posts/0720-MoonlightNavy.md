@@ -1,21 +1,27 @@
 ---
-title: "Moonlight Navy, The Birthday Color of July 20th"
-date: 2026-07-20
-description: "The birthday color for July 20th is Moonlight Navy (0A576C). Its meaning is Profound, Calm, Wise."
-author: 365days
+title: "Moonlight Navy, The Birthday Color of July 20"
+date: "2026-07-20"
+updated: "2026-07-20"
 tags:
-  - moonlight navy
-  - birthday color
-  - july 20th
-  - 0a576c
-  - july
-  - mona lisa
-draft: false
+  - "moonlight navy"
+  - "birthday color"
+  - "july 20"
+  - "0a576c"
+  - "july"
+  - "mona lisa"
+description: "The birthday color for July 20 is Moonlight Navy (0A576C). Its meaning is Profound, Calm, Wise."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhONTpJligEYdlToho824I13QfabPZH7U65gK-a2TEH52ZvzB7R4gjUHik4WmBo0YmEaQvcg1bNGybxecP1-3ZbrYH3moRNqNfAsaHrSRcdpQUZsgk6-M7GEUeGMPRUUGN0hCJZWYcX3o_DIPkJBLgKWI4VzEQpvR2dkvQGarKdOLDEIG-iTV9KOWn0vm_1=s1600"
+en_name: "MoonlightNavy"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Moonlight Navy](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_202.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhONTpJligEYdlToho824I13QfabPZH7U65gK-a2TEH52ZvzB7R4gjUHik4WmBo0YmEaQvcg1bNGybxecP1-3ZbrYH3moRNqNfAsaHrSRcdpQUZsgk6-M7GEUeGMPRUUGN0hCJZWYcX3o_DIPkJBLgKWI4VzEQpvR2dkvQGarKdOLDEIG-iTV9KOWn0vm_1=s1600)
 
-## Birthday Color for July 20th: Moonlight Navy (`#0A576C`)
+
+## Birthday Color for July 20: Moonlight Navy (`#0A576C`)
 
 ### 1. Description of Moonlight Navy (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Moonlight Navy** speaks volumes about **sophistication** and **dep
 
 ### 4. Plus Tip (Destiny Color)
 
-For a harmonious combination, consider pairing **Moonlight Navy** with **Mona Lisa**, the birthday color for July 17th. The fusion of **profound calmness** from Moonlight Navy with the **artistic beauty** of Mona Lisa creates a balanced, serene atmosphere that promotes both **creativity** and **wisdom**.
+For a harmonious combination, consider pairing **Moonlight Navy** with **Mona Lisa**, the birthday color for July 17. The fusion of **profound calmness** from Moonlight Navy with the **artistic beauty** of Mona Lisa creates a balanced, serene atmosphere that promotes both **creativity** and **wisdom**.
 
 ### 5. Conclusion (A Poem of Healing)
 

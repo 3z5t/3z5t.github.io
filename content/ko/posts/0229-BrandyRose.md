@@ -17,6 +17,9 @@ postId: "6443676090545741573"
 postUrl: https://the366days-ko.blogspot.com
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEipyZg1OyNs67rS94-sJYzrtkC6beXn-wZ2Af3By5akry6nzKowo-6C-hknYMcWEN8FOahrjVtMcLthGpLwt3Wo0HYVHjwXHZ31orlZbkadY8AalXib7BQEPikgNNVeFgn46fud5_GZ6BdTGIfyed2bnFM-KzbYoPiOXpBebkT8raYiTr0Yz2U8_UPToP4H=s1600)
+
+
 ## 2월 29일의 탄생색: 브랜디 로즈 (`#B58A7B`)
 
 ### 1. 브랜디 로즈에 대한 설명 (색의 느낌과 특징)

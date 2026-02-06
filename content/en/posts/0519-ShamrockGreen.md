@@ -1,21 +1,27 @@
 ---
-title: "Shamrock Green, The Birthday Color of May 19th"
-date: 2026-05-19
-description: "The birthday color for May 19th is Shamrock Green (009966). Its meaning is Success Luck, Luck, Prosperity."
-author: 365days
+title: "Shamrock Green, The Birthday Color of May 19"
+date: "2026-05-19"
+updated: "2026-05-19"
 tags:
-  - shamrock green
-  - birthday color
-  - may 19th
-  - 009966
-  - may
-  - brilliant rose
-draft: false
+  - "shamrock green"
+  - "birthday color"
+  - "may 19"
+  - "009966"
+  - "may"
+  - "brilliant rose"
+description: "The birthday color for May 19 is Shamrock Green (009966). Its meaning is Success Luck, Luck, Prosperity."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi9PUcSKSGUPdPdD7AiQY1hHLzfLOIE_M0KXQpHZc9oTpXXY_LO6UtTLqhYaZIIfdRe0l38njVHX4HtqlYHUrSWKak0W_Z-yHaLgZDKdw_UOu3JSTNyksDK66yphw97SDAamwOcwBmzFsCOqpwmwVrc2KFUOn-_Yb3TnkY7P7I9A1CE7QroRIwDvwghrZG8=s1600"
+en_name: "ShamrockGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Shamrock Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_140.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi9PUcSKSGUPdPdD7AiQY1hHLzfLOIE_M0KXQpHZc9oTpXXY_LO6UtTLqhYaZIIfdRe0l38njVHX4HtqlYHUrSWKak0W_Z-yHaLgZDKdw_UOu3JSTNyksDK66yphw97SDAamwOcwBmzFsCOqpwmwVrc2KFUOn-_Yb3TnkY7P7I9A1CE7QroRIwDvwghrZG8=s1600)
 
-## Birthday Color for May 19th: Shamrock Green (`#009966`)
+
+## Birthday Color for May 19: Shamrock Green (`#009966`)
 
 ### 1. Description of Shamrock Green (Feeling and Traits)
 
@@ -31,7 +37,7 @@ When you first lay eyes on **Shamrock Green**, you feel the weight of **luck** a
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **May 19th**, combining **Shamrock Green** with **Brilliant Rose** (Hex: `#FF6699`), the birthday color of **February 17th**, creates a beautifully harmonious synergy. While **Shamrock Green** brings **luck** and **prosperity**, **Brilliant Rose** adds a burst of **hope** and **positivity**, creating a vibrant energy that is both uplifting and fulfilling.
+For those born on **May 19**, combining **Shamrock Green** with **Brilliant Rose** (Hex: `#FF6699`), the birthday color of **February 17**, creates a beautifully harmonious synergy. While **Shamrock Green** brings **luck** and **prosperity**, **Brilliant Rose** adds a burst of **hope** and **positivity**, creating a vibrant energy that is both uplifting and fulfilling.
 
 ### 5. Conclusion (A Poem of Healing)
 

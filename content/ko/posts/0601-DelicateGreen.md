@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhJ6KgKMTsuoMnVf0v-dDBIDglv1zSkGIY8HoxgoiMT5w_CZQKvG0jFYi8q-qLfdpv46Zi_qvXgsw6uROXV6ebeNGeaUBdVOzeL02VumjJ8XPc7VE6dPNAH8tlcJqu20cs9ZQr6dVoKkJnFlsRkb0YxZ4N6qZ9RSukGYD-aEmlU15g2L8qouXofXXJRTBFd=s1600)
+
 ## 6월 1일의 탄생색: 델리케이트 그린 (`#7DDCC4`)
 
 ### 1. 델리케이트 그린에 대한 설명: 초여름의 문을 여는 투명한 속삭임

@@ -1,21 +1,27 @@
 ---
-title: "Evening Sky, The Birthday Color of September 4th"
-date: 2026-09-04
-description: "The birthday color for September 4th is Evening Sky (071734). Its meaning is Meditative, Calm, Intuitive."
-author: 365days
+title: "Evening Sky, The Birthday Color of September 4"
+date: "2026-09-04"
+updated: "2026-09-04"
 tags:
-  - evening sky
-  - birthday color
-  - september 4th
-  - 071734
-  - september
-  - bisque
-draft: false
+  - "evening sky"
+  - "birthday color"
+  - "september 4"
+  - "071734"
+  - "september"
+  - "bisque"
+description: "The birthday color for September 4 is Evening Sky (071734). Its meaning is Meditative, Calm, Intuitive."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEihCamCraIFpJ6wASXZSRqTsim5hfUkIjLHLiE_Q4Ez6HKs9kpYo8vU1utgdmxUDPzphtN0b5SISWO-6J1SBeiT48h8_oMQGm8Q2QEf1T3ZRSROR2dLwkybJ11MdpP7t9BP6CUv84dQGKnIIsR2Ivh4U9gi5QtbO3F-3RmV7x0R8VQEiZhp9UbDZxw_IoYf=s1600"
+en_name: "EveningSky"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Evening Sky](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_248.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEihCamCraIFpJ6wASXZSRqTsim5hfUkIjLHLiE_Q4Ez6HKs9kpYo8vU1utgdmxUDPzphtN0b5SISWO-6J1SBeiT48h8_oMQGm8Q2QEf1T3ZRSROR2dLwkybJ11MdpP7t9BP6CUv84dQGKnIIsR2Ivh4U9gi5QtbO3F-3RmV7x0R8VQEiZhp9UbDZxw_IoYf=s1600)
 
-## Birthday Color for September 4th: Evening Sky (`#071734`)
+
+## Birthday Color for September 4: Evening Sky (`#071734`)
 
 ### 1. Description of Evening Sky (Feeling and Traits)
 
@@ -37,7 +43,7 @@ For interior design, **Evening Sky** is ideal for creating rooms that foster dee
 
 ### 4. Plus Tip (Destiny Color)
 
-Pairing **Evening Sky** with **Bisque**, the birthday color for August 4th, creates a harmonious blend of **calm** and **warmth**. While **Evening Sky** brings a sense of **meditative peace**, **Bisque** adds a layer of **coziness** and **stability**, making them an ideal combination for creating a serene and balanced atmosphere.
+Pairing **Evening Sky** with **Bisque**, the birthday color for August 4, creates a harmonious blend of **calm** and **warmth**. While **Evening Sky** brings a sense of **meditative peace**, **Bisque** adds a layer of **coziness** and **stability**, making them an ideal combination for creating a serene and balanced atmosphere.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,21 +1,27 @@
 ---
-title: "Maroon, The Birthday Color of October 14th"
-date: 2026-10-14
-description: "The birthday color for October 14th is Maroon (800000). Its meaning is Stable, Mature, Wise."
-author: 365days
+title: "Maroon, The Birthday Color of October 14"
+date: "2026-10-14"
+updated: "2026-10-14"
 tags:
-  - maroon
-  - birthday color
-  - october 14th
-  - 800000
-  - october
-  - baby blue
-draft: false
+  - "maroon"
+  - "birthday color"
+  - "october 14"
+  - "800000"
+  - "october"
+  - "baby blue"
+description: "The birthday color for October 14 is Maroon (800000). Its meaning is Stable, Mature, Wise."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgn3908q-3I62BlzMJ8gjNDjoRYhf4ueP9Mr3rh9_zsvd2n3hM0odddwaqIv6-zRTh9McmbZiA30eAdy_bquHEBxp1c2CK7fCwoLAlWI1INEfLpGsQYTaEqizWR3BoVQ9nlcZBZI2L8ZHlHw5shgEW_QKgV9jLDO1tmJO9LttpUGa3cky9kdiVq1xIg8-Gi=s1600"
+en_name: "Maroon"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Maroon](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_288.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgn3908q-3I62BlzMJ8gjNDjoRYhf4ueP9Mr3rh9_zsvd2n3hM0odddwaqIv6-zRTh9McmbZiA30eAdy_bquHEBxp1c2CK7fCwoLAlWI1INEfLpGsQYTaEqizWR3BoVQ9nlcZBZI2L8ZHlHw5shgEW_QKgV9jLDO1tmJO9LttpUGa3cky9kdiVq1xIg8-Gi=s1600)
 
-## Birthday Color for October 14th: Maroon (`#800000`)
+
+## Birthday Color for October 14: Maroon (`#800000`)
 
 ### 1. **Description of Maroon (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ For those born under the influence of **Maroon**, there’s an undeniable sense 
 
 ### 4. **Plus Tip (Destiny Color)**
 
-When combined with **Baby Blue**, the birthday color of **July 23rd**, you create an intriguing **balance** of energy. **Maroon’s depth and stability** are beautifully complemented by the **lightness and serenity** of **Baby Blue**, making them a perfect match to create a peaceful yet dynamic synergy in your surroundings and life.
+When combined with **Baby Blue**, the birthday color of **July 23**, you create an intriguing **balance** of energy. **Maroon’s depth and stability** are beautifully complemented by the **lightness and serenity** of **Baby Blue**, making them a perfect match to create a peaceful yet dynamic synergy in your surroundings and life.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

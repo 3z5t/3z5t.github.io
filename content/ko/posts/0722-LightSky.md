@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjr-cSwjSxMhimvvAyYZMEbTJbKPG9Fo89WFFm8qDc1RlEodh2qem5ntKx4uCHLYaekwXns9JHZEcyd4D2X2Dnp4w4HQKFfAla2mhNYLo9l9CdJJoPrz2rxdZpELTTqOVhkT7nbxSEaFGYjCezRuWrfOsa3Er0IEuI080mwLTYzbSBFT79I_fHQcgwOtmI1=s1600)
+
 ## 7월 22일의 탄생색: 라이트 스카이 (`#3DDAEE`)
 
 ### 1. 라이트 스카이에 대한 설명: 탄산수처럼 톡 쏘는 여름의 청량함

@@ -1,21 +1,24 @@
 ---
-title: "Royal Violet, The Birthday Color of February 8th"
-date: 2026-02-08
-description: "The birthday color for February 8th is Royal Violet (32127A). Its meaning is Philosophical, Meditative, Insightful."
-author: 365days
-tags:
-  - royal violet
-  - birthday color
-  - february 8th
-  - 32127a
-  - february
-  - soft lemon
-draft: false
+"title": "Royal Violet, The Birthday Color of February 8"
+"date": "2026-02-08"
+"updated": "2026-02-08"
+"labels":
+- "royal violet"
+- "birthday color"
+- "february 8"
+- "32127a"
+- "february"
+- "soft lemon"
+"description": "The birthday color for February 8 is Royal Violet (32127A). Its meaning is Philosophical, Meditative, Insightful."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhUaTmUlguXQrYzMKk8uLmtX1OD1KB5Tir8JrImbHzCZzrCSPIyAjaQ76D0ARyo-SV4ZIn-L8M8E0ejYx07nEF4o6VZAhga0ZB_VOIXfkkRikqsRG-TUNnakT-yqpGhdHDVliKEEEfJaH0y7UwXRaqmkE6aS2fuBCRUpSZJCS_l8Qfez4S2fANYZJYKf7Lj=s1600"
+"en_name": "RoyalViolet"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "5290508543685886450"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/royal-violet-birthday-color-of-february.html"
 ---
 
-![Royal Violet](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_039.webp)
-
-## Birthday Color for February 8th: Royal Violet (`#32127A`)
+## Birthday Color for February 8: Royal Violet (`#32127A`)
 
 ### 1. Description of Royal Violet (Feeling and Traits)
 
@@ -31,7 +34,7 @@ When it comes to **fashion**, **Royal Violet** speaks of **elegance** and **refi
 
 ### 4. Plus Tip (Destiny Color)
 
-To complement **Royal Violet** and bring a bit of **lightness** to its profound depths, consider pairing it with **Soft Lemon** (Hex: `#D5D679`), the birthday color of May 8th. **Soft Lemon** brings warmth, **optimism**, and a refreshing contrast, creating a beautiful balance between the deep, meditative nature of **Royal Violet** and the lively energy of **Soft Lemon**. Together, they create an atmosphere that is both **intellectually stimulating** and **inviting**, perfect for finding harmony between **deep thought** and **joyful lightness**.
+To complement **Royal Violet** and bring a bit of **lightness** to its profound depths, consider pairing it with **Soft Lemon** (Hex: `#D5D679`), the birthday color of May 8. **Soft Lemon** brings warmth, **optimism**, and a refreshing contrast, creating a beautiful balance between the deep, meditative nature of **Royal Violet** and the lively energy of **Soft Lemon**. Together, they create an atmosphere that is both **intellectually stimulating** and **inviting**, perfect for finding harmony between **deep thought** and **joyful lightness**.
 
 ### 5. Conclusion (A Poem of Healing)
 

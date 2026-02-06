@@ -1,21 +1,27 @@
 ---
-title: "Medium Turquoise, The Birthday Color of July 27th"
-date: 2026-07-27
-description: "The birthday color for July 27th is Medium Turquoise (33CCCC). Its meaning is Profound, Stable, Peaceful."
-author: 365days
+title: "Medium Turquoise, The Birthday Color of July 27"
+date: "2026-07-27"
+updated: "2026-07-27"
 tags:
-  - medium turquoise
-  - birthday color
-  - july 27th
-  - 33cccc
-  - july
-  - prussian red
-draft: false
+  - "medium turquoise"
+  - "birthday color"
+  - "july 27"
+  - "33cccc"
+  - "july"
+  - "prussian red"
+description: "The birthday color for July 27 is Medium Turquoise (33CCCC). Its meaning is Profound, Stable, Peaceful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEifhMShshpf5xd-1gkLws3HC-jVpQvPs9Ea6SofsEZy6aH6d0vAxbcPQyQL2DHpJG-SrNaWyPAyRd51DuWbnQPNtyX0HNLw_siQIwSCgUTkKo8tu_8CubSbbYknL0H2809Xwk0a1hDcT2A7FbLtwAEw0Cwnl_Qe3u0S5vlA2OMGcJ7xNcqDiXeRgukh3Tww=s1600"
+en_name: "MediumTurquoise"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Medium Turquoise](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_209.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEifhMShshpf5xd-1gkLws3HC-jVpQvPs9Ea6SofsEZy6aH6d0vAxbcPQyQL2DHpJG-SrNaWyPAyRd51DuWbnQPNtyX0HNLw_siQIwSCgUTkKo8tu_8CubSbbYknL0H2809Xwk0a1hDcT2A7FbLtwAEw0Cwnl_Qe3u0S5vlA2OMGcJ7xNcqDiXeRgukh3Tww=s1600)
 
-## Birthday Color for July 27th: Medium Turquoise (`#33CCCC`)
+
+## Birthday Color for July 27: Medium Turquoise (`#33CCCC`)
 
 ### 1. Description of Medium Turquoise (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In **fashion**, **Medium Turquoise** is a standout color that brings both **eleg
 
 ### 4. Plus Tip (Destiny Color)
 
-For a dynamic pairing, **Medium Turquoise** blends beautifully with **Prussian Red**, the birthday color of October 23rd. **Prussian Red** brings a sense of **strength** and **decisiveness**, making it the perfect partner to **Medium Turquoise’s** calm and reflective nature. Together, these two colors balance **action** and **reflection**, creating a synergy of power and serenity.
+For a dynamic pairing, **Medium Turquoise** blends beautifully with **Prussian Red**, the birthday color of October 23. **Prussian Red** brings a sense of **strength** and **decisiveness**, making it the perfect partner to **Medium Turquoise’s** calm and reflective nature. Together, these two colors balance **action** and **reflection**, creating a synergy of power and serenity.
 
 ### 5. Conclusion (A Poem of Healing)
 

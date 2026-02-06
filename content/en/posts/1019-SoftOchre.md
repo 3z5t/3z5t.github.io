@@ -1,21 +1,27 @@
 ---
-title: "Soft Ochre, The Birthday Color of October 19th"
-date: 2026-10-19
-description: "The birthday color for October 19th is Soft Ochre (926630). Its meaning is Earth-like, Abundant, Stable."
-author: 365days
+title: "Soft Ochre, The Birthday Color of October 19"
+date: "2026-10-19"
+updated: "2026-10-19"
 tags:
-  - soft ochre
-  - birthday color
-  - october 19th
-  - 926630
-  - october
-  - picton blue
-draft: false
+  - "soft ochre"
+  - "birthday color"
+  - "october 19"
+  - "926630"
+  - "october"
+  - "picton blue"
+description: "The birthday color for October 19 is Soft Ochre (926630). Its meaning is Earth-like, Abundant, Stable."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEibyv3l6d-MMJhx2M3VK99t9nOqZ-GKUJ84qxvn2p1XjaYLINmqW-ebqIYSCE8svOEEvK6kz5RZ5eG0KNvY4dOFfvcGpFhnvL6cVWJ8GB0eaw7kJw1yae6yVme74wuZoVK6QSa5jrOG-Y3Afe6WH1KAjNEhm-Cn6-e9I1sQxKjAoKdmY0TKpkMCYQXyTffI=s1600"
+en_name: "SoftOchre"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Soft Ochre](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_293.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEibyv3l6d-MMJhx2M3VK99t9nOqZ-GKUJ84qxvn2p1XjaYLINmqW-ebqIYSCE8svOEEvK6kz5RZ5eG0KNvY4dOFfvcGpFhnvL6cVWJ8GB0eaw7kJw1yae6yVme74wuZoVK6QSa5jrOG-Y3Afe6WH1KAjNEhm-Cn6-e9I1sQxKjAoKdmY0TKpkMCYQXyTffI=s1600)
 
-## Birthday Color for October 19th: Soft Ochre (`#926630`)
+
+## Birthday Color for October 19: Soft Ochre (`#926630`)
 
 ### 1. **Description of Soft Ochre (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ When it comes to **fashion**, **Soft Ochre** shines as a neutral that brings war
 
 ### 4. **Plus Tip (Destiny Color)**
 
-When paired with **Picton Blue**, the birthday color of **July 21st**, **Soft Ochre** finds its perfect balance. The refreshing, peaceful qualities of **Picton Blue** contrast beautifully with the earth-like warmth of **Soft Ochre**, creating a harmonious combination that is both calming and energizing.
+When paired with **Picton Blue**, the birthday color of **July 21**, **Soft Ochre** finds its perfect balance. The refreshing, peaceful qualities of **Picton Blue** contrast beautifully with the earth-like warmth of **Soft Ochre**, creating a harmonious combination that is both calming and energizing.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

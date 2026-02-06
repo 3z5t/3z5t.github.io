@@ -1,21 +1,27 @@
 ---
-title: "Wheat Field, The Birthday Color of June 28th"
-date: 2026-06-28
-description: "The birthday color for June 28th is Wheat Field (B89A6D). Its meaning is Abundance, Gratitude, Prosperity."
-author: 365days
+title: "Wheat Field, The Birthday Color of June 28"
+date: "2026-06-28"
+updated: "2026-06-28"
 tags:
-  - wheat field
-  - birthday color
-  - june 28th
-  - b89a6d
-  - june
-  - elegant ultramarine
-draft: false
+  - "wheat field"
+  - "birthday color"
+  - "june 28"
+  - "b89a6d"
+  - "june"
+  - "elegant ultramarine"
+description: "The birthday color for June 28 is Wheat Field (B89A6D). Its meaning is Abundance, Gratitude, Prosperity."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjZRFl8rEBka3SiQN1NoRIk9jVP98v5X6J8DxOPzXmiUDrnHnRPbGbTKcdNosxxbLbRl8GWjUoMvz0NKUhvYsWQEUMAh_sdsC0JsyUchpVNehi9dpy_Aney7uQSALHUF4_tlxjdeRcMzJCN8WnK4K4GdRdpbY-dag5DG-OSL8WWqDqFj79CgiWFKb6j8Yoz=s1600"
+en_name: "WheatField"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Wheat Field](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_180.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjZRFl8rEBka3SiQN1NoRIk9jVP98v5X6J8DxOPzXmiUDrnHnRPbGbTKcdNosxxbLbRl8GWjUoMvz0NKUhvYsWQEUMAh_sdsC0JsyUchpVNehi9dpy_Aney7uQSALHUF4_tlxjdeRcMzJCN8WnK4K4GdRdpbY-dag5DG-OSL8WWqDqFj79CgiWFKb6j8Yoz=s1600)
 
-## Birthday Color for June 28th: Wheat Field (`#B89A6D`)
+
+## Birthday Color for June 28: Wheat Field (`#B89A6D`)
 
 ### 1. Description of Wheat Field (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Wheat Field** can be a beautiful, **soft** alternative to brighter
 
 ### 4. Plus Tip (Destiny Color)
 
-Wheat Field also pairs beautifully with **Elegant Ultramarine** (Hex: `#445B97`), the birthday color for January 10th. Together, they create a harmonious **synergy**—the warm, earthy tones of Wheat Field complementing the deep, **reliable** richness of Elegant Ultramarine. This pairing brings balance to the energetic optimism of Wheat Field, grounding it with the strength and stability that Ultramarine provides.
+Wheat Field also pairs beautifully with **Elegant Ultramarine** (Hex: `#445B97`), the birthday color for January 10. Together, they create a harmonious **synergy**—the warm, earthy tones of Wheat Field complementing the deep, **reliable** richness of Elegant Ultramarine. This pairing brings balance to the energetic optimism of Wheat Field, grounding it with the strength and stability that Ultramarine provides.
 
 ### 5. Conclusion (A Poem of Healing)
 

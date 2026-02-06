@@ -1,21 +1,27 @@
 ---
-title: "Carrot, The Birthday Color of June 13th"
-date: 2026-06-13
-description: "The birthday color for June 13th is Carrot (EB731C). Its meaning is Healthy Mind, Vitality, Positivity."
-author: 365days
+title: "Carrot, The Birthday Color of June 13"
+date: "2026-06-13"
+updated: "2026-06-13"
 tags:
-  - carrot
-  - birthday color
-  - june 13th
-  - eb731c
-  - june
-  - cyan blue
-draft: false
+  - "carrot"
+  - "birthday color"
+  - "june 13"
+  - "eb731c"
+  - "june"
+  - "cyan blue"
+description: "The birthday color for June 13 is Carrot (EB731C). Its meaning is Healthy Mind, Vitality, Positivity."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhLYMcZxat0HwjogehSGmpSE0bXwkvDvy7lGRTOCIvIuMGFnLATl2ZmqjkfwlxaHrIeSKC6YyK85enQGMU1PQwA4bOaBzAzkrOnC2UU5v_V001YOHnUsF_C3grFOMe2TFAqJkiMmC1YWD_NbXsxMrYOvFU6mQN8_oZziATcPA2v4QQ35UU9Ha4381A1uRpO=s1600"
+en_name: "Carrot"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Carrot](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_165.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhLYMcZxat0HwjogehSGmpSE0bXwkvDvy7lGRTOCIvIuMGFnLATl2ZmqjkfwlxaHrIeSKC6YyK85enQGMU1PQwA4bOaBzAzkrOnC2UU5v_V001YOHnUsF_C3grFOMe2TFAqJkiMmC1YWD_NbXsxMrYOvFU6mQN8_oZziATcPA2v4QQ35UU9Ha4381A1uRpO=s1600)
 
-## Birthday Color for June 13th: Carrot (`#EB731C`)
+
+## Birthday Color for June 13: Carrot (`#EB731C`)
 
 ### 1. Description of Carrot (Feeling and Traits)
 
@@ -33,7 +39,7 @@ In home décor, **Carrot** brings a **warmth** and **inviting feel** to any spac
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Cyan Blue**, the birthday color of **July 31st**, **Carrot** creates a beautiful balance between **vibrancy** and **calm**. While **Carrot** brings warmth and **energy**, **Cyan Blue** brings a sense of **coolness** and **clarity**, making them the perfect pair for **synergy**. Together, they create a harmonious environment that encourages both **action** and **reflection**, offering a sense of balance and inspiration.
+When combined with **Cyan Blue**, the birthday color of **July 31**, **Carrot** creates a beautiful balance between **vibrancy** and **calm**. While **Carrot** brings warmth and **energy**, **Cyan Blue** brings a sense of **coolness** and **clarity**, making them the perfect pair for **synergy**. Together, they create a harmonious environment that encourages both **action** and **reflection**, offering a sense of balance and inspiration.
 
 ### 5. Conclusion (A Poem of Healing)
 

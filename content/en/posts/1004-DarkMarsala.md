@@ -1,21 +1,27 @@
 ---
-title: "Dark Marsala, The Birthday Color of October 4th"
-date: 2026-10-04
-description: "The birthday color for October 4th is Dark Marsala (A4665D). Its meaning is Profound, Abundant, Stable."
-author: 365days
+title: "Dark Marsala, The Birthday Color of October 4"
+date: "2026-10-04"
+updated: "2026-10-04"
 tags:
-  - dark marsala
-  - birthday color
-  - october 4th
-  - a4665d
-  - october
-  - autumn sky
-draft: false
+  - "dark marsala"
+  - "birthday color"
+  - "october 4"
+  - "a4665d"
+  - "october"
+  - "autumn sky"
+description: "The birthday color for October 4 is Dark Marsala (A4665D). Its meaning is Profound, Abundant, Stable."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgO9jAL2gqg-HHC_vLEf_ECTCugY9qYtufZqfYZ5BdTvNoGZdfO6cYhqrnF1WNAXBV91qPV_31oVOF4pIPEA39MWmayNZCvHutVMEICLK0RilZFQVw7WTkAJfRqY3gJXlGOPqwBDK-lytRvUnfavdFaJTAh4axBFrhpnVCmwKigT_H5Uc2wqNgQNtn2PBYZ=s1600"
+en_name: "DarkMarsala"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Dark Marsala](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_278.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgO9jAL2gqg-HHC_vLEf_ECTCugY9qYtufZqfYZ5BdTvNoGZdfO6cYhqrnF1WNAXBV91qPV_31oVOF4pIPEA39MWmayNZCvHutVMEICLK0RilZFQVw7WTkAJfRqY3gJXlGOPqwBDK-lytRvUnfavdFaJTAh4axBFrhpnVCmwKigT_H5Uc2wqNgQNtn2PBYZ=s1600)
 
-## Birthday Color for October 4th: Dark Marsala (`#A4665D`)
+
+## Birthday Color for October 4: Dark Marsala (`#A4665D`)
 
 ### 1. **Description of Dark Marsala (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ When it comes to **fashion**, **Dark Marsala** exudes sophistication and eleganc
 
 ### 4. **Plus Tip (Destiny Color)**
 
-Combining **Dark Marsala** with **Autumn Sky**, the birthday color of **September 1st**, creates a harmonious balance of **grounded richness** and **clear, idealistic vision**. Together, they offer a blend of **stability** and **creativity**, making this duo perfect for anyone looking to blend **practical wisdom** with **creative thinking**.
+Combining **Dark Marsala** with **Autumn Sky**, the birthday color of **September 1**, creates a harmonious balance of **grounded richness** and **clear, idealistic vision**. Together, they offer a blend of **stability** and **creativity**, making this duo perfect for anyone looking to blend **practical wisdom** with **creative thinking**.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

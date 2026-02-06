@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjh-PPVizZQRWCLCW2PQMC86f-2PxkDRCTkxumUuCEOYLPnQXc76rYqMjno6CvYWYYvQmCaXczSi-ujlyEzkg1Lt04xb16TXI1HZDAsqOoonKUSlviCUSTOMtJuJeHeV_YPr21DSrIvGUM9i8o8U2e9fIu0Gxde4N8Cd786jkfVFWvlboOdLFGsniFIUmWh=s1600)
+
 ## 11월 10일의 탄생색: 딤 그레이 (`#666666`)
 
 ### 1. 딤 그레이에 대한 설명: 빛과 어둠이 만나 빚어낸 가장 깊은 침묵

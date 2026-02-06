@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj3RIyQxbWcvh6fZcB_YDZ3y5gyInkf6GAu0LRIInwXgovczOovJWCrDpT3XFwWmGffAwPKehQUuZqDahbj1RJnPL9TuqdohGHURWRW52jteNKbSdqvJJ0upul-KpZXEaj1lMIWYRZKqbbc_dMru1G-K4ZsOKndjrzGRsCjC6dWsQNjQrvgpGgVNRKwdJQ3=s1600)
+
 ## 3월 3일의 탄생색: 프레쉬 민트 (`#64D1C3`)
 
 ### 1. 프레쉬 민트에 대한 설명 (색의 느낌과 특징)

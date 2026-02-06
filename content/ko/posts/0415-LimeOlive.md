@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh6vxsPbdMIEkuj7ISxvuSomxpMkAp9UYhL168LQYf8M92GsnS9LYM9ao1dYSv0X38WKXUBq6C3QraXTdvf26sNdDvfWmmkyi-YioFn8ew1FyJZIGjs19kP1UbCxXN7IlXzsUnDdEaVyDfAHt4fC-rX3AMxsfN9ovWSdMu7neLm08lxVt7O8SE6VIigTVt8=s1600)
+
 ## 4월 15일의 탄생색: 라임 올리브 (`#B8C249`)
 
 ### 1. 라임 올리브에 대한 설명 (색의 느낌과 특징)

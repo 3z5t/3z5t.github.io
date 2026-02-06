@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiceVwQnYsp_dkmCLgJJJ7h-tcPY_AXuBaBdY4lB0ZdhgbWXZtL2iBT_3TPiVNGE9TuU6HEisSYsC-L0iS3FR4b2x7LY_HmuDIKouU5O5VrwG6b1ooQEYWQMmLAOkUdljNxRvu17dN8GEnCxGfJfSxDN_Qnmcz6oJTe38-huo-qZRK-bkfmL4iBRWdCY3gq=s1600)
+
 ## 10월 3일의 탄생색: 클래식 레드 (`#C61400`)
 
 ### 1. 클래식 레드에 대한 설명: 시대를 초월한 가장 절대적인 매혹

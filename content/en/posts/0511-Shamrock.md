@@ -1,20 +1,27 @@
 ---
-title: "Shamrock, The Birthday Color of May 11th"
-date: 2026-05-11
-description: "The birthday color for May 11th is Shamrock (33CC99). Its meaning is Luck, Inspiration, Creativity."
-author: 365days
+title: "Shamrock, The Birthday Color of May 11"
+date: "2026-05-11"
+updated: "2026-05-11"
 tags:
-  - shamrock
-  - birthday color
-  - may 11th
-  - 33cc99
-  - may
-  - plum
-draft: false
+  - "shamrock"
+  - "birthday color"
+  - "may 11"
+  - "33cc99"
+  - "may"
+  - "plum"
+description: "The birthday color for May 11 is Shamrock (33CC99). Its meaning is Luck, Inspiration, Creativity."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhuk-l85C02oa3mmgx-9r2r7fDXgbG1D564_8O5FU3KFMWno-gz9p76DWAWedS7n0yRZpFEcVXzDCEO0jFSWm-_jgzmGTDuEIrRpAC-EIK52qbQIpBteKvs_d1shne3lXnGM4HEmBfYryp0Wp-dA8_PUyAggAN7zQyXpOkMFgxg2LNqsySKkfSS2x_iyCNA=s1600"
+en_name: "Shamrock"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Shamrock](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_132.webp)
-## Birthday Color for May 11th: Shamrock (`#33CC99`)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhuk-l85C02oa3mmgx-9r2r7fDXgbG1D564_8O5FU3KFMWno-gz9p76DWAWedS7n0yRZpFEcVXzDCEO0jFSWm-_jgzmGTDuEIrRpAC-EIK52qbQIpBteKvs_d1shne3lXnGM4HEmBfYryp0Wp-dA8_PUyAggAN7zQyXpOkMFgxg2LNqsySKkfSS2x_iyCNA=s1600)
+
+
+## Birthday Color for May 11: Shamrock (`#33CC99`)
 
 ### 1. Description of Shamrock (Feeling and Traits)
 
@@ -30,7 +37,7 @@ When styling with **Shamrock**, think of it as a breath of fresh air that adds l
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **May 11th**, combining **Shamrock** with **Plum** (Hex: `#CD3070`), the birthday color of **February 26th**, creates a harmonious balance. While **Shamrock** brings energy and inspiration, **Plum** adds a touch of depth, enjoyment, and positivity, creating a synergy that celebrates both creativity and fulfillment.
+For those born on **May 11**, combining **Shamrock** with **Plum** (Hex: `#CD3070`), the birthday color of **February 26**, creates a harmonious balance. While **Shamrock** brings energy and inspiration, **Plum** adds a touch of depth, enjoyment, and positivity, creating a synergy that celebrates both creativity and fulfillment.
 
 ### 5. Conclusion (A Poem of Healing)
 

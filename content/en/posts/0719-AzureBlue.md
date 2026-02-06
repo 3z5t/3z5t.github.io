@@ -1,21 +1,27 @@
 ---
-title: "Azure Blue, The Birthday Color of July 19th"
-date: 2026-07-19
-description: "The birthday color for July 19th is Azure Blue (1E90FF). Its meaning is Cool Personality, Clear, Lively."
-author: 365days
+title: "Azure Blue, The Birthday Color of July 19"
+date: "2026-07-19"
+updated: "2026-07-19"
 tags:
-  - azure blue
-  - birthday color
-  - july 19th
-  - 1e90ff
-  - july
-  - carrot
-draft: false
+  - "azure blue"
+  - "birthday color"
+  - "july 19"
+  - "1e90ff"
+  - "july"
+  - "carrot"
+description: "The birthday color for July 19 is Azure Blue (1E90FF). Its meaning is Cool Personality, Clear, Lively."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgUClj9WcEEGLeXnjkr9w2DKpoMebLHOirwztJOAFqRmKWP_Qe6uqtwl7E29Y1UPTuUIr1uSXUFfUrvzh-N5MFMUypR6ndx774MIs3h_GifxCaJTpJ4FiU06tSF5BAtSsdawQdGcVQmpU5F8z4vjhbsbOhmB5ayP6-N9rDNPTDgiJVnPXfZqDrAXQuR-v85=s1600"
+en_name: "AzureBlue"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Azure Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_201.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgUClj9WcEEGLeXnjkr9w2DKpoMebLHOirwztJOAFqRmKWP_Qe6uqtwl7E29Y1UPTuUIr1uSXUFfUrvzh-N5MFMUypR6ndx774MIs3h_GifxCaJTpJ4FiU06tSF5BAtSsdawQdGcVQmpU5F8z4vjhbsbOhmB5ayP6-N9rDNPTDgiJVnPXfZqDrAXQuR-v85=s1600)
 
-## Birthday Color for July 19th: Azure Blue (`#1E90FF`)
+
+## Birthday Color for July 19: Azure Blue (`#1E90FF`)
 
 ### 1. Description of Azure Blue (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Azure Blue** is the perfect color for someone who wants to be noti
 
 ### 4. Plus Tip (Destiny Color)
 
-For an interesting twist, try combining **Azure Blue** with **Carrot**, the birthday color for June 13th. The **vibrant energy** of Carrot complements the cool clarity of Azure Blue, creating a synergy that is both **refreshing** and **dynamic**.
+For an interesting twist, try combining **Azure Blue** with **Carrot**, the birthday color for June 13. The **vibrant energy** of Carrot complements the cool clarity of Azure Blue, creating a synergy that is both **refreshing** and **dynamic**.
 
 ### 5. Conclusion (A Poem of Healing)
 

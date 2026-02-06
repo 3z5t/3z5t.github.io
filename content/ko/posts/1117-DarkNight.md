@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjdmP4JNzDPB6I341NmtbkdWvLMQ1oJ5fqwCHJuzviZoRgHnz34Wwt38YLj5Yyejd8gTyBjWalLbRVgdJIuBZK6a-GYHzf3CoCwCIi1oHZ-m7tcNZh33w633-pts1pD5uXFbbPi_PctFPv9I2koA2G1DjcEUL-fGZON4w1lVmlF7jpnBZj2llAZ8pQTUv17=s1600)
+
 ## 11월 17일의 탄생색: 어두운 밤 (`#2A2333`)
 
 ### 1. 어두운 밤에 대한 설명: 영혼의 커튼이 내려지는 가장 깊은 보랏빛 흑색

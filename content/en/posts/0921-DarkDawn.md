@@ -1,21 +1,27 @@
 ---
-title: "Dark Dawn, The Birthday Color of September 21st"
-date: 2026-09-21
-description: "The birthday color for September 21st is Dark Dawn (3D4247). Its meaning is New Beginning, Hopeful, Challenging."
-author: 365days
+title: "Dark Dawn, The Birthday Color of September 21"
+date: "2026-09-21"
+updated: "2026-09-21"
 tags:
-  - dark dawn
-  - birthday color
-  - september 21st
-  - 3d4247
-  - september
-  - misty sky
-draft: false
+  - "dark dawn"
+  - "birthday color"
+  - "september 21"
+  - "3d4247"
+  - "september"
+  - "misty sky"
+description: "The birthday color for September 21 is Dark Dawn (3D4247). Its meaning is New Beginning, Hopeful, Challenging."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgJRcl9mTlFeFOUx5RFjDHNewEi7S36CsC23Pcc1rGUbbq_z9lE0V7mmQM8CS99_B9psZpVdOp8oXsAXLO52CHFU7pTaw88mTqST0tFTLMDrUywjIa5CPxmrpkEtnRqD05n9SJgllUoofXwGdljtBuLq-yPsVN9sS_hhWm_8fjDmEi9dJUTm1LhcdtdhhEA=s1600"
+en_name: "DarkDawn"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Dark Dawn](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_265.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgJRcl9mTlFeFOUx5RFjDHNewEi7S36CsC23Pcc1rGUbbq_z9lE0V7mmQM8CS99_B9psZpVdOp8oXsAXLO52CHFU7pTaw88mTqST0tFTLMDrUywjIa5CPxmrpkEtnRqD05n9SJgllUoofXwGdljtBuLq-yPsVN9sS_hhWm_8fjDmEi9dJUTm1LhcdtdhhEA=s1600)
 
-## Birthday Color for September 21st: Dark Dawn (`#3D4247`)
+
+## Birthday Color for September 21: Dark Dawn (`#3D4247`)
 
 ### 1. **Description of Dark Dawn (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ Styling with **Dark Dawn** is all about creating an atmosphere that feels **grou
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For those looking to balance the powerful energy of **Dark Dawn**, try pairing it with **Misty Sky**, the birthday color for January 25th. **Misty Sky's** soft, **intuitive** hues blend beautifully with Dark Dawn’s deep tones, creating a serene yet **dynamic** contrast. Together, they offer the perfect balance of **strength** and **sensitivity**, fostering a space where both **action** and **reflection** can thrive.
+For those looking to balance the powerful energy of **Dark Dawn**, try pairing it with **Misty Sky**, the birthday color for January 25. **Misty Sky's** soft, **intuitive** hues blend beautifully with Dark Dawn’s deep tones, creating a serene yet **dynamic** contrast. Together, they offer the perfect balance of **strength** and **sensitivity**, fostering a space where both **action** and **reflection** can thrive.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

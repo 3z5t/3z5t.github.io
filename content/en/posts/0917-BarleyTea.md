@@ -1,21 +1,27 @@
 ---
-title: "Barley Tea, The Birthday Color of September 17th"
-date: 2026-09-17
-description: "The birthday color for September 17th is Barley Tea (BD844B). Its meaning is Traditional, Familiar yet New, Inclusive."
-author: 365days
+title: "Barley Tea, The Birthday Color of September 17"
+date: "2026-09-17"
+updated: "2026-09-17"
 tags:
-  - barley tea
-  - birthday color
-  - september 17th
-  - bd844b
-  - september
-  - dark turquoise
-draft: false
+  - "barley tea"
+  - "birthday color"
+  - "september 17"
+  - "bd844b"
+  - "september"
+  - "dark turquoise"
+description: "The birthday color for September 17 is Barley Tea (BD844B). Its meaning is Traditional, Familiar yet New, Inclusive."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjfXz-VqinebJMnWO1P71FaV7uxwiPHc95waoXnmLmpWWurkMu22TtKI2JqKOv8dETr-1MLQtMBEYYv5VriObgGKBNAdlxQx-s-ivj95cpGOVo6Ysd4PB8mwpcy9teFwq6ffWyF_Zwp5LECcPfSJdIcS4Br8rE_y9j9pkLnZvo5sHEFFC-B9ajbkmdp4W9B=s1600"
+en_name: "BarleyTea"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Barley Tea](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_261.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjfXz-VqinebJMnWO1P71FaV7uxwiPHc95waoXnmLmpWWurkMu22TtKI2JqKOv8dETr-1MLQtMBEYYv5VriObgGKBNAdlxQx-s-ivj95cpGOVo6Ysd4PB8mwpcy9teFwq6ffWyF_Zwp5LECcPfSJdIcS4Br8rE_y9j9pkLnZvo5sHEFFC-B9ajbkmdp4W9B=s1600)
 
-## Birthday Color for September 17th: Barley Tea (`#BD844B`)
+
+## Birthday Color for September 17: Barley Tea (`#BD844B`)
 
 ### 1. **Description of Barley Tea (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ When it comes to styling with **Barley Tea**, the key is to embrace its **earthy
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For those who are feeling adventurous, try combining **Barley Tea** with its **destiny partner color**, **Dark Turquoise** (May 24th). This pairing creates a stunning visual contrast—**Barley Tea's warmth** and **Dark Turquoise’s depth** work in harmony, offering a **balanced** yet **captivating combination**.
+For those who are feeling adventurous, try combining **Barley Tea** with its **destiny partner color**, **Dark Turquoise** (May 24). This pairing creates a stunning visual contrast—**Barley Tea's warmth** and **Dark Turquoise’s depth** work in harmony, offering a **balanced** yet **captivating combination**.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

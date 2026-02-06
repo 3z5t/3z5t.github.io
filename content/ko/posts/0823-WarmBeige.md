@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi8fJPJQe8OJoiUK_K2b2TowkBZwd4tfgsxtsfXLDi4HLa_I8lgcV5B40ueC4cAl7vQkOHC2KVU3j6hHSEbINCy3-zWx0NlI-gAYLXxWgRgAwv0DxYdiEeO2kXxkXrkzwkQCAO0YpbUHNfQoeyp4fFWRFk5wCqsRDkc1pr489VUtvtJBOY7f1_N0d1WIfth=s1600)
+
 ## 8월 23일의 탄생색: 웜 베이지 (`#B69174`)
 
 ### 1. 웜 베이지에 대한 설명: 대지의 품처럼 깊고 그윽한 위로

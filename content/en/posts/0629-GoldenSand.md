@@ -1,21 +1,27 @@
 ---
-title: "Golden Sand, The Birthday Color of June 29th"
-date: 2026-06-29
-description: "The birthday color for June 29th is Golden Sand (CBA135). Its meaning is Patience, Endurance, Persistence."
-author: 365days
+title: "Golden Sand, The Birthday Color of June 29"
+date: "2026-06-29"
+updated: "2026-06-29"
 tags:
-  - golden sand
-  - birthday color
-  - june 29th
-  - cba135
-  - june
-  - royal blue
-draft: false
+  - "golden sand"
+  - "birthday color"
+  - "june 29"
+  - "cba135"
+  - "june"
+  - "royal blue"
+description: "The birthday color for June 29 is Golden Sand (CBA135). Its meaning is Patience, Endurance, Persistence."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgCQSL7XXFyVEl-w0P0Wy9-otwlPN0JWkyIv6qTeH1-oPTk9byc_QtldajY81qmsyzFbE2vXNIKZLd0ads0LGgOf9agsy3RG_ulYz6dsThv7tyMwguI3WQOoQd9GelGM_IJLH2r0r5tbznjZ9rTilD-RhdLYRZvsGJ_2iQ-5InoIKo9B1QRnzq36XY0V0S9=s1600"
+en_name: "GoldenSand"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Golden Sand](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_181.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgCQSL7XXFyVEl-w0P0Wy9-otwlPN0JWkyIv6qTeH1-oPTk9byc_QtldajY81qmsyzFbE2vXNIKZLd0ads0LGgOf9agsy3RG_ulYz6dsThv7tyMwguI3WQOoQd9GelGM_IJLH2r0r5tbznjZ9rTilD-RhdLYRZvsGJ_2iQ-5InoIKo9B1QRnzq36XY0V0S9=s1600)
 
-## Birthday Color for June 29th: Golden Sand (`#CBA135`)
+
+## Birthday Color for June 29: Golden Sand (`#CBA135`)
 
 ### 1. Description of Golden Sand (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Golden Sand** is a color that exudes understated elegance. Think o
 
 ### 4. Plus Tip (Destiny Color)
 
-Golden Sand pairs beautifully with **Royal Blue** (Hex: `#1B76D8`), the birthday color for December 16th. Together, they create a powerful synergy—Golden Sand’s **grounded** patience and endurance complement the deep **class** and **profound** energy of Royal Blue, offering a perfect balance between warmth and depth.
+Golden Sand pairs beautifully with **Royal Blue** (Hex: `#1B76D8`), the birthday color for December 16. Together, they create a powerful synergy—Golden Sand’s **grounded** patience and endurance complement the deep **class** and **profound** energy of Royal Blue, offering a perfect balance between warmth and depth.
 
 ### 5. Conclusion (A Poem of Healing)
 

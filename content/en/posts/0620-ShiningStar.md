@@ -1,21 +1,27 @@
 ---
-title: "Shining Star, The Birthday Color of June 20th"
-date: 2026-06-20
-description: "The birthday color for June 20th is Shining Star (EAAB5B). Its meaning is Shining Talent, Hopeful, Influence."
-author: 365days
+title: "Shining Star, The Birthday Color of June 20"
+date: "2026-06-20"
+updated: "2026-06-20"
 tags:
-  - shining star
-  - birthday color
-  - june 20th
-  - eaab5b
-  - june
-  - elegant ultramarine
-draft: false
+  - "shining star"
+  - "birthday color"
+  - "june 20"
+  - "eaab5b"
+  - "june"
+  - "elegant ultramarine"
+description: "The birthday color for June 20 is Shining Star (EAAB5B). Its meaning is Shining Talent, Hopeful, Influence."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgalSwon2qWUb5sQPewg173tekq4n2_L2y--OT4VTkH9kAa6kkV9XyGfpftrJD_JG89N-oH4glw-2rLKpNostr2SCDVFl-gtEGxWmpDXXb4EO7FMrI3_KjNz4Q8XThSblAT_-87ZWE_V1KurzLJTpVOonf52pdp43IlRvKZjJqxLKNabqU2PHyutHlbLRmY=s1600"
+en_name: "ShiningStar"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Shining Star](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_172.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgalSwon2qWUb5sQPewg173tekq4n2_L2y--OT4VTkH9kAa6kkV9XyGfpftrJD_JG89N-oH4glw-2rLKpNostr2SCDVFl-gtEGxWmpDXXb4EO7FMrI3_KjNz4Q8XThSblAT_-87ZWE_V1KurzLJTpVOonf52pdp43IlRvKZjJqxLKNabqU2PHyutHlbLRmY=s1600)
 
-## Birthday Color for June 20th: Shining Star (`#EAAB5B`)
+
+## Birthday Color for June 20: Shining Star (`#EAAB5B`)
 
 ### 1. Description of Shining Star (Feeling and Traits)
 
@@ -37,7 +43,7 @@ For **interior design**, **Shining Star** brings a sense of brightness and vital
 
 ### 4. Plus Tip (Destiny Color)
 
-Looking to create even more impact? **Shining Star** pairs beautifully with **Elegant Ultramarine**, the birthday color of **January 10th**. Together, these colors create a dynamic combination—**hopeful** energy meets **loyalty** and **reliability**, resulting in a partnership filled with both **inspiration** and **steadfastness**. A subtle yet striking balance of **optimism** and **depth**.
+Looking to create even more impact? **Shining Star** pairs beautifully with **Elegant Ultramarine**, the birthday color of **January 10**. Together, these colors create a dynamic combination—**hopeful** energy meets **loyalty** and **reliability**, resulting in a partnership filled with both **inspiration** and **steadfastness**. A subtle yet striking balance of **optimism** and **depth**.
 
 ### 5. Conclusion (A Poem of Healing)
 

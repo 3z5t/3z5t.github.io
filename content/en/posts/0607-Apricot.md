@@ -1,20 +1,27 @@
 ---
-title: "Apricot, The Birthday Color of June 7th"
-date: 2026-06-07
-description: "The birthday color for June 7th is Apricot (EA9E71). Its meaning is Soft, Abundant, Mature Beauty."
-author: 365days
+title: "Apricot, The Birthday Color of June 7"
+date: "2026-06-07"
+updated: "2026-06-07"
 tags:
-  - apricot
-  - birthday color
-  - june 7th
-  - ea9e71
-  - june
-  - moonlight navy
-draft: false
+  - "apricot"
+  - "birthday color"
+  - "june 7"
+  - "ea9e71"
+  - "june"
+  - "moonlight navy"
+description: "The birthday color for June 7 is Apricot (EA9E71). Its meaning is Soft, Abundant, Mature Beauty."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhh_G89Lj4_KplnpFaVnoHZzICaG_iHuQl94jbxCFiu_oUZQmjE3JcWZ1q0zshy-g0XDwro0OR_MDaMAmNNJNloFqzgoNgRXi8C5fP5F2G9J4vRoIW7CB4ZIt7YGGbaDtQkvU5RNdPYalGx2kT7VHTmQF3-JGX0fxXDQhKLE7ncOykAXJ9HBNrhytjt-mT5=s1600"
+en_name: "Apricot"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Apricot](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_159.webp)
-## Birthday Color for June 7th: Apricot (`#EA9E71`)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhh_G89Lj4_KplnpFaVnoHZzICaG_iHuQl94jbxCFiu_oUZQmjE3JcWZ1q0zshy-g0XDwro0OR_MDaMAmNNJNloFqzgoNgRXi8C5fP5F2G9J4vRoIW7CB4ZIt7YGGbaDtQkvU5RNdPYalGx2kT7VHTmQF3-JGX0fxXDQhKLE7ncOykAXJ9HBNrhytjt-mT5=s1600)
+
+
+## Birthday Color for June 7: Apricot (`#EA9E71`)
 
 ### 1. Description of Apricot (Feeling and Traits)
 
@@ -30,7 +37,7 @@ In fashion, **Apricot** is a color that can shine in **simple elegance**. Think 
 
 ### 4. Plus Tip (Destiny Color)
 
-**Combining with Moonlight Navy**, the birthday color of **July 20th**, brings together a **perfect synergy** of softness and **depth**. **Moonlight Navy** offers calm wisdom and tranquility, while **Apricot** adds warmth and openness. The balance between the two is effortless—**Apricot**’s nurturing energy complements the profound stability of **Moonlight Navy**, creating a harmonious and **uplifting atmosphere**.
+**Combining with Moonlight Navy**, the birthday color of **July 20**, brings together a **perfect synergy** of softness and **depth**. **Moonlight Navy** offers calm wisdom and tranquility, while **Apricot** adds warmth and openness. The balance between the two is effortless—**Apricot**’s nurturing energy complements the profound stability of **Moonlight Navy**, creating a harmonious and **uplifting atmosphere**.
 
 ### 5. Conclusion (A Poem of Healing)
 

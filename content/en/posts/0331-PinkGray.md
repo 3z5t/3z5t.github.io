@@ -1,21 +1,27 @@
 ---
-title: "Pink Gray, The Birthday Color of March 31st"
-date: 2026-03-31
-description: "The birthday color for March 31st is Pink Gray (E5D7CD). Its meaning is Mature, Balanced, Wise."
-author: 365days
+title: "Pink Gray, The Birthday Color of March 31"
+date: "2026-03-31"
+updated: "2026-03-31"
 tags:
-  - pink gray
-  - birthday color
-  - march 31st
-  - e5d7cd
-  - march
-  - midnight violet
-draft: false
+  - "pink gray"
+  - "birthday color"
+  - "march 31"
+  - "e5d7cd"
+  - "march"
+  - "midnight violet"
+description: "The birthday color for March 31 is Pink Gray (E5D7CD). Its meaning is Mature, Balanced, Wise."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjoP8N651xR6bL_70n-mR2COiHxhtYdlKCxOxksCjaUGw84HYsLHjqTYftXg3V0vaGjSQ2AU6OcCZDINhywnfFR8poTLzYii_CQueYTdAKdj-kzV1mQ44szXQqD1tVtoL3e2RMa_BPflYdmISlLmzka_dridSjPdWyvP4QcM9qCWZTGFEUnkTjQz92kWp4_=s1600"
+en_name: "PinkGray"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Pink Gray](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_091.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjoP8N651xR6bL_70n-mR2COiHxhtYdlKCxOxksCjaUGw84HYsLHjqTYftXg3V0vaGjSQ2AU6OcCZDINhywnfFR8poTLzYii_CQueYTdAKdj-kzV1mQ44szXQqD1tVtoL3e2RMa_BPflYdmISlLmzka_dridSjPdWyvP4QcM9qCWZTGFEUnkTjQz92kWp4_=s1600)
 
-## Birthday Color for March 31st: Pink Gray (`#E5D7CD`)
+
+## Birthday Color for March 31: Pink Gray (`#E5D7CD`)
 
 ### 1. Description of Pink Gray (Feeling and Traits)
 
@@ -31,7 +37,7 @@ When it comes to styling, **Pink Gray** is perfect for creating an atmosphere of
 
 ### 4. Plus Tip (Destiny Color)
 
-For an added layer of depth, consider pairing **Pink Gray** with **Midnight Violet** (Hex: `#20202E`), the birthday color of November 28th. **Combining these two colors** creates an intriguing contrast—where the mature calmness of Pink Gray meets the **mysterious elegance** of Midnight Violet. This combination evokes a sense of both **serenity and intrigue**, a perfect balance between the quiet wisdom of Pink Gray and the enigmatic beauty of Midnight Violet.
+For an added layer of depth, consider pairing **Pink Gray** with **Midnight Violet** (Hex: `#20202E`), the birthday color of November 28. **Combining these two colors** creates an intriguing contrast—where the mature calmness of Pink Gray meets the **mysterious elegance** of Midnight Violet. This combination evokes a sense of both **serenity and intrigue**, a perfect balance between the quiet wisdom of Pink Gray and the enigmatic beauty of Midnight Violet.
 
 ### 5. Conclusion (A Poem of Healing)
 

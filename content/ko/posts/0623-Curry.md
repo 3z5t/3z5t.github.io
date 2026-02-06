@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgQhT9msMy4gwOazRdxyVtZ_q3ng2z8KL09yjRqkQXqGjb11GjosDvNPBRJbrjJN1IEsau2ZMecClWqKMsTSk_2YvEmk7QgvVtnscM-gpaqP3DbOE0XiO9_aJBWm-Jm02gJA-FAruJ6DZe4Lr9CUSJ_M2RIujLMHsaOZ9WFyi4MPbhGGysfxO_4LO4Xjt8s=s1600)
+
 ## 6월 23일의 탄생색: 카레 (`#D6A620`)
 
 ### 1. 카레에 대한 설명: 평범한 일상을 깨우는 이국적인 황금빛

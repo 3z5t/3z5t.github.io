@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgv7-Xk4MPxVB2-3sxl0QA5OFXhKLxJ8V-X_0Ey6wa9Lw3wdfoHLX-uOCHRmRcXHUOEkb4viagkKr6NkLKG2Pel2ehd_9gBew6aTII7rngOv39tY3WcdhTeDKujax_QpIpbRH1gUFO4Cs8oPJJL8BSSDfYGX1ubzt9tLpWB3iSZf6D41v2jh429AvuzrUHZ=s1600)
+
 ## 5월 7일의 탄생색: 레몬 (`#EFDA00`)
 
 ### 1. 레몬에 대한 설명: 햇살이 터트린 웃음소리

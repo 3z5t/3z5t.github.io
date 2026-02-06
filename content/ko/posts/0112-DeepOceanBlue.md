@@ -19,6 +19,9 @@ postId: "435890863533691744"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhzStk0v8D0giUVcyVo2lAms2RsGcnA07ihm0H2bQ-po2BD_OCuE-iAdjrq1WKERAPZtt8rjZKg7oBEj7tV3BfZU5NKYLrpYmM-I8wOfE04oh5fjBdbIz6lmygLtHCRo3wnBliNmSdkdEo20SGQ0ZIpZqOWdYkOXYvAl_uQIFjY-8In7VBH9OTKyfKrzEMb=s1600)
+
+
 **1월 12일의 탄생색: 심해의 푸른빛 (#465C83)**
 
 ### 1. 심해의 푸른빛에 대한 설명 (색의 느낌과 특징)

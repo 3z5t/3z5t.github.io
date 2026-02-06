@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg12TOPcGGCYjAqizdpvi48WvBCrFf6blurWLGKid6eWN0CJ5nFHiXvfSl5WMTtnlYpBsWbZfWRVDczmqJmsisaLxL8w9KyHDwx8aEG-l94RvBJbTsfu_FiCohVUmJlK_twdB72p0LriZru5ev5Kvb3U1pCktSyZILb-vWZzr6Cxbnafx7NeCIufS2aHGrg=s1600)
+
 ## 12월 5일의 탄생색: 비비드 레드 (`#D93232`)
 
 ### 1. 비비드 레드에 대한 설명 (색의 느낌과 특징)

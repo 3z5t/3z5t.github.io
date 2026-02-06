@@ -1,21 +1,27 @@
 ---
-title: "French Beige, The Birthday Color of August 25th"
-date: 2026-08-25
-description: "The birthday color for August 25th is French Beige (A67B5B). Its meaning is Sophisticated, Luxurious, Elegant."
-author: 365days
+title: "French Beige, The Birthday Color of August 25"
+date: "2026-08-25"
+updated: "2026-08-25"
 tags:
-  - french beige
-  - birthday color
-  - august 25th
-  - a67b5b
-  - august
-  - autumn sky
-draft: false
+  - "french beige"
+  - "birthday color"
+  - "august 25"
+  - "a67b5b"
+  - "august"
+  - "autumn sky"
+description: "The birthday color for August 25 is French Beige (A67B5B). Its meaning is Sophisticated, Luxurious, Elegant."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgoqbeMAAUiQWS1icEuvUTPtJI6YTra-LzBpu0qlhNFBhUkPtFAQHnsukImWEGjmBtDk19RIPQ8v9PFQe_MZqTp-qysAwyxs1UFbb9j6SzV17oNX30uGPXvn2LRHWmAVu9TGMClWGztgzFnuCceHXFUOpu_eD7IHHyB0NRTe0wRT9qYsBjinlR6tHVwmL9r=s1600"
+en_name: "FrenchBeige"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![French Beige](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_238.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgoqbeMAAUiQWS1icEuvUTPtJI6YTra-LzBpu0qlhNFBhUkPtFAQHnsukImWEGjmBtDk19RIPQ8v9PFQe_MZqTp-qysAwyxs1UFbb9j6SzV17oNX30uGPXvn2LRHWmAVu9TGMClWGztgzFnuCceHXFUOpu_eD7IHHyB0NRTe0wRT9qYsBjinlR6tHVwmL9r=s1600)
 
-## Birthday Color for August 25th: French Beige (`#A67B5B`)
+
+## Birthday Color for August 25: French Beige (`#A67B5B`)
 
 ### 1. Description of French Beige (Feeling and Traits)
 
@@ -35,7 +41,7 @@ Those born with **French Beige** as their color are often marked by an innate **
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born under **French Beige**, combining this color with **Autumn Sky**, the birthday color of September 1st, can create a beautifully **balanced synergy**. **Autumn Sky**, with its clear, idealistic qualities, enhances the depth and richness of **French Beige**, resulting in a harmonious blend of creativity and sophistication. Together, they embody a sense of both elegance and clarity, perfect for those seeking to bring both refinement and fresh perspective into their lives.
+For those born under **French Beige**, combining this color with **Autumn Sky**, the birthday color of September 1, can create a beautifully **balanced synergy**. **Autumn Sky**, with its clear, idealistic qualities, enhances the depth and richness of **French Beige**, resulting in a harmonious blend of creativity and sophistication. Together, they embody a sense of both elegance and clarity, perfect for those seeking to bring both refinement and fresh perspective into their lives.
 
 ### 5. Conclusion (A Poem of Healing)
 

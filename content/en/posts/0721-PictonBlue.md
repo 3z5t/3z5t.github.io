@@ -1,21 +1,27 @@
 ---
-title: "Picton Blue, The Birthday Color of July 21st"
-date: 2026-07-21
-description: "The birthday color for July 21st is Picton Blue (6699CC). Its meaning is Cool Mind, Refreshing, Peaceful."
-author: 365days
+title: "Picton Blue, The Birthday Color of July 21"
+date: "2026-07-21"
+updated: "2026-07-21"
 tags:
-  - picton blue
-  - birthday color
-  - july 21st
-  - 6699cc
-  - july
-  - soft ochre
-draft: false
+  - "picton blue"
+  - "birthday color"
+  - "july 21"
+  - "6699cc"
+  - "july"
+  - "soft ochre"
+description: "The birthday color for July 21 is Picton Blue (6699CC). Its meaning is Cool Mind, Refreshing, Peaceful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgDCnLX9VqW2snEimwWmstTftQ1aninAQI8rBv9DxBvr7GlaicHipSi3VvOqKXdECUE6PMyr3PgTQAM9pfnaIuSNHwskga3v1HMv8tzzBbfX3pg4BRmnjOuUhXvl0ua1dxwHEPej7UI-njwW08Rub1CcL1TTPJhErId9CIY_SQAQkA56Zio2QAKkAgLF1rU=s1600"
+en_name: "PictonBlue"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Picton Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_203.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgDCnLX9VqW2snEimwWmstTftQ1aninAQI8rBv9DxBvr7GlaicHipSi3VvOqKXdECUE6PMyr3PgTQAM9pfnaIuSNHwskga3v1HMv8tzzBbfX3pg4BRmnjOuUhXvl0ua1dxwHEPej7UI-njwW08Rub1CcL1TTPJhErId9CIY_SQAQkA56Zio2QAKkAgLF1rU=s1600)
 
-## Birthday Color for July 21st: Picton Blue (`#6699CC`)
+
+## Birthday Color for July 21: Picton Blue (`#6699CC`)
 
 ### 1. Description of Picton Blue (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Picton Blue** is the perfect color for someone who exudes **effort
 
 ### 4. Plus Tip (Destiny Color)
 
-When **Picton Blue** is paired with **Soft Ochre**, the birthday color for October 19th, a beautiful synergy emerges. The earthy warmth of **Soft Ochre** complements the refreshing coolness of **Picton Blue**, creating a balance between calmness and vitality. Together, they create an atmosphere that is both **grounded** and **uplifting**.
+When **Picton Blue** is paired with **Soft Ochre**, the birthday color for October 19, a beautiful synergy emerges. The earthy warmth of **Soft Ochre** complements the refreshing coolness of **Picton Blue**, creating a balance between calmness and vitality. Together, they create an atmosphere that is both **grounded** and **uplifting**.
 
 ### 5. Conclusion (A Poem of Healing)
 

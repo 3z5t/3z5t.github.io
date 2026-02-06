@@ -1,21 +1,27 @@
 ---
-title: "Soft Mauve, The Birthday Color of November 5th"
-date: 2026-11-05
-description: "The birthday color for November 5th is Soft Mauve (887A7C). Its meaning is Soft Heart, Gentle, Inclusive."
-author: 365days
+title: "Soft Mauve, The Birthday Color of November 5"
+date: "2026-11-05"
+updated: "2026-11-05"
 tags:
-  - soft mauve
-  - birthday color
-  - november 5th
-  - 887a7c
-  - november
-  - urban silver
-draft: false
+  - "soft mauve"
+  - "birthday color"
+  - "november 5"
+  - "887a7c"
+  - "november"
+  - "urban silver"
+description: "The birthday color for November 5 is Soft Mauve (887A7C). Its meaning is Soft Heart, Gentle, Inclusive."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiQ-fdUaeEBJYNvL8n_ZKzzJNKs1ohk8qL_4j4lDxCCSouggRyQcAIMnLPyc2Heef7T0WUmpxFFXVGge_PyXrWKVNVdEL2Ss3Uq-6k9Ds0JC-t-oPA5rJAFE2JeGwJ2r7G4n8NfNhKFZspXVv3dDbO87GETXuXD5V9R6XMJNyvb6HhR1lMHscGCZrN7e3HF=s1600"
+en_name: "SoftMauve"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Soft Mauve](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_310.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiQ-fdUaeEBJYNvL8n_ZKzzJNKs1ohk8qL_4j4lDxCCSouggRyQcAIMnLPyc2Heef7T0WUmpxFFXVGge_PyXrWKVNVdEL2Ss3Uq-6k9Ds0JC-t-oPA5rJAFE2JeGwJ2r7G4n8NfNhKFZspXVv3dDbO87GETXuXD5V9R6XMJNyvb6HhR1lMHscGCZrN7e3HF=s1600)
 
-## Birthday Color for November 5th: Soft Mauve (`#887A7C`)
+
+## Birthday Color for November 5: Soft Mauve (`#887A7C`)
 
 ### 1. Description of Soft Mauve (Feeling and Traits)
 
@@ -39,7 +45,7 @@ When used in interior design, **Soft Mauve** brings a sense of **peaceful luxury
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **January 3rd**, the partner color **Urban Silver** (Hex: `#808080`) represents **balance**, **mediation**, and **insight**. Combining **Soft Mauve** with **Urban Silver** brings a beautiful harmony, creating a color palette that feels both **grounded** and **elevating**. The mix of gentle warmth and cool neutrality complements each other, inviting peace and clarity into any space or outfit.
+For those born on **January 3**, the partner color **Urban Silver** (Hex: `#808080`) represents **balance**, **mediation**, and **insight**. Combining **Soft Mauve** with **Urban Silver** brings a beautiful harmony, creating a color palette that feels both **grounded** and **elevating**. The mix of gentle warmth and cool neutrality complements each other, inviting peace and clarity into any space or outfit.
 
 ### 5. Conclusion (A Poem of Healing)
 

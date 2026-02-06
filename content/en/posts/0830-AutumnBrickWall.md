@@ -1,20 +1,27 @@
 ---
-title: "Autumn Brick Wall, The Birthday Color of August 30th"
-date: 2026-08-30
-description: "The birthday color for August 30th is Autumn Brick Wall (AA837E). Its meaning is Sturdy Will, Stability, Enjoying Change."
-author: 365days
+title: "Autumn Brick Wall, The Birthday Color of August 30"
+date: "2026-08-30"
+updated: "2026-08-30"
 tags:
-  - autumn brick wall
-  - birthday color
-  - august 30th
-  - aa837e
-  - august
-  - slate green
-draft: false
+  - "autumn brick wall"
+  - "birthday color"
+  - "august 30"
+  - "aa837e"
+  - "august"
+  - "slate green"
+description: "The birthday color for August 30 is Autumn Brick Wall (AA837E). Its meaning is Sturdy Will, Stability, Enjoying Change."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgBz0CK_QO8_29ImYHBbOSJhbGXWSAEKLlEqxqwdeJOt1VpqwiYVJhWnukCQm0RCjYrPwRh3ElWMhpqFFmOwSscKgf67F8Sk6fvxy32ucNksZRGVB9QShFXyLs4t5_vB7z4YMmMbY43seLxS0noFnsl0zTmQF0PPaEg4pFlRD82ZIB9TRYjEDchEfm4XQTF=s1600"
+en_name: "AutumnBrickWall"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Autumn Brick Wall](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_243.webp)
-## Birthday Color for August 30th: Autumn Brick Wall (`#AA837E`)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgBz0CK_QO8_29ImYHBbOSJhbGXWSAEKLlEqxqwdeJOt1VpqwiYVJhWnukCQm0RCjYrPwRh3ElWMhpqFFmOwSscKgf67F8Sk6fvxy32ucNksZRGVB9QShFXyLs4t5_vB7z4YMmMbY43seLxS0noFnsl0zTmQF0PPaEg4pFlRD82ZIB9TRYjEDchEfm4XQTF=s1600)
+
+
+## Birthday Color for August 30: Autumn Brick Wall (`#AA837E`)
 
 ### 1. Description of Autumn Brick Wall (Feeling and Traits)
 
@@ -32,7 +39,7 @@ For interior design, this color brings a feeling of timeless warmth and stabilit
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Slate Green**, the birthday color of May 21st, Autumn Brick Wall creates a dynamic synergy. Slate Green's **intellectual** and **inquisitive** nature complements the earthy, stable qualities of Autumn Brick Wall, resulting in a balance of **grounded wisdom** and **curiosity**. Together, they form an atmosphere of thoughtful, grounded exploration.
+When paired with **Slate Green**, the birthday color of May 21, Autumn Brick Wall creates a dynamic synergy. Slate Green's **intellectual** and **inquisitive** nature complements the earthy, stable qualities of Autumn Brick Wall, resulting in a balance of **grounded wisdom** and **curiosity**. Together, they form an atmosphere of thoughtful, grounded exploration.
 
 ### 5. Conclusion (A Poem of Healing)
 

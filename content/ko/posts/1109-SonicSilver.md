@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiBgjbktbBeWGJbUaEc8OTt9kPWWFkGJxkKeifV1taW3fJseWzjhhYbnz-OkO-nvRIJSqf2Wufy67IVXiIpyeAwYwFxmbtxrduW2q78y0EWYlmaTMdvp7dd5MnnHBnAdUOdVMBFJ4RyFNXRUyJg0Ktz4DnZJNwgocIOqTQZ-yX4xJaeK8oY9LHF-GD5yj0s=s1600)
+
 ## 11월 9일의 탄생색: 소닉 실버 (`#767272`)
 
 ### 1. 소닉 실버에 대한 설명: 흔들림 없이 세상의 중심을 잡는 강철의 울림

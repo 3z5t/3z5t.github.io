@@ -1,21 +1,24 @@
 ---
-title: "Pure Crimson, The Birthday Color of February 23rd"
-date: 2026-02-23
-description: "The birthday color for February 23rd is Pure Crimson (BA0046). Its meaning is Sincerity, Purity, Passion."
-author: 365days
-tags:
-  - pure crimson
-  - birthday color
-  - february 23rd
-  - ba0046
-  - february
-  - turquoise
-draft: false
+"title": "Pure Crimson, The Birthday Color of February 23"
+"date": "2026-02-23"
+"updated": "2026-02-23"
+"labels":
+- "pure crimson"
+- "birthday color"
+- "february 23"
+- "ba0046"
+- "february"
+- "turquoise"
+"description": "The birthday color for February 23 is Pure Crimson (BA0046). Its meaning is Sincerity, Purity, Passion."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjxJfQpXtpr_jsDp2O36GjyGIYK1ERcGHDjeX_aQGbHvCxIUfNa3yoDJdtaK2XkxDbax6UJeAvmMcY5j3B9QLGlDZft-sIYfnU2J1HuSl8X1XU6SeO0pOxkFTR41XoOzWryqq5i3zPifm45AZvmnr2IxMEdp3xwy4LEUbrCJFhVoI0sBfeVnE_EOEXJHUE6=s1600"
+"en_name": "PureCrimson"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "1365514053761327953"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/pure-crimson-birthday-color-of-february.html"
 ---
 
-![Pure Crimson](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_054.webp)
-
-## Birthday Color for February 23rd: Pure Crimson (`#BA0046`)
+## Birthday Color for February 23: Pure Crimson (`#BA0046`)
 
 ### 1. Description of Pure Crimson (Feeling and Traits)
 
@@ -33,7 +36,7 @@ In **interior design**, **Pure Crimson** can transform a room into a space full 
 
 ### 4. Plus Tip (Destiny Color)
 
-The **partner color** for **Pure Crimson** is **Turquoise**, the birthday color of April 7th. **Turquoise** brings a **healing**, **resilient**, and **creative** energy, balancing the intensity of **Pure Crimson**. When combined, they create a beautiful synergy of **passion** and **calm**, making this pair ideal for creative projects or personal growth journeys. **Turquoise** softens and soothes, allowing the vibrant energy of **Pure Crimson** to shine even more brightly.
+The **partner color** for **Pure Crimson** is **Turquoise**, the birthday color of April 7. **Turquoise** brings a **healing**, **resilient**, and **creative** energy, balancing the intensity of **Pure Crimson**. When combined, they create a beautiful synergy of **passion** and **calm**, making this pair ideal for creative projects or personal growth journeys. **Turquoise** softens and soothes, allowing the vibrant energy of **Pure Crimson** to shine even more brightly.
 
 ### 5. Conclusion (A Poem of Healing)
 

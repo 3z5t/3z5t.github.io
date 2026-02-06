@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh0Zw9LIbqqSgxnzZ_AzvuXB3owOw8WT5Iavo-dunqalMNQcMgBMz2MMS_NsDn3ArudYEKx36nhYc18gMXEdXBBkS1LoTdiJSgbtYfSHBfZprQs6N_TarA4sRhP-9XCbc9MISAKgcWxboBiNTRzw9DyAkxWanl8rks60fWgDv2QmDLY-oZopxAAOdo8VAJ0=s1600)
+
 ## 7월 29일의 탄생색: 문라이트 핑크 (`#E0C8C0`)
 
 ### 1. 문라이트 핑크에 대한 설명: 밤하늘의 은은함을 머금은 진주빛 장미

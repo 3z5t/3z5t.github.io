@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiva3dzgC48pprcTRdr8jmRTteoWkO3ESHTqvcsLsTUE4WULSn3yidbkM0lUc1ykIMI4gPzfIKDVXhr_aZJkFxsoAHEAEWsnAtXuBixmH3564NLoYgvFv_v7Oz83zk2hN77S-LHt8GHuXayU0gT4INFlVOOJFmdSlx3z0dKiyUGhbZA61fyjntLIAt0m_3V=s1600)
+
 ## 11월 2일의 탄생색: 애쉬 블랙 (`#282221`)
 
 ### 1. 애쉬 블랙에 대한 설명: 모든 것이 타오른 뒤 남은 가장 따뜻한 여운

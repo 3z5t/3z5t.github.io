@@ -1,21 +1,27 @@
 ---
-title: "Electric Lime, The Birthday Color of May 13th"
-date: 2026-05-13
-description: "The birthday color for May 13th is Electric Lime (CCFF00). Its meaning is Passionate, Innovative, Originality."
-author: 365days
+title: "Electric Lime, The Birthday Color of May 13"
+date: "2026-05-13"
+updated: "2026-05-13"
 tags:
-  - electric lime
-  - birthday color
-  - may 13th
-  - ccff00
-  - may
-  - pure blue
-draft: false
+  - "electric lime"
+  - "birthday color"
+  - "may 13"
+  - "ccff00"
+  - "may"
+  - "pure blue"
+description: "The birthday color for May 13 is Electric Lime (CCFF00). Its meaning is Passionate, Innovative, Originality."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhxc4oNQGGe5-fhcXKZNjhtnbp07oxDSbrT6-JOeVwslW0lk030P_NfuimGx4KE4l83TeLlxYJmdGGeo6YknHgtwEu1J_UV_ffQBB1Lv-jpi_i0rE4UtH9UEp-TluIj25_XRi4-Ow-DktKLWTxWAXRupKhyQ1pfCLKyFWXTBLKPvfJrrng1bYZJoQhld1Zz=s1600"
+en_name: "ElectricLime"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Electric Lime](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_134.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhxc4oNQGGe5-fhcXKZNjhtnbp07oxDSbrT6-JOeVwslW0lk030P_NfuimGx4KE4l83TeLlxYJmdGGeo6YknHgtwEu1J_UV_ffQBB1Lv-jpi_i0rE4UtH9UEp-TluIj25_XRi4-Ow-DktKLWTxWAXRupKhyQ1pfCLKyFWXTBLKPvfJrrng1bYZJoQhld1Zz=s1600)
 
-## Birthday Color for May 13th: Electric Lime (`#CCFF00`)
+
+## Birthday Color for May 13: Electric Lime (`#CCFF00`)
 
 ### 1. Description of Electric Lime (Feeling and Traits)
 
@@ -31,7 +37,7 @@ When styling with **Electric Lime**, think of it as the **bold statement** in an
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **May 13th**, combining **Electric Lime** with **Pure Blue** (Hex: `#3333FF`), the birthday color of **July 11th**, creates an intriguing synergy. **Pure Blue** adds a sense of calm, wisdom, and idealism, beautifully balancing the electric energy of **Lime** to form a harmonious combination that inspires both passion and clarity.
+For those born on **May 13**, combining **Electric Lime** with **Pure Blue** (Hex: `#3333FF`), the birthday color of **July 11**, creates an intriguing synergy. **Pure Blue** adds a sense of calm, wisdom, and idealism, beautifully balancing the electric energy of **Lime** to form a harmonious combination that inspires both passion and clarity.
 
 ### 5. Conclusion (A Poem of Healing)
 

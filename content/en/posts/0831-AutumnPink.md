@@ -1,21 +1,27 @@
 ---
-title: "Autumn Pink, The Birthday Color of August 31st"
-date: 2026-08-31
-description: "The birthday color for August 31st is Autumn Pink (CC8F8A). Its meaning is Sentimental, Lyrical, Romantic."
-author: 365days
+title: "Autumn Pink, The Birthday Color of August 31"
+date: "2026-08-31"
+updated: "2026-08-31"
 tags:
-  - autumn pink
-  - birthday color
-  - august 31st
-  - cc8f8a
-  - august
-  - blooming green
-draft: false
+  - "autumn pink"
+  - "birthday color"
+  - "august 31"
+  - "cc8f8a"
+  - "august"
+  - "blooming green"
+description: "The birthday color for August 31 is Autumn Pink (CC8F8A). Its meaning is Sentimental, Lyrical, Romantic."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEge7murKLo3fsLbXCoM2FGCavzOfEMb0fqjLjLIaZ4UbdDAteZ45tsdxl-FBDR4_XHmMhKncI_kWkRHPJaZRyJ8s-I0rAxfl-fqHgHpRfDhrRB6KZX2tmjlOrF0yDzivGsrLFuFLfFt2ILI2d2m8b8IKCNapeexyC3LqWruSeOpYRKUxfMo5HTp9Lvva6rU=s1600"
+en_name: "AutumnPink"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Autumn Pink](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_244.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEge7murKLo3fsLbXCoM2FGCavzOfEMb0fqjLjLIaZ4UbdDAteZ45tsdxl-FBDR4_XHmMhKncI_kWkRHPJaZRyJ8s-I0rAxfl-fqHgHpRfDhrRB6KZX2tmjlOrF0yDzivGsrLFuFLfFt2ILI2d2m8b8IKCNapeexyC3LqWruSeOpYRKUxfMo5HTp9Lvva6rU=s1600)
 
-## Birthday Color for August 31st: Autumn Pink (`#CC8F8A`)
+
+## Birthday Color for August 31: Autumn Pink (`#CC8F8A`)
 
 ### 1. Description of Autumn Pink (Feeling and Traits)
 
@@ -33,7 +39,7 @@ In interior design, this color is ideal for creating an intimate and cozy atmosp
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Blooming Green**, the birthday color of May 26th, **Autumn Pink** creates a delightful synergy. Blooming Green’s vibrant, growth-focused energy complements Autumn Pink’s sentimental and romantic nature, creating a dynamic where emotional depth and personal growth harmonize beautifully.
+When paired with **Blooming Green**, the birthday color of May 26, **Autumn Pink** creates a delightful synergy. Blooming Green’s vibrant, growth-focused energy complements Autumn Pink’s sentimental and romantic nature, creating a dynamic where emotional depth and personal growth harmonize beautifully.
 
 ### 5. Conclusion (A Poem of Healing)
 

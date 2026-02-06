@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhjtmvd6XvE7wkZ7ay2q2yVKkDRokxhlKEfbBV3aEm5Mai_hmQsQ4YzrkG_1k_eonzxmVM91hKddrwSQcH8cgawG3rKepVzU3L3nyTPxzah5xdt_qLJ8ukH2HEMJs3hoVmGlPxI6B7Begxqk9UvCqx7QFYJ-N1gnJRdONCWpf-REzQVShZMswy1r3it4kDw=s1600)
+
 ## 11월 11일의 탄생색: 차콜 (`#373F57`)
 
 ### 1. 차콜에 대한 설명: 밤의 깊이와 새벽의 냉철함을 품은 지성의 색

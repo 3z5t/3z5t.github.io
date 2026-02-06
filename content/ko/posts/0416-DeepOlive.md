@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEggO-mY0rpDsi4CKtU5bHjbdYxJ6n5Dv6tkKxDuye3ZPjvskaNvormZU7BGlFny4PxSMPX-0E1f4M5NYlE1UX_Z3mIcRb7-KMuGcwcPR8t0isS0p7dcrXUgOkXmQI6CDXvzVCzU4BKaP-4FqQKjff12_oP-mUAeYD4R1lR8Glp02gkrPPq9c4QUAuSggD5q=s1600)
+
 ## 4월 16일의 탄생색: 딥 올리브 (`#6B8E23`)
 
 ### 1. 딥 올리브에 대한 설명 (색의 느낌과 특징)

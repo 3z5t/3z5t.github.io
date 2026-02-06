@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgDMNDdSsA5xIgFdwGvgF_PsQ-eCzF-QvecgyuIJS8BuYiFoiw6dvlUlWJlZa5HoGbW0vafE_4A-Afj-eMCwdAC9DhCfOFulc8OTgYFHrV59xUEYBbRVSSTEUQ7aqfNEGmKAsAk9kLupvkg9eGAqhBOFPW1zdKxmPWfr7pi38axcd0J2x75p5dmNbEcWbWI=s1600)
+
 ## 4월 20일의 탄생색: 옥슬리 그린 (`#669966`)
 
 ### 1. 옥슬리 그린에 대한 설명 (색의 느낌과 특징)

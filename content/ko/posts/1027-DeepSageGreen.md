@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhuQJTSORCkPgEiQhlmvyF24hBBN33z0ccJd-V_eEqGJeeuV7tCp9JSJb9gh5ZZb8dMz0WGcpM5OYVVbKAPLo7v1PljL4x0DS0lQM8DnYRTVOVnb_4cZi0C0oViuHX6IOaX27Biuz2VTuSXBP1wVXIBAUYIW20RB9HuJ1QO_L3eFevh7r7peHTUO0q3Ztbh=s1600)
+
 ## 10월 27일의 탄생색: 딥 세이지 그린 (`#055F5F`)
 
 ### 1. 딥 세이지 그린에 대한 설명: 고요한 숲의 호흡을 닮은 지혜의 색

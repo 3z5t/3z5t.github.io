@@ -1,21 +1,27 @@
 ---
-title: "Old Green, The Birthday Color of September 20th"
-date: 2026-09-20
-description: "The birthday color for September 20th is Old Green (726D46). Its meaning is Classical, Wise, Traditional."
-author: 365days
+title: "Old Green, The Birthday Color of September 20"
+date: "2026-09-20"
+updated: "2026-09-20"
 tags:
-  - old green
-  - birthday color
-  - september 20th
-  - 726d46
-  - september
-  - sora blue
-draft: false
+  - "old green"
+  - "birthday color"
+  - "september 20"
+  - "726d46"
+  - "september"
+  - "sora blue"
+description: "The birthday color for September 20 is Old Green (726D46). Its meaning is Classical, Wise, Traditional."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhxG43tNwvLL594jzS9Kt4w_RdCT42-aG1qPeLEFDgxDPdLR383uUPV4ttYKUU1twHB7OU9zTLFdJg8-lEkAYIi-RiD4vrcPzsMbLMxxabZFutqFf046HSMX96LqXSxp5RCjSXrAOBT7zKR-TqWgh5bkpr10Ehx1PP8ffjJiRWS94_qQhsNrRq5r2SdSvuG=s1600"
+en_name: "OldGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Old Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_264.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhxG43tNwvLL594jzS9Kt4w_RdCT42-aG1qPeLEFDgxDPdLR383uUPV4ttYKUU1twHB7OU9zTLFdJg8-lEkAYIi-RiD4vrcPzsMbLMxxabZFutqFf046HSMX96LqXSxp5RCjSXrAOBT7zKR-TqWgh5bkpr10Ehx1PP8ffjJiRWS94_qQhsNrRq5r2SdSvuG=s1600)
 
-## Birthday Color for September 20th: Old Green (`#726D46`)
+
+## Birthday Color for September 20: Old Green (`#726D46`)
 
 ### 1. **Description of Old Green (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ When styling with **Old Green**, the color can be used to create an atmosphere o
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For an even more harmonious vibe, consider combining **Old Green** with its **destiny partner color**, **Sora Blue** (January 16th). The soft, **peaceful** nature of Sora Blue complements Old Green’s grounded richness, creating a synergy that feels both **balanced** and **calming**. This combination is perfect for environments or outfits that call for a sense of quiet elegance and timeless beauty.
+For an even more harmonious vibe, consider combining **Old Green** with its **destiny partner color**, **Sora Blue** (January 16). The soft, **peaceful** nature of Sora Blue complements Old Green’s grounded richness, creating a synergy that feels both **balanced** and **calming**. This combination is perfect for environments or outfits that call for a sense of quiet elegance and timeless beauty.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

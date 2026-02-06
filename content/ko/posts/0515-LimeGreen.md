@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhL2COUnPzkiqPurj_7C0r9mn4IlWkJUGeXV8tioSzDssuwVpI0fho3nMHflq4GgFyobMYMvvLDt_0lVlcgiSpqtY99eWQgxNSEd-ciQWv9kjVtVwYmycTW2A79EMO9HGY9HpVrHSpYmVLPv1TnEMTLsY06elRWqv5MdSTHbJXfiT-aVbzCya-DaolCcUoh=s1600)
+
 ## 5월 15일의 탄생색: 라임 그린 (`#6EAD5C`)
 
 ### 1. 라임 그린에 대한 설명: 자연이 숨 쉬는 건강한 리듬

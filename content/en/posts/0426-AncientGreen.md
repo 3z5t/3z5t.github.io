@@ -1,21 +1,27 @@
 ---
-title: "Ancient Green, The Birthday Color of April 26th"
-date: 2026-04-26
-description: "The birthday color for April 26th is Ancient Green (476664). Its meaning is Wise, Serene, Traditional."
-author: 365days
+title: "Ancient Green, The Birthday Color of April 26"
+date: "2026-04-26"
+updated: "2026-04-26"
 tags:
-  - ancient green
-  - birthday color
-  - april 26th
-  - 476664
-  - april
-  - satin gray
-draft: false
+  - "ancient green"
+  - "birthday color"
+  - "april 26"
+  - "476664"
+  - "april"
+  - "satin gray"
+description: "The birthday color for April 26 is Ancient Green (476664). Its meaning is Wise, Serene, Traditional."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgEuumEBi_xoYHFcLc4bGqgPRfWmiV8_YYKt8cLzMZ5ZORFz0JzZBJi_JLlnhx-bC6Ff2NIDH_v8aGcOTsroHrMbMs6WmR34IocKWKvr_261EwZLwPlKJeyA6r0J__qsDgemIRgeEyEy2TGEcKBSB4BWAZLf0iHAo3sDDcqvHZOPwEKyhDGuy3jnCeFT8tI=s1600"
+en_name: "AncientGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Ancient Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_117.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgEuumEBi_xoYHFcLc4bGqgPRfWmiV8_YYKt8cLzMZ5ZORFz0JzZBJi_JLlnhx-bC6Ff2NIDH_v8aGcOTsroHrMbMs6WmR34IocKWKvr_261EwZLwPlKJeyA6r0J__qsDgemIRgeEyEy2TGEcKBSB4BWAZLf0iHAo3sDDcqvHZOPwEKyhDGuy3jnCeFT8tI=s1600)
 
-## Birthday Color for April 26th: Ancient Green (`#476664`)
+
+## Birthday Color for April 26: Ancient Green (`#476664`)
 
 ### 1. Description of Ancient Green (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Ancient Green** brings an air of sophistication and timeless elega
 
 ### 4. Plus Tip (Destiny Color)
 
-**Ancient Green** pairs beautifully with **Satin Gray** (Hex: `#B3A6A4`), the birthday color of September 10th. This combination creates a serene, sophisticated atmosphere. While **Ancient Green** brings wisdom and tradition, **Satin Gray** adds an elegant, modern touch. Together, they form a refined and harmonious pairing that speaks to both strength and grace.
+**Ancient Green** pairs beautifully with **Satin Gray** (Hex: `#B3A6A4`), the birthday color of September 10. This combination creates a serene, sophisticated atmosphere. While **Ancient Green** brings wisdom and tradition, **Satin Gray** adds an elegant, modern touch. Together, they form a refined and harmonious pairing that speaks to both strength and grace.
 
 ### 5. Conclusion (A Poem of Healing)
 

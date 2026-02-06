@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEigziEJmPvLKJ5MrT-qvyEnc1NdlyJwZokDdori9Larx9ohvc9v3IvlM9NqThn5yDSV_MMYFVYK03QK1WM0NkzpnG2dhkRaEqaCrZ1dWs_hH7R1q-yVsO_t6e7d0T10AwJDUZg4aYKpYS0Gmssa22Ax5MYBhmerSXLqeSPFItizpqUBzrC8EGemXw8QOMzt=s1600)
+
 ## 3월 12일의 탄생색: 스프링 그린 (`#00FF66`)
 
 ### 1. 스프링 그린에 대한 설명 (색의 느낌과 특징)

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhlVwEK9H5HfcBV8iCZVnWkW8i3H2p22akr0S1VCwcdr6qT0rcCOuCkYivQFhseYfj-FLXljlc4tk7MKRQWOOwSR_ShP2DrNJbQaG-smH_vCECcPQ7Cq0aKROudeZLaUOTkJ7DjI4SBiBniKpuIuzcwoIpKDpCpU3ZC3Zm4ok9yigs_17jkUDmRQVbb5z8i=s1600)
+
 ## 12월 9일의 탄생색: 파인 그린 (`#207670`)
 
 ### 1. 파인 그린에 대한 설명 (색의 느낌과 특징)

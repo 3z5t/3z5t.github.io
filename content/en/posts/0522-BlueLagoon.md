@@ -1,21 +1,27 @@
 ---
-title: "Blue Lagoon, The Birthday Color of May 22nd"
-date: 2026-05-22
-description: "The birthday color for May 22nd is Blue Lagoon (006666). Its meaning is Peaceful, Healing, Stability."
-author: 365days
+title: "Blue Lagoon, The Birthday Color of May 22"
+date: "2026-05-22"
+updated: "2026-05-22"
 tags:
-  - blue lagoon
-  - birthday color
-  - may 22nd
-  - 006666
-  - may
-  - mona lisa
-draft: false
+  - "blue lagoon"
+  - "birthday color"
+  - "may 22"
+  - "006666"
+  - "may"
+  - "mona lisa"
+description: "The birthday color for May 22 is Blue Lagoon (006666). Its meaning is Peaceful, Healing, Stability."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgcNhbB9dLqIoGOJufFg8MCgdu0L9rFuBOPkbdZHzHucV9-Y5sv-jYfJJWL9nFOZLe8G_OWcNpfbFc4cbDGVSPLPjePDRpxHsrjoNyhmKoLi8LxGxft1U-Z6LY32HTM12fk3EgSJKijlqYO-4UWAGpZnn7qfSJtWEPPZpGIR7sd5YbSTeUuqGT-LshQuUxa=s1600"
+en_name: "BlueLagoon"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Blue Lagoon](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_143.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgcNhbB9dLqIoGOJufFg8MCgdu0L9rFuBOPkbdZHzHucV9-Y5sv-jYfJJWL9nFOZLe8G_OWcNpfbFc4cbDGVSPLPjePDRpxHsrjoNyhmKoLi8LxGxft1U-Z6LY32HTM12fk3EgSJKijlqYO-4UWAGpZnn7qfSJtWEPPZpGIR7sd5YbSTeUuqGT-LshQuUxa=s1600)
 
-## Birthday Color for May 22nd: Blue Lagoon (`#006666`)
+
+## Birthday Color for May 22: Blue Lagoon (`#006666`)
 
 ### 1. Description of Blue Lagoon (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Blue Lagoon** is a sophisticated and calming choice that instantly
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **May 22nd**, combining **Blue Lagoon** with **Mona Lisa** (Hex: `#FF9999`), the birthday color of **July 17th**, creates a beautiful synergy. While **Blue Lagoon** brings peace and stability, **Mona Lisa** adds a touch of **artistic beauty** and **balance**, making this pairing perfect for those who seek both tranquility and inspiration in their lives.
+For those born on **May 22**, combining **Blue Lagoon** with **Mona Lisa** (Hex: `#FF9999`), the birthday color of **July 17**, creates a beautiful synergy. While **Blue Lagoon** brings peace and stability, **Mona Lisa** adds a touch of **artistic beauty** and **balance**, making this pairing perfect for those who seek both tranquility and inspiration in their lives.
 
 ### 5. Conclusion (A Poem of Healing)
 

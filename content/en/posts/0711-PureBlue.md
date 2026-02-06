@@ -1,21 +1,27 @@
 ---
-title: "Pure Blue, The Birthday Color of July 11th"
-date: 2026-07-11
-description: "The birthday color for July 11th is Pure Blue (3333FF). Its meaning is Pure Passion, Profound, Idealistic."
-author: 365days
+title: "Pure Blue, The Birthday Color of July 11"
+date: "2026-07-11"
+updated: "2026-07-11"
 tags:
-  - pure blue
-  - birthday color
-  - july 11th
-  - 3333ff
-  - july
-  - lemon
-draft: false
+  - "pure blue"
+  - "birthday color"
+  - "july 11"
+  - "3333ff"
+  - "july"
+  - "lemon"
+description: "The birthday color for July 11 is Pure Blue (3333FF). Its meaning is Pure Passion, Profound, Idealistic."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiTnba402q8ob5-Ks3CjHHyy-ye6Fku67wo8cAU0gWo5ySOegQeJe-CVou-aBXrE2Li9DJo6skr8KkXxagpYHOEDhO1YAdhJrLO_ZagrspFnPB3fQsij143Fv7putX2L0pqVpX7wqtPaaNhEIs0nOhzVNlr6IiDgXFuBUOn1UqVnwQdu7E1uR1iiUa7ef5I=s1600"
+en_name: "PureBlue"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Pure Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_193.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiTnba402q8ob5-Ks3CjHHyy-ye6Fku67wo8cAU0gWo5ySOegQeJe-CVou-aBXrE2Li9DJo6skr8KkXxagpYHOEDhO1YAdhJrLO_ZagrspFnPB3fQsij143Fv7putX2L0pqVpX7wqtPaaNhEIs0nOhzVNlr6IiDgXFuBUOn1UqVnwQdu7E1uR1iiUa7ef5I=s1600)
 
-## Birthday Color for July 11th: Pure Blue (`#3333FF`)
+
+## Birthday Color for July 11: Pure Blue (`#3333FF`)
 
 ### 1. Description of Pure Blue (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Pure Blue** is a **statement color** that commands attention witho
 
 ### 4. Plus Tip (Destiny Color)
 
-Pair **Pure Blue** with **Lemon** (Hex: `#EFDA00`), the birthday color of May 7th, and you get an incredible synergy of **clarity** and **vibrant creativity**. While **Pure Blue** offers the depth and calm of the sea, **Lemon** brings the bright, fresh energy of sunlight. Together, they create a balance between the **idealistic dreams** of **Pure Blue** and the **refreshing energy** of **Lemon**, making this pairing perfect for those who want to bring a burst of **inspiration** and **joy** into their lives.
+Pair **Pure Blue** with **Lemon** (Hex: `#EFDA00`), the birthday color of May 7, and you get an incredible synergy of **clarity** and **vibrant creativity**. While **Pure Blue** offers the depth and calm of the sea, **Lemon** brings the bright, fresh energy of sunlight. Together, they create a balance between the **idealistic dreams** of **Pure Blue** and the **refreshing energy** of **Lemon**, making this pairing perfect for those who want to bring a burst of **inspiration** and **joy** into their lives.
 
 ### 5. Conclusion (A Poem of Healing)
 

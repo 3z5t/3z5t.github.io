@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjWCNBj3u12OYhy0UQ7AqVRm-zMpRXMJ4OEXIhaT_wlV3tYssp9EtjX2Dxcw--PB_XQicQNh-YxNYkyeU1u2OcIFSQ20nVEs1M_0HVAIwIuqU-b5B_bl7pq2sE5LRZbzcTycRCeZYuqGDoskxRcxH3KraybE2dhjw7Kyh0907E5Gn6SWavQ2rn6B-Dj9-rO=s1600)
+
 ## 7월 14일의 탄생색: 푸크시아 (`#CC33CC`)
 
 ### 1. 푸크시아에 대한 설명: 시선을 훔치는 가장 화려한 춤사위

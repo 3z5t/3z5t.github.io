@@ -1,21 +1,27 @@
 ---
-title: "Deep Pine Forest, The Birthday Color of March 11th"
-date: 2026-03-11
-description: "The birthday color for March 11th is Deep Pine Forest (006400). Its meaning is Permanence, Traditional, Reliability."
-author: 365days
+title: "Deep Pine Forest, The Birthday Color of March 11"
+date: "2026-03-11"
+updated: "2026-03-11"
 tags:
-  - deep pine forest
-  - birthday color
-  - march 11th
-  - 006400
-  - march
-  - magenta violet
-draft: false
+  - "deep pine forest"
+  - "birthday color"
+  - "march 11"
+  - "006400"
+  - "march"
+  - "magenta violet"
+description: "The birthday color for March 11 is Deep Pine Forest (006400). Its meaning is Permanence, Traditional, Reliability."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgyBR--GF5RM1ndjzWqg98uwIjkjwBobajtn-mtxjw7JY5tqqzibWMV6rztQNgZoOOj2CyWYuqJKYVq1XpIat5iRbQQJfuh95-Wql1e4RlY24GtcGwA4T0rlZF2aaCh-r82GaMaG57BNoELLyOdwoBD0QXPNaL9Lzt8MTxJJZ19L7_Bxt0v6z0iVlEBhqL1=s1600"
+en_name: "DeepPineForest"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Deep Pine Forest](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_071.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgyBR--GF5RM1ndjzWqg98uwIjkjwBobajtn-mtxjw7JY5tqqzibWMV6rztQNgZoOOj2CyWYuqJKYVq1XpIat5iRbQQJfuh95-Wql1e4RlY24GtcGwA4T0rlZF2aaCh-r82GaMaG57BNoELLyOdwoBD0QXPNaL9Lzt8MTxJJZ19L7_Bxt0v6z0iVlEBhqL1=s1600)
 
-## Birthday Color for March 11th: Deep Pine Forest (`#006400`)
+
+## Birthday Color for March 11: Deep Pine Forest (`#006400`)
 
 ### 1. Description of Deep Pine Forest (Feeling and Traits)
 
@@ -31,7 +37,7 @@ To showcase the richness of **Deep Pine Forest**, consider embracing its deep, e
 
 ### 4. Plus Tip (Destiny Color)
 
-Pairing **Deep Pine Forest** with **Magenta Violet**, the birthday color of February 16th, brings an exciting synergy. The grounded, reliable energy of Pine meets the creative and sensuous nature of Magenta Violet, creating a blend of tradition and innovation, stability and creativity. It’s a dynamic combination that encourages both personal growth and emotional depth.
+Pairing **Deep Pine Forest** with **Magenta Violet**, the birthday color of February 16, brings an exciting synergy. The grounded, reliable energy of Pine meets the creative and sensuous nature of Magenta Violet, creating a blend of tradition and innovation, stability and creativity. It’s a dynamic combination that encourages both personal growth and emotional depth.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,20 +1,27 @@
 ---
-title: "French Beige, The Birthday Color of December 20th"
-date: 2026-12-20
-description: "The birthday color for December 20th is French Beige (D6A680). Its meaning is Warm Character, Cozy, Affectionate."
-author: 365days
+title: "French Beige, The Birthday Color of December 20"
+date: "2026-12-20"
+updated: "2026-12-20"
 tags:
-  - french beige
-  - birthday color
-  - december 20th
-  - d6a680
-  - december
-  - deep ocean blue
-draft: false
+  - "french beige"
+  - "birthday color"
+  - "december 20"
+  - "d6a680"
+  - "december"
+  - "deep ocean blue"
+description: "The birthday color for December 20 is French Beige (D6A680). Its meaning is Warm Character, Cozy, Affectionate."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgxryA4_A1RghMtfki1CmSMSWMsYVhDAbQC5EqV8uVsOHFOnRZo3Mywsif3NH9rBFuIt0NPwS2EtEA5ohmhsEXrUisPLdpxrHo6u-cdF_3swlPDFhKzqhzMxXSseFuKb-WBa5lsr0AqRPr0eZ4rEfNlCRVhgUjPgLap7toBYZuGjGWmFp4qmZgG02OfJhiC=s1600"
+en_name: "FrenchBeige"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![French Beige](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_355.webp)
-## Birthday Color for December 20th: French Beige (`#D6A680`)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgxryA4_A1RghMtfki1CmSMSWMsYVhDAbQC5EqV8uVsOHFOnRZo3Mywsif3NH9rBFuIt0NPwS2EtEA5ohmhsEXrUisPLdpxrHo6u-cdF_3swlPDFhKzqhzMxXSseFuKb-WBa5lsr0AqRPr0eZ4rEfNlCRVhgUjPgLap7toBYZuGjGWmFp4qmZgG02OfJhiC=s1600)
+
+
+## Birthday Color for December 20: French Beige (`#D6A680`)
 
 ### 1. Description of French Beige (Feeling and Traits)
 
@@ -36,7 +43,7 @@ In home interiors, **French Beige** is ideal for creating a cozy, welcoming atmo
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Deep Ocean Blue**, the birthday color of January 12th, **French Beige** creates a stunning contrast between warmth and depth. The **rich blues** of **Deep Ocean Blue** offer a grounding, **inclusive energy**, while **French Beige** adds a soft, nurturing touch. Together, these two colors form a perfect synergy of **warmth** and **generosity**, bringing balance and harmony to any combination.
+When combined with **Deep Ocean Blue**, the birthday color of January 12, **French Beige** creates a stunning contrast between warmth and depth. The **rich blues** of **Deep Ocean Blue** offer a grounding, **inclusive energy**, while **French Beige** adds a soft, nurturing touch. Together, these two colors form a perfect synergy of **warmth** and **generosity**, bringing balance and harmony to any combination.
 
 ### 5. Conclusion (A Poem of Healing)
 

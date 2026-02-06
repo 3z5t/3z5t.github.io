@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhRtGJRnCFsDT5yc1n-dTNHc2k3tbC0XU06JdSSCInQj2DxhghGy2SpSn6Oyurl2fzvRm0qwIieEnGRi2SQ02RvA1ogS6wuGLWQ5lbdjiwVh2QO7XCcwv47KCmJotFqNi1Wm_LzUuvqwZHZIia7E47dcVO5tPOE9z7vqLha45pVdzQzGzqkj7c3tThho9O0=s1600)
+
 ## 9월 27일의 탄생색: 킹 브라운 (`#A86248`)
 
 ### 1. 킹 브라운에 대한 설명: 대지를 호령하는 가장 붉고 뜨거운 위엄

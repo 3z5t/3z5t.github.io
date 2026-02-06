@@ -1,21 +1,27 @@
 ---
-title: "Shadow Brown, The Birthday Color of October 24th"
-date: 2026-10-24
-description: "The birthday color for October 24th is Shadow Brown (503D3E). Its meaning is Mysterious, Profound, Insightful."
-author: 365days
+title: "Shadow Brown, The Birthday Color of October 24"
+date: "2026-10-24"
+updated: "2026-10-24"
 tags:
-  - shadow brown
-  - birthday color
-  - october 24th
-  - 503d3e
-  - october
-  - silver blue
-draft: false
+  - "shadow brown"
+  - "birthday color"
+  - "october 24"
+  - "503d3e"
+  - "october"
+  - "silver blue"
+description: "The birthday color for October 24 is Shadow Brown (503D3E). Its meaning is Mysterious, Profound, Insightful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgA05sR4Kmo1p5N2zeYWE4hRHghRWQjbUqGlB3gRM9p_ztHDSKQYxu9o9S8B4pfNugasoDG6EVKA3gmOe3-6srn3lRJxTCYrYtj6MrB6f3hY_FbHsx2p_7eHifsggvCRyCy8HIXHMOmPOwvV6hFpoubJd6wrBO213yf2zi0f7znOOLq6v9k4pIvHW2kGZ6F=s1600"
+en_name: "ShadowBrown"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Shadow Brown](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_298.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgA05sR4Kmo1p5N2zeYWE4hRHghRWQjbUqGlB3gRM9p_ztHDSKQYxu9o9S8B4pfNugasoDG6EVKA3gmOe3-6srn3lRJxTCYrYtj6MrB6f3hY_FbHsx2p_7eHifsggvCRyCy8HIXHMOmPOwvV6hFpoubJd6wrBO213yf2zi0f7znOOLq6v9k4pIvHW2kGZ6F=s1600)
 
-## Birthday Color for October 24th: Shadow Brown (`#503D3E`)
+
+## Birthday Color for October 24: Shadow Brown (`#503D3E`)
 
 ### 1. Description of Shadow Brown (Feeling and Traits)
 
@@ -37,7 +43,7 @@ For interior design, **Shadow Brown** can be used to create a space that feels l
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **January 27th**, the partner color **Silver Blue** (Hex: `#ABB5C1`) embodies **dignity**, **elegance**, and **nobility**. Combining **Shadow Brown** with **Silver Blue** creates a balance of profound **mystery and grace**, a pairing that enhances both the quiet depth of Shadow Brown and the refined beauty of Silver Blue.
+For those born on **January 27**, the partner color **Silver Blue** (Hex: `#ABB5C1`) embodies **dignity**, **elegance**, and **nobility**. Combining **Shadow Brown** with **Silver Blue** creates a balance of profound **mystery and grace**, a pairing that enhances both the quiet depth of Shadow Brown and the refined beauty of Silver Blue.
 
 ### 5. Conclusion (A Poem of Healing)
 

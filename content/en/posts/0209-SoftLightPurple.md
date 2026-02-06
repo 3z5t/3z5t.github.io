@@ -1,21 +1,24 @@
 ---
-title: "Soft Light Purple, The Birthday Color of February 9th"
-date: 2026-02-09
-description: "The birthday color for February 9th is Soft Light Purple (AC79AE). Its meaning is Emotional, Empathetic, Inclusive."
-author: 365days
-tags:
-  - soft light purple
-  - birthday color
-  - february 9th
-  - ac79ae
-  - february
-  - leaf green
-draft: false
+"title": "Soft Light Purple, The Birthday Color of February 9"
+"date": "2026-02-09"
+"updated": "2026-02-09"
+"labels":
+- "soft light purple"
+- "birthday color"
+- "february 9"
+- "ac79ae"
+- "february"
+- "leaf green"
+"description": "The birthday color for February 9 is Soft Light Purple (AC79AE). Its meaning is Emotional, Empathetic, Inclusive."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEheJ3qfqiEfJ0HqTa1JcdCFWEHvB4uGxaU3XCnQx0axpkhgWB_oiz_-DuWNz4u2ZZBr2nrZDvAtkKUNlttXtss38amaMVC3B0WO0Tta1H7_d70LmrE1lijNkEGLT9COIsv0xocAUJCx5tUtZ2A2dslprI8iVg7BwI06JicytmqfQphaozwD4CbTeepk2Eiw=s1600"
+"en_name": "SoftLightPurple"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "3810868697124518451"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/soft-light-purple-birthday-color-of.html"
 ---
 
-![Soft Light Purple](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_040.webp)
-
-## Birthday Color for February 9th: Soft Light Purple (`#AC79AE`)
+## Birthday Color for February 9: Soft Light Purple (`#AC79AE`)
 
 ### 1. Description of Soft Light Purple (Feeling and Traits)
 
@@ -31,7 +34,7 @@ In **fashion**, **Soft Light Purple** is perfect for creating a look that is bot
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born under **Soft Light Purple**, pairing it with **Leaf Green** (Hex: `#587D4A`), the birthday color of March 9th, creates a beautiful **synergy**. The **Leaf Green** brings a grounding, nature-inspired energy that complements the emotional depth of **Soft Light Purple**. Together, they balance **empathy** with a refreshing sense of **renewal** and **growth**, making them a perfect match for those who seek both emotional connection and a deep, rooted sense of calm.
+For those born under **Soft Light Purple**, pairing it with **Leaf Green** (Hex: `#587D4A`), the birthday color of March 9, creates a beautiful **synergy**. The **Leaf Green** brings a grounding, nature-inspired energy that complements the emotional depth of **Soft Light Purple**. Together, they balance **empathy** with a refreshing sense of **renewal** and **growth**, making them a perfect match for those who seek both emotional connection and a deep, rooted sense of calm.
 
 ### 5. Conclusion (A Poem of Healing)
 

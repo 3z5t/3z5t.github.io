@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEimOUPdgtUT1rZbSPsQaVuOGARnjtcld8gAW8znyA80QXHdIaKFsfEp49xyt_5gTYFs1GVsa5-YGbgHZA3dqlTSnBQCta8cT8i-wqzyOFcHNmJJ1NZYcYykkpZh14A2Sd3bcCUMB_Rhxqb3jWEu4M97SzjDV7cmn2sn1QbjrgZtK-qWwh79yAj7zXEeN-un=s1600)
+
 ## 8월 5일의 탄생색: 요구르트 (`#FFDCB8`)
 
 ### 1. 요구르트에 대한 설명: 어린 시절의 추억을 소환하는 달콤한 밀키 웨이

@@ -1,21 +1,27 @@
 ---
-title: "Coral, The Birthday Color of July 1st"
-date: 2026-07-01
-description: "The birthday color for July 1st is Coral (FF7F50). Its meaning is Lively, Charming, Optimistic."
-author: 365days
+title: "Coral, The Birthday Color of July 1"
+date: "2026-07-01"
+updated: "2026-07-01"
 tags:
-  - coral
-  - birthday color
-  - july 1st
-  - ff7f50
-  - july
-  - high sky
-draft: false
+  - "coral"
+  - "birthday color"
+  - "july 1"
+  - "ff7f50"
+  - "july"
+  - "high sky"
+description: "The birthday color for July 1 is Coral (FF7F50). Its meaning is Lively, Charming, Optimistic."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiL-OOj7H1Q5cU13rvF1GFxDCUybIENMDgNnroXCFaZBScJtIMwb8eTppT9aLwEjAoBQ9HHffpBFe5FPOjhsFqsk8X9SmRDDK44e-0CQfsxgKMehTT55fkHKnVHKpdXRJQZJrKp4Dwc_qeOi-HphDQyYfpIE0LoSJ5duJhkHH0jgpXLTDUrViVj3Hmdw6U3=s1600"
+en_name: "Coral"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Coral](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_183.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiL-OOj7H1Q5cU13rvF1GFxDCUybIENMDgNnroXCFaZBScJtIMwb8eTppT9aLwEjAoBQ9HHffpBFe5FPOjhsFqsk8X9SmRDDK44e-0CQfsxgKMehTT55fkHKnVHKpdXRJQZJrKp4Dwc_qeOi-HphDQyYfpIE0LoSJ5duJhkHH0jgpXLTDUrViVj3Hmdw6U3=s1600)
 
-## Birthday Color for July 1st: Coral (`#FF7F50`)
+
+## Birthday Color for July 1: Coral (`#FF7F50`)
 
 ### 1. Description of Coral (Feeling and Traits)
 
@@ -31,7 +37,7 @@ People born with **Coral** as their birthday color are naturally **charming** an
 
 ### 4. Plus Tip (Destiny Color)
 
-Coral pairs beautifully with **High Sky** (Hex: `#0B8AC3`), the birthday color for January 22nd. The **vibrancy** of Coral and the **innovative** spirit of High Sky complement each other perfectly, creating a synergy that encourages creativity and bold new beginnings. Together, they represent a balance of **optimism** and **exploration**, a perfect combination for those who embrace both the excitement of life and the drive to push boundaries.
+Coral pairs beautifully with **High Sky** (Hex: `#0B8AC3`), the birthday color for January 22. The **vibrancy** of Coral and the **innovative** spirit of High Sky complement each other perfectly, creating a synergy that encourages creativity and bold new beginnings. Together, they represent a balance of **optimism** and **exploration**, a perfect combination for those who embrace both the excitement of life and the drive to push boundaries.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,21 +1,27 @@
 ---
-title: "Ash Black, The Birthday Color of November 2nd"
-date: 2026-11-02
-description: "The birthday color for November 2nd is Ash Black (282221). Its meaning is Accepting Change, Knowing Cycle, Innovative."
-author: 365days
+title: "Ash Black, The Birthday Color of November 2"
+date: "2026-11-02"
+updated: "2026-11-02"
 tags:
-  - ash black
-  - birthday color
-  - november 2nd
-  - 282221
-  - november
-  - whipped cream
-draft: false
+  - "ash black"
+  - "birthday color"
+  - "november 2"
+  - "282221"
+  - "november"
+  - "whipped cream"
+description: "The birthday color for November 2 is Ash Black (282221). Its meaning is Accepting Change, Knowing Cycle, Innovative."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhZOaqVGnxRZBkcc87KMsWDn51PKmHZbGCHXa0axx8n_2LVLbvFUSz8SYGfBEoXz8SRzDW5t7gvS86HjqiVamB1aHCJ4jvo5aYQ90PkSCPdRgjhDG_3rWLN2RxIHkmlf-l-O-wHIx8eP8E6l4IAqlnqqDxd_coe0lw_XQFyl1pHG1gYoTgUNXZK3Ln4ax1g=s1600"
+en_name: "AshBlack"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Ash Black](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_307.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhZOaqVGnxRZBkcc87KMsWDn51PKmHZbGCHXa0axx8n_2LVLbvFUSz8SYGfBEoXz8SRzDW5t7gvS86HjqiVamB1aHCJ4jvo5aYQ90PkSCPdRgjhDG_3rWLN2RxIHkmlf-l-O-wHIx8eP8E6l4IAqlnqqDxd_coe0lw_XQFyl1pHG1gYoTgUNXZK3Ln4ax1g=s1600)
 
-## Birthday Color for November 2nd: Ash Black (`#282221`)
+
+## Birthday Color for November 2: Ash Black (`#282221`)
 
 ### 1. Description of Ash Black (Feeling and Traits)
 
@@ -41,7 +47,7 @@ When used in interiors, **Ash Black** can create a **calm**, **serene atmosphere
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **August 6th**, the partner color **Whipped Cream** (Hex: `#DFDCDD`) represents **purity**, **softness**, and **cleanliness**. Combining **Ash Black** with **Whipped Cream** creates a harmonious balance of **boldness** and **gentleness**. This pairing evokes both the strength of innovation and the **softness** of simplicity—an inspiring combination for moments of **creation** and **renewal**.
+For those born on **August 6**, the partner color **Whipped Cream** (Hex: `#DFDCDD`) represents **purity**, **softness**, and **cleanliness**. Combining **Ash Black** with **Whipped Cream** creates a harmonious balance of **boldness** and **gentleness**. This pairing evokes both the strength of innovation and the **softness** of simplicity—an inspiring combination for moments of **creation** and **renewal**.
 
 ### 5. Conclusion (A Poem of Healing)
 

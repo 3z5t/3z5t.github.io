@@ -1,21 +1,27 @@
 ---
-title: "Papaya Blue, The Birthday Color of April 22nd"
-date: 2026-04-22
-description: "The birthday color for April 22nd is Papaya Blue (37B5BE). Its meaning is Energetic, Healthy, Vibrant."
-author: 365days
+title: "Papaya Blue, The Birthday Color of April 22"
+date: "2026-04-22"
+updated: "2026-04-22"
 tags:
-  - papaya blue
-  - birthday color
-  - april 22nd
-  - 37b5be
-  - april
-  - intense sunset
-draft: false
+  - "papaya blue"
+  - "birthday color"
+  - "april 22"
+  - "37b5be"
+  - "april"
+  - "intense sunset"
+description: "The birthday color for April 22 is Papaya Blue (37B5BE). Its meaning is Energetic, Healthy, Vibrant."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgv7f-dYU5yQPKrhDRVS3pJCjiYzUt6vP_erJaXXUSZmsQonUgx4lF544GsFhIML80OoJzTrH1kknQO7VuTVSza5k63Bv4P90_h78YqnZ5q4bcWRX0RWfnVgSq_PyBt-gcbQFsDmfrgyP9Ikx79ZVVkACFU5uQrFJhVqitquDIK_l0xiQVJR7msKZ1Zjh1e=s1600"
+en_name: "PapayaBlue"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Papaya Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_113.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgv7f-dYU5yQPKrhDRVS3pJCjiYzUt6vP_erJaXXUSZmsQonUgx4lF544GsFhIML80OoJzTrH1kknQO7VuTVSza5k63Bv4P90_h78YqnZ5q4bcWRX0RWfnVgSq_PyBt-gcbQFsDmfrgyP9Ikx79ZVVkACFU5uQrFJhVqitquDIK_l0xiQVJR7msKZ1Zjh1e=s1600)
 
-## Birthday Color for April 22nd: Papaya Blue (`#37B5BE`)
+
+## Birthday Color for April 22: Papaya Blue (`#37B5BE`)
 
 ### 1. Description of Papaya Blue (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Papaya Blue** makes a striking statement. Whether in a **flowing d
 
 ### 4. Plus Tip (Destiny Color)
 
-**Papaya Blue** pairs beautifully with **Intense Sunset** (Hex: `#BC5445`), the birthday color of October 1st. The combination of these two colors creates a dynamic contrast—while **Papaya Blue** brings energy and vibrancy, **Intense Sunset** adds depth and passion. Together, they evoke a sense of both vitality and emotional richness, making for a perfect balance of light and intensity.
+**Papaya Blue** pairs beautifully with **Intense Sunset** (Hex: `#BC5445`), the birthday color of October 1. The combination of these two colors creates a dynamic contrast—while **Papaya Blue** brings energy and vibrancy, **Intense Sunset** adds depth and passion. Together, they evoke a sense of both vitality and emotional richness, making for a perfect balance of light and intensity.
 
 ### 5. Conclusion (A Poem of Healing)
 

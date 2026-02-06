@@ -1,21 +1,27 @@
 ---
-title: "Deep Cyan, The Birthday Color of May 23rd"
-date: 2026-05-23
-description: "The birthday color for May 23rd is Deep Cyan (347691). Its meaning is Mysterious, Intuition, Insight."
-author: 365days
+title: "Deep Cyan, The Birthday Color of May 23"
+date: "2026-05-23"
+updated: "2026-05-23"
 tags:
-  - deep cyan
-  - birthday color
-  - may 23rd
-  - 347691
-  - may
-  - cream mocha
-draft: false
+  - "deep cyan"
+  - "birthday color"
+  - "may 23"
+  - "347691"
+  - "may"
+  - "cream mocha"
+description: "The birthday color for May 23 is Deep Cyan (347691). Its meaning is Mysterious, Intuition, Insight."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh-ONFGFlFWClAgLt0KntgvSmFZR9UshPjgyQSKYsHLpTLdeGH9EvH2wgz4vr2xS_XJptovPszMoaDSa0sm7y49GUs1Z12Zdq3iYVCcDRKUCLVptZpHx_TGRi1eSFfJmu0B4rzzk4vmlsxwqd2Ylj7yNUdtDmLddc5nWv64gDCCyb6ueakO5C9FfHlB06IE=s1600"
+en_name: "DeepCyan"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Deep Cyan](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_144.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh-ONFGFlFWClAgLt0KntgvSmFZR9UshPjgyQSKYsHLpTLdeGH9EvH2wgz4vr2xS_XJptovPszMoaDSa0sm7y49GUs1Z12Zdq3iYVCcDRKUCLVptZpHx_TGRi1eSFfJmu0B4rzzk4vmlsxwqd2Ylj7yNUdtDmLddc5nWv64gDCCyb6ueakO5C9FfHlB06IE=s1600)
 
-## Birthday Color for May 23rd: Deep Cyan (`#347691`)
+
+## Birthday Color for May 23: Deep Cyan (`#347691`)
 
 ### 1. Description of Deep Cyan (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Deep Cyan** is a statement of **mystery** and **refinement**. Whet
 
 ### 4. Plus Tip (Destiny Color)
 
-Those born on **May 23rd** may find that **Deep Cyan** pairs wonderfully with **Cream Mocha** (Hex: `#D19A71`), the birthday color of **June 21st**. While **Deep Cyan** offers an air of mystery and intuitive depth, **Cream Mocha** brings a sense of **relaxation** and **stability**. Together, they create a harmonious balance between the analytical mind and the peaceful, soothing nature of the world around you.
+Those born on **May 23** may find that **Deep Cyan** pairs wonderfully with **Cream Mocha** (Hex: `#D19A71`), the birthday color of **June 21**. While **Deep Cyan** offers an air of mystery and intuitive depth, **Cream Mocha** brings a sense of **relaxation** and **stability**. Together, they create a harmonious balance between the analytical mind and the peaceful, soothing nature of the world around you.
 
 ### 5. Conclusion (A Poem of Healing)
 

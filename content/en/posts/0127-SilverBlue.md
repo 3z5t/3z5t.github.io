@@ -1,21 +1,30 @@
 ---
-title: "Silver Blue, The Birthday Color of January 27th"
-date: 2026-01-27
-description: "The birthday color for January 27th is Silver Blue (ABB5C1). Its meaning is Dignified, Elegant, Noble."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-27'
+description: The birthday color for January 27 is Silver Blue (ABB5C1). Its meaning
+  is Dignified, Elegant, Noble.
+en_name: SilverBlue
 tags:
-  - silver blue
-  - birthday color
-  - january 27th
-  - abb5c1
-  - january
-  - dark espresso
-draft: false
+- silver blue
+- birthday color
+- january 27
+- abb5c1
+- january
+- dark espresso
+postId: '5145923619710041588'
+postUrl: https://the366days-en.blogspot.com/2026/01/silver-blue-birthday-color-of-january-27.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiAA19n4cHsFl4NJD0WJ9DNmxF23Hh1qVzisFNLq2t0MoHBEZ00ArTEdy8e_AtWuMtgW-dy4ShuUbOX5fEMMF_oa5-04AF-WE1HXrz26z2OHOOcXBGOYXpR0TqiqbRuX7q1NIx_BG0k0DD-aS2tQyhMtYjc4fxmea4ZalD9NqYUIw-dxnxfTIZkzb6WtVuI=s1600
+title: Silver Blue, The Birthday Color of January 27
+updated: '2026-01-27'
 ---
 
-![Silver Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_027.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiAA19n4cHsFl4NJD0WJ9DNmxF23Hh1qVzisFNLq2t0MoHBEZ00ArTEdy8e_AtWuMtgW-dy4ShuUbOX5fEMMF_oa5-04AF-WE1HXrz26z2OHOOcXBGOYXpR0TqiqbRuX7q1NIx_BG0k0DD-aS2tQyhMtYjc4fxmea4ZalD9NqYUIw-dxnxfTIZkzb6WtVuI=s1600)
 
-## Birthday Color for January 27th: Silver Blue (`#ABB5C1`)
+
+![Silver Blue, The Birthday Color of January 27](https://blogger.googleusercontent.com/img/a/AVvXsEiAA19n4cHsFl4NJD0WJ9DNmxF23Hh1qVzisFNLq2t0MoHBEZ00ArTEdy8e_AtWuMtgW-dy4ShuUbOX5fEMMF_oa5-04AF-WE1HXrz26z2OHOOcXBGOYXpR0TqiqbRuX7q1NIx_BG0k0DD-aS2tQyhMtYjc4fxmea4ZalD9NqYUIw-dxnxfTIZkzb6WtVuI=s1600)
+
+## Birthday Color for January 27: Silver Blue (`#ABB5C1`)
 
 ### 1. Description of Silver Blue (Feeling and Traits)
 
@@ -31,7 +40,7 @@ For those born under the sign of Silver Blue, this color speaks to a **noble sou
 
 ### 4. Plus Tip (Destiny Color)
 
-For a dash of contrast and synergy, consider combining **Silver Blue** with **Dark Espresso** (Hex: `#504644`), the birthday color of October 26th. The rich, **stable** energy of Dark Espresso complements Silver Blue’s **elegance**, creating a deep, balanced connection that brings out the best in both.
+For a dash of contrast and synergy, consider combining **Silver Blue** with **Dark Espresso** (Hex: `#504644`), the birthday color of October 26. The rich, **stable** energy of Dark Espresso complements Silver Blue’s **elegance**, creating a deep, balanced connection that brings out the best in both.
 
 ### 5. Conclusion (A Poem of Healing)
 

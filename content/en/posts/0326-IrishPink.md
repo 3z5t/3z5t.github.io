@@ -1,21 +1,27 @@
 ---
-title: "Irish Pink, The Birthday Color of March 26th"
-date: 2026-03-26
-description: "The birthday color for March 26th is Irish Pink (DFAEA7). Its meaning is Lively, Vitality, Healthy."
-author: 365days
+title: "Irish Pink, The Birthday Color of March 26"
+date: "2026-03-26"
+updated: "2026-03-26"
 tags:
-  - irish pink
-  - birthday color
-  - march 26th
-  - dfaea7
-  - march
-  - deep sea
-draft: false
+  - "irish pink"
+  - "birthday color"
+  - "march 26"
+  - "dfaea7"
+  - "march"
+  - "deep sea"
+description: "The birthday color for March 26 is Irish Pink (DFAEA7). Its meaning is Lively, Vitality, Healthy."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEikftVMi8MVE540iJGYKhn7wAYX6Qm9Sr7BXnVFIJI-XmKXc5SjdR_X9A89H0lE4QDI0sUZWRExpn86fD0AoxkQaL1H4zFlsbtCz327vPqpJR1dW2Kxxg8uG8iM6tvFIi9VhhLz0pzenvIVqxw6UcGXYGgupkywZB95pdTnpJCazp_0JUhY-7OM-Zl_1w84=s1600"
+en_name: "IrishPink"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Irish Pink](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_086.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEikftVMi8MVE540iJGYKhn7wAYX6Qm9Sr7BXnVFIJI-XmKXc5SjdR_X9A89H0lE4QDI0sUZWRExpn86fD0AoxkQaL1H4zFlsbtCz327vPqpJR1dW2Kxxg8uG8iM6tvFIi9VhhLz0pzenvIVqxw6UcGXYGgupkywZB95pdTnpJCazp_0JUhY-7OM-Zl_1w84=s1600)
 
-## Birthday Color for March 26th: Irish Pink (`#DFAEA7`)
+
+## Birthday Color for March 26: Irish Pink (`#DFAEA7`)
 
 ### 1. Description of Irish Pink (Feeling and Traits)
 
@@ -31,7 +37,7 @@ To bring the vibrant energy of **Irish Pink** into your life, keep things light 
 
 ### 4. Plus Tip (Destiny Color)
 
-For those looking for a deep and thoughtful complement to **Irish Pink**, consider **Deep Sea** (Hex: `#2F4F4F`), the birthday color of May 20th. **Combining Irish Pink with Deep Sea** creates a dynamic balance of **vitality** and **wisdom**, where the vibrant energy of pink meets the calming, insightful nature of Deep Sea. Together, they form a beautiful synergy that grounds and uplifts, inviting both physical energy and contemplative thought.
+For those looking for a deep and thoughtful complement to **Irish Pink**, consider **Deep Sea** (Hex: `#2F4F4F`), the birthday color of May 20. **Combining Irish Pink with Deep Sea** creates a dynamic balance of **vitality** and **wisdom**, where the vibrant energy of pink meets the calming, insightful nature of Deep Sea. Together, they form a beautiful synergy that grounds and uplifts, inviting both physical energy and contemplative thought.
 
 ### 5. Conclusion (A Poem of Healing)
 

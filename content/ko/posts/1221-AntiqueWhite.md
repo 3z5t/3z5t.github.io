@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjiwje_-qwJvXJweiiXARtcLhyRGeeg8KFP9FRHO7Nm_rx6RvEZanpjDUxSqztGSCsFNuEggtl7WAXZWiegHwDqVr6d_WViCaccC-j1eteQamiMfaCzJT5QFbLaYIyrdGbyIAV7iqe-qXpl0QN9mYV_pbIdPdNHevCQP6aqTCjf4muoKiD9wp_czYf_n8Tp=s1600)
+
 ## 12월 21일의 탄생색: 앤티크 화이트 (`#EBE2CE`)
 
 ### 1. 앤티크 화이트에 대한 설명 (색의 느낌과 특징)

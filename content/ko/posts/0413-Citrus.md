@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgS8rMR880_AUF1FA_aiu08CA-PnxZweQNhKu5JVxTY36e6P0o21dRebIwWvm3n-W-AL-TGybUjiy_6eUrhPzv5J90_71wjOVAud6UOGbxMBy-gjhsGCzFesEEwE4fjCDUaQ40MxY0Ybu8CZz5LzGNT4sVDjR0QoAPU5dR-C2T9woxS50lCxxQVYqF1pFHy=s1600)
+
 ## 4월 13일의 탄생색: 시트러스 (`#99CC00`)
 
 ### 1. 시트러스에 대한 설명 (색의 느낌과 특징)

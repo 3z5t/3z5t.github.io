@@ -1,21 +1,27 @@
 ---
-title: "Noble Ivory, The Birthday Color of December 11th"
-date: 2026-12-11
-description: "The birthday color for December 11th is Noble Ivory (F4EBE7). Its meaning is Noble Soul, Elegant, Classy."
-author: 365days
+title: "Noble Ivory, The Birthday Color of December 11"
+date: "2026-12-11"
+updated: "2026-12-11"
 tags:
-  - noble ivory
-  - birthday color
-  - december 11th
-  - f4ebe7
-  - december
-  - midnight black
-draft: false
+  - "noble ivory"
+  - "birthday color"
+  - "december 11"
+  - "f4ebe7"
+  - "december"
+  - "midnight black"
+description: "The birthday color for December 11 is Noble Ivory (F4EBE7). Its meaning is Noble Soul, Elegant, Classy."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjdlB5XdS2x_s30X0N5mrtxSKCtO6l4J1KSUWBL0e38j80XI4h9-4hsmNnooRZ0N2tNXx8kXkx3NclVDyJ9fPViUFKYIW4Yc03vV9w_YOz0kgHLfV9-3-e2hPazlJaxwkYjCpxsXxyNRPwr9DW5b0kAwtRibryQaxnGI6Pwg4rHt_z_7TzDUUO_GIUyKa4v=s1600"
+en_name: "NobleIvory"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Noble Ivory](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_346.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjdlB5XdS2x_s30X0N5mrtxSKCtO6l4J1KSUWBL0e38j80XI4h9-4hsmNnooRZ0N2tNXx8kXkx3NclVDyJ9fPViUFKYIW4Yc03vV9w_YOz0kgHLfV9-3-e2hPazlJaxwkYjCpxsXxyNRPwr9DW5b0kAwtRibryQaxnGI6Pwg4rHt_z_7TzDUUO_GIUyKa4v=s1600)
 
-## Birthday Color for December 11th: Noble Ivory (`#F4EBE7`)
+
+## Birthday Color for December 11: Noble Ivory (`#F4EBE7`)
 
 ### 1. Description of Noble Ivory (Feeling and Traits)
 
@@ -35,7 +41,7 @@ In interior design, **Noble Ivory** brings a sense of calm and tranquility to an
 
 ### 4. Plus Tip (Destiny Color)
 
-When **Noble Ivory** meets **Midnight Black** (the birthday color of December 13th), a powerful synergy is created. **Midnight Black’s** **profound soul** and **meditative quality** perfectly complement the gentleness and elegance of **Noble Ivory**, making for a beautifully balanced pairing of light and dark, softness and depth.
+When **Noble Ivory** meets **Midnight Black** (the birthday color of December 13), a powerful synergy is created. **Midnight Black’s** **profound soul** and **meditative quality** perfectly complement the gentleness and elegance of **Noble Ivory**, making for a beautifully balanced pairing of light and dark, softness and depth.
 
 ### 5. Conclusion (A Poem of Healing)
 

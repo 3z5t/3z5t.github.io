@@ -1,21 +1,27 @@
 ---
-title: "Charcoal, The Birthday Color of November 11th"
-date: 2026-11-11
-description: "The birthday color for November 11th is Charcoal (373F57). Its meaning is Insightful, Wise, Profound."
-author: 365days
+title: "Charcoal, The Birthday Color of November 11"
+date: "2026-11-11"
+updated: "2026-11-11"
 tags:
-  - charcoal
-  - birthday color
-  - november 11th
-  - 373f57
-  - november
-  - winter sand beach
-draft: false
+  - "charcoal"
+  - "birthday color"
+  - "november 11"
+  - "373f57"
+  - "november"
+  - "winter sand beach"
+description: "The birthday color for November 11 is Charcoal (373F57). Its meaning is Insightful, Wise, Profound."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhQmGSRH0pnRQplsbK0pv8wa-kLIcRQFTNZ-L7PxK6zD3OJboyuk7A3INohACFFB0OPKvRrtl8HVFqdiVMNoDmmcQSxgiUFjgtyWsHfCRkeZdsW2B4UJU8a6FF-qOeF8b288Kpnw5WLqhgXVT7Le7SM5HdyZEmtH6omlA5TZHd-D0HO_SsaZ23mayBUql0R=s1600"
+en_name: "Charcoal"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Charcoal](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_316.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhQmGSRH0pnRQplsbK0pv8wa-kLIcRQFTNZ-L7PxK6zD3OJboyuk7A3INohACFFB0OPKvRrtl8HVFqdiVMNoDmmcQSxgiUFjgtyWsHfCRkeZdsW2B4UJU8a6FF-qOeF8b288Kpnw5WLqhgXVT7Le7SM5HdyZEmtH6omlA5TZHd-D0HO_SsaZ23mayBUql0R=s1600)
 
-## Birthday Color for November 11th: Charcoal (`#373F57`)
+
+## Birthday Color for November 11: Charcoal (`#373F57`)
 
 ### 1. Description of Charcoal (Feeling and Traits)
 
@@ -41,7 +47,7 @@ In interior design, **Charcoal** is a color that can define a room with its quie
 
 ### 4. Plus Tip (Destiny Color)
 
-**Winter Sand Beach** (Hex: `#CEB9AB`), the birthday color of **September 12th**, is a wonderful complement to **Charcoal**. While Charcoal brings wisdom and insight, **Winter Sand Beach** adds warmth and coziness. When paired together, they create a balance of **depth and comfort**, allowing the **mystery** of Charcoal to be softened by the gentle embrace of Winter Sand Beach, forming a harmonious duo.
+**Winter Sand Beach** (Hex: `#CEB9AB`), the birthday color of **September 12**, is a wonderful complement to **Charcoal**. While Charcoal brings wisdom and insight, **Winter Sand Beach** adds warmth and coziness. When paired together, they create a balance of **depth and comfort**, allowing the **mystery** of Charcoal to be softened by the gentle embrace of Winter Sand Beach, forming a harmonious duo.
 
 ### 5. Conclusion (A Poem of Healing)
 

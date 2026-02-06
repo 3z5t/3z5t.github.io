@@ -1,21 +1,27 @@
 ---
-title: "Lily White, The Birthday Color of August 9th"
-date: 2026-08-09
-description: "The birthday color for August 9th is Lily White (F3F1EF). Its meaning is Noble Character, Elegance, Integrity."
-author: 365days
+title: "Lily White, The Birthday Color of August 9"
+date: "2026-08-09"
+updated: "2026-08-09"
 tags:
-  - lily white
-  - birthday color
-  - august 9th
-  - f3f1ef
-  - august
-  - deep abyss
-draft: false
+  - "lily white"
+  - "birthday color"
+  - "august 9"
+  - "f3f1ef"
+  - "august"
+  - "deep abyss"
+description: "The birthday color for August 9 is Lily White (F3F1EF). Its meaning is Noble Character, Elegance, Integrity."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjyOWeZiMC020-7t7aPQLLoH3Ulf7mHwlDnd9uGXq5EUyUDVx9h--QP0bZCMriwujqFPeeVzClx1fZzABtJQYMxQ6g9qP7IHTZAC4lE12WW0aJoURwy-2jUEQXDE9dtJZMAg1Pr3ZOvKXlc8G_n-LOhnpIcHsCpMJQRZbXX57sIj-ak5mz-WAQfpIj4qIFg=s1600"
+en_name: "LilyWhite"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Lily White](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_222.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjyOWeZiMC020-7t7aPQLLoH3Ulf7mHwlDnd9uGXq5EUyUDVx9h--QP0bZCMriwujqFPeeVzClx1fZzABtJQYMxQ6g9qP7IHTZAC4lE12WW0aJoURwy-2jUEQXDE9dtJZMAg1Pr3ZOvKXlc8G_n-LOhnpIcHsCpMJQRZbXX57sIj-ak5mz-WAQfpIj4qIFg=s1600)
 
-## Birthday Color for August 9th: Lily White (`#F3F1EF`)
+
+## Birthday Color for August 9: Lily White (`#F3F1EF`)
 
 ### 1. Description of Lily White (Feeling and Traits)
 
@@ -35,7 +41,7 @@ The keyword **'Noble Character'** captures the essence of **Lily White** perfect
 
 ### 4. Plus Tip (Destiny Color)
 
-The **Deep Abyss** color, born on November 19th, is a profound match for **Lily White**. While **Lily White** brings **purity** and **grace**, **Deep Abyss** adds **mystery** and **depth**. The pairing of these two colors creates a perfect balance between **light** and **shadow**, **clarity** and **depth**, making it a wonderfully complementary combination.
+The **Deep Abyss** color, born on November 19, is a profound match for **Lily White**. While **Lily White** brings **purity** and **grace**, **Deep Abyss** adds **mystery** and **depth**. The pairing of these two colors creates a perfect balance between **light** and **shadow**, **clarity** and **depth**, making it a wonderfully complementary combination.
 
 ### 5. Conclusion (A Poem of Healing)
 

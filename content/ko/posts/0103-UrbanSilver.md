@@ -19,6 +19,9 @@ postId: "1004"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgYSVMI7n1kehkPuiq1CTAUFYaG5XhVbcwQsntu_NbrKJGuPGRVOHRZJ3R7DSnrtq7IINJlgv7s_WSpnZiooGX9qFGayCanVBpyZtue19Aw1J4qsV2T74015Bt6oLp7DTqOTuymgeT-FZ3j2951UQyyrKHWAPDB-TAVBqBZD4HcAsq5bc_1VAvq3W6JmTA-=s1600)
+
+
 **1월 3일의 탄생색: 어반 실버 (#808080)**
 
 ### 1. 어반 실버에 대한 설명 (색의 느낌과 특징)

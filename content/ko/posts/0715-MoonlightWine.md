@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEinrrVeXs5fiRWXKKUe32ygVa3Hquh9PwxtzWxNezgMneOchWIVF5gNosFW1jLJAdluqdWlnMcPlV-8D7LKx1u3qXxgv-ur52viJSpmOrswX09oXry54yBhb8-WMHcmhSL7QPtO5DZ1cHecwvcoqeynyRCrUy74_vxOBbIbt32jgOqPmUB94238bF451elj=s1600)
+
 ## 7월 15일의 탄생색: 문라이트 와인 (`#610928`)
 
 ### 1. 문라이트 와인에 대한 설명: 달빛이 스며든 가장 깊은 밤의 술

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjyYYPg3QXPVJQxdk3-ZUgrVv7myqt00oWdkyBFvd8fojRpWf3cSu0QEi1omryvinwAtSRT9AvfH3RApZ9E-pjGWJYASIv0xW7hvFJfymufpKfrauZmWdCA1WpJQ-etKDWxvxoOofSlIbwUtLBKeOvMMz170TKCF8f8iC4G5AaHi42MBzadN4PkuLI6Poa1=s1600)
+
 ## 8월 18일의 탄생색: 로얄 베이지 (`#AB9170`)
 
 ### 1. 로얄 베이지에 대한 설명: 세월이 빚어낸 황금빛 침묵

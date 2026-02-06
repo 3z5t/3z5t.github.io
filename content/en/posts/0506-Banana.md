@@ -1,21 +1,27 @@
 ---
-title: "Banana, The Birthday Color of May 6th"
-date: 2026-05-06
-description: "The birthday color for May 6th is Banana (FFF462). Its meaning is Cheerful, Joyful, Optimistic."
-author: 365days
+title: "Banana, The Birthday Color of May 6"
+date: "2026-05-06"
+updated: "2026-05-06"
 tags:
-  - banana
-  - birthday color
-  - may 6th
-  - fff462
-  - may
-  - royal cobalt
-draft: false
+  - "banana"
+  - "birthday color"
+  - "may 6"
+  - "fff462"
+  - "may"
+  - "royal cobalt"
+description: "The birthday color for May 6 is Banana (FFF462). Its meaning is Cheerful, Joyful, Optimistic."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj15laAhOhg48cvdOqG17-NOEkHAliGlj0x3qEIAB1H4l26y0Idx3S-dUjegeiMFdJ1nZi3HTtAasocXIv4oRCfXLgoLFHiJ3-a6S2Xu75Yqi5en7kOS0Zk-hL2I_qYabw1wSFamSnBEJujVFG6c570Y_9Besp8ih-Wd539bp-qstNOFORvkUV8OujNyqUa=s1600"
+en_name: "Banana"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Banana](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_127.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj15laAhOhg48cvdOqG17-NOEkHAliGlj0x3qEIAB1H4l26y0Idx3S-dUjegeiMFdJ1nZi3HTtAasocXIv4oRCfXLgoLFHiJ3-a6S2Xu75Yqi5en7kOS0Zk-hL2I_qYabw1wSFamSnBEJujVFG6c570Y_9Besp8ih-Wd539bp-qstNOFORvkUV8OujNyqUa=s1600)
 
-## Birthday Color for May 6th: Banana (`#FFF462`)
+
+## Birthday Color for May 6: Banana (`#FFF462`)
 
 ### 1. Description of Banana (Feeling and Traits)
 
@@ -32,7 +38,7 @@ In **interiors**, **Banana** can be used to create a light and airy space, perfe
 
 ### 4. Plus Tip (Destiny Color)
 
-For an added touch of sophistication, **Banana** combines beautifully with **Royal Cobalt** (Hex: `#00009B`), the birthday color of January 5th. While **Banana** brings warmth and energy, **Royal Cobalt** adds a deep sense of **strength** and **authority**. The balance between these two colors creates a perfect harmony between **joy** and **purpose**, helping you embrace both the playful and the profound sides of life.
+For an added touch of sophistication, **Banana** combines beautifully with **Royal Cobalt** (Hex: `#00009B`), the birthday color of January 5. While **Banana** brings warmth and energy, **Royal Cobalt** adds a deep sense of **strength** and **authority**. The balance between these two colors creates a perfect harmony between **joy** and **purpose**, helping you embrace both the playful and the profound sides of life.
 
 ### 5. Conclusion (A Poem of Healing)
 

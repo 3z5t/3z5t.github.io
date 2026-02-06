@@ -1,21 +1,27 @@
 ---
-title: "Deep Night Sky, The Birthday Color of September 3rd"
-date: 2026-09-03
-description: "The birthday color for September 3rd is Deep Night Sky (142029). Its meaning is Insightful, Mysterious, Contemplative."
-author: 365days
+title: "Deep Night Sky, The Birthday Color of September 3"
+date: "2026-09-03"
+updated: "2026-09-03"
 tags:
-  - deep night sky
-  - birthday color
-  - september 3rd
-  - 142029
-  - september
-  - antique ivory
-draft: false
+  - "deep night sky"
+  - "birthday color"
+  - "september 3"
+  - "142029"
+  - "september"
+  - "antique ivory"
+description: "The birthday color for September 3 is Deep Night Sky (142029). Its meaning is Insightful, Mysterious, Contemplative."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjzWTUAhCck-paMO7nJKH7fR-SONuKOu4sKkgjOnva6nOWbYDcpfeQqzScTbaKmJbtJXAdf_xpoeshwKXq5NGvCUGqWHwicCgDvr-jFAq03wss1XFvZwUKqqoa_vlT_0OIgasDuqLV6phNPNt_Hq7ryUX5pPdHdekScKEFjRmuqni87g16DDC-ULpi76ukk=s1600"
+en_name: "DeepNightSky"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Deep Night Sky](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_247.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjzWTUAhCck-paMO7nJKH7fR-SONuKOu4sKkgjOnva6nOWbYDcpfeQqzScTbaKmJbtJXAdf_xpoeshwKXq5NGvCUGqWHwicCgDvr-jFAq03wss1XFvZwUKqqoa_vlT_0OIgasDuqLV6phNPNt_Hq7ryUX5pPdHdekScKEFjRmuqni87g16DDC-ULpi76ukk=s1600)
 
-## Birthday Color for September 3rd: Deep Night Sky (`#142029`)
+
+## Birthday Color for September 3: Deep Night Sky (`#142029`)
 
 ### 1. Description of Deep Night Sky (Feeling and Traits)
 
@@ -37,7 +43,7 @@ For interior design, **Deep Night Sky** creates an environment that encourages r
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Antique Ivory**, the birthday color of December 12th, the combination creates a harmonious yet striking synergy. **Antique Ivory** brings a sense of purity and **elegance**, offering a gentle contrast to the deep, enigmatic qualities of **Deep Night Sky**, making it a perfect match for those seeking to balance **mystery** with **refinement**.
+When paired with **Antique Ivory**, the birthday color of December 12, the combination creates a harmonious yet striking synergy. **Antique Ivory** brings a sense of purity and **elegance**, offering a gentle contrast to the deep, enigmatic qualities of **Deep Night Sky**, making it a perfect match for those seeking to balance **mystery** with **refinement**.
 
 ### 5. Conclusion (A Poem of Healing)
 

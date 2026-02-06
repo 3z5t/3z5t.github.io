@@ -19,6 +19,9 @@ postId: "1004"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgociM1cuKOxruHbZFrPKrHw-906YShXxBiorhEQGFIxbhw7HyJ0RnsWkfCDqJB46jcRf00ONgipdu2K2R1095qradVbnnUC7q3XwC4hs1AJLmVb7bsxj5mnYQYL5RC5SiKnlzIXn7pj7g1chLoKcEn9-AmU4kMckWxGVdpfKyggAi-M_pmbWGr7xIMzYc4=s1600)
+
+
 **1월 4일의 탄생색: 딥 스카이블루 (#00CCFF)**
 
 ### 1. 딥 스카이블루에 대한 설명 (색의 느낌과 특징)

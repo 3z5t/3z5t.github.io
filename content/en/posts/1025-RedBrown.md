@@ -1,21 +1,27 @@
 ---
-title: "Red Brown, The Birthday Color of October 25th"
-date: 2026-10-25
-description: "The birthday color for October 25th is Red Brown (6C1818). Its meaning is Strong Will, Solid, Decisive."
-author: 365days
+title: "Red Brown, The Birthday Color of October 25"
+date: "2026-10-25"
+updated: "2026-10-25"
 tags:
-  - red brown
-  - birthday color
-  - october 25th
-  - 6c1818
-  - october
-  - clear sky
-draft: false
+  - "red brown"
+  - "birthday color"
+  - "october 25"
+  - "6c1818"
+  - "october"
+  - "clear sky"
+description: "The birthday color for October 25 is Red Brown (6C1818). Its meaning is Strong Will, Solid, Decisive."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiHAe8CIC2siVkJArShDtqDnWl8MszZRqNcLPTkG4ccJQVxVbNqWbsC-OvACYSeeHIygBlueMXINKvwp67OEZ8vLWEPzL--2sBircnWup_spXA--iV7Qp34pfkuUOQm3YiZaB4rxPw1_fTZ14zD6Dj9HmWkcfme1H5eipqSi5jS0P_S7S06vufTrJjRcUXQ=s1600"
+en_name: "RedBrown"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Red Brown](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_299.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiHAe8CIC2siVkJArShDtqDnWl8MszZRqNcLPTkG4ccJQVxVbNqWbsC-OvACYSeeHIygBlueMXINKvwp67OEZ8vLWEPzL--2sBircnWup_spXA--iV7Qp34pfkuUOQm3YiZaB4rxPw1_fTZ14zD6Dj9HmWkcfme1H5eipqSi5jS0P_S7S06vufTrJjRcUXQ=s1600)
 
-## Birthday Color for October 25th: Red Brown (`#6C1818`)
+
+## Birthday Color for October 25: Red Brown (`#6C1818`)
 
 ### 1. Description of Red Brown (Feeling and Traits)
 
@@ -37,7 +43,7 @@ When it comes to interior styling, **Red Brown** brings a sense of stability and
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **January 21st**, the partner color **Clear Sky** (Hex: `#99DBE9`) embodies an **idealistic, dreamy, and romantic** nature. Combining **Red Brown** with **Clear Sky** creates a harmonious balance of **strength and hope**, where solid determination meets light, airy aspirations.
+For those born on **January 21**, the partner color **Clear Sky** (Hex: `#99DBE9`) embodies an **idealistic, dreamy, and romantic** nature. Combining **Red Brown** with **Clear Sky** creates a harmonious balance of **strength and hope**, where solid determination meets light, airy aspirations.
 
 ### 5. Conclusion (A Poem of Healing)
 

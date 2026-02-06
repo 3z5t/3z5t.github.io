@@ -1,21 +1,27 @@
 ---
-title: "Fresh Mint, The Birthday Color of March 3rd"
-date: 2026-03-03
-description: "The birthday color for March 3rd is Fresh Mint (64D1C3). Its meaning is Creativity, Refreshing, Positivity."
-author: 365days
+title: "Fresh Mint, The Birthday Color of March 3"
+date: "2026-03-03"
+updated: "2026-03-03"
 tags:
-  - fresh mint
-  - birthday color
-  - march 3rd
-  - 64d1c3
-  - march
-  - milano red
-draft: false
+  - "fresh mint"
+  - "birthday color"
+  - "march 3"
+  - "64d1c3"
+  - "march"
+  - "milano red"
+description: "The birthday color for March 3 is Fresh Mint (64D1C3). Its meaning is Creativity, Refreshing, Positivity."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh4TWp_FwRwllYAEb7LZtZumzrazRH84Lni57TiBnhE1KenoMna78Wh6bE2s3ifNHTYboZkqV1c2BM3YPO4IIfe7N7LN0AzvAgq027Jv96cYyqvG3Y9ukwItRtuw1G_tzZCREoRfwy1ZqCUvsSb6-BS_tLRdgnwMCpz6QLraV912Yi3kadQ_TsREJ2CUBeO=s1600"
+en_name: "FreshMint"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Fresh Mint](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_063.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh4TWp_FwRwllYAEb7LZtZumzrazRH84Lni57TiBnhE1KenoMna78Wh6bE2s3ifNHTYboZkqV1c2BM3YPO4IIfe7N7LN0AzvAgq027Jv96cYyqvG3Y9ukwItRtuw1G_tzZCREoRfwy1ZqCUvsSb6-BS_tLRdgnwMCpz6QLraV912Yi3kadQ_TsREJ2CUBeO=s1600)
 
-## Birthday Color for March 3rd: Fresh Mint (`#64D1C3`)
+
+## Birthday Color for March 3: Fresh Mint (`#64D1C3`)
 
 ### 1. Description of Fresh Mint (Feeling and Traits)
 
@@ -33,7 +39,7 @@ In interior design, **Fresh Mint** is perfect for creating a **refreshing, peace
 
 ### 4. Plus Tip (Destiny Color)
 
-**Fresh Mint** finds a beautiful complement in **Milano Red**, the birthday color of **October 9th**. While **Fresh Mint** offers a **light, refreshing vibe**, **Milano Red** brings in a deep sense of **classical elegance**, creating a balanced contrast that enhances both colors. Together, they symbolize a harmony of **refreshing creativity** and **dignified presence**, creating synergy that encourages both **inspired action** and **measured thought**.
+**Fresh Mint** finds a beautiful complement in **Milano Red**, the birthday color of **October 9**. While **Fresh Mint** offers a **light, refreshing vibe**, **Milano Red** brings in a deep sense of **classical elegance**, creating a balanced contrast that enhances both colors. Together, they symbolize a harmony of **refreshing creativity** and **dignified presence**, creating synergy that encourages both **inspired action** and **measured thought**.
 
 ### 5. Conclusion (A Poem of Healing)
 

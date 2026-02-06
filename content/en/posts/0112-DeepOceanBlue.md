@@ -1,21 +1,28 @@
 ---
-title: "Deep Ocean Blue, The Birthday Color of January 12th"
-date: 2026-01-12
-description: "The birthday color for January 12th is Deep Ocean Blue (465C83). Its meaning is Inclusiveness, Generosity, Broad-minded."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-12'
+description: The birthday color for January 12 is Deep Ocean Blue (465C83). Its meaning
+  is Inclusiveness, Generosity, Broad-minded.
+en_name: DeepOceanBlue
 tags:
-  - deep ocean blue
-  - birthday color
-  - january 12th
-  - 465c83
-  - january
-  - summer sand beach
-draft: false
+- deep ocean blue
+- birthday color
+- january 12
+- 465c83
+- january
+- summer sand beach
+postId: '3239867655531816835'
+postUrl: https://the366days-en.blogspot.com/2026/01/deep-ocean-blue-birthday-color-of.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEifhawbPSmCo3cYuJgAy0x04KkFqQPd_UljLuz6XLuF0EJpVaW-Vn4jH6ffeSBLyDl4pM0Ax0iqQ7wfYWB6LIwFpH3iPztWwkmwIGVfgbna0sFOi1o4oevDyE6ggDYQR2sSXoC41AdwwupIjk6nPKou53Brdrd12h-6JAGC8EL6qQYA3cfBwmYl75V0ZZC_=s1600
+title: Deep Ocean Blue, The Birthday Color of January 12
+updated: '2026-01-12'
 ---
 
-![Deep Ocean Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_012.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEifhawbPSmCo3cYuJgAy0x04KkFqQPd_UljLuz6XLuF0EJpVaW-Vn4jH6ffeSBLyDl4pM0Ax0iqQ7wfYWB6LIwFpH3iPztWwkmwIGVfgbna0sFOi1o4oevDyE6ggDYQR2sSXoC41AdwwupIjk6nPKou53Brdrd12h-6JAGC8EL6qQYA3cfBwmYl75V0ZZC_=s1600)
 
-## Birthday Color for January 12th: Deep Ocean Blue (`#465C83`)
+
+## Birthday Color for January 12: Deep Ocean Blue (`#465C83`)
 
 ### 1. **Description of Deep Ocean Blue (Feeling and Traits)**
 
@@ -31,7 +38,7 @@ In fashion, **Deep Ocean Blue** is a rich and calming choice that exudes eleganc
 
 ### 4. **Plus Tip (Destiny Color)**
 
-To complement **Deep Ocean Blue**, consider the warm embrace of **Summer Sand Beach**, the birthday color of September 13th. Combining the rich, expansive nature of **Deep Ocean Blue** with the gentle warmth of **Summer Sand Beach** creates a harmonious and nurturing energy, perfect for fostering understanding and peaceful connections.
+To complement **Deep Ocean Blue**, consider the warm embrace of **Summer Sand Beach**, the birthday color of September 13. Combining the rich, expansive nature of **Deep Ocean Blue** with the gentle warmth of **Summer Sand Beach** creates a harmonious and nurturing energy, perfect for fostering understanding and peaceful connections.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

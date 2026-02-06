@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj8zE5taS4OPl59sXUDJXcUyQ56fPGcihpOrQZRJzOcebJCCKHYeeLBtEvqa4nOlixfNcfhuIB2XU-BaksGpa0DdeWfV1vCTHQWSrFZPcrux__XLiM8UaTcKgArc2Je7kVoW4N_E6eXgJGJvXwgu10N5a2Fy0q72mzKb1j-IZ0vCX1Lpqn6FFUEYjNI_2mx=s1600)
+
 ## 9월 16일의 탄생색: 연녹차 (`#ABA88A`)
 
 ### 1. 연녹차에 대한 설명: 바람 끝에 실려 오는 은은한 가을의 향기

@@ -19,6 +19,9 @@ postId: "6686465174256583752"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgHg_4occWfSCqqXHWV0xvPa6Iul_HWOR_FIXHgzTfslvWDvEki4bOVToScmDaaFqkJJoV-nXEbMBGD8Gmo2GIfMH4PwGRJ9Wf9wkZVyYDqp-XfU-UxLG6aGxomq9RzQtTJ2oFkDik5AD3OP1kd_j7_TO_21-Mgoy1MnJe6JLDdVqXrPh5Qn-jbHZ7X33G7=s1600)
+
+
 **1월 17일의 탄생색: 파스텔 소라 (#B0C4DE)**
 
 ### 1. 파스텔 소라에 대한 설명 (색의 느낌과 특징)

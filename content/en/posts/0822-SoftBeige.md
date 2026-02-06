@@ -1,21 +1,27 @@
 ---
-title: "Soft Beige, The Birthday Color of August 22nd"
-date: 2026-08-22
-description: "The birthday color for August 22nd is Soft Beige (ECBDA4). Its meaning is Warm Heart, Cozy, Gentle."
-author: 365days
+title: "Soft Beige, The Birthday Color of August 22"
+date: "2026-08-22"
+updated: "2026-08-22"
 tags:
-  - soft beige
-  - birthday color
-  - august 22nd
-  - ecbda4
-  - august
-  - steel navy
-draft: false
+  - "soft beige"
+  - "birthday color"
+  - "august 22"
+  - "ecbda4"
+  - "august"
+  - "steel navy"
+description: "The birthday color for August 22 is Soft Beige (ECBDA4). Its meaning is Warm Heart, Cozy, Gentle."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgmBrsvDMO7k2YDkQjKSaXVderONux01sXoW6LTgjtVnAk2Lu2gklu5GVhTlcIEM4GOOa-sggUwasMPshMTZ5rFDUeNhqz3p5TktP-PTkT2AIgAlTCEf613cUojt38IoDK8l0NDhDKhMQEWq956_PaJwoREwt3uOahEi87PLHKzjK-K4qgUNpAOqKTwuJJ6=s1600"
+en_name: "SoftBeige"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Soft Beige](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_235.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgmBrsvDMO7k2YDkQjKSaXVderONux01sXoW6LTgjtVnAk2Lu2gklu5GVhTlcIEM4GOOa-sggUwasMPshMTZ5rFDUeNhqz3p5TktP-PTkT2AIgAlTCEf613cUojt38IoDK8l0NDhDKhMQEWq956_PaJwoREwt3uOahEi87PLHKzjK-K4qgUNpAOqKTwuJJ6=s1600)
 
-## Birthday Color for August 22nd: Soft Beige (`#ECBDA4`)
+
+## Birthday Color for August 22: Soft Beige (`#ECBDA4`)
 
 ### 1. Description of Soft Beige (Feeling and Traits)
 
@@ -35,7 +41,7 @@ For those born with **Soft Beige** as their birthday color, the keywords are **"
 
 ### 4. Plus Tip (Destiny Color)
 
-The perfect complement to **Soft Beige** is **Steel Navy**, the birthday color for January 11th. Together, they create a beautiful balance—**Steel Navy’s** deep, sturdy tone blends seamlessly with the **gentle warmth** of **Soft Beige**, making a space feel both grounded and tranquil. This pairing adds both **depth** and **comfort**, with each color enhancing the qualities of the other in perfect harmony.
+The perfect complement to **Soft Beige** is **Steel Navy**, the birthday color for January 11. Together, they create a beautiful balance—**Steel Navy’s** deep, sturdy tone blends seamlessly with the **gentle warmth** of **Soft Beige**, making a space feel both grounded and tranquil. This pairing adds both **depth** and **comfort**, with each color enhancing the qualities of the other in perfect harmony.
 
 ### 5. Conclusion (A Poem of Healing)
 

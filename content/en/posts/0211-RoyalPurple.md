@@ -1,21 +1,24 @@
 ---
-title: "Royal Purple, The Birthday Color of February 11th"
-date: 2026-02-11
-description: "The birthday color for February 11th is Royal Purple (800080). Its meaning is Leadership, Charisma, Dignity."
-author: 365days
-tags:
-  - royal purple
-  - birthday color
-  - february 11th
-  - 800080
-  - february
-  - pale green
-draft: false
+"title": "Royal Purple, The Birthday Color of February 11"
+"date": "2026-02-11"
+"updated": "2026-02-11"
+"labels":
+- "royal purple"
+- "birthday color"
+- "february 11"
+- "800080"
+- "february"
+- "pale green"
+"description": "The birthday color for February 11 is Royal Purple (800080). Its meaning is Leadership, Charisma, Dignity."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEiNW6r8669urjXZeO5CpQLDKqMWUyotFoJJNWH4YqP_LxKccA7220aE_yUMfdI_TTkyho_5F1ljEPt97rub_J_xT2ETnD_VFyb3dB2E0nW1pMxvrGrD8SNLgvS1dUazF9_yn3ELak6lMO0twDs4zqPMw5gkhX4YR2a_qV0wYiK-AVuP6AVSU0cPuP8ClZjr=s1600"
+"en_name": "RoyalPurple"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "5990449824738195359"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/royal-purple-birthday-color-of-february.html"
 ---
 
-![Royal Purple](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_042.webp)
-
-## Birthday Color for February 11th: Royal Purple (`#800080`)
+## Birthday Color for February 11: Royal Purple (`#800080`)
 
 ### 1. Description of Royal Purple (Feeling and Traits)
 
@@ -31,7 +34,7 @@ When it comes to **fashion**, **Royal Purple** is a color that exudes authority 
 
 ### 4. Plus Tip (Destiny Color)
 
-**Royal Purple** pairs wonderfully with **Pale Green**, the birthday color of March 7th. While **Royal Purple** embodies **leadership** and **charisma**, **Pale Green** adds a sense of **gentleness** and **harmony**, creating a balance of strength and calm. Together, these colors inspire both **confidence** and **compassion**, making them a perfect combination for those seeking to lead with heart and wisdom.
+**Royal Purple** pairs wonderfully with **Pale Green**, the birthday color of March 7. While **Royal Purple** embodies **leadership** and **charisma**, **Pale Green** adds a sense of **gentleness** and **harmony**, creating a balance of strength and calm. Together, these colors inspire both **confidence** and **compassion**, making them a perfect combination for those seeking to lead with heart and wisdom.
 
 ### 5. Conclusion (A Poem of Healing)
 

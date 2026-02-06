@@ -1,21 +1,27 @@
 ---
-title: "Oxley Green, The Birthday Color of April 20th"
-date: 2026-04-20
-description: "The birthday color for April 20th is Oxley Green (669966). Its meaning is Stability, Mature, Peaceful."
-author: 365days
+title: "Oxley Green, The Birthday Color of April 20"
+date: "2026-04-20"
+updated: "2026-04-20"
 tags:
-  - oxley green
-  - birthday color
-  - april 20th
-  - 669966
-  - april
-  - orchid purple
-draft: false
+  - "oxley green"
+  - "birthday color"
+  - "april 20"
+  - "669966"
+  - "april"
+  - "orchid purple"
+description: "The birthday color for April 20 is Oxley Green (669966). Its meaning is Stability, Mature, Peaceful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi12oY2TOuiJ68ESgBgfR8gnPCw7JYFtNrVZFNiiEC7fpFbzUeQgtnB6bM0U7NbemO_LH8uosuYghZ1hcRXN0YnwFx0WAsqaSLSJCkXsAOgL_jyeOUpB78UD4LleUNdaSAC4tbPsCuP1yP-mD8uyLtaTB1SbNYq9JmstB7vMHfz-H-9_MukZ6QcQHUmUDIw=s1600"
+en_name: "OxleyGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Oxley Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_111.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi12oY2TOuiJ68ESgBgfR8gnPCw7JYFtNrVZFNiiEC7fpFbzUeQgtnB6bM0U7NbemO_LH8uosuYghZ1hcRXN0YnwFx0WAsqaSLSJCkXsAOgL_jyeOUpB78UD4LleUNdaSAC4tbPsCuP1yP-mD8uyLtaTB1SbNYq9JmstB7vMHfz-H-9_MukZ6QcQHUmUDIw=s1600)
 
-## Birthday Color for April 20th: Oxley Green (`#669966`)
+
+## Birthday Color for April 20: Oxley Green (`#669966`)
 
 ### 1. Description of Oxley Green (Feeling and Traits)
 
@@ -31,7 +37,7 @@ To truly highlight the elegance of Oxley Green, consider incorporating it into y
 
 ### 4. Plus Tip (Destiny Color)
 
-For those looking to experiment with a bit more color synergy, try pairing **Oxley Green** with **Orchid Purple** (Hex: `#9F56A2`), the birthday color of February 5th. This combination brings a beautiful contrast—while Oxley Green embodies calm and maturity, Orchid Purple adds a creative spark. Together, they create an atmosphere of harmonious energy that nurtures both peace and inspiration.
+For those looking to experiment with a bit more color synergy, try pairing **Oxley Green** with **Orchid Purple** (Hex: `#9F56A2`), the birthday color of February 5. This combination brings a beautiful contrast—while Oxley Green embodies calm and maturity, Orchid Purple adds a creative spark. Together, they create an atmosphere of harmonious energy that nurtures both peace and inspiration.
 
 ### 5. Conclusion (A Poem of Healing)
 

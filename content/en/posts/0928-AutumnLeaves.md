@@ -1,21 +1,27 @@
 ---
-title: "Autumn Leaves, The Birthday Color of September 28th"
-date: 2026-09-28
-description: "The birthday color for September 28th is Autumn Leaves (362925). Its meaning is Knowing Cycle, Understanding Parting, Inclusive."
-author: 365days
+title: "Autumn Leaves, The Birthday Color of September 28"
+date: "2026-09-28"
+updated: "2026-09-28"
 tags:
-  - autumn leaves
-  - birthday color
-  - september 28th
-  - 362925
-  - september
-  - cloudy sky
-draft: false
+  - "autumn leaves"
+  - "birthday color"
+  - "september 28"
+  - "362925"
+  - "september"
+  - "cloudy sky"
+description: "The birthday color for September 28 is Autumn Leaves (362925). Its meaning is Knowing Cycle, Understanding Parting, Inclusive."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhM9Pua_VC4V6Rw53SbiJpIlxhEIEUqYcANIh-_Iq2kSzyPeMr5xwPNSzy6JqOdev9etcrn6pYoY22vUOggxdzrlsqp6XsbgmG02smff-nBEGLWvz3e1gcWvtKR8DAR4EVSsw9jXnnlworPKEb4u3H0iZB4ckxzGSlRBtVUlrY-EoVgDmtXpjgCqAwkI9Gp=s1600"
+en_name: "AutumnLeaves"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Autumn Leaves](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_272.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhM9Pua_VC4V6Rw53SbiJpIlxhEIEUqYcANIh-_Iq2kSzyPeMr5xwPNSzy6JqOdev9etcrn6pYoY22vUOggxdzrlsqp6XsbgmG02smff-nBEGLWvz3e1gcWvtKR8DAR4EVSsw9jXnnlworPKEb4u3H0iZB4ckxzGSlRBtVUlrY-EoVgDmtXpjgCqAwkI9Gp=s1600)
 
-## Birthday Color for September 28th: Autumn Leaves (`#362925`)
+
+## Birthday Color for September 28: Autumn Leaves (`#362925`)
 
 ### 1. **Description of Autumn Leaves (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ In fashion, **Autumn Leaves** can be an effortlessly elegant choice, offering a 
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For a beautiful contrast, combine **Autumn Leaves** with **Cloudy Sky**, the birthday color of January 24th. **Cloudy Sky’s** calming and **inclusive** nature enhances the grounding energy of **Autumn Leaves**, creating a soothing, balanced synergy that embraces both the warmth of the earth and the soft openness of the sky.
+For a beautiful contrast, combine **Autumn Leaves** with **Cloudy Sky**, the birthday color of January 24. **Cloudy Sky’s** calming and **inclusive** nature enhances the grounding energy of **Autumn Leaves**, creating a soothing, balanced synergy that embraces both the warmth of the earth and the soft openness of the sky.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

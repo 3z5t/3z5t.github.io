@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhjJ9_MLifTNMpY2X1WJXXzLgULcH6LIyGUM-7g-_nwaDc4V0fYMgAHyeBT-Ch7ET21b3J5bC5EIQIWtM_KuDMF-xj0bgGCPd7t_V6bM6HhGsLupHXewc93JqrcIUbt9keJio-FdqFdSZW89EVfqKbyBaCvepYcX9LHW05y2L0vAlJlxRBI2bEUFEpOBgjO=s1600)
+
 ## 10월 9일의 탄생색: 밀라노 레드 (`#993333`)
 
 ### 1. 밀라노 레드에 대한 설명: 도시의 낭만과 역사를 품은 매혹적인 적색

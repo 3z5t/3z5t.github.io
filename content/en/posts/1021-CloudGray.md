@@ -1,21 +1,27 @@
 ---
-title: "Cloud Gray, The Birthday Color of October 21st"
-date: 2026-10-21
-description: "The birthday color for October 21st is Cloud Gray (D8D3CD). Its meaning is Inclusive, Serene, Mature."
-author: 365days
+title: "Cloud Gray, The Birthday Color of October 21"
+date: "2026-10-21"
+updated: "2026-10-21"
 tags:
-  - cloud gray
-  - birthday color
-  - october 21st
-  - d8d3cd
-  - october
-  - real black
-draft: false
+  - "cloud gray"
+  - "birthday color"
+  - "october 21"
+  - "d8d3cd"
+  - "october"
+  - "real black"
+description: "The birthday color for October 21 is Cloud Gray (D8D3CD). Its meaning is Inclusive, Serene, Mature."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgu5xn5WQmjk8UsEPgSla3t0IhYagYr60hlyKAHfJ1gC38GZHeJB7WoB8DuZRnT6nnAbVZoveL2l98UvCFrvP7hE2T9F0uHrf1kzcowzoB16Kop3JEOTPWPciJxJPYBWIt5Lb-0zb8BM612n3XsLSUu7rO6_-1z8c7acLXC2-Crn8PAdoA6BeBWdVna_wOb=s1600"
+en_name: "CloudGray"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Cloud Gray](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_295.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgu5xn5WQmjk8UsEPgSla3t0IhYagYr60hlyKAHfJ1gC38GZHeJB7WoB8DuZRnT6nnAbVZoveL2l98UvCFrvP7hE2T9F0uHrf1kzcowzoB16Kop3JEOTPWPciJxJPYBWIt5Lb-0zb8BM612n3XsLSUu7rO6_-1z8c7acLXC2-Crn8PAdoA6BeBWdVna_wOb=s1600)
 
-## Birthday Color for October 21st: Cloud Gray (`#D8D3CD`)
+
+## Birthday Color for October 21: Cloud Gray (`#D8D3CD`)
 
 ### 1. Description of Cloud Gray (Feeling and Traits)
 
@@ -37,7 +43,7 @@ For interior design, Cloud Gray brings a serene atmosphere to any room. Whether 
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **November 14th**, the partner color **Real Black** (Hex: `#2B2B2B`) offers a sense of **weight** and **stability**. Combining **Cloud Gray** with **Real Black** creates an intriguing synergy, where **softness meets strength**, offering a unique balance of serenity and depth.
+For those born on **November 14**, the partner color **Real Black** (Hex: `#2B2B2B`) offers a sense of **weight** and **stability**. Combining **Cloud Gray** with **Real Black** creates an intriguing synergy, where **softness meets strength**, offering a unique balance of serenity and depth.
 
 ### 5. Conclusion (A Poem of Healing)
 

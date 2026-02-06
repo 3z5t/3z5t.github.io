@@ -1,21 +1,27 @@
 ---
-title: "Deep Mint, The Birthday Color of March 4th"
-date: 2026-03-04
-description: "The birthday color for March 4th is Deep Mint (3ABAB5). Its meaning is Healing, Resilience, Strength."
-author: 365days
+title: "Deep Mint, The Birthday Color of March 4"
+date: "2026-03-04"
+updated: "2026-03-04"
 tags:
-  - deep mint
-  - birthday color
-  - march 4th
-  - 3abab5
-  - march
-  - intense sunset
-draft: false
+  - "deep mint"
+  - "birthday color"
+  - "march 4"
+  - "3abab5"
+  - "march"
+  - "intense sunset"
+description: "The birthday color for March 4 is Deep Mint (3ABAB5). Its meaning is Healing, Resilience, Strength."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjHhoYh0G6sEfWypDH82dOba942kKqjWia05-fpcs7EekZ15Ah68hzbg6aHAG-3QoNrO9ZqMWNp_wDVJFo_ho73o4AdPgGMSfdgK_X1DM0_4UCtlCAB0a2_rs5CPQlJz8plYfoFLb1rT6lOGaFTPwDjLzT8QrltQaG7Fb1a6eYqNGoFMR0Hj0dHS820qMUW=s1600"
+en_name: "DeepMint"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Deep Mint](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_064.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjHhoYh0G6sEfWypDH82dOba942kKqjWia05-fpcs7EekZ15Ah68hzbg6aHAG-3QoNrO9ZqMWNp_wDVJFo_ho73o4AdPgGMSfdgK_X1DM0_4UCtlCAB0a2_rs5CPQlJz8plYfoFLb1rT6lOGaFTPwDjLzT8QrltQaG7Fb1a6eYqNGoFMR0Hj0dHS820qMUW=s1600)
 
-## Birthday Color for March 4th: Deep Mint (`#3ABAB5`)
+
+## Birthday Color for March 4: Deep Mint (`#3ABAB5`)
 
 ### 1. Description of Deep Mint (Feeling and Traits)
 
@@ -37,7 +43,7 @@ For interiors, **Deep Mint** is ideal for creating a **peaceful oasis**—perfec
 
 ### 4. Plus Tip (Destiny Color)
 
-**Deep Mint** pairs beautifully with **Intense Sunset**, the birthday color of **October 1st**. Together, they form a remarkable balance—**Deep Mint** bringing **healing** and **strength**, while **Intense Sunset** adds a burst of **passion** and **energy**. It’s a combination that symbolizes the union of **calm resilience** and **fiery determination**, creating a dynamic yet grounded synergy.
+**Deep Mint** pairs beautifully with **Intense Sunset**, the birthday color of **October 1**. Together, they form a remarkable balance—**Deep Mint** bringing **healing** and **strength**, while **Intense Sunset** adds a burst of **passion** and **energy**. It’s a combination that symbolizes the union of **calm resilience** and **fiery determination**, creating a dynamic yet grounded synergy.
 
 ### 5. Conclusion (A Poem of Healing)
 

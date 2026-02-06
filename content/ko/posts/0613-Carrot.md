@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi37OsQ4p1s-qTjKAn0pdo4tyQ5VtiWDl_R4dTEClhF8lA6vLfqAPTtGfZWLQwULcLM15QeMMpzeJOr554177JC6tUmDW-U-NqL6US3XHPRz582ME2F-y27SEMgNtl96Uz5QtlzMKOdH9gPaWy3MWeHpbnDWOz5En7SCWuhs650K2Jj-5TFBS0-mGhTIFyo=s1600)
+
 ## 6월 13일의 탄생색: 당근 (`#EB731C`)
 
 ### 1. 당근에 대한 설명: 대지의 에너지를 품은 가장 건강한 주황빛

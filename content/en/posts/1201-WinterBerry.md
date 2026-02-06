@@ -1,21 +1,27 @@
 ---
-title: "Winter Berry, The Birthday Color of December 1st"
-date: 2026-12-01
-description: "The birthday color for December 1st is Winter Berry (AF2A24). Its meaning is Giving Hope, Expectant, Mysterious."
-author: 365days
+title: "Winter Berry, The Birthday Color of December 1"
+date: "2026-12-01"
+updated: "2026-12-01"
 tags:
-  - winter berry
-  - birthday color
-  - december 1st
-  - af2a24
-  - december
-  - turquoise
-draft: false
+  - "winter berry"
+  - "birthday color"
+  - "december 1"
+  - "af2a24"
+  - "december"
+  - "turquoise"
+description: "The birthday color for December 1 is Winter Berry (AF2A24). Its meaning is Giving Hope, Expectant, Mysterious."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjNXeG8mE5VRZRPv5zcFXnCcH_zPwqp-1OC3YMJMgXJDgHa3mOX0nvlS-efkkXjOL6LcVSbyr6FeajLv71jP0laZ0CTci86n34qHHM-6j6nmsKQQbALVBzb2FpDzV5iWxnSxVdBKb66QkTnftx46FZOm0_ADXS3lzHJaeBxkNTAZvJfYi9bXHKBJR16LbsI=s1600"
+en_name: "WinterBerry"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Winter Berry](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_336.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjNXeG8mE5VRZRPv5zcFXnCcH_zPwqp-1OC3YMJMgXJDgHa3mOX0nvlS-efkkXjOL6LcVSbyr6FeajLv71jP0laZ0CTci86n34qHHM-6j6nmsKQQbALVBzb2FpDzV5iWxnSxVdBKb66QkTnftx46FZOm0_ADXS3lzHJaeBxkNTAZvJfYi9bXHKBJR16LbsI=s1600)
 
-## Birthday Color for December 1st: Winter Berry (`#AF2A24`)
+
+## Birthday Color for December 1: Winter Berry (`#AF2A24`)
 
 ### 1. Description of Winter Berry (Feeling and Traits)
 
@@ -35,7 +41,7 @@ In interiors, **Winter Berry** is a perfect choice for creating an atmosphere th
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Turquoise** (the birthday color of April 7th), **Winter Berry** creates a **beautiful synergy**. The vibrant, healing qualities of **Turquoise** complement the **hopeful** and **expectant** nature of **Winter Berry**, creating a balanced and dynamic energy where both colors amplify each other’s unique strengths.
+When paired with **Turquoise** (the birthday color of April 7), **Winter Berry** creates a **beautiful synergy**. The vibrant, healing qualities of **Turquoise** complement the **hopeful** and **expectant** nature of **Winter Berry**, creating a balanced and dynamic energy where both colors amplify each other’s unique strengths.
 
 ### 5. Conclusion (A Poem of Healing)
 

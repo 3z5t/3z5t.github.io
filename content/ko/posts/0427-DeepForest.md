@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjQjIvxdJrcWq92INI9uKJTEQZjtV0GGs_NornI7sgtOTtl3ElD8qM0ul6-9Ff5pEp19t-dvg5alUAMzpBe_PQv5LQe2vZp-BlAaSxJ9uskGUTmNh8jbyZ-Dep-NZtoPqIdJqlIHnb9ikOaQUflTgbmmGDhji9P4QB3ve_XFREW5OP-ryrxzhCttpQEj8jp=s1600)
+
 ## 4월 27일의 탄생색: 딥 포레스트 (`#2F4A2F`)
 
 ### 1. 딥 포레스트에 대한 설명 (색의 느낌과 특징)

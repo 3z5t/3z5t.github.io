@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgf6W7pe38iNDlIOqmxTutieS7hZFOmBU_xw68Zocal99JYQw-brgUdaHdjzSB1B_NJCzSr0GU9thJWOCmlvpWKt8dtCCniPLKBkvjc2XNQW9npbWOpl8OxBCrZItYYM5UxxuE3woZbycRJUDa1i0MsUvCfPYsDn32O3PpT447r-mSQxaMNGNxY9WqETFUr=s1600)
+
 ## 10월 26일의 탄생색: 진한 고동빛 (`#504644`)
 
 ### 1. 진한 고동빛에 대한 설명: 침묵 속에 깃든 가장 깊고 단단한 안식

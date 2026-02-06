@@ -1,21 +1,27 @@
 ---
-title: "Antique Christmas Gold, The Birthday Color of December 25th"
-date: 2026-12-25
-description: "The birthday color for December 25th is Antique Christmas Gold (947E4C). Its meaning is Blessed, Full of Love, Joy of Sharing."
-author: 365days
+title: "Antique Christmas Gold, The Birthday Color of December 25"
+date: "2026-12-25"
+updated: "2026-12-25"
 tags:
-  - antique christmas gold
-  - birthday color
-  - december 25th
-  - 947e4c
-  - december
-  - deep sora
-draft: false
+  - "antique christmas gold"
+  - "birthday color"
+  - "december 25"
+  - "947e4c"
+  - "december"
+  - "deep sora"
+description: "The birthday color for December 25 is Antique Christmas Gold (947E4C). Its meaning is Blessed, Full of Love, Joy of Sharing."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjZLIhiagHOZsugwVh8V2Ly2jQp-PLHHL2HCBQUj1b33YrW2npt-KoGq1YcarkyTJ2fLRBUUJzKV40EvWQE89GyeKlLJgF9FZ4FjM3e02rq9FEzq0iRhmU1OsDPwB_E1SROewGrK0ntllpgvMH6rvUZqPmVSRYAJsratlJCEM8AzaQS1mOMzYELQhLrpN63=s1600"
+en_name: "AntiqueChristmasGold"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Antique Christmas Gold](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_360.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjZLIhiagHOZsugwVh8V2Ly2jQp-PLHHL2HCBQUj1b33YrW2npt-KoGq1YcarkyTJ2fLRBUUJzKV40EvWQE89GyeKlLJgF9FZ4FjM3e02rq9FEzq0iRhmU1OsDPwB_E1SROewGrK0ntllpgvMH6rvUZqPmVSRYAJsratlJCEM8AzaQS1mOMzYELQhLrpN63=s1600)
 
-## Birthday Color for December 25th: Antique Christmas Gold (`#947E4C`)
+
+## Birthday Color for December 25: Antique Christmas Gold (`#947E4C`)
 
 ### 1. Description of Antique Christmas Gold (Feeling and Traits)
 
@@ -41,7 +47,7 @@ This color also shines as part of holiday décor. Think of **golden wreaths**, *
 
 ### 4. Plus Tip (Destiny Color)
 
-**Deep Sora**, the birthday color of January 19th, is the perfect partner to **Antique Christmas Gold**. While **Antique Christmas Gold** brings warmth, generosity, and joy, **Deep Sora** adds depth, sincerity, and a sense of responsibility. The two colors together create a harmonious balance—**Antique Christmas Gold** brings a sense of abundance and love, while **Deep Sora** grounds it with a sense of **purpose** and **intention**. Combining these colors creates an atmosphere that is both **welcoming** and **profound**, a space where love is shared, and goals are achieved with dedication and sincerity.
+**Deep Sora**, the birthday color of January 19, is the perfect partner to **Antique Christmas Gold**. While **Antique Christmas Gold** brings warmth, generosity, and joy, **Deep Sora** adds depth, sincerity, and a sense of responsibility. The two colors together create a harmonious balance—**Antique Christmas Gold** brings a sense of abundance and love, while **Deep Sora** grounds it with a sense of **purpose** and **intention**. Combining these colors creates an atmosphere that is both **welcoming** and **profound**, a space where love is shared, and goals are achieved with dedication and sincerity.
 
 ### 5. Conclusion (A Poem of Healing)
 

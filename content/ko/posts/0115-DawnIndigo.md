@@ -19,6 +19,9 @@ postId: "7097829914813912120"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh7D0zWeDrIf2-dGf_LHTDSm9cEMZIxerFuezlPUzjZQSvv2fxpHQtEXhnbNfRgcvbNfPcQ248Z1GAFbta0JST_n6y-aFl2v5_g4Qk8PGc2A7XhCTNroB2HdRrLQxjpCo3sQt3TMUBGJfjRUHSuGRWc8xNaPA8zHSzQiUa7dqEFTBqNUCWz3nA4yr9Yxt6w=s1600)
+
+
 **1월 15일의 탄생색: 새벽 쪽빛 (#2C3C57)**
 
 ### 1. 새벽 쪽빛에 대한 설명 (색의 느낌과 특징)

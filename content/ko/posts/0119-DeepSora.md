@@ -19,6 +19,9 @@ postId: "1155373294349884786"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEheBa11-sjqR-72hhn0k8GhngFsLDU73Eu0g-wlTYOpUGIzo5CPgHiucUDwIJgUlA83vE_nkBoO8zDhU7yBVrXwBA2dWXB9DeoSn5ge-O6csFo49ngZa7kDiC9FF3BYkVg3P0yFupr7zjoiQhc0bsupCJ7TFBCAghN-EXhlS1u9K6jn37CPoRMD2rQ9f2dk=s1600)
+
+
 **1월 19일의 탄생색: 진소라 (#667CB8)**
 
 ### 1. 진소라에 대한 설명 (색의 느낌과 특징)

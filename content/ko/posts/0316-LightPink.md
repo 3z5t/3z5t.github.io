@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiEzEIW-uCF8VDFHQ_I54jrvwBnsPS3MWhLWbrEcHrh1a1DXXJQUq9Ij-q6pojNk-mPN7qqLVeafIabDcR2DVEBgGVNi8nGYH_L14QEPoLlo5AiHudw_2I8doQvvMAsIlSRfcBye7m8r8v52SgEkdCesCWNyDl0XyTAITKCbpFefR1dNeEh2KZ8A2q7_PQg=s1600)
+
 ## 3월 16일의 탄생색: 연분홍 (`#FFAAAA`)
 
 ### 1. 연분홍에 대한 설명 (색의 느낌과 특징)

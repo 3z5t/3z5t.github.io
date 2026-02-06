@@ -1,21 +1,27 @@
 ---
-title: "Peach Orange, The Birthday Color of June 3rd"
-date: 2026-06-03
-description: "The birthday color for June 3rd is Peach Orange (FFCC99). Its meaning is Sweet Personality, Sociability, Charm."
-author: 365days
+title: "Peach Orange, The Birthday Color of June 3"
+date: "2026-06-03"
+updated: "2026-06-03"
 tags:
-  - peach orange
-  - birthday color
-  - june 3rd
-  - ffcc99
-  - june
-  - steel navy
-draft: false
+  - "peach orange"
+  - "birthday color"
+  - "june 3"
+  - "ffcc99"
+  - "june"
+  - "steel navy"
+description: "The birthday color for June 3 is Peach Orange (FFCC99). Its meaning is Sweet Personality, Sociability, Charm."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi-vOKtP1QGI5o3Ecvn6Mg9h2pwWMHb4G_ssxBmgIAP7NHdoxqM5rToXYtPCL1cmYV9EiCe107JCCmWhlPmtRN83Rhi7z6xSPgDxcY3HL9MA_f5u3uhVzpBzCzWh7aEXIc89u86y6GCzRJyJUJ_0oDaej-sNg8vT5WdPO1L30nk5yI57YRhFKGZ_SFXLLLY=s1600"
+en_name: "PeachOrange"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Peach Orange](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_155.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi-vOKtP1QGI5o3Ecvn6Mg9h2pwWMHb4G_ssxBmgIAP7NHdoxqM5rToXYtPCL1cmYV9EiCe107JCCmWhlPmtRN83Rhi7z6xSPgDxcY3HL9MA_f5u3uhVzpBzCzWh7aEXIc89u86y6GCzRJyJUJ_0oDaej-sNg8vT5WdPO1L30nk5yI57YRhFKGZ_SFXLLLY=s1600)
 
-## Birthday Color for June 3rd: Peach Orange (`#FFCC99`)
+
+## Birthday Color for June 3: Peach Orange (`#FFCC99`)
 
 ### 1. Description of Peach Orange (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Peach Orange** can bring an air of **freshness** and **playfulness
 
 ### 4. Plus Tip (Destiny Color)
 
-When **Peach Orange** is paired with **Steel Navy**, the birthday color of **January 11th**, the result is a stunning blend of **lightness** and **sturdiness**. While **Peach Orange** adds a sense of warmth and charm, **Steel Navy** brings an air of **reliability** and **stability**. The combination of these two creates a dynamic balance between the **playful** and the **practical**, making for a harmonious and powerful synergy.
+When **Peach Orange** is paired with **Steel Navy**, the birthday color of **January 11**, the result is a stunning blend of **lightness** and **sturdiness**. While **Peach Orange** adds a sense of warmth and charm, **Steel Navy** brings an air of **reliability** and **stability**. The combination of these two creates a dynamic balance between the **playful** and the **practical**, making for a harmonious and powerful synergy.
 
 ### 5. Conclusion (A Poem of Healing)
 

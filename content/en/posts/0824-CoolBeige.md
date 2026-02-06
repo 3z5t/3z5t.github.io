@@ -1,21 +1,27 @@
 ---
-title: "Cool Beige, The Birthday Color of August 24th"
-date: 2026-08-24
-description: "The birthday color for August 24th is Cool Beige (AF8E8A). Its meaning is Calm Personality, Intellectual, Mature."
-author: 365days
+title: "Cool Beige, The Birthday Color of August 24"
+date: "2026-08-24"
+updated: "2026-08-24"
 tags:
-  - cool beige
-  - birthday color
-  - august 24th
-  - af8e8a
-  - august
-  - slate green
-draft: false
+  - "cool beige"
+  - "birthday color"
+  - "august 24"
+  - "af8e8a"
+  - "august"
+  - "slate green"
+description: "The birthday color for August 24 is Cool Beige (AF8E8A). Its meaning is Calm Personality, Intellectual, Mature."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi83A6gMUGHrlaFj23AaCcQ14TqKCYkXsIiM_b_s-fMgKKySKadFvxo_3JC4rSJs5PSzMiIS0nfcquGKm1pFfnuGn2fknpVOM_x05HwAmzlGyTgeXB4Ou69wj1QJdHk1qTNkhYHpve0QHueDH5UIxRlOHPvnzFwwzdZlnHo3oaR8V_EUoj7vmTdb4Tu51zn=s1600"
+en_name: "CoolBeige"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Cool Beige](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_237.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi83A6gMUGHrlaFj23AaCcQ14TqKCYkXsIiM_b_s-fMgKKySKadFvxo_3JC4rSJs5PSzMiIS0nfcquGKm1pFfnuGn2fknpVOM_x05HwAmzlGyTgeXB4Ou69wj1QJdHk1qTNkhYHpve0QHueDH5UIxRlOHPvnzFwwzdZlnHo3oaR8V_EUoj7vmTdb4Tu51zn=s1600)
 
-## Birthday Color for August 24th: Cool Beige (`#AF8E8A`)
+
+## Birthday Color for August 24: Cool Beige (`#AF8E8A`)
 
 ### 1. Description of Cool Beige (Feeling and Traits)
 
@@ -35,7 +41,7 @@ People born under the sign of **Cool Beige** often carry an air of **intellectua
 
 ### 4. Plus Tip (Destiny Color)
 
-For those with **Cool Beige**, consider pairing it with **Slate Green**, the birthday color for May 21st. **Slate Green** complements **Cool Beige** beautifully, offering a deeper, more grounded vibe that enhances the intellectual and mature qualities of both colors. Together, they create an environment that is reflective, calming, and full of **intellectual depth**, making it the perfect pairing for those who appreciate quiet contemplation and thoughtful conversation.
+For those with **Cool Beige**, consider pairing it with **Slate Green**, the birthday color for May 21. **Slate Green** complements **Cool Beige** beautifully, offering a deeper, more grounded vibe that enhances the intellectual and mature qualities of both colors. Together, they create an environment that is reflective, calming, and full of **intellectual depth**, making it the perfect pairing for those who appreciate quiet contemplation and thoughtful conversation.
 
 ### 5. Conclusion (A Poem of Healing)
 

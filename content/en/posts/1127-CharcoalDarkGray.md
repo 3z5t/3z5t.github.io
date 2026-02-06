@@ -1,21 +1,27 @@
 ---
-title: "Charcoal Dark Gray, The Birthday Color of November 27th"
-date: 2026-11-27
-description: "The birthday color for November 27th is Charcoal Dark Gray (2F2C2C). Its meaning is Calm, Balanced, Stable."
-author: 365days
+title: "Charcoal Dark Gray, The Birthday Color of November 27"
+date: "2026-11-27"
+updated: "2026-11-27"
 tags:
-  - charcoal dark gray
-  - birthday color
-  - november 27th
-  - 2f2c2c
-  - november
-  - cloud gray
-draft: false
+  - "charcoal dark gray"
+  - "birthday color"
+  - "november 27"
+  - "2f2c2c"
+  - "november"
+  - "cloud gray"
+description: "The birthday color for November 27 is Charcoal Dark Gray (2F2C2C). Its meaning is Calm, Balanced, Stable."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgl7QFIMdLlqmTrtvguATYEl6EwV2tcan0fpFc_numBUqr1q00QeN9eeJ6c8bfRAY3DApvYBTIowcMtAnj5xbZrJXs5s3sVQ1nklUxmR9MjCua8D9H-Vk-WYNpt8R8K-PVRSoX7bTcD3e6huhEnivdwDyJ1OUKdb4WyjMh2J5UtOQ2Ef2aJo6yq5dqrZe3T=s1600"
+en_name: "CharcoalDarkGray"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Charcoal Dark Gray](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_332.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgl7QFIMdLlqmTrtvguATYEl6EwV2tcan0fpFc_numBUqr1q00QeN9eeJ6c8bfRAY3DApvYBTIowcMtAnj5xbZrJXs5s3sVQ1nklUxmR9MjCua8D9H-Vk-WYNpt8R8K-PVRSoX7bTcD3e6huhEnivdwDyJ1OUKdb4WyjMh2J5UtOQ2Ef2aJo6yq5dqrZe3T=s1600)
 
-## Birthday Color for November 27th: Charcoal Dark Gray (`#2F2C2C`)
+
+## Birthday Color for November 27: Charcoal Dark Gray (`#2F2C2C`)
 
 ### 1. Description of Charcoal Dark Gray (Feeling and Traits)
 
@@ -35,7 +41,7 @@ For interiors, **Charcoal Dark Gray** creates a serene, calming atmosphere. This
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Cloud Gray** (the birthday color of October 21st), **Charcoal Dark Gray** creates a beautiful synergy. The soft, **serene** qualities of **Cloud Gray** lighten the deep, grounding nature of **Charcoal Dark Gray**, creating a balanced, peaceful atmosphere. Together, they evoke both a sense of calm and a refined maturity.
+When combined with **Cloud Gray** (the birthday color of October 21), **Charcoal Dark Gray** creates a beautiful synergy. The soft, **serene** qualities of **Cloud Gray** lighten the deep, grounding nature of **Charcoal Dark Gray**, creating a balanced, peaceful atmosphere. Together, they evoke both a sense of calm and a refined maturity.
 
 ### 5. Conclusion (A Poem of Healing)
 

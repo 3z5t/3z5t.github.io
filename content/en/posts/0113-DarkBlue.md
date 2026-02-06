@@ -1,21 +1,28 @@
 ---
-title: "Dark Blue, The Birthday Color of January 13th"
-date: 2026-01-13
-description: "The birthday color for January 13th is Dark Blue (00008B). Its meaning is Insightful, Contemplative, Wise."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-13'
+description: The birthday color for January 13 is Dark Blue (00008B). Its meaning
+  is Insightful, Contemplative, Wise.
+en_name: DarkBlue
 tags:
-  - dark blue
-  - birthday color
-  - january 13th
-  - 00008b
-  - january
-  - banana
-draft: false
+- dark blue
+- birthday color
+- january 13
+- 00008b
+- january
+- banana
+postId: '1637564782327721005'
+postUrl: https://the366days-en.blogspot.com/2026/01/dark-blue-birthday-color-of-january-13.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhWj-R5sBjGhTkTRR2Ttc-XE7a3F4LPDOfyChjCKhzd8mTZtGOn2CwBJ_9h69CVzA1LwdDyFtH0vTxJvN9ScADWBszBLfK4t_0kT30nsmNRp4WIsXnUqcnTuXckAuYhdAczeedKYvpkyd_AUYNLUTzivZbGgdcQFE0dEhXp35VCMvYzBbCh7KEaX2Z64bKJ=s1600
+title: Dark Blue, The Birthday Color of January 13
+updated: '2026-01-13'
 ---
 
-![Dark Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_013.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhWj-R5sBjGhTkTRR2Ttc-XE7a3F4LPDOfyChjCKhzd8mTZtGOn2CwBJ_9h69CVzA1LwdDyFtH0vTxJvN9ScADWBszBLfK4t_0kT30nsmNRp4WIsXnUqcnTuXckAuYhdAczeedKYvpkyd_AUYNLUTzivZbGgdcQFE0dEhXp35VCMvYzBbCh7KEaX2Z64bKJ=s1600)
 
-## Birthday Color for January 13th: Dark Blue (`#00008B`)
+
+## Birthday Color for January 13: Dark Blue (`#00008B`)
 
 ### 1. **Description of Dark Blue (Feeling and Traits)**
 
@@ -31,7 +38,7 @@ In fashion, **Dark Blue** is a symbol of authority and elegance. A **Dark Blue s
 
 ### 4. **Plus Tip (Destiny Color)**
 
-If you're looking to create a complementary, dynamic energy, **combining Dark Blue with Banana**, the birthday color of May 6th, creates an inspiring synergy. While **Dark Blue** brings wisdom and depth, **Banana** adds a touch of cheerfulness, joy, and optimism, making it the perfect combination for balancing deep reflection with a positive outlook.
+If you're looking to create a complementary, dynamic energy, **combining Dark Blue with Banana**, the birthday color of May 6, creates an inspiring synergy. While **Dark Blue** brings wisdom and depth, **Banana** adds a touch of cheerfulness, joy, and optimism, making it the perfect combination for balancing deep reflection with a positive outlook.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhnQ4VbWv9sTqNMX4Uy-SBTmmj2QqGyNNl92RnbeabI2kKOwXEr8L7yAUkkKsdFtpOuPhCU6XHIqUeKuw_8CanQLDNe6gqP8Xl4O-Vdv6DbzxY1-zA1aq8oxWHRExuQ4zqAiOivAeeORz-_QagA9zavVPid2qQS5b6rzPnFm4S-XGNrge9z705twM9h-GUR=s1600)
+
 ## 9월 20일의 탄생색: 올드 그린 (`#726D46`)
 
 ### 1. 올드 그린에 대한 설명: 시간의 결이 쌓여 만들어진 깊은 숲의 역사

@@ -1,21 +1,27 @@
 ---
-title: "Cherry Blossom, The Birthday Color of March 15th"
-date: 2026-03-15
-description: "The birthday color for March 15th is Cherry Blossom (F0ADCA). Its meaning is Emotional, Lovely, Romantic."
-author: 365days
+title: "Cherry Blossom, The Birthday Color of March 15"
+date: "2026-03-15"
+updated: "2026-03-15"
 tags:
-  - cherry blossom
-  - birthday color
-  - march 15th
-  - f0adca
-  - march
-  - deep forest
-draft: false
+  - "cherry blossom"
+  - "birthday color"
+  - "march 15"
+  - "f0adca"
+  - "march"
+  - "deep forest"
+description: "The birthday color for March 15 is Cherry Blossom (F0ADCA). Its meaning is Emotional, Lovely, Romantic."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg0zah2mSeg0vO0sLSgm7dJIT7tlmqTtWMRt7_I9ungAWbosrhygHfhAD6AlpVbn80y_BByJ4211a_K9HHC7ZlBQ00UApFPnsV9F32ZEa14nUIAwUj4bPa0cFb3K3gwXwjXSS5VRrKWKtO2BZJol6cMvtUs9lhRqGorbDxngkbFPZpPKrpzHyJjnLwJTkXA=s1600"
+en_name: "CherryBlossom"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Cherry Blossom](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_075.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg0zah2mSeg0vO0sLSgm7dJIT7tlmqTtWMRt7_I9ungAWbosrhygHfhAD6AlpVbn80y_BByJ4211a_K9HHC7ZlBQ00UApFPnsV9F32ZEa14nUIAwUj4bPa0cFb3K3gwXwjXSS5VRrKWKtO2BZJol6cMvtUs9lhRqGorbDxngkbFPZpPKrpzHyJjnLwJTkXA=s1600)
 
-## Birthday Color for March 15th: Cherry Blossom (`#F0ADCA`)
+
+## Birthday Color for March 15: Cherry Blossom (`#F0ADCA`)
 
 ### 1. Description of Cherry Blossom (Feeling and Traits)
 
@@ -33,7 +39,7 @@ In interior design, **Cherry Blossom** is perfect for creating a peaceful, roman
 
 ### 4. Plus Tip (Destiny Color)
 
-To complement **Cherry Blossom**, consider pairing it with **Deep Forest**, the birthday color for April 27th. The gentle, emotional nature of **Cherry Blossom** blends beautifully with the **profound**, **mature**, and **stable** energy of **Deep Forest**, creating a balanced harmony between lightness and depth. This combination brings both serenity and grounding, making it an ideal duo for those who seek both beauty and stability in their lives.
+To complement **Cherry Blossom**, consider pairing it with **Deep Forest**, the birthday color for April 27. The gentle, emotional nature of **Cherry Blossom** blends beautifully with the **profound**, **mature**, and **stable** energy of **Deep Forest**, creating a balanced harmony between lightness and depth. This combination brings both serenity and grounding, making it an ideal duo for those who seek both beauty and stability in their lives.
 
 ### 5. Conclusion (A Poem of Healing)
 

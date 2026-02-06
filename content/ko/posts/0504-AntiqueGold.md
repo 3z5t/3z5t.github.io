@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg2f_dWJyUvlMRFLGTkaBrEXEdpH_K7KaLQkhovculLyY30y5IhPxccFuCmWKFMg3Qeg7oiWEI5qKuXYmz7PrBlIV68mGvGTrmGL7vDJkzPblebbuNntetynwYO9E1GuGYDmpeGAdIRsTKTBijER1tIRxCq5YBfgRK48JkNwYfkrnLFkZo4hQl8WSzXQZRA=s1600)
+
 ## 5월 4일의 탄생색: 앤티크 골드 (`#CFB53B`)
 
 ### 1. 앤티크 골드에 대한 설명 (색의 느낌과 특징)

@@ -1,21 +1,27 @@
 ---
-title: "Fine Sand, The Birthday Color of September 11th"
-date: 2026-09-11
-description: "The birthday color for September 11th is Fine Sand (EEE9E2). Its meaning is Pure Heart, Natural, Peaceful."
-author: 365days
+title: "Fine Sand, The Birthday Color of September 11"
+date: "2026-09-11"
+updated: "2026-09-11"
 tags:
-  - fine sand
-  - birthday color
-  - september 11th
-  - eee9e2
-  - september
-  - deep forest
-draft: false
+  - "fine sand"
+  - "birthday color"
+  - "september 11"
+  - "eee9e2"
+  - "september"
+  - "deep forest"
+description: "The birthday color for September 11 is Fine Sand (EEE9E2). Its meaning is Pure Heart, Natural, Peaceful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjEgYhUWQmPM0EvuHOTo4w-4WsXLWArLk3lcOuB0lc_WhLjEz3p7pSXUj9vQn3jonjYdBY4Sf2QFo7QG3Jy6umhrvdjSSKAJO4BUtD57CyncAj8870T5cAsYDOi0wzbRCLN6K35E4T_T8GJF3edC9ZSrZoZ7LCWx9bWJxKA20mTw1t2ih5eE8TxOrXMkh9Z=s1600"
+en_name: "FineSand"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Fine Sand](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_255.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjEgYhUWQmPM0EvuHOTo4w-4WsXLWArLk3lcOuB0lc_WhLjEz3p7pSXUj9vQn3jonjYdBY4Sf2QFo7QG3Jy6umhrvdjSSKAJO4BUtD57CyncAj8870T5cAsYDOi0wzbRCLN6K35E4T_T8GJF3edC9ZSrZoZ7LCWx9bWJxKA20mTw1t2ih5eE8TxOrXMkh9Z=s1600)
 
-## Birthday Color for September 11th: Fine Sand (`#EEE9E2`)
+
+## Birthday Color for September 11: Fine Sand (`#EEE9E2`)
 
 ### 1. Description of Fine Sand (Feeling and Traits)
 
@@ -39,7 +45,7 @@ For **interior design**, **Fine Sand** creates a welcoming, serene environment. 
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Deep Forest**, the birthday color of January 9th, **Fine Sand** creates a harmonious balance between **natural warmth** and **growth**. While **Fine Sand** brings calm and purity, **Deep Forest** introduces a sense of development and progress. Together, they form a dynamic combination that fosters both **peaceful reflection** and **personal growth**, making them a perfect match for those seeking both serenity and change.
+When combined with **Deep Forest**, the birthday color of January 9, **Fine Sand** creates a harmonious balance between **natural warmth** and **growth**. While **Fine Sand** brings calm and purity, **Deep Forest** introduces a sense of development and progress. Together, they form a dynamic combination that fosters both **peaceful reflection** and **personal growth**, making them a perfect match for those seeking both serenity and change.
 
 ### 5. Conclusion (A Poem of Healing)
 

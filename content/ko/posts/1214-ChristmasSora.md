@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjGmIm8-ZHrCnO6OzqAqklvhHjziMPfgsWZZ3iUzciqZg4dWz5qWz6TN98vapitH5jiEkSOk_DQ0qWkhGgeE-vgN07-lldSuBqBAIwvuN1CqF9M5MCfUMR_uMocKNpS2lV6oJk5fCOxTOpBECFU-cUcgGyWDRCl5rdtHcArLnee0iBauaHcpw9T5hLKkqZ5=s1600)
+
 ## 12월 14일의 탄생색: 크리스마스 소라 (`#9AB4E0`)
 
 ### 1. 크리스마스 소라에 대한 설명 (색의 느낌과 특징)

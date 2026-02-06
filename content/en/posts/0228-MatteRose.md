@@ -1,21 +1,24 @@
 ---
-title: "Matte Rose, The Birthday Color of February 28th"
-date: 2026-02-28
-description: "The birthday color for February 28th is Matte Rose (AE675F). Its meaning is Stability, Maturity, Reliability."
-author: 365days
-tags:
-  - matte rose
-  - birthday color
-  - february 28th
-  - ae675f
-  - february
-  - dark turquoise
-draft: false
+"title": "Matte Rose, The Birthday Color of February 28"
+"date": "2026-02-28"
+"updated": "2026-02-28"
+"labels":
+- "matte rose"
+- "birthday color"
+- "february 28"
+- "ae675f"
+- "february"
+- "dark turquoise"
+"description": "The birthday color for February 28 is Matte Rose (AE675F). Its meaning is Stability, Maturity, Reliability."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhG1cZFmjpRHnbX4R_tzzF-2fAm2l0TKpZ73JkB-6vFG2yXLm-HD8lsjhi6nE8U6IHv3Yrln9PF9-pOI0etB0BNjQG92qMovFOSyOS9wcyMslIrIdDakvxmLpUl93BO8TQtuy93CNF1fw9ACFneQGYDsUVRtlTwrxKMToB5o8DjYcIjcvRr-91QeQmRlHjg=s1600"
+"en_name": "MatteRose"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "3962568500563005531"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/matte-rose-birthday-color-of-february-28.html"
 ---
 
-![Matte Rose](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_059.webp)
-
-## Birthday Color for February 28th: Matte Rose (`#AE675F`)
+## Birthday Color for February 28: Matte Rose (`#AE675F`)
 
 ### 1. Description of Matte Rose (Feeling and Traits)
 
@@ -33,7 +36,7 @@ When it comes to interior design, **Matte Rose** brings a sense of **calm maturi
 
 ### 4. Plus Tip (Destiny Color)
 
-The partner color for **Matte Rose** is **Dark Turquoise**, the birthday color of May 24th. Combining the **reliability** of **Matte Rose** with the **mystery and creativity** of **Dark Turquoise** creates a dynamic synergy—balancing **steadiness** with **innovation**, making it a perfect pairing for those who seek to build something meaningful and enduring while still embracing **creative evolution**.
+The partner color for **Matte Rose** is **Dark Turquoise**, the birthday color of May 24. Combining the **reliability** of **Matte Rose** with the **mystery and creativity** of **Dark Turquoise** creates a dynamic synergy—balancing **steadiness** with **innovation**, making it a perfect pairing for those who seek to build something meaningful and enduring while still embracing **creative evolution**.
 
 ### 5. Conclusion (A Poem of Healing)
 

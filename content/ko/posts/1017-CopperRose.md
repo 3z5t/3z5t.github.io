@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhYCSUQg6V-Ofl8QNZbDSG37rZCeCiPTm6EYFcFnYJaWl1v00qp0to77Hjd2GE4FW5pB4FMGS51nq9frmjt0XWeVyliE72B4I4e5X20jihwUJ_6ouxzoWT9_x15gw8z124TlA3Um4wa5i4WRP6OjQa5_HFSUgy-KHClfqjygKERkRZctXMiYIJ4ShP_lubR=s1600)
+
 ## 10월 17일의 탄생색: 코퍼 로즈 (`#996666`)
 
 ### 1. 코퍼 로즈에 대한 설명: 시간의 온기를 머금은 가장 부드러운 안식

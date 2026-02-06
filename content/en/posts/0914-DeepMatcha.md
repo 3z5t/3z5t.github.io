@@ -1,21 +1,27 @@
 ---
-title: "Deep Matcha, The Birthday Color of September 14th"
-date: 2026-09-14
-description: "The birthday color for September 14th is Deep Matcha (74703F). Its meaning is Profound, Wise, Mature."
-author: 365days
+title: "Deep Matcha, The Birthday Color of September 14"
+date: "2026-09-14"
+updated: "2026-09-14"
 tags:
-  - deep matcha
-  - birthday color
-  - september 14th
-  - 74703f
-  - september
-  - sora blue
-draft: false
+  - "deep matcha"
+  - "birthday color"
+  - "september 14"
+  - "74703f"
+  - "september"
+  - "sora blue"
+description: "The birthday color for September 14 is Deep Matcha (74703F). Its meaning is Profound, Wise, Mature."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgptLNz9GJIm8PhpRO39LoMcEhTwmcDbKEFaZvLdTVG4gmG6mTxebf-AapvOrfur54CrxrfQjLZp7bJ6czqi5o0M8aH8TENoEvDsFGRmYs1eIvDbBT3g_yYvpUB_ct9QqneiNmChuv4nKOWysPBwJftJhqErSZ5FEDmo7IXq0Sv1PfTm6FvjHEObmFaU2yN=s1600"
+en_name: "DeepMatcha"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Deep Matcha](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_258.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgptLNz9GJIm8PhpRO39LoMcEhTwmcDbKEFaZvLdTVG4gmG6mTxebf-AapvOrfur54CrxrfQjLZp7bJ6czqi5o0M8aH8TENoEvDsFGRmYs1eIvDbBT3g_yYvpUB_ct9QqneiNmChuv4nKOWysPBwJftJhqErSZ5FEDmo7IXq0Sv1PfTm6FvjHEObmFaU2yN=s1600)
 
-## Birthday Color for September 14th: Deep Matcha (`#74703F`)
+
+## Birthday Color for September 14: Deep Matcha (`#74703F`)
 
 ### 1. Description of Deep Matcha (Feeling and Traits)
 
@@ -39,7 +45,7 @@ For **interior design**, **Deep Matcha** brings a sense of tranquility and balan
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Sora Blue**, the birthday color of January 16th, **Deep Matcha** creates a wonderful harmony of grounded wisdom and serene calm. **Sora Blue** brings a sense of **peace and friendliness**, perfectly complementing **Deep Matcha’s** deep, reflective qualities. Together, they create a balance of intellect and emotion, offering a peaceful yet profound energy that fosters connection, growth, and understanding.
+When combined with **Sora Blue**, the birthday color of January 16, **Deep Matcha** creates a wonderful harmony of grounded wisdom and serene calm. **Sora Blue** brings a sense of **peace and friendliness**, perfectly complementing **Deep Matcha’s** deep, reflective qualities. Together, they create a balance of intellect and emotion, offering a peaceful yet profound energy that fosters connection, growth, and understanding.
 
 ### 5. Conclusion (A Poem of Healing)
 

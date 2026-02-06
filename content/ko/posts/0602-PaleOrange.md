@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj0yJXWV58Jti-teM0QYkR8iMMgvWKBAYlAaVWcrEmUL3TNS-zSWqtctJRcqZQURHpx9oMwl_meU7guH2ttMsxZjCWmk15gjUQOQs0srPTYv49cWvP1SlqQyBuQCjIUZ7-zR2gzrteMI8JJ1L8TdOzdhrwp7wi9vP2QkBczhJ2MLsEEOkIFqw_8naa82_2M=s1600)
+
 ## 6월 2일의 탄생색: 페일 오렌지 (`#FFEBB0`)
 
 ### 1. 페일 오렌지에 대한 설명: 입안에서 사르르 녹는 커스터드 크림

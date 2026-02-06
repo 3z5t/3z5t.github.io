@@ -1,21 +1,28 @@
 ---
-title: "Clear Sky, The Birthday Color of January 21st"
-date: 2026-01-21
-description: "The birthday color for January 21st is Clear Sky (99DBE9). Its meaning is Idealistic, Dreaming, Romantic."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-21'
+description: The birthday color for January 21 is Clear Sky (99DBE9). Its meaning
+  is Idealistic, Dreaming, Romantic.
+en_name: ClearSky
 tags:
-  - clear sky
-  - birthday color
-  - january 21st
-  - 99dbe9
-  - january
-  - red brown
-draft: false
+- clear sky
+- birthday color
+- january 21
+- 99dbe9
+- january
+- red brown
+postId: '2469004594439419824'
+postUrl: https://the366days-en.blogspot.com/2026/01/clear-sky-birthday-color-of-january-21.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhUKhJ9Gcg0pninTKMvQ25L-cuDpuFnNrHem7X5NJA-PvSLErIp2-gvGTeoyHHY9sC6y2ODDdnItO2bDgLn9njgcN_wh8JHxX5fBxtBS0kv1j17RvA2OzHyD8kWH8kNXqOyon7C129BLR11WXYfN65mdvxI02fPDHM08icDc2YjQ-CsIdRwST65_f1GjCpc=s1600
+title: Clear Sky, The Birthday Color of January 21
+updated: '2026-01-21'
 ---
 
-![Clear Sky](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_021.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhUKhJ9Gcg0pninTKMvQ25L-cuDpuFnNrHem7X5NJA-PvSLErIp2-gvGTeoyHHY9sC6y2ODDdnItO2bDgLn9njgcN_wh8JHxX5fBxtBS0kv1j17RvA2OzHyD8kWH8kNXqOyon7C129BLR11WXYfN65mdvxI02fPDHM08icDc2YjQ-CsIdRwST65_f1GjCpc=s1600)
 
-## Birthday Color for January 21st: Clear Sky (`#99DBE9`)
+
+## Birthday Color for January 21: Clear Sky (`#99DBE9`)
 
 ### 1. **Description of Clear Sky (Feeling and Traits)**
 
@@ -33,7 +40,7 @@ In your home, **Clear Sky** makes a perfect accent color for bedrooms or living 
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For an interesting touch, consider pairing **Clear Sky** with **Red Brown**, the birthday color of October 25th. Together, these two colors create a unique balance—**Clear Sky’s** dreaminess softened by **Red Brown’s** grounded strength. The combination brings a sense of both inspiration and stability, helping you to stay focused on your dreams while keeping your feet firmly on the ground.
+For an interesting touch, consider pairing **Clear Sky** with **Red Brown**, the birthday color of October 25. Together, these two colors create a unique balance—**Clear Sky’s** dreaminess softened by **Red Brown’s** grounded strength. The combination brings a sense of both inspiration and stability, helping you to stay focused on your dreams while keeping your feet firmly on the ground.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

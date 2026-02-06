@@ -1,21 +1,27 @@
 ---
-title: "Deep Forest, The Birthday Color of April 27th"
-date: 2026-04-27
-description: "The birthday color for April 27th is Deep Forest (2F4A2F). Its meaning is Profound, Mature, Stable."
-author: 365days
+title: "Deep Forest, The Birthday Color of April 27"
+date: "2026-04-27"
+updated: "2026-04-27"
 tags:
-  - deep forest
-  - birthday color
-  - april 27th
-  - 2f4a2f
-  - april
-  - silver antique
-draft: false
+  - "deep forest"
+  - "birthday color"
+  - "april 27"
+  - "2f4a2f"
+  - "april"
+  - "silver antique"
+description: "The birthday color for April 27 is Deep Forest (2F4A2F). Its meaning is Profound, Mature, Stable."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgtVKeXNEwov0T-IRoH6wRdnm8OIqQbrM8_b5LNqyOaHDQofLcHMy_Xg_MUxp61PaQzbWHAWJbMue98pbmMCuaWSEb-BvEpzZaVCN9LUqgrYO5AvGGwLcYBi2d1nTlF2iQPiHupqQb8a9u_VOpoXXL-so-SKa4BB_WItwwKe_iaNA8xK4NQdbfQLOuv6jiy=s1600"
+en_name: "DeepForest"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Deep Forest](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_118.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgtVKeXNEwov0T-IRoH6wRdnm8OIqQbrM8_b5LNqyOaHDQofLcHMy_Xg_MUxp61PaQzbWHAWJbMue98pbmMCuaWSEb-BvEpzZaVCN9LUqgrYO5AvGGwLcYBi2d1nTlF2iQPiHupqQb8a9u_VOpoXXL-so-SKa4BB_WItwwKe_iaNA8xK4NQdbfQLOuv6jiy=s1600)
 
-## Birthday Color for April 27th: Deep Forest (`#2F4A2F`)
+
+## Birthday Color for April 27: Deep Forest (`#2F4A2F`)
 
 ### 1. Description of Deep Forest (Feeling and Traits)
 
@@ -31,7 +37,7 @@ To highlight **Deep Forest** in your wardrobe or space, think of it as a corners
 
 ### 4. Plus Tip (Destiny Color)
 
-**Deep Forest** pairs beautifully with **Silver Antique** (Hex: `#C6C3C6`), the birthday color of November 6th. While **Deep Forest** provides a rich, grounding presence, **Silver Antique** adds a touch of classical elegance and sophistication. Together, these colors create a refined harmony that combines the strength of nature with the quiet grace of history.
+**Deep Forest** pairs beautifully with **Silver Antique** (Hex: `#C6C3C6`), the birthday color of November 6. While **Deep Forest** provides a rich, grounding presence, **Silver Antique** adds a touch of classical elegance and sophistication. Together, these colors create a refined harmony that combines the strength of nature with the quiet grace of history.
 
 ### 5. Conclusion (A Poem of Healing)
 

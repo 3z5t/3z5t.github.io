@@ -1,21 +1,27 @@
 ---
-title: "Young Leaf, The Birthday Color of March 2nd"
-date: 2026-03-02
-description: "The birthday color for March 2nd is Young Leaf (93AC8B). Its meaning is Growth, Potential, Newness."
-author: 365days
+title: "Young Leaf, The Birthday Color of March 2"
+date: "2026-03-02"
+updated: "2026-03-02"
 tags:
-  - young leaf
-  - birthday color
-  - march 2nd
-  - 93ac8b
-  - march
-  - deep ocean
-draft: false
+  - "young leaf"
+  - "birthday color"
+  - "march 2"
+  - "93ac8b"
+  - "march"
+  - "deep ocean"
+description: "The birthday color for March 2 is Young Leaf (93AC8B). Its meaning is Growth, Potential, Newness."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgLrHc9G6xeWBLw5a-rONSguu1-CQvfpACY5r6VASg_Ydyh-LoLkhi0UbEMJCSNa6cE6f5vFktWAD7-G6bOEjwQJBL3KzRR-EQHxhd3CaOZkhfdmXDhB1QJjV3WxNgt5KuRubBiRKhdsHYYaq-i4N2munobizupxfCdLHEE4l2LTbQH0zTs1p_hYmw-j6w7=s1600"
+en_name: "YoungLeaf"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Young Leaf](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_062.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgLrHc9G6xeWBLw5a-rONSguu1-CQvfpACY5r6VASg_Ydyh-LoLkhi0UbEMJCSNa6cE6f5vFktWAD7-G6bOEjwQJBL3KzRR-EQHxhd3CaOZkhfdmXDhB1QJjV3WxNgt5KuRubBiRKhdsHYYaq-i4N2munobizupxfCdLHEE4l2LTbQH0zTs1p_hYmw-j6w7=s1600)
 
-## Birthday Color for March 2nd: Young Leaf (`#93AC8B`)
+
+## Birthday Color for March 2: Young Leaf (`#93AC8B`)
 
 ### 1. Description of Young Leaf (Feeling and Traits)
 
@@ -33,7 +39,7 @@ In home decor, **Young Leaf** creates an atmosphere of **calmness** and **refres
 
 ### 4. Plus Tip (Destiny Color)
 
-**Young Leaf** finds a harmonious balance when paired with **Deep Ocean**, the birthday color of **September 5th**. The grounding, **mysterious** energy of **Deep Ocean** complements the fresh and **evolving** nature of **Young Leaf**, creating a dynamic duo that encourages both inner **reflection** and outward **growth**. Together, they inspire you to explore both the **depths** and the **heights** of life, combining the beauty of **nurturing growth** with the allure of profound **discovery**.
+**Young Leaf** finds a harmonious balance when paired with **Deep Ocean**, the birthday color of **September 5**. The grounding, **mysterious** energy of **Deep Ocean** complements the fresh and **evolving** nature of **Young Leaf**, creating a dynamic duo that encourages both inner **reflection** and outward **growth**. Together, they inspire you to explore both the **depths** and the **heights** of life, combining the beauty of **nurturing growth** with the allure of profound **discovery**.
 
 ### 5. Conclusion (A Poem of Healing)
 

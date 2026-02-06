@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjFIKFX0qXG7kMorZUdI12CGOifD_4SOwvkBvPRK3csCuP9tbAyEDJ7hy802siZx_WeV0XF7aKLc9jtQ_3tmiL_4mwqL8Tky4giDoUhm1JdVZ1lMktotQz4gOBST2fN6aglhzET-VX09dvWgJFNjDTDqYsnqCOZ3yhSk5I5BIO6CiMXbqhZu7WJ08tCrD5s=s1600)
+
 ## 5월 20일의 탄생색: 딥 씨 (Deep Sea) (`#2F4F4F`)
 
 ### 1. 딥 씨 (Deep Sea)에 대한 설명: 소란한 세상과 단절된 고요한 심연

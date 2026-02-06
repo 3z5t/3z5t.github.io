@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjZ_-IL8qIskWD79ZnWXv4VQEfjf6Pz3moxUYAz0uvsQB0Kle7oJi_fHKw5zX-JZL-FSow3JWFqbopxUAo0TR-SZF_mkT5l4NkUNrOr9SKLKiIzxfxDtBpcGOyn25RVDV14zTH83G5tBtMapLSm25UsW9-3avClR5RjPitkbXYpfN-rg2gug2nRWQVI74dk=s1600)
+
 ## 9월 1일의 탄생색: 가을 하늘 (`#59819A`)
 
 ### 1. 가을 하늘에 대한 설명: 머리 위로 펼쳐지는 무한한 자유

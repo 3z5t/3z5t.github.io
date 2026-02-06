@@ -19,6 +19,9 @@ title: '1월 29일, 오늘을 닮은 색: 마야 블루'
 updated: '2026-01-29'
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEikQzwwJb740Z8IXcMo_PIZVYn6BiQTKUMiyZ_XnYx0HFRmA9af4CLojUQxNmU22dywLsazcpFPEGgYaYfbsCi9VpK73ayXBhQqBpQkRZuxkTNEtBmvcZRoNjUaSQETAAnqSniZ9MGHnnuV4wgUdTDndcnrKRIeqq1Sb0tv8Exz21P9MMDh0XPLcUdqrYAH=s1600)
+
+
 **1월 29일의 탄생색: 마야 블루 (#6699FF)**
 
 ### 1. 마야 블루에 대한 설명 (색의 느낌과 특징)

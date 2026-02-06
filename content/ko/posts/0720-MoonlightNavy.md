@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjyiERtMScnbcYJY1X1Oas3f5oqiPxq1sC9xo99W6vWXTJiRJksI36iP1LPfSN_OQr6pAobOv1MuwZLskJ1Xm_PXyLNk403FxautUUoZoObbe0VypEfPPBaW0gF3kpoZxPzOVbi3dSPSeyYS305Vq13IOsqwwSzPO0vdHLt9YY0hV4YHjNKggGFVPNs8uRR=s1600)
+
 ## 7월 20일의 탄생색: 문라이트 네이비 (`#0A576C`)
 
 ### 1. 문라이트 네이비에 대한 설명: 달빛이 스며든 심해의 고요함

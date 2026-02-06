@@ -1,21 +1,27 @@
 ---
-title: "Blooming Green, The Birthday Color of May 26th"
-date: 2026-05-26
-description: "The birthday color for May 26th is Blooming Green (336666). Its meaning is Growth, Prosperity, Abundance."
-author: 365days
+title: "Blooming Green, The Birthday Color of May 26"
+date: "2026-05-26"
+updated: "2026-05-26"
 tags:
-  - blooming green
-  - birthday color
-  - may 26th
-  - 336666
-  - may
-  - autumn pink
-draft: false
+  - "blooming green"
+  - "birthday color"
+  - "may 26"
+  - "336666"
+  - "may"
+  - "autumn pink"
+description: "The birthday color for May 26 is Blooming Green (336666). Its meaning is Growth, Prosperity, Abundance."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhvnQuqStGdraNN08syoBelcYQfcSwJVzJOsyTkMwuocnri7WeLld32yh6wIZ473HEnPFR4s2AII1TbkRi-M8RhhmumcRNYWmhotGgd3yYKejjHOEbB6KF2ngLvJ-vxbzD4IYUNBNqrAXiMojkvB9w2cOSg-jmrOPIFggulzn1gsg5dfCCFKjyC2GESDJsG=s1600"
+en_name: "BloomingGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Blooming Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_147.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhvnQuqStGdraNN08syoBelcYQfcSwJVzJOsyTkMwuocnri7WeLld32yh6wIZ473HEnPFR4s2AII1TbkRi-M8RhhmumcRNYWmhotGgd3yYKejjHOEbB6KF2ngLvJ-vxbzD4IYUNBNqrAXiMojkvB9w2cOSg-jmrOPIFggulzn1gsg5dfCCFKjyC2GESDJsG=s1600)
 
-## Birthday Color for May 26th: Blooming Green (`#336666`)
+
+## Birthday Color for May 26: Blooming Green (`#336666`)
 
 ### 1. Description of Blooming Green (Feeling and Traits)
 
@@ -31,7 +37,7 @@ When it comes to **fashion**, **Blooming Green** is a showstopper, blending soph
 
 ### 4. Plus Tip (Destiny Color)
 
-**Blooming Green** harmonizes beautifully with **Autumn Pink** (Hex: `#CC8F8A`), the birthday color of **August 31st**. This combination brings together **growth** and **romance**, with the **vibrant energy** of green perfectly balanced by the **soft, sentimental** qualities of pink. Together, they create a synergy of **nurturing** and **balance**, allowing both passion and serenity to coexist.
+**Blooming Green** harmonizes beautifully with **Autumn Pink** (Hex: `#CC8F8A`), the birthday color of **August 31**. This combination brings together **growth** and **romance**, with the **vibrant energy** of green perfectly balanced by the **soft, sentimental** qualities of pink. Together, they create a synergy of **nurturing** and **balance**, allowing both passion and serenity to coexist.
 
 ### 5. Conclusion (A Poem of Healing)
 

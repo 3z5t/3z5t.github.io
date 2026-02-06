@@ -1,21 +1,24 @@
 ---
-title: "Magenta Violet, The Birthday Color of February 16th"
-date: 2026-02-16
-description: "The birthday color for February 16th is Magenta Violet (EE82EE). Its meaning is Sensuous, Attractive, Creativity."
-author: 365days
-tags:
-  - magenta violet
-  - birthday color
-  - february 16th
-  - ee82ee
-  - february
-  - pine
-draft: false
+"title": "Magenta Violet, The Birthday Color of February 16"
+"date": "2026-02-16"
+"updated": "2026-02-16"
+"labels":
+- "magenta violet"
+- "birthday color"
+- "february 16"
+- "ee82ee"
+- "february"
+- "pine"
+"description": "The birthday color for February 16 is Magenta Violet (EE82EE). Its meaning is Sensuous, Attractive, Creativity."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhAP_xPi2AVDMz6XDH3hRB6Dj_oBAPm_8yzWAmoZvxEvAX0FRavhlUzq_SjeU8x7dD0zq-6CW4g0eo-zFujzEMFQyryn0csC4_xB_6Qk5Mn1nDbv3fg_sD80CMOHaYJrClNI3qTNKnbRICk6efiEAqVVXO39cmihEPlYxZU152R8AxEfb9LCu7cAwGXhRa0=s1600"
+"en_name": "MagentaViolet"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "2674915197799139878"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/magenta-violet-birthday-color-of.html"
 ---
 
-![Magenta Violet](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_047.webp)
-
-## Birthday Color for February 16th: Magenta Violet (`#EE82EE`)
+## Birthday Color for February 16: Magenta Violet (`#EE82EE`)
 
 ### 1. Description of Magenta Violet (Feeling and Traits)
 
@@ -33,7 +36,7 @@ In **interior design**, this color is a perfect choice for creating an inviting 
 
 ### 4. Plus Tip (Destiny Color)
 
-**Pine**, the birthday color of March 10th, adds a beautiful layer of **stability** and **vitality** to the artistic energy of **Magenta Violet**. The grounding qualities of **Pine** create an ideal balance to the bold, sensual nature of **Magenta Violet**, combining the **creative spirit** with the strength of **endurance**. Together, they form a harmonious partnership that nurtures both inspiration and resilience—an ideal blend of **passion** and **steadfastness**.
+**Pine**, the birthday color of March 10, adds a beautiful layer of **stability** and **vitality** to the artistic energy of **Magenta Violet**. The grounding qualities of **Pine** create an ideal balance to the bold, sensual nature of **Magenta Violet**, combining the **creative spirit** with the strength of **endurance**. Together, they form a harmonious partnership that nurtures both inspiration and resilience—an ideal blend of **passion** and **steadfastness**.
 
 ### 5. Conclusion (A Poem of Healing)
 

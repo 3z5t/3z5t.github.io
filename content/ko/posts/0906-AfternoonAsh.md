@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhaCupG-59VFTu6vLaMS4JRXiRxbCqP-0jO2zhWGsJlouFfRrOHBdqyf0YMj8U6PgHbqykhhbOPvpBNEf7Wu_UBxYQo8QmOKVMaRfubNsmQ8GKULQIDJCfp-DYA2NFlK7iNxsu5o-EAfvxkiJsxAzYxqRQ7KOVAHjVfv59kvLbW3_uotwMrlrENmCoNh90J=s1600)
+
 ## 9월 6일의 탄생색: 애프터눈 잿빛 (`#191B28`)
 
 ### 1. 애프터눈 잿빛에 대한 설명: 낮과 밤의 경계, 가장 깊은 그림자의 색

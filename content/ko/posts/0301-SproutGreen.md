@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgBkuiVyv565ehh4-VlfYkqTN5Z7gJ5hJJf0EG_zcDlFbqe8QaeEK-iG9s3edKEY-irpSJPUWpPNvOvnBphIDIE8ki5pnBAK8JeXCf7jrrbQmBgkYcrnCniIaTlCM9ZzRYaLFZD7RnssHEekHm9Ys78UQcKIwvwSVM7fm-i3javHV6Bt6hlni08MNxzbPuG=s1600)
+
 ## 3월 1일의 탄생색: 새싹 연두 (`#5FD059`)
 
 ### 1. 새싹 연두에 대한 설명 (색의 느낌과 특징)

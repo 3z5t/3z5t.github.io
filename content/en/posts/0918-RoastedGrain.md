@@ -1,21 +1,27 @@
 ---
-title: "Roasted Grain, The Birthday Color of September 18th"
-date: 2026-09-18
-description: "The birthday color for September 18th is Roasted Grain (A09588). Its meaning is Healthy Mind, Nutritious, Abundant."
-author: 365days
+title: "Roasted Grain, The Birthday Color of September 18"
+date: "2026-09-18"
+updated: "2026-09-18"
 tags:
-  - roasted grain
-  - birthday color
-  - september 18th
-  - a09588
-  - september
-  - deep ocean
-draft: false
+  - "roasted grain"
+  - "birthday color"
+  - "september 18"
+  - "a09588"
+  - "september"
+  - "deep ocean"
+description: "The birthday color for September 18 is Roasted Grain (A09588). Its meaning is Healthy Mind, Nutritious, Abundant."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg1_t5TunGYOpKV50E6spQOW5ciUi1HusmR70LLfOF6xjaSe3tSGr15IyPJpjbBM79pORWOwd2pgWjoyXiaLoORa_7yv677vcfzX0FWRLmIniwo5gcZxBou5E7SyAvfttF3yjE2g1crifNSmbgwnjDzJ_ABP6rz7ezI0y3T0bAokFwOffFk9LMVEoOxUUf3=s1600"
+en_name: "RoastedGrain"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Roasted Grain](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_262.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg1_t5TunGYOpKV50E6spQOW5ciUi1HusmR70LLfOF6xjaSe3tSGr15IyPJpjbBM79pORWOwd2pgWjoyXiaLoORa_7yv677vcfzX0FWRLmIniwo5gcZxBou5E7SyAvfttF3yjE2g1crifNSmbgwnjDzJ_ABP6rz7ezI0y3T0bAokFwOffFk9LMVEoOxUUf3=s1600)
 
-## Birthday Color for September 18th: Roasted Grain (`#A09588`)
+
+## Birthday Color for September 18: Roasted Grain (`#A09588`)
 
 ### 1. **Description of Roasted Grain (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ When styling with **Roasted Grain**, the focus should be on creating an atmosphe
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For those interested in creating an even more **balanced** and **harmonious atmosphere**, consider pairing **Roasted Grain** with its **destiny partner color**, **Deep Ocean** (September 5th). **Deep Ocean’s** profound and mysterious qualities enhance Roasted Grain’s grounded warmth, creating a **synergy** that brings depth and **clarity** to any space or relationship. Together, they form a beautiful blend of **strength** and **serenity**.
+For those interested in creating an even more **balanced** and **harmonious atmosphere**, consider pairing **Roasted Grain** with its **destiny partner color**, **Deep Ocean** (September 5). **Deep Ocean’s** profound and mysterious qualities enhance Roasted Grain’s grounded warmth, creating a **synergy** that brings depth and **clarity** to any space or relationship. Together, they form a beautiful blend of **strength** and **serenity**.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgmv0UcYOE0QUndUTgmZrNh5dsb4qKSvX4RvL5xvyv4DgC8aRJm5UMY8bj2yYKGyU_SBvWPvBj1_sXlxnbLEXsuWHVPxMg-SIMkto8zk93K4JOW9usAQHj6rViSJ_0LbBsY_mUXidYqONkGDgkA0k9i7VDrweEzFQcSGzLpI8xzn2N75d9CYUII9vty0YUu=s1600)
+
 ## 10월 5일의 탄생색: 마르살라 (`#E9AEA7`)
 
 ### 1. 마르살라에 대한 설명: 가을의 뺨에 번진 수줍고 우아한 홍조

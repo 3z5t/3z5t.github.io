@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhdIBFN2WAvWBVILjvE6WuzKA_pic-2951iKCXyYZ_8GZdXJWVgb1xciwS0eEkryvjJPlteLZ2POa-NJj3jVgk74GKM_S_3q3q7qGxI1WHSwsds7KQfoTt4IH-A2u_IEkSDH1z-WJvpiYW96zB-xGWzfHTLirql2gRo_oemiJq2IL6f4_OvWrUON_51-i1y=s1600)
+
 ## 6월 25일의 탄생색: 호두 (`#A49376`)
 
 ### 1. 호두에 대한 설명: 단단한 껍질 속에 숨겨진 부드러운 지혜

@@ -1,21 +1,24 @@
 ---
-title: "Hot Magenta, The Birthday Color of February 14th"
-date: 2026-02-14
-description: "The birthday color for February 14th is Hot Magenta (FF00CC). Its meaning is Passionate, Lovely, Charming."
-author: 365days
-tags:
-  - hot magenta
-  - birthday color
-  - february 14th
-  - ff00cc
-  - february
-  - vivid lime
-draft: false
+"title": "Hot Magenta, The Birthday Color of February 14"
+"date": "2026-02-14"
+"updated": "2026-02-14"
+"labels":
+- "hot magenta"
+- "birthday color"
+- "february 14"
+- "ff00cc"
+- "february"
+- "vivid lime"
+"description": "The birthday color for February 14 is Hot Magenta (FF00CC). Its meaning is Passionate, Lovely, Charming."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEidlAmLwBDD3cZUoP3n7O_E3YUdXLwM45s70E1OA04utx6c1IfSOk21eM55feWtBaWc8ZKfnA37VDCAqowfHOARVK_TSdJmdHrNNCI794av8Gd2s2h45xYn4SdLNqlR5hpgC1iIx-XgTmYED5VDCAKvLY5Rg58o_tKu80FJn9TvQ3wAXrdmxr3_07y-8hGD=s1600"
+"en_name": "HotMagenta"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "170690447872623734"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/hot-magenta-birthday-color-of-february.html"
 ---
 
-![Hot Magenta](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_045.webp)
-
-## Birthday Color for February 14th: Hot Magenta (`#FF00CC`)
+## Birthday Color for February 14: Hot Magenta (`#FF00CC`)
 
 ### 1. Description of Hot Magenta (Feeling and Traits)
 
@@ -33,7 +36,7 @@ In **interior design**, **Hot Magenta** can bring an **energizing atmosphere** t
 
 ### 4. Plus Tip (Destiny Color)
 
-A perfect partner to **Hot Magenta** is **Vivid Lime**, the birthday color of March 5th. The **vitality** and **energy** of **Vivid Lime** create a wonderful **synergy** with **Hot Magenta**, balancing the intensity of the magenta with refreshing **green tones** that encourage growth and renewal. Together, they form an exciting duo, sparking **creativity** and **innovation** in every venture.
+A perfect partner to **Hot Magenta** is **Vivid Lime**, the birthday color of March 5. The **vitality** and **energy** of **Vivid Lime** create a wonderful **synergy** with **Hot Magenta**, balancing the intensity of the magenta with refreshing **green tones** that encourage growth and renewal. Together, they form an exciting duo, sparking **creativity** and **innovation** in every venture.
 
 ### 5. Conclusion (A Poem of Healing)
 

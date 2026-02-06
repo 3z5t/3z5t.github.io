@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjKxbdhc0vskCVXfBsSzHxAU7oRPzExFyoj3dEnV1cLz89oQ4lhDjkU4lHyna01r5HgoS6V_e6lm8n4gF7PlgGrldnPkIvGY1LQXWFCAjH8SBw9-xMgjJK_9tKMSr9B4n4cmwIb4CvlLb7yk1JwYq3Gay1RroShwE9J7D25esXtP5uE9zXDUWFS5k-xjcv-=s1600)
+
 ## 8월 29일의 탄생색: 늦여름의 잎사귀 (`#566353`)
 
 ### 1. 늦여름의 잎사귀에 대한 설명: 계절의 깊이를 머금은 침묵의 초록

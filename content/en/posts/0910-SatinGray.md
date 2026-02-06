@@ -1,21 +1,27 @@
 ---
-title: "Satin Gray, The Birthday Color of September 10th"
-date: 2026-09-10
-description: "The birthday color for September 10th is Satin Gray (B3A6A4). Its meaning is Sophisticated, Elegant, Classy."
-author: 365days
+title: "Satin Gray, The Birthday Color of September 10"
+date: "2026-09-10"
+updated: "2026-09-10"
 tags:
-  - satin gray
-  - birthday color
-  - september 10th
-  - b3a6a4
-  - september
-  - late summer leaf
-draft: false
+  - "satin gray"
+  - "birthday color"
+  - "september 10"
+  - "b3a6a4"
+  - "september"
+  - "late summer leaf"
+description: "The birthday color for September 10 is Satin Gray (B3A6A4). Its meaning is Sophisticated, Elegant, Classy."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgsFLz3L0FEfRAkmpjckE65-HqxFNxx6Q9LQt-cSMqsJ0Lwk7nVaRYLYOCISCRPX1mV_j8DW2ctpfPfzFffultcq_po84rx-mv1JGmGiUJQqNCiwMA_QzeHNH9gO_hPjP9dAnImMcfRgpU1IdRFEXQjAwgPn9PxI3yUjRtJtvKV7osc6DxONLBWMLrTZG7k=s1600"
+en_name: "SatinGray"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Satin Gray](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_254.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgsFLz3L0FEfRAkmpjckE65-HqxFNxx6Q9LQt-cSMqsJ0Lwk7nVaRYLYOCISCRPX1mV_j8DW2ctpfPfzFffultcq_po84rx-mv1JGmGiUJQqNCiwMA_QzeHNH9gO_hPjP9dAnImMcfRgpU1IdRFEXQjAwgPn9PxI3yUjRtJtvKV7osc6DxONLBWMLrTZG7k=s1600)
 
-## Birthday Color for September 10th: Satin Gray (`#B3A6A4`)
+
+## Birthday Color for September 10: Satin Gray (`#B3A6A4`)
 
 ### 1. Description of Satin Gray (Feeling and Traits)
 
@@ -39,7 +45,7 @@ In the interior, **Satin Gray** can bring an atmosphere of calm and elegance to 
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Late Summer Leaf**, the birthday color for August 29th, **Satin Gray** achieves a stunning balance between **elegance** and **grounded stability**. The combination creates a serene and sophisticated atmosphere that is both **refined** and **strong**, perfect for moments that require a harmonious blend of **style** and **substance**.
+When paired with **Late Summer Leaf**, the birthday color for August 29, **Satin Gray** achieves a stunning balance between **elegance** and **grounded stability**. The combination creates a serene and sophisticated atmosphere that is both **refined** and **strong**, perfect for moments that require a harmonious blend of **style** and **substance**.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,21 +1,27 @@
 ---
-title: "Antique Choco, The Birthday Color of November 22nd"
-date: 2026-11-22
-description: "The birthday color for November 22nd is Antique Choco (1F070C). Its meaning is Profound, Mature, Stable."
-author: 365days
+title: "Antique Choco, The Birthday Color of November 22"
+date: "2026-11-22"
+updated: "2026-11-22"
 tags:
-  - antique choco
-  - birthday color
-  - november 22nd
-  - 1f070c
-  - november
-  - light cyan
-draft: false
+  - "antique choco"
+  - "birthday color"
+  - "november 22"
+  - "1f070c"
+  - "november"
+  - "light cyan"
+description: "The birthday color for November 22 is Antique Choco (1F070C). Its meaning is Profound, Mature, Stable."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjNxJxFuJzdA57ikPL5UL02YLRX_E2dwUhK7isXvJamvFAZdEKvX0f7ud_3K3RATFz5-oWaH8_SIt4nhgOVCu43Pw7ag-gsnwAs8vah77hU2I8ChdfWhSodIsJsXZEnurFzzZp-f7CQuRYESzjbExE3M4BQFvJtbiwH033HCzeU737J0MZ_CldJMtcQiblK=s1600"
+en_name: "AntiqueChoco"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Antique Choco](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_327.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjNxJxFuJzdA57ikPL5UL02YLRX_E2dwUhK7isXvJamvFAZdEKvX0f7ud_3K3RATFz5-oWaH8_SIt4nhgOVCu43Pw7ag-gsnwAs8vah77hU2I8ChdfWhSodIsJsXZEnurFzzZp-f7CQuRYESzjbExE3M4BQFvJtbiwH033HCzeU737J0MZ_CldJMtcQiblK=s1600)
 
-## Birthday Color for November 22nd: Antique Choco (`#1F070C`)
+
+## Birthday Color for November 22: Antique Choco (`#1F070C`)
 
 ### 1. Description of Antique Choco (Feeling and Traits)
 
@@ -31,7 +37,7 @@ When it comes to **styling with Antique Choco**, this color truly shines when us
 
 ### 4. Plus Tip (Destiny Color)
 
-Pairing **Antique Choco** with **Light Cyan** (the birthday color of May 31st) brings out the best in both. While Antique Choco anchors with its grounding depth, **Light Cyan** offers a refreshing contrast, bringing clarity and balance to any setting. This soft, light hue adds a sense of renewal, making the combination feel both profound and **clear-minded**.
+Pairing **Antique Choco** with **Light Cyan** (the birthday color of May 31) brings out the best in both. While Antique Choco anchors with its grounding depth, **Light Cyan** offers a refreshing contrast, bringing clarity and balance to any setting. This soft, light hue adds a sense of renewal, making the combination feel both profound and **clear-minded**.
 
 ### 5. Conclusion (A Poem of Healing)
 

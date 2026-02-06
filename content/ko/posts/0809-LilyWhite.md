@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjMuJla6LyNy7wdLczGrIYOcC68V28HUWoGb62PRpDZiUzZ2P1lTNqYw80rCKIprI674fl7kqGt_C8J61L74QPkQlUX_A0H-b342RZckyGYRHoLoMt0J3YB-ea6yz63zAdEjD1MKMayub4FLiTQRS4vQNzJV7kS9v6A7AqPLXtwDDWn-G0Z6_aUn1D9W_St=s1600)
+
 ## 8월 9일의 탄생색: 백합 화이트 (`#F3F1EF`)
 
 ### 1. 백합 화이트에 대한 설명: 영혼을 씻어내는 가장 고결한 순수

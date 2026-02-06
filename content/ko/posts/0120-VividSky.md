@@ -19,6 +19,9 @@ postId: "8654854168350782977"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhwiW-fiwePu3KqPpoMkwf-Mqk8yznh0tvNlezRw1yhh819iPTD8i3I-3zqa6BL2BbgzqPdP677VrXaL-fjyuOpeBomqqXQmJOXE7ZGUSogc9BZvS4l08GBxt7D2_6UzwHn7ruBI0ir8DPhABg-fuMlX8D9JjbXUoHl4aMfLDOjHObkQlVk9IfqixCaX56G=s1600)
+
+
 **1월 20일의 탄생색: 비비드 스카이 (#00BFFF)**
 
 ### 1. 비비드 스카이에 대한 설명 (색의 느낌과 특징)

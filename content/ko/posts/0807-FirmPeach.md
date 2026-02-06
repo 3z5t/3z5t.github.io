@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiMbKUFA3ROZhA3FeX8iYA4vMrSnEnj7PjJLLG2at1hrNp9inTHdz20vY6VQBiSsKEx672kByqV8T0JJ6DEXzLv6m1ubh5cHKw7WmRodgxSSRh_WI7lHkMpkhv47LnQVTb4mm64lM8R6Hfzvu-RNqBgiLrGMzjqprTmlbpLo-d-kiPn_PUd_XSsZwVky8Xh=s1600)
+
 ## 8월 7일의 탄생색: 딱딱한 복숭아 (`#F5EAE6`)
 
 ### 1. 딱딱한 복숭아에 대한 설명: 부드러움 속에 숨겨진 단단한 심지

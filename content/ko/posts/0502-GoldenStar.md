@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhOWSC1SAYeFZoCt45jiU_aHFFdcEsJaI79Npf6ViwZYo2uFDRpSQ1w4u3vJcboKxf4m_V_9eHGLuV96yWAixEJAi2PR81q-IU2d_-sWumR9qk632LFuLxcRmUpWBHpOnG4sHYlT7mrrWKIWCimAT0IhoyO-SsJNlUgNeOsxAR1-60d23DpboIKpHxL2scr=s1600)
+
 ## 5월 2일의 탄생색: 골든 스타 (`#E5A859`)
 
 ### 1. 골든 스타에 대한 설명 (색의 느낌과 특징)

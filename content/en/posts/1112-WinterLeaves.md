@@ -1,21 +1,27 @@
 ---
-title: "Winter Leaves, The Birthday Color of November 12th"
-date: 2026-11-12
-description: "The birthday color for November 12th is Winter Leaves (706863). Its meaning is Knowing Longing, Sentimental, Lyrical."
-author: 365days
+title: "Winter Leaves, The Birthday Color of November 12"
+date: "2026-11-12"
+updated: "2026-11-12"
 tags:
-  - winter leaves
-  - birthday color
-  - november 12th
-  - 706863
-  - november
-  - moose gray
-draft: false
+  - "winter leaves"
+  - "birthday color"
+  - "november 12"
+  - "706863"
+  - "november"
+  - "moose gray"
+description: "The birthday color for November 12 is Winter Leaves (706863). Its meaning is Knowing Longing, Sentimental, Lyrical."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg1Bg3zW5Q7ew3UyIEHmFenLLR4YnoB57xf2R7R9VEcnj2o3x5-pcRwXifWPHKfq8UfEzNhtTK-1Xy9LoT1CLZmCBttPfbqLNN3mU_9i_FGdyZfQs4Q7cBtbXORyiE8NDgEfzbjsOB1hrhtEk7BkR06weOXhoRt96C18wXzFIu3-vus4dfoterAkHPRDnSC=s1600"
+en_name: "WinterLeaves"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Winter Leaves](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_317.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg1Bg3zW5Q7ew3UyIEHmFenLLR4YnoB57xf2R7R9VEcnj2o3x5-pcRwXifWPHKfq8UfEzNhtTK-1Xy9LoT1CLZmCBttPfbqLNN3mU_9i_FGdyZfQs4Q7cBtbXORyiE8NDgEfzbjsOB1hrhtEk7BkR06weOXhoRt96C18wXzFIu3-vus4dfoterAkHPRDnSC=s1600)
 
-## Birthday Color for November 12th: Winter Leaves (`#706863`)
+
+## Birthday Color for November 12: Winter Leaves (`#706863`)
 
 ### 1. Description of Winter Leaves (Feeling and Traits)
 
@@ -39,7 +45,7 @@ In interior design, **Winter Leaves** is an excellent color to create a space th
 
 ### 4. Plus Tip (Destiny Color)
 
-**Moose Gray** (Hex: `#999999`), the birthday color of **November 7th**, complements **Winter Leaves** in a beautiful and meaningful way. While **Winter Leaves** draws us into deep emotional reflection, **Moose Gray** brings balance and **calm**. When paired together, these colors form a **harmonious** balance between **sentimentality** and **stability**, creating a space or mood that feels both **poetic** and **grounded**.
+**Moose Gray** (Hex: `#999999`), the birthday color of **November 7**, complements **Winter Leaves** in a beautiful and meaningful way. While **Winter Leaves** draws us into deep emotional reflection, **Moose Gray** brings balance and **calm**. When paired together, these colors form a **harmonious** balance between **sentimentality** and **stability**, creating a space or mood that feels both **poetic** and **grounded**.
 
 ### 5. Conclusion (A Poem of Healing)
 

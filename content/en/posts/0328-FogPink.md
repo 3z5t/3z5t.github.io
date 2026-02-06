@@ -1,21 +1,27 @@
 ---
-title: "Fog Pink, The Birthday Color of March 28th"
-date: 2026-03-28
-description: "The birthday color for March 28th is Fog Pink (E0CECE). Its meaning is Soft, Subtle, Mysterious."
-author: 365days
+title: "Fog Pink, The Birthday Color of March 28"
+date: "2026-03-28"
+updated: "2026-03-28"
 tags:
-  - fog pink
-  - birthday color
-  - march 28th
-  - e0cece
-  - march
-  - dark forest gray
-draft: false
+  - "fog pink"
+  - "birthday color"
+  - "march 28"
+  - "e0cece"
+  - "march"
+  - "dark forest gray"
+description: "The birthday color for March 28 is Fog Pink (E0CECE). Its meaning is Soft, Subtle, Mysterious."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhOYSGLhVjAx8Wwit-XR3VlahkwDC0V9LNdpn9O2HQp-JNnACxWkSW5i42q3XghnonhDhLzsq4tXiAVeIz-dz1BQiVJR9WOvcMCEAXEySyHGLwtz7hfapNANTEzC8bOvrFALYNMB3OVodKCe-Be3d9hd_IF9ANe1m5O9BTtPwHquXkAFkQlQ4kas4DudLWG=s1600"
+en_name: "FogPink"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Fog Pink](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_088.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhOYSGLhVjAx8Wwit-XR3VlahkwDC0V9LNdpn9O2HQp-JNnACxWkSW5i42q3XghnonhDhLzsq4tXiAVeIz-dz1BQiVJR9WOvcMCEAXEySyHGLwtz7hfapNANTEzC8bOvrFALYNMB3OVodKCe-Be3d9hd_IF9ANe1m5O9BTtPwHquXkAFkQlQ4kas4DudLWG=s1600)
 
-## Birthday Color for March 28th: Fog Pink (`#E0CECE`)
+
+## Birthday Color for March 28: Fog Pink (`#E0CECE`)
 
 ### 1. Description of Fog Pink (Feeling and Traits)
 
@@ -31,7 +37,7 @@ To highlight the delicate beauty of **Fog Pink**, think about creating an enviro
 
 ### 4. Plus Tip (Destiny Color)
 
-If you’re looking for a deeper connection, **Dark Forest Gray** (Hex: `#2A3A2F`)—the birthday color of December 19th—pairs beautifully with **Fog Pink**. **Combining these two colors** creates a beautiful balance between the light and the dark, offering a perfect harmony of **mystery and stability**. Together, they evoke a space of both reflection and grounding, where you can feel calm and centered, yet still surrounded by **subtle allure**.
+If you’re looking for a deeper connection, **Dark Forest Gray** (Hex: `#2A3A2F`)—the birthday color of December 19—pairs beautifully with **Fog Pink**. **Combining these two colors** creates a beautiful balance between the light and the dark, offering a perfect harmony of **mystery and stability**. Together, they evoke a space of both reflection and grounding, where you can feel calm and centered, yet still surrounded by **subtle allure**.
 
 ### 5. Conclusion (A Poem of Healing)
 

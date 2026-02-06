@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh_IfB5iFudn1mGRCpSVteblh7uml9EW15yJcTftxg6N_z4MsojQtNNGgSGTzI7kRCUiiAV3ktow17yJNJyGZpIS7fdlGO9YPQGPvr3PUdPb2qwt1tfsnDwwO1PbLjvg2iPze9jsFpGcKc6UfIhCMSYWw7jmk6vHNQz5XFKrSWQmqKkqpkgmKg665Y_Ad5D=s1600)
+
 ## 5월 9일의 탄생색: 크림 (`#FFFFCC`)
 
 ### 1. 크림에 대한 설명: 입안에서 사르르 녹는 달콤한 위로

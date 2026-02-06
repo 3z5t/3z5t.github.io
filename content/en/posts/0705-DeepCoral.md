@@ -1,21 +1,27 @@
 ---
-title: "Deep Coral, The Birthday Color of July 5th"
-date: 2026-07-05
-description: "The birthday color for July 5th is Deep Coral (743636). Its meaning is Profound, Calm, Prudent."
-author: 365days
+title: "Deep Coral, The Birthday Color of July 5"
+date: "2026-07-05"
+updated: "2026-07-05"
 tags:
-  - deep coral
-  - birthday color
-  - july 5th
-  - 743636
-  - july
-  - morning glory
-draft: false
+  - "deep coral"
+  - "birthday color"
+  - "july 5"
+  - "743636"
+  - "july"
+  - "morning glory"
+description: "The birthday color for July 5 is Deep Coral (743636). Its meaning is Profound, Calm, Prudent."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhIzknRF8M9XURcrImMs9RjuTq7A7CEujc2Ut7wBsxYppIGOJSMoiyYi7TJ9Z7KMqCk3ocFlUTc7SFeRrkyQjZ5BU_SQddGerNXd9nVpZfJ6m9f-1F_2C2JEOkKshb_41fF_ERGEM7fq_UbbFhU6oUbVVYtxvECnnoByI8Agi_Hp7BX0m1AFjNyPELz2j8v=s1600"
+en_name: "DeepCoral"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Deep Coral](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_187.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhIzknRF8M9XURcrImMs9RjuTq7A7CEujc2Ut7wBsxYppIGOJSMoiyYi7TJ9Z7KMqCk3ocFlUTc7SFeRrkyQjZ5BU_SQddGerNXd9nVpZfJ6m9f-1F_2C2JEOkKshb_41fF_ERGEM7fq_UbbFhU6oUbVVYtxvECnnoByI8Agi_Hp7BX0m1AFjNyPELz2j8v=s1600)
 
-## Birthday Color for July 5th: Deep Coral (`#743636`)
+
+## Birthday Color for July 5: Deep Coral (`#743636`)
 
 ### 1. Description of Deep Coral (Feeling and Traits)
 
@@ -31,7 +37,7 @@ When it comes to fashion, **Deep Coral** exudes an understated elegance that hig
 
 ### 4. Plus Tip (Destiny Color)
 
-Pairing **Deep Coral** with **Morning Glory** (Hex: `#99CCCC`), the birthday color for May 30th, creates an intriguing synergy. While Deep Coral brings a sense of **depth** and **reflection**, Morning Glory introduces a sense of **hope** and **renewed energy**, making for a beautiful balance of quiet wisdom and fresh optimism. This combination invites both **thoughtfulness** and **positivity**, perfect for moments of personal growth and meaningful connections.
+Pairing **Deep Coral** with **Morning Glory** (Hex: `#99CCCC`), the birthday color for May 30, creates an intriguing synergy. While Deep Coral brings a sense of **depth** and **reflection**, Morning Glory introduces a sense of **hope** and **renewed energy**, making for a beautiful balance of quiet wisdom and fresh optimism. This combination invites both **thoughtfulness** and **positivity**, perfect for moments of personal growth and meaningful connections.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,21 +1,24 @@
 ---
-title: "Deep Wine, The Birthday Color of February 25th"
-date: 2026-02-25
-description: "The birthday color for February 25th is Deep Wine (77384C). Its meaning is Inclusiveness, Generosity, Wisdom."
-author: 365days
-tags:
-  - deep wine
-  - birthday color
-  - february 25th
-  - 77384c
-  - february
-  - cool green
-draft: false
+"title": "Deep Wine, The Birthday Color of February 25"
+"date": "2026-02-25"
+"updated": "2026-02-25"
+"labels":
+- "deep wine"
+- "birthday color"
+- "february 25"
+- "77384c"
+- "february"
+- "cool green"
+"description": "The birthday color for February 25 is Deep Wine (77384C). Its meaning is Inclusiveness, Generosity, Wisdom."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhQd9rGAHTAX9NIbWNjs5sPAIutCHyfu0-KbjQ5gsCe3VscNa-yAqbBMu4H-4GIShl2pWt88DFB9PEhxKXvxCkOu8Z84lid_w1xpDJQQCima1mrbolbaxDIHNeToOaTyw8BgGHFgJZ-zQXzwmcpDjpWSomDQhi-7X4MaMHoLji3RnrJkAzc9faf4pAk4SlW=s1600"
+"en_name": "DeepWine"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "9196945183651250042"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/deep-wine-birthday-color-of-february-25.html"
 ---
 
-![Deep Wine](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_056.webp)
-
-## Birthday Color for February 25th: Deep Wine (`#77384C`)
+## Birthday Color for February 25: Deep Wine (`#77384C`)
 
 ### 1. Description of Deep Wine (Feeling and Traits)
 
@@ -33,7 +36,7 @@ For interior design, **Deep Wine** adds **richness** and **warmth** to any space
 
 ### 4. Plus Tip (Destiny Color)
 
-The **partner color** for **Deep Wine** is **Cool Green**, the birthday color of April 21st. **Cool Green** brings a refreshing, calming energy that complements **Deep Wine’s** rich and grounding nature. Together, they create a harmonious balance—**Cool Green’s** peaceful and **calm** aura balances out **Deep Wine’s** **inviting richness**, making them a perfect match for a serene, yet dynamic space or wardrobe. Combining these colors infuses your surroundings or style with both **nurturing depth** and **peaceful clarity**.
+The **partner color** for **Deep Wine** is **Cool Green**, the birthday color of April 21. **Cool Green** brings a refreshing, calming energy that complements **Deep Wine’s** rich and grounding nature. Together, they create a harmonious balance—**Cool Green’s** peaceful and **calm** aura balances out **Deep Wine’s** **inviting richness**, making them a perfect match for a serene, yet dynamic space or wardrobe. Combining these colors infuses your surroundings or style with both **nurturing depth** and **peaceful clarity**.
 
 ### 5. Conclusion (A Poem of Healing)
 

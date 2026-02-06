@@ -1,21 +1,28 @@
 ---
-title: "Sora Blue, The Birthday Color of January 16th"
-date: 2026-01-16
-description: "The birthday color for January 16th is Sora Blue (7F9BB9). Its meaning is Harmonious, Peaceful, Friendly."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-16'
+description: The birthday color for January 16 is Sora Blue (7F9BB9). Its meaning
+  is Harmonious, Peaceful, Friendly.
+en_name: SoraBlue
 tags:
-  - sora blue
-  - birthday color
-  - january 16th
-  - 7f9bb9
-  - january
-  - old green
-draft: false
+- sora blue
+- birthday color
+- january 16
+- 7f9bb9
+- january
+- old green
+postId: '8664960716018988107'
+postUrl: https://the366days-en.blogspot.com/2026/01/sora-blue-birthday-color-of-january-16.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiQw9IgmJKqMCYycFcnFeaqEZ_31g1LOdoWpGl7Mb8uwbEocNwTtry_NNWBJSW-ORzqlJrQKjAj0OUxB-cWoidHxXlMZ2fEmA7y4yHnJMz92gkUaNqrYzAYYG8engz6dtkPJ2pgnFvJ6USVasQUEBc9f0dDD02JTqQYGfKeDvoGCeTBV9X779RLrVYSqGk0=s1600
+title: Sora Blue, The Birthday Color of January 16
+updated: '2026-01-16'
 ---
 
-![Sora Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_016.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiQw9IgmJKqMCYycFcnFeaqEZ_31g1LOdoWpGl7Mb8uwbEocNwTtry_NNWBJSW-ORzqlJrQKjAj0OUxB-cWoidHxXlMZ2fEmA7y4yHnJMz92gkUaNqrYzAYYG8engz6dtkPJ2pgnFvJ6USVasQUEBc9f0dDD02JTqQYGfKeDvoGCeTBV9X779RLrVYSqGk0=s1600)
 
-## Birthday Color for January 16th: Sora Blue (`#7F9BB9`)
+
+## Birthday Color for January 16: Sora Blue (`#7F9BB9`)
 
 ### 1. **Description of Sora Blue (Feeling and Traits)**
 
@@ -31,7 +38,7 @@ In fashion, **Sora Blue** offers an effortless elegance. Whether it’s a soft b
 
 ### 4. **Plus Tip (Destiny Color)**
 
-To complement **Sora Blue**, consider **Old Green**, the birthday color of September 20th. While **Sora Blue** creates a peaceful, friendly environment, **Old Green** adds depth and timeless wisdom, making for a harmonious pairing that feels both grounded and nurturing.
+To complement **Sora Blue**, consider **Old Green**, the birthday color of September 20. While **Sora Blue** creates a peaceful, friendly environment, **Old Green** adds depth and timeless wisdom, making for a harmonious pairing that feels both grounded and nurturing.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

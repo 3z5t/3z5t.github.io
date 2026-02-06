@@ -1,21 +1,27 @@
 ---
-title: "Deep Sea, The Birthday Color of May 20th"
-date: 2026-05-20
-description: "The birthday color for May 20th is Deep Sea (2F4F4F). Its meaning is Insightful, Contemplative, Wise."
-author: 365days
+title: "Deep Sea, The Birthday Color of May 20"
+date: "2026-05-20"
+updated: "2026-05-20"
 tags:
-  - deep sea
-  - birthday color
-  - may 20th
-  - 2f4f4f
-  - may
-  - oyster pink
-draft: false
+  - "deep sea"
+  - "birthday color"
+  - "may 20"
+  - "2f4f4f"
+  - "may"
+  - "oyster pink"
+description: "The birthday color for May 20 is Deep Sea (2F4F4F). Its meaning is Insightful, Contemplative, Wise."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjytSqR9IvF1YGO136nFJpW5XcVoA4vAwC9MRZNPNPR0eA-taKbfgKSxSNgp3STw1RhIkA_kFjsjXpFIxvO56BvEwMGjxrPTdNxI9XoRMIQjdUjja1DvIkei2b4Lbj7bzDkN-Yd6Zx2-WL9QEfsEyw-7a-FT1czhlvEPZIafPlF2-jbIXLaz1kFLVSbaW_W=s1600"
+en_name: "DeepSea"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Deep Sea](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_141.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjytSqR9IvF1YGO136nFJpW5XcVoA4vAwC9MRZNPNPR0eA-taKbfgKSxSNgp3STw1RhIkA_kFjsjXpFIxvO56BvEwMGjxrPTdNxI9XoRMIQjdUjja1DvIkei2b4Lbj7bzDkN-Yd6Zx2-WL9QEfsEyw-7a-FT1czhlvEPZIafPlF2-jbIXLaz1kFLVSbaW_W=s1600)
 
-## Birthday Color for May 20th: Deep Sea (`#2F4F4F`)
+
+## Birthday Color for May 20: Deep Sea (`#2F4F4F`)
 
 ### 1. Description of Deep Sea (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Deep Sea** can be a stunning choice for those who want to convey s
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **May 20th**, combining **Deep Sea** with **Oyster Pink** (Hex: `#CEAAAD`), the birthday color of **March 24th**, creates a lovely balance of serenity and warmth. While **Deep Sea** offers depth and insight, **Oyster Pink** adds a touch of warmth and comfort, making the combination soothing yet grounded.
+For those born on **May 20**, combining **Deep Sea** with **Oyster Pink** (Hex: `#CEAAAD`), the birthday color of **March 24**, creates a lovely balance of serenity and warmth. While **Deep Sea** offers depth and insight, **Oyster Pink** adds a touch of warmth and comfort, making the combination soothing yet grounded.
 
 ### 5. Conclusion (A Poem of Healing)
 

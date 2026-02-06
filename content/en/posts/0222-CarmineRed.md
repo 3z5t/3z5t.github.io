@@ -1,21 +1,24 @@
 ---
-title: "Carmine Red, The Birthday Color of February 22nd"
-date: 2026-02-22
-description: "The birthday color for February 22nd is Carmine Red (B72F42). Its meaning is Strength, Willpower, Drive."
-author: 365days
-tags:
-  - carmine red
-  - birthday color
-  - february 22nd
-  - b72f42
-  - february
-  - turquoise
-draft: false
+"title": "Carmine Red, The Birthday Color of February 22"
+"date": "2026-02-22"
+"updated": "2026-02-22"
+"labels":
+- "carmine red"
+- "birthday color"
+- "february 22"
+- "b72f42"
+- "february"
+- "turquoise"
+"description": "The birthday color for February 22 is Carmine Red (B72F42). Its meaning is Strength, Willpower, Drive."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjxJBPZQohwaqSgZ3mHDX_6JZ8kvwqu1DlBp1J0HsrDNRR2EAX1Sa72HX_SZowMWU2edmB8b0maeppd9VNSWh084-ZDUoH4Zzrf4XKDB_Bu_2HR9ruSKeAarMn2DW3KoBqPyfd6J32F2meP3jHTr7QLim2XP1aNsY67TRqZKrMoM3obkHuFoUjHVsNHqUUT=s1600"
+"en_name": "CarmineRed"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "2981906652166020153"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/carmine-red-birthday-color-of-february.html"
 ---
 
-![Carmine Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_053.webp)
-
-## Birthday Color for February 22nd: Carmine Red (`#B72F42`)
+## Birthday Color for February 22: Carmine Red (`#B72F42`)
 
 ### 1. Description of Carmine Red (Feeling and Traits)
 
@@ -33,7 +36,7 @@ In **interior design**, **Carmine Red** can be used to add **energy** and **pass
 
 ### 4. Plus Tip (Destiny Color)
 
-The **partner color** for **Carmine Red** is **Turquoise**, the birthday color for April 7th. When combined, the **healing, resilient energy** of **Turquoise** complements the **strength** and **passion** of **Carmine Red**, creating a beautiful balance of energy and calm. It’s a powerful combination that can inspire **creativity** and **clarity**, allowing you to approach challenges with both determination and perspective.
+The **partner color** for **Carmine Red** is **Turquoise**, the birthday color for April 7. When combined, the **healing, resilient energy** of **Turquoise** complements the **strength** and **passion** of **Carmine Red**, creating a beautiful balance of energy and calm. It’s a powerful combination that can inspire **creativity** and **clarity**, allowing you to approach challenges with both determination and perspective.
 
 ### 5. Conclusion (A Poem of Healing)
 

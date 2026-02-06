@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgWsR9VgAs7b3VzQn6bLux7N6NXAJxFdZoYZlk4RIudmBNMJkN1gv-I0kz994pxC1IhRLUzRlXBfG7AHB7kp4iAvWjTx1jmkgkLdvRDaqxCOAiKNMZtlvgtMVAGfocUinAq2-JdDfsWP1hmq6LqLSfOSyKdiKpDqUIq-wRPIkjFcGGj0zAPPTCxq6CvUmiZ=s1600)
+
 ## 6월 15일의 탄생색: 감귤 (`#EE934F`)
 
 ### 1. 감귤에 대한 설명: 햇살이 빚어낸 가장 달콤한 조각

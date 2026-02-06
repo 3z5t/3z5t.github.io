@@ -1,21 +1,27 @@
 ---
-title: "Midnight Rider, The Birthday Color of November 29th"
-date: 2026-11-29
-description: "The birthday color for November 29th is Midnight Rider (333333). Its meaning is Decisive, Strong Will, Solid."
-author: 365days
+title: "Midnight Rider, The Birthday Color of November 29"
+date: "2026-11-29"
+updated: "2026-11-29"
 tags:
-  - midnight rider
-  - birthday color
-  - november 29th
-  - 333333
-  - november
-  - silver antique
-draft: false
+  - "midnight rider"
+  - "birthday color"
+  - "november 29"
+  - "333333"
+  - "november"
+  - "silver antique"
+description: "The birthday color for November 29 is Midnight Rider (333333). Its meaning is Decisive, Strong Will, Solid."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj3Y2fe3bxq9FzN8DZCCt3CWZY36vkIpBt0Ny8roY2BKhU5iWC5iPLwTSdsPrNhX6A3nZM77_ya4ro-3F45uGk5GviCrSLbeidOPGpHSa0t1NHV4gnvRh7rEAKuRcS-Y4-ATCyabvmTi8b1FfkR94f_JVdVw3pbZQdTnWiXLG-03--55HgVfGRBXIKwmtpo=s1600"
+en_name: "MidnightRider"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Midnight Rider](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_334.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj3Y2fe3bxq9FzN8DZCCt3CWZY36vkIpBt0Ny8roY2BKhU5iWC5iPLwTSdsPrNhX6A3nZM77_ya4ro-3F45uGk5GviCrSLbeidOPGpHSa0t1NHV4gnvRh7rEAKuRcS-Y4-ATCyabvmTi8b1FfkR94f_JVdVw3pbZQdTnWiXLG-03--55HgVfGRBXIKwmtpo=s1600)
 
-## Birthday Color for November 29th: Midnight Rider (`#333333`)
+
+## Birthday Color for November 29: Midnight Rider (`#333333`)
 
 ### 1. Description of Midnight Rider (Feeling and Traits)
 
@@ -35,7 +41,7 @@ When it comes to interiors, **Midnight Rider** is perfect for creating a **solid
 
 ### 4. Plus Tip (Destiny Color)
 
-Combining **Midnight Rider** with **Silver Antique** (the birthday color of November 6th) creates an intriguing balance. While **Midnight Rider** brings strength and decisiveness, **Silver Antique** adds an element of timeless **class** and **value**, creating a sophisticated synergy that is both modern and classical.
+Combining **Midnight Rider** with **Silver Antique** (the birthday color of November 6) creates an intriguing balance. While **Midnight Rider** brings strength and decisiveness, **Silver Antique** adds an element of timeless **class** and **value**, creating a sophisticated synergy that is both modern and classical.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,21 +1,27 @@
 ---
-title: "Midnight Navy, The Birthday Color of November 21st"
-date: 2026-11-21
-description: "The birthday color for November 21st is Midnight Navy (000033). Its meaning is Mysterious, Profound, Serene."
-author: 365days
+title: "Midnight Navy, The Birthday Color of November 21"
+date: "2026-11-21"
+updated: "2026-11-21"
 tags:
-  - midnight navy
-  - birthday color
-  - november 21st
-  - 000033
-  - november
-  - cream
-draft: false
+  - "midnight navy"
+  - "birthday color"
+  - "november 21"
+  - "000033"
+  - "november"
+  - "cream"
+description: "The birthday color for November 21 is Midnight Navy (000033). Its meaning is Mysterious, Profound, Serene."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEisCXT_yyyfwA24yEKTCNiLgvS1fp4KwYjLlKw4RTVVW73KYPZqdcAFIyCNYMOaziIm-VLUug_Z9jftiV4hINhABsAW3Ym9ZcfoE0x6f808ZxoYOf_iS1PuJRJGinP7eVKv-P0NSbufQea_Zl4B7vjcYaT5lZZXq7ccVA6M2BOMpveafmzJ2yrZLefXxat2=s1600"
+en_name: "MidnightNavy"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Midnight Navy](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_326.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEisCXT_yyyfwA24yEKTCNiLgvS1fp4KwYjLlKw4RTVVW73KYPZqdcAFIyCNYMOaziIm-VLUug_Z9jftiV4hINhABsAW3Ym9ZcfoE0x6f808ZxoYOf_iS1PuJRJGinP7eVKv-P0NSbufQea_Zl4B7vjcYaT5lZZXq7ccVA6M2BOMpveafmzJ2yrZLefXxat2=s1600)
 
-## Birthday Color for November 21st: Midnight Navy (`#000033`)
+
+## Birthday Color for November 21: Midnight Navy (`#000033`)
 
 ### 1. Description of Midnight Navy (Feeling and Traits)
 
@@ -41,7 +47,7 @@ When it comes to interiors, **Midnight Navy** can be the perfect backdrop for cr
 
 ### 4. Plus Tip (Destiny Color)
 
-**Cream** (Hex: `#FFFFCC`), the birthday color for **May 9th**, pairs effortlessly with **Midnight Navy** to create a harmonious balance of contrast and complement. **Cream’s softness** and **purity** bring a light, warm energy to **Midnight Navy’s** depth, resulting in a synergy that combines mystery with clarity. The two colors together reflect the duality of light and dark, offering both peace and profound presence.
+**Cream** (Hex: `#FFFFCC`), the birthday color for **May 9**, pairs effortlessly with **Midnight Navy** to create a harmonious balance of contrast and complement. **Cream’s softness** and **purity** bring a light, warm energy to **Midnight Navy’s** depth, resulting in a synergy that combines mystery with clarity. The two colors together reflect the duality of light and dark, offering both peace and profound presence.
 
 ### 5. Conclusion (A Poem of Healing)
 

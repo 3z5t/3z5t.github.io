@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgsxBewnolXzgvyFH3oTinD95m1YXokQb31OkNRbtaJQW2XEdfxBbiJXo-6RYjvoxZRPtWmHd1CSfZvOx3okLr6rJ5pLHycknzwHSWqwfRpiAdebS1FcYHfNBSXF9ckxFohv1evnPYhu4L6cJxXbjigL4o1sABO-Owp1sfP_R3JwCTpHTX2KV1OO27XWcd-=s1600)
+
 ## 6월 24일의 탄생색: 머스타드 (`#C29943`)
 
 ### 1. 머스타드에 대한 설명: 시간의 깊이가 만들어낸 빈티지한 골드

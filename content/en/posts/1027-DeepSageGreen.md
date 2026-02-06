@@ -1,21 +1,27 @@
 ---
-title: "Deep Sage Green, The Birthday Color of October 27th"
-date: 2026-10-27
-description: "The birthday color for October 27th is Deep Sage Green (055F5F). Its meaning is Wise, Serene, Classy."
-author: 365days
+title: "Deep Sage Green, The Birthday Color of October 27"
+date: "2026-10-27"
+updated: "2026-10-27"
 tags:
-  - deep sage green
-  - birthday color
-  - october 27th
-  - 055f5f
-  - october
-  - mona lisa
-draft: false
+  - "deep sage green"
+  - "birthday color"
+  - "october 27"
+  - "055f5f"
+  - "october"
+  - "mona lisa"
+description: "The birthday color for October 27 is Deep Sage Green (055F5F). Its meaning is Wise, Serene, Classy."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgD-ooEDXg1EF9Rx9RfGdzIBHGI4SwnKS2j-jWF6F0uvSkqh2Xq5Rv92Tp5O8FcYW1NlisGjO3B2-Aof_pxcf0_uh1ipDtPlDa9iLQmlUWAnpp9PsUlubSF5V8QCDrD-dSSeAFj551Szdo3IvWr0quyE8CBhGDwF1AiHg2QalMOBtWEBwf3NBkO7jG79W_5=s1600"
+en_name: "DeepSageGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Deep Sage Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_301.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgD-ooEDXg1EF9Rx9RfGdzIBHGI4SwnKS2j-jWF6F0uvSkqh2Xq5Rv92Tp5O8FcYW1NlisGjO3B2-Aof_pxcf0_uh1ipDtPlDa9iLQmlUWAnpp9PsUlubSF5V8QCDrD-dSSeAFj551Szdo3IvWr0quyE8CBhGDwF1AiHg2QalMOBtWEBwf3NBkO7jG79W_5=s1600)
 
-## Birthday Color for October 27th: Deep Sage Green (`#055F5F`)
+
+## Birthday Color for October 27: Deep Sage Green (`#055F5F`)
 
 ### 1. Description of Deep Sage Green (Feeling and Traits)
 
@@ -37,7 +43,7 @@ For interior design, **Deep Sage Green** brings a sense of tranquility and timel
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **July 17th**, the partner color **Mona Lisa** (Hex: `#FF9999`) brings a sense of **artistic beauty**, **balance**, and **romance**. Combining **Deep Sage Green** with **Mona Lisa** creates a perfect harmony between **grounded wisdom** and **gentle beauty**, forming a blend of **serenity** and **refined elegance**.
+For those born on **July 17**, the partner color **Mona Lisa** (Hex: `#FF9999`) brings a sense of **artistic beauty**, **balance**, and **romance**. Combining **Deep Sage Green** with **Mona Lisa** creates a perfect harmony between **grounded wisdom** and **gentle beauty**, forming a blend of **serenity** and **refined elegance**.
 
 ### 5. Conclusion (A Poem of Healing)
 

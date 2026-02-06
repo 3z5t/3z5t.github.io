@@ -1,21 +1,27 @@
 ---
-title: "Christmas Sora, The Birthday Color of December 14th"
-date: 2026-12-14
-description: "The birthday color for December 14th is Christmas Sora (9AB4E0). Its meaning is Dreamy, Hopeful, Idealistic."
-author: 365days
+title: "Christmas Sora, The Birthday Color of December 14"
+date: "2026-12-14"
+updated: "2026-12-14"
 tags:
-  - christmas sora
-  - birthday color
-  - december 14th
-  - 9ab4e0
-  - december
-  - rudolph brown
-draft: false
+  - "christmas sora"
+  - "birthday color"
+  - "december 14"
+  - "9ab4e0"
+  - "december"
+  - "rudolph brown"
+description: "The birthday color for December 14 is Christmas Sora (9AB4E0). Its meaning is Dreamy, Hopeful, Idealistic."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEio2ZzWLyOHCUFr2u4COHDiKqPab5v-tSr7RHV3G7YB0veL7O6u5fc_EnTYGIAyqBK3ytY2EXv6f6L9ZuUgylrl2C37pRb7BLIs9KctelE9YGQLdgPt6Vu9aUuIJr8iW8fy05bNlx_uDCyOwq51GCscyjO_UnOr0_jR6phC0Npv3oqDPyx8RZmFb_PVanmc=s1600"
+en_name: "ChristmasSora"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Christmas Sora](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_349.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEio2ZzWLyOHCUFr2u4COHDiKqPab5v-tSr7RHV3G7YB0veL7O6u5fc_EnTYGIAyqBK3ytY2EXv6f6L9ZuUgylrl2C37pRb7BLIs9KctelE9YGQLdgPt6Vu9aUuIJr8iW8fy05bNlx_uDCyOwq51GCscyjO_UnOr0_jR6phC0Npv3oqDPyx8RZmFb_PVanmc=s1600)
 
-## Birthday Color for December 14th: Christmas Sora (`#9AB4E0`)
+
+## Birthday Color for December 14: Christmas Sora (`#9AB4E0`)
 
 ### 1. Description of Christmas Sora (Feeling and Traits)
 
@@ -35,7 +41,7 @@ In interior design, **Christmas Sora** is perfect for creating a **calming, ethe
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Rudolph Brown** (the birthday color of December 3rd), **Christmas Sora** creates a beautiful contrast. While **Christmas Sora** brings **hope** and **dreamy wonder**, **Rudolph Brown’s** **warmth** and **stability** ground that dream, creating a synergy that blends idealism with reality, and light with warmth.
+When combined with **Rudolph Brown** (the birthday color of December 3), **Christmas Sora** creates a beautiful contrast. While **Christmas Sora** brings **hope** and **dreamy wonder**, **Rudolph Brown’s** **warmth** and **stability** ground that dream, creating a synergy that blends idealism with reality, and light with warmth.
 
 ### 5. Conclusion (A Poem of Healing)
 

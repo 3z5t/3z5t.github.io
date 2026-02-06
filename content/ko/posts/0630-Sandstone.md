@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiSn8E_7ATa14v6fVzG2mgsKeplTrC-K-ucpKhXjrbcXF54mua2DKLqgA7HccUWN8Z58ozcT60Cx3WRU3X3pKBqffH5-6UIEjEEv3JOms0j-kHKL6ADgI9T-Pzr0t_SvSA9K3ddHciaaDYs4q8xKtiB8cam4a3OjvuHBcNtPrwVWLVkBktgq1yqITyxaAYJ=s1600)
+
 ## 6월 30일의 탄생색: 샌드 스톤 (`#7B6D6D`)
 
 ### 1. 샌드 스톤에 대한 설명: 시간의 결이 쌓여 만들어진 단단한 고요

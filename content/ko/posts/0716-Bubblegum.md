@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjdL4Ha6pmGCkVdAHbuzDkH_OydeuhHGI56Ew5cL-nPFGQ4W7Hne5MZHlf0P1hX4qL_6LOXWngKWE34BxQ8_tw6EZtNU4Zr3LG-FTe_pt_HWu4ibcMuzOo1pqAnlMQNKv2P-3CpWwHh5QMfvGrtWzrx-kKb2lJxCxyRL2uDDRlMUou8vSL1Mkbm5sqfi0br=s1600)
+
 ## 7월 16일의 탄생색: 버블껌 (`#FBC9CB`)
 
 ### 1. 버블껌에 대한 설명: 입안에서 톡 터지는 달콤한 백일몽

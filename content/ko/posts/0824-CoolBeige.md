@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgRAV7PAy8iB0GkrEI-5B9WsTPgDVldGGEamyjhefVv5MU3-bKbYy1ZYRVQ7wYK4KamuK5EJ33Gtno6yTW1QBOZCvqIWLkaoOwPKmHSpLGY0uCCeTZZejVWtaa96uL5_mpAyiSoh5iuAjB5Z9TrAY7gwvkwblb4u6mTk6dL3IWGkAZW9UgsBXxdZOobVz-W=s1600)
+
 ## 8월 24일의 탄생색: 쿨 베이지 (`#AF8E8A`)
 
 ### 1. 쿨 베이지에 대한 설명: 마른 장미꽃잎에 내려앉은 회색빛 우수

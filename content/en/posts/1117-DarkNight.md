@@ -1,21 +1,27 @@
 ---
-title: "Dark Night, The Birthday Color of November 17th"
-date: 2026-11-17
-description: "The birthday color for November 17th is Dark Night (2A2333). Its meaning is Meditative, Contemplating, Mysterious."
-author: 365days
+title: "Dark Night, The Birthday Color of November 17"
+date: "2026-11-17"
+updated: "2026-11-17"
 tags:
-  - dark night
-  - birthday color
-  - november 17th
-  - 2a2333
-  - november
-  - cloud gray
-draft: false
+  - "dark night"
+  - "birthday color"
+  - "november 17"
+  - "2a2333"
+  - "november"
+  - "cloud gray"
+description: "The birthday color for November 17 is Dark Night (2A2333). Its meaning is Meditative, Contemplating, Mysterious."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj6-0R8R_I6t5qYfqUHPkaLw3Jp-ng6EhqmNheMt53FEaOHpkisKOFZzv5ztS4csVtnHAthXynBr0gGDQQ5clhG7IL_lxyPdrGKcJ-HbLyek9hukWjVTZg8L6hGhIc7F6yR2LECMydPZ84ydtApq-ovWn_HFeP8hRkKUETwkUWcXafNQIXJqPrZ4_7Cule7=s1600"
+en_name: "DarkNight"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Dark Night](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_322.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj6-0R8R_I6t5qYfqUHPkaLw3Jp-ng6EhqmNheMt53FEaOHpkisKOFZzv5ztS4csVtnHAthXynBr0gGDQQ5clhG7IL_lxyPdrGKcJ-HbLyek9hukWjVTZg8L6hGhIc7F6yR2LECMydPZ84ydtApq-ovWn_HFeP8hRkKUETwkUWcXafNQIXJqPrZ4_7Cule7=s1600)
 
-## Birthday Color for November 17th: Dark Night (`#2A2333`)
+
+## Birthday Color for November 17: Dark Night (`#2A2333`)
 
 ### 1. Description of Dark Night (Feeling and Traits)
 
@@ -39,7 +45,7 @@ This color can also work wonders in beauty. Imagine a **dark, smokey eye** or **
 
 ### 4. Plus Tip (Destiny Color)
 
-**Cloud Gray** (Hex: `#D8D3CD`), the birthday color of **October 21st**, complements **Dark Night** beautifully. Where **Dark Night** is deep and reflective, **Cloud Gray** adds a light, airy quality, creating a soft contrast that highlights the depth of the former. The two colors together form a perfect balance—**quiet contemplation** mixed with a gentle, **soothing serenity**—creating a harmonious atmosphere full of both mystery and peace.
+**Cloud Gray** (Hex: `#D8D3CD`), the birthday color of **October 21**, complements **Dark Night** beautifully. Where **Dark Night** is deep and reflective, **Cloud Gray** adds a light, airy quality, creating a soft contrast that highlights the depth of the former. The two colors together form a perfect balance—**quiet contemplation** mixed with a gentle, **soothing serenity**—creating a harmonious atmosphere full of both mystery and peace.
 
 ### 5. Conclusion (A Poem of Healing)
 

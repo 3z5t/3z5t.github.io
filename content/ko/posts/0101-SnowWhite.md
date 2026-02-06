@@ -19,6 +19,9 @@ postId: "4472952606261953637"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgdWav3vdn9l7EvWY8tIuMUpYWUDk11WfO7JSZzqJ-pxGRy3gO2QrxBkaaStDUYN-CC7mRTfAUqzDHgkwvT5ffffodUUIUfL2bKpPWFHqgkTYDQ9rSTOTpewOI2pALZi94WbvOPsg2roq4OuoWJMxDvcSw8mvouuNPLnEwa0GkRU6pB3WnWUWqtWZrrYf6q=s1600)
+
+
 ## 1월 1일의 탄생색: 스노우 화이트 (`#F2F1F1`)
 
 ### 1. 스노우 화이트에 대한 설명 (색의 느낌과 특징)

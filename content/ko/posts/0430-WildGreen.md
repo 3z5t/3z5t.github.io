@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhdHYi861SgGqRV5KO-sdp5dVe05dwjp24r64uymRrtHxuIF9No5WVf-OoBlNAwReu2NKDlVXkgttPT-7iQEjWgzAKTROILg4pyA6MCuMeutLyjVtOO6IobDHK9Q2mbWWRdFXrJZqV0rYhjWCpFYOsN8Mb93K000c1jdl24_5tA9YOrTcfrNgbMZKDuHQie=s1600)
+
 ## 4월 30일의 탄생색: 와일드 그린 (`#387146`)
 
 ### 1. 와일드 그린에 대한 설명 (색의 느낌과 특징)

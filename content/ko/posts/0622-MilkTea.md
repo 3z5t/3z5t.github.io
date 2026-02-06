@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj8qY7FPzS_23lTz9co6Dpg1dGSiTg4pXD8yXUluGKrp9hY1MHben4qGKOxvmveYpIi7Av8Hz5kUktPwOillCRhfwoXLwNzynbNZ72qz7siuBhIXplgqI00G7cKPpxyF48ad_e3DycVrQKlKjMj0RsMlljJEDOxyNkbEXpXtNnZv2sPnkoW54vrHJPRI6UQ=s1600)
+
 ## 6월 22일의 탄생색: 밀크티 (`#E4B982`)
 
 ### 1. 밀크티에 대한 설명: 홍차의 깊이와 우유의 부드러움이 만난 기적

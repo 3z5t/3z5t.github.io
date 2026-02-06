@@ -1,21 +1,24 @@
 ---
-title: "Brandy Rose, The Birthday Color of February 29th"
-date: 2026-02-28
-description: "The birthday color for February 29th is Brandy Rose (B58A7B). Its meaning is Uniqueness, Creativity, Individuality."
-author: 365days
-tags:
-  - brandy rose
-  - birthday color
-  - february 29th
-  - b58a7b
-  - february
-  - slate green
-draft: false
+"title": "Brandy Rose, The Birthday Color of February 29"
+"date": "2026-02-28"
+"updated": "2026-02-28"
+"labels":
+- "brandy rose"
+- "birthday color"
+- "february 29"
+- "b58a7b"
+- "february"
+- "slate green"
+"description": "The birthday color for February 29 is Brandy Rose (B58A7B). Its meaning is Uniqueness, Creativity, Individuality."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhs3AP42mai6grSMkN8HZvCT_xbfTjdB5O7PmtLtnPGURfKiWJOtxMZTPrGWJKIf1QDNhtvPdDw9k68r2tFqwkZFr-WilPLdL6IHfIkTxxinW7ethuIRYxm9N3V3y5s0JMRwxm17cbbsWdJj5jt8AGj8M3FcuJVdlsfLyWNuQ37nXfTAOWAFM0DKYfEX_kw=s1600"
+"en_name": "BrandyRose"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "7745478408698909642"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/brandy-rose-birthday-color-of-february.html"
 ---
 
-![Brandy Rose](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_060.webp)
-
-## Birthday Color for February 29th: Brandy Rose (`#B58A7B`)
+## Birthday Color for February 29: Brandy Rose (`#B58A7B`)
 
 ### 1. Description of Brandy Rose (Feeling and Traits)
 
@@ -33,7 +36,7 @@ In interior design, **Brandy Rose** brings a sense of **creativity** and **comfo
 
 ### 4. Plus Tip (Destiny Color)
 
-The partner color for **Brandy Rose** is **Slate Green**, the birthday color for May 21st. This pairing creates a delightful **synergy** between the **earthiness** of **Brandy Rose** and the **intellectual** nature of **Slate Green**. Together, they form a harmonious blend of **creative energy** and **focused thought**, a perfect balance for those who value both **individuality** and **intellect**.
+The partner color for **Brandy Rose** is **Slate Green**, the birthday color for May 21. This pairing creates a delightful **synergy** between the **earthiness** of **Brandy Rose** and the **intellectual** nature of **Slate Green**. Together, they form a harmonious blend of **creative energy** and **focused thought**, a perfect balance for those who value both **individuality** and **intellect**.
 
 ### 5. Conclusion (A Poem of Healing)
 

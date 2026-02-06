@@ -1,20 +1,27 @@
 ---
-title: "Scarlet, The Birthday Color of July 7th"
-date: 2026-07-07
-description: "The birthday color for July 7th is Scarlet (FF3300). Its meaning is Passionate, Romantic, Artistic."
-author: 365days
+title: "Scarlet, The Birthday Color of July 7"
+date: "2026-07-07"
+updated: "2026-07-07"
 tags:
-  - scarlet
-  - birthday color
-  - july 7th
-  - ff3300
-  - july
-  - deep sky blue
-draft: false
+  - "scarlet"
+  - "birthday color"
+  - "july 7"
+  - "ff3300"
+  - "july"
+  - "deep sky blue"
+description: "The birthday color for July 7 is Scarlet (FF3300). Its meaning is Passionate, Romantic, Artistic."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjXHQ1NWGUZTMPlQlMHiQGRsPfchU-_ZU-x4iCTffn8xGUD3k6N4lGDTEn7WeDuzlunvmcI_U-87DDVVPGNo5Pq_PUGtxWL6a2efwxJz7nCgsreqgvsKEzmDeJ_C5y4NXkjhJJFL2wmeLy_PUDmrndjoLxcLSCON2IMmzh-7Jy_u4O1OKPwXUX1Gt9PjyPu=s1600"
+en_name: "Scarlet"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Scarlet](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_189.webp)
-## Birthday Color for July 7th: Scarlet (`#FF3300`)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjXHQ1NWGUZTMPlQlMHiQGRsPfchU-_ZU-x4iCTffn8xGUD3k6N4lGDTEn7WeDuzlunvmcI_U-87DDVVPGNo5Pq_PUGtxWL6a2efwxJz7nCgsreqgvsKEzmDeJ_C5y4NXkjhJJFL2wmeLy_PUDmrndjoLxcLSCON2IMmzh-7Jy_u4O1OKPwXUX1Gt9PjyPu=s1600)
+
+
+## Birthday Color for July 7: Scarlet (`#FF3300`)
 
 ### 1. Description of Scarlet (Feeling and Traits)
 
@@ -30,7 +37,7 @@ In fashion, **Scarlet** is nothing short of a statement. A **Scarlet dress** spe
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Deep Sky Blue** (Hex: `#00CCFF`), the birthday color of January 4th, **Scarlet** creates a powerful synergy. While **Scarlet** ignites **passion** and **romance**, **Deep Sky Blue** introduces a sense of **infinite possibility** and **progressive thinking**, balancing **emotion** with **clarity**. This combination encourages not only **bold actions** but also the wisdom to think expansively and dream big, making it the perfect duo for those who aim to leave a significant mark on the world.
+When combined with **Deep Sky Blue** (Hex: `#00CCFF`), the birthday color of January 4, **Scarlet** creates a powerful synergy. While **Scarlet** ignites **passion** and **romance**, **Deep Sky Blue** introduces a sense of **infinite possibility** and **progressive thinking**, balancing **emotion** with **clarity**. This combination encourages not only **bold actions** but also the wisdom to think expansively and dream big, making it the perfect duo for those who aim to leave a significant mark on the world.
 
 ### 5. Conclusion (A Poem of Healing)
 

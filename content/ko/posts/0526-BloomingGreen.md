@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj_yoe0HGH5EhaaktqkSh-zX9pJaz0q5mNTVJCmMpYIplzlBzvCdvVvjsmb1AF5DkC7YJ88Qpl8gLQ-iatf8kGYMltuhRs-tUEBUgD18CveQO4pvHZG1GsV75o0KUP9gEFRnUE0SdL1_qf0TW--SzJQ-RD8cZfemnnSJxEBnNJLi2MC9KIaJnn9erXAjuIZ=s1600)
+
 ## 5월 26일의 탄생색: 블루밍 그린 (`#336666`)
 
 ### 1. 블루밍 그린에 대한 설명: 울창한 숲이 이룩한 초록의 완성

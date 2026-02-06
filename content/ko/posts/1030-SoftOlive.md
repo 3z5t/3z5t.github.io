@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgAORVVe392TQkfJYLk42cYlINm28wpscn1oA_PDV8gxUqhKzrhAA7_pTFBkTwd2Q4nv2tkTdkSn5adDltOJpBBzdfS0mXaoVvm0zdCI0Hk7S5_Y577UVUBvx6k2-uBKkdSoW0ynlwIznCyd11aPUZ5RASeqpvDovoi9cW7NqguiG-wyfP9s87ux0l7vSXI=s1600)
+
 ## 10월 30일의 탄생색: 소프트 올리브 (`#7E9682`)
 
 ### 1. 소프트 올리브에 대한 설명: 차가운 계절을 앞두고 건네는 따스한 위로

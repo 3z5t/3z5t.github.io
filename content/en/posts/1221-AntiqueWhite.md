@@ -1,21 +1,27 @@
 ---
-title: "Antique White, The Birthday Color of December 21st"
-date: 2026-12-21
-description: "The birthday color for December 21st is Antique White (EBE2CE). Its meaning is Pure Soul, Gentle, Peaceful."
-author: 365days
+title: "Antique White, The Birthday Color of December 21"
+date: "2026-12-21"
+updated: "2026-12-21"
 tags:
-  - antique white
-  - birthday color
-  - december 21st
-  - ebe2ce
-  - december
-  - deep night sky
-draft: false
+  - "antique white"
+  - "birthday color"
+  - "december 21"
+  - "ebe2ce"
+  - "december"
+  - "deep night sky"
+description: "The birthday color for December 21 is Antique White (EBE2CE). Its meaning is Pure Soul, Gentle, Peaceful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhoAgfLwaNKaayt4CCEgLoJAgof0Sp5E4KAGDd0XjVN196hirJEOxmkQ9OzVlY-4VeHpL0NclLzvtkX5lDt09UzmG4kl4ok35qR6m9HSNjC9-3Q51GlQzJGHHGnndZifVrGCovhXMAZkcz_oJ2LXjAUDyEmh6ugAhYYwyj8BaIyY4x-Sy8Njfq8s3gDPCNi=s1600"
+en_name: "AntiqueWhite"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Antique White](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_356.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhoAgfLwaNKaayt4CCEgLoJAgof0Sp5E4KAGDd0XjVN196hirJEOxmkQ9OzVlY-4VeHpL0NclLzvtkX5lDt09UzmG4kl4ok35qR6m9HSNjC9-3Q51GlQzJGHHGnndZifVrGCovhXMAZkcz_oJ2LXjAUDyEmh6ugAhYYwyj8BaIyY4x-Sy8Njfq8s3gDPCNi=s1600)
 
-## Birthday Color for December 21st: Antique White (`#EBE2CE`)
+
+## Birthday Color for December 21: Antique White (`#EBE2CE`)
 
 ### 1. Description of Antique White (Feeling and Traits)
 
@@ -37,7 +43,7 @@ In interiors, **Antique White** creates an atmosphere of calm and purity. It wor
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Deep Night Sky**, the birthday color of September 3rd, **Antique White** creates a beautiful contrast of **light and depth**. The **mysterious and contemplative energy** of **Deep Night Sky** pairs perfectly with the **gentle purity** of **Antique White**, forming a harmonious blend of **light and shadow**, **serenity and depth**. The synergy between these two colors evokes a sense of balance—one that nurtures inner peace while acknowledging the complexity and depth of life.
+When combined with **Deep Night Sky**, the birthday color of September 3, **Antique White** creates a beautiful contrast of **light and depth**. The **mysterious and contemplative energy** of **Deep Night Sky** pairs perfectly with the **gentle purity** of **Antique White**, forming a harmonious blend of **light and shadow**, **serenity and depth**. The synergy between these two colors evokes a sense of balance—one that nurtures inner peace while acknowledging the complexity and depth of life.
 
 ### 5. Conclusion (A Poem of Healing)
 

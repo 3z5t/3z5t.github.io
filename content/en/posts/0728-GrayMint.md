@@ -1,21 +1,27 @@
 ---
-title: "Gray Mint, The Birthday Color of July 28th"
-date: 2026-07-28
-description: "The birthday color for July 28th is Gray Mint (ADCECE). Its meaning is Calm Personality, Stability, Balanced."
-author: 365days
+title: "Gray Mint, The Birthday Color of July 28"
+date: "2026-07-28"
+updated: "2026-07-28"
 tags:
-  - gray mint
-  - birthday color
-  - july 28th
-  - adcece
-  - july
-  - saddle brown
-draft: false
+  - "gray mint"
+  - "birthday color"
+  - "july 28"
+  - "adcece"
+  - "july"
+  - "saddle brown"
+description: "The birthday color for July 28 is Gray Mint (ADCECE). Its meaning is Calm Personality, Stability, Balanced."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEimhMAY9_YMk1DLHpilacHl1EMIuSL3Vfps54ZERZup5yMB3SqYinCH0mOBf3_BuO2N4D8nQTyZ85ZQHQDNckcCwden1yesqdl0J1e4ql368sLEysgBxZ98FPj6Fd2vAk8F_XdLG0y-WlR6zDeY-XpWC-2hjW_mRNdY5QwwZRXVuyaXX4ZF2qieBiwFU8Gn=s1600"
+en_name: "GrayMint"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Gray Mint](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_210.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEimhMAY9_YMk1DLHpilacHl1EMIuSL3Vfps54ZERZup5yMB3SqYinCH0mOBf3_BuO2N4D8nQTyZ85ZQHQDNckcCwden1yesqdl0J1e4ql368sLEysgBxZ98FPj6Fd2vAk8F_XdLG0y-WlR6zDeY-XpWC-2hjW_mRNdY5QwwZRXVuyaXX4ZF2qieBiwFU8Gn=s1600)
 
-## Birthday Color for July 28th: Gray Mint (`#ADCECE`)
+
+## Birthday Color for July 28: Gray Mint (`#ADCECE`)
 
 ### 1. Description of Gray Mint (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In **fashion**, **Gray Mint** brings an air of **understated elegance**. Imagine
 
 ### 4. Plus Tip (Destiny Color)
 
-**Gray Mint** pairs wonderfully with **Saddle Brown**, the birthday color of September 25th. While **Gray Mint** provides a soothing and balanced vibe, **Saddle Brown** introduces **strength** and **earthiness** to the mix. The combination of these two colors creates an atmosphere of **trustworthy stability**—where calmness and grounded strength unite in perfect harmony.
+**Gray Mint** pairs wonderfully with **Saddle Brown**, the birthday color of September 25. While **Gray Mint** provides a soothing and balanced vibe, **Saddle Brown** introduces **strength** and **earthiness** to the mix. The combination of these two colors creates an atmosphere of **trustworthy stability**—where calmness and grounded strength unite in perfect harmony.
 
 ### 5. Conclusion (A Poem of Healing)
 

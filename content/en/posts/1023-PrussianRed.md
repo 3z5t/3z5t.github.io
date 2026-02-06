@@ -1,21 +1,27 @@
 ---
-title: "Prussian Red, The Birthday Color of October 23rd"
-date: 2026-10-23
-description: "The birthday color for October 23rd is Prussian Red (CC3333). Its meaning is Strong Will, Decisive, Strong."
-author: 365days
+title: "Prussian Red, The Birthday Color of October 23"
+date: "2026-10-23"
+updated: "2026-10-23"
 tags:
-  - prussian red
-  - birthday color
-  - october 23rd
-  - cc3333
-  - october
-  - medium turquoise
-draft: false
+  - "prussian red"
+  - "birthday color"
+  - "october 23"
+  - "cc3333"
+  - "october"
+  - "medium turquoise"
+description: "The birthday color for October 23 is Prussian Red (CC3333). Its meaning is Strong Will, Decisive, Strong."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh96v5PntO4mLH3yYQ1_ZmWBmWC5LsdDxVEMeQg4ywsh8V7EgiDe_tnBYEIApW--jsHra4gGHNYf5eH9TMCGqw-yfIyC__2WYVHhjBvPIBD_EiVJVQtzZfTWKBGwzjM3dtP824S0hhvzVrU8vfgNcCM-HbP6yHNxE9Cg28qctMlVWeM2dmYEpbx774OZ0QC=s1600"
+en_name: "PrussianRed"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Prussian Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_297.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh96v5PntO4mLH3yYQ1_ZmWBmWC5LsdDxVEMeQg4ywsh8V7EgiDe_tnBYEIApW--jsHra4gGHNYf5eH9TMCGqw-yfIyC__2WYVHhjBvPIBD_EiVJVQtzZfTWKBGwzjM3dtP824S0hhvzVrU8vfgNcCM-HbP6yHNxE9Cg28qctMlVWeM2dmYEpbx774OZ0QC=s1600)
 
-## Birthday Color for October 23rd: Prussian Red (`#CC3333`)
+
+## Birthday Color for October 23: Prussian Red (`#CC3333`)
 
 ### 1. Description of Prussian Red (Feeling and Traits)
 
@@ -37,7 +43,7 @@ For interiors, **Prussian Red** brings **energy** and **power** to any space. Us
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **July 27th**, the partner color **Medium Turquoise** (Hex: `#33CCCC`) brings a sense of **peace** and **stability**. When combined with **Prussian Red**, it creates a beautiful contrast—**strength** and **calm** working in harmony to create a balanced, dynamic energy.
+For those born on **July 27**, the partner color **Medium Turquoise** (Hex: `#33CCCC`) brings a sense of **peace** and **stability**. When combined with **Prussian Red**, it creates a beautiful contrast—**strength** and **calm** working in harmony to create a balanced, dynamic energy.
 
 ### 5. Conclusion (A Poem of Healing)
 

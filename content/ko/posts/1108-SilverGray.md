@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi6Rp-7rMsMKI0aN66c2ufIiVS4XqOlyhwIKJllzYd3cdKoZNi9AL43ufJT7oWQ1V1iHP4VjOB5rPM7pHrND-4s7uMUhy0_r9wl2TMnt0fF13M3Be0uSSILQ1FhC-UsvmygioLeJbkzORJLCQiX2CwnhgxBH0Yh4HUlbzMPGXuCDjiLaVaPo5DKyprzT0q6=s1600)
+
 ## 11월 8일의 탄생색: 실버 그레이 (`#E2DFE5`)
 
 ### 1. 실버 그레이에 대한 설명: 겨울의 초입, 서리 내린 새벽의 고귀한 빛

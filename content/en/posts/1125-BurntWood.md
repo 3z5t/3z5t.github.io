@@ -1,20 +1,27 @@
 ---
-title: "Burnt Wood, The Birthday Color of November 25th"
-date: 2026-11-25
-description: "The birthday color for November 25th is Burnt Wood (3F242D). Its meaning is Profound, Mature, Stable."
-author: 365days
+title: "Burnt Wood, The Birthday Color of November 25"
+date: "2026-11-25"
+updated: "2026-11-25"
 tags:
-  - burnt wood
-  - birthday color
-  - november 25th
-  - 3f242d
-  - november
-  - cloudy sky
-draft: false
+  - "burnt wood"
+  - "birthday color"
+  - "november 25"
+  - "3f242d"
+  - "november"
+  - "cloudy sky"
+description: "The birthday color for November 25 is Burnt Wood (3F242D). Its meaning is Profound, Mature, Stable."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhjb4DDEGW_kPRgA9KN0LaR-tYNKEPyW5VLYDd1JYpbIJGApUVE93wjg2TH1KYDxKtKapCIQYSXLB2NKlInFoGxAJnLe_ddhed9TtpC3SmXWvCrJ2s2-TV3uRIF6y4w0LhTkb4baXlVoojN835PLR1mA0vW1rPAJNyhcfiSPoHcIRJvjaopkAXaz4JdnBia=s1600"
+en_name: "BurntWood"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Burnt Wood](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_330.webp)
-## Birthday Color for November 25th: Burnt Wood (`#3F242D`)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhjb4DDEGW_kPRgA9KN0LaR-tYNKEPyW5VLYDd1JYpbIJGApUVE93wjg2TH1KYDxKtKapCIQYSXLB2NKlInFoGxAJnLe_ddhed9TtpC3SmXWvCrJ2s2-TV3uRIF6y4w0LhTkb4baXlVoojN835PLR1mA0vW1rPAJNyhcfiSPoHcIRJvjaopkAXaz4JdnBia=s1600)
+
+
+## Birthday Color for November 25: Burnt Wood (`#3F242D`)
 
 ### 1. Description of Burnt Wood (Feeling and Traits)
 
@@ -32,7 +39,7 @@ When it comes to interior design, **Burnt Wood** is perfect for creating a cozy,
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Cloudy Sky** (the birthday color of January 24th), **Burnt Wood** creates a beautiful contrast. The soft, refreshing lightness of **Cloudy Sky** offers a gentle lift to the grounded, deep tones of **Burnt Wood**, creating an atmosphere of balance and harmony. Together, they form a synergy that blends **stability** with **understanding**, creating a peaceful, welcoming energy.
+When paired with **Cloudy Sky** (the birthday color of January 24), **Burnt Wood** creates a beautiful contrast. The soft, refreshing lightness of **Cloudy Sky** offers a gentle lift to the grounded, deep tones of **Burnt Wood**, creating an atmosphere of balance and harmony. Together, they form a synergy that blends **stability** with **understanding**, creating a peaceful, welcoming energy.
 
 ### 5. Conclusion (A Poem of Healing)
 

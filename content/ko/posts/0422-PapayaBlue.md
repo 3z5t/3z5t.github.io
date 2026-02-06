@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjB5lcgrBKXY9yQDGjK9uat6BVn4NLAXaSS1O92T5nj7_09AP83O_or58pXfNxh1VQj20cgu-MAEbwSqqw9xe6dUew3AHU3cW9H8mv8hIBBzvuDK6c3dR-ojGiHn73Kglu4RbTWxuB7XMfNlpzTQHqaiL9lDK_4pGp8bxOT9YcLMwQtFfScFTehC0U7eHGM=s1600)
+
 ## 4월 22일의 탄생색: 파파야 블루 (`#37B5BE`)
 
 ### 1. 파파야 블루에 대한 설명 (색의 느낌과 특징)

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhbKTIya9NHYEYOZsag3w-dOvzzBSOu4bpIeptWG4Fk8sD71yC0yBfmHLhgXGJGWtKHoeEsdRfVlyF-S7-7JnRN4nNvilomjxSpj9ZfkAnh2Mr7I1OQdSQvxNIlkjPDmprBhDKMXFALWpIXTIq9NYbjYKiZEKIWAp4igTfKwQB1K3dHOEC_5MHiQNLSSe1f=s1600)
+
 ## 10월 19일의 탄생색: 소프트 오커 (`#926630`)
 
 ### 1. 소프트 오커에 대한 설명: 어머니 대지의 품처럼 따스하고 넉넉한 흙의 빛

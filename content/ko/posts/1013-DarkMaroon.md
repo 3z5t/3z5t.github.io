@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjjMtvTNECxgTg90ZLCT7p8D_fsSwfP84gb8pJJCU7rZebCnwUEwJzqeldylTqhcGNVWzcGfO7IGA68fyHr1CTG2zO04LpXGVDTJrtQG0r-aE5_DvwVWA6IpQvXNkZWd1WM9sEbaap6yVHbAnXWZNQNAC6-uNbnyWTl7t40YUWVQA0PWdeGVctwoj-RZAPI=s1600)
+
 ## 10월 13일의 탄생색: 다크 마룬 (`#3A0000`)
 
 ### 1. 다크 마룬에 대한 설명: 빛이 잠든 곳에서 피어나는 가장 깊은 침묵

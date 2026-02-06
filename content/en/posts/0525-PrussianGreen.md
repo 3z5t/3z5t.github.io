@@ -1,21 +1,27 @@
 ---
-title: "Prussian Green, The Birthday Color of May 25th"
-date: 2026-05-25
-description: "The birthday color for May 25th is Prussian Green (009999). Its meaning is Balanced, Stable, Harmonious."
-author: 365days
+title: "Prussian Green, The Birthday Color of May 25"
+date: "2026-05-25"
+updated: "2026-05-25"
 tags:
-  - prussian green
-  - birthday color
-  - may 25th
-  - 009999
-  - may
-  - coral red
-draft: false
+  - "prussian green"
+  - "birthday color"
+  - "may 25"
+  - "009999"
+  - "may"
+  - "coral red"
+description: "The birthday color for May 25 is Prussian Green (009999). Its meaning is Balanced, Stable, Harmonious."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjD2b_5yq1PyXJJwQzBHuNAuOIWXVqmTc_KFkkUz6MjoRgIBj4iWwuswWbgUpmo-synk2ykAWoDY25iqnCXXETB9d8bwUT3QmjvvFwFLxcbp5ZprcCImIfub4ea-pSS7l_ae6_wOyU1mCGWORPIbe7PRAthy7DiArfisVawzlHMZrdB5KM-6k1_mnHfBV9Z=s1600"
+en_name: "PrussianGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Prussian Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_146.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjD2b_5yq1PyXJJwQzBHuNAuOIWXVqmTc_KFkkUz6MjoRgIBj4iWwuswWbgUpmo-synk2ykAWoDY25iqnCXXETB9d8bwUT3QmjvvFwFLxcbp5ZprcCImIfub4ea-pSS7l_ae6_wOyU1mCGWORPIbe7PRAthy7DiArfisVawzlHMZrdB5KM-6k1_mnHfBV9Z=s1600)
 
-## Birthday Color for May 25th: Prussian Green (`#009999`)
+
+## Birthday Color for May 25: Prussian Green (`#009999`)
 
 ### 1. Description of Prussian Green (Feeling and Traits)
 
@@ -31,7 +37,7 @@ Those born under the influence of **Prussian Green** are naturally drawn to **ba
 
 ### 4. Plus Tip (Destiny Color)
 
-**Prussian Green** also pairs beautifully with **Coral Red** (Hex: `#FE5955`), the birthday color of **July 4th**. While **Prussian Green** offers balance and stability, **Coral Red** adds a burst of **passion** and **vibrancy**. Together, these colors create a dynamic yet harmonious combination—**Prussian Green** brings grounded energy, while **Coral Red** introduces a spark of liveliness. It’s a perfect pairing for those who appreciate both tranquility and excitement in their lives.
+**Prussian Green** also pairs beautifully with **Coral Red** (Hex: `#FE5955`), the birthday color of **July 4**. While **Prussian Green** offers balance and stability, **Coral Red** adds a burst of **passion** and **vibrancy**. Together, these colors create a dynamic yet harmonious combination—**Prussian Green** brings grounded energy, while **Coral Red** introduces a spark of liveliness. It’s a perfect pairing for those who appreciate both tranquility and excitement in their lives.
 
 ### 5. Conclusion (A Poem of Healing)
 

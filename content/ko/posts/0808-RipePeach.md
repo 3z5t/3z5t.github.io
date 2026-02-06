@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEitdI0XwFTryRz2htLqhx41lxU5NvLFnBS8dlosX8Je82cVn5FZ-N8YcI9MdPIdVIVkNEDtP4j2dUOPwMDlglTL6C7QjLv_Hn7rn8QseqX6Y1--vebktMZhgXl0A2kfDnB-Do3gUUH9gcQ-tzPBWSW7b18HupuvZA9VX6H8wgl1GfrtCrGPAHadhgxdYFaT=s1600)
+
 ## 8월 8일의 탄생색: 물렁한 복숭아 (`#F8F3EA`)
 
 ### 1. 물렁한 복숭아에 대한 설명: 입술만 대도 터질 듯한 순백의 달콤함

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi_eIdol15HZkHjKIcAvT2lVUBkNfqJB1SwW9JXED7tY-oBN91NSPcyW_VBbhZLaAngPDFEYBnFQPNtAMu7r66cHpzaaSeNrNnTNuFOKzVVVJ4nFBZg3hrvuF0b_woNYJFMxY-IL1zQ3Vb3U2F2PpVq0lPYKcOeI6goOd1Arp4j3TAfXXbk_852KIwicAcF=s1600)
+
 ## 3월 20일의 탄생색: 진한 딸기우유 (`#FF6FBD`)
 
 ### 1. 진한 딸기우유에 대한 설명 (색의 느낌과 특징)

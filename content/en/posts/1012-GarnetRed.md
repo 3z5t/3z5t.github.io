@@ -1,21 +1,27 @@
 ---
-title: "Garnet Red, The Birthday Color of October 12th"
-date: 2026-10-12
-description: "The birthday color for October 12th is Garnet Red (AA0000). Its meaning is Solid Will, Passionate, Strong."
-author: 365days
+title: "Garnet Red, The Birthday Color of October 12"
+date: "2026-10-12"
+updated: "2026-10-12"
 tags:
-  - garnet red
-  - birthday color
-  - october 12th
-  - aa0000
-  - october
-  - baby blue
-draft: false
+  - "garnet red"
+  - "birthday color"
+  - "october 12"
+  - "aa0000"
+  - "october"
+  - "baby blue"
+description: "The birthday color for October 12 is Garnet Red (AA0000). Its meaning is Solid Will, Passionate, Strong."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgnNLf8643CuNcFzCFq9UYq0BRyTZFq6JpxtJKKmnnWk8a7sqXA0_iHmWHN9GW0wyZYlQa6o8pUuicJkHg6Wd3In-GrPQmrd_Yqyf67aL9YvwGZKupPZzjo41dZeCULAFnGyhTg2FjpES8s2AIKsaFIi8CCaYzi_wyYXdXUj2ROwhYQqDeEuzNx1klmHA_t=s1600"
+en_name: "GarnetRed"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Garnet Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_286.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgnNLf8643CuNcFzCFq9UYq0BRyTZFq6JpxtJKKmnnWk8a7sqXA0_iHmWHN9GW0wyZYlQa6o8pUuicJkHg6Wd3In-GrPQmrd_Yqyf67aL9YvwGZKupPZzjo41dZeCULAFnGyhTg2FjpES8s2AIKsaFIi8CCaYzi_wyYXdXUj2ROwhYQqDeEuzNx1klmHA_t=s1600)
 
-## Birthday Color for October 12th: Garnet Red (`#AA0000`)
+
+## Birthday Color for October 12: Garnet Red (`#AA0000`)
 
 ### 1. **Description of Garnet Red (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ When it comes to **fashion**, **Garnet Red** is the perfect choice for a **state
 
 ### 4. **Plus Tip (Destiny Color)**
 
-**Garnet Red** combines effortlessly with **Baby Blue**, the birthday color of **July 23rd**. When paired, these colors create a **beautiful harmony** between **passion and peace**, **strength and tranquility**. The cool, calm energy of **Baby Blue** complements the fiery determination of **Garnet Red**, resulting in a balanced, yet dynamic combination that enhances the strengths of both.
+**Garnet Red** combines effortlessly with **Baby Blue**, the birthday color of **July 23**. When paired, these colors create a **beautiful harmony** between **passion and peace**, **strength and tranquility**. The cool, calm energy of **Baby Blue** complements the fiery determination of **Garnet Red**, resulting in a balanced, yet dynamic combination that enhances the strengths of both.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

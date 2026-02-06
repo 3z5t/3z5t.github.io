@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjyzexZLYVs776iTbkFYMCZG1CT1lucpPqWxkX06t0nCLp3B0ygHMC4IQILvFlGi29W0gzWCkigNI1DBM85KY3LebtzV2hSBEvHlwXSVn1CjkZmBZ-3qwodWOrCzBV-LQqZdH6kYYwgoYMKAODtZT03wE6bF6eKuikTN7bbwX59vBhB55PMcgVVWmFculgp=s1600)
+
 ## 7월 27일의 탄생색: 미디움 터콰이즈 (`#33CCCC`)
 
 ### 1. 미디움 터콰이즈에 대한 설명: 영혼을 치유하는 신비로운 보석의 바다

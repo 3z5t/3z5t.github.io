@@ -1,21 +1,27 @@
 ---
-title: "Deep Khaki, The Birthday Color of October 29th"
-date: 2026-10-29
-description: "The birthday color for October 29th is Deep Khaki (525C3E). Its meaning is Natural, Stable, Peaceful."
-author: 365days
+title: "Deep Khaki, The Birthday Color of October 29"
+date: "2026-10-29"
+updated: "2026-10-29"
 tags:
-  - deep khaki
-  - birthday color
-  - october 29th
-  - 525c3e
-  - october
-  - silver lilac
-draft: false
+  - "deep khaki"
+  - "birthday color"
+  - "october 29"
+  - "525c3e"
+  - "october"
+  - "silver lilac"
+description: "The birthday color for October 29 is Deep Khaki (525C3E). Its meaning is Natural, Stable, Peaceful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgoitp7HzyZ4eBdrgIiRp5Lm_9axu8ZH4y0E_M-51uu_YQ_Fjh8nS5paOY33vd_bZvANff5B0fG-Ogzn7vpT8MtcCFMSlWhi4UE4l4uWxX-aoTpn3kDe2zrHrSWD-RYkwjAjxLdBNu1R3tm-3PtdHp3Pt5-cU4vOptehyseYgXjP28NMPj47dOtNPY3V2LE=s1600"
+en_name: "DeepKhaki"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Deep Khaki](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_303.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgoitp7HzyZ4eBdrgIiRp5Lm_9axu8ZH4y0E_M-51uu_YQ_Fjh8nS5paOY33vd_bZvANff5B0fG-Ogzn7vpT8MtcCFMSlWhi4UE4l4uWxX-aoTpn3kDe2zrHrSWD-RYkwjAjxLdBNu1R3tm-3PtdHp3Pt5-cU4vOptehyseYgXjP28NMPj47dOtNPY3V2LE=s1600)
 
-## Birthday Color for October 29th: Deep Khaki (`#525C3E`)
+
+## Birthday Color for October 29: Deep Khaki (`#525C3E`)
 
 ### 1. Description of Deep Khaki (Feeling and Traits)
 
@@ -37,7 +43,7 @@ For interiors, **Deep Khaki** is perfect for creating a **calming sanctuary**. W
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **February 10th**, the partner color **Silver Lilac** (Hex: `#AEA2C9`) represents **elegance**, **sophistication**, and an **aesthetic eye**. Combining **Deep Khaki** with **Silver Lilac** creates a harmonious contrast of **earthy stability** and **refined beauty**, bringing out the **best** of both colors in any setting.
+For those born on **February 10**, the partner color **Silver Lilac** (Hex: `#AEA2C9`) represents **elegance**, **sophistication**, and an **aesthetic eye**. Combining **Deep Khaki** with **Silver Lilac** creates a harmonious contrast of **earthy stability** and **refined beauty**, bringing out the **best** of both colors in any setting.
 
 ### 5. Conclusion (A Poem of Healing)
 

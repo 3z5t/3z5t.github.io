@@ -1,21 +1,27 @@
 ---
-title: "Classic Red, The Birthday Color of October 3rd"
-date: 2026-10-03
-description: "The birthday color for October 3rd is Classic Red (C61400). Its meaning is Proud, High Self-esteem, Leadership."
-author: 365days
+title: "Classic Red, The Birthday Color of October 3"
+date: "2026-10-03"
+updated: "2026-10-03"
 tags:
-  - classic red
-  - birthday color
-  - october 3rd
-  - c61400
-  - october
-  - light sky
-draft: false
+  - "classic red"
+  - "birthday color"
+  - "october 3"
+  - "c61400"
+  - "october"
+  - "light sky"
+description: "The birthday color for October 3 is Classic Red (C61400). Its meaning is Proud, High Self-esteem, Leadership."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgJIs00BLB3NuW_axuzd44Pi_gIw-_0LMuFQV2Q0Vd686WvSEaYm4KUopPgHQU7oavEluQk28cipLDM5VtAt9Q0gSCfL6RcVV0AGTUqltBXzfIXi0rulbtZ_KAgprITOvfpQML4ykNBJb5Z7-h0OT4x1cP7WHPEhmToj3H8Fr8WCyBSTHOXh7qmYouSu3rR=s1600"
+en_name: "ClassicRed"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Classic Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_277.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgJIs00BLB3NuW_axuzd44Pi_gIw-_0LMuFQV2Q0Vd686WvSEaYm4KUopPgHQU7oavEluQk28cipLDM5VtAt9Q0gSCfL6RcVV0AGTUqltBXzfIXi0rulbtZ_KAgprITOvfpQML4ykNBJb5Z7-h0OT4x1cP7WHPEhmToj3H8Fr8WCyBSTHOXh7qmYouSu3rR=s1600)
 
-## Birthday Color for October 3rd: Classic Red (`#C61400`)
+
+## Birthday Color for October 3: Classic Red (`#C61400`)
 
 ### 1. **Description of Classic Red (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ When it comes to fashion, **Classic Red** speaks for itself. It’s a color that
 
 ### 4. **Plus Tip (Destiny Color)**
 
-Pair **Classic Red** with **Light Sky**, the birthday color of **July 22nd**, and you have a combination that balances **strength** with **refreshing clarity**. **Light Sky** brings in the **coolness** and **calmness**, offering a soothing counterpoint to the boldness of **Classic Red**, making this a synergy that speaks of **dynamic leadership** and **bright vision**.
+Pair **Classic Red** with **Light Sky**, the birthday color of **July 22**, and you have a combination that balances **strength** with **refreshing clarity**. **Light Sky** brings in the **coolness** and **calmness**, offering a soothing counterpoint to the boldness of **Classic Red**, making this a synergy that speaks of **dynamic leadership** and **bright vision**.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

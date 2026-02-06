@@ -1,21 +1,27 @@
 ---
-title: "Chinook Green, The Birthday Color of April 18th"
-date: 2026-04-18
-description: "The birthday color for April 18th is Chinook Green (99CC99). Its meaning is Harmonious, Peaceful, Healing."
-author: 365days
+title: "Chinook Green, The Birthday Color of April 18"
+date: "2026-04-18"
+updated: "2026-04-18"
 tags:
-  - chinook green
-  - birthday color
-  - april 18th
-  - 99cc99
-  - april
-  - deep wine
-draft: false
+  - "chinook green"
+  - "birthday color"
+  - "april 18"
+  - "99cc99"
+  - "april"
+  - "deep wine"
+description: "The birthday color for April 18 is Chinook Green (99CC99). Its meaning is Harmonious, Peaceful, Healing."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi9DY24VMwOkvW-jrAUpiJnrSgDbe8efUFgJrEzJuY0Bhfu-5RYRmXTGsbvdv9npkt_XRaoR8REcM0hv6se7I9e5ImI8rntGU8Y501bYvIB1Fmpm4uWrZp9LyE4RKWhmO_ztHrn7KRDfzi42NcO4dJEuyhs7YoalskBOEZCYE7ONqFgy9CI9uSVwPXsTFB1=s1600"
+en_name: "ChinookGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Chinook Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_109.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi9DY24VMwOkvW-jrAUpiJnrSgDbe8efUFgJrEzJuY0Bhfu-5RYRmXTGsbvdv9npkt_XRaoR8REcM0hv6se7I9e5ImI8rntGU8Y501bYvIB1Fmpm4uWrZp9LyE4RKWhmO_ztHrn7KRDfzi42NcO4dJEuyhs7YoalskBOEZCYE7ONqFgy9CI9uSVwPXsTFB1=s1600)
 
-## Birthday Color for April 18th: Chinook Green (`#99CC99`)
+
+## Birthday Color for April 18: Chinook Green (`#99CC99`)
 
 ### 1. Description of Chinook Green (Feeling and Traits)
 
@@ -31,7 +37,7 @@ When styling with **Chinook Green**, think of it as the perfect companion for mo
 
 ### 4. Plus Tip (Destiny Color)
 
-**Deep Wine** (Hex: `#77384C`), the birthday color for February 25th, pairs beautifully with **Chinook Green**. The depth and richness of **Deep Wine** contrast the light, calming nature of **Chinook Green**, creating a balanced and grounding synergy that evokes both nurturing energy and strength. Together, they form an atmosphere that is both soothing and empowering.
+**Deep Wine** (Hex: `#77384C`), the birthday color for February 25, pairs beautifully with **Chinook Green**. The depth and richness of **Deep Wine** contrast the light, calming nature of **Chinook Green**, creating a balanced and grounding synergy that evokes both nurturing energy and strength. Together, they form an atmosphere that is both soothing and empowering.
 
 ### 5. Conclusion (A Poem of Healing)
 

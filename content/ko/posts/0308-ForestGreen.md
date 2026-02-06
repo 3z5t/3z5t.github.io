@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgMZ8LJ47famgyrd7eGbCOibzGRk1J4Qz9IOCkx8bQ0_ZAN2dYd77ab6RAHqmdD7uxq-gulIWpoDa36GUQqxCkWhcw8CjGJDuYBeGdjNE9EPOqsbTm5p7RmoCNfNW6lOJ9tM5BlyAEg4GuAF4N4cMBrrUxrENvHYAGYyWZRd-8J-JhBOL-Fu2ZpIzIJ6DxN=s1600)
+
 ## 3월 8일의 탄생색: 포레스트 그린 (`#006600`)
 
 ### 1. 포레스트 그린에 대한 설명 (색의 느낌과 특징)

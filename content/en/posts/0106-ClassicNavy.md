@@ -1,21 +1,28 @@
 ---
-title: "Classic Navy, The Birthday Color of January 6th"
-date: 2026-01-06
-description: "The birthday color for January 6th is Classic Navy (000066). Its meaning is Conviction, Responsibility, Leadership."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-06'
+description: The birthday color for January 6 is Classic Navy (000066). Its meaning
+  is Conviction, Responsibility, Leadership.
+en_name: ClassicNavy
 tags:
-  - classic navy
-  - birthday color
-  - january 6th
-  - 000066
-  - january
-  - pale orange
-draft: false
+- classic navy
+- birthday color
+- january 6
+- '000066'
+- january
+- pale orange
+postId: '7943544680145241152'
+postUrl: https://the366days-en.blogspot.com/2026/01/classic-navy-birthday-color-of-january-6.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhbZ8oBgKp5gY30ttGlm2Hm1mYT5NV3VFq8LYzMSOBSUSNLbBSlVqIkyaC_5xsrV6aCTbHbrp5ERMtu5v4xAID7JA0O6wH_sUkQtoGshNLLTiiLHBT8IJImFIlZogvPA76iIK8xi8vfIj_mSaSsXhYP49j7-BNxKXOuowV2rTx4whqtsiA9AhHLHjpoQa8v=s1600
+title: Classic Navy, The Birthday Color of January 6
+updated: '2026-01-06'
 ---
 
-![Classic Navy](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_006.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhbZ8oBgKp5gY30ttGlm2Hm1mYT5NV3VFq8LYzMSOBSUSNLbBSlVqIkyaC_5xsrV6aCTbHbrp5ERMtu5v4xAID7JA0O6wH_sUkQtoGshNLLTiiLHBT8IJImFIlZogvPA76iIK8xi8vfIj_mSaSsXhYP49j7-BNxKXOuowV2rTx4whqtsiA9AhHLHjpoQa8v=s1600)
 
-## Birthday Color for January 6th: Classic Navy (`#000066`)
+
+## Birthday Color for January 6: Classic Navy (`#000066`)
 
 ### 1. **Description of Classic Navy (Feeling and Traits)**
 
@@ -31,7 +38,7 @@ In fashion, **Classic Navy** radiates timeless sophistication. A **navy blazer**
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For those looking to create a balanced energy, **combining Classic Navy with Pale Orange**, the birthday color of June 2nd, creates a wonderful synergy. The warmth and positivity of Pale Orange complement the deep, steadfast nature of Classic Navy, bringing a touch of cheer and lightness to its grounded strength.
+For those looking to create a balanced energy, **combining Classic Navy with Pale Orange**, the birthday color of June 2, creates a wonderful synergy. The warmth and positivity of Pale Orange complement the deep, steadfast nature of Classic Navy, bringing a touch of cheer and lightness to its grounded strength.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

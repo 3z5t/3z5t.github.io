@@ -1,21 +1,27 @@
 ---
-title: "Matte Gold, The Birthday Color of June 19th"
-date: 2026-06-19
-description: "The birthday color for June 19th is Matte Gold (DD9330). Its meaning is Abundance, Stability, Depth."
-author: 365days
+title: "Matte Gold, The Birthday Color of June 19"
+date: "2026-06-19"
+updated: "2026-06-19"
 tags:
-  - matte gold
-  - birthday color
-  - june 19th
-  - dd9330
-  - june
-  - royal blue
-draft: false
+  - "matte gold"
+  - "birthday color"
+  - "june 19"
+  - "dd9330"
+  - "june"
+  - "royal blue"
+description: "The birthday color for June 19 is Matte Gold (DD9330). Its meaning is Abundance, Stability, Depth."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj7psr7rPagtYfXbWikwenz_jXAoyAzD9-HVGGfLvrqhMko5QXyRDzcuPCYPqIm6ACmONItKbL_YSz8HcFlRVxwsZAlqdycNxPHAVrzglL7zzPuasYYMWjPhsKg71iZpQ_iYmhDNoW6in62Biu6TC6ZxIi9SVlpFkaGErfBbGNt8n49ng3DUuhfk0942DTD=s1600"
+en_name: "MatteGold"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Matte Gold](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_171.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj7psr7rPagtYfXbWikwenz_jXAoyAzD9-HVGGfLvrqhMko5QXyRDzcuPCYPqIm6ACmONItKbL_YSz8HcFlRVxwsZAlqdycNxPHAVrzglL7zzPuasYYMWjPhsKg71iZpQ_iYmhDNoW6in62Biu6TC6ZxIi9SVlpFkaGErfBbGNt8n49ng3DUuhfk0942DTD=s1600)
 
-## Birthday Color for June 19th: Matte Gold (`#DD9330`)
+
+## Birthday Color for June 19: Matte Gold (`#DD9330`)
 
 ### 1. Description of Matte Gold (Feeling and Traits)
 
@@ -37,7 +43,7 @@ For **interior design**, **Matte Gold** can be used as an accent color to create
 
 ### 4. Plus Tip (Destiny Color)
 
-For those seeking to pair **Matte Gold** with another color for balance and contrast, look no further than **Royal Blue**, the birthday color of **December 16th**. When **Matte Gold** is combined with the **depth** and **classy allure** of **Royal Blue**, the two create a dynamic contrast that is both grounded and bold—perfect for creating a sense of **noble harmony** and lasting elegance.
+For those seeking to pair **Matte Gold** with another color for balance and contrast, look no further than **Royal Blue**, the birthday color of **December 16**. When **Matte Gold** is combined with the **depth** and **classy allure** of **Royal Blue**, the two create a dynamic contrast that is both grounded and bold—perfect for creating a sense of **noble harmony** and lasting elegance.
 
 ### 5. Conclusion (A Poem of Healing)
 

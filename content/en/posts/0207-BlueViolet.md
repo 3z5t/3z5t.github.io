@@ -1,21 +1,24 @@
 ---
-title: "Blue Violet, The Birthday Color of February 7th"
-date: 2026-02-07
-description: "The birthday color for February 7th is Blue Violet (8673C4). Its meaning is Artistic, Inspirational, Creative."
-author: 365days
-tags:
-  - blue violet
-  - birthday color
-  - february 7th
-  - 8673c4
-  - february
-  - deep olive
-draft: false
+"title": "Blue Violet, The Birthday Color of February 7"
+"date": "2026-02-07"
+"updated": "2026-02-07"
+"labels":
+- "blue violet"
+- "birthday color"
+- "february 7"
+- "8673c4"
+- "february"
+- "deep olive"
+"description": "The birthday color for February 7 is Blue Violet (8673C4). Its meaning is Artistic, Inspirational, Creative."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgr4NF4chsfQNj9XN_V7wOQmZtyznCzgKSw0LkUI-d1hsOfNGL4eUTN9BqSaS3_ZfYBp9UxFd65l-z_UrA84MQLot5eAA8MieEY1IFDvOGQO0vLFFez3mkpI5vO_keS6xqPxSX4V6nIz7uQL9PJMI04TijzVnboWCKjonTWno-qFyH2fyBunwRB3p-2xVYJ=s1600"
+"en_name": "BlueViolet"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "4946030663663814778"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/blue-violet-birthday-color-of-february-7.html"
 ---
 
-![Blue Violet](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_038.webp)
-
-## Birthday Color for February 7th: Blue Violet (`#8673C4`)
+## Birthday Color for February 7: Blue Violet (`#8673C4`)
 
 ### 1. Description of Blue Violet (Feeling and Traits)
 
@@ -31,7 +34,7 @@ When it comes to **fashion**, **Blue Violet** exudes **sophistication** while ma
 
 ### 4. Plus Tip (Destiny Color)
 
-To enhance the **artistic** energy of **Blue Violet**, try combining it with **Deep Olive** (Hex: `#6B8E23`), the birthday color of April 16th. The grounding and **stability** of Deep Olive provides the perfect counterbalance to Blue Violet's **creativity**, creating a harmonious synergy between **innovation** and **wisdom**. This pairing invites both **imagination** and **practicality** into your life, encouraging you to not only dream but also take tangible steps toward your creative goals.
+To enhance the **artistic** energy of **Blue Violet**, try combining it with **Deep Olive** (Hex: `#6B8E23`), the birthday color of April 16. The grounding and **stability** of Deep Olive provides the perfect counterbalance to Blue Violet's **creativity**, creating a harmonious synergy between **innovation** and **wisdom**. This pairing invites both **imagination** and **practicality** into your life, encouraging you to not only dream but also take tangible steps toward your creative goals.
 
 ### 5. Conclusion (A Poem of Healing)
 

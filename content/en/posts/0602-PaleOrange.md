@@ -1,21 +1,27 @@
 ---
-title: "Pale Orange, The Birthday Color of June 2nd"
-date: 2026-06-02
-description: "The birthday color for June 2nd is Pale Orange (FFEBB0). Its meaning is Warm Heart, Friendly, Positivity."
-author: 365days
+title: "Pale Orange, The Birthday Color of June 2"
+date: "2026-06-02"
+updated: "2026-06-02"
 tags:
-  - pale orange
-  - birthday color
-  - june 2nd
-  - ffebb0
-  - june
-  - evening sky
-draft: false
+  - "pale orange"
+  - "birthday color"
+  - "june 2"
+  - "ffebb0"
+  - "june"
+  - "evening sky"
+description: "The birthday color for June 2 is Pale Orange (FFEBB0). Its meaning is Warm Heart, Friendly, Positivity."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjsHgrYCu9Cwwht4wfjWBWz8LVc6BYd97cVD8E3vsJkpnsCuFryCUyyaj9L1-5SFdFwnbUbzayPseZrO5XNhMZh_QfY7yowsAh2bbvOegamyRbGYjwTKjZ-DNpmW1oBhwh3OyiDgjPwyQOTg0QgdSjUyOk5ag2fkavDLusFZ827kk1OGVl9SHyFNBhsR5R4=s1600"
+en_name: "PaleOrange"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Pale Orange](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_154.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjsHgrYCu9Cwwht4wfjWBWz8LVc6BYd97cVD8E3vsJkpnsCuFryCUyyaj9L1-5SFdFwnbUbzayPseZrO5XNhMZh_QfY7yowsAh2bbvOegamyRbGYjwTKjZ-DNpmW1oBhwh3OyiDgjPwyQOTg0QgdSjUyOk5ag2fkavDLusFZ827kk1OGVl9SHyFNBhsR5R4=s1600)
 
-## Birthday Color for June 2nd: Pale Orange (`#FFEBB0`)
+
+## Birthday Color for June 2: Pale Orange (`#FFEBB0`)
 
 ### 1. Description of Pale Orange (Feeling and Traits)
 
@@ -31,7 +37,7 @@ At its core, **Pale Orange** is the embodiment of a **warm heart** and a welcomi
 
 ### 4. Plus Tip (Destiny Color)
 
-Combining **Pale Orange** with **Evening Sky**, the birthday color of **September 4th**, creates a beautiful contrast. While **Pale Orange** brings warmth and light, **Evening Sky** adds depth and **calm**, creating a perfect balance between **positivity** and **serenity**. Together, they can foster a space of both **energizing warmth** and **deep reflection**—a harmonious blend for your surroundings.
+Combining **Pale Orange** with **Evening Sky**, the birthday color of **September 4**, creates a beautiful contrast. While **Pale Orange** brings warmth and light, **Evening Sky** adds depth and **calm**, creating a perfect balance between **positivity** and **serenity**. Together, they can foster a space of both **energizing warmth** and **deep reflection**—a harmonious blend for your surroundings.
 
 ### 5. Conclusion (A Poem of Healing)
 

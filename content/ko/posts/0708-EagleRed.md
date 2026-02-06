@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjLLNBv53zhh-KZISa4m3zj7RdvO4OBEcP5bgiP1nM0PgyBSrpyoFHDLZdba0vkkBE6e9aCD2toVN-oXECPf0-5Vwn-ScF2qL0Gg5i1tItrmcTpCro87EwhRsyG_j2GFo8tMKkDSIoDFySt8rpNQ6tjdQwUpAGxGeMp3yT-dYxBtNPl_7aiJqCVUFt44cyR=s1600)
+
 ## 7월 8일의 탄생색: 이글 레드 (`#FF2D2D`)
 
 ### 1. 이글 레드에 대한 설명: 창공을 가르는 가장 날카로운 비상

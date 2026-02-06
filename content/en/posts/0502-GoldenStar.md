@@ -1,21 +1,27 @@
 ---
-title: "Golden Star, The Birthday Color of May 2nd"
-date: 2026-05-02
-description: "The birthday color for May 2nd is Golden Star (E5A859). Its meaning is Achievement, Shining, Influence."
-author: 365days
+title: "Golden Star, The Birthday Color of May 2"
+date: "2026-05-02"
+updated: "2026-05-02"
 tags:
-  - golden star
-  - birthday color
-  - may 2nd
-  - e5a859
-  - may
-  - elegant ultramarine
-draft: false
+  - "golden star"
+  - "birthday color"
+  - "may 2"
+  - "e5a859"
+  - "may"
+  - "elegant ultramarine"
+description: "The birthday color for May 2 is Golden Star (E5A859). Its meaning is Achievement, Shining, Influence."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi-_018XKkgXWwwZJdLsQQOChnijWnN_YUrtiIH_NXLh5HElD1i_F7k54HWZIkHite6HAM5cuNKMiEs6Pc6ghYFoWV-XfwDNvqVPsq2Vr5lFZUsUaWEQt2IUeDHTbBYgdyQELcnu4Te5yo5OMWINYVXuBlx7uUxqVIju9otr5gH91MDhAUimsLaXYHnck36=s1600"
+en_name: "GoldenStar"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Golden Star](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_123.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi-_018XKkgXWwwZJdLsQQOChnijWnN_YUrtiIH_NXLh5HElD1i_F7k54HWZIkHite6HAM5cuNKMiEs6Pc6ghYFoWV-XfwDNvqVPsq2Vr5lFZUsUaWEQt2IUeDHTbBYgdyQELcnu4Te5yo5OMWINYVXuBlx7uUxqVIju9otr5gH91MDhAUimsLaXYHnck36=s1600)
 
-## Birthday Color for May 2nd: Golden Star (`#E5A859`)
+
+## Birthday Color for May 2: Golden Star (`#E5A859`)
 
 ### 1. Description of Golden Star (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Golden Star** is a color that commands attention while maintaining
 
 ### 4. Plus Tip (Destiny Color)
 
-**Golden Star** pairs beautifully with **Elegant Ultramarine** (Hex: `#445B97`), the birthday color of January 10th. When combined, **Golden Star’s** radiant, glowing energy is perfectly complemented by **Elegant Ultramarine’s** deep reliability and serene wisdom. Together, they create a dynamic balance of influence and trust, ambition and loyalty—an unbeatable synergy that inspires both confidence and harmony.
+**Golden Star** pairs beautifully with **Elegant Ultramarine** (Hex: `#445B97`), the birthday color of January 10. When combined, **Golden Star’s** radiant, glowing energy is perfectly complemented by **Elegant Ultramarine’s** deep reliability and serene wisdom. Together, they create a dynamic balance of influence and trust, ambition and loyalty—an unbeatable synergy that inspires both confidence and harmony.
 
 ### 5. Conclusion (A Poem of Healing)
 

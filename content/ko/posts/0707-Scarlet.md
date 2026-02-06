@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg4NXzZQr5goovuoZogtqOKkOF5dldf8bDvV23jUgB2vgjolQ068WrRHOelaDs74iYV9pWutw1ct1YK-r1TtAkqi_2Ac-35-_m0O_jZdt3B80e_In40Jd73obmmKdvJ5QypJdv3J4q_kKXo8Kp-n2ydtzJmcnKf69mBGpWsZ13j7Zj7QvQ-kNLyk07BL5GQ=s1600)
+
 ## 7월 7일의 탄생색: 스칼렛 (`#FF3300`)
 
 ### 1. 스칼렛에 대한 설명: 영혼을 태우는 가장 강렬한 사랑의 불꽃

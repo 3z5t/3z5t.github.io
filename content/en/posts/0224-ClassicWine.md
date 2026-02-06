@@ -1,21 +1,24 @@
 ---
-title: "Classic Wine, The Birthday Color of February 24th"
-date: 2026-02-24
-description: "The birthday color for February 24th is Classic Wine (893751). Its meaning is Maturity, Intellect, Composure."
-author: 365days
-tags:
-  - classic wine
-  - birthday color
-  - february 24th
-  - 893751
-  - february
-  - cool green
-draft: false
+"title": "Classic Wine, The Birthday Color of February 24"
+"date": "2026-02-24"
+"updated": "2026-02-24"
+"labels":
+- "classic wine"
+- "birthday color"
+- "february 24"
+- "893751"
+- "february"
+- "cool green"
+"description": "The birthday color for February 24 is Classic Wine (893751). Its meaning is Maturity, Intellect, Composure."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEizh_MLoSyhFIn1Sae0fEkaoJSM0HrNWegPqJ389IBl3WZSw490KwnUlQoh9rwGyJCEE0uwVOye-C7yIfgXYApoRAMm9noICreHMbTGzSkcZpVKJEXzw4iKAu9Hi6LFjWu85GOu2g8IEskGmOFQn2NBTwWHTw8SmzoYmDpkNJvMVqTIxYC9-fAD_xdpoS2S=s1600"
+"en_name": "ClassicWine"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "5528585957408075241"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/classic-wine-birthday-color-of-february.html"
 ---
 
-![Classic Wine](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_055.webp)
-
-## Birthday Color for February 24th: Classic Wine (`#893751`)
+## Birthday Color for February 24: Classic Wine (`#893751`)
 
 ### 1. Description of Classic Wine (Feeling and Traits)
 
@@ -33,7 +36,7 @@ When it comes to interior design, **Classic Wine** brings a sense of **warmth** 
 
 ### 4. Plus Tip (Destiny Color)
 
-The **partner color** for **Classic Wine** is **Cool Green**, the birthday color of April 21st. **Cool Green** brings a **refreshing**, **calm**, and **balanced** energy that complements the **intensity** and **depth** of **Classic Wine**. When combined, these two colors create a beautiful harmony—**Cool Green’s soothing qualities** balance out the powerful energy of **Classic Wine**, making them an ideal pairing for those looking to create an atmosphere of both **thoughtfulness** and **serenity**.
+The **partner color** for **Classic Wine** is **Cool Green**, the birthday color of April 21. **Cool Green** brings a **refreshing**, **calm**, and **balanced** energy that complements the **intensity** and **depth** of **Classic Wine**. When combined, these two colors create a beautiful harmony—**Cool Green’s soothing qualities** balance out the powerful energy of **Classic Wine**, making them an ideal pairing for those looking to create an atmosphere of both **thoughtfulness** and **serenity**.
 
 ### 5. Conclusion (A Poem of Healing)
 

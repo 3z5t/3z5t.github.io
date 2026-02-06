@@ -1,21 +1,27 @@
 ---
-title: "Winter Milk Tea, The Birthday Color of December 10th"
-date: 2026-12-10
-description: "The birthday color for December 10th is Winter Milk Tea (F2EDF3). Its meaning is Warm Heart, Cozy, Peaceful."
-author: 365days
+title: "Winter Milk Tea, The Birthday Color of December 10"
+date: "2026-12-10"
+updated: "2026-12-10"
 tags:
-  - winter milk tea
-  - birthday color
-  - december 10th
-  - f2edf3
-  - december
-  - smoky black
-draft: false
+  - "winter milk tea"
+  - "birthday color"
+  - "december 10"
+  - "f2edf3"
+  - "december"
+  - "smoky black"
+description: "The birthday color for December 10 is Winter Milk Tea (F2EDF3). Its meaning is Warm Heart, Cozy, Peaceful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgdppAWIqliVPJeuDgw_GQlwfjBXJkiwbJ0Zh-Yfs3PFE-qaJjd0r3Rik-t1fbhmQdk9iVbL5WbCQJgZ7r0IPqEfLwUkxug2ldKJQB3yoKwCeWzmmCDf95S63U_hfR3KptHwuiUNzNzDUrGY8Py_AzLjKFyhqD0teqc31h_u87-uzlUcHHAXxr0Gjzh8G4o=s1600"
+en_name: "WinterMilkTea"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Winter Milk Tea](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_345.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgdppAWIqliVPJeuDgw_GQlwfjBXJkiwbJ0Zh-Yfs3PFE-qaJjd0r3Rik-t1fbhmQdk9iVbL5WbCQJgZ7r0IPqEfLwUkxug2ldKJQB3yoKwCeWzmmCDf95S63U_hfR3KptHwuiUNzNzDUrGY8Py_AzLjKFyhqD0teqc31h_u87-uzlUcHHAXxr0Gjzh8G4o=s1600)
 
-## Birthday Color for December 10th: Winter Milk Tea (`#F2EDF3`)
+
+## Birthday Color for December 10: Winter Milk Tea (`#F2EDF3`)
 
 ### 1. Description of Winter Milk Tea (Feeling and Traits)
 
@@ -35,7 +41,7 @@ For interior design, **Winter Milk Tea** is the color of serenity. Use it in you
 
 ### 4. Plus Tip (Destiny Color)
 
-When **Winter Milk Tea** is paired with **Smoky Black** (the birthday color of November 20th), a perfect synergy emerges. Smoky Black, with its **subtle charm** and **profound depth**, creates a striking contrast to the softness of Winter Milk Tea, allowing both colors to shine—one grounding the other in elegant sophistication.
+When **Winter Milk Tea** is paired with **Smoky Black** (the birthday color of November 20), a perfect synergy emerges. Smoky Black, with its **subtle charm** and **profound depth**, creates a striking contrast to the softness of Winter Milk Tea, allowing both colors to shine—one grounding the other in elegant sophistication.
 
 ### 5. Conclusion (A Poem of Healing)
 

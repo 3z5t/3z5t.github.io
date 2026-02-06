@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEipry6T34VuzFHmpsHw-NjnYsSF1SBss27kCJTUU8HVydZkWE8chkivRfXnw-pUcaZ4ha1QgfpFV_x4xCvk58hbinwVKkG5JkV_oz00bvtKd4niHTC429d24fjtajKYjaFHnRfLXyA7bOzTwUiRFNxgw_gFTN6PuLIehFTPNYMC7Y_sxGgiG62fqA_RM9_r=s1600)
+
 ## 7월 18일의 탄생색: 라일락 (`#CC99CC`)
 
 ### 1. 라일락에 대한 설명: 코끝을 스치는 첫사랑의 보랏빛 향기

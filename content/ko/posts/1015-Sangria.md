@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjK1Jt7UzaG0f6l442sdKxqfd_vB75wuBzc_tIZdJL59kLFh9ySJbQftMGC9wR6JYQf6mVhwdZ4c6It_lco7dyJ6Zl7-7H7oe530BR3088FMzrSC9B8HMV63zwhhlkDznF-fE3c_hAs7GVgjhY3r5P82NkjhasjY062-ydUvT2YQQVqL4R694iiM9wUKRka=s1600)
+
 ## 10월 15일의 탄생색: 상그리아 (`#990000`)
 
 ### 1. 상그리아에 대한 설명: 가을밤의 낭만을 머금은 가장 농밀한 붉은빛

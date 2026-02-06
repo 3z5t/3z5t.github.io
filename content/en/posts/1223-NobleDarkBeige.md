@@ -1,21 +1,27 @@
 ---
-title: "Noble Dark Beige, The Birthday Color of December 23rd"
-date: 2026-12-23
-description: "The birthday color for December 23rd is Noble Dark Beige (D5A66B). Its meaning is Profound, Mature, Stable."
-author: 365days
+title: "Noble Dark Beige, The Birthday Color of December 23"
+date: "2026-12-23"
+updated: "2026-12-23"
 tags:
-  - noble dark beige
-  - birthday color
-  - december 23rd
-  - d5a66b
-  - december
-  - elegant ultramarine
-draft: false
+  - "noble dark beige"
+  - "birthday color"
+  - "december 23"
+  - "d5a66b"
+  - "december"
+  - "elegant ultramarine"
+description: "The birthday color for December 23 is Noble Dark Beige (D5A66B). Its meaning is Profound, Mature, Stable."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj3-nPi9SBVPDBiCgPV6KAdCrKWXxc3Zr2o7tOkXsuXzmpT4AAGjlRILdXRAgVm4hsorV6KfHnG7gUK8Tsc-mOxO0fQiDoAykOQ41nQQSb3DwuikG2Ny5kZ_xcAMndG5oJdXxD4da8eda0FES7rK454MKMx6mY_AGgLHB2IYWqLBK1QKOIxDrpd2mOAvNQx=s1600"
+en_name: "NobleDarkBeige"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Noble Dark Beige](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_358.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj3-nPi9SBVPDBiCgPV6KAdCrKWXxc3Zr2o7tOkXsuXzmpT4AAGjlRILdXRAgVm4hsorV6KfHnG7gUK8Tsc-mOxO0fQiDoAykOQ41nQQSb3DwuikG2Ny5kZ_xcAMndG5oJdXxD4da8eda0FES7rK454MKMx6mY_AGgLHB2IYWqLBK1QKOIxDrpd2mOAvNQx=s1600)
 
-## Birthday Color for December 23rd: Noble Dark Beige (`#D5A66B`)
+
+## Birthday Color for December 23: Noble Dark Beige (`#D5A66B`)
 
 ### 1. Description of Noble Dark Beige (Feeling and Traits)
 
@@ -41,7 +47,7 @@ When it comes to interiors, **Noble Dark Beige** creates a **welcoming, warm env
 
 ### 4. Plus Tip (Destiny Color)
 
-**Elegant Ultramarine**, the birthday color of January 10th, creates a beautiful contrast when paired with **Noble Dark Beige**. While **Noble Dark Beige** grounds you with its calm, profound warmth, **Elegant Ultramarine** adds a sense of **depth and clarity**, drawing from the **richness of the night sky**. Together, they balance each other perfectly, blending the earthy, grounded energy of beige with the introspective calm of blue, making for a wonderfully **harmonious** combination.
+**Elegant Ultramarine**, the birthday color of January 10, creates a beautiful contrast when paired with **Noble Dark Beige**. While **Noble Dark Beige** grounds you with its calm, profound warmth, **Elegant Ultramarine** adds a sense of **depth and clarity**, drawing from the **richness of the night sky**. Together, they balance each other perfectly, blending the earthy, grounded energy of beige with the introspective calm of blue, making for a wonderfully **harmonious** combination.
 
 ### 5. Conclusion (A Poem of Healing)
 

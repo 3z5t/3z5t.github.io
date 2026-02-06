@@ -1,21 +1,27 @@
 ---
-title: "Neon Carrot, The Birthday Color of June 12th"
-date: 2026-06-12
-description: "The birthday color for June 12th is Neon Carrot (FF9933). Its meaning is Vibrant, Energetic, Passionate."
-author: 365days
+title: "Neon Carrot, The Birthday Color of June 12"
+date: "2026-06-12"
+updated: "2026-06-12"
 tags:
-  - neon carrot
-  - birthday color
-  - june 12th
-  - ff9933
-  - june
-  - royal blue
-draft: false
+  - "neon carrot"
+  - "birthday color"
+  - "june 12"
+  - "ff9933"
+  - "june"
+  - "royal blue"
+description: "The birthday color for June 12 is Neon Carrot (FF9933). Its meaning is Vibrant, Energetic, Passionate."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjoe5gdBD6um2hKPKFOhSYC6wn6adRGdYq-AmeNTDKwOvmtGNwsGSddLcM69l2Fxd8Y-RKUGVj_u44QddpHUIRjB0XzQBWCb0YSIfCF0p0Cpja9eEafe-extqNh_10f84jXVeIEWo-SERaDh88O2XL-7zgr--bP3mmmd-z8ImdfDf7LAt0cvI1s21ip_uZr=s1600"
+en_name: "NeonCarrot"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Neon Carrot](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_164.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjoe5gdBD6um2hKPKFOhSYC6wn6adRGdYq-AmeNTDKwOvmtGNwsGSddLcM69l2Fxd8Y-RKUGVj_u44QddpHUIRjB0XzQBWCb0YSIfCF0p0Cpja9eEafe-extqNh_10f84jXVeIEWo-SERaDh88O2XL-7zgr--bP3mmmd-z8ImdfDf7LAt0cvI1s21ip_uZr=s1600)
 
-## Birthday Color for June 12th: Neon Carrot (`#FF9933`)
+
+## Birthday Color for June 12: Neon Carrot (`#FF9933`)
 
 ### 1. Description of Neon Carrot (Feeling and Traits)
 
@@ -33,7 +39,7 @@ For interior design, **Neon Carrot** is an excellent accent color. Think about *
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Royal Blue**, the birthday color of **December 16th**, **Neon Carrot** creates a dynamic and striking combination. The deep, **classy blue** brings a sense of **balance** to the energetic vibrancy of **Neon Carrot**, creating a harmony between **passion** and **calm**. Together, they create a **bold, powerful contrast** that can be both **inspiring** and **peaceful** at the same time.
+When paired with **Royal Blue**, the birthday color of **December 16**, **Neon Carrot** creates a dynamic and striking combination. The deep, **classy blue** brings a sense of **balance** to the energetic vibrancy of **Neon Carrot**, creating a harmony between **passion** and **calm**. Together, they create a **bold, powerful contrast** that can be both **inspiring** and **peaceful** at the same time.
 
 ### 5. Conclusion (A Poem of Healing)
 

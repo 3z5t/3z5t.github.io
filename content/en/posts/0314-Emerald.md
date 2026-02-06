@@ -1,21 +1,27 @@
 ---
-title: "Emerald, The Birthday Color of March 14th"
-date: 2026-03-14
-description: "The birthday color for March 14th is Emerald (66CC66). Its meaning is Vibrancy, Youth, Creativity."
-author: 365days
+title: "Emerald, The Birthday Color of March 14"
+date: "2026-03-14"
+updated: "2026-03-14"
 tags:
-  - emerald
-  - birthday color
-  - march 14th
-  - 66cc66
-  - march
-  - orchid purple
-draft: false
+  - "emerald"
+  - "birthday color"
+  - "march 14"
+  - "66cc66"
+  - "march"
+  - "orchid purple"
+description: "The birthday color for March 14 is Emerald (66CC66). Its meaning is Vibrancy, Youth, Creativity."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjiKATLLWg3dhAfXIqLRJNbmDYSA3S2oHw0iwFwvPOZtG8Bc1ww09hydJexXBMwM6RSNGWoHeMSwj1fiisAOYcbjp5EWBC7AkG0yGTGIccS2tc0MT4lcfKpSj64Uq6h9YhCt-5iacdQwdkiLrD8xCBOPUhOhbqFaD_hlufjZ34tl3S-RRDHjY12YRGtWSqR=s1600"
+en_name: "Emerald"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Emerald](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_074.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjiKATLLWg3dhAfXIqLRJNbmDYSA3S2oHw0iwFwvPOZtG8Bc1ww09hydJexXBMwM6RSNGWoHeMSwj1fiisAOYcbjp5EWBC7AkG0yGTGIccS2tc0MT4lcfKpSj64Uq6h9YhCt-5iacdQwdkiLrD8xCBOPUhOhbqFaD_hlufjZ34tl3S-RRDHjY12YRGtWSqR=s1600)
 
-## Birthday Color for March 14th: Emerald (`#66CC66`)
+
+## Birthday Color for March 14: Emerald (`#66CC66`)
 
 ### 1. Description of Emerald (Feeling and Traits)
 
@@ -33,7 +39,7 @@ When it comes to interiors, **Emerald** is ideal for creating spaces that feel b
 
 ### 4. Plus Tip (Destiny Color)
 
-For an extra creative flair, consider combining **Emerald** with **Orchid Purple**, the birthday color for February 5th. This pairing brings a beautiful balance between the **youthful vibrancy** of **Emerald** and the **inspiration** and **originality** of **Orchid Purple**, creating a synergy that encourages both fresh ideas and deeply meaningful expressions.
+For an extra creative flair, consider combining **Emerald** with **Orchid Purple**, the birthday color for February 5. This pairing brings a beautiful balance between the **youthful vibrancy** of **Emerald** and the **inspiration** and **originality** of **Orchid Purple**, creating a synergy that encourages both fresh ideas and deeply meaningful expressions.
 
 ### 5. Conclusion (A Poem of Healing)
 

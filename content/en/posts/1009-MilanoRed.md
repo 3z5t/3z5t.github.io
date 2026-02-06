@@ -1,21 +1,27 @@
 ---
-title: "Milano Red, The Birthday Color of October 9th"
-date: 2026-10-09
-description: "The birthday color for October 9th is Milano Red (993333). Its meaning is Classical, Elegant, Dignified."
-author: 365days
+title: "Milano Red, The Birthday Color of October 9"
+date: "2026-10-09"
+updated: "2026-10-09"
 tags:
-  - milano red
-  - birthday color
-  - october 9th
-  - 993333
-  - october
-  - soft downy
-draft: false
+  - "milano red"
+  - "birthday color"
+  - "october 9"
+  - "993333"
+  - "october"
+  - "soft downy"
+description: "The birthday color for October 9 is Milano Red (993333). Its meaning is Classical, Elegant, Dignified."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhr1DfQeLmcx8QsvPv_RwCu_qaIOL8OYoSzISRUeQ54KFlzbbVv-a1js1rB5DM9guNz9zVndXPoMr7r7YVooFEgt3135vNp_hbOQ3PmzgmMU2zOFyl7nnnlkbJx-eJV2iftDe2dVqXZYH1Op_uAqRIRvILRWb9TimlPURTAj0b9Q1dYfHbEkRYD0rsbIpZf=s1600"
+en_name: "MilanoRed"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Milano Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_283.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhr1DfQeLmcx8QsvPv_RwCu_qaIOL8OYoSzISRUeQ54KFlzbbVv-a1js1rB5DM9guNz9zVndXPoMr7r7YVooFEgt3135vNp_hbOQ3PmzgmMU2zOFyl7nnnlkbJx-eJV2iftDe2dVqXZYH1Op_uAqRIRvILRWb9TimlPURTAj0b9Q1dYfHbEkRYD0rsbIpZf=s1600)
 
-## Birthday Color for October 9th: Milano Red (`#993333`)
+
+## Birthday Color for October 9: Milano Red (`#993333`)
 
 ### 1. **Description of Milano Red (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ Those born under the influence of **Milano Red** carry an innate sense of **grac
 
 ### 4. **Plus Tip (Destiny Color)**
 
-Combine **Milano Red** with **Soft Downy**, the birthday color of **May 29th**, and you create a beautiful balance of **elegance** and **gentleness**. The cool, **soothing nature** of **Soft Downy** complements the passionate **vibrance** of **Milano Red**, creating a dynamic, yet harmonious relationship. The **softness** of Soft Downy helps to tone down the intensity of **Milano Red**, while still allowing both colors to shine in their own way.
+Combine **Milano Red** with **Soft Downy**, the birthday color of **May 29**, and you create a beautiful balance of **elegance** and **gentleness**. The cool, **soothing nature** of **Soft Downy** complements the passionate **vibrance** of **Milano Red**, creating a dynamic, yet harmonious relationship. The **softness** of Soft Downy helps to tone down the intensity of **Milano Red**, while still allowing both colors to shine in their own way.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

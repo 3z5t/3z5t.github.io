@@ -1,21 +1,27 @@
 ---
-title: "Curry, The Birthday Color of June 23rd"
-date: 2026-06-23
-description: "The birthday color for June 23rd is Curry (D6A620). Its meaning is Vital, Energy-rich, Creative."
-author: 365days
+title: "Curry, The Birthday Color of June 23"
+date: "2026-06-23"
+updated: "2026-06-23"
 tags:
-  - curry
-  - birthday color
-  - june 23rd
-  - d6a620
-  - june
-  - royal blue
-draft: false
+  - "curry"
+  - "birthday color"
+  - "june 23"
+  - "d6a620"
+  - "june"
+  - "royal blue"
+description: "The birthday color for June 23 is Curry (D6A620). Its meaning is Vital, Energy-rich, Creative."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiLtCRXNVgGT8kiGD-m053RuyOrOlsZQLxthNHMG1-SlV8TSfkQ6JABE8LPGTsYxPbExLSx7A1--WT64d_FBqYYcPy5gfNrYhFI3ka7QsfiDgnjAM5DqRtx7q-hg0Ovab8Itb6I6mX0eetjL3wvUwQSxBOmFZUuteQsnmf3fhKR31Xk1YpesiEE5K3gB1hM=s1600"
+en_name: "Curry"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Curry](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_175.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiLtCRXNVgGT8kiGD-m053RuyOrOlsZQLxthNHMG1-SlV8TSfkQ6JABE8LPGTsYxPbExLSx7A1--WT64d_FBqYYcPy5gfNrYhFI3ka7QsfiDgnjAM5DqRtx7q-hg0Ovab8Itb6I6mX0eetjL3wvUwQSxBOmFZUuteQsnmf3fhKR31Xk1YpesiEE5K3gB1hM=s1600)
 
-## Birthday Color for June 23rd: Curry (`#D6A620`)
+
+## Birthday Color for June 23: Curry (`#D6A620`)
 
 ### 1. Description of Curry (Feeling and Traits)
 
@@ -39,7 +45,7 @@ In **beauty**, **Curry** shines as a warm, earthy accent. Think of a subtle **go
 
 ### 4. Plus Tip (Destiny Color)
 
-The perfect complement to **Curry** is **Royal Blue**, the birthday color for **December 16th**. Together, they create a dynamic pairing of **energy** and **depth**, with **Curry’s** warmth perfectly balancing **Royal Blue’s** cool, calm presence. This combination radiates a sense of **stability** and **creativity**, making it an ideal match for someone with a bold and inspiring personality.
+The perfect complement to **Curry** is **Royal Blue**, the birthday color for **December 16**. Together, they create a dynamic pairing of **energy** and **depth**, with **Curry’s** warmth perfectly balancing **Royal Blue’s** cool, calm presence. This combination radiates a sense of **stability** and **creativity**, making it an ideal match for someone with a bold and inspiring personality.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,21 +1,27 @@
 ---
-title: "Vivid Red, The Birthday Color of July 10th"
-date: 2026-07-10
-description: "The birthday color for July 10th is Vivid Red (FF1414). Its meaning is Outstanding, Lively, Original."
-author: 365days
+title: "Vivid Red, The Birthday Color of July 10"
+date: "2026-07-10"
+updated: "2026-07-10"
 tags:
-  - vivid red
-  - birthday color
-  - july 10th
-  - ff1414
-  - july
-  - aqua
-draft: false
+  - "vivid red"
+  - "birthday color"
+  - "july 10"
+  - "ff1414"
+  - "july"
+  - "aqua"
+description: "The birthday color for July 10 is Vivid Red (FF1414). Its meaning is Outstanding, Lively, Original."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiZMLpB_ojqkXp73FyUrcainoA6xf_ynPkj7r8DxkiCScIOCtyvpnkIbisxl7bAxzqUzkKXb_FB6zCNdZjHvc6n0sFa2XHQHbCszzv8AyRp3dpKqo21pitDzppImJyqtEePJpYJhlMxwMWaakfPHobLvDQBAj-_ASXI7PbmIxymAHl2nrM0mRrBzc8oXAzI=s1600"
+en_name: "VividRed"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Vivid Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_192.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiZMLpB_ojqkXp73FyUrcainoA6xf_ynPkj7r8DxkiCScIOCtyvpnkIbisxl7bAxzqUzkKXb_FB6zCNdZjHvc6n0sFa2XHQHbCszzv8AyRp3dpKqo21pitDzppImJyqtEePJpYJhlMxwMWaakfPHobLvDQBAj-_ASXI7PbmIxymAHl2nrM0mRrBzc8oXAzI=s1600)
 
-## Birthday Color for July 10th: Vivid Red (`#FF1414`)
+
+## Birthday Color for July 10: Vivid Red (`#FF1414`)
 
 ### 1. Description of Vivid Red (Feeling and Traits)
 
@@ -31,7 +37,7 @@ When it comes to fashion, **Vivid Red** is a color that commands attention. Thin
 
 ### 4. Plus Tip (Destiny Color)
 
-Pair **Vivid Red** with **Aqua** (Hex: `#00FFFF`), the birthday color of July 26th, and you have a beautiful combination of **passionate energy** and **calm creativity**. **Aqua’s** refreshing, **cool personality** balances the intensity of **Vivid Red**, creating a dynamic duo that promotes both **action** and **reflection**. Together, they create a synergy of **bold creativity** and **peaceful expression**, making this a powerful pairing for anyone wanting to bring their ideas to life with both fire and clarity.
+Pair **Vivid Red** with **Aqua** (Hex: `#00FFFF`), the birthday color of July 26, and you have a beautiful combination of **passionate energy** and **calm creativity**. **Aqua’s** refreshing, **cool personality** balances the intensity of **Vivid Red**, creating a dynamic duo that promotes both **action** and **reflection**. Together, they create a synergy of **bold creativity** and **peaceful expression**, making this a powerful pairing for anyone wanting to bring their ideas to life with both fire and clarity.
 
 ### 5. Conclusion (A Poem of Healing)
 

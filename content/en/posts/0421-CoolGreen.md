@@ -1,21 +1,27 @@
 ---
-title: "Cool Green, The Birthday Color of April 21st"
-date: 2026-04-21
-description: "The birthday color for April 21st is Cool Green (78BAAD). Its meaning is Refreshing, Calm, Balanced."
-author: 365days
+title: "Cool Green, The Birthday Color of April 21"
+date: "2026-04-21"
+updated: "2026-04-21"
 tags:
-  - cool green
-  - birthday color
-  - april 21st
-  - 78baad
-  - april
-  - classic wine
-draft: false
+  - "cool green"
+  - "birthday color"
+  - "april 21"
+  - "78baad"
+  - "april"
+  - "classic wine"
+description: "The birthday color for April 21 is Cool Green (78BAAD). Its meaning is Refreshing, Calm, Balanced."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj1AsuL02BdbhmtmQ9QhQPgw8F_RxAwlBOc1rCY_sZwYjm-tckyBmv8nssMXc_f9FsiL4keJu0yGUEGiUOH5Brf7WwqjQv34r2oEc2eh_zYoTUZ3eYVFQFoYiO9jyGHzF_O5KFz_dv3xpAVCBUFFN1ui6uOvAb9DL9BqJGRTOd1PVvGQM4Lh-Gs5QXqROOI=s1600"
+en_name: "CoolGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Cool Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_112.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj1AsuL02BdbhmtmQ9QhQPgw8F_RxAwlBOc1rCY_sZwYjm-tckyBmv8nssMXc_f9FsiL4keJu0yGUEGiUOH5Brf7WwqjQv34r2oEc2eh_zYoTUZ3eYVFQFoYiO9jyGHzF_O5KFz_dv3xpAVCBUFFN1ui6uOvAb9DL9BqJGRTOd1PVvGQM4Lh-Gs5QXqROOI=s1600)
 
-## Birthday Color for April 21st: Cool Green (`#78BAAD`)
+
+## Birthday Color for April 21: Cool Green (`#78BAAD`)
 
 ### 1. Description of Cool Green (Feeling and Traits)
 
@@ -31,7 +37,7 @@ To make **Cool Green** the star of your wardrobe or living space, think of it as
 
 ### 4. Plus Tip (Destiny Color)
 
-For those looking to add a touch of sophistication and depth, **Cool Green** pairs wonderfully with **Classic Wine** (Hex: `#893751`), the birthday color of February 24th. When combined, these two colors create a beautiful balance—while Cool Green offers peace and freshness, Classic Wine adds maturity and composure. Together, they form an elegant, harmonious duo that evokes both strength and serenity.
+For those looking to add a touch of sophistication and depth, **Cool Green** pairs wonderfully with **Classic Wine** (Hex: `#893751`), the birthday color of February 24. When combined, these two colors create a beautiful balance—while Cool Green offers peace and freshness, Classic Wine adds maturity and composure. Together, they form an elegant, harmonious duo that evokes both strength and serenity.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhvDXE2B3Pxk_fcN7QTbU6pn6XpWUPK2an2RrSwmOucgrMRd9KLOW08tuZuLQ8F4M9AnwoSjbB7cBJIqhdTpkqbxmu7IT_j9FFmeK9tT_0WqDtodGfLuKT6nIyJUWb8ct9OJ6N7YjPXhB7KoxK_ZUxNK0dSpPhNFs_9rAU8QsXCZiZ-I9saiUtznnr5BEhX=s1600)
+
 ## 5월 21일의 탄생색: 슬레이트 그린 (`#557A7C`)
 
 ### 1. 슬레이트 그린에 대한 설명: 안개 낀 숲속의 도서관

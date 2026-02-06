@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhr0rAUEwoLR2F1kmUffh6DrqS3Cxu2ty0yccUiGrmZ_wfnjnNfukjZhhHH7002XyIviY6y8bIXQotb2i3s0guMSUpmZfO6vWdA3s-fNqwouFs6rWFQyWM7gKyZZOVdcOT0rs_-O0rsWvW6daEFQ2lSw6IBT426N9YYE6QZmSlTBc31p1AQsIjgOS-5ol-n=s1600)
+
 ## 6월 28일의 탄생색: 밀밭 (`#B89A6D`)
 
 ### 1. 밀밭에 대한 설명: 대지가 빚어낸 가장 정직한 황금빛

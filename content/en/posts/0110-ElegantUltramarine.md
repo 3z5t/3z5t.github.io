@@ -1,21 +1,28 @@
 ---
-title: "Elegant Ultramarine, The Birthday Color of January 10th"
-date: 2026-01-10
-description: "The birthday color for January 10th is Elegant Ultramarine (445B97). Its meaning is Reliability, Loyalty, Honesty."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-10'
+description: The birthday color for January 10 is Elegant Ultramarine (445B97). Its
+  meaning is Reliability, Loyalty, Honesty.
+en_name: ElegantUltramarine
 tags:
-  - elegant ultramarine
-  - birthday color
-  - january 10th
-  - 445b97
-  - january
-  - wheat field
-draft: false
+- elegant ultramarine
+- birthday color
+- january 10
+- 445b97
+- january
+- wheat field
+postId: '3186934552066215304'
+postUrl: https://the366days-en.blogspot.com/2026/01/elegant-ultramarine-birthday-color-of.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiLvRkTAN10C8qSMRGVxenssWlWGmPwKcd088B-up7k1xh9q4JZgPuvnvfO57kFVrToK15dXVwbMbvdGKTviJ7ueBFpAlSs6uunCxorgD8YQUO7vyHZFEVWJQjiBcqf6FdKXZx6sS7kzUd8OX2fb2ifFAZfI6zOMnsvXOvTpuIcSriPb5s5j9XFDps_xaS7=s1600
+title: Elegant Ultramarine, The Birthday Color of January 10
+updated: '2026-01-10'
 ---
 
-![Elegant Ultramarine](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_010.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiLvRkTAN10C8qSMRGVxenssWlWGmPwKcd088B-up7k1xh9q4JZgPuvnvfO57kFVrToK15dXVwbMbvdGKTviJ7ueBFpAlSs6uunCxorgD8YQUO7vyHZFEVWJQjiBcqf6FdKXZx6sS7kzUd8OX2fb2ifFAZfI6zOMnsvXOvTpuIcSriPb5s5j9XFDps_xaS7=s1600)
 
-## Birthday Color for January 10th: Elegant Ultramarine (`#445B97`)
+
+## Birthday Color for January 10: Elegant Ultramarine (`#445B97`)
 
 ### 1. **Description of Elegant Ultramarine (Feeling and Traits)**
 
@@ -31,7 +38,7 @@ In fashion, **Elegant Ultramarine** exudes sophistication and poise. A **well-ta
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For those seeking a more harmonious energy, **combining Elegant Ultramarine with Wheat Field**, the birthday color of June 28th, creates a beautiful synergy. While **Elegant Ultramarine** brings a sense of stability and depth, **Wheat Field** adds warmth, abundance, and a touch of grounded prosperity, creating a perfect balance of trust and growth.
+For those seeking a more harmonious energy, **combining Elegant Ultramarine with Wheat Field**, the birthday color of June 28, creates a beautiful synergy. While **Elegant Ultramarine** brings a sense of stability and depth, **Wheat Field** adds warmth, abundance, and a touch of grounded prosperity, creating a perfect balance of trust and growth.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

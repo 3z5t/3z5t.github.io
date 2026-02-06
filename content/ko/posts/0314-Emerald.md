@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiil3RDl6WxQWAgPVOzK5LKDjXA52l9RNMCOyXps91nrsy1iPDMJRzNpTggNZ3LZl81ulL0-q7e6rQixPGd63SJMFan_aoSBvaiwophp81iksNHpLoy9pRbVKaFNXfCFWBWO-Gckc54XcUqRKDgZEMKtaZZDq5T41cswUnDw-w0xKGwN0ffS3fBws-CDt03=s1600)
+
 ## 3월 14일의 탄생색: 에메랄드 (`#66CC66`)
 
 ### 1. 에메랄드에 대한 설명 (색의 느낌과 특징)

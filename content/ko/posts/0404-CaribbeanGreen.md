@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhKksjA3XSZnbD05EZYORBdcxll9pVwRxDdXoCLZqSNhfL0DUYAEZ4KUX2eG_YK6sAVWhcoqrZpQcBdnKj0z8t1qxXNKmgRiEBVWI9QtG88aYyLI7LMidTB-5DizX5G8XnFVjR4ssm5Em8E5UIk6bI9fVYxxmHBGxMshLLoUDzVNDNZyifFUFgnjVi3lxaT=s1600)
+
 ## 4월 4일의 탄생색: 캐리비안 그린 (`#00CC99`)
 
 ### 1. 캐리비안 그린에 대한 설명 (색의 느낌과 특징)

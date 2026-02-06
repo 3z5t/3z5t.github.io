@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgIa4DUebpkvGDLc_8ktBTy9sGtl96VvL2zG_4UA4BrsQPLlRsQdMkvfLF1iomIpwUPAgTbGOnRJXQ43K79fgHJehk1D40XhgYWwcYpHkkdYyMYpZrbBLXJhwO3OIMG_VhVYYpGX9ey6sIbh7zkI44E3cBBWXpp2hCqSQYUaOgWT2HFsnjZKBySIgp9LJhF=s1600)
+
 ## 5월 23일의 탄생색: 딥 시안 (`#347691`)
 
 ### 1. 딥 시안에 대한 설명: 침묵 속에 잠긴 심해의 신비

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgP1KRxwPRifXfFtX5o7MqhbLLO6d-o-yJu3b5r5UsZxydCVUvyvYndUETy_mKQyYNUKPYNrRMABRoQrPM6Rj1FM6bF2cfPrYJ2LIVnpOxNr8AhTMPiKRc6Hu2kNH36A4o1-AeEYW4U4c8giXHseXa7R2TauEQO0OKx4oJLYKiE4Zjk8E-4utb7cm7YfnFw=s1600)
+
 ## 7월 13일의 탄생색: 와일드 스트로베리 (`#FF3399`)
 
 ### 1. 와일드 스트로베리에 대한 설명: 숲속에서 발견한 가장 앙큼한 설렘

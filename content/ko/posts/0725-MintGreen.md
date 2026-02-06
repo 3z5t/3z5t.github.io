@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjW5QvaBFCx_BT27IeqaFrxbOMNZ2xEKLppMWEWWm8Q0iWwsqUjNRoBFPkybU504azZiAcKQChgjF70rvHOoJlYPdcDUdXLO5RHui3u1-OKDMhTZ_tQ_k2_DBxRULwuodHWxxILsqTfgrZdpYqOyxP17FSexbNIoG_nkIZ8EwOY6YHoTfNukvBlzxOfW6yB=s1600)
+
 ## 7월 25일의 탄생색: 민트 그린 (`#99FF99`)
 
 ### 1. 민트 그린에 대한 설명: 한여름에 불어오는 청량한 바람

@@ -19,6 +19,9 @@ postId: "2939438992100573881"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi_yiyzu-Af_oM6qPl3TuJR9cHAlyaL4cZaaORjt-7Qg_cK_exnPsNdc-zEHBD-NFWxdrL9CFGFTMNtR9cdtG8pOWX5vNuT0Ogejbz9GFeWcEbTEiqADQ03QgJTsGTT4tFGawIk7lKdw47u6Uts0GUqFyUpYG5NSsZlOwkTKtfMvyqN2dAi_FlM6_XM-f6P=s1600)
+
+
 **1월 22일의 탄생색: 높은 하늘 (#0B8AC3)**
 
 ### 1. 높은 하늘에 대한 설명 (색의 느낌과 특징)

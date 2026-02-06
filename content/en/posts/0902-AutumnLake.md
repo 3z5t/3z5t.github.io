@@ -1,21 +1,27 @@
 ---
-title: "Autumn Lake, The Birthday Color of September 2nd"
-date: 2026-09-02
-description: "The birthday color for September 2nd is Autumn Lake (55779B). Its meaning is Profound, Mature, Wise."
-author: 365days
+title: "Autumn Lake, The Birthday Color of September 2"
+date: "2026-09-02"
+updated: "2026-09-02"
 tags:
-  - autumn lake
-  - birthday color
-  - september 2nd
-  - 55779b
-  - september
-  - royal beige
-draft: false
+  - "autumn lake"
+  - "birthday color"
+  - "september 2"
+  - "55779b"
+  - "september"
+  - "royal beige"
+description: "The birthday color for September 2 is Autumn Lake (55779B). Its meaning is Profound, Mature, Wise."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgU6Vt9lnw1VjbucbISTmN0vNc3ThbOBnhogxU64iq7WUhxmelq6F5Wc-xcL-KatnlaboeIEXbroDxpbQTzAjEWdqc3FgMbKiTIobfSLWxgRrb0VFC45BIRAMNbB1UzD1VOHhU5NXphLawB1E_SXBNxZsy0Ww-yMTdCpueG_Qt1GcRPgMeuSIXMM-bZpq3n=s1600"
+en_name: "AutumnLake"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Autumn Lake](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_246.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgU6Vt9lnw1VjbucbISTmN0vNc3ThbOBnhogxU64iq7WUhxmelq6F5Wc-xcL-KatnlaboeIEXbroDxpbQTzAjEWdqc3FgMbKiTIobfSLWxgRrb0VFC45BIRAMNbB1UzD1VOHhU5NXphLawB1E_SXBNxZsy0Ww-yMTdCpueG_Qt1GcRPgMeuSIXMM-bZpq3n=s1600)
 
-## Birthday Color for September 2nd: Autumn Lake (`#55779B`)
+
+## Birthday Color for September 2: Autumn Lake (`#55779B`)
 
 ### 1. Description of Autumn Lake (Feeling and Traits)
 
@@ -35,7 +41,7 @@ For interior design, **Autumn Lake** creates a peaceful sanctuary in any room. I
 
 ### 4. Plus Tip (Destiny Color)
 
-Combining **Autumn Lake** with **Royal Beige**, the birthday color of August 18th, creates a remarkable synergy. While Autumn Lake brings a sense of **profound wisdom** and **stillness**, Royal Beige adds a layer of **elegance** and **noble character**, resulting in a balanced and sophisticated pairing that exudes quiet strength and grace.
+Combining **Autumn Lake** with **Royal Beige**, the birthday color of August 18, creates a remarkable synergy. While Autumn Lake brings a sense of **profound wisdom** and **stillness**, Royal Beige adds a layer of **elegance** and **noble character**, resulting in a balanced and sophisticated pairing that exudes quiet strength and grace.
 
 ### 5. Conclusion (A Poem of Healing)
 

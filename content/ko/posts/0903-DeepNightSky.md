@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhLGBPP9HDsHjx6Bhqc7Vi85iMx-kfENTw0SJMd90jMw70oRn0j6HACOxj4S8H7J7obKS1RzdQZuC3VNGvAgLUyYWPW4FPlBbCJJy_hqlOIbEAEEIUrab3oCZvocbiQyn0q7Kslkediu6o2CGUKYO96RlMy9YXsex9_5MBSavfT1emqIv0f7883-w0xvV1p=s1600)
+
 ## 9월 3일의 탄생색: 깊은 밤하늘 (`#142029`)
 
 ### 1. 깊은 밤하늘에 대한 설명: 우주의 숨소리가 들리는 가장 고요한 시간

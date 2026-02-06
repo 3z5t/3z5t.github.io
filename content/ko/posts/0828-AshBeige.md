@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjfxpKA0Pz37w-qVxMGZkYslibQiCylNR1VYcPKDwkKTjlOt7zswn5ZUR3-uLN8lUNgKt00FjMUT2vwgB7rFLMCVBt5XuTJneIu3wp__1svCyWixin6EpuXXq6hEJIeLbD2CsyLkzV1ll23a4p6-dPRJvhCwWDnogGUK70gXmMGH8ingFlUoUzqtPf_dzi7=s1600)
+
 ## 8월 28일의 탄생색: 애쉬 베이지 (`#978B88`)
 
 ### 1. 애쉬 베이지에 대한 설명: 화려함을 덜어낸 자리, 깊어지는 사색의 색

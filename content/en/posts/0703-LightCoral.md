@@ -1,21 +1,27 @@
 ---
-title: "Light Coral, The Birthday Color of July 3rd"
-date: 2026-07-03
-description: "The birthday color for July 3rd is Light Coral (F19292). Its meaning is Soft Heart, Gentle, Mild."
-author: 365days
+title: "Light Coral, The Birthday Color of July 3"
+date: "2026-07-03"
+updated: "2026-07-03"
 tags:
-  - light coral
-  - birthday color
-  - july 3rd
-  - f19292
-  - july
-  - sea green
-draft: false
+  - "light coral"
+  - "birthday color"
+  - "july 3"
+  - "f19292"
+  - "july"
+  - "sea green"
+description: "The birthday color for July 3 is Light Coral (F19292). Its meaning is Soft Heart, Gentle, Mild."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi9k66x8sQKpVjFUSJ6bYKoxy1n8J3APiu56ThGf4au0QDocLk_sBCBVbwqCbh2zGwULfbRWhrsTkBR6mc3t0hcq4YDgahhXdILrJSyvzNBNvMSKWt2q5eCKYDBSu7lg9avyKytYv6hapA0e4N6Fa0ryT8Jw7VbaX437NCR47GXQtOd11n2fkajjXS8U90U=s1600"
+en_name: "LightCoral"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Light Coral](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_185.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi9k66x8sQKpVjFUSJ6bYKoxy1n8J3APiu56ThGf4au0QDocLk_sBCBVbwqCbh2zGwULfbRWhrsTkBR6mc3t0hcq4YDgahhXdILrJSyvzNBNvMSKWt2q5eCKYDBSu7lg9avyKytYv6hapA0e4N6Fa0ryT8Jw7VbaX437NCR47GXQtOd11n2fkajjXS8U90U=s1600)
 
-## Birthday Color for July 3rd: Light Coral (`#F19292`)
+
+## Birthday Color for July 3: Light Coral (`#F19292`)
 
 ### 1. Description of Light Coral (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Light Coral** is the ideal color for creating an effortlessly eleg
 
 ### 4. Plus Tip (Destiny Color)
 
-Light Coral pairs beautifully with **Sea Green** (Hex: `#19776B`), the birthday color for April 29th. The **gentle nature** of Light Coral complements the **mysterious** and **insightful** qualities of Sea Green, creating a soothing, balanced synergy between the colors. Together, they offer a combination of calm and depth, perfect for those who seek both **tranquility** and **understanding** in their relationships and surroundings.
+Light Coral pairs beautifully with **Sea Green** (Hex: `#19776B`), the birthday color for April 29. The **gentle nature** of Light Coral complements the **mysterious** and **insightful** qualities of Sea Green, creating a soothing, balanced synergy between the colors. Together, they offer a combination of calm and depth, perfect for those who seek both **tranquility** and **understanding** in their relationships and surroundings.
 
 ### 5. Conclusion (A Poem of Healing)
 

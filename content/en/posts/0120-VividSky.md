@@ -1,21 +1,28 @@
 ---
-title: "Vivid Sky, The Birthday Color of January 20th"
-date: 2026-01-20
-description: "The birthday color for January 20th is Vivid Sky (00BFFF). Its meaning is Free, Open-minded, Creativity."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-20'
+description: The birthday color for January 20 is Vivid Sky (00BFFF). Its meaning
+  is Free, Open-minded, Creativity.
+en_name: VividSky
 tags:
-  - vivid sky
-  - birthday color
-  - january 20th
-  - 00bfff
-  - january
-  - scarlet
-draft: false
+- vivid sky
+- birthday color
+- january 20
+- 00bfff
+- january
+- scarlet
+postId: '153902621564058332'
+postUrl: https://the366days-en.blogspot.com/2026/01/vivid-sky-birthday-color-of-january-20.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEinKjaEbsIR6lhk4gSw_GKSXJpeQE1mUaT4-fT1OdGI-QYLGo113L0ai7Fk3NaKK3tsfi6rSY0O2NjQUEI7Cvi3JsHaT5WaSMHSNAcMMy8NMugoqzdZBmvjETmZpEcSjKYXcoFJ_mmWa88SQGfNNpEe3GXRlNppPXU5u9BHwLE_JvI3ZD31THiMskJPzzYt=s1600
+title: Vivid Sky, The Birthday Color of January 20
+updated: '2026-01-20'
 ---
 
-![Vivid Sky](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_020.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEinKjaEbsIR6lhk4gSw_GKSXJpeQE1mUaT4-fT1OdGI-QYLGo113L0ai7Fk3NaKK3tsfi6rSY0O2NjQUEI7Cvi3JsHaT5WaSMHSNAcMMy8NMugoqzdZBmvjETmZpEcSjKYXcoFJ_mmWa88SQGfNNpEe3GXRlNppPXU5u9BHwLE_JvI3ZD31THiMskJPzzYt=s1600)
 
-## Birthday Color for January 20th: Vivid Sky (`#00BFFF`)
+
+## Birthday Color for January 20: Vivid Sky (`#00BFFF`)
 
 ### 1. **Description of Vivid Sky (Feeling and Traits)**
 
@@ -33,7 +40,7 @@ In the home, **Vivid Sky** can be used in accent walls, throw pillows, or artwor
 
 ### 4. **Plus Tip (Destiny Color)**
 
-To pair with **Vivid Sky**, consider the passionate energy of **Scarlet**, the birthday color of July 7th. Combining these two colors brings a perfect balance—**Vivid Sky**’s free-spirited creativity paired with **Scarlet**’s fiery passion creates a synergy that’s both exciting and harmonious. Together, they make a statement that’s bold, creative, and full of life.
+To pair with **Vivid Sky**, consider the passionate energy of **Scarlet**, the birthday color of July 7. Combining these two colors brings a perfect balance—**Vivid Sky**’s free-spirited creativity paired with **Scarlet**’s fiery passion creates a synergy that’s both exciting and harmonious. Together, they make a statement that’s bold, creative, and full of life.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

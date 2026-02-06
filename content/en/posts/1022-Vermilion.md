@@ -1,20 +1,27 @@
 ---
-title: "Vermilion, The Birthday Color of October 22nd"
-date: 2026-10-22
-description: "The birthday color for October 22nd is Vermilion (E34234). Its meaning is Vital, Lively, Passionate."
-author: 365days
+title: "Vermilion, The Birthday Color of October 22"
+date: "2026-10-22"
+updated: "2026-10-22"
 tags:
-  - vermilion
-  - birthday color
-  - october 22nd
-  - e34234
-  - october
-  - noble sky blue
-draft: false
+  - "vermilion"
+  - "birthday color"
+  - "october 22"
+  - "e34234"
+  - "october"
+  - "noble sky blue"
+description: "The birthday color for October 22 is Vermilion (E34234). Its meaning is Vital, Lively, Passionate."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjFDuB_ILn5vaJwcjV5LNdZ_0zn0wYP2SVtivMBuQYrV80lZ8bQaphG4010mGw9zCq-DKkj7TsFYUVzD6MS5CXMirIweL8V5NzGk2JK0J_phWSIFzQDmy_-a5-CFY7uArh13nWcVFD6NDPmybw0f06bJLzkge7CKF1E2nEyEpjsq7N4LISMnXUW0weCxKJ5=s1600"
+en_name: "Vermilion"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Vermilion](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_296.webp)
-## Birthday Color for October 22nd: Vermilion (`#E34234`)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjFDuB_ILn5vaJwcjV5LNdZ_0zn0wYP2SVtivMBuQYrV80lZ8bQaphG4010mGw9zCq-DKkj7TsFYUVzD6MS5CXMirIweL8V5NzGk2JK0J_phWSIFzQDmy_-a5-CFY7uArh13nWcVFD6NDPmybw0f06bJLzkge7CKF1E2nEyEpjsq7N4LISMnXUW0weCxKJ5=s1600)
+
+
+## Birthday Color for October 22: Vermilion (`#E34234`)
 
 ### 1. Description of Vermilion (Feeling and Traits)
 
@@ -36,7 +43,7 @@ When it comes to interior styling, **Vermilion** can be used as an accent color 
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **December 18th**, the partner color **Noble Sky Blue** (Hex: `#1FBEE3`) brings a sense of **hope** and **refreshment**. Combining **Vermilion** with **Noble Sky Blue** creates a striking contrast that balances **passion with calm**, creating a dynamic synergy that’s both exciting and serene.
+For those born on **December 18**, the partner color **Noble Sky Blue** (Hex: `#1FBEE3`) brings a sense of **hope** and **refreshment**. Combining **Vermilion** with **Noble Sky Blue** creates a striking contrast that balances **passion with calm**, creating a dynamic synergy that’s both exciting and serene.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,21 +1,24 @@
 ---
-title: "Real Red, The Birthday Color of February 19th"
-date: 2026-02-19
-description: "The birthday color for February 19th is Real Red (C61400). Its meaning is Leadership, Drive, Passion."
-author: 365days
-tags:
-  - real red
-  - birthday color
-  - february 19th
-  - c61400
-  - february
-  - light sky
-draft: false
+"title": "Real Red, The Birthday Color of February 19"
+"date": "2026-02-19"
+"updated": "2026-02-19"
+"labels":
+- "real red"
+- "birthday color"
+- "february 19"
+- "c61400"
+- "february"
+- "light sky"
+"description": "The birthday color for February 19 is Real Red (C61400). Its meaning is Leadership, Drive, Passion."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEj5SrwUfXs7orleT9ypFOm-RaHRr8UfXaN99b9-NucWHwZzDIKOSXhiLj7h4Mah3CKAMhiyDnsjkHgPR6-By4zsUU19KhFa35zWQumQmyxoy_Mtjl9l3NzF1VrGBu2Z-uT416NUd2tayfTBaBYRHeR1OJ1MoLkDArK_1DQv2Qi9pHixxFhahiKYFvh-jbQm=s1600"
+"en_name": "RealRed"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "2897313690555457623"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/real-red-birthday-color-of-february-19.html"
 ---
 
-![Real Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_050.webp)
-
-## Birthday Color for February 19th: Real Red (`#C61400`)
+## Birthday Color for February 19: Real Red (`#C61400`)
 
 ### 1. Description of Real Red (Feeling and Traits)
 
@@ -33,7 +36,7 @@ In **interior design**, **Real Red** brings energy to any space. Consider using 
 
 ### 4. Plus Tip (Destiny Color)
 
-**Light Sky**, the birthday color of July 22nd, pairs beautifully with **Real Red**. The refreshing nature of **Light Sky** creates a wonderful contrast to the intensity of **Real Red**, offering a sense of **balance** and **clarity**. Combining these two colors brings together the **boldness of action** with the **peaceful freshness** of a clear sky, creating harmony in both mind and spirit.
+**Light Sky**, the birthday color of July 22, pairs beautifully with **Real Red**. The refreshing nature of **Light Sky** creates a wonderful contrast to the intensity of **Real Red**, offering a sense of **balance** and **clarity**. Combining these two colors brings together the **boldness of action** with the **peaceful freshness** of a clear sky, creating harmony in both mind and spirit.
 
 ### 5. Conclusion (A Poem of Healing)
 

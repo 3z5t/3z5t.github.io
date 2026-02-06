@@ -1,21 +1,27 @@
 ---
-title: "Grayish Green, The Birthday Color of November 3rd"
-date: 2026-11-03
-description: "The birthday color for November 3rd is Grayish Green (444236). Its meaning is Stable, Calm, Balanced."
-author: 365days
+title: "Grayish Green, The Birthday Color of November 3"
+date: "2026-11-03"
+updated: "2026-11-03"
 tags:
-  - grayish green
-  - birthday color
-  - november 3rd
-  - 444236
-  - november
-  - urban sky
-draft: false
+  - "grayish green"
+  - "birthday color"
+  - "november 3"
+  - "444236"
+  - "november"
+  - "urban sky"
+description: "The birthday color for November 3 is Grayish Green (444236). Its meaning is Stable, Calm, Balanced."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEio5OKVBqvvEDmjlfiy-1dV9sXrgVQFfrkl5gKp16A-yz8rAkLpuym3wfLqOg_3b5CkQSWnxCt9QCeLdmrBSepLM0IzRRm6cSJH9smZK5HT327GDhaBQSMqmEAS5W79ni_V0NM1Jr8apy8OCCTzmYU3lPu09JX4UFj5_lj8PXgjgV9GGExdCiVbyuSHCzc4=s1600"
+en_name: "GrayishGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Grayish Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_308.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEio5OKVBqvvEDmjlfiy-1dV9sXrgVQFfrkl5gKp16A-yz8rAkLpuym3wfLqOg_3b5CkQSWnxCt9QCeLdmrBSepLM0IzRRm6cSJH9smZK5HT327GDhaBQSMqmEAS5W79ni_V0NM1Jr8apy8OCCTzmYU3lPu09JX4UFj5_lj8PXgjgV9GGExdCiVbyuSHCzc4=s1600)
 
-## Birthday Color for November 3rd: Grayish Green (`#444236`)
+
+## Birthday Color for November 3: Grayish Green (`#444236`)
 
 ### 1. Description of Grayish Green (Feeling and Traits)
 
@@ -39,7 +45,7 @@ In interiors, **Grayish Green** is perfect for creating a **calming environment*
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **January 23rd**, the partner color **Urban Sky** (Hex: `#BBC1CA`) represents **modernity**, **sophistication**, and **progressiveness**. Combining **Grayish Green** with **Urban Sky** creates a powerful synergy, blending nature’s grounding energy with the dynamic flow of **modern innovation**. The result is a balanced, yet forward-looking combination—perfect for those who embrace both tradition and progress.
+For those born on **January 23**, the partner color **Urban Sky** (Hex: `#BBC1CA`) represents **modernity**, **sophistication**, and **progressiveness**. Combining **Grayish Green** with **Urban Sky** creates a powerful synergy, blending nature’s grounding energy with the dynamic flow of **modern innovation**. The result is a balanced, yet forward-looking combination—perfect for those who embrace both tradition and progress.
 
 ### 5. Conclusion (A Poem of Healing)
 

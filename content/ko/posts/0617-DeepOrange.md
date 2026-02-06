@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgfGSpuefNeEN5WWYSRpMBePksuoOZsvtPIUss8UFwrDNL6gYWORNIdRixUb4CxIA_WJiO_N29QPoSW1w2jTxr4ZOECCRcx7lFZa5sFtIdOIPqzSBqgcznnvEeW3lUHlq22fnEQFhPtbWet-Znn5bVHS-p9zMipDk2hK2vAFIJg7bqSR9GOEmBboPg-qd_9=s1600)
+
 ## 6월 17일의 탄생색: 딥 오렌지 (`#FD731C`)
 
 ### 1. 딥 오렌지에 대한 설명: 심장 가장 깊은 곳에서 타오르는 불꽃

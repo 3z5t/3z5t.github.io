@@ -1,21 +1,27 @@
 ---
-title: "Lime Green, The Birthday Color of March 6th"
-date: 2026-03-06
-description: "The birthday color for March 6th is Lime Green (6EAD5C). Its meaning is Vitality, Creativity, Abundance."
-author: 365days
+title: "Lime Green, The Birthday Color of March 6"
+date: "2026-03-06"
+updated: "2026-03-06"
 tags:
-  - lime green
-  - birthday color
-  - march 6th
-  - 6ead5c
-  - march
-  - orchid purple
-draft: false
+  - "lime green"
+  - "birthday color"
+  - "march 6"
+  - "6ead5c"
+  - "march"
+  - "orchid purple"
+description: "The birthday color for March 6 is Lime Green (6EAD5C). Its meaning is Vitality, Creativity, Abundance."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgRKTFaDxCFlJ6xcfHYQuMoEMc_PKUtb5yKA9tBCTugTMbIcPHW5pkT6ZLKgMBIdohwqRRPzQS3MuBvtux65W-PefWr53Gf2QK0NR3svH_i_fUK7NwqNOJxixQMIyKPviofMubcQWVksecTVPqyhTEf1NT0NjoISrDx7Z24FRdHgs3QUHGSAXFxJ5vxXrCN=s1600"
+en_name: "LimeGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Lime Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_066.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgRKTFaDxCFlJ6xcfHYQuMoEMc_PKUtb5yKA9tBCTugTMbIcPHW5pkT6ZLKgMBIdohwqRRPzQS3MuBvtux65W-PefWr53Gf2QK0NR3svH_i_fUK7NwqNOJxixQMIyKPviofMubcQWVksecTVPqyhTEf1NT0NjoISrDx7Z24FRdHgs3QUHGSAXFxJ5vxXrCN=s1600)
 
-## Birthday Color for March 6th: Lime Green (`#6EAD5C`)
+
+## Birthday Color for March 6: Lime Green (`#6EAD5C`)
 
 ### 1. Description of Lime Green (Feeling and Traits)
 
@@ -39,7 +45,7 @@ When it comes to **interior design**, **Lime Green** brings an air of **freshnes
 
 ### 4. Plus Tip (Destiny Color)
 
-If you want to amplify the creative energy of **Lime Green**, pair it with **Orchid Purple**, the birthday color of **February 5th**. This combination brings together **two forces of creativity**—where the **vibrancy** of lime meets the **depth** and **inspiration** of purple, creating a synergy that sparks **innovation** and **passion**.
+If you want to amplify the creative energy of **Lime Green**, pair it with **Orchid Purple**, the birthday color of **February 5**. This combination brings together **two forces of creativity**—where the **vibrancy** of lime meets the **depth** and **inspiration** of purple, creating a synergy that sparks **innovation** and **passion**.
 
 ### 5. Conclusion (A Poem of Healing)
 

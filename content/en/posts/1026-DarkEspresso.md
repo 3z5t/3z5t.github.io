@@ -1,21 +1,27 @@
 ---
-title: "Dark Espresso, The Birthday Color of October 26th"
-date: 2026-10-26
-description: "The birthday color for October 26th is Dark Espresso (504644). Its meaning is Profound, Stable, Mature."
-author: 365days
+title: "Dark Espresso, The Birthday Color of October 26"
+date: "2026-10-26"
+updated: "2026-10-26"
 tags:
-  - dark espresso
-  - birthday color
-  - october 26th
-  - 504644
-  - october
-  - silver blue
-draft: false
+  - "dark espresso"
+  - "birthday color"
+  - "october 26"
+  - "504644"
+  - "october"
+  - "silver blue"
+description: "The birthday color for October 26 is Dark Espresso (504644). Its meaning is Profound, Stable, Mature."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi1ALMDRkC163yCVJJCpVJVbjVEX3KmiSZpG8P68Z4KoE6oCSFHGu76tA-kVuJddPnSrMRvkl_KESPwsePM8L0xXSSTcoRdFxsr90V8-DwOv0hxc5xljR0CYhJjM_ZjVgUZaTvsljD3LvH76pS3eEz6QLak2RFyeechBoUNugpWTa6g5BhrXQ1TTx7ChPmP=s1600"
+en_name: "DarkEspresso"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Dark Espresso](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_300.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi1ALMDRkC163yCVJJCpVJVbjVEX3KmiSZpG8P68Z4KoE6oCSFHGu76tA-kVuJddPnSrMRvkl_KESPwsePM8L0xXSSTcoRdFxsr90V8-DwOv0hxc5xljR0CYhJjM_ZjVgUZaTvsljD3LvH76pS3eEz6QLak2RFyeechBoUNugpWTa6g5BhrXQ1TTx7ChPmP=s1600)
 
-## Birthday Color for October 26th: Dark Espresso (`#504644`)
+
+## Birthday Color for October 26: Dark Espresso (`#504644`)
 
 ### 1. Description of Dark Espresso (Feeling and Traits)
 
@@ -37,7 +43,7 @@ When it comes to interior design, **Dark Espresso** is ideal for creating a **co
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **January 27th**, the partner color **Silver Blue** (Hex: `#ABB5C1`) is a soft, dignified shade that represents **elegance** and **nobility**. Combining **Dark Espresso** with **Silver Blue** creates an exquisite contrast between **depth and light**, offering a balance of **mature stability** and **dreamy idealism**. Together, they make a powerful, harmonious pairing.
+For those born on **January 27**, the partner color **Silver Blue** (Hex: `#ABB5C1`) is a soft, dignified shade that represents **elegance** and **nobility**. Combining **Dark Espresso** with **Silver Blue** creates an exquisite contrast between **depth and light**, offering a balance of **mature stability** and **dreamy idealism**. Together, they make a powerful, harmonious pairing.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjw-2VCuoGRoR9QCjITxW3M3q_tDZylTQo5ZtZgjKcTjms8otOVs7gQLaOPsTE-d6aG4YSTnCN8c6D26yWsa-ypc2THIIle8MALCtMhJj8rJCoGZggweRrfOmmEapxT3jqtjtGp8ASVbWw8pESWjpB6jXNzlcDdO3NaQLLOo0AYmqSMeyVAOhkCwRXmet2q=s1600)
+
 ## 12월 8일의 탄생색: 딥 포레스트 틸 (`#17896E`)
 
 ### 1. 딥 포레스트 틸에 대한 설명 (색의 느낌과 특징)

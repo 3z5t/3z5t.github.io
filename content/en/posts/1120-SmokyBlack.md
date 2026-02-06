@@ -1,21 +1,27 @@
 ---
-title: "Smoky Black, The Birthday Color of November 20th"
-date: 2026-11-20
-description: "The birthday color for November 20th is Smoky Black (100F0F). Its meaning is Subtle Charm, Deep, Profound."
-author: 365days
+title: "Smoky Black, The Birthday Color of November 20"
+date: "2026-11-20"
+updated: "2026-11-20"
 tags:
-  - smoky black
-  - birthday color
-  - november 20th
-  - 100f0f
-  - november
-  - snow white
-draft: false
+  - "smoky black"
+  - "birthday color"
+  - "november 20"
+  - "100f0f"
+  - "november"
+  - "snow white"
+description: "The birthday color for November 20 is Smoky Black (100F0F). Its meaning is Subtle Charm, Deep, Profound."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi7y4nhk9K5CKSaN8utUg2UVDNLjBSAHtFnI9p_Z-Gw9unF4YVy7qQ5QCJis_Nv-nxVH9vEaUO_KVevypdxDHtXpRAdmi22cmgQwFNhosIZpSNOPf-N27IkWdgKJHAbN4o3T2O0yphH5HBejjS0gVjfBUmiFs3AEwRXTLWXF8droSKgB0lRti2o9cV9HwCo=s1600"
+en_name: "SmokyBlack"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Smoky Black](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_325.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi7y4nhk9K5CKSaN8utUg2UVDNLjBSAHtFnI9p_Z-Gw9unF4YVy7qQ5QCJis_Nv-nxVH9vEaUO_KVevypdxDHtXpRAdmi22cmgQwFNhosIZpSNOPf-N27IkWdgKJHAbN4o3T2O0yphH5HBejjS0gVjfBUmiFs3AEwRXTLWXF8droSKgB0lRti2o9cV9HwCo=s1600)
 
-## Birthday Color for November 20th: Smoky Black (`#100F0F`)
+
+## Birthday Color for November 20: Smoky Black (`#100F0F`)
 
 ### 1. Description of Smoky Black (Feeling and Traits)
 
@@ -41,7 +47,7 @@ For beauty, **Smoky Black** makes an elegant base for a **smoky eye** makeup loo
 
 ### 4. Plus Tip (Destiny Color)
 
-**Snow White** (Hex: `#F2F1F1`), the birthday color of **January 1st**, complements **Smoky Black** perfectly. The pure, clean energy of **Snow White** contrasts beautifully with the deep richness of **Smoky Black**, creating a **dynamic balance** between light and shadow. This pairing reflects the beauty of life’s contrasts, where clarity and depth coexist in harmony, and can bring out the best in both colors.
+**Snow White** (Hex: `#F2F1F1`), the birthday color of **January 1**, complements **Smoky Black** perfectly. The pure, clean energy of **Snow White** contrasts beautifully with the deep richness of **Smoky Black**, creating a **dynamic balance** between light and shadow. This pairing reflects the beauty of life’s contrasts, where clarity and depth coexist in harmony, and can bring out the best in both colors.
 
 ### 5. Conclusion (A Poem of Healing)
 

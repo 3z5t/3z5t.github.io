@@ -1,21 +1,27 @@
 ---
-title: "Soft Olive, The Birthday Color of October 30th"
-date: 2026-10-30
-description: "The birthday color for October 30th is Soft Olive (7E9682). Its meaning is Calm, Stable, Peaceful."
-author: 365days
+title: "Soft Olive, The Birthday Color of October 30"
+date: "2026-10-30"
+updated: "2026-10-30"
 tags:
-  - soft olive
-  - birthday color
-  - october 30th
-  - 7e9682
-  - october
-  - dusty purple
-draft: false
+  - "soft olive"
+  - "birthday color"
+  - "october 30"
+  - "7e9682"
+  - "october"
+  - "dusty purple"
+description: "The birthday color for October 30 is Soft Olive (7E9682). Its meaning is Calm, Stable, Peaceful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjhXaD1gii4NCV_m4qDKqhi858QAHWBlg6DVY4mSfaBMouH4dffl-FKdiW77f6emVp8Hd4ddlQnaMUS1vTmhgcjlXWUc8hNooMxqF5eWfdvwh7PeGELat0G3avJmsssZAvCQGESd0HftW0fztFtu-f_5V5Pglc9dn90ApT7CjpjCeMDnIzV-CcDLWBkkTs_=s1600"
+en_name: "SoftOlive"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Soft Olive](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_304.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjhXaD1gii4NCV_m4qDKqhi858QAHWBlg6DVY4mSfaBMouH4dffl-FKdiW77f6emVp8Hd4ddlQnaMUS1vTmhgcjlXWUc8hNooMxqF5eWfdvwh7PeGELat0G3avJmsssZAvCQGESd0HftW0fztFtu-f_5V5Pglc9dn90ApT7CjpjCeMDnIzV-CcDLWBkkTs_=s1600)
 
-## Birthday Color for October 30th: Soft Olive (`#7E9682`)
+
+## Birthday Color for October 30: Soft Olive (`#7E9682`)
 
 ### 1. Description of Soft Olive (Feeling and Traits)
 
@@ -37,7 +43,7 @@ For interiors, **Soft Olive** can transform a space into a sanctuary of calm. Us
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **November 4th**, the partner color **Dusty Purple** (Hex: `#746B7A`) represents **dignity**, **elegance**, and **subtle charm**. Combining **Soft Olive** with **Dusty Purple** creates a beautiful synergy between the **grounded peacefulness** of olive and the **refined elegance** of purple, resulting in a harmonious and visually pleasing palette.
+For those born on **November 4**, the partner color **Dusty Purple** (Hex: `#746B7A`) represents **dignity**, **elegance**, and **subtle charm**. Combining **Soft Olive** with **Dusty Purple** creates a beautiful synergy between the **grounded peacefulness** of olive and the **refined elegance** of purple, resulting in a harmonious and visually pleasing palette.
 
 ### 5. Conclusion (A Poem of Healing)
 

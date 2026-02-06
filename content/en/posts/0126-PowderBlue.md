@@ -1,21 +1,30 @@
 ---
-title: "Powder Blue, The Birthday Color of January 26th"
-date: 2026-01-26
-description: "The birthday color for January 26th is Powder Blue (C4E8E6). Its meaning is Gentle, Delicate, Empathetic."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-26'
+description: The birthday color for January 26 is Powder Blue (C4E8E6). Its meaning
+  is Gentle, Delicate, Empathetic.
+en_name: PowderBlue
 tags:
-  - powder blue
-  - birthday color
-  - january 26th
-  - c4e8e6
-  - january
-  - deep magenta
-draft: false
+- powder blue
+- birthday color
+- january 26
+- c4e8e6
+- january
+- deep magenta
+postId: '7807449125158461649'
+postUrl: https://the366days-en.blogspot.com/2026/01/powder-blue-birthday-color-of-january-26.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhDPl0B3fzSidxa0_JLMN56PpOWHbI6KdRQuk15ulyxcdAKP9HoeRh-ZuBqVLJR0uo0LKEO9pyblmaZaNiwa03JGZ2c1kaCGJELt_yvSPGKZTQ-kJlQ-fxNDiHMRQplK9OWPs7FpvNoumP712frfrD-k0-ZC8a9GcD2lfd-pEv8DjoJKk13mICoKvbytpY1=s1600
+title: Powder Blue, The Birthday Color of January 26
+updated: '2026-01-26'
 ---
 
-![Powder Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_026.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhDPl0B3fzSidxa0_JLMN56PpOWHbI6KdRQuk15ulyxcdAKP9HoeRh-ZuBqVLJR0uo0LKEO9pyblmaZaNiwa03JGZ2c1kaCGJELt_yvSPGKZTQ-kJlQ-fxNDiHMRQplK9OWPs7FpvNoumP712frfrD-k0-ZC8a9GcD2lfd-pEv8DjoJKk13mICoKvbytpY1=s1600)
 
-## Birthday Color for January 26th: Powder Blue (`#C4E8E6`)
+
+![Powder Blue, The Birthday Color of January 26](https://blogger.googleusercontent.com/img/a/AVvXsEhDPl0B3fzSidxa0_JLMN56PpOWHbI6KdRQuk15ulyxcdAKP9HoeRh-ZuBqVLJR0uo0LKEO9pyblmaZaNiwa03JGZ2c1kaCGJELt_yvSPGKZTQ-kJlQ-fxNDiHMRQplK9OWPs7FpvNoumP712frfrD-k0-ZC8a9GcD2lfd-pEv8DjoJKk13mICoKvbytpY1=s1600)
+
+## Birthday Color for January 26: Powder Blue (`#C4E8E6`)
 
 ### 1. Description of Powder Blue (Feeling and Traits)
 
@@ -31,7 +40,7 @@ For those born under the influence of Powder Blue, life is often experienced wit
 
 ### 4. Plus Tip (Destiny Color)
 
-Adding an extra touch of synergy, consider the **partner color of Deep Magenta** (Hex: `#2C1725`) for those born on February 12th. Combining the **mature wisdom** of Deep Magenta with the **gentle empathy** of Powder Blue creates a beautiful balance between insight and compassion—an ideal combination for fostering deep, nurturing relationships.
+Adding an extra touch of synergy, consider the **partner color of Deep Magenta** (Hex: `#2C1725`) for those born on February 12. Combining the **mature wisdom** of Deep Magenta with the **gentle empathy** of Powder Blue creates a beautiful balance between insight and compassion—an ideal combination for fostering deep, nurturing relationships.
 
 ### 5. Conclusion (A Poem of Healing)
 

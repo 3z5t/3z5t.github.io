@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjE15fIbmZKYND0sf7yhCiUQcl4ZDaiV3ixKhTejSUEou7DmmWQsh1FmWCrIAhrPvX2A-l0l7t23KriCMwnjEtZY9_v9n8xML5TBPEpfHTjaK-kSqLlgFBy3JWiqEl7iJdLQcuOxAjDLgZaODXZJ7BnFGVAsAbDywUYwTHPY-ZRwDA46xicvlDSPrkui8Xj=s1600)
+
 ## 6월 21일의 탄생색: 크림 모카 (`#D19A71`)
 
 ### 1. 크림 모카에 대한 설명: 나른한 오후, 입가에 머무는 부드러운 휴식

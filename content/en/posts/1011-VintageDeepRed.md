@@ -1,21 +1,27 @@
 ---
-title: "Vintage Deep Red, The Birthday Color of October 11th"
-date: 2026-10-11
-description: "The birthday color for October 11th is Vintage Deep Red (8D192B). Its meaning is Profound, Serious, Mature."
-author: 365days
+title: "Vintage Deep Red, The Birthday Color of October 11"
+date: "2026-10-11"
+updated: "2026-10-11"
 tags:
-  - vintage deep red
-  - birthday color
-  - october 11th
-  - 8d192b
-  - october
-  - delicate green
-draft: false
+  - "vintage deep red"
+  - "birthday color"
+  - "october 11"
+  - "8d192b"
+  - "october"
+  - "delicate green"
+description: "The birthday color for October 11 is Vintage Deep Red (8D192B). Its meaning is Profound, Serious, Mature."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg8z9ipW7Zelyl5Gg9jE9Jf2lKh6fhZFSI-kJ4y76zQ7O3ordQWiKF0gSR-C_oUsK-5ZIOIPq4TXZsWqwUER__AueeOaa4EMU7XHPqfsdJGcVTGJeusZQ_WAACBZIkGtAxhpdiCURd_nPVGFWVOtzGxdxG84HgiU8a_vf1dc2Harmg0EcwYxisB5rELkcNl=s1600"
+en_name: "VintageDeepRed"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Vintage Deep Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_285.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg8z9ipW7Zelyl5Gg9jE9Jf2lKh6fhZFSI-kJ4y76zQ7O3ordQWiKF0gSR-C_oUsK-5ZIOIPq4TXZsWqwUER__AueeOaa4EMU7XHPqfsdJGcVTGJeusZQ_WAACBZIkGtAxhpdiCURd_nPVGFWVOtzGxdxG84HgiU8a_vf1dc2Harmg0EcwYxisB5rELkcNl=s1600)
 
-## Birthday Color for October 11th: Vintage Deep Red (`#8D192B`)
+
+## Birthday Color for October 11: Vintage Deep Red (`#8D192B`)
 
 ### 1. **Description of Vintage Deep Red (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ For **fashion**, **Vintage Deep Red** is a color that commands respect without s
 
 ### 4. **Plus Tip (Destiny Color)**
 
-Combining **Vintage Deep Red** with **Delicate Green**, the birthday color of **June 1st**, creates a beautiful **synergy** between maturity and freshness. While **Vintage Deep Red** offers depth and seriousness, **Delicate Green** introduces a sense of **peace**, **creativity**, and **lightness**, making the combination both **balanced** and **inspiring**.
+Combining **Vintage Deep Red** with **Delicate Green**, the birthday color of **June 1**, creates a beautiful **synergy** between maturity and freshness. While **Vintage Deep Red** offers depth and seriousness, **Delicate Green** introduces a sense of **peace**, **creativity**, and **lightness**, making the combination both **balanced** and **inspiring**.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

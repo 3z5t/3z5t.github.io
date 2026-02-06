@@ -19,6 +19,9 @@ postId: "855543006883986738"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhFghV51uRKr4_lE4MiOEUfsjrLOrPnwsayBIsjasiMFOYOxqR2OxS7E0UjdA_7vFoDVqmuqKY70KI82fsVwJ9NrSSfBeuWaDbbtofoCcJtcdPBZWaegRWMReGA0DmAiGg_y_nJXBIRcd3oU_03jQIJjUaUGPGis2yM5OcOh14XbsC_EKzUmYtctxolxo-A=s1600)
+
+
 **1월 16일의 탄생색: 소라 (#7F9BB9)**
 
 ### 1. 소라에 대한 설명 (색의 느낌과 특징)

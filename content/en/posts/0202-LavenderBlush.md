@@ -1,21 +1,24 @@
 ---
-title: "Lavender Blush, The Birthday Color of February 2nd"
-date: 2026-02-02
-description: "The birthday color for February 2nd is Lavender Blush (FFCCFF). Its meaning is Romantic, Artistic, Imagination."
-author: 365days
-tags:
-  - lavender blush
-  - birthday color
-  - february 2nd
-  - ffccff
-  - february
-  - deep forest
-draft: false
+"title": "Lavender Blush, The Birthday Color of February 2"
+"date": "2026-02-02"
+"updated": "2026-02-02"
+"labels":
+- "lavender blush"
+- "birthday color"
+- "february 2"
+- "ffccff"
+- "february"
+- "deep forest"
+"description": "The birthday color for February 2 is Lavender Blush (FFCCFF). Its meaning is Romantic, Artistic, Imagination."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEiu1fwm5arNX-FAuNoZgS04-Xr74nPzgHoG8wzbqLSDH14AD_z68b7wG9X5KzDOlbwsEHntdaAmTXn4tl16fwfenzznfEskCtiKSlKLt4BIA9NI8BbggyaFdDtRLFMJWGIkx7KC7FLLvAg58SBX23TGwkD_DDmhC_B4sIK4XgcTOo40ATohJjHtH6FjKh_M=s1600"
+"en_name": "LavenderBlush"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "2274766054976606066"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/lavender-blush-birthday-color-of.html"
 ---
 
-![Lavender Blush](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_033.webp)
-
-## Birthday Color for February 2nd: Lavender Blush (`#FFCCFF`)
+## Birthday Color for February 2: Lavender Blush (`#FFCCFF`)
 
 ### 1. Description of Lavender Blush (Feeling and Traits)
 
@@ -31,7 +34,7 @@ In **fashion**, **Lavender Blush** is a color that adds a touch of **delicate ch
 
 ### 4. Plus Tip (Destiny Color)
 
-For those seeking balance, consider combining **Lavender Blush** with **Deep Forest** (Hex: `#13191A`), the birthday color for January 9th. While **Lavender Blush** brings out creativity and imagination, the **grounding** and **innovative** energy of Deep Forest adds a layer of **depth** and **stability**, creating a harmonious synergy between **romantic inspiration** and **strong, steady growth**.
+For those seeking balance, consider combining **Lavender Blush** with **Deep Forest** (Hex: `#13191A`), the birthday color for January 9. While **Lavender Blush** brings out creativity and imagination, the **grounding** and **innovative** energy of Deep Forest adds a layer of **depth** and **stability**, creating a harmonious synergy between **romantic inspiration** and **strong, steady growth**.
 
 ### 5. Conclusion (A Poem of Healing)
 

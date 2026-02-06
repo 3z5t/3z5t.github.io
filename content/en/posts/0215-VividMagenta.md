@@ -1,21 +1,24 @@
 ---
-title: "Vivid Magenta, The Birthday Color of February 15th"
-date: 2026-02-15
-description: "The birthday color for February 15th is Vivid Magenta (FF00FF). Its meaning is Creative Power, Passion, Vibrancy."
-author: 365days
-tags:
-  - vivid magenta
-  - birthday color
-  - february 15th
-  - ff00ff
-  - february
-  - vivid lime
-draft: false
+"title": "Vivid Magenta, The Birthday Color of February 15"
+"date": "2026-02-15"
+"updated": "2026-02-15"
+"labels":
+- "vivid magenta"
+- "birthday color"
+- "february 15"
+- "ff00ff"
+- "february"
+- "vivid lime"
+"description": "The birthday color for February 15 is Vivid Magenta (FF00FF). Its meaning is Creative Power, Passion, Vibrancy."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhTPG5jR5cwcmBSRPaDofUAe9lorDlTb29TKcUpDeBMV-VQ9JCqgNEKs9vLX6cPgR9kwtAZySZhbeA9_7kpEiLKxuB9J2BVJU8ApfTmcoM2uLEmpdclfuRjxRWWz8oL_HagsEcSnjHGAkEBIQSyZBjovDwt-EOlCBJ6L2f9zRFI8_iQ-q9BGpre1THFYv47=s1600"
+"en_name": "VividMagenta"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "4651522284640656393"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/vivid-magenta-birthday-color-of.html"
 ---
 
-![Vivid Magenta](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_046.webp)
-
-## Birthday Color for February 15th: Vivid Magenta (`#FF00FF`)
+## Birthday Color for February 15: Vivid Magenta (`#FF00FF`)
 
 ### 1. Description of Vivid Magenta (Feeling and Traits)
 
@@ -33,7 +36,7 @@ In **interior design**, **Vivid Magenta** brings a **sense of playfulness** and 
 
 ### 4. Plus Tip (Destiny Color)
 
-**Vivid Lime**, the birthday color of March 5th, complements **Vivid Magenta** beautifully. The refreshing **vitality** and **innovative spirit** of **Vivid Lime** balance the intensity of **Vivid Magenta**, creating a **dynamic synergy** that is both energizing and refreshing. Together, they represent a powerful duo of creativity and innovation—perfect for anyone looking to make their mark on the world.
+**Vivid Lime**, the birthday color of March 5, complements **Vivid Magenta** beautifully. The refreshing **vitality** and **innovative spirit** of **Vivid Lime** balance the intensity of **Vivid Magenta**, creating a **dynamic synergy** that is both energizing and refreshing. Together, they represent a powerful duo of creativity and innovation—perfect for anyone looking to make their mark on the world.
 
 ### 5. Conclusion (A Poem of Healing)
 

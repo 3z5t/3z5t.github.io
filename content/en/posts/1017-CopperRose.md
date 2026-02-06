@@ -1,21 +1,27 @@
 ---
-title: "Copper Rose, The Birthday Color of October 17th"
-date: 2026-10-17
-description: "The birthday color for October 17th is Copper Rose (996666). Its meaning is Comfortable, Stable, Mature."
-author: 365days
+title: "Copper Rose, The Birthday Color of October 17"
+date: "2026-10-17"
+updated: "2026-10-17"
 tags:
-  - copper rose
-  - birthday color
-  - october 17th
-  - 996666
-  - october
-  - autumn sky
-draft: false
+  - "copper rose"
+  - "birthday color"
+  - "october 17"
+  - "996666"
+  - "october"
+  - "autumn sky"
+description: "The birthday color for October 17 is Copper Rose (996666). Its meaning is Comfortable, Stable, Mature."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjl7ahXxgfICvXptCVplzEqXxccY6v9CJ7CdbL9Lp_0u_k1RbLLaLMd2YBSwFZ6Ahho95GOGeCwdLyFxr8PCkGMAPl_LrKNm-Qq8SK0SPoclZ4LSyZa2FELa2qOKY0Nu023A7YB9Q-rtf-78HY7G6IyKkF2ihECtd20Of7YZwZQwsXRTDYu5BxHmW5OiPI4=s1600"
+en_name: "CopperRose"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Copper Rose](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_291.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjl7ahXxgfICvXptCVplzEqXxccY6v9CJ7CdbL9Lp_0u_k1RbLLaLMd2YBSwFZ6Ahho95GOGeCwdLyFxr8PCkGMAPl_LrKNm-Qq8SK0SPoclZ4LSyZa2FELa2qOKY0Nu023A7YB9Q-rtf-78HY7G6IyKkF2ihECtd20Of7YZwZQwsXRTDYu5BxHmW5OiPI4=s1600)
 
-## Birthday Color for October 17th: Copper Rose (`#996666`)
+
+## Birthday Color for October 17: Copper Rose (`#996666`)
 
 ### 1. **Description of Copper Rose (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ In fashion, **Copper Rose** brings a sense of **elegance** that isn’t ostentat
 
 ### 4. **Plus Tip (Destiny Color)**
 
-When combined with **Autumn Sky**, the birthday color of **September 1st**, the result is a harmonious balance of **creativity** and **stability**. The **clear, crisp energy of Autumn Sky** complements **Copper Rose’s grounding warmth**, creating an atmosphere that feels both **inspired** and **secure**.
+When combined with **Autumn Sky**, the birthday color of **September 1**, the result is a harmonious balance of **creativity** and **stability**. The **clear, crisp energy of Autumn Sky** complements **Copper Rose’s grounding warmth**, creating an atmosphere that feels both **inspired** and **secure**.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

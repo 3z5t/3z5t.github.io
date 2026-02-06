@@ -1,20 +1,27 @@
 ---
-title: "Wild Green, The Birthday Color of April 30th"
-date: 2026-04-30
-description: "The birthday color for April 30th is Wild Green (387146). Its meaning is Strong, Vitality, Prosperity."
-author: 365days
+title: "Wild Green, The Birthday Color of April 30"
+date: "2026-04-30"
+updated: "2026-04-30"
 tags:
-  - wild green
-  - birthday color
-  - april 30th
-  - 387146
-  - april
-  - lilac
-draft: false
+  - "wild green"
+  - "birthday color"
+  - "april 30"
+  - "387146"
+  - "april"
+  - "lilac"
+description: "The birthday color for April 30 is Wild Green (387146). Its meaning is Strong, Vitality, Prosperity."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgL4Z8vRWfE1gxNwOx7lVQSTgiRvwjXIXvDnaBQo0YqrlYr_JVz7hpo17mqiKGDyY3Y6RtjP6Rb8ru080RyNFF80ufHdv_lU3Jo-xiDvdm-QVOmUQrEmNiel_qh-2-QvjORhP75ExkAvzpeALzpM75fX7Y3iPiKniXlUkK-CPHCYSV72ODTHDe3kw6Efh2Y=s1600"
+en_name: "WildGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Wild Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_121.webp)
-## Birthday Color for April 30th: Wild Green (`#387146`)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgL4Z8vRWfE1gxNwOx7lVQSTgiRvwjXIXvDnaBQo0YqrlYr_JVz7hpo17mqiKGDyY3Y6RtjP6Rb8ru080RyNFF80ufHdv_lU3Jo-xiDvdm-QVOmUQrEmNiel_qh-2-QvjORhP75ExkAvzpeALzpM75fX7Y3iPiKniXlUkK-CPHCYSV72ODTHDe3kw6Efh2Y=s1600)
+
+
+## Birthday Color for April 30: Wild Green (`#387146`)
 
 ### 1. Description of Wild Green (Feeling and Traits)
 
@@ -30,7 +37,7 @@ To showcase **Wild Green** in your wardrobe, think of it as the color of confide
 
 ### 4. Plus Tip (Destiny Color)
 
-**Wild Green** pairs wonderfully with **Lilac** (Hex: `#CC99CC`), the birthday color of July 18th. This combination brings together the vitality and strength of **Wild Green** with the elegance and sophistication of **Lilac**. Together, they create a harmonious balance, where strength and grace coexist beautifully.
+**Wild Green** pairs wonderfully with **Lilac** (Hex: `#CC99CC`), the birthday color of July 18. This combination brings together the vitality and strength of **Wild Green** with the elegance and sophistication of **Lilac**. Together, they create a harmonious balance, where strength and grace coexist beautifully.
 
 ### 5. Conclusion (A Poem of Healing)
 

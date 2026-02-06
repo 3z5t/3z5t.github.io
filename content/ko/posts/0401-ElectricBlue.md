@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgvSwzk4PieKZER0lUcib8_eL34ikD1c2HRNkX3gor3F5ubtpTKu_2kVXjERJiYoy17aTe8yz7dgjnwnsgm7BPSH_mL5o8f7j_6zyN27Mm19ug_reo73ubhjZX79i8GnaF7muevuATbszrTiF3_8gqxMYcnGWtw2guq6nZZ10prvmjwXmCZXUPHDQvlizSU=s1600)
+
 ## 4월 1일의 탄생색: 일렉트릭 블루 (`#99FFFF`)
 
 ### 1. 일렉트릭 블루에 대한 설명 (색의 느낌과 특징)

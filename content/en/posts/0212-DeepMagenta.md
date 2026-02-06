@@ -1,21 +1,24 @@
 ---
-title: "Deep Magenta, The Birthday Color of February 12th"
-date: 2026-02-12
-description: "The birthday color for February 12th is Deep Magenta (2C1725). Its meaning is Insightful, Mature, Wisdom."
-author: 365days
-tags:
-  - deep magenta
-  - birthday color
-  - february 12th
-  - 2c1725
-  - february
-  - whipped cream
-draft: false
+"title": "Deep Magenta, The Birthday Color of February 12"
+"date": "2026-02-12"
+"updated": "2026-02-12"
+"labels":
+- "deep magenta"
+- "birthday color"
+- "february 12"
+- "2c1725"
+- "february"
+- "whipped cream"
+"description": "The birthday color for February 12 is Deep Magenta (2C1725). Its meaning is Insightful, Mature, Wisdom."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgAKe9KbIWvCyBtMi5TWpBVWk6RvMwwo8uNzV1MHrikeZZRsoJaZDU7guY4NUPTZv6peDzOzU-w-TLr4fngjRjqZu_X7yOcE8f8t4khD1dwueYdomypfk5SL8lFMmquTdQoauV8E97Rqt1A8w5NhbnYrkcYba5bxAlvSW5NCitpi0oXeOSOT-HyHXuyduvP=s1600"
+"en_name": "DeepMagenta"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "336621730547289473"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/deep-magenta-birthday-color-of-february.html"
 ---
 
-![Deep Magenta](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_043.webp)
-
-## Birthday Color for February 12th: Deep Magenta (`#2C1725`)
+## Birthday Color for February 12: Deep Magenta (`#2C1725`)
 
 ### 1. Description of Deep Magenta (Feeling and Traits)
 
@@ -31,7 +34,7 @@ When it comes to **fashion**, **Deep Magenta** is a bold yet understated choice.
 
 ### 4. Plus Tip (Destiny Color)
 
-**Deep Magenta** pairs beautifully with **Whipped Cream**, the birthday color of August 6th. **Whipped Cream** brings a sense of **softness** and **purity** to the deep richness of **Magenta**, creating a harmonious balance between **maturity** and **freshness**. Together, they create a synergy that encourages both **clarity** and **emotional depth**, making them a perfect duo for those seeking balance between strength and gentleness.
+**Deep Magenta** pairs beautifully with **Whipped Cream**, the birthday color of August 6. **Whipped Cream** brings a sense of **softness** and **purity** to the deep richness of **Magenta**, creating a harmonious balance between **maturity** and **freshness**. Together, they create a synergy that encourages both **clarity** and **emotional depth**, making them a perfect duo for those seeking balance between strength and gentleness.
 
 ### 5. Conclusion (A Poem of Healing)
 

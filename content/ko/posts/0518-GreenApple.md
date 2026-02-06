@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjMcnMzBP3GdT7XnFxC8mUnbXFGysOYnlw6FHADBn0cLPFHj8nu62gTFrwczBgRoXl9KR-jb0SVNr4XXngEfKd00sWrOxSI-mrZEbjepRrTuADUmHb-jpa2SQrjsVaS7eisZG5_vD5WQYplSKLAH4ptX310wi41FfF-JCi2qNUDa8NLUQGDGA13rpyFo686=s1600)
+
 ## 5월 18일의 탄생색: 풋사과 (`#5CE546`)
 
 ### 1. 풋사과에 대한 설명: 한 입 베어 물고 싶은 아삭한 청춘의 색

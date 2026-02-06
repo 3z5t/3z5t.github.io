@@ -19,6 +19,9 @@ postId: "7865018355503451515"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhs8-MfNvx1VoTJEOUdAd1sRqTtjFBw7ctKnakACBW_duyXMDkJedGsYqBirpKJW1yM6cFXpwq8ctyEW5A_teKqCVH-ihR9sgkyn_mvA9Jgw_ayGkzT3YhQ4BC2qCp9MXEctQrkt5PqFexHFqiXNTGo0D9pCm3cw5kFdIhBtBiCwNYdUS6VCnwzladhDSr9=s1600)
+
+
 **1월 14일의 탄생색: 트루 네이비 (#313C75)**
 
 ### 1. 트루 네이비에 대한 설명 (색의 느낌과 특징)

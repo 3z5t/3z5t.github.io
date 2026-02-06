@@ -1,20 +1,27 @@
 ---
-title: "Antique Purple, The Birthday Color of November 23rd"
-date: 2026-11-23
-description: "The birthday color for November 23rd is Antique Purple (5E162D). Its meaning is Antique, Mysterious, Profound."
-author: 365days
+title: "Antique Purple, The Birthday Color of November 23"
+date: "2026-11-23"
+updated: "2026-11-23"
 tags:
-  - antique purple
-  - birthday color
-  - november 23rd
-  - 5e162d
-  - november
-  - aquamarine
-draft: false
+  - "antique purple"
+  - "birthday color"
+  - "november 23"
+  - "5e162d"
+  - "november"
+  - "aquamarine"
+description: "The birthday color for November 23 is Antique Purple (5E162D). Its meaning is Antique, Mysterious, Profound."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiOTodLJs-TbUQnRNtMi5AKbpypKvUUVn4LiFGMllQNHWe0ZgYoWpjTNNZVZypAYjzrm3-ULNxCXJAuJp4rXZwwWhoOEsSv7HkI2niqQhNpExzLVm5VTYbNmdkJn5RRpfTHclJgs_CQ6vMGPmTmdI3V039eQmDnEjuvZ5ddfucxXDmtOb9OVInTDl2etWIm=s1600"
+en_name: "AntiquePurple"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Antique Purple](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_328.webp)
-## Birthday Color for November 23rd: Antique Purple (`#5E162D`)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiOTodLJs-TbUQnRNtMi5AKbpypKvUUVn4LiFGMllQNHWe0ZgYoWpjTNNZVZypAYjzrm3-ULNxCXJAuJp4rXZwwWhoOEsSv7HkI2niqQhNpExzLVm5VTYbNmdkJn5RRpfTHclJgs_CQ6vMGPmTmdI3V039eQmDnEjuvZ5ddfucxXDmtOb9OVInTDl2etWIm=s1600)
+
+
+## Birthday Color for November 23: Antique Purple (`#5E162D`)
 
 ### 1. Description of Antique Purple (Feeling and Traits)
 
@@ -32,7 +39,7 @@ In interiors, **Antique Purple** creates a regal and reflective atmosphere. A fe
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Aquamarine** (the birthday color of April 6th), **Antique Purple** creates a harmonious contrast. While **Antique Purple** is grounded and profound, **Aquamarine** adds a refreshing and creative lightness, bringing balance to the depth and mystery of the purple. The result is a dynamic pairing that speaks to both the **depth of thought** and the **freedom of imagination**.
+When combined with **Aquamarine** (the birthday color of April 6), **Antique Purple** creates a harmonious contrast. While **Antique Purple** is grounded and profound, **Aquamarine** adds a refreshing and creative lightness, bringing balance to the depth and mystery of the purple. The result is a dynamic pairing that speaks to both the **depth of thought** and the **freedom of imagination**.
 
 ### 5. Conclusion (A Poem of Healing)
 

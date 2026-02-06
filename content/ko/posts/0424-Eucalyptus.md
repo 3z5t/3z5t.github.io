@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjCgfNUxjKdbJov-tU5wIe72JSP1N8co_LfMfsfpTVaOaK-jjxOy5MqiAo2YeujrwBt9GnAoUcrczSRVasuNmV-Eti-4vS5Ds-JPxaiPfsNdd0gQxicdpZz8SfgFvPHS94XJIdPTIbCLT7cKnTSqn8DxEcMyUz6E9SLMJCpwE9J-wTY1qdsLNaNmI1pNMfB=s1600)
+
 ## 4월 24일의 탄생색: 유칼립투스 (`#339966`)
 
 ### 1. 유칼립투스에 대한 설명 (색의 느낌과 특징)

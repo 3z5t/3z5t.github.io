@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhRL7L1XLf6s9D5bHKSErYNA57pKjd6zxzedsyrkrAvIJb33OJgAFEyNb7BqpZOHYYKuRdmkPlA6G2PTur-5cSS3Eg1jSMo6SdKxe9iTi_mQzJ4Cwi5cQkD43w0oeSo7X43X3TUf5aDMdHKROsXCZULzlJJNSKDjV9bsLQLh3-WNxw1NHj6jQvfxZiB3Kx7=s1600)
+
 ## 5월 22일의 탄생색: 블루 라군 (`#006666`)
 
 ### 1. 블루 라군에 대한 설명: 영혼을 씻어내는 신비로운 치유의 샘

@@ -1,21 +1,27 @@
 ---
-title: "Knight Green, The Birthday Color of May 17th"
-date: 2026-05-17
-description: "The birthday color for May 17th is Knight Green (5C9432). Its meaning is Peaceful, Stability, Resilience."
-author: 365days
+title: "Knight Green, The Birthday Color of May 17"
+date: "2026-05-17"
+updated: "2026-05-17"
 tags:
-  - knight green
-  - birthday color
-  - may 17th
-  - 5c9432
-  - may
-  - blue violet
-draft: false
+  - "knight green"
+  - "birthday color"
+  - "may 17"
+  - "5c9432"
+  - "may"
+  - "blue violet"
+description: "The birthday color for May 17 is Knight Green (5C9432). Its meaning is Peaceful, Stability, Resilience."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEguprHYVONVQH5nPe0YevHZ6Epp4d1pgbolI5xRcy4jc9w1IhlbFzmVo0iepcXfgb-R1OQ1yapQ-PXv5paGXrYSD5Y4jHRjANlN1Aiw4mbmqmtawi-2ZDkMVxbkYepsKrk06el4Ot0nj-7G-Q5ew3V1lv_0QNnQO7-xRYZN_CFxJOml7ZRmGNS3jH5-mcXf=s1600"
+en_name: "KnightGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Knight Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_138.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEguprHYVONVQH5nPe0YevHZ6Epp4d1pgbolI5xRcy4jc9w1IhlbFzmVo0iepcXfgb-R1OQ1yapQ-PXv5paGXrYSD5Y4jHRjANlN1Aiw4mbmqmtawi-2ZDkMVxbkYepsKrk06el4Ot0nj-7G-Q5ew3V1lv_0QNnQO7-xRYZN_CFxJOml7ZRmGNS3jH5-mcXf=s1600)
 
-## Birthday Color for May 17th: Knight Green (`#5C9432`)
+
+## Birthday Color for May 17: Knight Green (`#5C9432`)
 
 ### 1. Description of Knight Green (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Knight Green** is a color that conveys understated elegance and qu
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **May 17th**, combining **Knight Green** with **Blue Violet** (Hex: `#8673C4`), the birthday color of **February 7th**, creates a beautiful synergy. While **Knight Green** provides peace and stability, **Blue Violet** adds an element of **creativity** and **artistic inspiration**, creating a dynamic yet grounded energy.
+For those born on **May 17**, combining **Knight Green** with **Blue Violet** (Hex: `#8673C4`), the birthday color of **February 7**, creates a beautiful synergy. While **Knight Green** provides peace and stability, **Blue Violet** adds an element of **creativity** and **artistic inspiration**, creating a dynamic yet grounded energy.
 
 ### 5. Conclusion (A Poem of Healing)
 

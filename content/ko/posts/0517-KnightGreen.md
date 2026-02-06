@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj3VDsr0QuPe7f3DEGd3XmLKUWHDIB_S7isiV5RO5Ewga8GxcDRBUCWJ4TabtqWAwlzzQ6heQlgG3tpK3ZEnT701pu9Bck8miJmSyNapkyiDE92Vct0ieCjh9VjjS46AjqG0BSFNFlvc884ullmbVs2H0k2qaITQgDrzcNQ_b259SQO1eqbekbsYqiJyadw=s1600)
+
 ## 5월 17일의 탄생색: 나이트 그린 (`#5C9432`)
 
 ### 1. 나이트 그린에 대한 설명: 고요한 숲이 건네는 깊은 안식

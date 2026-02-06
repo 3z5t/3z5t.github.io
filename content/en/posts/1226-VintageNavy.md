@@ -1,21 +1,27 @@
 ---
-title: "Vintage Navy, The Birthday Color of December 26th"
-date: 2026-12-26
-description: "The birthday color for December 26th is Vintage Navy (494960). Its meaning is Profound, Stable, Introspective."
-author: 365days
+title: "Vintage Navy, The Birthday Color of December 26"
+date: "2026-12-26"
+updated: "2026-12-26"
 tags:
-  - vintage navy
-  - birthday color
-  - december 26th
-  - 494960
-  - december
-  - satin gray
-draft: false
+  - "vintage navy"
+  - "birthday color"
+  - "december 26"
+  - "494960"
+  - "december"
+  - "satin gray"
+description: "The birthday color for December 26 is Vintage Navy (494960). Its meaning is Profound, Stable, Introspective."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhWM3xhCsMSRUoXRxnhFzDyGjoeoPMETXHcXmqnYrl2PKqnptm2eR6m2jIb8sLyKRzCGkOdkYkj9e2EGzHpaxpd3lkPrEvKnlSG4V1oBBD_1QhqQ8HDsEYfLgvg8fbHQiTOdnbwfxlxM_VKY4cd8cnBpoLscuIqjZqshstofteTjsuJH4mFgQukRdE7S39I=s1600"
+en_name: "VintageNavy"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Vintage Navy](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_361.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhWM3xhCsMSRUoXRxnhFzDyGjoeoPMETXHcXmqnYrl2PKqnptm2eR6m2jIb8sLyKRzCGkOdkYkj9e2EGzHpaxpd3lkPrEvKnlSG4V1oBBD_1QhqQ8HDsEYfLgvg8fbHQiTOdnbwfxlxM_VKY4cd8cnBpoLscuIqjZqshstofteTjsuJH4mFgQukRdE7S39I=s1600)
 
-## Birthday Color for December 26th: Vintage Navy (`#494960`)
+
+## Birthday Color for December 26: Vintage Navy (`#494960`)
 
 ### 1. Description of Vintage Navy (Feeling and Traits)
 
@@ -39,7 +45,7 @@ Vintage Navy also works wonderfully in **home textiles**—**velvet cushions**, 
 
 ### 4. Plus Tip (Destiny Color)
 
-The partner color, **Satin Gray**, born on **September 10th**, enhances the qualities of Vintage Navy. **Satin Gray** brings a touch of **refinement** and **class** to the bold, deep tones of Vintage Navy, creating a harmonious balance between **sophistication** and **depth**. Together, they create a space where introspection is balanced with elegance—an environment that encourages **thoughtful conversation** and **delicate beauty**.
+The partner color, **Satin Gray**, born on **September 10**, enhances the qualities of Vintage Navy. **Satin Gray** brings a touch of **refinement** and **class** to the bold, deep tones of Vintage Navy, creating a harmonious balance between **sophistication** and **depth**. Together, they create a space where introspection is balanced with elegance—an environment that encourages **thoughtful conversation** and **delicate beauty**.
 
 ### 5. Conclusion (A Poem of Healing)
 

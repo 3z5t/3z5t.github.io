@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiKYR2GODI-B-G6NAO3zmuX6IE97mwicfZCHCd8dXZgVoH6NjWTgrlZdBPxZkJzkFmLzFPNBsrXaU9iuu8xAE7gO7iihiDzaMkVcCPQkoxbi01chpG4LxcmRyTYiyVdcxAT57z84kjtw370vE-aWIx-Q-DwBmsDmhKd5rOUhUU95KQSH3afaAxZeROLVyYq=s1600)
+
 ## 3월 23일의 탄생색: 셸 핑크 (`#E9CCC8`)
 
 ### 1. 셸 핑크에 대한 설명 (색의 느낌과 특징)

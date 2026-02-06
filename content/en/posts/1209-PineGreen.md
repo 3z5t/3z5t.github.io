@@ -1,20 +1,27 @@
 ---
-title: "Pine Green, The Birthday Color of December 9th"
-date: 2026-12-09
-description: "The birthday color for December 9th is Pine Green (207670). Its meaning is Pure Soul, Mysterious, Cool."
-author: 365days
+title: "Pine Green, The Birthday Color of December 9"
+date: "2026-12-09"
+updated: "2026-12-09"
 tags:
-  - pine green
-  - birthday color
-  - december 9th
-  - 207670
-  - december
-  - light coral
-draft: false
+  - "pine green"
+  - "birthday color"
+  - "december 9"
+  - "207670"
+  - "december"
+  - "light coral"
+description: "The birthday color for December 9 is Pine Green (207670). Its meaning is Pure Soul, Mysterious, Cool."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjo6nb0L_SkG9XWF-970ubNO9rGuGM-bqeXNbyMdWGSug4LZX5ubav56bM6SAANVGL3gIr_EKwaq0_mvLh55TfpiwumGuoJyZprFxBMKF1mPv3B8n1or5oXnCZAFZaAjH2JunRJFsGVeF_mINbzUfqWG_1oMtqXxVFNNb6T7rHoMB6W7UDDbS_du-E0BAAr=s1600"
+en_name: "PineGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Pine Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_344.webp)
-## Birthday Color for December 9th: Pine Green (`#207670`)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjo6nb0L_SkG9XWF-970ubNO9rGuGM-bqeXNbyMdWGSug4LZX5ubav56bM6SAANVGL3gIr_EKwaq0_mvLh55TfpiwumGuoJyZprFxBMKF1mPv3B8n1or5oXnCZAFZaAjH2JunRJFsGVeF_mINbzUfqWG_1oMtqXxVFNNb6T7rHoMB6W7UDDbS_du-E0BAAr=s1600)
+
+
+## Birthday Color for December 9: Pine Green (`#207670`)
 
 ### 1. Description of Pine Green (Feeling and Traits)
 
@@ -32,7 +39,7 @@ In interior design, **Pine Green** brings a sense of tranquility to any room. It
 
 ### 4. Plus Tip (Destiny Color)
 
-When **Pine Green** meets **Light Coral** (the birthday color of July 3rd), a beautiful synergy forms. While Pine Green is **mysterious** and cool, Light Coral brings a soft, gentle touch, creating a balanced dynamic between **depth** and **warmth**. Together, they form a harmonious duo that speaks to both the **strength** and **gentleness** within.
+When **Pine Green** meets **Light Coral** (the birthday color of July 3), a beautiful synergy forms. While Pine Green is **mysterious** and cool, Light Coral brings a soft, gentle touch, creating a balanced dynamic between **depth** and **warmth**. Together, they form a harmonious duo that speaks to both the **strength** and **gentleness** within.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhjref5txEHXC0WBv7IVwlWdMYZ9BRdsubqr9FORIWLJmg19nKBBuSRjCY8bAU0OzfcFSA7AOSM20-aMIPBcpuZbfTKXFY0SGxzIwTX4WhYT2-DvsAQSQ_uWcM0_AjGBf0_drpTNiKGa_sn8_7gAki48KoQPUpTxLBSPP6Vu1ZOv9VBXVFb2V9qzbuisf1o=s1600)
+
 ## 12월 15일의 탄생색: 윈터 페어리 미스트 (`#B3C4E5`)
 
 ### 1. 윈터 페어리 미스트에 대한 설명 (색의 느낌과 특징)

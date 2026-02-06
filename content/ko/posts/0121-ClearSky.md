@@ -19,6 +19,9 @@ postId: "6614166500375809916"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjnhvVUWwUaPok1yfhrPp4YRhL9_t-HAv_4z42SnvCLJuGltTMZi1SwqUla-aR6L9iTS145dIfQpC9TeaMeirakHb0szoozRqLuGS3WGGPmfPHJapKn5FvXQ_9mL9aNW0HiE43dFWf3Aw4Aee1z8O0tkc7O2KgKuuKhwP96y7ejAAQE3XXYAVH20B4zfsvH=s1600)
+
+
 **1월 21일의 탄생색: 맑은 하늘 (#99DBE9)**
 
 ### 1. 맑은 하늘에 대한 설명 (색의 느낌과 특징)

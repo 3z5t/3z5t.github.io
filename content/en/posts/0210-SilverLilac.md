@@ -1,21 +1,24 @@
 ---
-title: "Silver Lilac, The Birthday Color of February 10th"
-date: 2026-02-10
-description: "The birthday color for February 10th is Silver Lilac (AEA2C9). Its meaning is Elegant, Sophisticated, Aesthetic Eye."
-author: 365days
-tags:
-  - silver lilac
-  - birthday color
-  - february 10th
-  - aea2c9
-  - february
-  - deep khaki
-draft: false
+"title": "Silver Lilac, The Birthday Color of February 10"
+"date": "2026-02-10"
+"updated": "2026-02-10"
+"labels":
+- "silver lilac"
+- "birthday color"
+- "february 10"
+- "aea2c9"
+- "february"
+- "deep khaki"
+"description": "The birthday color for February 10 is Silver Lilac (AEA2C9). Its meaning is Elegant, Sophisticated, Aesthetic Eye."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEh_9wtrRbsYf2tu2nLTD2fsERARpppAoM-gs0LVAlEZ3eAKCbMk7lQK5RXIXcCVjLYuDwhhBTwBaX7wseeg14PrM278_9NP4MnFMi_RfKCNZRGBeM5xyY7N9xlzSQrrzhYEmpu7dwhoSFGhrX9ZlCyLv0dmkTYzIqlGhGYvdrY5Weevub7IC7FmiQU_HW0u=s1600"
+"en_name": "SilverLilac"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "6662562859034810899"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/silver-lilac-birthday-color-of-february.html"
 ---
 
-![Silver Lilac](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_041.webp)
-
-## Birthday Color for February 10th: Silver Lilac (`#AEA2C9`)
+## Birthday Color for February 10: Silver Lilac (`#AEA2C9`)
 
 ### 1. Description of Silver Lilac (Feeling and Traits)
 
@@ -31,7 +34,7 @@ When it comes to **fashion**, **Silver Lilac** is a color that speaks volumes wi
 
 ### 4. Plus Tip (Destiny Color)
 
-Pairing **Silver Lilac** with **Deep Khaki**, the birthday color of October 29th, brings out a **beautiful synergy** between **elegance** and **stability**. The rich, grounded tones of **Deep Khaki** complement the soft sophistication of **Silver Lilac**, creating an atmosphere of **peace** and **natural beauty**. Together, they inspire a space that is both **nurturing** and **refined**, perfect for those seeking balance and harmony in their lives.
+Pairing **Silver Lilac** with **Deep Khaki**, the birthday color of October 29, brings out a **beautiful synergy** between **elegance** and **stability**. The rich, grounded tones of **Deep Khaki** complement the soft sophistication of **Silver Lilac**, creating an atmosphere of **peace** and **natural beauty**. Together, they inspire a space that is both **nurturing** and **refined**, perfect for those seeking balance and harmony in their lives.
 
 ### 5. Conclusion (A Poem of Healing)
 

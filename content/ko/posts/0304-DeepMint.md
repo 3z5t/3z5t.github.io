@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg7j6kNuEI9Ld8wilLINbEOOKe2bs1lbyYkTGRQyl4HXacvRR1u5cQSAiPgLoqsmt0WDv6M5TvFFjhU4ZryLjrz6VpGy3Z5wPy47nK0yDmgcOrECC93STnAY2k0HQ7WLbcxMWshgWNzpYP2y2prPl7QwJP1ORo-FJDYd6WoiU48t5eN6JEyuV8HGtDqGTmG=s1600)
+
 ## 3월 4일의 탄생색: 딥 민트 (`#3ABAB5`)
 
 ### 1. 딥 민트에 대한 설명 (색의 느낌과 특징)

@@ -1,21 +1,27 @@
 ---
-title: "Rose Red, The Birthday Color of December 2nd"
-date: 2026-12-02
-description: "The birthday color for December 2nd is Rose Red (8D1C1C). Its meaning is Passionate, Strong Will, Hopeful."
-author: 365days
+title: "Rose Red, The Birthday Color of December 2"
+date: "2026-12-02"
+updated: "2026-12-02"
 tags:
-  - rose red
-  - birthday color
-  - december 2nd
-  - 8d1c1c
-  - december
-  - soft cyan
-draft: false
+  - "rose red"
+  - "birthday color"
+  - "december 2"
+  - "8d1c1c"
+  - "december"
+  - "soft cyan"
+description: "The birthday color for December 2 is Rose Red (8D1C1C). Its meaning is Passionate, Strong Will, Hopeful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgExLx3m4ec3ei4Xo3sjoMdWsGlS2BfD5ewVdIW7MnbEzXRXZssAzxmypHZO8D7mriCu_F93EjkY7YDVXDcKw9oqY9ItiMzd0C3ffQqckxC6pyZeV0UKNtYZgfgOPg7NlHntaTo8lpOjWMSx70RqUpMaf1MgXVJuS7ckNr-oJXzlBatRy6VCYmXN-DT9B_Y=s1600"
+en_name: "RoseRed"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Rose Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_337.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgExLx3m4ec3ei4Xo3sjoMdWsGlS2BfD5ewVdIW7MnbEzXRXZssAzxmypHZO8D7mriCu_F93EjkY7YDVXDcKw9oqY9ItiMzd0C3ffQqckxC6pyZeV0UKNtYZgfgOPg7NlHntaTo8lpOjWMSx70RqUpMaf1MgXVJuS7ckNr-oJXzlBatRy6VCYmXN-DT9B_Y=s1600)
 
-## Birthday Color for December 2nd: Rose Red (`#8D1C1C`)
+
+## Birthday Color for December 2: Rose Red (`#8D1C1C`)
 
 ### 1. Description of Rose Red (Feeling and Traits)
 
@@ -35,7 +41,7 @@ In interior design, **Rose Red** brings an air of **warmth** and **passion** to 
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Soft Cyan** (the birthday color of July 30th), **Rose Red** creates a perfect balance of energy and calm. While **Rose Red** brings intensity and passion, **Soft Cyan** offers a refreshing, cool touch, creating an equilibrium that allows both colors to complement each other beautifully. Together, they create a dynamic yet peaceful atmosphere.
+When paired with **Soft Cyan** (the birthday color of July 30), **Rose Red** creates a perfect balance of energy and calm. While **Rose Red** brings intensity and passion, **Soft Cyan** offers a refreshing, cool touch, creating an equilibrium that allows both colors to complement each other beautifully. Together, they create a dynamic yet peaceful atmosphere.
 
 ### 5. Conclusion (A Poem of Healing)
 

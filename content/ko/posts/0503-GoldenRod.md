@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg-JHDNXXq_74ZfkDF6bpx4Ct2ABEKqh6fskcWiE5JJYtk54HKCCauga4QJUNn_aWuEM5WmLN7CFpuqbeSqn4oN22_DUv-e8-PikjpYCb3ABkIpFtKOGJAhtuscrr3oTRitQqftG97d0oEYzK-RgddqFJbKddYL0i4XF0tSpw7jRBFJLxS1HuWYSh5U451p=s1600)
+
 ## 5월 3일의 탄생색: 골든 로드 (`#DAA520`)
 
 ### 1. 골든 로드에 대한 설명 (색의 느낌과 특징)

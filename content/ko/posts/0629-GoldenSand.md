@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjjUep1RCoC2UZL6W-H4bBiYJDNSV8fZ4mweW8aODZyKZySFrnBEQYRMZHscui08s8Q2CDxYyi8U_WhWu2eqdPr5yOwnX2tkNV8WvqWNojHxLEUrHFgTgzMXWOL84LuYJdDXm5dmWzsXD65fB3Pi9Waf4AZC-uJBRSJWeOZzmOaa3gYVMc82DUoe6yHx0AY=s1600)
+
 ## 6월 29일의 탄생색: 황금 모래 (`#CBA135`)
 
 ### 1. 황금 모래에 대한 설명: 시간의 파도가 빚어낸 영원한 반짝임

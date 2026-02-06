@@ -1,21 +1,27 @@
 ---
-title: "Burnt Umber, The Birthday Color of October 7th"
-date: 2026-10-07
-description: "The birthday color for October 7th is Burnt Umber (8D3131). Its meaning is Solid Will, Strong, Decisive."
-author: 365days
+title: "Burnt Umber, The Birthday Color of October 7"
+date: "2026-10-07"
+updated: "2026-10-07"
 tags:
-  - burnt umber
-  - birthday color
-  - october 7th
-  - 8d3131
-  - october
-  - soft downy
-draft: false
+  - "burnt umber"
+  - "birthday color"
+  - "october 7"
+  - "8d3131"
+  - "october"
+  - "soft downy"
+description: "The birthday color for October 7 is Burnt Umber (8D3131). Its meaning is Solid Will, Strong, Decisive."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhJROkrYRHpf4JdFNUggi7WzJKMXvntT75Jsjgc_3kUvQUr5fwX5t7qiqfSexwjfsNto4jW7P9U1YCLw2eeEEXBQuOurkn2XM7OBYUa_TsvcWYQN7K7nxOyO0ARy8hBu8EHD0U-ex1iHSZ6iBxiv7T6re3ylcVIJ1_Rhdi2yxXNJgPW5Wtz9a63-kmQDN7Z=s1600"
+en_name: "BurntUmber"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Burnt Umber](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_281.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhJROkrYRHpf4JdFNUggi7WzJKMXvntT75Jsjgc_3kUvQUr5fwX5t7qiqfSexwjfsNto4jW7P9U1YCLw2eeEEXBQuOurkn2XM7OBYUa_TsvcWYQN7K7nxOyO0ARy8hBu8EHD0U-ex1iHSZ6iBxiv7T6re3ylcVIJ1_Rhdi2yxXNJgPW5Wtz9a63-kmQDN7Z=s1600)
 
-## Birthday Color for October 7th: Burnt Umber (`#8D3131`)
+
+## Birthday Color for October 7: Burnt Umber (`#8D3131`)
 
 ### 1. **Description of Burnt Umber (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ For those born under the sign of **Burnt Umber**, the key qualities are **streng
 
 ### 4. **Plus Tip (Destiny Color)**
 
-When **Burnt Umber** is paired with **Soft Downy**, the birthday color of **May 29th**, the synergy between the two is undeniable. **Soft Downy’s** gentle, **inclusive** nature complements the strength of **Burnt Umber**, creating a harmonious balance between **grounded determination** and **soft emotional connection**. Together, they form a partnership that is both **powerful** and **compassionate**.
+When **Burnt Umber** is paired with **Soft Downy**, the birthday color of **May 29**, the synergy between the two is undeniable. **Soft Downy’s** gentle, **inclusive** nature complements the strength of **Burnt Umber**, creating a harmonious balance between **grounded determination** and **soft emotional connection**. Together, they form a partnership that is both **powerful** and **compassionate**.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

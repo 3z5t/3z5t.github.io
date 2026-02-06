@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhoayXTI4HMwViS3D_G6vgCe8N76BuGYWYPyE_FDX5tAdh6rNZa_0PBZG30GEvNTgxd5KzdKgEiVeEMYc5wPxUSEpfbbRWA1fzP-M3qrwf-iZpB7YFhAAaSmjAWpzumqpfDwT2YT3koHFaTunKHjH3wFrq1E-GYuy5drLPScs7HeSrMugbl9Vb0BhPDe9Tt=s1600)
+
 ## 12월 16일의 탄생색: 로얄 블루 (`#1B76D8`)
 
 ### 1. 로얄 블루에 대한 설명 (색의 느낌과 특징)

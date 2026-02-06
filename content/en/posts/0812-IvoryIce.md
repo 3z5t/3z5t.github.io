@@ -1,21 +1,27 @@
 ---
-title: "Ivory Ice, The Birthday Color of August 12th"
-date: 2026-08-12
-description: "The birthday color for August 12th is Ivory Ice (DEBA86). Its meaning is Cool Personality, Calm, Stability."
-author: 365days
+title: "Ivory Ice, The Birthday Color of August 12"
+date: "2026-08-12"
+updated: "2026-08-12"
 tags:
-  - ivory ice
-  - birthday color
-  - august 12th
-  - deba86
-  - august
-  - true navy
-draft: false
+  - "ivory ice"
+  - "birthday color"
+  - "august 12"
+  - "deba86"
+  - "august"
+  - "true navy"
+description: "The birthday color for August 12 is Ivory Ice (DEBA86). Its meaning is Cool Personality, Calm, Stability."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhkaCmVN-y73AJGWgAbQuwvB8XcTPU_jzbu2r07a8OauoG2vlboqoTDtXGbjXdl0XW_QAMjb05HeyHly93B6LF9y-q4ZukccgVTvQZl7VPKAkWiKdPIdvCYM2MwC7J-Bx05lYdq7jzToj--K2llm35xAhuyo_GzWSmPMPps6w4iuTIqn3G779XiaAxrOJV1=s1600"
+en_name: "IvoryIce"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Ivory Ice](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_225.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhkaCmVN-y73AJGWgAbQuwvB8XcTPU_jzbu2r07a8OauoG2vlboqoTDtXGbjXdl0XW_QAMjb05HeyHly93B6LF9y-q4ZukccgVTvQZl7VPKAkWiKdPIdvCYM2MwC7J-Bx05lYdq7jzToj--K2llm35xAhuyo_GzWSmPMPps6w4iuTIqn3G779XiaAxrOJV1=s1600)
 
-## Birthday Color for August 12th: Ivory Ice (`#DEBA86`)
+
+## Birthday Color for August 12: Ivory Ice (`#DEBA86`)
 
 ### 1. Description of Ivory Ice (Feeling and Traits)
 
@@ -35,7 +41,7 @@ When you first see **Ivory Ice**, you are immediately struck by its **cool elega
 
 ### 4. Plus Tip (Destiny Color)
 
-The partner color for **Ivory Ice** is **True Navy**, the birthday color for January 14th. **True Navy** is a rich, deep blue that symbolizes **sincerity**, **truthfulness**, and **devotion**. Combining **Ivory Ice** with **True Navy** creates a beautifully balanced duo—**Ivory Ice’s** calm and stability paired with **True Navy’s** sincerity and depth results in a harmonious blend of **cool elegance** and **truthful power**.
+The partner color for **Ivory Ice** is **True Navy**, the birthday color for January 14. **True Navy** is a rich, deep blue that symbolizes **sincerity**, **truthfulness**, and **devotion**. Combining **Ivory Ice** with **True Navy** creates a beautifully balanced duo—**Ivory Ice’s** calm and stability paired with **True Navy’s** sincerity and depth results in a harmonious blend of **cool elegance** and **truthful power**.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,20 +1,27 @@
 ---
-title: "Afternoon Ash, The Birthday Color of September 6th"
-date: 2026-09-06
-description: "The birthday color for September 6th is Afternoon Ash (191B28). Its meaning is Contemplative, Observant, Intellectual."
-author: 365days
+title: "Afternoon Ash, The Birthday Color of September 6"
+date: "2026-09-06"
+updated: "2026-09-06"
 tags:
-  - afternoon ash
-  - birthday color
-  - september 6th
-  - 191b28
-  - september
-  - antique ivory
-draft: false
+  - "afternoon ash"
+  - "birthday color"
+  - "september 6"
+  - "191b28"
+  - "september"
+  - "antique ivory"
+description: "The birthday color for September 6 is Afternoon Ash (191B28). Its meaning is Contemplative, Observant, Intellectual."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhmMfzdNB8Cr_ftDvOHJGgIsMj6fdshEXTctsktyL83R6WxZSN-j6RBPMiz5sjcQh-Fi4rpJq-RiYHQ8CsImwhKOV0G0GQKISjF_pQGphMgr5Ztm3EZpPOVeVTfuiQsNC9G2h5W-wiwv7-e2QF4m3Lc0VnybIGV5fciDBdog-QQ8AylHNuhyJBZnLl5tvbj=s1600"
+en_name: "AfternoonAsh"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Afternoon Ash](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_250.webp)
-## Birthday Color for September 6th: Afternoon Ash (`#191B28`)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhmMfzdNB8Cr_ftDvOHJGgIsMj6fdshEXTctsktyL83R6WxZSN-j6RBPMiz5sjcQh-Fi4rpJq-RiYHQ8CsImwhKOV0G0GQKISjF_pQGphMgr5Ztm3EZpPOVeVTfuiQsNC9G2h5W-wiwv7-e2QF4m3Lc0VnybIGV5fciDBdog-QQ8AylHNuhyJBZnLl5tvbj=s1600)
+
+
+## Birthday Color for September 6: Afternoon Ash (`#191B28`)
 
 ### 1. Description of Afternoon Ash (Feeling and Traits)
 
@@ -36,7 +43,7 @@ In interior design, **Afternoon Ash** can create a space that is both **elegant*
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Antique Ivory**, the birthday color for December 12th, the combination creates a harmonious contrast of **intellectual depth** and **elegance**. While **Afternoon Ash** offers a contemplative, **introspective** energy, **Antique Ivory** adds a layer of **purity** and **refinement**, making it a wonderful combination for creating spaces or looks that feel both sophisticated and grounded.
+When paired with **Antique Ivory**, the birthday color for December 12, the combination creates a harmonious contrast of **intellectual depth** and **elegance**. While **Afternoon Ash** offers a contemplative, **introspective** energy, **Antique Ivory** adds a layer of **purity** and **refinement**, making it a wonderful combination for creating spaces or looks that feel both sophisticated and grounded.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,21 +1,27 @@
 ---
-title: "Snow Cloud, The Birthday Color of December 30th"
-date: 2026-12-30
-description: "The birthday color for December 30th is Snow Cloud (F1F5F7). Its meaning is Profound, Serene, Mysterious."
-author: 365days
+title: "Snow Cloud, The Birthday Color of December 30"
+date: "2026-12-30"
+updated: "2026-12-30"
 tags:
-  - snow cloud
-  - birthday color
-  - december 30th
-  - f1f5f7
-  - december
-  - deep abyss
-draft: false
+  - "snow cloud"
+  - "birthday color"
+  - "december 30"
+  - "f1f5f7"
+  - "december"
+  - "deep abyss"
+description: "The birthday color for December 30 is Snow Cloud (F1F5F7). Its meaning is Profound, Serene, Mysterious."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhoALH0FhsD-zUMSmoxyrHJfbcNmB509z26ksnmqDxOXrYhu_-R57bYHAu9-iPU8leEavt2gCpyYTNUAPke3AorgqeCZbkFI32jbAcn57HMqwzav0lZEuNAmovtNncYe2qVmJw0gbd4XOWDZ_xOat6nHlX0Gjz83yhmMk4t9RFUEOX-hsV2fv4QpOo_uGiD=s1600"
+en_name: "SnowCloud"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Snow Cloud](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_365.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhoALH0FhsD-zUMSmoxyrHJfbcNmB509z26ksnmqDxOXrYhu_-R57bYHAu9-iPU8leEavt2gCpyYTNUAPke3AorgqeCZbkFI32jbAcn57HMqwzav0lZEuNAmovtNncYe2qVmJw0gbd4XOWDZ_xOat6nHlX0Gjz83yhmMk4t9RFUEOX-hsV2fv4QpOo_uGiD=s1600)
 
-## Birthday Color for December 30th: Snow Cloud (`#F1F5F7`)
+
+## Birthday Color for December 30: Snow Cloud (`#F1F5F7`)
 
 ### 1. Description of Snow Cloud (Feeling and Traits)
 
@@ -37,7 +43,7 @@ For interior design, **Snow Cloud** can turn any room into a peaceful retreat. I
 
 ### 4. Plus Tip (Destiny Color)
 
-The partner color, **Deep Abyss**, born on **November 19th**, creates an intriguing contrast with **Snow Cloud**. The **depth** of **Deep Abyss** beautifully complements the lightness of **Snow Cloud**, adding a **mysterious** and **powerful** energy to the serene purity of the snow. Together, they create a **balance** of **introspection** and **vastness**, bringing both **clarity** and **mystery** into one harmonious blend.
+The partner color, **Deep Abyss**, born on **November 19**, creates an intriguing contrast with **Snow Cloud**. The **depth** of **Deep Abyss** beautifully complements the lightness of **Snow Cloud**, adding a **mysterious** and **powerful** energy to the serene purity of the snow. Together, they create a **balance** of **introspection** and **vastness**, bringing both **clarity** and **mystery** into one harmonious blend.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,21 +1,27 @@
 ---
-title: "Reed Marsh, The Birthday Color of June 27th"
-date: 2026-06-27
-description: "The birthday color for June 27th is Reed Marsh (B09A82). Its meaning is Natural, Peaceful, Inclusive."
-author: 365days
+title: "Reed Marsh, The Birthday Color of June 27"
+date: "2026-06-27"
+updated: "2026-06-27"
 tags:
-  - reed marsh
-  - birthday color
-  - june 27th
-  - b09a82
-  - june
-  - deep ocean
-draft: false
+  - "reed marsh"
+  - "birthday color"
+  - "june 27"
+  - "b09a82"
+  - "june"
+  - "deep ocean"
+description: "The birthday color for June 27 is Reed Marsh (B09A82). Its meaning is Natural, Peaceful, Inclusive."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgO9EMgZJC5_P6IoPJ541i8Ep0zVy70O6P0vjJCch3MF5l99H4NnzFe8pPjg8KHEd1vgFrlNEBev9pih6IoimgFiFcXeU8IW1V2cmcH91zNhOFVH9vPohKOeGDT8b7T97toCP8BGFoir187oT9_uv3Vtc4LKStW4sUE3K1DhKEgQGv8t5iP9-owb2fmmbCJ=s1600"
+en_name: "ReedMarsh"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Reed Marsh](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_179.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgO9EMgZJC5_P6IoPJ541i8Ep0zVy70O6P0vjJCch3MF5l99H4NnzFe8pPjg8KHEd1vgFrlNEBev9pih6IoimgFiFcXeU8IW1V2cmcH91zNhOFVH9vPohKOeGDT8b7T97toCP8BGFoir187oT9_uv3Vtc4LKStW4sUE3K1DhKEgQGv8t5iP9-owb2fmmbCJ=s1600)
 
-## Birthday Color for June 27th: Reed Marsh (`#B09A82`)
+
+## Birthday Color for June 27: Reed Marsh (`#B09A82`)
 
 ### 1. Description of Reed Marsh (Feeling and Traits)
 
@@ -31,7 +37,7 @@ Reed Marsh is a color that exudes **soft elegance**. In fashion, it’s perfect 
 
 ### 4. Plus Tip (Destiny Color)
 
-Reed Marsh pairs beautifully with **Deep Ocean** (Hex: `#5A6078`), the birthday color for September 5th. Together, they form a **peaceful yet profound synergy**—Reed Marsh’s gentle calm complements Deep Ocean’s mysterious and intellectual depth, creating a perfect balance of warmth and contemplation.
+Reed Marsh pairs beautifully with **Deep Ocean** (Hex: `#5A6078`), the birthday color for September 5. Together, they form a **peaceful yet profound synergy**—Reed Marsh’s gentle calm complements Deep Ocean’s mysterious and intellectual depth, creating a perfect balance of warmth and contemplation.
 
 ### 5. Conclusion (A Poem of Healing)
 

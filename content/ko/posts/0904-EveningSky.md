@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhCyrGvSOwZgnWwx9gDyzEhyUF3teIghtXIZfCKzd-Y3iRkMNZwW5FWA_DydVTMTXoJC2FS54GK6ALgP6HzZaoKRggDdr_75dLKIsmZnJatLfp5xug9uniXRDYVVqP2cnAtgOklp5LrrWMSDVXfwZYwWaviIl8c7_TJAd_QzV4OTN2b90PvHMeexEh75jQ9=s1600)
+
 ## 9월 4일의 탄생색: 저녁 밤하늘 (`#071734`)
 
 ### 1. 저녁 밤하늘에 대한 설명: 우주의 침묵을 담은 가장 깊은 안식

@@ -1,21 +1,28 @@
 ---
-title: "Royal Cobalt, The Birthday Color of January 5th"
-date: 2026-01-05
-description: "The birthday color for January 5th is Royal Cobalt (00009B). Its meaning is Pioneering, Leadership, Challenging Spirit."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-05'
+description: The birthday color for January 5 is Royal Cobalt (00009B). Its meaning
+  is Pioneering, Leadership, Challenging Spirit.
+en_name: RoyalCobalt
 tags:
-  - royal cobalt
-  - birthday color
-  - january 5th
-  - 00009b
-  - january
-  - banana
-draft: false
+- royal cobalt
+- birthday color
+- january 5
+- 00009b
+- january
+- banana
+postId: '1709571238628156600'
+postUrl: https://the366days-en.blogspot.com/2026/01/royal-cobalt-birthday-color-of-january-5.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiDbYrPq3y7j1N5xXO0ehQbp1ANjca7kKDCWtM29lvgoUTm9-0GGQYU56xfuZcspSBup_59nr9mB9kv-gqKj-z2LNPxMh1x7tl7O_vKsnkk9ni6cETHcDYX1DMDga2YbCymGFsEkDDBdLM86bfF8I8B7-osE6Y0j-uzE5zl0FEOKoybq0koIwUBB4-bd1M5=s1600
+title: Royal Cobalt, The Birthday Color of January 5
+updated: '2026-01-05'
 ---
 
-![Royal Cobalt](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_005.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiDbYrPq3y7j1N5xXO0ehQbp1ANjca7kKDCWtM29lvgoUTm9-0GGQYU56xfuZcspSBup_59nr9mB9kv-gqKj-z2LNPxMh1x7tl7O_vKsnkk9ni6cETHcDYX1DMDga2YbCymGFsEkDDBdLM86bfF8I8B7-osE6Y0j-uzE5zl0FEOKoybq0koIwUBB4-bd1M5=s1600)
 
-## Birthday Color for January 5th: Royal Cobalt (`#00009B`)
+
+## Birthday Color for January 5: Royal Cobalt (`#00009B`)
 
 ### 1. **Description of Royal Cobalt (Feeling and Traits)**
 
@@ -31,7 +38,7 @@ In fashion, **Royal Cobalt** commands attention. A **Royal Cobalt suit** or a **
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For those who want to add a cheerful burst of energy, **combining Royal Cobalt with Banana**, the birthday color of May 6th, creates a perfect balance of strength and joy. While Royal Cobalt represents leadership and challenge, Banana adds a touch of optimism and lightness, making for a vibrant, dynamic combination.
+For those who want to add a cheerful burst of energy, **combining Royal Cobalt with Banana**, the birthday color of May 6, creates a perfect balance of strength and joy. While Royal Cobalt represents leadership and challenge, Banana adds a touch of optimism and lightness, making for a vibrant, dynamic combination.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

@@ -1,21 +1,27 @@
 ---
-title: "Brown, The Birthday Color of September 26th"
-date: 2026-09-26
-description: "The birthday color for September 26th is Brown (7F3300). Its meaning is Abundant, Stable, Practical."
-author: 365days
+title: "Brown, The Birthday Color of September 26"
+date: "2026-09-26"
+updated: "2026-09-26"
 tags:
-  - brown
-  - birthday color
-  - september 26th
-  - 7f3300
-  - september
-  - soft blue
-draft: false
+  - "brown"
+  - "birthday color"
+  - "september 26"
+  - "7f3300"
+  - "september"
+  - "soft blue"
+description: "The birthday color for September 26 is Brown (7F3300). Its meaning is Abundant, Stable, Practical."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjlJjbW9g15obyrf5ZMXSByNR-6OvkqffTWSCmJawQA2keVUiN1j_9O4MdVyJSEpXR7Ai4D3mfhz775WdWnS48O-oyZkZsv5bh8KLQDkzwAF6PDUWEcrne8-hu-DQmY24l7AeJ0JdI1XbiselEdWo0l7pxx-1PgMoFexPtJ-Py4rVoaY7EIaPPpCYwhgkWF=s1600"
+en_name: "Brown"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Brown](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_270.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjlJjbW9g15obyrf5ZMXSByNR-6OvkqffTWSCmJawQA2keVUiN1j_9O4MdVyJSEpXR7Ai4D3mfhz775WdWnS48O-oyZkZsv5bh8KLQDkzwAF6PDUWEcrne8-hu-DQmY24l7AeJ0JdI1XbiselEdWo0l7pxx-1PgMoFexPtJ-Py4rVoaY7EIaPPpCYwhgkWF=s1600)
 
-## Birthday Color for September 26th: Brown (`#7F3300`)
+
+## Birthday Color for September 26: Brown (`#7F3300`)
 
 ### 1. **Description of Brown (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ Styling with **Brown** is about embracing its rustic charm and timeless elegance
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For a perfect pairing, combine **Brown** with **Soft Blue**, the birthday color of January 30th. **Soft Blue’s** peaceful and **open-minded** nature creates a beautiful contrast with Brown’s grounded energy, offering a sense of **balance** and **harmony**. Together, they form a duo that invites you to stay **rooted** while embracing the beauty of life’s expansive possibilities.
+For a perfect pairing, combine **Brown** with **Soft Blue**, the birthday color of January 30. **Soft Blue’s** peaceful and **open-minded** nature creates a beautiful contrast with Brown’s grounded energy, offering a sense of **balance** and **harmony**. Together, they form a duo that invites you to stay **rooted** while embracing the beauty of life’s expansive possibilities.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

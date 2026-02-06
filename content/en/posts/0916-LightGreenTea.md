@@ -1,21 +1,27 @@
 ---
-title: "Light Green Tea, The Birthday Color of September 16th"
-date: 2026-09-16
-description: "The birthday color for September 16th is Light Green Tea (ABA88A). Its meaning is Subtle Charm, Calm, Peaceful."
-author: 365days
+title: "Light Green Tea, The Birthday Color of September 16"
+date: "2026-09-16"
+updated: "2026-09-16"
 tags:
-  - light green tea
-  - birthday color
-  - september 16th
-  - aba88a
-  - september
-  - deep ocean
-draft: false
+  - "light green tea"
+  - "birthday color"
+  - "september 16"
+  - "aba88a"
+  - "september"
+  - "deep ocean"
+description: "The birthday color for September 16 is Light Green Tea (ABA88A). Its meaning is Subtle Charm, Calm, Peaceful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj9gACn4C57zO5TLi61zCv3lwhs1IFeqs52UPKkQYu_x0C2BcJAnRYuqsCeRyXq51ByRpC7SBupyFzK7nuFNxZZ4HdyY1n1sqnsGpW0LLgA4L0rNYPlYz8ZFq451prn78MUzlwmPGIeTAWPA9uhM-kGQy3069cYj9JDqXsj9Jy0gyW8F1aIGVUTyNxhToZG=s1600"
+en_name: "LightGreenTea"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Light Green Tea](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_260.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj9gACn4C57zO5TLi61zCv3lwhs1IFeqs52UPKkQYu_x0C2BcJAnRYuqsCeRyXq51ByRpC7SBupyFzK7nuFNxZZ4HdyY1n1sqnsGpW0LLgA4L0rNYPlYz8ZFq451prn78MUzlwmPGIeTAWPA9uhM-kGQy3069cYj9JDqXsj9Jy0gyW8F1aIGVUTyNxhToZG=s1600)
 
-## Birthday Color for September 16th: Light Green Tea (`#ABA88A`)
+
+## Birthday Color for September 16: Light Green Tea (`#ABA88A`)
 
 ### 1. **Description of Light Green Tea (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ When styling with **Light Green Tea**, the key is to **let it shine on its own**
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For an intriguing touch, consider combining **Light Green Tea** with its **destiny partner color**, **Deep Ocean** (September 5th). **Deep Ocean**'s **mysterious** and **philosophical** nature creates a profound synergy with Light Green Tea’s calming energy, making for a dynamic yet peaceful combination. Together, they balance and enhance each other, blending **peace** with **depth** in a way that feels both harmonious and empowering.
+For an intriguing touch, consider combining **Light Green Tea** with its **destiny partner color**, **Deep Ocean** (September 5). **Deep Ocean**'s **mysterious** and **philosophical** nature creates a profound synergy with Light Green Tea’s calming energy, making for a dynamic yet peaceful combination. Together, they balance and enhance each other, blending **peace** with **depth** in a way that feels both harmonious and empowering.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

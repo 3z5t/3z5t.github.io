@@ -1,21 +1,27 @@
 ---
-title: "Midnight Violet, The Birthday Color of November 28th"
-date: 2026-11-28
-description: "The birthday color for November 28th is Midnight Violet (20202E). Its meaning is Mysterious, Elegant, Classy."
-author: 365days
+title: "Midnight Violet, The Birthday Color of November 28"
+date: "2026-11-28"
+updated: "2026-11-28"
 tags:
-  - midnight violet
-  - birthday color
-  - november 28th
-  - 20202e
-  - november
-  - bone
-draft: false
+  - "midnight violet"
+  - "birthday color"
+  - "november 28"
+  - "20202e"
+  - "november"
+  - "bone"
+description: "The birthday color for November 28 is Midnight Violet (20202E). Its meaning is Mysterious, Elegant, Classy."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgO8lsBzJxB27m8wZS8GbnIg2CbTT7FHL5rhhytqAjIu7BThQ_yVLklY0gt1o1iWzCYPQDHhQWAapLnngisY-FQ0TIL4TiIm3r6dBjiRjrtgSV7-GXmT51tMjnnJL2lbtXB14V2mosnmW7ATOo6I-yEDO4ENyIFopaGMjOGI7Y39yihz5pSEQBL5L-d9bEF=s1600"
+en_name: "MidnightViolet"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Midnight Violet](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_333.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgO8lsBzJxB27m8wZS8GbnIg2CbTT7FHL5rhhytqAjIu7BThQ_yVLklY0gt1o1iWzCYPQDHhQWAapLnngisY-FQ0TIL4TiIm3r6dBjiRjrtgSV7-GXmT51tMjnnJL2lbtXB14V2mosnmW7ATOo6I-yEDO4ENyIFopaGMjOGI7Y39yihz5pSEQBL5L-d9bEF=s1600)
 
-## Birthday Color for November 28th: Midnight Violet (`#20202E`)
+
+## Birthday Color for November 28: Midnight Violet (`#20202E`)
 
 ### 1. Description of Midnight Violet (Feeling and Traits)
 
@@ -35,7 +41,7 @@ When it comes to interiors, **Midnight Violet** adds an air of **luxury** and **
 
 ### 4. Plus Tip (Destiny Color)
 
-Pairing **Midnight Violet** with **Bone** (the birthday color of August 14th) creates a beautiful synergy. The warm, neutral tones of **Bone** provide a soft contrast to the depth of **Midnight Violet**, adding balance and harmony. This combination allows both colors to shine — the elegance of **Midnight Violet** and the grounded, stable qualities of **Bone** — creating a refined, serene atmosphere.
+Pairing **Midnight Violet** with **Bone** (the birthday color of August 14) creates a beautiful synergy. The warm, neutral tones of **Bone** provide a soft contrast to the depth of **Midnight Violet**, adding balance and harmony. This combination allows both colors to shine — the elegance of **Midnight Violet** and the grounded, stable qualities of **Bone** — creating a refined, serene atmosphere.
 
 ### 5. Conclusion (A Poem of Healing)
 

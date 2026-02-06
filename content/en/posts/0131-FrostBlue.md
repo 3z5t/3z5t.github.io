@@ -1,21 +1,30 @@
 ---
-title: "Frost Blue, The Birthday Color of January 31st"
-date: 2026-01-31
-description: "The birthday color for January 31st is Frost Blue (9999CC). Its meaning is Achievement, Perfectionist, Leadership."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-31'
+description: The birthday color for January 31 is Frost Blue (9999CC). Its meaning
+  is Achievement, Perfectionist, Leadership.
+en_name: FrostBlue
 tags:
-  - frost blue
-  - birthday color
-  - january 31st
-  - 9999cc
-  - january
-  - deep matcha
-draft: false
+- frost blue
+- birthday color
+- january 31
+- 9999cc
+- january
+- deep matcha
+postId: '110163647690376531'
+postUrl: https://the366days-en.blogspot.com/2026/01/frost-blue-birthday-color-of-january-31.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgnBRXZCzGTr2XJawy-5rhAHwX9D4D6NqoY5maRBm4oEloC3p7Jj11_JMlOAP4aBjnZQrtaaiPc_EwU37_VI6y2AUezmo-r4R9lHvTov2uFktLHwjU2B7l7_MhotJUSfqlj3O5KchiTAryQC0irWHkxveAFoThyg1qcNcKQITGFvEU44Xk_fCfBpb_shcJP=s1600
+title: Frost Blue, The Birthday Color of January 31
+updated: '2026-01-31'
 ---
 
-![Frost Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_031.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgnBRXZCzGTr2XJawy-5rhAHwX9D4D6NqoY5maRBm4oEloC3p7Jj11_JMlOAP4aBjnZQrtaaiPc_EwU37_VI6y2AUezmo-r4R9lHvTov2uFktLHwjU2B7l7_MhotJUSfqlj3O5KchiTAryQC0irWHkxveAFoThyg1qcNcKQITGFvEU44Xk_fCfBpb_shcJP=s1600)
 
-## Birthday Color for January 31st: Frost Blue (`#9999CC`)
+
+![Frost Blue, The Birthday Color of January 31](https://blogger.googleusercontent.com/img/a/AVvXsEgnBRXZCzGTr2XJawy-5rhAHwX9D4D6NqoY5maRBm4oEloC3p7Jj11_JMlOAP4aBjnZQrtaaiPc_EwU37_VI6y2AUezmo-r4R9lHvTov2uFktLHwjU2B7l7_MhotJUSfqlj3O5KchiTAryQC0irWHkxveAFoThyg1qcNcKQITGFvEU44Xk_fCfBpb_shcJP=s1600)
+
+## Birthday Color for January 31: Frost Blue (`#9999CC`)
 
 ### 1. Description of Frost Blue (Feeling and Traits)
 
@@ -31,7 +40,7 @@ In **fashion**, Frost Blue carries a refined elegance, often seen in **tailored 
 
 ### 4. Plus Tip (Destiny Color)
 
-To create an intriguing balance, consider combining **Frost Blue** with **Deep Matcha** (Hex: `#74703F`), the birthday color of September 14th. The **profound** and **wise** energy of Deep Matcha complements Frost Blue’s **sharp leadership** and **achievement-driven** nature, creating a harmonious blend of **grounded wisdom** and **focused ambition**.
+To create an intriguing balance, consider combining **Frost Blue** with **Deep Matcha** (Hex: `#74703F`), the birthday color of September 14. The **profound** and **wise** energy of Deep Matcha complements Frost Blue’s **sharp leadership** and **achievement-driven** nature, creating a harmonious blend of **grounded wisdom** and **focused ambition**.
 
 ### 5. Conclusion (A Poem of Healing)
 

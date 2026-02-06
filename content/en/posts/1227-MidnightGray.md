@@ -1,21 +1,27 @@
 ---
-title: "Midnight Gray, The Birthday Color of December 27th"
-date: 2026-12-27
-description: "The birthday color for December 27th is Midnight Gray (565269). Its meaning is Calm Personality, Mature, Peaceful."
-author: 365days
+title: "Midnight Gray, The Birthday Color of December 27"
+date: "2026-12-27"
+updated: "2026-12-27"
 tags:
-  - midnight gray
-  - birthday color
-  - december 27th
-  - 565269
-  - december
-  - light green tea
-draft: false
+  - "midnight gray"
+  - "birthday color"
+  - "december 27"
+  - "565269"
+  - "december"
+  - "light green tea"
+description: "The birthday color for December 27 is Midnight Gray (565269). Its meaning is Calm Personality, Mature, Peaceful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg6Gex9F7HVHFbazPTWGcSK0FuFeyDA83q71U-OaQM_ztCe8s5qBcVJ9Z1z43doyHgoGsgGeZQWq096r_pJrz3yKmHFk3xNCEAizyXljgKmoRVizt3WXj3BGRZ4EfE6bqIg4WbeCV8iniLSLsF9yGEX9MT4Ag2jXD5xFtRZqjAN4P1EoC6KqHecHsV--3UF=s1600"
+en_name: "MidnightGray"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Midnight Gray](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_362.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg6Gex9F7HVHFbazPTWGcSK0FuFeyDA83q71U-OaQM_ztCe8s5qBcVJ9Z1z43doyHgoGsgGeZQWq096r_pJrz3yKmHFk3xNCEAizyXljgKmoRVizt3WXj3BGRZ4EfE6bqIg4WbeCV8iniLSLsF9yGEX9MT4Ag2jXD5xFtRZqjAN4P1EoC6KqHecHsV--3UF=s1600)
 
-## Birthday Color for December 27th: Midnight Gray (`#565269`)
+
+## Birthday Color for December 27: Midnight Gray (`#565269`)
 
 ### 1. Description of Midnight Gray (Feeling and Traits)
 
@@ -37,7 +43,7 @@ In **interior design**, Midnight Gray is ideal for creating a sanctuary of calm.
 
 ### 4. Plus Tip (Destiny Color)
 
-The partner color, **Light Green Tea**, born on **September 16th**, adds a refreshing contrast to the quiet depth of Midnight Gray. When combined, the **soothing tones** of both colors create a harmonious, peaceful environment that supports relaxation and self-reflection. **Light Green Tea** brings a subtle, natural vibrancy that enhances the calming, mature energy of Midnight Gray, creating a balanced atmosphere of comfort and quiet contemplation.
+The partner color, **Light Green Tea**, born on **September 16**, adds a refreshing contrast to the quiet depth of Midnight Gray. When combined, the **soothing tones** of both colors create a harmonious, peaceful environment that supports relaxation and self-reflection. **Light Green Tea** brings a subtle, natural vibrancy that enhances the calming, mature energy of Midnight Gray, creating a balanced atmosphere of comfort and quiet contemplation.
 
 ### 5. Conclusion (A Poem of Healing)
 

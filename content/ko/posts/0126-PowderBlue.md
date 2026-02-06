@@ -19,6 +19,9 @@ title: '1월 26일, 오늘을 닮은 색: 파우더 블루'
 updated: '2026-01-26'
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgKInOEmfoywYZJWNRYoAjynxD9yUn7UPv7m_5n-LG0OcsSNTzAFOcS_laqZrhEGrQJNZIcquV1GJqqcfc1R9ivUJ7Le_87CSUmWo_eonYN3xNoeu7d8uK-vZWP_3gv6KRMKO8eOQhLEfNLEh6UGQ0G14SCrwMj7n67kkM6K_xrndtREB4cqXx68YyrVpYS=s1600)
+
+
 **1월 26일의 탄생색: 파우더 블루 (#C4E8E6)**
 
 ### 1. 파우더 블루에 대한 설명 (색의 느낌과 특징)

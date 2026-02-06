@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjDFTe1yvJLVZqUbJ1az607WnZiarOr4wvXcnS_qAJDxQmUUU90eTH12W0BxgmecyHisDSzDfyygEHGDeCz3Hvo4ka3TS1HNRhks7JVlSYidTN-UxIxyjQLzLbgY-3t5efNaU5ffIDGqK7DIn7cF5uFJqcUfkxIFFgpj1csgo_2u5MNGeZFaLib2zOxFm0Q=s1600)
+
 ## 4월 12일의 탄생색: 완두콩 (`#8C9E58`)
 
 ### 1. 완두콩에 대한 설명 (색의 느낌과 특징)

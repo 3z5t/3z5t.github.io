@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi980ycSjmsEc-xMD82UeY1aConnZGlB-u5691oUDAY3B1brqoFGGiGoj9lCbjXsIGU5agVJtkO710nd9UHMNHXPyZFclVBPkdqdbAFxXrs9VE0GHYRDsuwueI_2MFDBAifGGDIncfVD5u5O6JSTN4swnTycGbjE-vPAJxdxQAFcGzke6v7VQhnQh3NMDot=s1600)
+
 ## 12월 18일의 탄생색: 노블 스카이블루 (`#1FBEE3`)
 
 ### 1. 노블 스카이블루에 대한 설명 (색의 느낌과 특징)

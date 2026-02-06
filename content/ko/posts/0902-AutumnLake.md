@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgK7GhJV91UjQxzEyN_60qog-3Wf6WgTO3b5ZeMEh-es4ojM_RQQMGsOImLRTWWK-2pS2Qo4_LOFxCOD17JQ-u2uU47SNF1TMVv-yvzQAcmrXS0JkDI1yvcl-BBtLR6pQCnN5wC7tWQFx_wyT5ntz8JvWJkbJa3BGbRRQwv9T2RHMD2VD0nqxaFQWP_IHFa=s1600)
+
 ## 9월 2일의 탄생색: 가을 호수 (`#55779B`)
 
 ### 1. 가을 호수에 대한 설명: 내면으로 침잠하는 고요한 푸른빛

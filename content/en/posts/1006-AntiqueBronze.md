@@ -1,21 +1,27 @@
 ---
-title: "Antique Bronze, The Birthday Color of October 6th"
-date: 2026-10-06
-description: "The birthday color for October 6th is Antique Bronze (9B6066). Its meaning is Classical, Sturdy, Valuable."
-author: 365days
+title: "Antique Bronze, The Birthday Color of October 6"
+date: "2026-10-06"
+updated: "2026-10-06"
 tags:
-  - antique bronze
-  - birthday color
-  - october 6th
-  - 9b6066
-  - october
-  - elegant jade
-draft: false
+  - "antique bronze"
+  - "birthday color"
+  - "october 6"
+  - "9b6066"
+  - "october"
+  - "elegant jade"
+description: "The birthday color for October 6 is Antique Bronze (9B6066). Its meaning is Classical, Sturdy, Valuable."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiAk2CLQxZkG14Rv-_eo11j2qVOCXlXOnrh-29aW7BLu6DnQDbAtT9XdJLQ9EIDDwl8ZGsodj3-7bDG0JAm6ixOQ9ozy17GdlnfEXs_bQeFdSRqlc7aPMXe_lBpG1uQtX3ld_-KktSFkdnW3CZ5XtCsUpmOGd_xcXFvvmnZvC0S-SBJLdYapZPtIFUei2hx=s1600"
+en_name: "AntiqueBronze"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Antique Bronze](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_280.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiAk2CLQxZkG14Rv-_eo11j2qVOCXlXOnrh-29aW7BLu6DnQDbAtT9XdJLQ9EIDDwl8ZGsodj3-7bDG0JAm6ixOQ9ozy17GdlnfEXs_bQeFdSRqlc7aPMXe_lBpG1uQtX3ld_-KktSFkdnW3CZ5XtCsUpmOGd_xcXFvvmnZvC0S-SBJLdYapZPtIFUei2hx=s1600)
 
-## Birthday Color for October 6th: Antique Bronze (`#9B6066`)
+
+## Birthday Color for October 6: Antique Bronze (`#9B6066`)
 
 ### 1. **Description of Antique Bronze (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ When it comes to styling with **Antique Bronze**, the key is to let the color **
 
 ### 4. **Plus Tip (Destiny Color)**
 
-Combining **Antique Bronze** with **Elegant Jade**, the birthday color of **April 23rd**, creates a harmonious fusion of **stability** and **peacefulness**. The **deep grounding nature** of Antique Bronze blends beautifully with the **soothing calm** of Elegant Jade, enhancing each other’s strengths and creating a serene yet grounded energy.
+Combining **Antique Bronze** with **Elegant Jade**, the birthday color of **April 23**, creates a harmonious fusion of **stability** and **peacefulness**. The **deep grounding nature** of Antique Bronze blends beautifully with the **soothing calm** of Elegant Jade, enhancing each other’s strengths and creating a serene yet grounded energy.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

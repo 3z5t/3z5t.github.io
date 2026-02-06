@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi4X_TE8lOUowfdCZ27qp6L2GCyy4aOMZ3HwC_9vXk2rasN2Y7omxCeJ0NVMvaYvR7dz2nK0-1tgbNuD-TtxjGH0Rq1p8jxe1k_N_fUGtLYB2ovVV3Xhe5fLfptZxsOG21rKTygFK8_8c3-b5zcL2rOMj7a4VUPA4OIFOq4-RYO1CV3Ztt0DWAbGHaHVLUK=s1600)
+
 ## 9월 13일의 탄생색: 여름빛 모래사장 (`#BF9F87`)
 
 ### 1. 여름빛 모래사장에 대한 설명: 계절의 온기를 품은 그리움의 색

@@ -1,21 +1,27 @@
 ---
-title: "Organized Stone Wall, The Birthday Color of September 9th"
-date: 2026-09-09
-description: "The birthday color for September 9th is Organized Stone Wall (665E5F). Its meaning is Stable, Keeping Tradition, Trustworthy."
-author: 365days
+title: "Organized Stone Wall, The Birthday Color of September 9"
+date: "2026-09-09"
+updated: "2026-09-09"
 tags:
-  - organized stone wall
-  - birthday color
-  - september 9th
-  - 665e5f
-  - september
-  - moose gray
-draft: false
+  - "organized stone wall"
+  - "birthday color"
+  - "september 9"
+  - "665e5f"
+  - "september"
+  - "moose gray"
+description: "The birthday color for September 9 is Organized Stone Wall (665E5F). Its meaning is Stable, Keeping Tradition, Trustworthy."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj1jCzG80bYxOi7HL8ZsVnTuFmzEA7glBk2W9hljXFmiSfHYLJWpahW_1wmUNTu5AFxxnz1XkgDXnN5hCfNFmMQKja68lW_m8VnXE-EtZlV6z9ky-7bp0SLLKaOoxODhJwtGJ7ZopzIFeAmHM9undo9IoPqoKBjYLB6Jrd0qEjhCgST03jOiT0Ez0Ig9OKe=s1600"
+en_name: "OrganizedStoneWall"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Organized Stone Wall](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_253.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj1jCzG80bYxOi7HL8ZsVnTuFmzEA7glBk2W9hljXFmiSfHYLJWpahW_1wmUNTu5AFxxnz1XkgDXnN5hCfNFmMQKja68lW_m8VnXE-EtZlV6z9ky-7bp0SLLKaOoxODhJwtGJ7ZopzIFeAmHM9undo9IoPqoKBjYLB6Jrd0qEjhCgST03jOiT0Ez0Ig9OKe=s1600)
 
-## Birthday Color for September 9th: Organized Stone Wall (`#665E5F`)
+
+## Birthday Color for September 9: Organized Stone Wall (`#665E5F`)
 
 ### 1. Description of Organized Stone Wall (Feeling and Traits)
 
@@ -41,7 +47,7 @@ When it comes to interior design, this color shines as an excellent choice for *
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Moose Gray**, the birthday color for November 7th, **Organized Stone Wall** gains a new depth, adding a **moderate**, **balanced** element to the otherwise strong presence of stone. Together, they form a harmonious, earthy combination that is both **trustworthy** and **insightful**, creating a sense of peace and well-being wherever they are used.
+When combined with **Moose Gray**, the birthday color for November 7, **Organized Stone Wall** gains a new depth, adding a **moderate**, **balanced** element to the otherwise strong presence of stone. Together, they form a harmonious, earthy combination that is both **trustworthy** and **insightful**, creating a sense of peace and well-being wherever they are used.
 
 ### 5. Conclusion (A Poem of Healing)
 

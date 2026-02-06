@@ -1,21 +1,27 @@
 ---
-title: "Autumn Night Sky, The Birthday Color of November 1st"
-date: 2026-11-01
-description: "The birthday color for November 1st is Autumn Night Sky (3C3232). Its meaning is Contemplative, Meditative, Insightful."
-author: 365days
+title: "Autumn Night Sky, The Birthday Color of November 1"
+date: "2026-11-01"
+updated: "2026-11-01"
 tags:
-  - autumn night sky
-  - birthday color
-  - november 1st
-  - 3c3232
-  - november
-  - silver antique
-draft: false
+  - "autumn night sky"
+  - "birthday color"
+  - "november 1"
+  - "3c3232"
+  - "november"
+  - "silver antique"
+description: "The birthday color for November 1 is Autumn Night Sky (3C3232). Its meaning is Contemplative, Meditative, Insightful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjF8wpmeG6q-YHIbrMiJEsLUwa0xE6d4iL-lJcQNRmB68PPNC4kbwc_iwawj0aBRF8UPkGS-00RyFYjYj0pwEvnsS0jsaKgV_oGmXoBhKzRGrctxx22uO4syZNQnIdjAR3oIv9hclnYddFFRIkONctbUmGYvtuZ8WNs4ZrZGS97iathTDq-VgLfC8wRsF7v=s1600"
+en_name: "AutumnNightSky"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Autumn Night Sky](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_306.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjF8wpmeG6q-YHIbrMiJEsLUwa0xE6d4iL-lJcQNRmB68PPNC4kbwc_iwawj0aBRF8UPkGS-00RyFYjYj0pwEvnsS0jsaKgV_oGmXoBhKzRGrctxx22uO4syZNQnIdjAR3oIv9hclnYddFFRIkONctbUmGYvtuZ8WNs4ZrZGS97iathTDq-VgLfC8wRsF7v=s1600)
 
-## Birthday Color for November 1st: Autumn Night Sky (`#3C3232`)
+
+## Birthday Color for November 1: Autumn Night Sky (`#3C3232`)
 
 ### 1. Description of Autumn Night Sky (Feeling and Traits)
 
@@ -37,7 +43,7 @@ As for interiors, **Autumn Night Sky** is perfect for creating a **relaxing**, *
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **November 6th**, the partner color **Silver Antique** (Hex: `#C6C3C6`) is all about **classical elegance** and timeless value. Combining **Autumn Night Sky** with **Silver Antique** creates a beautiful synergy—**rich depth** meets **subtle refinement**, offering a perfect balance between introspection and grace.
+For those born on **November 6**, the partner color **Silver Antique** (Hex: `#C6C3C6`) is all about **classical elegance** and timeless value. Combining **Autumn Night Sky** with **Silver Antique** creates a beautiful synergy—**rich depth** meets **subtle refinement**, offering a perfect balance between introspection and grace.
 
 ### 5. Conclusion (A Poem of Healing)
 

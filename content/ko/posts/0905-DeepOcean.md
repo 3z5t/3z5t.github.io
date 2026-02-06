@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiRBMolJrIP9koxV8ar2EhkjbR4NJ85nuodFsWaIfT6431L5ZGjFsrLIzLIPt9AlZfbjq-Jhrg5inzKoAfYhMkJy_nJjUE3C70JGgysR0FmgemMJu3M5_SeQonZC1OBr4fjLeaMyle5JSkVukYmglegTwK8El3ADV8BJAy8T70Hx14UOCfhyN04IiOi7zfX=s1600)
+
 ## 9월 5일의 탄생색: 심해 (`#5A6078`)
 
 ### 1. 심해에 대한 설명: 닿을 수 없는 깊이가 빚어낸 신비로운 푸른빛

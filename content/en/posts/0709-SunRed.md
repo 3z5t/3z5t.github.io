@@ -1,21 +1,27 @@
 ---
-title: "Sun Red, The Birthday Color of July 9th"
-date: 2026-07-09
-description: "The birthday color for July 9th is Sun Red (F01313). Its meaning is Full of Energy, Bright Light, Leadership."
-author: 365days
+title: "Sun Red, The Birthday Color of July 9"
+date: "2026-07-09"
+updated: "2026-07-09"
 tags:
-  - sun red
-  - birthday color
-  - july 9th
-  - f01313
-  - july
-  - aqua
-draft: false
+  - "sun red"
+  - "birthday color"
+  - "july 9"
+  - "f01313"
+  - "july"
+  - "aqua"
+description: "The birthday color for July 9 is Sun Red (F01313). Its meaning is Full of Energy, Bright Light, Leadership."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhQzvEHuEEK7sIyp-m32S-oNyK2PlpN5eoY_1iG2wmZxhYuL3cg2kpAZVFsp_dk6WvJ6gH1wcOsDPF1HV07NGHoI5kC2zPgQxsbzarOWkGz3StLV1fE2xFlnb558pT9eR9lx-ueTFpuAKv2_AyxpxRx3xDWz3b6GhADkxp0KlYgaB0EAlTTjrf8Gp3hnuQE=s1600"
+en_name: "SunRed"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Sun Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_191.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhQzvEHuEEK7sIyp-m32S-oNyK2PlpN5eoY_1iG2wmZxhYuL3cg2kpAZVFsp_dk6WvJ6gH1wcOsDPF1HV07NGHoI5kC2zPgQxsbzarOWkGz3StLV1fE2xFlnb558pT9eR9lx-ueTFpuAKv2_AyxpxRx3xDWz3b6GhADkxp0KlYgaB0EAlTTjrf8Gp3hnuQE=s1600)
 
-## Birthday Color for July 9th: Sun Red (`#F01313`)
+
+## Birthday Color for July 9: Sun Red (`#F01313`)
 
 ### 1. Description of Sun Red (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Sun Red** is perfect for those who want to make a bold statement. 
 
 ### 4. Plus Tip (Destiny Color)
 
-Pairing **Sun Red** with **Aqua** (Hex: `#00FFFF`), the birthday color of July 26th, creates an interesting and complementary balance. While **Sun Red** brings **energy** and **leadership**, **Aqua** offers a refreshing, **cool personality** that balances the fiery intensity. Together, these colors symbolize a powerful fusion of **creativity** and **clarity**, making them perfect for those who are both visionaries and doers. Their combination brings forth a sense of **balance**, where **action** and **calm** coexist, making them a dynamic duo for any creative endeavor.
+Pairing **Sun Red** with **Aqua** (Hex: `#00FFFF`), the birthday color of July 26, creates an interesting and complementary balance. While **Sun Red** brings **energy** and **leadership**, **Aqua** offers a refreshing, **cool personality** that balances the fiery intensity. Together, these colors symbolize a powerful fusion of **creativity** and **clarity**, making them perfect for those who are both visionaries and doers. Their combination brings forth a sense of **balance**, where **action** and **calm** coexist, making them a dynamic duo for any creative endeavor.
 
 ### 5. Conclusion (A Poem of Healing)
 

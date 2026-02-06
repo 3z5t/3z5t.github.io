@@ -1,21 +1,27 @@
 ---
-title: "Cream, The Birthday Color of May 9th"
-date: 2026-05-09
-description: "The birthday color for May 9th is Cream (FFFFCC). Its meaning is Soft, Warm, Pure."
-author: 365days
+title: "Cream, The Birthday Color of May 9"
+date: "2026-05-09"
+updated: "2026-05-09"
 tags:
-  - cream
-  - birthday color
-  - may 9th
-  - ffffcc
-  - may
-  - midnight navy
-draft: false
+  - "cream"
+  - "birthday color"
+  - "may 9"
+  - "ffffcc"
+  - "may"
+  - "midnight navy"
+description: "The birthday color for May 9 is Cream (FFFFCC). Its meaning is Soft, Warm, Pure."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgh2DKMSMbpPFC-mxXFDCo05vGr4_qU1A_EmYzfBvtKvb1YRuPm64kpSubqa2CBQZ2nVHHfsqRSiPd7lXG8OoM8Fr7-sQJcZwGaXEou5n2Pp9c09iwFN-heQPAS66bnorteOJkaPYeOZdSdY4gyjW6tG2SpvqRzHbV8GnaA-uaBc8ZGMt8w-s8N-h0e54XQ=s1600"
+en_name: "Cream"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Cream](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_130.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgh2DKMSMbpPFC-mxXFDCo05vGr4_qU1A_EmYzfBvtKvb1YRuPm64kpSubqa2CBQZ2nVHHfsqRSiPd7lXG8OoM8Fr7-sQJcZwGaXEou5n2Pp9c09iwFN-heQPAS66bnorteOJkaPYeOZdSdY4gyjW6tG2SpvqRzHbV8GnaA-uaBc8ZGMt8w-s8N-h0e54XQ=s1600)
 
-## Birthday Color for May 9th: Cream (`#FFFFCC`)
+
+## Birthday Color for May 9: Cream (`#FFFFCC`)
 
 ### 1. Description of Cream (Feeling and Traits)
 
@@ -31,7 +37,7 @@ When styling with **Cream**, think of it as a base that highlights the simple be
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **May 9th**, a little magic happens when you bring in **Midnight Navy** (Hex: `#000033`). The deep, profound **Midnight Navy** balances the warmth of **Cream**, creating a blend that feels both grounded and expansive. The combination brings out the depth of your peaceful nature, while also adding a touch of mystery. Together, these colors are a reminder that calmness and complexity can coexist in the most beautiful ways.
+For those born on **May 9**, a little magic happens when you bring in **Midnight Navy** (Hex: `#000033`). The deep, profound **Midnight Navy** balances the warmth of **Cream**, creating a blend that feels both grounded and expansive. The combination brings out the depth of your peaceful nature, while also adding a touch of mystery. Together, these colors are a reminder that calmness and complexity can coexist in the most beautiful ways.
 
 ### 5. Conclusion (A Poem of Healing)
 

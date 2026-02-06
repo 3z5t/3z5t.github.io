@@ -19,6 +19,9 @@ title: '1월 23일, 오늘을 닮은 색: 어반 스카이'
 updated: '2026-01-23'
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhEIRaQT5XH38UxoASyHZCqLMjYUrolbFUzlSijnfSqdEcYYio9Yao-Nq7AAthiwFb83GTpXvwxXmwmp4NaEjTLnAVOJl647a8tnvdebOgQ32V-kQItREn3scLuSc9XDUK1919IZ6th5v6vksI8XGIXbkkQTpH34-0coDJNGLzLUJ7IWKZs3G35pnAY2zoE=s1600)
+
+
 **1월 23일의 탄생색: 어반 스카이 (#BBC1CA)**
 
 ### 1. 어반 스카이에 대한 설명 (색의 느낌과 특징)

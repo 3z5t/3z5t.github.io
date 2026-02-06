@@ -1,21 +1,27 @@
 ---
-title: "Classic Pink, The Birthday Color of March 17th"
-date: 2026-03-17
-description: "The birthday color for March 17th is Classic Pink (FFC0CB). Its meaning is Lovely, Romantic, Gentle."
-author: 365days
+title: "Classic Pink, The Birthday Color of March 17"
+date: "2026-03-17"
+updated: "2026-03-17"
 tags:
-  - classic pink
-  - birthday color
-  - march 17th
-  - ffc0cb
-  - march
-  - deep night sky
-draft: false
+  - "classic pink"
+  - "birthday color"
+  - "march 17"
+  - "ffc0cb"
+  - "march"
+  - "deep night sky"
+description: "The birthday color for March 17 is Classic Pink (FFC0CB). Its meaning is Lovely, Romantic, Gentle."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgtpp2hopwwdpNi8ijkM7NBqBW3ejAaTZvyXJ7mkj9GZjxovqRlzlvlC1hdJ1-bufehfWbgB7g1veF4w76-aF5mJysJWU1tw4Hf1llbHIbYIVrOQsODszL0Tvq2YYkGUtYmVMa-zcNbal1odpeSAKZDw4jfoXZY6VnA8Rnwd5Tdf4mZYS-Y3BVgbLF-7i5T=s1600"
+en_name: "ClassicPink"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Classic Pink](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_077.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgtpp2hopwwdpNi8ijkM7NBqBW3ejAaTZvyXJ7mkj9GZjxovqRlzlvlC1hdJ1-bufehfWbgB7g1veF4w76-aF5mJysJWU1tw4Hf1llbHIbYIVrOQsODszL0Tvq2YYkGUtYmVMa-zcNbal1odpeSAKZDw4jfoXZY6VnA8Rnwd5Tdf4mZYS-Y3BVgbLF-7i5T=s1600)
 
-## Birthday Color for March 17th: Classic Pink (`#FFC0CB`)
+
+## Birthday Color for March 17: Classic Pink (`#FFC0CB`)
 
 ### 1. Description of Classic Pink (Feeling and Traits)
 
@@ -33,7 +39,7 @@ In interior design, **Classic Pink** can be used to create an atmosphere of tran
 
 ### 4. Plus Tip (Destiny Color)
 
-For a striking contrast, consider pairing **Classic Pink** with **Deep Night Sky**, the birthday color for September 3rd. The blend of **romantic, gentle** energy from **Classic Pink** and the **insightful, mysterious** depth of **Deep Night Sky** creates a beautiful balance between light and darkness, softness and strength. This pairing offers a sense of harmony between the nurturing warmth of pink and the contemplative depth of the night, making it perfect for those who seek both affection and introspection.
+For a striking contrast, consider pairing **Classic Pink** with **Deep Night Sky**, the birthday color for September 3. The blend of **romantic, gentle** energy from **Classic Pink** and the **insightful, mysterious** depth of **Deep Night Sky** creates a beautiful balance between light and darkness, softness and strength. This pairing offers a sense of harmony between the nurturing warmth of pink and the contemplative depth of the night, making it perfect for those who seek both affection and introspection.
 
 ### 5. Conclusion (A Poem of Healing)
 

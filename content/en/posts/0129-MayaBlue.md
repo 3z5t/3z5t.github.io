@@ -1,21 +1,30 @@
 ---
-title: "Maya Blue, The Birthday Color of January 29th"
-date: 2026-01-29
-description: "The birthday color for January 29th is Maya Blue (6699FF). Its meaning is Idealistic, Purity, Creativity."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-29'
+description: The birthday color for January 29 is Maya Blue (6699FF). Its meaning
+  is Idealistic, Purity, Creativity.
+en_name: MayaBlue
 tags:
-  - maya blue
-  - birthday color
-  - january 29th
-  - 6699ff
-  - january
-  - soft ochre
-draft: false
+- maya blue
+- birthday color
+- january 29
+- 6699ff
+- january
+- soft ochre
+postId: '4029504250240792105'
+postUrl: https://the366days-en.blogspot.com/2026/01/maya-blue-birthday-color-of-january-29.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgUsq0AUj-kWKzP0VzcngrydRtZJ2nvbUVX_SrPv7o5wwx-BVVr6BWY_NWAJSVixpvML1KmPPrMivbIaMkn8m9Rw-hoq5eLA3TbZQz4y1MlbDLXKbqslYcWRoOBXuaJT_yiSNdISPfyex2dDA8dNxbXL8FF2bMkI0HK2QslbhbTANQyzYBEnV5KESh8uZxD=s1600
+title: Maya Blue, The Birthday Color of January 29
+updated: '2026-01-29'
 ---
 
-![Maya Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_029.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgUsq0AUj-kWKzP0VzcngrydRtZJ2nvbUVX_SrPv7o5wwx-BVVr6BWY_NWAJSVixpvML1KmPPrMivbIaMkn8m9Rw-hoq5eLA3TbZQz4y1MlbDLXKbqslYcWRoOBXuaJT_yiSNdISPfyex2dDA8dNxbXL8FF2bMkI0HK2QslbhbTANQyzYBEnV5KESh8uZxD=s1600)
 
-## Birthday Color for January 29th: Maya Blue (`#6699FF`)
+
+![Maya Blue, The Birthday Color of January 29](https://blogger.googleusercontent.com/img/a/AVvXsEgUsq0AUj-kWKzP0VzcngrydRtZJ2nvbUVX_SrPv7o5wwx-BVVr6BWY_NWAJSVixpvML1KmPPrMivbIaMkn8m9Rw-hoq5eLA3TbZQz4y1MlbDLXKbqslYcWRoOBXuaJT_yiSNdISPfyex2dDA8dNxbXL8FF2bMkI0HK2QslbhbTANQyzYBEnV5KESh8uZxD=s1600)
+
+## Birthday Color for January 29: Maya Blue (`#6699FF`)
 
 ### 1. Description of Maya Blue (Feeling and Traits)
 
@@ -31,7 +40,7 @@ In **fashion**, **Maya Blue** is an ideal color for creating a look that is **fr
 
 ### 4. Plus Tip (Destiny Color)
 
-To add balance to Maya Blue’s airy lightness, consider combining it with **Soft Ochre** (Hex: `#926630`), the birthday color of October 19th. Soft Ochre brings an earthy, **stable** presence that grounds the ethereal nature of Maya Blue, creating a harmonious synergy between **creativity** and **stability**.
+To add balance to Maya Blue’s airy lightness, consider combining it with **Soft Ochre** (Hex: `#926630`), the birthday color of October 19. Soft Ochre brings an earthy, **stable** presence that grounds the ethereal nature of Maya Blue, creating a harmonious synergy between **creativity** and **stability**.
 
 ### 5. Conclusion (A Poem of Healing)
 

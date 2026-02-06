@@ -1,21 +1,27 @@
 ---
-title: "Vintage Tulip, The Birthday Color of December 4th"
-date: 2026-12-04
-description: "The birthday color for December 4th is Vintage Tulip (B80C03). Its meaning is Profound, Mysterious, Serene."
-author: 365days
+title: "Vintage Tulip, The Birthday Color of December 4"
+date: "2026-12-04"
+updated: "2026-12-04"
 tags:
-  - vintage tulip
-  - birthday color
-  - december 4th
-  - b80c03
-  - december
-  - light sky
-draft: false
+  - "vintage tulip"
+  - "birthday color"
+  - "december 4"
+  - "b80c03"
+  - "december"
+  - "light sky"
+description: "The birthday color for December 4 is Vintage Tulip (B80C03). Its meaning is Profound, Mysterious, Serene."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg0wg_sCxQsSXgEzH5Bx5cUf9z-1PIFLLOcfAMdniGHVPrZc1D8e9r4xqSpwRy6xY7FqH0BWdXhj8TI_mIa6QQb6wspYEQAbInEUiALB8JrScTuHOsHFfC3NaeA9vUimVl_IM5CsXn2APOqhZs9eVWYm-iVlH_V5KZURNV1m338wBo8IztoHMFNBX9sxzEj=s1600"
+en_name: "VintageTulip"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Vintage Tulip](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_339.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg0wg_sCxQsSXgEzH5Bx5cUf9z-1PIFLLOcfAMdniGHVPrZc1D8e9r4xqSpwRy6xY7FqH0BWdXhj8TI_mIa6QQb6wspYEQAbInEUiALB8JrScTuHOsHFfC3NaeA9vUimVl_IM5CsXn2APOqhZs9eVWYm-iVlH_V5KZURNV1m338wBo8IztoHMFNBX9sxzEj=s1600)
 
-## Birthday Color for December 4th: Vintage Tulip (`#B80C03`)
+
+## Birthday Color for December 4: Vintage Tulip (`#B80C03`)
 
 ### 1. Description of Vintage Tulip (Feeling and Traits)
 
@@ -35,7 +41,7 @@ In interior design, **Vintage Tulip** can be used to create a space that is both
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Light Sky** (the birthday color of July 22nd), **Vintage Tulip** creates a beautiful contrast between **mystery** and **clarity**. While **Vintage Tulip** offers depth and warmth, **Light Sky** brings in a refreshing, bright energy that balances the intensity of red with a sense of **openness**. The combination creates a harmonious blend of emotional depth and uplifting clarity, making for an inspiring and dynamic pairing.
+When combined with **Light Sky** (the birthday color of July 22), **Vintage Tulip** creates a beautiful contrast between **mystery** and **clarity**. While **Vintage Tulip** offers depth and warmth, **Light Sky** brings in a refreshing, bright energy that balances the intensity of red with a sense of **openness**. The combination creates a harmonious blend of emotional depth and uplifting clarity, making for an inspiring and dynamic pairing.
 
 ### 5. Conclusion (A Poem of Healing)
 

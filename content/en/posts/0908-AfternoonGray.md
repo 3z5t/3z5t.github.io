@@ -1,21 +1,27 @@
 ---
-title: "Afternoon Gray, The Birthday Color of September 8th"
-date: 2026-09-08
-description: "The birthday color for September 8th is Afternoon Gray (75787B). Its meaning is Mature, Wise, Balanced."
-author: 365days
+title: "Afternoon Gray, The Birthday Color of September 8"
+date: "2026-09-08"
+updated: "2026-09-08"
 tags:
-  - afternoon gray
-  - birthday color
-  - september 8th
-  - 75787b
-  - september
-  - urban silver
-draft: false
+  - "afternoon gray"
+  - "birthday color"
+  - "september 8"
+  - "75787b"
+  - "september"
+  - "urban silver"
+description: "The birthday color for September 8 is Afternoon Gray (75787B). Its meaning is Mature, Wise, Balanced."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgN6RPaaM62TsrIcpqeATdf06EaZBSZHNQLTBOdSAphu9ZUcMtRWGdd7jMhtKzfuntEJcL91KynTt8E9heFjxuQljs9ehDBVbiN90P0YIyao7iKVDnPWb-bZztMKWdAsU1X4ZfHSUW7zQCmXcCQY4_t8K9Jp8qf0Im3dyMLxiokYmpGFaHUKVkFlyqx3WAt=s1600"
+en_name: "AfternoonGray"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Afternoon Gray](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_252.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgN6RPaaM62TsrIcpqeATdf06EaZBSZHNQLTBOdSAphu9ZUcMtRWGdd7jMhtKzfuntEJcL91KynTt8E9heFjxuQljs9ehDBVbiN90P0YIyao7iKVDnPWb-bZztMKWdAsU1X4ZfHSUW7zQCmXcCQY4_t8K9Jp8qf0Im3dyMLxiokYmpGFaHUKVkFlyqx3WAt=s1600)
 
-## Birthday Color for September 8th: Afternoon Gray (`#75787B`)
+
+## Birthday Color for September 8: Afternoon Gray (`#75787B`)
 
 ### 1. Description of Afternoon Gray (Feeling and Traits)
 
@@ -39,7 +45,7 @@ In interior design, **Afternoon Gray** brings warmth and tranquility to any spac
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Urban Silver**, the birthday color for January 3rd, **Afternoon Gray** gains a sense of quiet strength and **balance**. The combination creates a harmonious blend of **mature wisdom** and **clarity**, where both colors complement each other to form a look or atmosphere that feels serene, insightful, and grounded.
+When paired with **Urban Silver**, the birthday color for January 3, **Afternoon Gray** gains a sense of quiet strength and **balance**. The combination creates a harmonious blend of **mature wisdom** and **clarity**, where both colors complement each other to form a look or atmosphere that feels serene, insightful, and grounded.
 
 ### 5. Conclusion (A Poem of Healing)
 

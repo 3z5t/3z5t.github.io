@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEge2wiqnTcWmDmmte2I1wyJNPVXXOTdXdFOhs2EvIGEIafsUT2hAex1q5MXTk7h8E3_-oCCUVrvSuZ3tEjl7VcerKVoKWwnuISRo1ZtJF7-SFwLBAvv8NRGxmMZk3edJ4UhBRNn6a4j1WiMarbrWBJDlJc_YQvrZmuuE6CGnw9GYvz4pRIwd1Pqmo7MkQIv=s1600)
+
 ## 4월 28일의 탄생색: 숲 그린 (`#228B22`)
 
 ### 1. 숲 그린에 대한 설명 (색의 느낌과 특징)

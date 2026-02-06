@@ -1,21 +1,27 @@
 ---
-title: "Yellow Ochre, The Birthday Color of October 20th"
-date: 2026-10-20
-description: "The birthday color for October 20th is Yellow Ochre (B28E58). Its meaning is Abundant, Grateful, Generous."
-author: 365days
+title: "Yellow Ochre, The Birthday Color of October 20"
+date: "2026-10-20"
+updated: "2026-10-20"
 tags:
-  - yellow ochre
-  - birthday color
-  - october 20th
-  - b28e58
-  - october
-  - autumn lake
-draft: false
+  - "yellow ochre"
+  - "birthday color"
+  - "october 20"
+  - "b28e58"
+  - "october"
+  - "autumn lake"
+description: "The birthday color for October 20 is Yellow Ochre (B28E58). Its meaning is Abundant, Grateful, Generous."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhtHqRuU_GnZPNazPhvI5ZayLWDAczj3SzV0MgMUCBUXER2WHtYy6P3kBGlTLoUM1NAFVzsBuOXCfVc8Tn1N5SWkYOVPwwh6uEKi1-22698xHMXEFvUc4Jh7nDKDoCqskFrA1S-BdpJQcJMX9fsnvwZgyjGab6_JyZdS6wcgO0824-Q7B1vOUTR5hfSMZqR=s1600"
+en_name: "YellowOchre"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Yellow Ochre](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_294.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhtHqRuU_GnZPNazPhvI5ZayLWDAczj3SzV0MgMUCBUXER2WHtYy6P3kBGlTLoUM1NAFVzsBuOXCfVc8Tn1N5SWkYOVPwwh6uEKi1-22698xHMXEFvUc4Jh7nDKDoCqskFrA1S-BdpJQcJMX9fsnvwZgyjGab6_JyZdS6wcgO0824-Q7B1vOUTR5hfSMZqR=s1600)
 
-## Birthday Color for October 20th: Yellow Ochre (`#B28E58`)
+
+## Birthday Color for October 20: Yellow Ochre (`#B28E58`)
 
 ### 1. Description of Yellow Ochre (Feeling and Traits)
 
@@ -33,7 +39,7 @@ In interior design, Yellow Ochre can be used to create a **welcoming atmosphere*
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **September 2nd**, the partner color **Autumn Lake** (Hex: `#55779B`) brings a sense of wisdom and maturity. Combining Yellow Ochre with Autumn Lake creates a perfect synergy—a balance between **warmth and wisdom**. Together, they evoke a sense of **grounded reflection** and a deep, peaceful understanding of the world.
+For those born on **September 2**, the partner color **Autumn Lake** (Hex: `#55779B`) brings a sense of wisdom and maturity. Combining Yellow Ochre with Autumn Lake creates a perfect synergy—a balance between **warmth and wisdom**. Together, they evoke a sense of **grounded reflection** and a deep, peaceful understanding of the world.
 
 ### 5. Conclusion (A Poem of Healing)
 

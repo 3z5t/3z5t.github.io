@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhLOODLIZSCbx340Sak3O81eQscoeFPpRQmfyjVHk88ypIbahsFqwca-VP2wN1picMerj-piTgNbm6Z5DFpgJ9JuUco-mIEvIkWVe2A9NzReRvCYx6xe4G4F5I5ag_ABRezkhP3w-Kg89hGpGGMpWCAOV-YopMJ5iM6gz7WsOXMsrSna8cvi1vO0boV1xJW=s1600)
+
 ## 4월 7일의 탄생색: 터콰이즈 (`#40E0D0`)
 
 ### 1. 터콰이즈에 대한 설명 (색의 느낌과 특징)

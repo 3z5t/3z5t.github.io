@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiVH3sGH7fAXiLxQJ0MCZNY7ckjqcpLAHtzow3qAK4oZMFKezYniRosIdSJp-eCYYBQ14kC1fGGY-1VSuqHdLt9OUoELw3ULynkxgh4etDAj4u7NJ3cfDB_g6BX-bfds7fAgm9NKpgn-CyTqXUVqLWtIKhDCQuMXXdWmgKgeVatBxozZI_UMzEahP-nAatK=s1600)
+
 ## 12월 29일의 탄생색: 크리스마스 화이트 (`#E2E1EE`)
 
 ### 1. 크리스마스 화이트에 대한 설명 (색의 느낌과 특징)

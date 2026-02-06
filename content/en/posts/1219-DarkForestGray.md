@@ -1,21 +1,27 @@
 ---
-title: "Dark Forest Gray, The Birthday Color of December 19th"
-date: 2026-12-19
-description: "The birthday color for December 19th is Dark Forest Gray (2A3A2F). Its meaning is Profound, Calm, Stable."
-author: 365days
+title: "Dark Forest Gray, The Birthday Color of December 19"
+date: "2026-12-19"
+updated: "2026-12-19"
 tags:
-  - dark forest gray
-  - birthday color
-  - december 19th
-  - 2a3a2f
-  - december
-  - fog pink
-draft: false
+  - "dark forest gray"
+  - "birthday color"
+  - "december 19"
+  - "2a3a2f"
+  - "december"
+  - "fog pink"
+description: "The birthday color for December 19 is Dark Forest Gray (2A3A2F). Its meaning is Profound, Calm, Stable."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjxhY8n6G12RgU5j1k7QDCDK6lDaoT6brL24of9KJry7PPpQXnEPixVKyfCi2a5a2QJb5_fArsvB6OOjP1hzZ-jgJ7D3nD1VHyOgxhYFMjy5RdnsgA_UQK2unpRzqNqnyculBC6Hg9-3jJNrZshhwiT7BHY1kF_sE5PFwkGPisd2OcjgwrOXqu5Q5p0aJsW=s1600"
+en_name: "DarkForestGray"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Dark Forest Gray](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_354.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjxhY8n6G12RgU5j1k7QDCDK6lDaoT6brL24of9KJry7PPpQXnEPixVKyfCi2a5a2QJb5_fArsvB6OOjP1hzZ-jgJ7D3nD1VHyOgxhYFMjy5RdnsgA_UQK2unpRzqNqnyculBC6Hg9-3jJNrZshhwiT7BHY1kF_sE5PFwkGPisd2OcjgwrOXqu5Q5p0aJsW=s1600)
 
-## Birthday Color for December 19th: Dark Forest Gray (`#2A3A2F`)
+
+## Birthday Color for December 19: Dark Forest Gray (`#2A3A2F`)
 
 ### 1. Description of Dark Forest Gray (Feeling and Traits)
 
@@ -37,7 +43,7 @@ In interior design, **Dark Forest Gray** is a fantastic choice for creating cozy
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Fog Pink** (the birthday color of March 28th), **Dark Forest Gray** finds a perfect balance between **depth** and **lightness**. While **Dark Forest Gray** offers a solid, grounded energy, **Fog Pink** brings a subtle, **mysterious softness**, creating a harmonious and balanced combination that enhances both the strength and the gentleness of each color. Together, they create a beautiful synergy of **stability** and **gentle allure**.
+When combined with **Fog Pink** (the birthday color of March 28), **Dark Forest Gray** finds a perfect balance between **depth** and **lightness**. While **Dark Forest Gray** offers a solid, grounded energy, **Fog Pink** brings a subtle, **mysterious softness**, creating a harmonious and balanced combination that enhances both the strength and the gentleness of each color. Together, they create a beautiful synergy of **stability** and **gentle allure**.
 
 ### 5. Conclusion (A Poem of Healing)
 

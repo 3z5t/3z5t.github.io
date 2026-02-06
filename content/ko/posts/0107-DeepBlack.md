@@ -19,6 +19,9 @@ postId: "1004"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjHrhf5z9z2ol1W5w-CpiVU4ZPMkdWBnIfiWkYt-CmT8phgDM601R6gNjut7q-LRdGaLrewIHht7a9HVQiYJWzt-bvs2O6zIwQ5WOpqQzsXNWWZQgNGHe8nOihjccnWzuMFjcp_c-qVWE7HhjSGqFT1c4EVCVfxNOraA6vLnVMExtGbI3X5rorG-KDBWGqq=s1600)
+
+
 **1월 7일의 탄생색: 딥 블랙 (#1A1A1F)**
 
 ### 1. 딥 블랙에 대한 설명 (색의 느낌과 특징)

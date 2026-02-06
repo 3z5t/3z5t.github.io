@@ -19,6 +19,9 @@ title: '1월 31일, 오늘을 닮은 색: 프로스트 블루'
 updated: '2026-01-31'
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhPEoNKbV5v_GCyktHMSrtCtmfAWv0eRtmDM5FbI-BiVOJADkZ5Ta83PYBZSxizVi8DD3-t-ZUWf34-1DmpNNTzBC9Wv7gGPJutc05jtiT4wBJXXwIT9RAvIyOVvl1wQBIPHMwSX2PjK_6PGao3oi1leVJNxCoFhweyA0uvTKRotT8S1HpLzIMyW3J0A2EK=s1600)
+
+
 **1월 31일의 탄생색: 프로스트 블루 (#9999CC)**
 
 ### 1. 프로스트 블루에 대한 설명 (색의 느낌과 특징)

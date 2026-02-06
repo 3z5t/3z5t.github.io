@@ -1,21 +1,30 @@
 ---
-title: "Bright Blue, The Birthday Color of January 28th"
-date: 2026-01-28
-description: "The birthday color for January 28th is Bright Blue (9CB0D3). Its meaning is Positive, Bright Energy, Hopeful."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-28'
+description: The birthday color for January 28 is Bright Blue (9CB0D3). Its meaning
+  is Positive, Bright Energy, Hopeful.
+en_name: BrightBlue
 tags:
-  - bright blue
-  - birthday color
-  - january 28th
-  - 9cb0d3
-  - january
-  - rudolph brown
-draft: false
+- bright blue
+- birthday color
+- january 28
+- 9cb0d3
+- january
+- rudolph brown
+postId: '8945175861778445953'
+postUrl: https://the366days-en.blogspot.com/2026/01/bright-blue-birthday-color-of-january-28.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEheBL6ZthRZuUlHCOBlo7cDUDifUXb0_5dKlAAjl3r8s1WPdtyKOtQn3skWa0RzgUs3nl50BKA81kaF7Rz7g6Xr9A16ijyS6A9GQUI4Fh5jOaoya0rXTONsK2X3kKvqxOqARD-JE_cjZ3X_qxNs97hJqwUeIR0IJOvR482xkwEM_Mht0bHSKN9OfTlJW_u_=s1600
+title: Bright Blue, The Birthday Color of January 28
+updated: '2026-01-28'
 ---
 
-![Bright Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_028.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEheBL6ZthRZuUlHCOBlo7cDUDifUXb0_5dKlAAjl3r8s1WPdtyKOtQn3skWa0RzgUs3nl50BKA81kaF7Rz7g6Xr9A16ijyS6A9GQUI4Fh5jOaoya0rXTONsK2X3kKvqxOqARD-JE_cjZ3X_qxNs97hJqwUeIR0IJOvR482xkwEM_Mht0bHSKN9OfTlJW_u_=s1600)
 
-## Birthday Color for January 28th: Bright Blue (`#9CB0D3`)
+
+![Bright Blue, The Birthday Color of January 28](https://blogger.googleusercontent.com/img/a/AVvXsEheBL6ZthRZuUlHCOBlo7cDUDifUXb0_5dKlAAjl3r8s1WPdtyKOtQn3skWa0RzgUs3nl50BKA81kaF7Rz7g6Xr9A16ijyS6A9GQUI4Fh5jOaoya0rXTONsK2X3kKvqxOqARD-JE_cjZ3X_qxNs97hJqwUeIR0IJOvR482xkwEM_Mht0bHSKN9OfTlJW_u_=s1600)
+
+## Birthday Color for January 28: Bright Blue (`#9CB0D3`)
 
 ### 1. Description of Bright Blue (Feeling and Traits)
 
@@ -31,7 +40,7 @@ In **fashion**, Bright Blue is the perfect choice for someone looking to make a 
 
 ### 4. Plus Tip (Destiny Color)
 
-To add a touch of **grounding** and **balance**, consider combining **Bright Blue** with **Rudolph Brown** (Hex: `#6C4D32`), the birthday color for December 3rd. The **warmth** and **stability** of Rudolph Brown provide a beautiful contrast to Bright Blue’s lively energy, creating a harmonious space of both **comfort** and **inspiration**.
+To add a touch of **grounding** and **balance**, consider combining **Bright Blue** with **Rudolph Brown** (Hex: `#6C4D32`), the birthday color for December 3. The **warmth** and **stability** of Rudolph Brown provide a beautiful contrast to Bright Blue’s lively energy, creating a harmonious space of both **comfort** and **inspiration**.
 
 ### 5. Conclusion (A Poem of Healing)
 

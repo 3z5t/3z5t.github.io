@@ -1,21 +1,27 @@
 ---
-title: "Moon Yellow, The Birthday Color of May 5th"
-date: 2026-05-05
-description: "The birthday color for May 5th is Moon Yellow (FEB721). Its meaning is Bright Heart, Pure, Creativity."
-author: 365days
+title: "Moon Yellow, The Birthday Color of May 5"
+date: "2026-05-05"
+updated: "2026-05-05"
 tags:
-  - moon yellow
-  - birthday color
-  - may 5th
-  - feb721
-  - may
-  - royal blue
-draft: false
+  - "moon yellow"
+  - "birthday color"
+  - "may 5"
+  - "feb721"
+  - "may"
+  - "royal blue"
+description: "The birthday color for May 5 is Moon Yellow (FEB721). Its meaning is Bright Heart, Pure, Creativity."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjMgoUNctELfAa_bj9oy-Vlt3Ss8z1mr_81zzayBKPrh44rtBoQ0NAUaHxjkEVhW2IU1L6l_MBhdR40YIEnjmaN2zZ5DJpN95lBnnCI0Rq5sPIeRPsvQVNzbjF2JS_4wtSbSN0OVeUVYPDuQ3OkYGEw9ZedVk02HYeXkXtrTxiMxwnZq17Nu_y6zgFDjvj8=s1600"
+en_name: "MoonYellow"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Moon Yellow](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_126.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjMgoUNctELfAa_bj9oy-Vlt3Ss8z1mr_81zzayBKPrh44rtBoQ0NAUaHxjkEVhW2IU1L6l_MBhdR40YIEnjmaN2zZ5DJpN95lBnnCI0Rq5sPIeRPsvQVNzbjF2JS_4wtSbSN0OVeUVYPDuQ3OkYGEw9ZedVk02HYeXkXtrTxiMxwnZq17Nu_y6zgFDjvj8=s1600)
 
-## Birthday Color for May 5th: Moon Yellow (`#FEB721`)
+
+## Birthday Color for May 5: Moon Yellow (`#FEB721`)
 
 ### 1. Description of Moon Yellow (Feeling and Traits)
 
@@ -32,7 +38,7 @@ In **interior design**, **Moon Yellow** can transform a space into a cozy, creat
 
 ### 4. Plus Tip (Destiny Color)
 
-**Moon Yellow** beautifully pairs with **Royal Blue** (Hex: `#1B76D8`), the birthday color of December 16th. While **Moon Yellow** radiates warmth and energy, **Royal Blue** brings in depth and **sophistication**, creating a dynamic, complementary contrast. The combination of the two colors adds a perfect balance of light and strength, perfect for those who seek both inspiration and a sense of groundedness in their journey.
+**Moon Yellow** beautifully pairs with **Royal Blue** (Hex: `#1B76D8`), the birthday color of December 16. While **Moon Yellow** radiates warmth and energy, **Royal Blue** brings in depth and **sophistication**, creating a dynamic, complementary contrast. The combination of the two colors adds a perfect balance of light and strength, perfect for those who seek both inspiration and a sense of groundedness in their journey.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -19,6 +19,9 @@ title: '1월 28일, 오늘을 닮은 색: 브라이트 블루'
 updated: '2026-01-28'
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgD1wLll5IzVDVZAbugiz2zQ8lyw-Cs3SFe1EsnveDVqEsu5qc2PxYeh2EzAgCb2ttBGhOHaRBfoGcnl4FB9d0PvtwG69wX0OXjFryeriz0s3RCt068gHwsvAk15-WNDDVa7CwNUocaAbL4GOIZAkb5eq5kprTXk1Uu-6Vium-z4pxGVoWgUn15K36Jh24Z=s1600)
+
+
 **1월 28일의 탄생색: 브라이트 블루 (#9CB0D3)**
 
 ### 1. 브라이트 블루에 대한 설명 (색의 느낌과 특징)

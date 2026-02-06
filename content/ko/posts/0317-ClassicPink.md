@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg_1ibYnQ5O-R9smAFfIIVzq2yLadkgHbq4syVDp7orgdEQ-XaGdvxHMLpj6rS7WkKNtFyZjYDWw4YticwU-XX2FfCr1AztZSWdLSyypqjxkbTugPPxTmikxx-PASGZmgMV-4nf5Ks3MlKy1ovUFMjg64lwHLfmabmT2Ppb8Olku3ehMElhSd_CD4hJgUsU=s1600)
+
 ## 3월 17일의 탄생색: 클래식 핑크 (`#FFC0CB`)
 
 ### 1. 클래식 핑크에 대한 설명 (색의 느낌과 특징)

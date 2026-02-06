@@ -1,21 +1,27 @@
 ---
-title: "Midnight, The Birthday Color of November 18th"
-date: 2026-11-18
-description: "The birthday color for November 18th is Midnight (242228). Its meaning is Serene, Peaceful, Restful."
-author: 365days
+title: "Midnight, The Birthday Color of November 18"
+date: "2026-11-18"
+updated: "2026-11-18"
 tags:
-  - midnight
-  - birthday color
-  - november 18th
-  - 242228
-  - november
-  - whipped cream
-draft: false
+  - "midnight"
+  - "birthday color"
+  - "november 18"
+  - "242228"
+  - "november"
+  - "whipped cream"
+description: "The birthday color for November 18 is Midnight (242228). Its meaning is Serene, Peaceful, Restful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiNa4o0rppFVWhiGFRh4kALpAJAnnooKxGbwZWC6MGJIevUP4lpnciz4FFc3Ch0glT6oiEYGj9Gxm7OL9lDVbURzarWeQOeXWaqmEbcsPMEI1GlIaWVYcD0iljE-yPvesklYDv6AAUrBBBSEj660b1g5tYLJrhNY-6CT_jltJ3CgLp36NrjFQyDSOYCpM1E=s1600"
+en_name: "Midnight"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Midnight](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_323.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiNa4o0rppFVWhiGFRh4kALpAJAnnooKxGbwZWC6MGJIevUP4lpnciz4FFc3Ch0glT6oiEYGj9Gxm7OL9lDVbURzarWeQOeXWaqmEbcsPMEI1GlIaWVYcD0iljE-yPvesklYDv6AAUrBBBSEj660b1g5tYLJrhNY-6CT_jltJ3CgLp36NrjFQyDSOYCpM1E=s1600)
 
-## Birthday Color for November 18th: Midnight (`#242228`)
+
+## Birthday Color for November 18: Midnight (`#242228`)
 
 ### 1. Description of Midnight (Feeling and Traits)
 
@@ -39,7 +45,7 @@ For beauty, a **midnight eyeliner** or a **deep plum lipstick** can be striking 
 
 ### 4. Plus Tip (Destiny Color)
 
-**Whipped Cream** (Hex: `#DFDCDD`), the birthday color of **August 6th**, pairs beautifully with **Midnight**. The softness of **Whipped Cream** enhances the deep, peaceful nature of **Midnight**, creating a harmonious balance between light and dark. Together, these colors bring out a sense of purity and calm, making for a delightful combination that invites both relaxation and clarity.
+**Whipped Cream** (Hex: `#DFDCDD`), the birthday color of **August 6**, pairs beautifully with **Midnight**. The softness of **Whipped Cream** enhances the deep, peaceful nature of **Midnight**, creating a harmonious balance between light and dark. Together, these colors bring out a sense of purity and calm, making for a delightful combination that invites both relaxation and clarity.
 
 ### 5. Conclusion (A Poem of Healing)
 

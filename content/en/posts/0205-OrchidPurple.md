@@ -1,21 +1,24 @@
 ---
-title: "Orchid Purple, The Birthday Color of February 5th"
-date: 2026-02-05
-description: "The birthday color for February 5th is Orchid Purple (9F56A2). Its meaning is Creativity, Inspiration, Originality."
-author: 365days
-tags:
-  - orchid purple
-  - birthday color
-  - february 5th
-  - 9f56a2
-  - february
-  - lime green
-draft: false
+"title": "Orchid Purple, The Birthday Color of February 5"
+"date": "2026-02-05"
+"updated": "2026-02-05"
+"labels":
+- "orchid purple"
+- "birthday color"
+- "february 5"
+- "9f56a2"
+- "february"
+- "lime green"
+"description": "The birthday color for February 5 is Orchid Purple (9F56A2). Its meaning is Creativity, Inspiration, Originality."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEiAVvCXzYlDRH5gk6cgin25qXj6IOUxGcLqrJ_yegLnrXknHxccqZGWeKvZALxDAhhoK0WFjowGhasygkXmbS6MB8fE8BLLHEaM0W54QQM0bcylR1x_20WYkyMqFcLyOCqZ0O5NNIx9EKaAcffK80DnGll-_i3OSaVKHbgpBLrC6Bq__OScSa657MOmailh=s1600"
+"en_name": "OrchidPurple"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "2812906904436052782"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/orchid-purple-birthday-color-of.html"
 ---
 
-![Orchid Purple](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_036.webp)
-
-## Birthday Color for February 5th: Orchid Purple (`#9F56A2`)
+## Birthday Color for February 5: Orchid Purple (`#9F56A2`)
 
 ### 1. Description of Orchid Purple (Feeling and Traits)
 
@@ -31,7 +34,7 @@ When it comes to **fashion**, **Orchid Purple** is a statement color. Whether in
 
 ### 4. Plus Tip (Destiny Color)
 
-To enhance the **creativity** and **vitality** of Orchid Purple, consider pairing it with **Lime Green** (Hex: `#6EAD5C`), the birthday color of March 6th. The **vibrancy** and **abundance** of Lime Green complement Orchid Purple’s **inspiration** and **originality**, creating a dynamic and **energizing** combination that brings out the best in both colors.
+To enhance the **creativity** and **vitality** of Orchid Purple, consider pairing it with **Lime Green** (Hex: `#6EAD5C`), the birthday color of March 6. The **vibrancy** and **abundance** of Lime Green complement Orchid Purple’s **inspiration** and **originality**, creating a dynamic and **energizing** combination that brings out the best in both colors.
 
 ### 5. Conclusion (A Poem of Healing)
 

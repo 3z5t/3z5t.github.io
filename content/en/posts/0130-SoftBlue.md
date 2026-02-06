@@ -1,20 +1,30 @@
 ---
-title: "Soft Blue, The Birthday Color of January 30th"
-date: 2026-01-30
-description: "The birthday color for January 30th is Soft Blue (99CCFF). Its meaning is Free-spirited, Open-minded, Peaceful."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-30'
+description: The birthday color for January 30 is Soft Blue (99CCFF). Its meaning
+  is Free-spirited, Open-minded, Peaceful.
+en_name: SoftBlue
 tags:
-  - soft blue
-  - birthday color
-  - january 30th
-  - 99ccff
-  - january
-  - brown
-draft: false
+- soft blue
+- birthday color
+- january 30
+- 99ccff
+- january
+- brown
+postId: '8509987264445107152'
+postUrl: https://the366days-en.blogspot.com/2026/01/soft-blue-birthday-color-of-january-30.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEg4H6OAlwN9g3QuvEO8Ll10Dx6JN4Q73TpVWkjgKqKfy25nelrLB48rfXQWeTaKh1t37ul3UsVFQF0IQ8Af5TJcNdrs34XPntWXkDs3crfWF4WOKYz4GNjfVAOK1g62PjE8IWVmhRAFRpAXB8RSXG0q0EtDBU4db-POcbFs3vd9XH8hY3k-qG8gBJldEoTo=s1600
+title: Soft Blue, The Birthday Color of January 30
+updated: '2026-01-30'
 ---
 
-![Soft Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_030.webp)
-## Birthday Color for January 30th: Soft Blue (`#99CCFF`)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg4H6OAlwN9g3QuvEO8Ll10Dx6JN4Q73TpVWkjgKqKfy25nelrLB48rfXQWeTaKh1t37ul3UsVFQF0IQ8Af5TJcNdrs34XPntWXkDs3crfWF4WOKYz4GNjfVAOK1g62PjE8IWVmhRAFRpAXB8RSXG0q0EtDBU4db-POcbFs3vd9XH8hY3k-qG8gBJldEoTo=s1600)
+
+
+![Soft Blue, The Birthday Color of January 30](https://blogger.googleusercontent.com/img/a/AVvXsEg4H6OAlwN9g3QuvEO8Ll10Dx6JN4Q73TpVWkjgKqKfy25nelrLB48rfXQWeTaKh1t37ul3UsVFQF0IQ8Af5TJcNdrs34XPntWXkDs3crfWF4WOKYz4GNjfVAOK1g62PjE8IWVmhRAFRpAXB8RSXG0q0EtDBU4db-POcbFs3vd9XH8hY3k-qG8gBJldEoTo=s1600)
+
+## Birthday Color for January 30: Soft Blue (`#99CCFF`)
 
 ### 1. Description of Soft Blue (Feeling and Traits)
 
@@ -30,7 +40,7 @@ For those born under the influence of **Soft Blue**, life is often seen through 
 
 ### 4. Plus Tip (Destiny Color)
 
-For those looking to add depth and stability, combining **Soft Blue** with **Brown** (Hex: `#7F3300`), the birthday color of September 26th, creates a lovely balance. The grounding energy of Brown, with its **abundant** and **stable** qualities, complements Soft Blue’s **lightness** and **peacefulness**, fostering both calm and **practical harmony**.
+For those looking to add depth and stability, combining **Soft Blue** with **Brown** (Hex: `#7F3300`), the birthday color of September 26, creates a lovely balance. The grounding energy of Brown, with its **abundant** and **stable** qualities, complements Soft Blue’s **lightness** and **peacefulness**, fostering both calm and **practical harmony**.
 
 ### 5. Conclusion (A Poem of Healing)
 

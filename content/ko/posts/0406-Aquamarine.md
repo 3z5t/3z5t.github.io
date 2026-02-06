@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh-hwOWh5jneHXi74UTuyx0uFZNgkdkiG98zoWz7wvGbuwisYQz5m3Gwa_pH1Wgq7P6Enrn2b49Odh4JEEGXyBsaw9Jm3uv17fNm4MaTr-3EMuivHqcaaNh8TFTX5F7_fcIOXdVhwUb9oNslgSD-NJm3dnMQ_XGKLPEtuoM1LagJgQfWoPWL_IiIaehhvCy=s1600)
+
 ## 4월 6일의 탄생색: 아쿠아마린 (`#99FFCC`)
 
 ### 1. 아쿠아마린에 대한 설명 (색의 느낌과 특징)

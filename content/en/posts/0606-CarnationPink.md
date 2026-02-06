@@ -1,21 +1,27 @@
 ---
-title: "Carnation Pink, The Birthday Color of June 6th"
-date: 2026-06-06
-description: "The birthday color for June 6th is Carnation Pink (FF99CC). Its meaning is Peaceful, Lovely, Emotional."
-author: 365days
+title: "Carnation Pink, The Birthday Color of June 6"
+date: "2026-06-06"
+updated: "2026-06-06"
 tags:
-  - carnation pink
-  - birthday color
-  - june 6th
-  - ff99cc
-  - june
-  - jade
-draft: false
+  - "carnation pink"
+  - "birthday color"
+  - "june 6"
+  - "ff99cc"
+  - "june"
+  - "jade"
+description: "The birthday color for June 6 is Carnation Pink (FF99CC). Its meaning is Peaceful, Lovely, Emotional."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh2tCSPhz9OYa1faX3HltUV93vEWTozsjuFTsu50gWRIkxKKb4k5slCfioFjKUEvO_XXKozYm70jnFHm3f-cz9EhAzT31ArBQRKCqdadTEjIksI8vB1ZZZABQ_PVgKYWW2lHZMkQ8SNQQOu7lEGyt_sHFLCzKlTMY595RNUN9Irt3pFxl76maqrIv8p3Byo=s1600"
+en_name: "CarnationPink"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Carnation Pink](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_158.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh2tCSPhz9OYa1faX3HltUV93vEWTozsjuFTsu50gWRIkxKKb4k5slCfioFjKUEvO_XXKozYm70jnFHm3f-cz9EhAzT31ArBQRKCqdadTEjIksI8vB1ZZZABQ_PVgKYWW2lHZMkQ8SNQQOu7lEGyt_sHFLCzKlTMY595RNUN9Irt3pFxl76maqrIv8p3Byo=s1600)
 
-## Birthday Color for June 6th: Carnation Pink (`#FF99CC`)
+
+## Birthday Color for June 6: Carnation Pink (`#FF99CC`)
 
 ### 1. Description of Carnation Pink (Feeling and Traits)
 
@@ -31,7 +37,7 @@ Those born with **Carnation Pink** as their color radiate a natural **peacefulne
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Jade**, the birthday color of **April 2nd**, **Carnation Pink** creates an intriguing **synergy** between emotional warmth and healing energy. While **Carnation Pink** brings a soothing, loving energy, **Jade** adds vitality and balance, creating a harmonious atmosphere that fosters both **nurturing** and **growth**. Together, they form a combination that offers a perfect blend of emotional connection and personal development.
+When combined with **Jade**, the birthday color of **April 2**, **Carnation Pink** creates an intriguing **synergy** between emotional warmth and healing energy. While **Carnation Pink** brings a soothing, loving energy, **Jade** adds vitality and balance, creating a harmonious atmosphere that fosters both **nurturing** and **growth**. Together, they form a combination that offers a perfect blend of emotional connection and personal development.
 
 ### 5. Conclusion (A Poem of Healing)
 

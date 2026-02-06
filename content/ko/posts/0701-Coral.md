@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhBAZmFuDwuc9tS_EVTYAlOxuFIEgibOAoGJ6rmoEJnkDO3s_Eq0zse-lXzTLWqIeaQvhVYmg-AvMbB35Sr6AWfmNPcTQQt19jsuRpj_KToBb4DJp5kCMge20nIBFkFrpkDByaZJtzUo-0VmZUV0ZEzfj6BzynZvUH8IC8aUig6BWmS5wCkeJtkloDToUNy=s1600)
+
 ## 7월 1일의 탄생색: 코랄 (`#FF7F50`)
 
 ### 1. 코랄에 대한 설명: 여름의 문을 여는 생명의 빛깔

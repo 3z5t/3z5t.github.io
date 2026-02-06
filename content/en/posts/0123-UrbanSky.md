@@ -1,21 +1,28 @@
 ---
-title: "Urban Sky, The Birthday Color of January 23rd"
-date: 2026-01-23
-description: "The birthday color for January 23rd is Urban Sky (BBC1CA). Its meaning is Modern, Sophisticated, Progressive."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-23'
+description: The birthday color for January 23 is Urban Sky (BBC1CA). Its meaning
+  is Modern, Sophisticated, Progressive.
+en_name: UrbanSky
 tags:
-  - urban sky
-  - birthday color
-  - january 23rd
-  - bbc1ca
-  - january
-  - grayish green
-draft: false
+- urban sky
+- birthday color
+- january 23
+- bbc1ca
+- january
+- grayish green
+postId: '3825893471239683708'
+postUrl: https://the366days-en.blogspot.com/2026/01/urban-sky-birthday-color-of-january-23.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgwni-FqhLcoIK5kS9wbsUt713wHQpSIgU6YdTPHUgaaENp-b7nP8QlzjS3dhaNldHfcTENDrlqJ7bWQCB6fOUN-LnWmUhbB20FPjHAT11Lbs0cbLkb_30lsatKNt-RD9Jw6dfGNHnOPhl6rnkoMUuGLWFx7_HkcWxiHbRil9CIJiOme25Wvubd7VedFU6Y=s1600
+title: Urban Sky, The Birthday Color of January 23
+updated: '2026-01-23'
 ---
 
-![Urban Sky](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_023.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgwni-FqhLcoIK5kS9wbsUt713wHQpSIgU6YdTPHUgaaENp-b7nP8QlzjS3dhaNldHfcTENDrlqJ7bWQCB6fOUN-LnWmUhbB20FPjHAT11Lbs0cbLkb_30lsatKNt-RD9Jw6dfGNHnOPhl6rnkoMUuGLWFx7_HkcWxiHbRil9CIJiOme25Wvubd7VedFU6Y=s1600)
 
-## Birthday Color for January 23rd: Urban Sky (`#BBC1CA`)
+
+## Birthday Color for January 23: Urban Sky (`#BBC1CA`)
 
 ### 1. **Description of Urban Sky (Feeling and Traits)**
 
@@ -33,7 +40,7 @@ When it comes to interior styling, **Urban Sky** is perfect for creating a seren
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For an even more balanced and **harmonious** feel, consider pairing **Urban Sky** with **Grayish Green**, the birthday color of November 3rd. This pairing brings a sense of stability and calm to the more dynamic energy of **Urban Sky**, creating a peaceful yet forward-looking synergy. The blend of modernity and grounded energy is perfect for those who want a refined, well-rounded aesthetic.
+For an even more balanced and **harmonious** feel, consider pairing **Urban Sky** with **Grayish Green**, the birthday color of November 3. This pairing brings a sense of stability and calm to the more dynamic energy of **Urban Sky**, creating a peaceful yet forward-looking synergy. The blend of modernity and grounded energy is perfect for those who want a refined, well-rounded aesthetic.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhWicTFRP_67b2AlN8_LN8c3vWyPlcY8-1hXdKRKuFwjZ8azl6vJsr7X5VtHsENfKbjFlwA6TuzrO02-uNdAOrY_JRmHWS_v4OmtjgZqjmOevrM6J2CE0jDNA2PCRE4voAkj4kr4hYDDwi27MfLxeJz1D6gGq2nxTZCxUICU9iCz1eNCb_DmSHkvOPeu4TS=s1600)
+
 ## 5월 11일의 탄생색: 샴록 (`#33CC99`)
 
 ### 1. 샴록에 대한 설명: 우연이 선물한 초록빛 마법

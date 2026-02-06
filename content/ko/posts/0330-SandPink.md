@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEheYzsSQ18NE3pFydDnO5NtmTq3XqG1sHRGpqyFboHlfRa8sbfoBZqshcJAMYXAyQPAvIv9ABMvtqAmHZCoOm-MHvmuoeckF5_jiLzjKoyRsOh1IcpJXABcf5REXBp2iD6v7sEgSxRktvQic1Cn2wv3CQKTFnPd2F4tD7QA2alPGqpZ8DUpn-c04xsib_O_=s1600)
+
 ## 3월 30일의 탄생색: 샌드 핑크 (`#F5C4AC`)
 
 ### 1. 샌드 핑크에 대한 설명 (색의 느낌과 특징)

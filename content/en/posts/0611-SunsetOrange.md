@@ -1,21 +1,27 @@
 ---
-title: "Sunset Orange, The Birthday Color of June 11th"
-date: 2026-06-11
-description: "The birthday color for June 11th is Sunset Orange (FF6600). Its meaning is Prudent, Insightful, Protective."
-author: 365days
+title: "Sunset Orange, The Birthday Color of June 11"
+date: "2026-06-11"
+updated: "2026-06-11"
 tags:
-  - sunset orange
-  - birthday color
-  - june 11th
-  - ff6600
-  - june
-  - azure blue
-draft: false
+  - "sunset orange"
+  - "birthday color"
+  - "june 11"
+  - "ff6600"
+  - "june"
+  - "azure blue"
+description: "The birthday color for June 11 is Sunset Orange (FF6600). Its meaning is Prudent, Insightful, Protective."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjRm1EmFXIakiQuzrYoYexObQacuCdEYe32XXkmGeSO-3zUH5QDY9F9rR59Mzcp49HvxW3X4gNUgYVViE2mci61GhXADkGbBm22YLc3QyZLnWVHkxB-jKdnY5AgY3M6_NUXceWj9UrZD71-bdQM4incgYaZ4FTdIR3lz4cixva1LXWIVgEk9RSuIBjWwS6Y=s1600"
+en_name: "SunsetOrange"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Sunset Orange](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_163.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjRm1EmFXIakiQuzrYoYexObQacuCdEYe32XXkmGeSO-3zUH5QDY9F9rR59Mzcp49HvxW3X4gNUgYVViE2mci61GhXADkGbBm22YLc3QyZLnWVHkxB-jKdnY5AgY3M6_NUXceWj9UrZD71-bdQM4incgYaZ4FTdIR3lz4cixva1LXWIVgEk9RSuIBjWwS6Y=s1600)
 
-## Birthday Color for June 11th: Sunset Orange (`#FF6600`)
+
+## Birthday Color for June 11: Sunset Orange (`#FF6600`)
 
 ### 1. Description of Sunset Orange (Feeling and Traits)
 
@@ -33,7 +39,7 @@ In your home, **Sunset Orange** can add a sense of warmth and **security**. Cons
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Azure Blue**, the birthday color of **July 19th**, a **beautiful harmony** is created. **Azure Blue** brings a **cool, calm** quality to the warmth of **Sunset Orange**, creating a balance of **energy** and **serenity**. This pairing encourages both **insight** and **peace**, making it perfect for those who seek both adventure and grounded stability.
+When combined with **Azure Blue**, the birthday color of **July 19**, a **beautiful harmony** is created. **Azure Blue** brings a **cool, calm** quality to the warmth of **Sunset Orange**, creating a balance of **energy** and **serenity**. This pairing encourages both **insight** and **peace**, making it perfect for those who seek both adventure and grounded stability.
 
 ### 5. Conclusion (A Poem of Healing)
 

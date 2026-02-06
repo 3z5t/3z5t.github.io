@@ -1,21 +1,27 @@
 ---
-title: "Antique Mustard, The Birthday Color of December 28th"
-date: 2026-12-28
-description: "The birthday color for December 28th is Antique Mustard (BB8F3D). Its meaning is Calm Personality, Abundant, Profound."
-author: 365days
+title: "Antique Mustard, The Birthday Color of December 28"
+date: "2026-12-28"
+updated: "2026-12-28"
 tags:
-  - antique mustard
-  - birthday color
-  - december 28th
-  - bb8f3d
-  - december
-  - deep sora
-draft: false
+  - "antique mustard"
+  - "birthday color"
+  - "december 28"
+  - "bb8f3d"
+  - "december"
+  - "deep sora"
+description: "The birthday color for December 28 is Antique Mustard (BB8F3D). Its meaning is Calm Personality, Abundant, Profound."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh4p7FAdUHOdbUtHujBNY6EwrUYTWDlnEkWGU4AQxYI-vqUAtb-7Pi8fRuYfowED_LLFmUlDQsvDFZgPXtPq2tFEe_jAJP-gLUXlzrui8uUGGTKfCtQEUDdo-IHWzjancwLib8BA8tXF42YplbvLaJDL8RJ5OTrdWBrv4qYt7LdyVXdqqK1lwn76kk1BQJ1=s1600"
+en_name: "AntiqueMustard"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Antique Mustard](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_363.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh4p7FAdUHOdbUtHujBNY6EwrUYTWDlnEkWGU4AQxYI-vqUAtb-7Pi8fRuYfowED_LLFmUlDQsvDFZgPXtPq2tFEe_jAJP-gLUXlzrui8uUGGTKfCtQEUDdo-IHWzjancwLib8BA8tXF42YplbvLaJDL8RJ5OTrdWBrv4qYt7LdyVXdqqK1lwn76kk1BQJ1=s1600)
 
-## Birthday Color for December 28th: Antique Mustard (`#BB8F3D`)
+
+## Birthday Color for December 28: Antique Mustard (`#BB8F3D`)
 
 ### 1. Description of Antique Mustard (Feeling and Traits)
 
@@ -39,7 +45,7 @@ This color also pairs well with **metallic accents** like **brass** or **gold**,
 
 ### 4. Plus Tip (Destiny Color)
 
-The partner color, **Deep Sora**, born on **January 19th**, is a beautiful contrast to the warm, grounded energy of **Antique Mustard**. Combining these colors creates a lovely balance between the **deep sincerity** and **responsibility** of Deep Sora and the **warmth** and **abundance** of Antique Mustard, resulting in an atmosphere that’s **both nurturing** and **reflective**.
+The partner color, **Deep Sora**, born on **January 19**, is a beautiful contrast to the warm, grounded energy of **Antique Mustard**. Combining these colors creates a lovely balance between the **deep sincerity** and **responsibility** of Deep Sora and the **warmth** and **abundance** of Antique Mustard, resulting in an atmosphere that’s **both nurturing** and **reflective**.
 
 ### 5. Conclusion (A Poem of Healing)
 

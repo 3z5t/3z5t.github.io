@@ -19,6 +19,9 @@ title: '1월 30일, 오늘을 닮은 색: 소프트 블루'
 updated: '2026-01-30'
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg5168WQXQyFcnHcaghyE6YW_OQprP0eFdWEh4rnSiqySB2SQOfm3B2mrN0jh_M0qlV1wupfTV44pPh9ccs4pzFpdHIFxJlec3c4A6sCpAdV-lPyYInAnrN69XXOPuTFtNR7Cuftrv7nUi-W1h1u9mL9gtka94Y3jrLesTmpQ5qXgQz-lMpUMYmeELeEdCB=s1600)
+
+
 **1월 30일의 탄생색: 소프트 블루 (#99CCFF)**
 
 ### 1. 소프트 블루에 대한 설명 (색의 느낌과 특징)

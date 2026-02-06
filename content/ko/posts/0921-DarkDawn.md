@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjXeLt9sUcZ2pDmDECpMKjWdC7S-iTfdBDPyitpn9AFMMkEmjIJcPQQdBMcSfSbmeDlJ7POSKzsp1I3NXcUlvU4KoC_8VMT7ZmCQHFTDD6o9YPD5EmYDKgxr9gDcokrfizxBx7OgeuZ1nxzjgt8k_UI0VJotHs7vAOHR8YE972zs_TcTcoDsmUhY3vDVLGK=s1600)
+
 ## 9월 21일의 탄생색: 짙은 새벽 (`#3D4247`)
 
 ### 1. 짙은 새벽에 대한 설명: 빛을 잉태한 가장 고요한 어둠

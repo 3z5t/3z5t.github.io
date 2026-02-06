@@ -19,6 +19,9 @@ postId: "7271988299413128698"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhTEejXw9OEocwmTJlvhsG_A1jU1JTqS0vxVWaj91-RbIs81O7ihw-V8dIJw1ZEVYh56MgSkToGyU_dw_OZkz2H7Z73WenkMfwBgliGUXuW-XEixsPBEFg-mCmtADS4vNRfVDfOfWciFlezkzJh9ACmPMbKhEHvffY5FlR-w1o-uy4RiT5kE7cti7rBDkKK=s1600)
+
+
 **1월 18일의 탄생색: 더스티 소라 (#A4B0CC)**
 
 ### 1. 더스티 소라에 대한 설명 (색의 느낌과 특징)

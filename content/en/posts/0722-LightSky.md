@@ -1,21 +1,27 @@
 ---
-title: "Light Sky, The Birthday Color of July 22nd"
-date: 2026-07-22
-description: "The birthday color for July 22nd is Light Sky (3DDAEE). Its meaning is Refreshing Personality, Bright Mind, Clean."
-author: 365days
+title: "Light Sky, The Birthday Color of July 22"
+date: "2026-07-22"
+updated: "2026-07-22"
 tags:
-  - light sky
-  - birthday color
-  - july 22nd
-  - 3ddaee
-  - july
-  - real red
-draft: false
+  - "light sky"
+  - "birthday color"
+  - "july 22"
+  - "3ddaee"
+  - "july"
+  - "real red"
+description: "The birthday color for July 22 is Light Sky (3DDAEE). Its meaning is Refreshing Personality, Bright Mind, Clean."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg6-zJ3kA0CcjVBBA7LkOSbo6jhFFUHT5HJc46x8XQnAgRDpHgAeHd7TDSueYVx60O0RTaqR0E9zlJRhBaRoHZQIgV8lCjoZiicIoH7DuRC9JrC0I9HOcsI2HKaAlRbUESR51W2Umg1ecVInWNpaRKoeV87FsUdrWgGTuZA9A-CZXSsC5_oMK4yUj0wdEmY=s1600"
+en_name: "LightSky"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Light Sky](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_204.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg6-zJ3kA0CcjVBBA7LkOSbo6jhFFUHT5HJc46x8XQnAgRDpHgAeHd7TDSueYVx60O0RTaqR0E9zlJRhBaRoHZQIgV8lCjoZiicIoH7DuRC9JrC0I9HOcsI2HKaAlRbUESR51W2Umg1ecVInWNpaRKoeV87FsUdrWgGTuZA9A-CZXSsC5_oMK4yUj0wdEmY=s1600)
 
-## Birthday Color for July 22nd: Light Sky (`#3DDAEE`)
+
+## Birthday Color for July 22: Light Sky (`#3DDAEE`)
 
 ### 1. Description of Light Sky (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Light Sky** is the ultimate expression of **refreshing elegance**.
 
 ### 4. Plus Tip (Destiny Color)
 
-Pairing **Light Sky** with **Real Red**, the birthday color of February 19th, creates a fascinating balance. The energy of **Real Red** complements the serene freshness of **Light Sky**, creating an exciting yet harmonious synergy that blends **leadership** and **optimism**. Together, these colors inspire both action and reflection, making for a balanced and dynamic combination.
+Pairing **Light Sky** with **Real Red**, the birthday color of February 19, creates a fascinating balance. The energy of **Real Red** complements the serene freshness of **Light Sky**, creating an exciting yet harmonious synergy that blends **leadership** and **optimism**. Together, these colors inspire both action and reflection, making for a balanced and dynamic combination.
 
 ### 5. Conclusion (A Poem of Healing)
 

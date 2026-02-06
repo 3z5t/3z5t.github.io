@@ -1,21 +1,28 @@
 ---
-title: "Dusty Sora, The Birthday Color of January 18th"
-date: 2026-01-18
-description: "The birthday color for January 18th is Dusty Sora (A4B0CC). Its meaning is Rational, Logical, Analytical."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-18'
+description: The birthday color for January 18 is Dusty Sora (A4B0CC). Its meaning
+  is Rational, Logical, Analytical.
+en_name: DustySora
 tags:
-  - dusty sora
-  - birthday color
-  - january 18th
-  - a4b0cc
-  - january
-  - rudolph brown
-draft: false
+- dusty sora
+- birthday color
+- january 18
+- a4b0cc
+- january
+- rudolph brown
+postId: '6757458461863052970'
+postUrl: https://the366days-en.blogspot.com/2026/01/dusty-sora-birthday-color-of-january-18.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiC5XNHGlF2-ce6thX7EpF6_foQCZMzjav7_SfKaKl-LcsZFLpB6Iq81hNVWTIcv2rBdUEw9laluTLMYom1pgTTNIshSGpveN3N6hG9rq_h3sYjPyDlxen0M4B9c_DtxC-4s_Af_PMBAgZbqwccEo_2r2632zfulryvXs_ZuHOZQGEFDbS1Tzq8e4-_0H7l=s1600
+title: Dusty Sora, The Birthday Color of January 18
+updated: '2026-01-18'
 ---
 
-![Dusty Sora](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_018.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiC5XNHGlF2-ce6thX7EpF6_foQCZMzjav7_SfKaKl-LcsZFLpB6Iq81hNVWTIcv2rBdUEw9laluTLMYom1pgTTNIshSGpveN3N6hG9rq_h3sYjPyDlxen0M4B9c_DtxC-4s_Af_PMBAgZbqwccEo_2r2632zfulryvXs_ZuHOZQGEFDbS1Tzq8e4-_0H7l=s1600)
 
-## Birthday Color for January 18th: Dusty Sora (`#A4B0CC`)
+
+## Birthday Color for January 18: Dusty Sora (`#A4B0CC`)
 
 ### 1. **Description of Dusty Sora (Feeling and Traits)**
 
@@ -31,7 +38,7 @@ If you were born under the influence of **Dusty Sora**, your mind is your greate
 
 ### 4. **Plus Tip (Destiny Color)**
 
-To complement **Dusty Sora**, consider **Rudolph Brown**, the birthday color of December 3rd. The rich warmth of **Rudolph Brown** contrasts beautifully with **Dusty Sora**, creating a perfect balance between stability and introspection. This pairing brings a grounded sense of calm while also embracing the depth and wisdom of **Dusty Sora**.
+To complement **Dusty Sora**, consider **Rudolph Brown**, the birthday color of December 3. The rich warmth of **Rudolph Brown** contrasts beautifully with **Dusty Sora**, creating a perfect balance between stability and introspection. This pairing brings a grounded sense of calm while also embracing the depth and wisdom of **Dusty Sora**.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

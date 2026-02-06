@@ -1,21 +1,27 @@
 ---
-title: "King Brown, The Birthday Color of September 27th"
-date: 2026-09-27
-description: "The birthday color for September 27th is King Brown (A86248). Its meaning is Dignified, Classy, Leadership."
-author: 365days
+title: "King Brown, The Birthday Color of September 27"
+date: "2026-09-27"
+updated: "2026-09-27"
 tags:
-  - king brown
-  - birthday color
-  - september 27th
-  - a86248
-  - september
-  - dark turquoise
-draft: false
+  - "king brown"
+  - "birthday color"
+  - "september 27"
+  - "a86248"
+  - "september"
+  - "dark turquoise"
+description: "The birthday color for September 27 is King Brown (A86248). Its meaning is Dignified, Classy, Leadership."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgNHVzAnvQf0YWcyHMu4navLeHqzsr6vxf44LhXGceAkd1a6u5bPaR-I8-BvkrsI9WxYGXce8-rF9eeCZi4_xyHkg-rDhUMV8oQRWjZFochcNyOFEF0a4JzLqaQoEuzxKXfiy2h0pS3-bfxF2XvFjXQCEjPLz30Qsh-y1bWWOf7QlxcGE6AwF3UR8lLPbBo=s1600"
+en_name: "KingBrown"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![King Brown](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_271.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgNHVzAnvQf0YWcyHMu4navLeHqzsr6vxf44LhXGceAkd1a6u5bPaR-I8-BvkrsI9WxYGXce8-rF9eeCZi4_xyHkg-rDhUMV8oQRWjZFochcNyOFEF0a4JzLqaQoEuzxKXfiy2h0pS3-bfxF2XvFjXQCEjPLz30Qsh-y1bWWOf7QlxcGE6AwF3UR8lLPbBo=s1600)
 
-## Birthday Color for September 27th: King Brown (`#A86248`)
+
+## Birthday Color for September 27: King Brown (`#A86248`)
 
 ### 1. **Description of King Brown (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ When styling with **King Brown**, think of it as a color that enhances sophistic
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For a complementary pairing, consider **Dark Turquoise**, the birthday color of May 24th. **Dark Turquoise**’s **mysterious** and **creative** energy adds a fresh, dynamic quality when combined with **King Brown**, enhancing the richness of its leadership with a touch of **depth** and **vision**.
+For a complementary pairing, consider **Dark Turquoise**, the birthday color of May 24. **Dark Turquoise**’s **mysterious** and **creative** energy adds a fresh, dynamic quality when combined with **King Brown**, enhancing the richness of its leadership with a touch of **depth** and **vision**.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

@@ -1,21 +1,27 @@
 ---
-title: "Delicate Green, The Birthday Color of June 1st"
-date: 2026-06-01
-description: "The birthday color for June 1st is Delicate Green (7DDCC4). Its meaning is Delicate, Pure, Creativity."
-author: 365days
+title: "Delicate Green, The Birthday Color of June 1"
+date: "2026-06-01"
+updated: "2026-06-01"
 tags:
-  - delicate green
-  - birthday color
-  - june 1st
-  - 7ddcc4
-  - june
-  - burnt umber
-draft: false
+  - "delicate green"
+  - "birthday color"
+  - "june 1"
+  - "7ddcc4"
+  - "june"
+  - "burnt umber"
+description: "The birthday color for June 1 is Delicate Green (7DDCC4). Its meaning is Delicate, Pure, Creativity."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhQt0e6vn3c2dt922NeSe6eb-RKTW_iqyTMmkjPLgo1eCDKtVhb0vuy7tXK3dnJctnPtBZwwmDTKNXl939HsMh667RR5LsPSWEqyPA70FfoLbmlO8moDAaEElZ6z1mFD2BWvana-RXrUn741ouZuKqMNXSLAwr6HbwbmHSYTaQSx6K42TAhVy-GdSVSLRNH=s1600"
+en_name: "DelicateGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Delicate Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_153.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhQt0e6vn3c2dt922NeSe6eb-RKTW_iqyTMmkjPLgo1eCDKtVhb0vuy7tXK3dnJctnPtBZwwmDTKNXl939HsMh667RR5LsPSWEqyPA70FfoLbmlO8moDAaEElZ6z1mFD2BWvana-RXrUn741ouZuKqMNXSLAwr6HbwbmHSYTaQSx6K42TAhVy-GdSVSLRNH=s1600)
 
-## Birthday Color for June 1st: Delicate Green (`#7DDCC4`)
+
+## Birthday Color for June 1: Delicate Green (`#7DDCC4`)
 
 ### 1. Description of Delicate Green (Feeling and Traits)
 
@@ -31,7 +37,7 @@ The first time you see **Delicate Green**, it’s as though a cool, gentle breez
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Burnt Umber**, the birthday color of **October 7th**, the synergy is undeniable. **Burnt Umber** brings **strength**, **decisiveness**, and **stability** into the mix, perfectly balancing the softness and **creativity** of **Delicate Green**. Together, they create a harmonious energy that combines the creativity and imagination of **Delicate Green** with the grounded, solid nature of **Burnt Umber**.
+When paired with **Burnt Umber**, the birthday color of **October 7**, the synergy is undeniable. **Burnt Umber** brings **strength**, **decisiveness**, and **stability** into the mix, perfectly balancing the softness and **creativity** of **Delicate Green**. Together, they create a harmonious energy that combines the creativity and imagination of **Delicate Green** with the grounded, solid nature of **Burnt Umber**.
 
 ### 5. Conclusion (A Poem of Healing)
 

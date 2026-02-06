@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh6fPaANlK_2j1tqewRXBdGSRgKNvrz84nfLCapIlhNvOmP_xes54ePlNBbfJZunqrZoean-nl68iFiRxQarlrZzS6zYXyR_aSPd201plkQh2shJDXMW7dNbmOUaqOKZL_KZyr1Nmh8cF-nrzO6ZxGc1DJ-T3bz5tI6MtSDUHsXwMW6yeVDMIqRa4Mu-zE6=s1600)
+
 ## 8월 20일의 탄생색: 클래식 베이지 (`#D7C095`)
 
 ### 1. 클래식 베이지에 대한 설명: 시간을 초월한 가장 우아한 온기

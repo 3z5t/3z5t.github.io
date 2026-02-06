@@ -1,21 +1,27 @@
 ---
-title: "Ash Brown, The Birthday Color of September 23rd"
-date: 2026-09-23
-description: "The birthday color for September 23rd is Ash Brown (534E4B). Its meaning is Stable, Balanced, Calm."
-author: 365days
+title: "Ash Brown, The Birthday Color of September 23"
+date: "2026-09-23"
+updated: "2026-09-23"
 tags:
-  - ash brown
-  - birthday color
-  - september 23rd
-  - 534e4b
-  - september
-  - silver blue
-draft: false
+  - "ash brown"
+  - "birthday color"
+  - "september 23"
+  - "534e4b"
+  - "september"
+  - "silver blue"
+description: "The birthday color for September 23 is Ash Brown (534E4B). Its meaning is Stable, Balanced, Calm."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhh545kJX45-i-xEx_yfX0EtbvpKqrCoO5vNrCOQvIb1-0PKnygu2uw_szSlpzHNZaamSHAE61fQbtSkRb_sDG1zNrgg_OEu4cCqTD6VcxdpsdeUtADk7PiJjDG1pD8rWWKWGoGj30lyPhYxExwpGmFmbpLIM8psUtJ0iqqnJz7sW70a6xFAjzeq2GzTw7u=s1600"
+en_name: "AshBrown"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Ash Brown](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_267.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhh545kJX45-i-xEx_yfX0EtbvpKqrCoO5vNrCOQvIb1-0PKnygu2uw_szSlpzHNZaamSHAE61fQbtSkRb_sDG1zNrgg_OEu4cCqTD6VcxdpsdeUtADk7PiJjDG1pD8rWWKWGoGj30lyPhYxExwpGmFmbpLIM8psUtJ0iqqnJz7sW70a6xFAjzeq2GzTw7u=s1600)
 
-## Birthday Color for September 23rd: Ash Brown (`#534E4B`)
+
+## Birthday Color for September 23: Ash Brown (`#534E4B`)
 
 ### 1. **Description of Ash Brown (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ When incorporating **Ash Brown** into your life, think of creating spaces or loo
 
 ### 4. **Plus Tip (Destiny Color)**
 
-To enhance the gentle yet **elegant** energy of **Ash Brown**, consider pairing it with **Silver Blue**, the birthday color for January 27th. The **dignified** and **noble** qualities of Silver Blue complement Ash Brown’s grounded nature, creating a **harmonious synergy** that feels both peaceful and refined. Together, they invite balance and elegance into any space or style.
+To enhance the gentle yet **elegant** energy of **Ash Brown**, consider pairing it with **Silver Blue**, the birthday color for January 27. The **dignified** and **noble** qualities of Silver Blue complement Ash Brown’s grounded nature, creating a **harmonious synergy** that feels both peaceful and refined. Together, they invite balance and elegance into any space or style.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

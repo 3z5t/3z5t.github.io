@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhCfkgjTluXFQ_Sz-l2cbFBRK6rttzFaApz139ljUz_D1RYeWFnP-PWdZkEPfKB0VObT3UtmrZsvtq2X6DxtM6jsbhmadSKfkuesUblTZQjJktRk3d32-kNXzHHNL_V3JGvbJuE-YYFNwqQmC-Qwyp8ZG2edF5QGU9XCoSoAH4Bvksdz_AiJyIvECrNFZoz=s1600)
+
 ## 8월 26일의 탄생색: 다크 베이지 (`#DEB887`)
 
 ### 1. 다크 베이지에 대한 설명: 시간의 깊이를 머금은 황금빛 침묵

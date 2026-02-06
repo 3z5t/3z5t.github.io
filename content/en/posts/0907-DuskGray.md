@@ -1,21 +1,27 @@
 ---
-title: "Dusk Gray, The Birthday Color of September 7th"
-date: 2026-09-07
-description: "The birthday color for September 7th is Dusk Gray (313035). Its meaning is Stable, Reflective, Prudent."
-author: 365days
+title: "Dusk Gray, The Birthday Color of September 7"
+date: "2026-09-07"
+updated: "2026-09-07"
 tags:
-  - dusk gray
-  - birthday color
-  - september 7th
-  - 313035
-  - september
-  - cloud gray
-draft: false
+  - "dusk gray"
+  - "birthday color"
+  - "september 7"
+  - "313035"
+  - "september"
+  - "cloud gray"
+description: "The birthday color for September 7 is Dusk Gray (313035). Its meaning is Stable, Reflective, Prudent."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgE-e-MgtnfZ2SQbe2mbscslsu5aI2MvWrnqfIlncx-7CUXKXZl4UBjAfFh0HDSABlSsFtZuwBRr8eShnYct19rg4AQnpcZElDI6-6DxJJHTJnYYAdeLEzQYaX_I73NurBwgVg01B3pS2qM5rIUIyAilBKzgoCoeSbjE39P2xFf23N1CYQC8mHFJhB8N1mk=s1600"
+en_name: "DuskGray"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Dusk Gray](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_251.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgE-e-MgtnfZ2SQbe2mbscslsu5aI2MvWrnqfIlncx-7CUXKXZl4UBjAfFh0HDSABlSsFtZuwBRr8eShnYct19rg4AQnpcZElDI6-6DxJJHTJnYYAdeLEzQYaX_I73NurBwgVg01B3pS2qM5rIUIyAilBKzgoCoeSbjE39P2xFf23N1CYQC8mHFJhB8N1mk=s1600)
 
-## Birthday Color for September 7th: Dusk Gray (`#313035`)
+
+## Birthday Color for September 7: Dusk Gray (`#313035`)
 
 ### 1. Description of Dusk Gray (Feeling and Traits)
 
@@ -37,7 +43,7 @@ For interior design, **Dusk Gray** brings a sense of **serenity** and **comfort*
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Cloud Gray**, the birthday color for October 21st, the combination brings a sense of **maturity** and **calm**. While **Dusk Gray** offers stability and reflection, **Cloud Gray** adds a soft, **serene** quality that creates a harmonious balance. Together, they form a beautiful, understated combination that’s perfect for creating peaceful, harmonious spaces.
+When paired with **Cloud Gray**, the birthday color for October 21, the combination brings a sense of **maturity** and **calm**. While **Dusk Gray** offers stability and reflection, **Cloud Gray** adds a soft, **serene** quality that creates a harmonious balance. Together, they form a beautiful, understated combination that’s perfect for creating peaceful, harmonious spaces.
 
 ### 5. Conclusion (A Poem of Healing)
 

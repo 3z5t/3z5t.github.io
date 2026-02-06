@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjHl_7uzohXRDM595cn21M8K7d9Dw4KUS8_akGgro3n_S5XD64WVmKMfBfBUSZruYw3tuKa4j9B6_z70L83VMsdz0S0OrvQ4xad30f8SwjbsstQLqg9-h2hbNdAcqFiSE_ZG7tNZwbbdAIMKyqpSfNbkl838vL8LTXU1bSvVjjbLsujSY1JWdyMpk6pfSMt=s1600)
+
 ## 5월 10일의 탄생색: 허니듀 (`#CCFFCC`)
 
 ### 1. 허니듀에 대한 설명: 싱그러운 과육이 터트리는 달콤한 빛

@@ -1,21 +1,27 @@
 ---
-title: "Moonlight Wine, The Birthday Color of July 15th"
-date: 2026-07-15
-description: "The birthday color for July 15th is Moonlight Wine (610928). Its meaning is Profound, Mysterious, Noble."
-author: 365days
+title: "Moonlight Wine, The Birthday Color of July 15"
+date: "2026-07-15"
+updated: "2026-07-15"
 tags:
-  - moonlight wine
-  - birthday color
-  - july 15th
-  - 610928
-  - july
-  - aquamarine
-draft: false
+  - "moonlight wine"
+  - "birthday color"
+  - "july 15"
+  - "610928"
+  - "july"
+  - "aquamarine"
+description: "The birthday color for July 15 is Moonlight Wine (610928). Its meaning is Profound, Mysterious, Noble."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj5O3JjIbGlx_GafS60O49ExB1g_sZP-WnkegmGlmyworkA-e4NXPgyfT48H-qzcnP-H0yt3LF1zqtkUJ0XeegjqoEbT0iuCazRy05cHg9xCpUvv3qZixxU6gklTeJ4-gFrODsFv8Ef3ipvrjz-5WIUy7EmFb8Ei-1s6K0ffWa8n4d8gDMvWThTxGdeiy0l=s1600"
+en_name: "MoonlightWine"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Moonlight Wine](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_197.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj5O3JjIbGlx_GafS60O49ExB1g_sZP-WnkegmGlmyworkA-e4NXPgyfT48H-qzcnP-H0yt3LF1zqtkUJ0XeegjqoEbT0iuCazRy05cHg9xCpUvv3qZixxU6gklTeJ4-gFrODsFv8Ef3ipvrjz-5WIUy7EmFb8Ei-1s6K0ffWa8n4d8gDMvWThTxGdeiy0l=s1600)
 
-## Birthday Color for July 15th: Moonlight Wine (`#610928`)
+
+## Birthday Color for July 15: Moonlight Wine (`#610928`)
 
 ### 1. Description of Moonlight Wine (Feeling and Traits)
 
@@ -31,7 +37,7 @@ Those born under the influence of **Moonlight Wine** are often seen as **noble**
 
 ### 4. Plus Tip (Destiny Color)
 
-For an added touch, consider how **Moonlight Wine** combines with **Aquamarine**—the birthday color for April 6th. This pairing creates a captivating synergy, with the **refreshing purity** of Aquamarine balancing the **mystery** and **nobility** of Moonlight Wine, resulting in a harmonious blend of **clarity** and **depth**.
+For an added touch, consider how **Moonlight Wine** combines with **Aquamarine**—the birthday color for April 6. This pairing creates a captivating synergy, with the **refreshing purity** of Aquamarine balancing the **mystery** and **nobility** of Moonlight Wine, resulting in a harmonious blend of **clarity** and **depth**.
 
 ### 5. Conclusion (A Poem of Healing)
 

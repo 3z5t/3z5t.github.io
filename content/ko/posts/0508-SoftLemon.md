@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEixUdbTm2KzbbybQinJgGn-o6PMz4vL3JZeVi3TmJYvXpEWmYxZe4JCNv8_ZBOFedHnqwOLwVCQs_KBp-DoYri5ZZw94gIHKdDVX6biHoh0h3G0t7HR8UOoihG_K2voZZdhMxP-UV1bfHnpP9oCEmXGYuno_9IDc1ApXH5EMC4nTWtXfSVGgCLYfRkfr_h4=s1600)
+
 ## 5월 8일의 탄생색: 소프트 레몬 (`#D5D679`)
 
 ### 1. 소프트 레몬에 대한 설명: 마음을 어루만지는 봄의 온기

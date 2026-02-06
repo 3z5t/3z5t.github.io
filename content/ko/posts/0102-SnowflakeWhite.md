@@ -19,6 +19,9 @@ postId: "1004"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEji6YxdORHb2a7fqbX3frcSj2ffw7tlebbc_Ad5RnOVUfeidbTlWJbAxCji6s7LU_WQmbGc60TaQWZYwajcBBMdWEc9ZpPJ2O-3zFWis5MHMhcScAf6OgsLosATGyLFPTZBe6qcAYU4buQKqez__hu52-umk-ShjFap2Nhg1cxRfOw4iOgVR22hopPREbzE=s1600)
+
+
 **1월 2일의 탄생색: 눈꽃 화이트 (#F2EDF3)**
 
 ### 1. 눈꽃 화이트에 대한 설명 (색의 느낌과 특징)

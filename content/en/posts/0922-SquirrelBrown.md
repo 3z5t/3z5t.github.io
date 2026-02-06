@@ -1,21 +1,27 @@
 ---
-title: "Squirrel Brown, The Birthday Color of September 22nd"
-date: 2026-09-22
-description: "The birthday color for September 22nd is Squirrel Brown (996A52). Its meaning is Prepared, Diligent, Practical."
-author: 365days
+title: "Squirrel Brown, The Birthday Color of September 22"
+date: "2026-09-22"
+updated: "2026-09-22"
 tags:
-  - squirrel brown
-  - birthday color
-  - september 22nd
-  - 996a52
-  - september
-  - deep sora
-draft: false
+  - "squirrel brown"
+  - "birthday color"
+  - "september 22"
+  - "996a52"
+  - "september"
+  - "deep sora"
+description: "The birthday color for September 22 is Squirrel Brown (996A52). Its meaning is Prepared, Diligent, Practical."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiLWjdVy2QDE1uUoRqyVLECNJyqPCXjeZU4tAIZOaT1x_Hl1qZ16RzZvpmKSRVN1H2hyq60wc3B5Xy-DnMYNYVhpICYbQO7O5cexgDJHt-F4Y3EaOM4FbYlle_Katu_jv29dbssPFtP78h7V-5sDc5POilQOpyfblkMPtZvs61juPVKdKgGorWD_ti9Saxi=s1600"
+en_name: "SquirrelBrown"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Squirrel Brown](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_266.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiLWjdVy2QDE1uUoRqyVLECNJyqPCXjeZU4tAIZOaT1x_Hl1qZ16RzZvpmKSRVN1H2hyq60wc3B5Xy-DnMYNYVhpICYbQO7O5cexgDJHt-F4Y3EaOM4FbYlle_Katu_jv29dbssPFtP78h7V-5sDc5POilQOpyfblkMPtZvs61juPVKdKgGorWD_ti9Saxi=s1600)
 
-## Birthday Color for September 22nd: Squirrel Brown (`#996A52`)
+
+## Birthday Color for September 22: Squirrel Brown (`#996A52`)
 
 ### 1. **Description of Squirrel Brown (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ When styling with **Squirrel Brown**, the key is to embrace its natural, **earth
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For an added layer of depth, try combining **Squirrel Brown** with **Deep Sora**, the birthday color for January 19th. **Deep Sora’s** serene, **diligent** qualities beautifully complement the grounded, **practical** nature of Squirrel Brown, creating a dynamic synergy of **responsibility** and **stability**.
+For an added layer of depth, try combining **Squirrel Brown** with **Deep Sora**, the birthday color for January 19. **Deep Sora’s** serene, **diligent** qualities beautifully complement the grounded, **practical** nature of Squirrel Brown, creating a dynamic synergy of **responsibility** and **stability**.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

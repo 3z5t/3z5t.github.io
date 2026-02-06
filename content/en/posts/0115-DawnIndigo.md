@@ -1,21 +1,28 @@
 ---
-title: "Dawn Indigo, The Birthday Color of January 15th"
-date: 2026-01-15
-description: "The birthday color for January 15th is Dawn Indigo (2C3C57). Its meaning is Artistic, Cultural, Creative."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-15'
+description: The birthday color for January 15 is Dawn Indigo (2C3C57). Its meaning
+  is Artistic, Cultural, Creative.
+en_name: DawnIndigo
 tags:
-  - dawn indigo
-  - birthday color
-  - january 15th
-  - 2c3c57
-  - january
-  - winter sand beach
-draft: false
+- dawn indigo
+- birthday color
+- january 15
+- 2c3c57
+- january
+- winter sand beach
+postId: '4462389597170219544'
+postUrl: https://the366days-en.blogspot.com/2026/01/dawn-indigo-birthday-color-of-january-15.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEj5l1wHPIzld4LMfuZFzgxSoNR5yH3R37Ra5J2dLDTeqqXpsjojEPPsMvgaaM4K6vuW0ojnQ12_I45gmlxM5B2ttKmhWV_j7pwjoNKxRbZP3jbmJUnBWoc7D6FRl1sgg95Rj3HiweGG7gZx3X2F0cdhvXOybM4bF2x2EOxc21oRtFs7SLRx2YtfMG8Xl4CY=s1600
+title: Dawn Indigo, The Birthday Color of January 15
+updated: '2026-01-15'
 ---
 
-![Dawn Indigo](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_015.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj5l1wHPIzld4LMfuZFzgxSoNR5yH3R37Ra5J2dLDTeqqXpsjojEPPsMvgaaM4K6vuW0ojnQ12_I45gmlxM5B2ttKmhWV_j7pwjoNKxRbZP3jbmJUnBWoc7D6FRl1sgg95Rj3HiweGG7gZx3X2F0cdhvXOybM4bF2x2EOxc21oRtFs7SLRx2YtfMG8Xl4CY=s1600)
 
-## Birthday Color for January 15th: Dawn Indigo (`#2C3C57`)
+
+## Birthday Color for January 15: Dawn Indigo (`#2C3C57`)
 
 ### 1. **Description of Dawn Indigo (Feeling and Traits)**
 
@@ -31,7 +38,7 @@ In fashion, **Dawn Indigo** is an elegant yet understated choice that speaks to 
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For a balanced and harmonious combination, consider pairing **Dawn Indigo** with **Winter Sand Beach**, the birthday color of September 12th. While **Dawn Indigo** encourages creative depth and cultural richness, **Winter Sand Beach** brings a cozy, stable warmth, making this pairing an ideal blend for grounding your artistic energy in a tranquil, peaceful environment.
+For a balanced and harmonious combination, consider pairing **Dawn Indigo** with **Winter Sand Beach**, the birthday color of September 12. While **Dawn Indigo** encourages creative depth and cultural richness, **Winter Sand Beach** brings a cozy, stable warmth, making this pairing an ideal blend for grounding your artistic energy in a tranquil, peaceful environment.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

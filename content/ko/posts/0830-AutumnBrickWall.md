@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjjA3jCYFxFiIqv75XsWFR-wTIMObOZNrOUwA7-DVwfPvcnFYEfK2PC8mo9xKGAg86VSlvv1OtkS822fMLOcm8Y241p1Bowk9aqGVxC8j_fqG5f_UADIY8dzjJGnLggpNgCo06bH9rCSj9FJfKVxaWm2Dyj_xSPFVDmo8r0EIUaOSK7YMiYrASwddl_Kk0E=s1600)
+
 ## 8월 30일의 탄생색: 가을의 벽돌담 (`#AA837E`)
 
 ### 1. 가을의 벽돌담에 대한 설명: 계절의 틈새에 피어난 아련한 온기

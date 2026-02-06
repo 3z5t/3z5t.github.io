@@ -1,21 +1,27 @@
 ---
-title: "Spicy Red, The Birthday Color of October 10th"
-date: 2026-10-10
-description: "The birthday color for October 10th is Spicy Red (990033). Its meaning is Passionate, Strong Will, Profound."
-author: 365days
+title: "Spicy Red, The Birthday Color of October 10"
+date: "2026-10-10"
+updated: "2026-10-10"
 tags:
-  - spicy red
-  - birthday color
-  - october 10th
-  - 990033
-  - october
-  - delicate green
-draft: false
+  - "spicy red"
+  - "birthday color"
+  - "october 10"
+  - "990033"
+  - "october"
+  - "delicate green"
+description: "The birthday color for October 10 is Spicy Red (990033). Its meaning is Passionate, Strong Will, Profound."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEixwg-c0CA3I-AGCxMKwGuIIgz5otN73JHX2I8UYt2-ue2Lmy4O9quyjxnX3aBTHJ4OvoniZST-Yhnt2i7CXlcP4bk_Gv8iaIZDQX78SAFvV7_JXhMDp4XKA8t0RP87D9Sw7cIm1tkmgC6DY1dgdPRlKlmVploVhSX_07IpklSf6PD56AbNHZG1MUtlnLBu=s1600"
+en_name: "SpicyRed"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Spicy Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_284.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEixwg-c0CA3I-AGCxMKwGuIIgz5otN73JHX2I8UYt2-ue2Lmy4O9quyjxnX3aBTHJ4OvoniZST-Yhnt2i7CXlcP4bk_Gv8iaIZDQX78SAFvV7_JXhMDp4XKA8t0RP87D9Sw7cIm1tkmgC6DY1dgdPRlKlmVploVhSX_07IpklSf6PD56AbNHZG1MUtlnLBu=s1600)
 
-## Birthday Color for October 10th: Spicy Red (`#990033`)
+
+## Birthday Color for October 10: Spicy Red (`#990033`)
 
 ### 1. **Description of Spicy Red (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ Those born under the influence of **Spicy Red** carry an inner **fire** that fue
 
 ### 4. **Plus Tip (Destiny Color)**
 
-Combining **Spicy Red** with **Delicate Green**, the birthday color of **June 1st**, creates a beautiful balance of **passion** and **calm**. While Spicy Red brings intensity and boldness, **Delicate Green** introduces **peace** and **creativity**, offering a grounding effect that complements the fiery nature of red. Together, they create a synergy that’s both **dynamic** and **harmonious**, bringing out the best of both worlds.
+Combining **Spicy Red** with **Delicate Green**, the birthday color of **June 1**, creates a beautiful balance of **passion** and **calm**. While Spicy Red brings intensity and boldness, **Delicate Green** introduces **peace** and **creativity**, offering a grounding effect that complements the fiery nature of red. Together, they create a synergy that’s both **dynamic** and **harmonious**, bringing out the best of both worlds.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

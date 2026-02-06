@@ -1,21 +1,27 @@
 ---
-title: "Yogurt, The Birthday Color of August 5th"
-date: 2026-08-05
-description: "The birthday color for August 5th is Yogurt (FFDCB8). Its meaning is Pure Heart, Fresh, Bright Personality."
-author: 365days
+title: "Yogurt, The Birthday Color of August 5"
+date: "2026-08-05"
+updated: "2026-08-05"
 tags:
-  - yogurt
-  - birthday color
-  - august 5th
-  - ffdcb8
-  - august
-  - evening sky
-draft: false
+  - "yogurt"
+  - "birthday color"
+  - "august 5"
+  - "ffdcb8"
+  - "august"
+  - "evening sky"
+description: "The birthday color for August 5 is Yogurt (FFDCB8). Its meaning is Pure Heart, Fresh, Bright Personality."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjep5zJtTpdvEwmYK8EcGgwXPotlmxKSGuAJ9ojBDBcnSEP6IJ81mbJlGkgg1OW0wsrR75Pumf9bUTCXKskDpGYJK7wKs_UpybdTdt78da5YuY_hcJ5SO-PFnx4rU6J3rd3S9VR0jDWPwdBP_8X3zmtbUkSnsH_sypFgOncMC1dc4MnzZVfTXDGZV2iRVEv=s1600"
+en_name: "Yogurt"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Yogurt](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_218.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjep5zJtTpdvEwmYK8EcGgwXPotlmxKSGuAJ9ojBDBcnSEP6IJ81mbJlGkgg1OW0wsrR75Pumf9bUTCXKskDpGYJK7wKs_UpybdTdt78da5YuY_hcJ5SO-PFnx4rU6J3rd3S9VR0jDWPwdBP_8X3zmtbUkSnsH_sypFgOncMC1dc4MnzZVfTXDGZV2iRVEv=s1600)
 
-## Birthday Color for August 5th: Yogurt (`#FFDCB8`)
+
+## Birthday Color for August 5: Yogurt (`#FFDCB8`)
 
 ### 1. Description of Yogurt (Feeling and Traits)
 
@@ -35,7 +41,7 @@ Those born under the color **Yogurt** often have a **pure heart** and an undenia
 
 ### 4. Plus Tip (Destiny Color)
 
-**Evening Sky**, the birthday color of September 4th, combines beautifully with **Yogurt**, bringing together the gentle warmth of **Yogurt’s** golden tones with the deep, reflective calm of **Evening Sky**. This pairing creates a sense of **balance**, offering a perfect contrast between **brightness** and **serenity**. Together, they create a harmonious synergy that enhances both creativity and introspection.
+**Evening Sky**, the birthday color of September 4, combines beautifully with **Yogurt**, bringing together the gentle warmth of **Yogurt’s** golden tones with the deep, reflective calm of **Evening Sky**. This pairing creates a sense of **balance**, offering a perfect contrast between **brightness** and **serenity**. Together, they create a harmonious synergy that enhances both creativity and introspection.
 
 ### 5. Conclusion (A Poem of Healing)
 

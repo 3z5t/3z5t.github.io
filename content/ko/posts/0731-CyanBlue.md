@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhFZPoL87BiN6T_ZsLyuNF583CjIb-BJw89QOsWlLhIvvxh3Q2vNKWd5v7mZzpHT1DqhH_haAjDOnLv1DbfAbLCgRAr7Szg0POiBzAQ_Tan0v0r37nZ7rE-GsV8dfYY_hjPXUrXIb0nVO1trM4l5TXCOaMYBwYcjxFmgu0YFHgDwqTmiLjBSaE52r6udtpH=s1600)
+
 ## 7월 31일의 탄생색: 시안 블루 (`#0B93CE`)
 
 ### 1. 시안 블루에 대한 설명: 7월의 대미를 장식하는 지혜의 바다

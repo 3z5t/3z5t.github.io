@@ -1,21 +1,27 @@
 ---
-title: "Antique Ivory, The Birthday Color of December 12th"
-date: 2026-12-12
-description: "The birthday color for December 12th is Antique Ivory (E9E1D8). Its meaning is Pure Heart, Clean, Elegant."
-author: 365days
+title: "Antique Ivory, The Birthday Color of December 12"
+date: "2026-12-12"
+updated: "2026-12-12"
 tags:
-  - antique ivory
-  - birthday color
-  - december 12th
-  - e9e1d8
-  - december
-  - deep night sky
-draft: false
+  - "antique ivory"
+  - "birthday color"
+  - "december 12"
+  - "e9e1d8"
+  - "december"
+  - "deep night sky"
+description: "The birthday color for December 12 is Antique Ivory (E9E1D8). Its meaning is Pure Heart, Clean, Elegant."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjhi1BwisQ0144U1_kEGoA_-Qix417ANJFaGxRagqaWZq5WpjvtnHPRB8TluHyA1JQ_mOEOs2sgoNCPUl5rO8XJidRW_M7_QA0MbpDNmeg80tIvjgLih_yZdDJDyYwovTCNjhpwqYvi6cI-Tqr_I2gADPUw7WLalqZ46shsyvufp1iMypUmn2PwR9KMajyg=s1600"
+en_name: "AntiqueIvory"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Antique Ivory](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_347.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjhi1BwisQ0144U1_kEGoA_-Qix417ANJFaGxRagqaWZq5WpjvtnHPRB8TluHyA1JQ_mOEOs2sgoNCPUl5rO8XJidRW_M7_QA0MbpDNmeg80tIvjgLih_yZdDJDyYwovTCNjhpwqYvi6cI-Tqr_I2gADPUw7WLalqZ46shsyvufp1iMypUmn2PwR9KMajyg=s1600)
 
-## Birthday Color for December 12th: Antique Ivory (`#E9E1D8`)
+
+## Birthday Color for December 12: Antique Ivory (`#E9E1D8`)
 
 ### 1. Description of Antique Ivory (Feeling and Traits)
 
@@ -35,7 +41,7 @@ For interiors, **Antique Ivory** makes an excellent choice for creating serene, 
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Deep Night Sky** (the birthday color of September 3rd), **Antique Ivory** creates a lovely contrast—one that balances light and dark, serenity and mystery. **Deep Night Sky’s** **insightful and contemplative** nature complements the **purity and elegance** of **Antique Ivory**, bringing a sense of depth and reflection to the soft, peaceful energy of this color.
+When paired with **Deep Night Sky** (the birthday color of September 3), **Antique Ivory** creates a lovely contrast—one that balances light and dark, serenity and mystery. **Deep Night Sky’s** **insightful and contemplative** nature complements the **purity and elegance** of **Antique Ivory**, bringing a sense of depth and reflection to the soft, peaceful energy of this color.
 
 ### 5. Conclusion (A Poem of Healing)
 

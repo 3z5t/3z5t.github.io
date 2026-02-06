@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjsGYWG4SdzEruPHA7iMz6ai3yAIEsTejbf9goXSDg5SWZVVfcqJCJDZ2-UEOb16Y5hhK1cJyv5i1bOV_C10_nHERLM_ntkFbrGBfIBKjOBxVGNJ8MVmAwCgW_3ujQYtU9XjdGVMBU_BUiKTvEkQxxgh5khHX2uiEYjgaBqAOyIdC22kW0AhG-HEfTqJMBY=s1600)
+
 ## 11월 7일의 탄생색: 무스 그레이 (`#999999`)
 
 ### 1. 무스 그레이에 대한 설명: 흑과 백 사이, 가장 완벽한 균형의 미학

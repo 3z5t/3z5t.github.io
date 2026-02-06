@@ -1,21 +1,27 @@
 ---
-title: "Soft Melon, The Birthday Color of April 11th"
-date: 2026-04-11
-description: "The birthday color for April 11th is Soft Melon (84C07A). Its meaning is Stability, Maturity, Balanced."
-author: 365days
+title: "Soft Melon, The Birthday Color of April 11"
+date: "2026-04-11"
+updated: "2026-04-11"
 tags:
-  - soft melon
-  - birthday color
-  - april 11th
-  - 84c07a
-  - april
-  - pale magenta
-draft: false
+  - "soft melon"
+  - "birthday color"
+  - "april 11"
+  - "84c07a"
+  - "april"
+  - "pale magenta"
+description: "The birthday color for April 11 is Soft Melon (84C07A). Its meaning is Stability, Maturity, Balanced."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgPIIXtRotugPRfzJardPw7MXABdPIWQ2Jxj5UbP3pY9bGHhFttFxalPGh2KN6xP7T2EFdQIoL7EFMs6bA0POi8mTPO5YlDFJv0FjiLCHXmPzp_8V8m08oLH1ZZPxwT_ztYc-Ah5gmGJebm0eDvs083EuTFkJWNY4uPRtL0hZ5ZkbIWeqMYfG_OZ2WnteiA=s1600"
+en_name: "SoftMelon"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Soft Melon](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_102.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgPIIXtRotugPRfzJardPw7MXABdPIWQ2Jxj5UbP3pY9bGHhFttFxalPGh2KN6xP7T2EFdQIoL7EFMs6bA0POi8mTPO5YlDFJv0FjiLCHXmPzp_8V8m08oLH1ZZPxwT_ztYc-Ah5gmGJebm0eDvs083EuTFkJWNY4uPRtL0hZ5ZkbIWeqMYfG_OZ2WnteiA=s1600)
 
-## Birthday Color for April 11th: Soft Melon (`#84C07A`)
+
+## Birthday Color for April 11: Soft Melon (`#84C07A`)
 
 ### 1. Description of Soft Melon (Feeling and Traits)
 
@@ -41,7 +47,7 @@ When it comes to **interior design**, **Soft Melon** brings a **serene**, welcom
 
 ### 4. Plus Tip (Destiny Color)
 
-**Pale Magenta**, the birthday color of **February 13th**, is a beautiful partner to **Soft Melon**. The rich yet gentle tones of **Pale Magenta** bring out the **romantic**, **emotional**, and **artistic** qualities of both colors, making them work harmoniously together. When paired with **Soft Melon**, **Pale Magenta** creates a balance between **warmth** and **sensitivity**, making for a color combination that feels both grounded and inspired. Combining the two brings a subtle **vibrancy** to the calm of **Soft Melon**, creating a peaceful yet dynamic energy.
+**Pale Magenta**, the birthday color of **February 13**, is a beautiful partner to **Soft Melon**. The rich yet gentle tones of **Pale Magenta** bring out the **romantic**, **emotional**, and **artistic** qualities of both colors, making them work harmoniously together. When paired with **Soft Melon**, **Pale Magenta** creates a balance between **warmth** and **sensitivity**, making for a color combination that feels both grounded and inspired. Combining the two brings a subtle **vibrancy** to the calm of **Soft Melon**, creating a peaceful yet dynamic energy.
 
 ### 5. Conclusion (A Poem of Healing)
 

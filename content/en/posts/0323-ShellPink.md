@@ -1,21 +1,27 @@
 ---
-title: "Shell Pink, The Birthday Color of March 23rd"
-date: 2026-03-23
-description: "The birthday color for March 23rd is Shell Pink (E9CCC8). Its meaning is Elegant, Noble, Sophisticated."
-author: 365days
+title: "Shell Pink, The Birthday Color of March 23"
+date: "2026-03-23"
+updated: "2026-03-23"
 tags:
-  - shell pink
-  - birthday color
-  - march 23rd
-  - e9ccc8
-  - march
-  - dark forest gray
-draft: false
+  - "shell pink"
+  - "birthday color"
+  - "march 23"
+  - "e9ccc8"
+  - "march"
+  - "dark forest gray"
+description: "The birthday color for March 23 is Shell Pink (E9CCC8). Its meaning is Elegant, Noble, Sophisticated."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhjtr6PBA1dCLTMqjIheq5VsgGYoO3q3s8LJV1pqI8QJBv_UVARnmfevnvZUN5lWwu_OewLWXIJJbGuonOHsNbXETzM8sjKk5MKLr0J6XrdQ6kvVItV9IxXoH8ZFaHSA6Bl-In1RgjGHAwg2LgPU6cLxkYE-2dnkjVjyxLiwHsi9ThOsPVFHKgjODF7PP-n=s1600"
+en_name: "ShellPink"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Shell Pink](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_083.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhjtr6PBA1dCLTMqjIheq5VsgGYoO3q3s8LJV1pqI8QJBv_UVARnmfevnvZUN5lWwu_OewLWXIJJbGuonOHsNbXETzM8sjKk5MKLr0J6XrdQ6kvVItV9IxXoH8ZFaHSA6Bl-In1RgjGHAwg2LgPU6cLxkYE-2dnkjVjyxLiwHsi9ThOsPVFHKgjODF7PP-n=s1600)
 
-## Birthday Color for March 23rd: Shell Pink (`#E9CCC8`)
+
+## Birthday Color for March 23: Shell Pink (`#E9CCC8`)
 
 ### 1. Description of Shell Pink (Feeling and Traits)
 
@@ -31,7 +37,7 @@ To highlight the inherent **elegance** of **Shell Pink**, let it shine in its pu
 
 ### 4. Plus Tip (Destiny Color)
 
-For an intriguing contrast, **Dark Forest Gray** (Hex: `#2A3A2F`)—the birthday color of December 19th—pairs beautifully with **Shell Pink**. **Combining these two colors creates a perfect balance**, where the soft warmth of Shell Pink meets the deep, grounded energy of Dark Forest Gray. Together, they form a harmonious synergy that feels both **refined and stable**, a combination that evokes a sense of calm and dignity.
+For an intriguing contrast, **Dark Forest Gray** (Hex: `#2A3A2F`)—the birthday color of December 19—pairs beautifully with **Shell Pink**. **Combining these two colors creates a perfect balance**, where the soft warmth of Shell Pink meets the deep, grounded energy of Dark Forest Gray. Together, they form a harmonious synergy that feels both **refined and stable**, a combination that evokes a sense of calm and dignity.
 
 ### 5. Conclusion (A Poem of Healing)
 

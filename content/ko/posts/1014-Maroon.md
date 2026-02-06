@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgLqv0q-xBYg6AK0HWNn78rH2DYQEO9Wz05IQa1rJOJeQwDLo4fDne5ROc9v1Hcq7aQxxZ6aZfUplXbFfeNdUUFqMezfxMLA4kJVcP4tagyc2wc7ukNyKuiEjU_2BWwk4eal0WafpVESp1G9wc-r2I6MhQVwB-8h400sRR_-T8nDLM62zKHHRhgzwMfWI1B=s1600)
+
 ## 10월 14일의 탄생색: 마룬 (`#800000`)
 
 ### 1. 마룬에 대한 설명: 가을의 심장부에서 익어가는 가장 완벽한 성숙

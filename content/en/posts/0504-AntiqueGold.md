@@ -1,21 +1,27 @@
 ---
-title: "Antique Gold, The Birthday Color of May 4th"
-date: 2026-05-04
-description: "The birthday color for May 4th is Antique Gold (CFB53B). Its meaning is Wise, Experienced, Insightful."
-author: 365days
+title: "Antique Gold, The Birthday Color of May 4"
+date: "2026-05-04"
+updated: "2026-05-04"
 tags:
-  - antique gold
-  - birthday color
-  - may 4th
-  - cfb53b
-  - may
-  - elegant ultramarine
-draft: false
+  - "antique gold"
+  - "birthday color"
+  - "may 4"
+  - "cfb53b"
+  - "may"
+  - "elegant ultramarine"
+description: "The birthday color for May 4 is Antique Gold (CFB53B). Its meaning is Wise, Experienced, Insightful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhMvEu1LTAl1PIg2eBUckK0a3sEH5mJaSTJfBb7k2zxXnb722-jNJ9cPvQO_gZtJdEbpeiApq6gVO52qhSVxOUtrKRLeFZ5vX0iZzdQU3PYS_Q7k3WnMCkjDAlqfSmeN4g9OH6ONQwZAE8TCN_RT7JPwqLzh45iymvPoxZV8MSo9ovS_GMLbv82vKqHPD9B=s1600"
+en_name: "AntiqueGold"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Antique Gold](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_125.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhMvEu1LTAl1PIg2eBUckK0a3sEH5mJaSTJfBb7k2zxXnb722-jNJ9cPvQO_gZtJdEbpeiApq6gVO52qhSVxOUtrKRLeFZ5vX0iZzdQU3PYS_Q7k3WnMCkjDAlqfSmeN4g9OH6ONQwZAE8TCN_RT7JPwqLzh45iymvPoxZV8MSo9ovS_GMLbv82vKqHPD9B=s1600)
 
-## Birthday Color for May 4th: Antique Gold (`#CFB53B`)
+
+## Birthday Color for May 4: Antique Gold (`#CFB53B`)
 
 ### 1. Description of Antique Gold (Feeling and Traits)
 
@@ -32,7 +38,7 @@ For **interior design**, **Antique Gold** brings a luxurious, timeless feel to a
 
 ### 4. Plus Tip (Destiny Color)
 
-**Antique Gold** pairs beautifully with **Elegant Ultramarine** (Hex: `#445B97`), the birthday color of January 10th. When combined, the sophisticated richness of **Antique Gold** meets the deep **reliability** and **loyalty** of **Elegant Ultramarine**, creating a harmonious balance of wisdom and stability. This combination brings both grace and strength, offering a sense of **timeless reliability** in all things.
+**Antique Gold** pairs beautifully with **Elegant Ultramarine** (Hex: `#445B97`), the birthday color of January 10. When combined, the sophisticated richness of **Antique Gold** meets the deep **reliability** and **loyalty** of **Elegant Ultramarine**, creating a harmonious balance of wisdom and stability. This combination brings both grace and strength, offering a sense of **timeless reliability** in all things.
 
 ### 5. Conclusion (A Poem of Healing)
 

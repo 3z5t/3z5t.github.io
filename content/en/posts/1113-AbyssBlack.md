@@ -1,21 +1,27 @@
 ---
-title: "Abyss Black, The Birthday Color of November 13th"
-date: 2026-11-13
-description: "The birthday color for November 13th is Abyss Black (1A1A1A). Its meaning is Infinite Possibility, Mysterious, Profound."
-author: 365days
+title: "Abyss Black, The Birthday Color of November 13"
+date: "2026-11-13"
+updated: "2026-11-13"
 tags:
-  - abyss black
-  - birthday color
-  - november 13th
-  - 1a1a1a
-  - november
-  - pure silver
-draft: false
+  - "abyss black"
+  - "birthday color"
+  - "november 13"
+  - "1a1a1a"
+  - "november"
+  - "pure silver"
+description: "The birthday color for November 13 is Abyss Black (1A1A1A). Its meaning is Infinite Possibility, Mysterious, Profound."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjrP61GRVoqCTFqZx25VJcj8CRCu2dE5wPAP-4xyt825VbgBjOP--jN-mwU6yyStl-SL4fj5NuhT0JHj_mgNx7K0pDuWLCgjBgSYtX82O4YxuNwImzno5tf4adIrgiOYaY3XsmupPuaQ82T1B7ugektYDAvoBCBgdqhfLnPlxh0mjfK67vAJrgbR1UFd0tm=s1600"
+en_name: "AbyssBlack"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Abyss Black](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_318.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjrP61GRVoqCTFqZx25VJcj8CRCu2dE5wPAP-4xyt825VbgBjOP--jN-mwU6yyStl-SL4fj5NuhT0JHj_mgNx7K0pDuWLCgjBgSYtX82O4YxuNwImzno5tf4adIrgiOYaY3XsmupPuaQ82T1B7ugektYDAvoBCBgdqhfLnPlxh0mjfK67vAJrgbR1UFd0tm=s1600)
 
-## Birthday Color for November 13th: Abyss Black (`#1A1A1A`)
+
+## Birthday Color for November 13: Abyss Black (`#1A1A1A`)
 
 ### 1. Description of Abyss Black (Feeling and Traits)
 
@@ -39,7 +45,7 @@ In beauty, **Abyss Black** can be a bold, transformative choice. A **bold black 
 
 ### 4. Plus Tip (Destiny Color)
 
-**Pure Silver** (Hex: `#E5E5E5`), the birthday color of **December 17th**, pairs beautifully with **Abyss Black**. Where **Abyss Black** offers depth and mystery, **Pure Silver** brings **clarity** and **light**. When these two colors come together, they create a harmonious blend of **complexity** and **simplicity**—a perfect synergy of **balance** and **potential**.
+**Pure Silver** (Hex: `#E5E5E5`), the birthday color of **December 17**, pairs beautifully with **Abyss Black**. Where **Abyss Black** offers depth and mystery, **Pure Silver** brings **clarity** and **light**. When these two colors come together, they create a harmonious blend of **complexity** and **simplicity**—a perfect synergy of **balance** and **potential**.
 
 ### 5. Conclusion (A Poem of Healing)
 

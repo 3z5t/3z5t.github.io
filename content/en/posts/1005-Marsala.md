@@ -1,21 +1,27 @@
 ---
-title: "Marsala, The Birthday Color of October 5th"
-date: 2026-10-05
-description: "The birthday color for October 5th is Marsala (E9AEA7). Its meaning is Sophisticated, Classy, Elegant."
-author: 365days
+title: "Marsala, The Birthday Color of October 5"
+date: "2026-10-05"
+updated: "2026-10-05"
 tags:
-  - marsala
-  - birthday color
-  - october 5th
-  - e9aea7
-  - october
-  - deep sage green
-draft: false
+  - "marsala"
+  - "birthday color"
+  - "october 5"
+  - "e9aea7"
+  - "october"
+  - "deep sage green"
+description: "The birthday color for October 5 is Marsala (E9AEA7). Its meaning is Sophisticated, Classy, Elegant."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgysjjAM4hgwdORdu6O687D8zPI6lhKIkF-z8WhgfCwVfbO4JrxI9Y0IgcN73wSEkSL4pQWtPnOWV3JQELIN0BGPQE9WSZXwG2dZ6jbmGFjH8zWHcBxWCCdGyijFHQH6_F06rT9AcQO5d5rsm2AvjTZkefCwa4f3Jp-4fdscIm-ckzqXCuaLnW39srqFJY7=s1600"
+en_name: "Marsala"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Marsala](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_279.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgysjjAM4hgwdORdu6O687D8zPI6lhKIkF-z8WhgfCwVfbO4JrxI9Y0IgcN73wSEkSL4pQWtPnOWV3JQELIN0BGPQE9WSZXwG2dZ6jbmGFjH8zWHcBxWCCdGyijFHQH6_F06rT9AcQO5d5rsm2AvjTZkefCwa4f3Jp-4fdscIm-ckzqXCuaLnW39srqFJY7=s1600)
 
-## Birthday Color for October 5th: Marsala (`#E9AEA7`)
+
+## Birthday Color for October 5: Marsala (`#E9AEA7`)
 
 ### 1. **Description of Marsala (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ The essence of **Marsala** lies in its quiet **sophistication**. Those born unde
 
 ### 4. **Plus Tip (Destiny Color)**
 
-Pairing **Marsala** with **Deep Sage Green**, the birthday color of **October 27th**, creates a harmonious contrast of sophistication and wisdom. Together, they offer a unique balance of **elegance** and **grounded clarity**, a beautiful synergy that speaks to both the mind and the heart.
+Pairing **Marsala** with **Deep Sage Green**, the birthday color of **October 27**, creates a harmonious contrast of sophistication and wisdom. Together, they offer a unique balance of **elegance** and **grounded clarity**, a beautiful synergy that speaks to both the mind and the heart.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjIFpkmp-1cn1-o3P3EyHCAZ9YK9lZfnJ9kSmxHichBJ3EtvCBaFJHmvtHi7ooM0deiu1cmqUWNMH_qCSbE4kVBtabFaRvTstsKisDkOP2-wRdUszB_6fLmCPTQ6-xqFfxTXu5fOWvv4sWg8k1UwMperWqqhadr_Gl9yea8DXvrt2j6e9r2-Pwg5gPWHPCF=s1600)
+
 ## 10월 2일의 탄생색: 레드 오렌지 (`#FF3333`)
 
 ### 1. 레드 오렌지에 대한 설명: 심장을 뛰게 하는 가장 짜릿한 비타민

@@ -1,21 +1,27 @@
 ---
-title: "Bright Moss, The Birthday Color of April 17th"
-date: 2026-04-17
-description: "The birthday color for April 17th is Bright Moss (ADC12D). Its meaning is Vitality, Prosperity, Creativity."
-author: 365days
+title: "Bright Moss, The Birthday Color of April 17"
+date: "2026-04-17"
+updated: "2026-04-17"
 tags:
-  - bright moss
-  - birthday color
-  - april 17th
-  - adc12d
-  - april
-  - pure blue
-draft: false
+  - "bright moss"
+  - "birthday color"
+  - "april 17"
+  - "adc12d"
+  - "april"
+  - "pure blue"
+description: "The birthday color for April 17 is Bright Moss (ADC12D). Its meaning is Vitality, Prosperity, Creativity."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjvB4NWxlWDXYfWrgEiyAerLp6yPCM4RaFyxF_e1VY3HH1wKqf5GO0mnvIdvZ0e4c_0nP-vYaeTago36tRvjWaKjx6rcQyvoXUhPkJMyKH8KodPdcdEu1F7ZXnsXJLQIhTZ6Nh7DtRI036qIufv5UUskfEdwDepo-jfqZc4fjr24bhwst_nxJzxYQB3n8L5=s1600"
+en_name: "BrightMoss"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Bright Moss](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_108.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjvB4NWxlWDXYfWrgEiyAerLp6yPCM4RaFyxF_e1VY3HH1wKqf5GO0mnvIdvZ0e4c_0nP-vYaeTago36tRvjWaKjx6rcQyvoXUhPkJMyKH8KodPdcdEu1F7ZXnsXJLQIhTZ6Nh7DtRI036qIufv5UUskfEdwDepo-jfqZc4fjr24bhwst_nxJzxYQB3n8L5=s1600)
 
-## Birthday Color for April 17th: Bright Moss (`#ADC12D`)
+
+## Birthday Color for April 17: Bright Moss (`#ADC12D`)
 
 ### 1. Description of Bright Moss (Feeling and Traits)
 
@@ -31,7 +37,7 @@ When styling with **Bright Moss**, think of it as a color that **commands attent
 
 ### 4. Plus Tip (Destiny Color)
 
-**Pure Blue** (Hex: `#3333FF`), the birthday color for July 11th, harmonizes beautifully with **Bright Moss**. The **passion and depth** of **Pure Blue** pairs with the **vitality** and **creativity** of **Bright Moss**, creating an inspiring synergy that sparks both intellectual and emotional growth. Combining these two colors brings a balanced, **dynamic energy** into any environment, perfect for those seeking both peace and motivation.
+**Pure Blue** (Hex: `#3333FF`), the birthday color for July 11, harmonizes beautifully with **Bright Moss**. The **passion and depth** of **Pure Blue** pairs with the **vitality** and **creativity** of **Bright Moss**, creating an inspiring synergy that sparks both intellectual and emotional growth. Combining these two colors brings a balanced, **dynamic energy** into any environment, perfect for those seeking both peace and motivation.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhqWXQmmaRAOcnEhx7embcx0ht5RTuwRnZRLNs-QGQ2AQBoCahXQf6kK3kAv788J8zmJqChs_W6qPJ09TP0-WLiYx782LOWYTi--QG3IseJwLNDkw23pCDp9tKqbRvjvy5uJnb-RlSCIt3Ooo9XpZqkhNXW2FHJXv270OeysOCdFI2RcYvUOjxKva-q-4TK=s1600)
+
 ## 11월 30일의 탄생색: 초코 (`#633122`)
 
 ### 1. 초코에 대한 설명 (색의 느낌과 특징)

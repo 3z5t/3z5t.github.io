@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiigV7XJ2w7O6trHYsM9IzJb5Os3qlc6Ku0FlbsMc2Dlou3DQxIbgxLAj3mkT3M0tTzBRrNF9s0qI0Q3MXORk_waRMJSjStXVYWUn4knFBkLuBmpANv7D_haFKqt774v60lKE5w1K13L6uhW9_QDkjurfho4IJU2D-P2zl7ZqoUi3TucPJKkhwgcKslegNk=s1600)
+
 ## 3월 2일의 탄생색: 어린 잎 (`#93AC8B`)
 
 ### 1. 어린 잎에 대한 설명 (색의 느낌과 특징)

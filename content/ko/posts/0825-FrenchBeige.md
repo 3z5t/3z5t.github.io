@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiX2x0azyZtOZhOW_ewqDchOoiegneb7gdXU0YK5xNcDtJYWXw6fJu3Xl1CizIWjQnX9HKoLJo8wzksh_zGl5jkWIpLjS-R8qPf4L-kv7udYskAZ79VQauPM98PSuJDby4akEd95tw-MgS-NK3iIll_-V2VflinMUK_T5oKVwY1Dhhuja57AWAg9a2Yy2WQ=s1600)
+
 ## 8월 25일의 탄생색: 프렌치 베이지 (`#A67B5B`)
 
 ### 1. 프렌치 베이지에 대한 설명: 파리의 가을을 닮은 깊은 낭만

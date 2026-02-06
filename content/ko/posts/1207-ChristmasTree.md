@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEguHMMMsf354H1eTM3S2lIbHDEtRIM6TGDymjWbBOnLhK7frKwo7Bodj-hU8Ehmcxz4FTDxwn1Jbj8OUF_FZXVuCUJLMeKh7n43wiS6qtMI8w-CSy6WwtqMStsehHidNbRZji2KPNSaWcxUixdbgGQeNssC8CgOzpESsrw05F8Gv-G7HZ2Bn4i7IDEEshlr=s1600)
+
 ## 12월 7일의 탄생색: 크리스마스 트리 (`#506850`)
 
 ### 1. 크리스마스 트리에 대한 설명 (색의 느낌과 특징)

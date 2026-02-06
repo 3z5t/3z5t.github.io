@@ -19,6 +19,9 @@ title: "1월 11일, 오늘을 닮은 색: 스틸 네이비"
 updated: 2026-01-11
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj6ZRDcJc1cHAgI16z0_QanLZ_qrZX39QrJDdavWtB2b0MRg8WooYa63jbLwojL4bpNsjjROTn6fOIiuKG_lrGi5JCKikn9y33KMsJ0Evqf3mBt7rOHe1dYzVVthH-0-9L9V42aE-IPGt1R3iALgLOf27dtE_tpMYJfCQ9mrPFyG5DuRVj_ycS0tbSA56R7=s1600)
+
+
 ![1월 11일, 오늘을 닮은 색: 스틸 네이비 (Steel Navy)](https://blogger.googleusercontent.com/img/a/AVvXsEj6ZRDcJc1cHAgI16z0_QanLZ_qrZX39QrJDdavWtB2b0MRg8WooYa63jbLwojL4bpNsjjROTn6fOIiuKG_lrGi5JCKikn9y33KMsJ0Evqf3mBt7rOHe1dYzVVthH-0-9L9V42aE-IPGt1R3iALgLOf27dtE_tpMYJfCQ9mrPFyG5DuRVj_ycS0tbSA56R7=s1600)
 
 **1월 11일의 탄생색: 스틸 네이비 (#1A3855)**

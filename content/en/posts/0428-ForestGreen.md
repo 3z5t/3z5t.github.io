@@ -1,21 +1,27 @@
 ---
-title: "Forest Green, The Birthday Color of April 28th"
-date: 2026-04-28
-description: "The birthday color for April 28th is Forest Green (228B22). Its meaning is Nature-friendly, Vitality, Peaceful."
-author: 365days
+title: "Forest Green, The Birthday Color of April 28"
+date: "2026-04-28"
+updated: "2026-04-28"
 tags:
-  - forest green
-  - birthday color
-  - april 28th
-  - 228b22
-  - april
-  - magenta violet
-draft: false
+  - "forest green"
+  - "birthday color"
+  - "april 28"
+  - "228b22"
+  - "april"
+  - "magenta violet"
+description: "The birthday color for April 28 is Forest Green (228B22). Its meaning is Nature-friendly, Vitality, Peaceful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg8b2xyzlO_zwssTKnHODyj8ek5zS_l7Rt6MUEqrw-4frWD7wIVfo7u_e-NNQ70sm_qLYgTynE-XW4lJHaw9zQRwyYHkfmrwV_7trs22y16KQpK023I7oJQ0hE-7WRe0ekQlQQVNPlH1U42OCANVniaD7n35ZfXd35Y6_TDslwRll05g0LN5EpC31jI4laK=s1600"
+en_name: "ForestGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Forest Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_119.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg8b2xyzlO_zwssTKnHODyj8ek5zS_l7Rt6MUEqrw-4frWD7wIVfo7u_e-NNQ70sm_qLYgTynE-XW4lJHaw9zQRwyYHkfmrwV_7trs22y16KQpK023I7oJQ0hE-7WRe0ekQlQQVNPlH1U42OCANVniaD7n35ZfXd35Y6_TDslwRll05g0LN5EpC31jI4laK=s1600)
 
-## Birthday Color for April 28th: Forest Green (`#228B22`)
+
+## Birthday Color for April 28: Forest Green (`#228B22`)
 
 ### 1. Description of Forest Green (Feeling and Traits)
 
@@ -31,7 +37,7 @@ To incorporate **Forest Green** into your wardrobe or home, think of it as a gro
 
 ### 4. Plus Tip (Destiny Color)
 
-**Forest Green** pairs beautifully with **Magenta Violet** (Hex: `#EE82EE`), the birthday color of February 16th. The pairing of these two colors brings an exciting contrast—while **Forest Green** offers a grounding, nature-inspired energy, **Magenta Violet** adds a touch of creativity and passion. Together, they create a dynamic and harmonious combination that feels both refreshing and creatively stimulating.
+**Forest Green** pairs beautifully with **Magenta Violet** (Hex: `#EE82EE`), the birthday color of February 16. The pairing of these two colors brings an exciting contrast—while **Forest Green** offers a grounding, nature-inspired energy, **Magenta Violet** adds a touch of creativity and passion. Together, they create a dynamic and harmonious combination that feels both refreshing and creatively stimulating.
 
 ### 5. Conclusion (A Poem of Healing)
 

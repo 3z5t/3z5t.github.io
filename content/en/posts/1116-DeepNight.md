@@ -1,21 +1,27 @@
 ---
-title: "Deep Night, The Birthday Color of November 16th"
-date: 2026-11-16
-description: "The birthday color for November 16th is Deep Night (1A161F). Its meaning is Serene Soul, Peaceful, Contemplative."
-author: 365days
+title: "Deep Night, The Birthday Color of November 16"
+date: "2026-11-16"
+updated: "2026-11-16"
 tags:
-  - deep night
-  - birthday color
-  - november 16th
-  - 1a161f
-  - november
-  - pure silver
-draft: false
+  - "deep night"
+  - "birthday color"
+  - "november 16"
+  - "1a161f"
+  - "november"
+  - "pure silver"
+description: "The birthday color for November 16 is Deep Night (1A161F). Its meaning is Serene Soul, Peaceful, Contemplative."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgcDtRnN9SHGFmKYB9tsjOacy7O2gZ9b_1wgnkrH0FJbxem82Ajq6svNh3h-zdgAPHDGcV1nzJqzay7-wPM1Jb7B2uT57a35BxQzDl_xXjPzB3tVVeVGK27tN5VK4eF2JJGmfTX6sAZJZQflIvEmcsCgS3pYAFJfBe4rXIB_USP7uYBTQTJEYnH4re3sjZU=s1600"
+en_name: "DeepNight"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Deep Night](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_321.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgcDtRnN9SHGFmKYB9tsjOacy7O2gZ9b_1wgnkrH0FJbxem82Ajq6svNh3h-zdgAPHDGcV1nzJqzay7-wPM1Jb7B2uT57a35BxQzDl_xXjPzB3tVVeVGK27tN5VK4eF2JJGmfTX6sAZJZQflIvEmcsCgS3pYAFJfBe4rXIB_USP7uYBTQTJEYnH4re3sjZU=s1600)
 
-## Birthday Color for November 16th: Deep Night (`#1A161F`)
+
+## Birthday Color for November 16: Deep Night (`#1A161F`)
 
 ### 1. Description of Deep Night (Feeling and Traits)
 
@@ -39,7 +45,7 @@ In beauty, **Deep Night** can add an air of mystery and confidence. Consider a *
 
 ### 4. Plus Tip (Destiny Color)
 
-**Pure Silver** (Hex: `#E5E5E5`), the birthday color of **December 17th**, perfectly complements the **serene depth** of **Deep Night**. Where **Deep Night** provides a grounding calm, **Pure Silver** adds a **sparkling clarity**, creating an intriguing contrast between mystery and purity. The two together create an energy of both **stillness** and **illumination**, like moonlight reflecting on a still lake.
+**Pure Silver** (Hex: `#E5E5E5`), the birthday color of **December 17**, perfectly complements the **serene depth** of **Deep Night**. Where **Deep Night** provides a grounding calm, **Pure Silver** adds a **sparkling clarity**, creating an intriguing contrast between mystery and purity. The two together create an energy of both **stillness** and **illumination**, like moonlight reflecting on a still lake.
 
 ### 5. Conclusion (A Poem of Healing)
 

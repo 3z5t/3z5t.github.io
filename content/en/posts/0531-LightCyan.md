@@ -1,21 +1,27 @@
 ---
-title: "Light Cyan, The Birthday Color of May 31st"
-date: 2026-05-31
-description: "The birthday color for May 31st is Light Cyan (E0FFFF). Its meaning is Refreshing, Clear Mind, Balanced."
-author: 365days
+title: "Light Cyan, The Birthday Color of May 31"
+date: "2026-05-31"
+updated: "2026-05-31"
 tags:
-  - light cyan
-  - birthday color
-  - may 31st
-  - e0ffff
-  - may
-  - antique choco
-draft: false
+  - "light cyan"
+  - "birthday color"
+  - "may 31"
+  - "e0ffff"
+  - "may"
+  - "antique choco"
+description: "The birthday color for May 31 is Light Cyan (E0FFFF). Its meaning is Refreshing, Clear Mind, Balanced."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiU8VFrzSm5GQ-HHv7J-yDfT7pYFE_4apCKTFO0vB9GRl0rAea40rusbgaLP6xuy4xUDQEzKQXH7xfJQ23hEmvXxUBEC0AzQ4Yas7EBKB14KFNwpzEZvKFfoh4ObO-T8K4PxY5PSml0123-IdU-Ez5gSBk1wSfzOKHEpvE2vQbDpjQ2qWqOQK-8ZE_mRQuw=s1600"
+en_name: "LightCyan"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Light Cyan](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_152.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiU8VFrzSm5GQ-HHv7J-yDfT7pYFE_4apCKTFO0vB9GRl0rAea40rusbgaLP6xuy4xUDQEzKQXH7xfJQ23hEmvXxUBEC0AzQ4Yas7EBKB14KFNwpzEZvKFfoh4ObO-T8K4PxY5PSml0123-IdU-Ez5gSBk1wSfzOKHEpvE2vQbDpjQ2qWqOQK-8ZE_mRQuw=s1600)
 
-## Birthday Color for May 31st: Light Cyan (`#E0FFFF`)
+
+## Birthday Color for May 31: Light Cyan (`#E0FFFF`)
 
 ### 1. Description of Light Cyan (Feeling and Traits)
 
@@ -31,7 +37,7 @@ People born under the influence of **Light Cyan** often exude a quiet, inner pea
 
 ### 4. Plus Tip (Destiny Color)
 
-When **Light Cyan** is paired with **Antique Choco** (Hex: `#1F070C`), the birthday color of **November 22nd**, the result is a striking blend of cool calm and rich depth. While **Light Cyan** brings **balance** and **refreshment**, **Antique Choco** offers a profound **stability** and grounding energy. Together, they form a perfect harmony—one that enhances the natural calmness of **Light Cyan** while adding a sense of timeless strength and maturity.
+When **Light Cyan** is paired with **Antique Choco** (Hex: `#1F070C`), the birthday color of **November 22**, the result is a striking blend of cool calm and rich depth. While **Light Cyan** brings **balance** and **refreshment**, **Antique Choco** offers a profound **stability** and grounding energy. Together, they form a perfect harmony—one that enhances the natural calmness of **Light Cyan** while adding a sense of timeless strength and maturity.
 
 ### 5. Conclusion (A Poem of Healing)
 

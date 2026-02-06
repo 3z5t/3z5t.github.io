@@ -1,21 +1,27 @@
 ---
-title: "Vita Lime, The Birthday Color of April 19th"
-date: 2026-04-19
-description: "The birthday color for April 19th is Vita Lime (D1D734). Its meaning is Challenging Spirit, Energetic, Passionate."
-author: 365days
+title: "Vita Lime, The Birthday Color of April 19"
+date: "2026-04-19"
+updated: "2026-04-19"
 tags:
-  - vita lime
-  - birthday color
-  - april 19th
-  - d1d734
-  - april
-  - pure blue
-draft: false
+  - "vita lime"
+  - "birthday color"
+  - "april 19"
+  - "d1d734"
+  - "april"
+  - "pure blue"
+description: "The birthday color for April 19 is Vita Lime (D1D734). Its meaning is Challenging Spirit, Energetic, Passionate."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjLLWE0Bg_HZlx9CugbbSn4_FJUP_BUMT-vY1Fsn7spsCAReNjaLhWivYtzGnNhTQ4K0UXbU0xEqql-M4FmIvwsedMFFHXOmwjzIOVQ6XCcobezvIj61aTc4aurp1o00Pe_oD1CPQjgyyaLDJA2H5Y-zOdBUQ53Ml3wFYknkWoiI5eq234BQSKTr7D7mvqR=s1600"
+en_name: "VitaLime"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Vita Lime](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_110.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjLLWE0Bg_HZlx9CugbbSn4_FJUP_BUMT-vY1Fsn7spsCAReNjaLhWivYtzGnNhTQ4K0UXbU0xEqql-M4FmIvwsedMFFHXOmwjzIOVQ6XCcobezvIj61aTc4aurp1o00Pe_oD1CPQjgyyaLDJA2H5Y-zOdBUQ53Ml3wFYknkWoiI5eq234BQSKTr7D7mvqR=s1600)
 
-## Birthday Color for April 19th: Vita Lime (`#D1D734`)
+
+## Birthday Color for April 19: Vita Lime (`#D1D734`)
 
 ### 1. Description of Vita Lime (Feeling and Traits)
 
@@ -31,7 +37,7 @@ When styling with **Vita Lime**, think of it as your personal invitation to stan
 
 ### 4. Plus Tip (Destiny Color)
 
-**Pure Blue** (Hex: `#3333FF`), the birthday color for July 11th, pairs beautifully with **Vita Lime**. While **Vita Lime** brings energy and action, **Pure Blue** provides depth and balance, creating a synergy that grounds the vibrancy of the lime while still allowing its excitement to shine. Together, they create a dynamic, inspired atmosphere perfect for those who love to live boldly and passionately.
+**Pure Blue** (Hex: `#3333FF`), the birthday color for July 11, pairs beautifully with **Vita Lime**. While **Vita Lime** brings energy and action, **Pure Blue** provides depth and balance, creating a synergy that grounds the vibrancy of the lime while still allowing its excitement to shine. Together, they create a dynamic, inspired atmosphere perfect for those who love to live boldly and passionately.
 
 ### 5. Conclusion (A Poem of Healing)
 

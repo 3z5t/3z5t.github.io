@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgWbuYXEz-va8LsF684V5ldkYv50cOkrUPwnwL2BDZIf2F3W8XQWqFYeEyBNUYG-d5EZjx5URPLcBQ1LtFwhIs3wkbsYphkEbFtc0yOBh3b-tOWzvlMg16rvoaV4k9BtCOxREKOtQcXc-vWvglTb6cghRaCHRVhXyWFgPwKR44X3DjPyxmrdgnJtK8SNnGO=s1600)
+
 ## 4월 14일의 탄생색: 올리브 (`#666600`)
 
 ### 1. 올리브에 대한 설명 (색의 느낌과 특징)

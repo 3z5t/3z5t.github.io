@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhFniAvwUb6mWaYTQ7TziUb7wponmL6ZBCXVdjrcWZR7i1Et3H__aJa9KJe1m2Ghb_dvZY0Rx-xwn7nmK4apoVoTgRJ-OJB94bJ9wE-_R2m6X7CWHpesNnoNLfbudhesEaGnXOYoP0RcOv36oOK25ZJnfaaHd0eNT0-9OfYB6OYGnvrCFnHtyKVo22J3_Ph=s1600)
+
 ## 7월 28일의 탄생색: 그레이 민트 (`#ADCECE`)
 
 ### 1. 그레이 민트에 대한 설명: 안개 낀 새벽 숲의 고요한 숨결

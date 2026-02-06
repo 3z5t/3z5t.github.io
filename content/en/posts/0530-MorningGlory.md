@@ -1,21 +1,27 @@
 ---
-title: "Morning Glory, The Birthday Color of May 30th"
-date: 2026-05-30
-description: "The birthday color for May 30th is Morning Glory (99CCCC). Its meaning is Hopeful, Power of Beginning, Positive."
-author: 365days
+title: "Morning Glory, The Birthday Color of May 30"
+date: "2026-05-30"
+updated: "2026-05-30"
 tags:
-  - morning glory
-  - birthday color
-  - may 30th
-  - 99cccc
-  - may
-  - deep coral
-draft: false
+  - "morning glory"
+  - "birthday color"
+  - "may 30"
+  - "99cccc"
+  - "may"
+  - "deep coral"
+description: "The birthday color for May 30 is Morning Glory (99CCCC). Its meaning is Hopeful, Power of Beginning, Positive."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhJU7N9s84aNrkOv5ZJAlPFFdGjWYCabeaUek84_OaceHOOjiSfVsil76YNJ_SmIMYudc8SogX3VNDwNBsr6Dn7F6dzmfH6CRaTT94-LJGgHeGRDtkPpVcj8dbDZY6g3yy3ynR353OwdTVSkMCGyn6uM72bWs7ZQ9S1YZL96WonnN4fGPz98T350dx-DXot=s1600"
+en_name: "MorningGlory"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Morning Glory](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_151.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhJU7N9s84aNrkOv5ZJAlPFFdGjWYCabeaUek84_OaceHOOjiSfVsil76YNJ_SmIMYudc8SogX3VNDwNBsr6Dn7F6dzmfH6CRaTT94-LJGgHeGRDtkPpVcj8dbDZY6g3yy3ynR353OwdTVSkMCGyn6uM72bWs7ZQ9S1YZL96WonnN4fGPz98T350dx-DXot=s1600)
 
-## Birthday Color for May 30th: Morning Glory (`#99CCCC`)
+
+## Birthday Color for May 30: Morning Glory (`#99CCCC`)
 
 ### 1. Description of Morning Glory (Feeling and Traits)
 
@@ -31,7 +37,7 @@ People born under the influence of **Morning Glory** are often natural **optimis
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Deep Coral** (Hex: `#743636`), the birthday color of **July 5th**, the combination creates a dynamic yet **balanced** energy. While **Deep Coral** brings **calm** and **depth**, **Morning Glory** introduces a touch of **lightness** and **hope**, creating an uplifting synergy between the two. Together, they embody the strength of **balance**—a reminder that every new beginning, while full of potential, thrives on a foundation of **stability** and **clarity**.
+When paired with **Deep Coral** (Hex: `#743636`), the birthday color of **July 5**, the combination creates a dynamic yet **balanced** energy. While **Deep Coral** brings **calm** and **depth**, **Morning Glory** introduces a touch of **lightness** and **hope**, creating an uplifting synergy between the two. Together, they embody the strength of **balance**—a reminder that every new beginning, while full of potential, thrives on a foundation of **stability** and **clarity**.
 
 ### 5. Conclusion (A Poem of Healing)
 

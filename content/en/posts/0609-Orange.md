@@ -1,21 +1,27 @@
 ---
-title: "Orange, The Birthday Color of June 9th"
-date: 2026-06-09
-description: "The birthday color for June 9th is Orange (FF6633). Its meaning is Passionate, Challenging, Energetic."
-author: 365days
+title: "Orange, The Birthday Color of June 9"
+date: "2026-06-09"
+updated: "2026-06-09"
 tags:
-  - orange
-  - birthday color
-  - june 9th
-  - ff6633
-  - june
-  - cyan blue
-draft: false
+  - "orange"
+  - "birthday color"
+  - "june 9"
+  - "ff6633"
+  - "june"
+  - "cyan blue"
+description: "The birthday color for June 9 is Orange (FF6633). Its meaning is Passionate, Challenging, Energetic."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh6JLElATGnG931qzV8MXx6Tp1N1sF2rwbGMsJzRq4nOzpmpmCsQYKFPAGvqmfvsnbq-CAeJ5Sf7EiiiQPB5T2fgt-t_eAF65HUjsoJBQA2pDPihekSJI--JrDXKlCmLgsRbkuwQGj9KR7_5UWuS_p-XYSq9MDKBA1DKIjP51a3_A4c44C7iLH8Gl3j-3c8=s1600"
+en_name: "Orange"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Orange](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_161.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh6JLElATGnG931qzV8MXx6Tp1N1sF2rwbGMsJzRq4nOzpmpmCsQYKFPAGvqmfvsnbq-CAeJ5Sf7EiiiQPB5T2fgt-t_eAF65HUjsoJBQA2pDPihekSJI--JrDXKlCmLgsRbkuwQGj9KR7_5UWuS_p-XYSq9MDKBA1DKIjP51a3_A4c44C7iLH8Gl3j-3c8=s1600)
 
-## Birthday Color for June 9th: Orange (`#FF6633`)
+
+## Birthday Color for June 9: Orange (`#FF6633`)
 
 ### 1. Description of Orange (Feeling and Traits)
 
@@ -31,7 +37,7 @@ The **Orange** color speaks to the heart of someone who is **passionate**, full 
 
 ### 4. Plus Tip (Destiny Color)
 
-**Combining with Cyan Blue**, the birthday color of **July 31st**, creates a perfect harmony. While **Orange** radiates warmth and energy, **Cyan Blue** brings a sense of cool **calmness** and **clarity**, creating a balance of dynamic forces. This combination invites both **action and reflection**, where passion meets tranquility, giving the perfect environment to explore ideas and spark creativity.
+**Combining with Cyan Blue**, the birthday color of **July 31**, creates a perfect harmony. While **Orange** radiates warmth and energy, **Cyan Blue** brings a sense of cool **calmness** and **clarity**, creating a balance of dynamic forces. This combination invites both **action and reflection**, where passion meets tranquility, giving the perfect environment to explore ideas and spark creativity.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,21 +1,27 @@
 ---
-title: "Sandstone, The Birthday Color of June 30th"
-date: 2026-06-30
-description: "The birthday color for June 30th is Sandstone (7B6D6D). Its meaning is Balanced, Stable, Harmonious."
-author: 365days
+title: "Sandstone, The Birthday Color of June 30"
+date: "2026-06-30"
+updated: "2026-06-30"
 tags:
-  - sandstone
-  - birthday color
-  - june 30th
-  - 7b6d6d
-  - june
-  - soft olive
-draft: false
+  - "sandstone"
+  - "birthday color"
+  - "june 30"
+  - "7b6d6d"
+  - "june"
+  - "soft olive"
+description: "The birthday color for June 30 is Sandstone (7B6D6D). Its meaning is Balanced, Stable, Harmonious."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiCatAZhjIy5w69_4fRA-cpSykMLWywoLLS3MFpGcC5zraHLJJJdL59N7hn4j-2-GHDqc1oUl69cJhKJ2WvbQ4sYv_wZL4id9vGFUJsAu3HUwsAsCn5DnA5nCabY3s81Eq7ylY4h-gCqMbw-PCk4wD8jgP5ZhWBh4SpYnYuK6z0ej4U8GINK_BezQ2UU0_Q=s1600"
+en_name: "Sandstone"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Sandstone](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_182.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiCatAZhjIy5w69_4fRA-cpSykMLWywoLLS3MFpGcC5zraHLJJJdL59N7hn4j-2-GHDqc1oUl69cJhKJ2WvbQ4sYv_wZL4id9vGFUJsAu3HUwsAsCn5DnA5nCabY3s81Eq7ylY4h-gCqMbw-PCk4wD8jgP5ZhWBh4SpYnYuK6z0ej4U8GINK_BezQ2UU0_Q=s1600)
 
-## Birthday Color for June 30th: Sandstone (`#7B6D6D`)
+
+## Birthday Color for June 30: Sandstone (`#7B6D6D`)
 
 ### 1. Description of Sandstone (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Sandstone** brings a unique depth that can add a touch of **elegan
 
 ### 4. Plus Tip (Destiny Color)
 
-Sandstone beautifully pairs with **Soft Olive** (Hex: `#7E9682`), the birthday color for October 30th. The **gentle calm** of Soft Olive complements the **stability** of Sandstone, creating a harmonious synergy that brings a sense of peace and balance to any environment. Together, they offer a peaceful, grounded energy, perfect for those who seek serenity and alignment in their lives.
+Sandstone beautifully pairs with **Soft Olive** (Hex: `#7E9682`), the birthday color for October 30. The **gentle calm** of Soft Olive complements the **stability** of Sandstone, creating a harmonious synergy that brings a sense of peace and balance to any environment. Together, they offer a peaceful, grounded energy, perfect for those who seek serenity and alignment in their lives.
 
 ### 5. Conclusion (A Poem of Healing)
 

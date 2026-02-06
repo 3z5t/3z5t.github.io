@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhpnbJ5evzNoN1GQOo125LZLEWkQeXdk-VYyZqfdbO_8YmFGAECLLVdVVz_XS8g-gMHg0C42UQGYfnShrs-cdn1vd9fWSRVth-IQKVvgyVjTI-i9ig6hC_5jk6iowmPNFDoZVp4x92BE-CI07g5za9Su3QIJbSYkqnx71lJ_SG_epCzvKZfmaU8smhbZluB=s1600)
+
 ## 4월 29일의 탄생색: 씨 그린 (`#19776B`)
 
 ### 1. 씨 그린에 대한 설명 (색의 느낌과 특징)

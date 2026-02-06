@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjWmM7osavG1v4JO5RkSrA7Fe9pPp4gw8xZCIqo3JsQgdpsGXTIwNgnd6Y3Fxpgm0zBa9iU54rv6qOOCkKh7XLzogzSm3JPlqglj_PbPkl_EOgMkFotrKfAbB11lK8jGvLLVqrJea8-QlEureRHrmeowX93Oq2OXsJ6D-BYg25tYd6RlT4RQrwgtjd4RjlT=s1600)
+
 ## 10월 20일의 탄생색: 황토 (`#B28E58`)
 
 ### 1. 황토에 대한 설명: 생명을 품어 기르는 대지의 가장 따뜻한 속살

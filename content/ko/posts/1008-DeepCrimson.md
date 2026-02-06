@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhlb-DeswlFzE4PkOrTp6nWqDfNIoxfFDKznrj9bXM6hF89XWW20AYd4Cs6SOwo-DozJHOscG_y5P17K_xBou7MdBXf9OdajSRMW0e-2lVEII6o9F5DjIsH6dbU6095FBABKgqmz4neg89Vmwr0-BZsXWZBskJEaoNLg-HxbGNs3-cR7X46oEljwbjY0ek8=s1600)
+
 ## 10월 8일의 탄생색: 딥 크림슨 (`#BA0046`)
 
 ### 1. 딥 크림슨에 대한 설명: 심장의 가장 깊은 곳에서 길어 올린 진실의 색

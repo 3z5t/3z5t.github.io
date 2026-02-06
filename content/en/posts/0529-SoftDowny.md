@@ -1,21 +1,27 @@
 ---
-title: "Soft Downy, The Birthday Color of May 29th"
-date: 2026-05-29
-description: "The birthday color for May 29th is Soft Downy (66CCCC). Its meaning is Soft, Inclusive, Emotional."
-author: 365days
+title: "Soft Downy, The Birthday Color of May 29"
+date: "2026-05-29"
+updated: "2026-05-29"
 tags:
-  - soft downy
-  - birthday color
-  - may 29th
-  - 66cccc
-  - may
-  - milano red
-draft: false
+  - "soft downy"
+  - "birthday color"
+  - "may 29"
+  - "66cccc"
+  - "may"
+  - "milano red"
+description: "The birthday color for May 29 is Soft Downy (66CCCC). Its meaning is Soft, Inclusive, Emotional."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgBD3GfXwb0juws0bDCxVQtSW7nukwtVRaTAIi_z7cN-B7VweaND_PJsaucHedYI78nnQTZRN1FvN9mtvt78p_lXde0BsdPNERfUTSfItrKGKY3Gb26AxDUhbm1aJsapdsZnYcFdvo18n48f33RuS50c98-owi7KoZ83NMPDgFxs6Wz3RQuqT_wLYgB6-Th=s1600"
+en_name: "SoftDowny"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Soft Downy](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_150.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgBD3GfXwb0juws0bDCxVQtSW7nukwtVRaTAIi_z7cN-B7VweaND_PJsaucHedYI78nnQTZRN1FvN9mtvt78p_lXde0BsdPNERfUTSfItrKGKY3Gb26AxDUhbm1aJsapdsZnYcFdvo18n48f33RuS50c98-owi7KoZ83NMPDgFxs6Wz3RQuqT_wLYgB6-Th=s1600)
 
-## Birthday Color for May 29th: Soft Downy (`#66CCCC`)
+
+## Birthday Color for May 29: Soft Downy (`#66CCCC`)
 
 ### 1. Description of Soft Downy (Feeling and Traits)
 
@@ -31,7 +37,7 @@ Those born under the influence of **Soft Downy** are often incredibly **empathet
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Milano Red** (Hex: `#993333`), the birthday color of **October 9th**, the combination creates an intriguing blend of **elegance** and **gentleness**. While **Milano Red** brings a classical and **dignified** energy, **Soft Downy** adds a touch of **softness** and **warmth**, making it a perfect balance between passion and calm. The synergy between these two colors invites both **comfort** and **refinement**, creating a harmonious atmosphere that feels both grounded and inspiring.
+When paired with **Milano Red** (Hex: `#993333`), the birthday color of **October 9**, the combination creates an intriguing blend of **elegance** and **gentleness**. While **Milano Red** brings a classical and **dignified** energy, **Soft Downy** adds a touch of **softness** and **warmth**, making it a perfect balance between passion and calm. The synergy between these two colors invites both **comfort** and **refinement**, creating a harmonious atmosphere that feels both grounded and inspiring.
 
 ### 5. Conclusion (A Poem of Healing)
 

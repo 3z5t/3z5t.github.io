@@ -1,21 +1,27 @@
 ---
-title: "Deep Green, The Birthday Color of March 13th"
-date: 2026-03-13
-description: "The birthday color for March 13th is Deep Green (3D5E40). Its meaning is Insightful, Wisdom, Maturity."
-author: 365days
+title: "Deep Green, The Birthday Color of March 13"
+date: "2026-03-13"
+updated: "2026-03-13"
 tags:
-  - deep green
-  - birthday color
-  - march 13th
-  - 3d5e40
-  - march
-  - lilac
-draft: false
+  - "deep green"
+  - "birthday color"
+  - "march 13"
+  - "3d5e40"
+  - "march"
+  - "lilac"
+description: "The birthday color for March 13 is Deep Green (3D5E40). Its meaning is Insightful, Wisdom, Maturity."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh0912LJ67P0urccFL0xZM7lw3e6WCssuiMwyTsDRcNfFuLKN8rm5HYJeCkWWWMuF25ra7GSoeAYSOkqUbdoobA6ubsa739QBHSKL6IituiS8tyOifsS_EBC9929CgdS3lAr3_tPMsCWN_yLmIingzqqBhAkf9NvtJ8hGk4joDoeK2z5TiuB8N6wnyqlY_V=s1600"
+en_name: "DeepGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Deep Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_073.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh0912LJ67P0urccFL0xZM7lw3e6WCssuiMwyTsDRcNfFuLKN8rm5HYJeCkWWWMuF25ra7GSoeAYSOkqUbdoobA6ubsa739QBHSKL6IituiS8tyOifsS_EBC9929CgdS3lAr3_tPMsCWN_yLmIingzqqBhAkf9NvtJ8hGk4joDoeK2z5TiuB8N6wnyqlY_V=s1600)
 
-## Birthday Color for March 13th: Deep Green (`#3D5E40`)
+
+## Birthday Color for March 13: Deep Green (`#3D5E40`)
 
 ### 1. Description of Deep Green (Feeling and Traits)
 
@@ -33,7 +39,7 @@ In interior design, **Deep Green** brings a sense of wisdom and tranquility into
 
 ### 4. Plus Tip (Destiny Color)
 
-For a beautiful pairing, consider combining **Deep Green** with **Lilac**, the birthday color for July 18th. The blend of the **elegance** and **sophistication** of Lilac with the grounded wisdom of **Deep Green** creates a harmonious balance of maturity and creativity. It’s a pairing that reflects a balance of wisdom and emotional depth, perfect for those who seek both insight and beauty.
+For a beautiful pairing, consider combining **Deep Green** with **Lilac**, the birthday color for July 18. The blend of the **elegance** and **sophistication** of Lilac with the grounded wisdom of **Deep Green** creates a harmonious balance of maturity and creativity. It’s a pairing that reflects a balance of wisdom and emotional depth, perfect for those who seek both insight and beauty.
 
 ### 5. Conclusion (A Poem of Healing)
 

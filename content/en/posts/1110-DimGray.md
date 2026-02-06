@@ -1,21 +1,27 @@
 ---
-title: "Dim Gray, The Birthday Color of November 10th"
-date: 2026-11-10
-description: "The birthday color for November 10th is Dim Gray (666666). Its meaning is Profound, Calm, Mature."
-author: 365days
+title: "Dim Gray, The Birthday Color of November 10"
+date: "2026-11-10"
+updated: "2026-11-10"
 tags:
-  - dim gray
-  - birthday color
-  - november 10th
-  - 666666
-  - november
-  - moose gray
-draft: false
+  - "dim gray"
+  - "birthday color"
+  - "november 10"
+  - "666666"
+  - "november"
+  - "moose gray"
+description: "The birthday color for November 10 is Dim Gray (666666). Its meaning is Profound, Calm, Mature."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi8P4gNwOEH_jTo_gGANwYdus0j4VG9CUyhFfIu7wK8hauCN_S1JJTVI1HwcQhCSKRbtJ7uG0cA_5m9NJWcR91AhXbIYBJFqkhAJ31y3BnDXsyCD-pF-48HwBdnBwMVlzXFJjS60JDldyvUVVuWYuiZ6aSlJ63039B0Y0iJxsY5mLg0yNz7B7fo1vNG_reM=s1600"
+en_name: "DimGray"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Dim Gray](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_315.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi8P4gNwOEH_jTo_gGANwYdus0j4VG9CUyhFfIu7wK8hauCN_S1JJTVI1HwcQhCSKRbtJ7uG0cA_5m9NJWcR91AhXbIYBJFqkhAJ31y3BnDXsyCD-pF-48HwBdnBwMVlzXFJjS60JDldyvUVVuWYuiZ6aSlJ63039B0Y0iJxsY5mLg0yNz7B7fo1vNG_reM=s1600)
 
-## Birthday Color for November 10th: Dim Gray (`#666666`)
+
+## Birthday Color for November 10: Dim Gray (`#666666`)
 
 ### 1. Description of Dim Gray (Feeling and Traits)
 
@@ -41,7 +47,7 @@ For beauty, consider using **Dim Gray** in **eyeshadow** or **eyeliner**, bringi
 
 ### 4. Plus Tip (Destiny Color)
 
-**Moose Gray** (Hex: `#999999`), the birthday color of **November 7th**, pairs wonderfully with **Dim Gray**. Together, they form a symphony of **balance and maturity**. While **Dim Gray** brings depth and introspection, **Moose Gray** adds a sense of calm equilibrium, making them perfect companions. When combined, they offer a quiet strength that’s **stable** and **grounded**, creating a harmonious and reflective space in any aspect of life.
+**Moose Gray** (Hex: `#999999`), the birthday color of **November 7**, pairs wonderfully with **Dim Gray**. Together, they form a symphony of **balance and maturity**. While **Dim Gray** brings depth and introspection, **Moose Gray** adds a sense of calm equilibrium, making them perfect companions. When combined, they offer a quiet strength that’s **stable** and **grounded**, creating a harmonious and reflective space in any aspect of life.
 
 ### 5. Conclusion (A Poem of Healing)
 

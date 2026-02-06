@@ -1,21 +1,27 @@
 ---
-title: "Mint Green, The Birthday Color of July 25th"
-date: 2026-07-25
-description: "The birthday color for July 25th is Mint Green (99FF99). Its meaning is Refreshing Personality, Crisp, Vital."
-author: 365days
+title: "Mint Green, The Birthday Color of July 25"
+date: "2026-07-25"
+updated: "2026-07-25"
 tags:
-  - mint green
-  - birthday color
-  - july 25th
-  - 99ff99
-  - july
-  - mystic purple
-draft: false
+  - "mint green"
+  - "birthday color"
+  - "july 25"
+  - "99ff99"
+  - "july"
+  - "mystic purple"
+description: "The birthday color for July 25 is Mint Green (99FF99). Its meaning is Refreshing Personality, Crisp, Vital."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEifUVrv0OgUpmQ4JpQjd5X4vLIAxq0sYzJkdKKR7oNiXyQ_DFFn-sZijxr_9UF-h8-ellonJ70nj0m1t7v3NFCLlhApPcte1b-zpQa_z69wkLyVuoeVRFEGqpeAlRSl6ztSOkHi_n8oTF8HKFMu7ccM9A_vVRas5ddW0oR6JtU3vimjllvEKEYGKDjKIfpv=s1600"
+en_name: "MintGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Mint Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_207.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEifUVrv0OgUpmQ4JpQjd5X4vLIAxq0sYzJkdKKR7oNiXyQ_DFFn-sZijxr_9UF-h8-ellonJ70nj0m1t7v3NFCLlhApPcte1b-zpQa_z69wkLyVuoeVRFEGqpeAlRSl6ztSOkHi_n8oTF8HKFMu7ccM9A_vVRas5ddW0oR6JtU3vimjllvEKEYGKDjKIfpv=s1600)
 
-## Birthday Color for July 25th: Mint Green (`#99FF99`)
+
+## Birthday Color for July 25: Mint Green (`#99FF99`)
 
 ### 1. Description of Mint Green (Feeling and Traits)
 
@@ -31,7 +37,7 @@ When it comes to **fashion**, **Mint Green** offers a **refreshing pop of color*
 
 ### 4. Plus Tip (Destiny Color)
 
-For a truly inspiring combination, consider pairing **Mint Green** with **Mystic Purple**, the birthday color for February 6th. The deep, mysterious energy of **Mystic Purple** complements the freshness and **clarity** of **Mint Green**, creating a beautiful balance between intuition and vitality. Together, these colors can inspire both **creative energy** and **calm clarity**, making them a dynamic duo for anyone looking to embrace both spirituality and action.
+For a truly inspiring combination, consider pairing **Mint Green** with **Mystic Purple**, the birthday color for February 6. The deep, mysterious energy of **Mystic Purple** complements the freshness and **clarity** of **Mint Green**, creating a beautiful balance between intuition and vitality. Together, these colors can inspire both **creative energy** and **calm clarity**, making them a dynamic duo for anyone looking to embrace both spirituality and action.
 
 ### 5. Conclusion (A Poem of Healing)
 

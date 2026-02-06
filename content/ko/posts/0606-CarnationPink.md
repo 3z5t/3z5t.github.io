@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi2FIRj3ACagXfTYLlegEHLI-Nq3S-6jXtstF7zEIY6iuNZUhXgvV74ULOFcEBzT1V8FD9_88HFn6YlMYipeGrK3V-yi6gGVPud_BO-Tpk6tDcpxobVDoAKRi_n8oj1QC8ncxPOVwY3ENRPks0BIopsPGkkjyeC0z939f_C8SMHx596MO2-ZCTIbZFbjTkx=s1600)
+
 ## 6월 6일의 탄생색: 카네이션 핑크 (`#FF99CC`)
 
 ### 1. 카네이션 핑크에 대한 설명: 감사의 마음을 담아 피어난 사랑의 빛

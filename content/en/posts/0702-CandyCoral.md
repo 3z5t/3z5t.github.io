@@ -1,21 +1,27 @@
 ---
-title: "Candy Coral, The Birthday Color of July 2nd"
-date: 2026-07-02
-description: "The birthday color for July 2nd is Candy Coral (F18372). Its meaning is Sweet Personality, Sociability, Friendly."
-author: 365days
+title: "Candy Coral, The Birthday Color of July 2"
+date: "2026-07-02"
+updated: "2026-07-02"
 tags:
-  - candy coral
-  - birthday color
-  - july 2nd
-  - f18372
-  - july
-  - teal
-draft: false
+  - "candy coral"
+  - "birthday color"
+  - "july 2"
+  - "f18372"
+  - "july"
+  - "teal"
+description: "The birthday color for July 2 is Candy Coral (F18372). Its meaning is Sweet Personality, Sociability, Friendly."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhnwWTuQMbffMHNmx9_DjOlToOknMKQW3MFEvQ3dxTnULOpnsmeeSwZTRi3I4KzdoYR9vv4v7BlZFum3oMRIf3Vi_AVlmtIdLnEb-HluqYwI9iANzO5mvhlduLjPAooRti4Zpa2d3U0LraOE5QM5R0zHJzrk8hLtDqsfolDdt-XHxqSrn5UMS4dQOjY4ct1=s1600"
+en_name: "CandyCoral"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Candy Coral](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_184.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhnwWTuQMbffMHNmx9_DjOlToOknMKQW3MFEvQ3dxTnULOpnsmeeSwZTRi3I4KzdoYR9vv4v7BlZFum3oMRIf3Vi_AVlmtIdLnEb-HluqYwI9iANzO5mvhlduLjPAooRti4Zpa2d3U0LraOE5QM5R0zHJzrk8hLtDqsfolDdt-XHxqSrn5UMS4dQOjY4ct1=s1600)
 
-## Birthday Color for July 2nd: Candy Coral (`#F18372`)
+
+## Birthday Color for July 2: Candy Coral (`#F18372`)
 
 ### 1. Description of Candy Coral (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Candy Coral** is perfect for creating an outfit that exudes warmth
 
 ### 4. Plus Tip (Destiny Color)
 
-Candy Coral pairs wonderfully with **Teal** (Hex: `#008080`), the birthday color for April 5th. Together, these colors create a **beautiful synergy**, where the sweet, sociable nature of Candy Coral complements the **harmonious** and **balanced** qualities of Teal. It’s a pairing that invites both warmth and depth, making it perfect for creating spaces and outfits that feel both approachable and **well-rounded**.
+Candy Coral pairs wonderfully with **Teal** (Hex: `#008080`), the birthday color for April 5. Together, these colors create a **beautiful synergy**, where the sweet, sociable nature of Candy Coral complements the **harmonious** and **balanced** qualities of Teal. It’s a pairing that invites both warmth and depth, making it perfect for creating spaces and outfits that feel both approachable and **well-rounded**.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjhHxaLdCNJ0Nw7Cyx-yXqMwL7tFEujy0ZCxiZUrgd8B0thLkBuV0pc-PfNYLuksSes3suJO7Wo0XUQBG5rlxudQSapSzLL3Qn-S4slNja_ufVsvSAbnDhB4sTowpnYzrpKFp07tK7lpT60Q05Lud8JvhZ8cSaytjdvFSha4i8TvmLpo3666kCd_gi9wImC=s1600)
+
 ## 10월 7일의 탄생색: 번트 엄버 (`#8D3131`)
 
 ### 1. 번트 엄버에 대한 설명: 시련을 견디고 단단하게 타오른 대지의 심장

@@ -1,21 +1,27 @@
 ---
-title: "Pea Green, The Birthday Color of April 12th"
-date: 2026-04-12
-description: "The birthday color for April 12th is Pea Green (8C9E58). Its meaning is Robust, Vitality, Growth."
-author: 365days
+title: "Pea Green, The Birthday Color of April 12"
+date: "2026-04-12"
+updated: "2026-04-12"
 tags:
-  - pea green
-  - birthday color
-  - april 12th
-  - 8c9e58
-  - april
-  - deep sora
-draft: false
+  - "pea green"
+  - "birthday color"
+  - "april 12"
+  - "8c9e58"
+  - "april"
+  - "deep sora"
+description: "The birthday color for April 12 is Pea Green (8C9E58). Its meaning is Robust, Vitality, Growth."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhiz07pj6foVDsYpKrqEOpFgPMzdxZcuoCTbADu53H_0aq80F6mcs6vCl8MOmNnBiCDzNH3Z2akdL_7MKeFJ5Ol3xToyb5DV7TV-9cFa7SUDcyO4K35VpXkWLuy6ODQsTRuCXHj94Wt27JYg6ZYq0ZhstH5ECNSoQTLBYSpb6eLdhWB9_ID0GMAsMLxfkLP=s1600"
+en_name: "PeaGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Pea Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_103.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhiz07pj6foVDsYpKrqEOpFgPMzdxZcuoCTbADu53H_0aq80F6mcs6vCl8MOmNnBiCDzNH3Z2akdL_7MKeFJ5Ol3xToyb5DV7TV-9cFa7SUDcyO4K35VpXkWLuy6ODQsTRuCXHj94Wt27JYg6ZYq0ZhstH5ECNSoQTLBYSpb6eLdhWB9_ID0GMAsMLxfkLP=s1600)
 
-## Birthday Color for April 12th: Pea Green (`#8C9E58`)
+
+## Birthday Color for April 12: Pea Green (`#8C9E58`)
 
 ### 1. Description of Pea Green (Feeling and Traits)
 
@@ -41,7 +47,7 @@ When it comes to **interior design**, **Pea Green** can bring a touch of **natur
 
 ### 4. Plus Tip (Destiny Color)
 
-**Deep Sora**, the birthday color of **January 19th**, is a wonderful complement to **Pea Green**. Combining these colors creates a dynamic balance of energy and **sincerity**. **Deep Sora**, with its depth and seriousness, pairs beautifully with the **vitality** of **Pea Green**, bringing a sense of **responsibility** and **calm focus** into the otherwise lively energy. Together, they create a well-rounded, balanced synergy that invites both **action** and **reflection**.
+**Deep Sora**, the birthday color of **January 19**, is a wonderful complement to **Pea Green**. Combining these colors creates a dynamic balance of energy and **sincerity**. **Deep Sora**, with its depth and seriousness, pairs beautifully with the **vitality** of **Pea Green**, bringing a sense of **responsibility** and **calm focus** into the otherwise lively energy. Together, they create a well-rounded, balanced synergy that invites both **action** and **reflection**.
 
 ### 5. Conclusion (A Poem of Healing)
 

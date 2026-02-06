@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgz--1IOh217Ciytz9-fIQAdaohlD08-ctpEEqBPGQ3J8HC9HS9uHdoW37FJ5npRNMG3pZVzpTGNMOeKdN8iuzS-QGN-_MXU-EgMXAGTXp1lVXuISyfC0sydGs3t20POsy_oKOzDDTvreX87pWd8kSVsptIslWPtRDBVFTK9cTF2ncupxiGC5B8uzjsIYTM=s1600)
+
 ## 6월 14일의 탄생색: 당근 주스 (`#E8742D`)
 
 ### 1. 당근 주스에 대한 설명: 한 모금에 채워지는 태양의 에센스

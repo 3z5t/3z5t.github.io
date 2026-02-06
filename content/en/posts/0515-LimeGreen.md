@@ -1,21 +1,27 @@
 ---
-title: "Lime Green, The Birthday Color of May 15th"
-date: 2026-05-15
-description: "The birthday color for May 15th is Lime Green (6EAD5C). Its meaning is Healthy, Energetic, Balanced."
-author: 365days
+title: "Lime Green, The Birthday Color of May 15"
+date: "2026-05-15"
+updated: "2026-05-15"
 tags:
-  - lime green
-  - birthday color
-  - may 15th
-  - 6ead5c
-  - may
-  - orchid purple
-draft: false
+  - "lime green"
+  - "birthday color"
+  - "may 15"
+  - "6ead5c"
+  - "may"
+  - "orchid purple"
+description: "The birthday color for May 15 is Lime Green (6EAD5C). Its meaning is Healthy, Energetic, Balanced."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhcS80zCar9a--JJqSvPw1VPQ-yfwm1UYjW8ODUmR3XD22BHuFRkwtIhctvHPV8O3x7cMNGKt231VhdDMW8YzhMNvyLDtk2kZW-AmKzlXhVchSxRAvbfecdHxt1RmAm41MJyRj9yysDlWUu6CDeVeGtCRqbzMIK7hjzQFhiaRG3bihybdCAch9QtgQ0R88C=s1600"
+en_name: "LimeGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Lime Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_136.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhcS80zCar9a--JJqSvPw1VPQ-yfwm1UYjW8ODUmR3XD22BHuFRkwtIhctvHPV8O3x7cMNGKt231VhdDMW8YzhMNvyLDtk2kZW-AmKzlXhVchSxRAvbfecdHxt1RmAm41MJyRj9yysDlWUu6CDeVeGtCRqbzMIK7hjzQFhiaRG3bihybdCAch9QtgQ0R88C=s1600)
 
-## Birthday Color for May 15th: Lime Green (`#6EAD5C`)
+
+## Birthday Color for May 15: Lime Green (`#6EAD5C`)
 
 ### 1. Description of Lime Green (Feeling and Traits)
 
@@ -31,7 +37,7 @@ Styling with **Lime Green** is all about embracing its fresh and energetic vibes
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **May 15th**, combining **Lime Green** with **Orchid Purple** (Hex: `#9F56A2`), the birthday color of **February 5th**, creates a striking synergy. **Orchid Purple** brings an element of **creativity** and **inspiration**, perfectly complementing the **balanced energy** of **Lime Green**, making this combination ideal for those who seek to blend harmony with creative expression.
+For those born on **May 15**, combining **Lime Green** with **Orchid Purple** (Hex: `#9F56A2`), the birthday color of **February 5**, creates a striking synergy. **Orchid Purple** brings an element of **creativity** and **inspiration**, perfectly complementing the **balanced energy** of **Lime Green**, making this combination ideal for those who seek to blend harmony with creative expression.
 
 ### 5. Conclusion (A Poem of Healing)
 

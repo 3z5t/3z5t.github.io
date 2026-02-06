@@ -1,21 +1,27 @@
 ---
-title: "Dark Khaki, The Birthday Color of October 28th"
-date: 2026-10-28
-description: "The birthday color for October 28th is Dark Khaki (BDB76B). Its meaning is Earth-like, Stable, Peaceful."
-author: 365days
+title: "Dark Khaki, The Birthday Color of October 28"
+date: "2026-10-28"
+updated: "2026-10-28"
 tags:
-  - dark khaki
-  - birthday color
-  - october 28th
-  - bdb76b
-  - october
-  - elegant ultramarine
-draft: false
+  - "dark khaki"
+  - "birthday color"
+  - "october 28"
+  - "bdb76b"
+  - "october"
+  - "elegant ultramarine"
+description: "The birthday color for October 28 is Dark Khaki (BDB76B). Its meaning is Earth-like, Stable, Peaceful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiNTALBh2oiMVL29s3oEj8iuOmRnHdQAwpgTqh7Y2JsFL-NKvJ7Ry4dYmegPUpJJDn9WYKG0SA-LqfMS8R5xbSev8bpZGDN3ITOpxkRLjlgs4gA-ZfiirdmkAMcHKXr5gkiOvN3L547lex6j2XOuufyYOQ70Lo4Lub25VE0iabkAi5iZNHEwXiM_7QsSpMl=s1600"
+en_name: "DarkKhaki"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Dark Khaki](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_302.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiNTALBh2oiMVL29s3oEj8iuOmRnHdQAwpgTqh7Y2JsFL-NKvJ7Ry4dYmegPUpJJDn9WYKG0SA-LqfMS8R5xbSev8bpZGDN3ITOpxkRLjlgs4gA-ZfiirdmkAMcHKXr5gkiOvN3L547lex6j2XOuufyYOQ70Lo4Lub25VE0iabkAi5iZNHEwXiM_7QsSpMl=s1600)
 
-## Birthday Color for October 28th: Dark Khaki (`#BDB76B`)
+
+## Birthday Color for October 28: Dark Khaki (`#BDB76B`)
 
 ### 1. Description of Dark Khaki (Feeling and Traits)
 
@@ -37,7 +43,7 @@ For interiors, **Dark Khaki** can transform a room into a serene retreat. Use it
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **January 10th**, the partner color **Elegant Ultramarine** (Hex: `#445B97`) represents **reliability**, **loyalty**, and **honesty**. Combining **Dark Khaki** with **Elegant Ultramarine** creates a beautiful synergy of **stability and trust**, offering a perfect balance between **earthy groundedness** and **trustworthy elegance**.
+For those born on **January 10**, the partner color **Elegant Ultramarine** (Hex: `#445B97`) represents **reliability**, **loyalty**, and **honesty**. Combining **Dark Khaki** with **Elegant Ultramarine** creates a beautiful synergy of **stability and trust**, offering a perfect balance between **earthy groundedness** and **trustworthy elegance**.
 
 ### 5. Conclusion (A Poem of Healing)
 

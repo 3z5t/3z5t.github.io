@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgkff8QDfVMA_9V7w_XeaYfIZnCvnXVDLonbk4bdLerE7eQmn8usV_eJxUkxmOH2hX6XdFaJmzxEofYfAU0JuTupUXuyxt-81nBlZUTGM3fNkavpCFgcUSMzUABaAWvZfLa1kEYw0ntFevyxXURAAI_7HKJV8w_GXf4VLYrRq0SDvML0ixNe5ogcpsLVkT6=s1600)
+
 ## 5월 6일의 탄생색: 바나나 (`#FFF462`)
 
 ### 1. 바나나에 대한 설명 (색의 느낌과 특징)

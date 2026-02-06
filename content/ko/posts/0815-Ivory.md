@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg9S4-3baMnNHb_EulzThA2AhKmv70ehDl6kJmtTwpL0jA7S-MB3K8GrPiMI9nL2wcWnpSC1bFxGJG2AUeYu-OT20BlFylZ6N9PlhxjZVFpKwHgbS3LJktD9lN00izTjLfEjK46TzAUKrtITx-VcMDD3-qNsnVN74Miac9HoKNN0N6Im_PNhd7vAiAnwdT-=s1600)
+
 ## 8월 15일의 탄생색: 상아 (Ivory) (`#FFFFE0`)
 
 ### 1. 상아 (Ivory)에 대한 설명: 구속받지 않는 영혼의 가장 맑은 빛

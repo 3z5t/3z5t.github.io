@@ -1,20 +1,27 @@
 ---
-title: "Blue Green, The Birthday Color of April 8th"
-date: 2026-04-08
-description: "The birthday color for April 8th is Blue Green (30BA8F). Its meaning is Harmonious, Balanced, Stability."
-author: 365days
+title: "Blue Green, The Birthday Color of April 8"
+date: "2026-04-08"
+updated: "2026-04-08"
 tags:
-  - blue green
-  - birthday color
-  - april 8th
-  - 30ba8f
-  - april
-  - plum
-draft: false
+  - "blue green"
+  - "birthday color"
+  - "april 8"
+  - "30ba8f"
+  - "april"
+  - "plum"
+description: "The birthday color for April 8 is Blue Green (30BA8F). Its meaning is Harmonious, Balanced, Stability."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh2KnuOw7DGgLlf9ogyLYEXgHGQvHwmU6cIfreUyer0ExcQKueRJVBD22nydzhUWQOtFowAzim-3cvuRwzAIPdKqchQcCNn5_veXGsUAD32AxCeYocD4SEYFMMjbM2tRt5WjxVwa1kJuRdTVEGrVwk36mhH6pc6BGWSMZDBUCqjMfwX4jp9n1KpiQOMbE1p=s1600"
+en_name: "BlueGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Blue Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_099.webp)
-## Birthday Color for April 8th: Blue Green (`#30BA8F`)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh2KnuOw7DGgLlf9ogyLYEXgHGQvHwmU6cIfreUyer0ExcQKueRJVBD22nydzhUWQOtFowAzim-3cvuRwzAIPdKqchQcCNn5_veXGsUAD32AxCeYocD4SEYFMMjbM2tRt5WjxVwa1kJuRdTVEGrVwk36mhH6pc6BGWSMZDBUCqjMfwX4jp9n1KpiQOMbE1p=s1600)
+
+
+## Birthday Color for April 8: Blue Green (`#30BA8F`)
 
 ### 1. Description of Blue Green (Feeling and Traits)
 
@@ -34,7 +41,7 @@ In **interior design**, **Blue Green** has a natural affinity with spaces that p
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Plum**, the birthday color of **February 26th**, **Blue Green** creates a **dynamic synergy**. **Plum** adds a touch of deep **richness** and **playful optimism** that contrasts perfectly with the calm, steady nature of **Blue Green**. Together, they form a harmonious pairing that balances both **serenity** and **excitement**, enhancing both emotional depth and a sense of joyful stability.
+When combined with **Plum**, the birthday color of **February 26**, **Blue Green** creates a **dynamic synergy**. **Plum** adds a touch of deep **richness** and **playful optimism** that contrasts perfectly with the calm, steady nature of **Blue Green**. Together, they form a harmonious pairing that balances both **serenity** and **excitement**, enhancing both emotional depth and a sense of joyful stability.
 
 ### 5. Conclusion (A Poem of Healing)
 

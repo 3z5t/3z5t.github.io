@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhVRU4zu_pXqLDe8e06WYA3fpgDM7bFau130mKMujxW7NeNC4vTNCu2P0k2uICGkKNuon6VaiQyjpLl5Lhag0PyiC3Ycg_H_wguWnnRv-kt4RVKyyGPgouCPfqhn7FUzN_j5bpdF3wiWTVfsj-bvDQC8YfDjO6XUTvS7VuNXWZO15MPsa4hh16DGQ07yHKg=s1600)
+
 ## 7월 21일의 탄생색: 픽톤 블루 (`#6699CC`)
 
 ### 1. 픽톤 블루에 대한 설명: 한여름 무더위를 식혀주는 시각적 에어컨

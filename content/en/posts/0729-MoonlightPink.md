@@ -1,21 +1,27 @@
 ---
-title: "Moonlight Pink, The Birthday Color of July 29th"
-date: 2026-07-29
-description: "The birthday color for July 29th is Moonlight Pink (E0C8C0). Its meaning is Soft, Pure, Elegant."
-author: 365days
+title: "Moonlight Pink, The Birthday Color of July 29"
+date: "2026-07-29"
+updated: "2026-07-29"
 tags:
-  - moonlight pink
-  - birthday color
-  - july 29th
-  - e0c8c0
-  - july
-  - dark forest gray
-draft: false
+  - "moonlight pink"
+  - "birthday color"
+  - "july 29"
+  - "e0c8c0"
+  - "july"
+  - "dark forest gray"
+description: "The birthday color for July 29 is Moonlight Pink (E0C8C0). Its meaning is Soft, Pure, Elegant."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhf4sbi3xXGC_OrUmgSZ8C9XHIS9BSSH826tsId1wus-KlPZl4WRoRevGjKP9JY_mFhBC0v8ZBUxW_zD7Bmuf783wYL2VxXedC6iR1HTQBWNVCPWgdByhWDkK6AW70k-iYBnz-QfkNLpzMvZ8ojhXwyIYHooLLfRuxoEzJJ2kUhJi4AgiF6OnXSrZZBWHDo=s1600"
+en_name: "MoonlightPink"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Moonlight Pink](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_211.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhf4sbi3xXGC_OrUmgSZ8C9XHIS9BSSH826tsId1wus-KlPZl4WRoRevGjKP9JY_mFhBC0v8ZBUxW_zD7Bmuf783wYL2VxXedC6iR1HTQBWNVCPWgdByhWDkK6AW70k-iYBnz-QfkNLpzMvZ8ojhXwyIYHooLLfRuxoEzJJ2kUhJi4AgiF6OnXSrZZBWHDo=s1600)
 
-## Birthday Color for July 29th: Moonlight Pink (`#E0C8C0`)
+
+## Birthday Color for July 29: Moonlight Pink (`#E0C8C0`)
 
 ### 1. Description of Moonlight Pink (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In **fashion**, **Moonlight Pink** is the epitome of subtle sophistication. Imag
 
 ### 4. Plus Tip (Destiny Color)
 
-**Moonlight Pink** has a beautiful synergy with **Dark Forest Gray**, the birthday color of December 19th. While **Moonlight Pink** provides a gentle, serene energy, **Dark Forest Gray** grounds it with a deep, **stable presence**. Combining the two colors creates a balanced atmosphere—where softness meets strength, and elegance is paired with profound calmness. Together, they create a harmonious blend of **peaceful refinement**.
+**Moonlight Pink** has a beautiful synergy with **Dark Forest Gray**, the birthday color of December 19. While **Moonlight Pink** provides a gentle, serene energy, **Dark Forest Gray** grounds it with a deep, **stable presence**. Combining the two colors creates a balanced atmosphere—where softness meets strength, and elegance is paired with profound calmness. Together, they create a harmonious blend of **peaceful refinement**.
 
 ### 5. Conclusion (A Poem of Healing)
 

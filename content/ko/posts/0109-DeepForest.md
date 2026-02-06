@@ -19,6 +19,9 @@ postId: "1004"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhUSsylOF98bEMHb3V_WBiodvxOf419_xrUbOQdwdc5M7BGn0K_-ZPFN0x_WFRIx89V1HHqRoxdFBQh7jDqhOKt7uC6I58DxDQB7051-DKP9gRG5kMSo9jBQW3pRluQkH4vbDHiaC0HevCpADzH2IqI282RT6J_l-I1hYFMkRItee5_8dIzViikSYAEvswP=s1600)
+
+
 **1월 9일의 탄생색: 딥 포레스트 (#13191A)**
 
 ### 1. 딥 포레스트에 대한 설명 (색의 느낌과 특징)

@@ -1,21 +1,27 @@
 ---
-title: "Choco, The Birthday Color of November 30th"
-date: 2026-11-30
-description: "The birthday color for November 30th is Choco (633122). Its meaning is Sweet Personality, Abundant, Stable."
-author: 365days
+title: "Choco, The Birthday Color of November 30"
+date: "2026-11-30"
+updated: "2026-11-30"
 tags:
-  - choco
-  - birthday color
-  - november 30th
-  - 633122
-  - november
-  - morning glory
-draft: false
+  - "choco"
+  - "birthday color"
+  - "november 30"
+  - "633122"
+  - "november"
+  - "morning glory"
+description: "The birthday color for November 30 is Choco (633122). Its meaning is Sweet Personality, Abundant, Stable."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhgo_6f-eBN7CDIVdCu6LUh4oFrhd8n8fEIP2Sg6WWg1EkLOQwJMS4SgnMz6NjKc20hi-FD2QgP0p8EkPsXLnir9grx5NxlccqeKBO3JKS9SD_UkL203nvCnZyT6GpPQiPswzQuJw13fS9D6b20xX5NE_DJbELqHLYuCN0nbCVOnMkaVvbZEAMCsnPuGEjQ=s1600"
+en_name: "Choco"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Choco](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_335.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhgo_6f-eBN7CDIVdCu6LUh4oFrhd8n8fEIP2Sg6WWg1EkLOQwJMS4SgnMz6NjKc20hi-FD2QgP0p8EkPsXLnir9grx5NxlccqeKBO3JKS9SD_UkL203nvCnZyT6GpPQiPswzQuJw13fS9D6b20xX5NE_DJbELqHLYuCN0nbCVOnMkaVvbZEAMCsnPuGEjQ=s1600)
 
-## Birthday Color for November 30th: Choco (`#633122`)
+
+## Birthday Color for November 30: Choco (`#633122`)
 
 ### 1. Description of Choco (Feeling and Traits)
 
@@ -35,7 +41,7 @@ In interiors, **Choco** is the perfect color for creating a **welcoming and stab
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Morning Glory** (the birthday color of May 30th), **Choco** creates a beautiful synergy. The fresh, **hopeful** qualities of **Morning Glory** complement the deep, **abundant** essence of **Choco**, creating a balanced and harmonious atmosphere where both colors elevate one another.
+When paired with **Morning Glory** (the birthday color of May 30), **Choco** creates a beautiful synergy. The fresh, **hopeful** qualities of **Morning Glory** complement the deep, **abundant** essence of **Choco**, creating a balanced and harmonious atmosphere where both colors elevate one another.
 
 ### 5. Conclusion (A Poem of Healing)
 

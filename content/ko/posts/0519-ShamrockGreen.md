@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgvzq0Wd7rAsIoBWFwiDj5QW4YNPKy0rMidGAW5XPPaFM704fLCdIGBir7STWs1GZTY4nHUyPlOPDWSQbjShkOy6AKbI0WyPKxK-O5qWYy_SwxYC6VmR0_cgdssBOYpaoJA3CXjjUw7FrlB9rackr45DT4n8D-KVzjodUFeFPTJ_raiSAxOG5va5bui03Ph=s1600)
+
 ## 5월 19일의 탄생색: 샴록 그린 (`#009966`)
 
 ### 1. 샴록 그린에 대한 설명: 행운을 부르는 신비로운 숲의 깊이

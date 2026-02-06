@@ -1,21 +1,27 @@
 ---
-title: "Silver Antique, The Birthday Color of November 6th"
-date: 2026-11-06
-description: "The birthday color for November 6th is Silver Antique (C6C3C6). Its meaning is Classical, Classy, Valuable."
-author: 365days
+title: "Silver Antique, The Birthday Color of November 6"
+date: "2026-11-06"
+updated: "2026-11-06"
 tags:
-  - silver antique
-  - birthday color
-  - november 6th
-  - c6c3c6
-  - november
-  - midnight rider
-draft: false
+  - "silver antique"
+  - "birthday color"
+  - "november 6"
+  - "c6c3c6"
+  - "november"
+  - "midnight rider"
+description: "The birthday color for November 6 is Silver Antique (C6C3C6). Its meaning is Classical, Classy, Valuable."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhkedbqp64UO4icf3CsQWMaBnwGJCAHWHsb2bdkwuVKX2rpR2a1RBwzIpJR59tkJiVORmrkGI3WH3Pev2XMyV3BzpSfbkbL3ojdM77cWDwBnfhZsZWCrn7BOj8Ymp2kpfpg3uCvlVXPukYoCVYG_dvTWM-7G8FdKFErkO1plzspEK_S6AD5FKe9_PJsTTN2=s1600"
+en_name: "SilverAntique"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Silver Antique](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_311.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhkedbqp64UO4icf3CsQWMaBnwGJCAHWHsb2bdkwuVKX2rpR2a1RBwzIpJR59tkJiVORmrkGI3WH3Pev2XMyV3BzpSfbkbL3ojdM77cWDwBnfhZsZWCrn7BOj8Ymp2kpfpg3uCvlVXPukYoCVYG_dvTWM-7G8FdKFErkO1plzspEK_S6AD5FKe9_PJsTTN2=s1600)
 
-## Birthday Color for November 6th: Silver Antique (`#C6C3C6`)
+
+## Birthday Color for November 6: Silver Antique (`#C6C3C6`)
 
 ### 1. Description of Silver Antique (Feeling and Traits)
 
@@ -39,7 +45,7 @@ In the home, **Silver Antique** can be used in **decorative pieces**—think **v
 
 ### 4. Plus Tip (Destiny Color)
 
-The partner color for those born on **November 29th**, **Midnight Rider** (Hex: `#333333`), brings in qualities of **strength** and **decisiveness**, which creates a powerful synergy when paired with **Silver Antique**. While Silver Antique offers soft, classical elegance, **Midnight Rider** adds a bold, **grounded** depth. The two combine to create a balanced atmosphere that is both refined and **solid**, offering both warmth and strength in perfect harmony.
+The partner color for those born on **November 29**, **Midnight Rider** (Hex: `#333333`), brings in qualities of **strength** and **decisiveness**, which creates a powerful synergy when paired with **Silver Antique**. While Silver Antique offers soft, classical elegance, **Midnight Rider** adds a bold, **grounded** depth. The two combine to create a balanced atmosphere that is both refined and **solid**, offering both warmth and strength in perfect harmony.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh6LBTy-DWEChoS1BKn0rd8MXQOkxZk2hVGFjYE-G-3o56evwmaY3xPvg552uxz-UmvKJkuQ9-9NWKMZo7NaL2GeNmeg0yaZ9f255zTcwpWLuY2s9VuOAwW5t6FY28dMH0dfpn0Ttnac6KSd6GZbDFjuWl8B1juZIxSLqJRo-alXm0gpt7eW7dliFRq93uq=s1600)
+
 ## 10월 24일의 탄생색: 섀도우 브라운 (`#503D3E`)
 
 ### 1. 섀도우 브라운에 대한 설명: 빛이 물러난 자리에 깃든 고요한 깊이

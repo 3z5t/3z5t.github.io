@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi6B0qPDFBqE56N_SKIJSTeKVg7GtP1KD8hucxw5iGdfztiOSPU2aPZQw7L7tySzW1OzYis8PWvIaGEWzUUxPpepf7ucdNtx2HmyMYcTuKr4Ym7SMfy4CdZFmiDrdgj_NX8Qeky84C3c4OHN-Ug3nB70gs-N5kO4_U5s86cyohsz_ZCr3f6aytAaK8FyWCi=s1600)
+
 ## 12월 4일의 탄생색: 빈티지 튤립 (`#B80C03`)
 
 ### 1. 빈티지 튤립에 대한 설명 (색의 느낌과 특징)

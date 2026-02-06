@@ -1,21 +1,27 @@
 ---
-title: "Dark Maroon, The Birthday Color of October 13th"
-date: 2026-10-13
-description: "The birthday color for October 13th is Dark Maroon (3A0000). Its meaning is Mysterious, Profound, Serene."
-author: 365days
+title: "Dark Maroon, The Birthday Color of October 13"
+date: "2026-10-13"
+updated: "2026-10-13"
 tags:
-  - dark maroon
-  - birthday color
-  - october 13th
-  - 3a0000
-  - october
-  - light cyan
-draft: false
+  - "dark maroon"
+  - "birthday color"
+  - "october 13"
+  - "3a0000"
+  - "october"
+  - "light cyan"
+description: "The birthday color for October 13 is Dark Maroon (3A0000). Its meaning is Mysterious, Profound, Serene."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhZN6Mlh4f7qar15mFLnY9CTSvE579rWpYxmbbJpUfbZcTSe-EyxgE-1RH5crMvY7uXBvmdvVbcp3TbTgTSspmHK1y5PcT6v0UlZwnClS40ALrcHjChJmqsTfWUR4SZoJ0P5nV77oWqHOI-ZxE8XTdx_QadCa9W3vCENuH9PUosgkyk1Z4uhFIRuHSW5GAY=s1600"
+en_name: "DarkMaroon"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Dark Maroon](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_287.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhZN6Mlh4f7qar15mFLnY9CTSvE579rWpYxmbbJpUfbZcTSe-EyxgE-1RH5crMvY7uXBvmdvVbcp3TbTgTSspmHK1y5PcT6v0UlZwnClS40ALrcHjChJmqsTfWUR4SZoJ0P5nV77oWqHOI-ZxE8XTdx_QadCa9W3vCENuH9PUosgkyk1Z4uhFIRuHSW5GAY=s1600)
 
-## Birthday Color for October 13th: Dark Maroon (`#3A0000`)
+
+## Birthday Color for October 13: Dark Maroon (`#3A0000`)
 
 ### 1. **Description of Dark Maroon (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ For those born under the influence of **Dark Maroon**, there is a profound, almo
 
 ### 4. **Plus Tip (Destiny Color)**
 
-When combined with **Light Cyan**, the birthday color of **May 31st**, the result is a **beautiful contrast** between the **mystery of Dark Maroon** and the **clarity and calm of Light Cyan**. Together, they create a balanced synergy, where the **serenity of both** colors enhances each other's strengths—one rooted in depth, the other in clarity and refreshing calm.
+When combined with **Light Cyan**, the birthday color of **May 31**, the result is a **beautiful contrast** between the **mystery of Dark Maroon** and the **clarity and calm of Light Cyan**. Together, they create a balanced synergy, where the **serenity of both** colors enhances each other's strengths—one rooted in depth, the other in clarity and refreshing calm.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

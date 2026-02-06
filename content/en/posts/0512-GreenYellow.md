@@ -1,20 +1,27 @@
 ---
-title: "Green Yellow, The Birthday Color of May 12th"
-date: 2026-05-12
-description: "The birthday color for May 12th is Green Yellow (99FF33). Its meaning is Challenging Spirit, Vitality, Creativity."
-author: 365days
+title: "Green Yellow, The Birthday Color of May 12"
+date: "2026-05-12"
+updated: "2026-05-12"
 tags:
-  - green yellow
-  - birthday color
-  - may 12th
-  - 99ff33
-  - may
-  - mystic purple
-draft: false
+  - "green yellow"
+  - "birthday color"
+  - "may 12"
+  - "99ff33"
+  - "may"
+  - "mystic purple"
+description: "The birthday color for May 12 is Green Yellow (99FF33). Its meaning is Challenging Spirit, Vitality, Creativity."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiKaA9dEHW2ESEdDI72zSs-SrSaqg-EdBeRPIctrR5lDzOzq49wCdkEFJsfjVBzFBakTCsrJ3IKPruorRf8wKseNJe1lwdWgoiJ1QpjhcRNPWp7_iUaaor6xYDHvscMohbLgp1ZozK75K6Y0qdjuo69h42OW-rCD0G5s3PNCUDp0F95tcW0gx7OuL6O_9Ui=s1600"
+en_name: "GreenYellow"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Green Yellow](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_133.webp)
-## Birthday Color for May 12th: Green Yellow (`#99FF33`)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiKaA9dEHW2ESEdDI72zSs-SrSaqg-EdBeRPIctrR5lDzOzq49wCdkEFJsfjVBzFBakTCsrJ3IKPruorRf8wKseNJe1lwdWgoiJ1QpjhcRNPWp7_iUaaor6xYDHvscMohbLgp1ZozK75K6Y0qdjuo69h42OW-rCD0G5s3PNCUDp0F95tcW0gx7OuL6O_9Ui=s1600)
+
+
+## Birthday Color for May 12: Green Yellow (`#99FF33`)
 
 ### 1. Description of Green Yellow (Feeling and Traits)
 
@@ -30,7 +37,7 @@ When styling with **Green Yellow**, let its bold vibrancy speak for itself. In f
 
 ### 4. Plus Tip (Destiny Color)
 
-For those born on **May 12th**, **combining Green Yellow** with **Mystic Purple** (Hex: `#9900FF`), the birthday color of **July 12th**, creates a stunning synergy. While **Green Yellow** brings vitality and a spirit of challenge, **Mystic Purple** adds depth and **artistic allure**, enhancing creativity and making the combination even more dynamic.
+For those born on **May 12**, **combining Green Yellow** with **Mystic Purple** (Hex: `#9900FF`), the birthday color of **July 12**, creates a stunning synergy. While **Green Yellow** brings vitality and a spirit of challenge, **Mystic Purple** adds depth and **artistic allure**, enhancing creativity and making the combination even more dynamic.
 
 ### 5. Conclusion (A Poem of Healing)
 

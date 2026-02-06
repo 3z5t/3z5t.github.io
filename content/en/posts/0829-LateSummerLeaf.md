@@ -1,21 +1,27 @@
 ---
-title: "Late Summer Leaf, The Birthday Color of August 29th"
-date: 2026-08-29
-description: "The birthday color for August 29th is Late Summer Leaf (566353). Its meaning is Mature, Profound, Stable."
-author: 365days
+title: "Late Summer Leaf, The Birthday Color of August 29"
+date: "2026-08-29"
+updated: "2026-08-29"
 tags:
-  - late summer leaf
-  - birthday color
-  - august 29th
-  - 566353
-  - august
-  - satin gray
-draft: false
+  - "late summer leaf"
+  - "birthday color"
+  - "august 29"
+  - "566353"
+  - "august"
+  - "satin gray"
+description: "The birthday color for August 29 is Late Summer Leaf (566353). Its meaning is Mature, Profound, Stable."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjFtm5cLw4YtwmwcpIcygx9gtj90sASkagrS3XdiYBG6Jxos2orQYj8qelwxlX6nz8duuVcm49qryfAF1ZcVhOxwU9IE_3pP2nTS8uuUyhm7eBJFGsI5QdRnsRGVzGMCtYdYs1CyIzdUkoAzW233jCcJch3WBiLNJn6MmynlCh0c5-vro_pDOvFDr8px3V8=s1600"
+en_name: "LateSummerLeaf"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Late Summer Leaf](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_242.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjFtm5cLw4YtwmwcpIcygx9gtj90sASkagrS3XdiYBG6Jxos2orQYj8qelwxlX6nz8duuVcm49qryfAF1ZcVhOxwU9IE_3pP2nTS8uuUyhm7eBJFGsI5QdRnsRGVzGMCtYdYs1CyIzdUkoAzW233jCcJch3WBiLNJn6MmynlCh0c5-vro_pDOvFDr8px3V8=s1600)
 
-## Birthday Color for August 29th: Late Summer Leaf (`#566353`)
+
+## Birthday Color for August 29: Late Summer Leaf (`#566353`)
 
 ### 1. Description of Late Summer Leaf (Feeling and Traits)
 
@@ -33,7 +39,7 @@ In interior design, Late Summer Leaf can create a sanctuary of tranquility. It�
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Satin Gray**, the birthday color of September 10th, Late Summer Leaf creates a truly harmonious synergy. Satin Gray’s sophisticated and classy tones elevate the grounded, profound nature of Late Summer Leaf, enhancing its elegance. Together, they create a space of **refined stability** and **calm sophistication**—a perfect balance of strength and grace.
+When combined with **Satin Gray**, the birthday color of September 10, Late Summer Leaf creates a truly harmonious synergy. Satin Gray’s sophisticated and classy tones elevate the grounded, profound nature of Late Summer Leaf, enhancing its elegance. Together, they create a space of **refined stability** and **calm sophistication**—a perfect balance of strength and grace.
 
 ### 5. Conclusion (A Poem of Healing)
 

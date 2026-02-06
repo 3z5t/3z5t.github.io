@@ -1,21 +1,27 @@
 ---
-title: "Sprout Green, The Birthday Color of March 1st"
-date: 2026-03-01
-description: "The birthday color for March 1st is Sprout Green (5FD059). Its meaning is Freedom, Independence, Pioneering Spirit."
-author: 365days
+title: "Sprout Green, The Birthday Color of March 1"
+date: "2026-03-01"
+updated: "2026-03-01"
 tags:
-  - sprout green
-  - birthday color
-  - march 1st
-  - 5fd059
-  - march
-  - orchid purple
-draft: false
+  - "sprout green"
+  - "birthday color"
+  - "march 1"
+  - "5fd059"
+  - "march"
+  - "orchid purple"
+description: "The birthday color for March 1 is Sprout Green (5FD059). Its meaning is Freedom, Independence, Pioneering Spirit."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjR6WDpiCNkl-65bBaUJ1yTWGtVl87qtArxAsZbJy1N79H44B5OVdgqeGXKb43_litWbanqeS0wg7tuJxRtwXOriegdeXDhUG-hKuuT5Kyc5QO-W-NsFbKSQC2kP3lJspwTWvZ_U4f6-745WK2lAQcfJU7kL8ZXxfx3LJx2uCQK9lBd8-VjiAnAEDZIBJ9G=s1600"
+en_name: "SproutGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Sprout Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_061.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjR6WDpiCNkl-65bBaUJ1yTWGtVl87qtArxAsZbJy1N79H44B5OVdgqeGXKb43_litWbanqeS0wg7tuJxRtwXOriegdeXDhUG-hKuuT5Kyc5QO-W-NsFbKSQC2kP3lJspwTWvZ_U4f6-745WK2lAQcfJU7kL8ZXxfx3LJx2uCQK9lBd8-VjiAnAEDZIBJ9G=s1600)
 
-## Birthday Color for March 1st: Sprout Green (`#5FD059`)
+
+## Birthday Color for March 1: Sprout Green (`#5FD059`)
 
 ### 1. Description of Sprout Green (Feeling and Traits)
 
@@ -33,7 +39,7 @@ In your home, **Sprout Green** can bring a touch of **nature** indoors. Use it i
 
 ### 4. Plus Tip (Destiny Color)
 
-The partner color for **Sprout Green** is **Orchid Purple**, the birthday color of February 5th. When combined, **Sprout Green** and **Orchid Purple** create a powerful synergy that blends the **pioneering spirit** of green with the **creativity** and **originality** of purple. This pairing encourages both **growth** and **innovation**, making it an ideal combination for anyone looking to **break new ground** while staying true to their unique vision.
+The partner color for **Sprout Green** is **Orchid Purple**, the birthday color of February 5. When combined, **Sprout Green** and **Orchid Purple** create a powerful synergy that blends the **pioneering spirit** of green with the **creativity** and **originality** of purple. This pairing encourages both **growth** and **innovation**, making it an ideal combination for anyone looking to **break new ground** while staying true to their unique vision.
 
 ### 5. Conclusion (A Poem of Healing)
 

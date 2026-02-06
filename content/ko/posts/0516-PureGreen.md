@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEigJqQMAtoCRMbtGit-dlEj86eE7xj0WnfeKztte329DveJWLj37LwxJYy1_XYKeuZONaLwYKx6eCcJlRPyz2PRd7NSch4gWUaUbPhv3klAU8EOrVOMHBv3dF6sNTkoqSzIHgwfHVR_qz6tRjeZm-GQ26gKAvK_3-fMRAr7eEINvjPPOBuKrkwbn_TWmTcM=s1600)
+
 ## 5월 16일의 탄생색: 퓨어 그린 (`#2FBA10`)
 
 ### 1. 퓨어 그린에 대한 설명: 가공되지 않은 자연 그대로의 숨결

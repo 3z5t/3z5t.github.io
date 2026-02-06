@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjoP4f0vi8lIakl_S_LZFn7A98eK0wgQ9yZDOMfZG37p30pg4qlYVGQ2u_kd-B4rrr_awpJJ7U35QXTK5aaCYgLCBi1rMdu5okuhmbsZbsQApErTPHUh8CTbTs7x8lJwnAckMjEAlU4xtTutMS4qqMdsABYHH7RidufKKpPepk88QZZmWZzmvC6Q1tiLcbz=s1600)
+
 ## 12월 27일의 탄생색: 미드나잇 그레이 (`#565269`)
 
 ### 1. 미드나잇 그레이에 대한 설명 (색의 느낌과 특징)

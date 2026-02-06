@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhpSpwDSDYkEdlRb1jsGfJ1MLfNRp5DRnwDoWhtGgLKNMnkVtkB3GVRpK_bxDFsFlxJW_cxmDjZEgbO0st73KRBE7Fw0OMl_3VKJkNyTZUuZiHVyDWBIC5gnyhjE0kj7hlM_jLlnT6CGq9pAgFJka-4fc59D4TvZHJUEIe0eg-RLnzEIHXZ-g3kWnqnOhzN=s1600)
+
 ## 3월 7일의 탄생색: 페일 그린 (`#98FB98`)
 
 ### 1. 페일 그린에 대한 설명 (색의 느낌과 특징)

@@ -1,21 +1,27 @@
 ---
-title: "Real Black, The Birthday Color of November 14th"
-date: 2026-11-14
-description: "The birthday color for November 14th is Real Black (2B2B2B). Its meaning is Weighty, Profound, Stable."
-author: 365days
+title: "Real Black, The Birthday Color of November 14"
+date: "2026-11-14"
+updated: "2026-11-14"
 tags:
-  - real black
-  - birthday color
-  - november 14th
-  - 2b2b2b
-  - november
-  - cloud gray
-draft: false
+  - "real black"
+  - "birthday color"
+  - "november 14"
+  - "2b2b2b"
+  - "november"
+  - "cloud gray"
+description: "The birthday color for November 14 is Real Black (2B2B2B). Its meaning is Weighty, Profound, Stable."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiTraRS7-YjfOi59eiOCWpb348veJQjnw9FhBJMGt9-rYj8cb5Ux6hNQw7kenzzrp4oL8yRFduS_GYOtyN5sboIbMxA5Qc2oNgwUnBDL1lHge72KmNM0_uV5XWY9bYcRSZ-LrNew-OEZkr4XNcZB4S4Lf0MU7WT_G-c5eq6I9PQOW4ygq8T42nLSSWWpgtb=s1600"
+en_name: "RealBlack"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Real Black](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_319.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiTraRS7-YjfOi59eiOCWpb348veJQjnw9FhBJMGt9-rYj8cb5Ux6hNQw7kenzzrp4oL8yRFduS_GYOtyN5sboIbMxA5Qc2oNgwUnBDL1lHge72KmNM0_uV5XWY9bYcRSZ-LrNew-OEZkr4XNcZB4S4Lf0MU7WT_G-c5eq6I9PQOW4ygq8T42nLSSWWpgtb=s1600)
 
-## Birthday Color for November 14th: Real Black (`#2B2B2B`)
+
+## Birthday Color for November 14: Real Black (`#2B2B2B`)
 
 ### 1. Description of Real Black (Feeling and Traits)
 
@@ -43,7 +49,7 @@ In beauty, **Real Black** makes for a powerful statement. **Deep black eyeliner*
 
 ### 4. Plus Tip (Destiny Color)
 
-**Cloud Gray** (Hex: `#D8D3CD`), the birthday color of **October 21st**, pairs beautifully with **Real Black**. The **lightness** of Cloud Gray offers a perfect balance to the profound energy of **Real Black**, creating a harmonious blend of stability and serenity. Together, they enhance each other, creating an environment that is both grounded and **soothing**.
+**Cloud Gray** (Hex: `#D8D3CD`), the birthday color of **October 21**, pairs beautifully with **Real Black**. The **lightness** of Cloud Gray offers a perfect balance to the profound energy of **Real Black**, creating a harmonious blend of stability and serenity. Together, they enhance each other, creating an environment that is both grounded and **soothing**.
 
 ### 5. Conclusion (A Poem of Healing)
 

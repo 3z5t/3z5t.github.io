@@ -1,21 +1,28 @@
 ---
-title: "High Sky, The Birthday Color of January 22nd"
-date: 2026-01-22
-description: "The birthday color for January 22nd is High Sky (0B8AC3). Its meaning is Challenging Spirit, Pioneering, Innovative."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-22'
+description: The birthday color for January 22 is High Sky (0B8AC3). Its meaning is
+  Challenging Spirit, Pioneering, Innovative.
+en_name: HighSky
 tags:
-  - high sky
-  - birthday color
-  - january 22nd
-  - 0b8ac3
-  - january
-  - carrot juice
-draft: false
+- high sky
+- birthday color
+- january 22
+- 0b8ac3
+- january
+- carrot juice
+postId: '4156166687817495429'
+postUrl: https://the366days-en.blogspot.com/2026/01/high-sky-birthday-color-of-january-22.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgH-Df8cj8-4rgFxsfsKJPkWtWUy982LVS3FCdy8Ksb-YVta3-VPU5pMzj7TUrEWsUvUwEzV4KZwxjy-1I4dqec8c-4SDftj-4mKTSOF6QhP8dOD4ov-eeVX3v9pXsxEJ-DXoFWl_xT9vOVIncZjoau9_6zhjVTtEjBpW4SZKDVjEJfsENGO15_yGNOBuFS=s1600
+title: High Sky, The Birthday Color of January 22
+updated: '2026-01-22'
 ---
 
-![High Sky](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_022.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgH-Df8cj8-4rgFxsfsKJPkWtWUy982LVS3FCdy8Ksb-YVta3-VPU5pMzj7TUrEWsUvUwEzV4KZwxjy-1I4dqec8c-4SDftj-4mKTSOF6QhP8dOD4ov-eeVX3v9pXsxEJ-DXoFWl_xT9vOVIncZjoau9_6zhjVTtEjBpW4SZKDVjEJfsENGO15_yGNOBuFS=s1600)
 
-## Birthday Color for January 22nd: High Sky (`#0B8AC3`)
+
+## Birthday Color for January 22: High Sky (`#0B8AC3`)
 
 ### 1. **Description of High Sky (Feeling and Traits)**
 
@@ -33,7 +40,7 @@ In interiors, **High Sky** makes a bold statement. It’s perfect for accent wal
 
 ### 4. **Plus Tip (Destiny Color)**
 
-To add even more vibrancy and balance, consider pairing **High Sky** with **Carrot Juice**, the birthday color of June 14th. This lively orange hue creates a perfect synergy with **High Sky**, enhancing the innovative energy of both colors. Together, they spark creativity and vitality, while bringing a healthy, grounded approach to any endeavor.
+To add even more vibrancy and balance, consider pairing **High Sky** with **Carrot Juice**, the birthday color of June 14. This lively orange hue creates a perfect synergy with **High Sky**, enhancing the innovative energy of both colors. Together, they spark creativity and vitality, while bringing a healthy, grounded approach to any endeavor.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

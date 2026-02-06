@@ -1,21 +1,27 @@
 ---
-title: "Light Salmon, The Birthday Color of August 2nd"
-date: 2026-08-02
-description: "The birthday color for August 2nd is Light Salmon (FFA07A). Its meaning is Bright Mind, Fresh, Friendly."
-author: 365days
+title: "Light Salmon, The Birthday Color of August 2"
+date: "2026-08-02"
+updated: "2026-08-02"
 tags:
-  - light salmon
-  - birthday color
-  - august 2nd
-  - ffa07a
-  - august
-  - moonlight navy
-draft: false
+  - "light salmon"
+  - "birthday color"
+  - "august 2"
+  - "ffa07a"
+  - "august"
+  - "moonlight navy"
+description: "The birthday color for August 2 is Light Salmon (FFA07A). Its meaning is Bright Mind, Fresh, Friendly."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhgojAT8A5YVXeWb1jwk8QTi0X-F4-kGXAMIyJjBkJ4b0X-ZY_LokErBXiRVJcYvh_3Byc8DQ8zywGIVVZfNVPVtMsmvwXQmjNMsVS2xKDJdezfCaEmbpToAkYSkN0Ywf6po8HHBeR88Ccjhr5GUkZEpmdSyGFmuTJ5GCO4d98vMH5Rj2MMw0Yy1dazCY4T=s1600"
+en_name: "LightSalmon"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Light Salmon](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_215.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhgojAT8A5YVXeWb1jwk8QTi0X-F4-kGXAMIyJjBkJ4b0X-ZY_LokErBXiRVJcYvh_3Byc8DQ8zywGIVVZfNVPVtMsmvwXQmjNMsVS2xKDJdezfCaEmbpToAkYSkN0Ywf6po8HHBeR88Ccjhr5GUkZEpmdSyGFmuTJ5GCO4d98vMH5Rj2MMw0Yy1dazCY4T=s1600)
 
-## Birthday Color for August 2nd: Light Salmon (`#FFA07A`)
+
+## Birthday Color for August 2: Light Salmon (`#FFA07A`)
 
 ### 1. Description of Light Salmon (Feeling and Traits)
 
@@ -35,7 +41,7 @@ Those born under the **Light Salmon** influence often possess a **bright mind** 
 
 ### 4. Plus Tip (Destiny Color)
 
-For those looking to add a little more depth and **balance**, try combining **Light Salmon** with **Moonlight Navy**, the birthday color of July 20th. This deep, calming color pairs perfectly with **Light Salmon**, creating a **peaceful yet energizing** vibe that’s both sophisticated and welcoming.
+For those looking to add a little more depth and **balance**, try combining **Light Salmon** with **Moonlight Navy**, the birthday color of July 20. This deep, calming color pairs perfectly with **Light Salmon**, creating a **peaceful yet energizing** vibe that’s both sophisticated and welcoming.
 
 ### 5. Conclusion (A Poem of Healing)
 

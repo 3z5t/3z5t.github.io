@@ -1,21 +1,24 @@
 ---
-title: "Mystic Purple, The Birthday Color of February 6th"
-date: 2026-02-06
-description: "The birthday color for February 6th is Mystic Purple (520054). Its meaning is Mysticism, Spiritual, Intuitive."
-author: 365days
-tags:
-  - mystic purple
-  - birthday color
-  - february 6th
-  - 520054
-  - february
-  - mint green
-draft: false
+"title": "Mystic Purple, The Birthday Color of February 6"
+"date": "2026-02-06"
+"updated": "2026-02-06"
+"labels":
+- "mystic purple"
+- "birthday color"
+- "february 6"
+- "520054"
+- "february"
+- "mint green"
+"description": "The birthday color for February 6 is Mystic Purple (520054). Its meaning is Mysticism, Spiritual, Intuitive."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEg5f8kE9QmF5NjW1rKDHvqinrx74x-zBm9F-SuZOEnJjO_5OBo2U7rgRs9xhxSnR38-7mx-YbOCk5kX8B7_bqYAS9Pz481WBlkK2DnvtArzaiAJLodyDT4digDLbcmEX5mSnZQbIED5xVncGn4WtykGVKkgALWQax6Ycnm_ezBBQ2UCMQjcLj1cqY7EJ3EK=s1600"
+"en_name": "MysticPurple"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "463291272119472654"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/mystic-purple-birthday-color-of.html"
 ---
 
-![Mystic Purple](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_037.webp)
-
-## Birthday Color for February 6th: Mystic Purple (`#520054`)
+## Birthday Color for February 6: Mystic Purple (`#520054`)
 
 ### 1. Description of Mystic Purple (Feeling and Traits)
 
@@ -31,7 +34,7 @@ draft: false
 
 ### 4. Plus Tip (Destiny Color)
 
-To create a complementary and balanced energy, consider pairing **Mystic Purple** with **Mint Green** (Hex: `#99FF99`), the birthday color for July 25th. While **Mystic Purple** brings **spiritual depth** and **intuition**, **Mint Green** adds an **energetic** and **refreshing** vitality, creating a beautiful harmony between **mysticism** and **clarity**. Together, they form a perfect synergy that invites both deep reflection and a sense of renewal.
+To create a complementary and balanced energy, consider pairing **Mystic Purple** with **Mint Green** (Hex: `#99FF99`), the birthday color for July 25. While **Mystic Purple** brings **spiritual depth** and **intuition**, **Mint Green** adds an **energetic** and **refreshing** vitality, creating a beautiful harmony between **mysticism** and **clarity**. Together, they form a perfect synergy that invites both deep reflection and a sense of renewal.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhicr6w3IRAH4CRK8aqu6B742v5PALhx3kZZ8JH30V1RntTWCQmVbO4iEST6XHsIx17zx61qihsxySxYsdgR14lCrbATW-l0aS2-BdqKqQxWHe05v8A39ylu4OUZRYXJuWZK5adQPUn3r_AsPERP5YZfDzExyj8U2bqRNPFAr062e29YNes3SKKGLh4LjZH=s1600)
+
 ## 4월 18일의 탄생색: 치녹 그린 (`#99CC99`)
 
 ### 1. 치녹 그린에 대한 설명 (색의 느낌과 특징)

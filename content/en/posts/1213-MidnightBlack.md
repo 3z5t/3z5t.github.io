@@ -1,21 +1,27 @@
 ---
-title: "Midnight Black, The Birthday Color of December 13th"
-date: 2026-12-13
-description: "The birthday color for December 13th is Midnight Black (141618). Its meaning is Profound Soul, Meditative, Serene."
-author: 365days
+title: "Midnight Black, The Birthday Color of December 13"
+date: "2026-12-13"
+updated: "2026-12-13"
 tags:
-  - midnight black
-  - birthday color
-  - december 13th
-  - 141618
-  - december
-  - fine sand
-draft: false
+  - "midnight black"
+  - "birthday color"
+  - "december 13"
+  - "141618"
+  - "december"
+  - "fine sand"
+description: "The birthday color for December 13 is Midnight Black (141618). Its meaning is Profound Soul, Meditative, Serene."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgbCunLohoqbo_8k5-XcG5dz2xwoqsVymSbLCDlDdlH18naUbRMxCfm_byEPu5OkJT_ivY67h38rICb_BuiB8Je6_SnMFSjateOfAx1KLz46C2LVQ-5UZrbZjEqeAXE0F607eATbToqqaEnk4C2dstqzZqeqAQEvk0e_bA3tvEd4TB_GJ0NIeyAPnYXDstD=s1600"
+en_name: "MidnightBlack"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Midnight Black](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_348.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgbCunLohoqbo_8k5-XcG5dz2xwoqsVymSbLCDlDdlH18naUbRMxCfm_byEPu5OkJT_ivY67h38rICb_BuiB8Je6_SnMFSjateOfAx1KLz46C2LVQ-5UZrbZjEqeAXE0F607eATbToqqaEnk4C2dstqzZqeqAQEvk0e_bA3tvEd4TB_GJ0NIeyAPnYXDstD=s1600)
 
-## Birthday Color for December 13th: Midnight Black (`#141618`)
+
+## Birthday Color for December 13: Midnight Black (`#141618`)
 
 ### 1. Description of Midnight Black (Feeling and Traits)
 
@@ -37,7 +43,7 @@ In interior design, **Midnight Black** creates an atmosphere of **contemplation 
 
 ### 4. Plus Tip (Destiny Color)
 
-When **Midnight Black** is paired with **Fine Sand** (the birthday color of September 11th), the combination creates a beautiful contrast. **Fine Sand’s** natural and peaceful tones complement the **serene depth** of **Midnight Black**, creating a balanced dynamic of light and dark that feels both grounding and uplifting.
+When **Midnight Black** is paired with **Fine Sand** (the birthday color of September 11), the combination creates a beautiful contrast. **Fine Sand’s** natural and peaceful tones complement the **serene depth** of **Midnight Black**, creating a balanced dynamic of light and dark that feels both grounding and uplifting.
 
 ### 5. Conclusion (A Poem of Healing)
 

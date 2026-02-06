@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhbymsGWDyFJ19OtfcLzfRZQEifLoEuy66Y3Pf_Qv8Db-PwQa4GigogBYMrdLqunpeCfdSgkNyTyZAatrBzFIZkMh69Pa9ar7tvBnWgD7e2ZkRnq8RJ_IzJx2k8bf7d4x5GeR_cf4BpOGBCMvjPC2ZbIwssumgvz6G06G5nlpJibFoDe6P-0UmHfBZxEOnB=s1600)
+
 ## 11월 6일의 탄생색: 실버 앤틱 (`#C6C3C6`)
 
 ### 1. 실버 앤틱에 대한 설명: 시간을 견뎌낸 것들만이 가질 수 있는 은은한 윤기

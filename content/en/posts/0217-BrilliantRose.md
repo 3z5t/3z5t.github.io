@@ -1,21 +1,24 @@
 ---
-title: "Brilliant Rose, The Birthday Color of February 17th"
-date: 2026-02-17
-description: "The birthday color for February 17th is Brilliant Rose (FF6699). Its meaning is Lovely, Positivity, Hope."
-author: 365days
-tags:
-  - brilliant rose
-  - birthday color
-  - february 17th
-  - ff6699
-  - february
-  - shamrock green
-draft: false
+"title": "Brilliant Rose, The Birthday Color of February 17"
+"date": "2026-02-17"
+"updated": "2026-02-17"
+"labels":
+- "brilliant rose"
+- "birthday color"
+- "february 17"
+- "ff6699"
+- "february"
+- "shamrock green"
+"description": "The birthday color for February 17 is Brilliant Rose (FF6699). Its meaning is Lovely, Positivity, Hope."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEi3V_Pd0E3NEwMyX6rhKvpfEULdBQUjfnADX-748GPSdKPdnXSk92LB8TyBNMQbX6WQVMd_CHuPqYvyumSmyCjZ0jiQU_WkOCcX6YBGUftG3yUxox8tG2QDZqMF213fRZZQdpLbnc6N6hOUxuwJ_k1jbxMQLSlMri2p-t80Xc2HrJ5OIv0NXqvDhXlK4TA1=s1600"
+"en_name": "BrilliantRose"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "4863627929883787863"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/brilliant-rose-birthday-color-of.html"
 ---
 
-![Brilliant Rose](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_048.webp)
-
-## Birthday Color for February 17th: Brilliant Rose (`#FF6699`)
+## Birthday Color for February 17: Brilliant Rose (`#FF6699`)
 
 ### 1. Description of Brilliant Rose (Feeling and Traits)
 
@@ -33,7 +36,7 @@ When it comes to **interior design**, this color is ideal for creating spaces th
 
 ### 4. Plus Tip (Destiny Color)
 
-**Shamrock Green**, the birthday color of May 19th, offers an exciting synergy when combined with **Brilliant Rose**. The **vibrant green** and **warm pink** create a dynamic contrast that speaks to both **growth** and **hope**—a pairing that enhances your natural sense of **positivity** and **prosperity**. Together, they bring a balance of **success** and **luck** with an infusion of **joy** and **freshness**, creating a truly harmonious effect.
+**Shamrock Green**, the birthday color of May 19, offers an exciting synergy when combined with **Brilliant Rose**. The **vibrant green** and **warm pink** create a dynamic contrast that speaks to both **growth** and **hope**—a pairing that enhances your natural sense of **positivity** and **prosperity**. Together, they bring a balance of **success** and **luck** with an infusion of **joy** and **freshness**, creating a truly harmonious effect.
 
 ### 5. Conclusion (A Poem of Healing)
 

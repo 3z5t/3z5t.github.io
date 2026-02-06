@@ -1,21 +1,28 @@
 ---
-title: "Deep Black, The Birthday Color of January 7th"
-date: 2026-01-07
-description: "The birthday color for January 7th is Deep Black (1A1A1F). Its meaning is Determination, Willpower, Originality."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-07'
+description: The birthday color for January 7 is Deep Black (1A1A1F). Its meaning
+  is Determination, Willpower, Originality.
+en_name: DeepBlack
 tags:
-  - deep black
-  - birthday color
-  - january 7th
-  - 1a1a1f
-  - january
-  - pure silver
-draft: false
+- deep black
+- birthday color
+- january 7
+- 1a1a1f
+- january
+- pure silver
+postId: '4248367874031944271'
+postUrl: https://the366days-en.blogspot.com/2026/01/deep-black-birthday-color-of-january-7.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEj1q0ymVgvEUsOhJ595stoMgjarCf6OguxacPRg2Cg1CGNiEIOlC1wfmgReE92kohrltT5KpTzzVcTw9oyirY8Lb-B2f3bMysZHYjhWw9VCJME6E8qPP31es5OYjSWM9YkfEYh1R-W2gzxfpqMrWT404-9ISr8DrRJjKeaYfOiZ58Rf6xZw7uhg9MLanlaW=s1600
+title: Deep Black, The Birthday Color of January 7
+updated: '2026-01-07'
 ---
 
-![Deep Black](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_007.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj1q0ymVgvEUsOhJ595stoMgjarCf6OguxacPRg2Cg1CGNiEIOlC1wfmgReE92kohrltT5KpTzzVcTw9oyirY8Lb-B2f3bMysZHYjhWw9VCJME6E8qPP31es5OYjSWM9YkfEYh1R-W2gzxfpqMrWT404-9ISr8DrRJjKeaYfOiZ58Rf6xZw7uhg9MLanlaW=s1600)
 
-## Birthday Color for January 7th: Deep Black (`#1A1A1F`)
+
+## Birthday Color for January 7: Deep Black (`#1A1A1F`)
 
 ### 1. **Description of Deep Black (Feeling and Traits)**
 
@@ -31,7 +38,7 @@ In fashion, **Deep Black** is the epitome of sophistication and power. A **black
 
 ### 4. **Plus Tip (Destiny Color)**
 
-To complement **Deep Black**, consider the synergy created by pairing it with **Pure Silver**, the birthday color of December 17th. While **Deep Black** offers determination and originality, **Pure Silver** brings clarity and purity, balancing the boldness with light and reflection.
+To complement **Deep Black**, consider the synergy created by pairing it with **Pure Silver**, the birthday color of December 17. While **Deep Black** offers determination and originality, **Pure Silver** brings clarity and purity, balancing the boldness with light and reflection.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

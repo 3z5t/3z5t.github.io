@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgtV9hxzsDYc0Wctj5VNfIP2gm8nxJVBUx4FxIGgkt6g9BAEYQB9_VbUAuOAm7nKmEO3yQam8XuFTMwm5KrrLy0f61qg5AZBcp1DWg0ZmaYI86EngIaNfagp62UuUB0SB0BzKrmR7Kh65fHHv1XQI31C3ETox_4eTQV4cAVbi1URoLZpI8x2Jrf9BDq55kZ=s1600)
+
 ## 12월 20일의 탄생색: 프렌치 베이지 (`#D6A680`)
 
 ### 1. 프렌치 베이지에 대한 설명 (색의 느낌과 특징)

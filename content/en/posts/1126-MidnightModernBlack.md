@@ -1,21 +1,27 @@
 ---
-title: "Midnight Modern Black, The Birthday Color of November 26th"
-date: 2026-11-26
-description: "The birthday color for November 26th is Midnight Modern Black (1A1A1B). Its meaning is Modern, Sophisticated, Simple."
-author: 365days
+title: "Midnight Modern Black, The Birthday Color of November 26"
+date: "2026-11-26"
+updated: "2026-11-26"
 tags:
-  - midnight modern black
-  - birthday color
-  - november 26th
-  - 1a1a1b
-  - november
-  - pure silver
-draft: false
+  - "midnight modern black"
+  - "birthday color"
+  - "november 26"
+  - "1a1a1b"
+  - "november"
+  - "pure silver"
+description: "The birthday color for November 26 is Midnight Modern Black (1A1A1B). Its meaning is Modern, Sophisticated, Simple."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjKwo9zwvzNfI4WLvsge6wFt5cnnSU_CooQ2nRmld3GPBCrhUsA_iAZjCeJXutF6p4NPc17qPnqgwGXJJvi9Or_YbMocb3kpyBSF-tG3EgSylTLuG8UYuel0yB6TVTmk7SXb-vI_oWz_cMjvWFqF36an2vbVEkLhziX3yuOxm7u9kUbc78ZLjEyF21-7-Si=s1600"
+en_name: "MidnightModernBlack"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Midnight Modern Black](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_331.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjKwo9zwvzNfI4WLvsge6wFt5cnnSU_CooQ2nRmld3GPBCrhUsA_iAZjCeJXutF6p4NPc17qPnqgwGXJJvi9Or_YbMocb3kpyBSF-tG3EgSylTLuG8UYuel0yB6TVTmk7SXb-vI_oWz_cMjvWFqF36an2vbVEkLhziX3yuOxm7u9kUbc78ZLjEyF21-7-Si=s1600)
 
-## Birthday Color for November 26th: Midnight Modern Black (`#1A1A1B`)
+
+## Birthday Color for November 26: Midnight Modern Black (`#1A1A1B`)
 
 ### 1. Description of Midnight Modern Black (Feeling and Traits)
 
@@ -35,7 +41,7 @@ In interiors, **Midnight Modern Black** is perfect for creating a **modern, mini
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Pure Silver** (the birthday color of December 17th), **Midnight Modern Black** creates an enchanting synergy. The soft, **pure** qualities of **Pure Silver** offer a perfect contrast to the deep, **sophisticated** energy of **Midnight Modern Black**, blending modernity with clarity and brightness.
+When paired with **Pure Silver** (the birthday color of December 17), **Midnight Modern Black** creates an enchanting synergy. The soft, **pure** qualities of **Pure Silver** offer a perfect contrast to the deep, **sophisticated** energy of **Midnight Modern Black**, blending modernity with clarity and brightness.
 
 ### 5. Conclusion (A Poem of Healing)
 

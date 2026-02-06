@@ -1,21 +1,27 @@
 ---
-title: "Ash Beige, The Birthday Color of August 28th"
-date: 2026-08-28
-description: "The birthday color for August 28th is Ash Beige (978B88). Its meaning is Self-controlled, Balanced, Calm."
-author: 365days
+title: "Ash Beige, The Birthday Color of August 28"
+date: "2026-08-28"
+updated: "2026-08-28"
 tags:
-  - ash beige
-  - birthday color
-  - august 28th
-  - 978b88
-  - august
-  - afternoon gray
-draft: false
+  - "ash beige"
+  - "birthday color"
+  - "august 28"
+  - "978b88"
+  - "august"
+  - "afternoon gray"
+description: "The birthday color for August 28 is Ash Beige (978B88). Its meaning is Self-controlled, Balanced, Calm."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg9XzjPjAU4HjiLigpx-kml9PnGTDElgTf_5B_IVB44GPUGRvKOYpatULXiWykPeHAp9rx8m6z0bQQyfofXT30boDwpb25tU4Sq0oXh9E05wSWbWtkv2a1IbblWCdMdSuWwoUiURxsiFNThxQYzHj4tU9Y1PGR98wuNr0ShbJB16m6rC31-1sQB_fZjmOC1=s1600"
+en_name: "AshBeige"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Ash Beige](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_241.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg9XzjPjAU4HjiLigpx-kml9PnGTDElgTf_5B_IVB44GPUGRvKOYpatULXiWykPeHAp9rx8m6z0bQQyfofXT30boDwpb25tU4Sq0oXh9E05wSWbWtkv2a1IbblWCdMdSuWwoUiURxsiFNThxQYzHj4tU9Y1PGR98wuNr0ShbJB16m6rC31-1sQB_fZjmOC1=s1600)
 
-## Birthday Color for August 28th: Ash Beige (`#978B88`)
+
+## Birthday Color for August 28: Ash Beige (`#978B88`)
 
 ### 1. Description of Ash Beige (Feeling and Traits)
 
@@ -31,7 +37,7 @@ When it comes to styling with Ash Beige, the key is to **embrace its understated
 
 ### 4. Plus Tip (Destiny Color)
 
-In combination with **Afternoon Gray**—the birthday color for September 8th—Ash Beige creates a **wonderfully harmonious balance**. Afternoon Gray’s calm, wise tones add a layer of maturity, while Ash Beige keeps the atmosphere grounded. Together, they form an almost meditative synergy, a space where quiet strength and wisdom coexist beautifully.
+In combination with **Afternoon Gray**—the birthday color for September 8—Ash Beige creates a **wonderfully harmonious balance**. Afternoon Gray’s calm, wise tones add a layer of maturity, while Ash Beige keeps the atmosphere grounded. Together, they form an almost meditative synergy, a space where quiet strength and wisdom coexist beautifully.
 
 ### 5. Conclusion (A Poem of Healing)
 

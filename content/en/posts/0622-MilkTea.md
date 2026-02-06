@@ -1,21 +1,27 @@
 ---
-title: "Milk Tea, The Birthday Color of June 22nd"
-date: 2026-06-22
-description: "The birthday color for June 22nd is Milk Tea (E4B982). Its meaning is Soft Personality, Sweet, Gentle."
-author: 365days
+title: "Milk Tea, The Birthday Color of June 22"
+date: "2026-06-22"
+updated: "2026-06-22"
 tags:
-  - milk tea
-  - birthday color
-  - june 22nd
-  - e4b982
-  - june
-  - true navy
-draft: false
+  - "milk tea"
+  - "birthday color"
+  - "june 22"
+  - "e4b982"
+  - "june"
+  - "true navy"
+description: "The birthday color for June 22 is Milk Tea (E4B982). Its meaning is Soft Personality, Sweet, Gentle."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEheeq_JOJzFnH9_aBOaqdArm7FLT20w50vltuVTsqswX0ly774nMDzZR7_OnBNIuW2ZRtst90zPUa5TZA8Fe7CAn_AVHycmjq0CVIOj2V_R8vLHSvoyteE3QbUkpaVc2su16QjNwMmldClAY9wtRJCQTfix_Bv52MN-1qze7SYWxhc1uCFo9lpE5EveHtHb=s1600"
+en_name: "MilkTea"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Milk Tea](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_174.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEheeq_JOJzFnH9_aBOaqdArm7FLT20w50vltuVTsqswX0ly774nMDzZR7_OnBNIuW2ZRtst90zPUa5TZA8Fe7CAn_AVHycmjq0CVIOj2V_R8vLHSvoyteE3QbUkpaVc2su16QjNwMmldClAY9wtRJCQTfix_Bv52MN-1qze7SYWxhc1uCFo9lpE5EveHtHb=s1600)
 
-## Birthday Color for June 22nd: Milk Tea (`#E4B982`)
+
+## Birthday Color for June 22: Milk Tea (`#E4B982`)
 
 ### 1. Description of Milk Tea (Feeling and Traits)
 
@@ -39,7 +45,7 @@ When it comes to **beauty**, **Milk Tea** is a timeless choice. A **gentle, neut
 
 ### 4. Plus Tip (Destiny Color)
 
-A perfect match for **Milk Tea** is **True Navy**, the birthday color for **January 14th**. Combining these two colors creates a beautiful **contrast**—the soft, nurturing warmth of **Milk Tea** paired with the **depth** and **stability** of **True Navy**. Together, they evoke a sense of **balance** and **refinement**, making them an ideal pairing for someone who appreciates both comfort and strength.
+A perfect match for **Milk Tea** is **True Navy**, the birthday color for **January 14**. Combining these two colors creates a beautiful **contrast**—the soft, nurturing warmth of **Milk Tea** paired with the **depth** and **stability** of **True Navy**. Together, they evoke a sense of **balance** and **refinement**, making them an ideal pairing for someone who appreciates both comfort and strength.
 
 ### 5. Conclusion (A Poem of Healing)
 

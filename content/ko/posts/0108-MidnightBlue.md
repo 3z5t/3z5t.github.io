@@ -19,6 +19,9 @@ postId: "1004"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEizXdbyBIvHTKR--WWfLlNVCuuXaskrlKIeqHIU1O9r1PSnga43BGRmlcs3kC6-etdY0-FAupjgS6yn8ncWADjzDizmO2MwX6i6j0w2Op9LCDlyRxFYTd9y-3ayvd9JSxkr3vA4-LdKkWXCX81a6YKdKc490WKW1ZEbbVMd7-DW4pWuN6FV7FKZKZ1oqXQm=s1600)
+
+
 **1월 8일의 탄생색: 미드나잇 블루 (#191970)**
 
 ### 1. 미드나잇 블루에 대한 설명 (색의 느낌과 특징)

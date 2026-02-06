@@ -1,21 +1,27 @@
 ---
-title: "Fuchsia, The Birthday Color of July 14th"
-date: 2026-07-14
-description: "The birthday color for July 14th is Fuchsia (CC33CC). Its meaning is Charming, Fancy, Unique."
-author: 365days
+title: "Fuchsia, The Birthday Color of July 14"
+date: "2026-07-14"
+updated: "2026-07-14"
 tags:
-  - fuchsia
-  - birthday color
-  - july 14th
-  - cc33cc
-  - july
-  - pure green
-draft: false
+  - "fuchsia"
+  - "birthday color"
+  - "july 14"
+  - "cc33cc"
+  - "july"
+  - "pure green"
+description: "The birthday color for July 14 is Fuchsia (CC33CC). Its meaning is Charming, Fancy, Unique."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgSRtn26A9WyRHb5Hu9gDFk0EVG9NtVa5c4OTFHtd9VQsSiZaR2pnc3HLgr3zeregi3rTmW3t2W-1EOm5OrBbkiRRCZjlgdWZ0xh_oIOEc9neZ399wYjRPvPPVSbHaX7MJp0ocXE9lwWEs6Ed-k_IFve5-h2uLQouK3VsMA_229BMeRls568HxRaxdD0S1E=s1600"
+en_name: "Fuchsia"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Fuchsia](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_196.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgSRtn26A9WyRHb5Hu9gDFk0EVG9NtVa5c4OTFHtd9VQsSiZaR2pnc3HLgr3zeregi3rTmW3t2W-1EOm5OrBbkiRRCZjlgdWZ0xh_oIOEc9neZ399wYjRPvPPVSbHaX7MJp0ocXE9lwWEs6Ed-k_IFve5-h2uLQouK3VsMA_229BMeRls568HxRaxdD0S1E=s1600)
 
-## Birthday Color for July 14th: Fuchsia (`#CC33CC`)
+
+## Birthday Color for July 14: Fuchsia (`#CC33CC`)
 
 ### 1. Description of Fuchsia (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Fuchsia** is a color that speaks volumes. Imagine a **fuchsia dres
 
 ### 4. Plus Tip (Destiny Color)
 
-For a special touch, consider how **Fuchsia** pairs with **Pure Green**—the birthday color for May 16th. This combination of **vibrant vitality** and **earthy purity** creates an **energizing synergy** that is both **refreshing** and **inspiring**.
+For a special touch, consider how **Fuchsia** pairs with **Pure Green**—the birthday color for May 16. This combination of **vibrant vitality** and **earthy purity** creates an **energizing synergy** that is both **refreshing** and **inspiring**.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,21 +1,27 @@
 ---
-title: "Lemon, The Birthday Color of May 7th"
-date: 2026-05-07
-description: "The birthday color for May 7th is Lemon (EFDA00). Its meaning is Fresh, Intellect, Inspiration."
-author: 365days
+title: "Lemon, The Birthday Color of May 7"
+date: "2026-05-07"
+updated: "2026-05-07"
 tags:
-  - lemon
-  - birthday color
-  - may 7th
-  - efda00
-  - may
-  - pure blue
-draft: false
+  - "lemon"
+  - "birthday color"
+  - "may 7"
+  - "efda00"
+  - "may"
+  - "pure blue"
+description: "The birthday color for May 7 is Lemon (EFDA00). Its meaning is Fresh, Intellect, Inspiration."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg-7_JQxm0ny33plwRPx329GcJ8KEQ8uOJiEzYyu6hd25KsgaDfNn7qthQTuRPE__9aTXyZQzwQiEcCVBUD--5GQ7Y_wuD8Fkwf46rt54GXzMORM5SBc1pmmTyXDJffgx1hamkd7aTsxNboFX0_D3PRWa2op2Y4hUzljS1sG-7XHPTzYgw1PecBRtwNetpx=s1600"
+en_name: "Lemon"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Lemon](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_128.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg-7_JQxm0ny33plwRPx329GcJ8KEQ8uOJiEzYyu6hd25KsgaDfNn7qthQTuRPE__9aTXyZQzwQiEcCVBUD--5GQ7Y_wuD8Fkwf46rt54GXzMORM5SBc1pmmTyXDJffgx1hamkd7aTsxNboFX0_D3PRWa2op2Y4hUzljS1sG-7XHPTzYgw1PecBRtwNetpx=s1600)
 
-## Birthday Color for May 7th: Lemon (`#EFDA00`)
+
+## Birthday Color for May 7: Lemon (`#EFDA00`)
 
 ### 1. Description of Lemon (Feeling and Traits)
 
@@ -32,7 +38,7 @@ For interiors, **Lemon** can add a much-needed pop of freshness. It’s particul
 
 ### 4. Plus Tip (Destiny Color)
 
-To add an element of balance and depth, **Lemon** pairs beautifully with **Pure Blue** (Hex: `#3333FF`), the birthday color of July 11th. While **Lemon** ignites energy and new ideas, **Pure Blue** brings depth, calm, and intellectual clarity. Together, they create an exceptional synergy—**Lemon** inspires, while **Pure Blue** grounds. This combination allows for both creativity and insight, perfect for those looking to spark new projects or find clarity in their goals.
+To add an element of balance and depth, **Lemon** pairs beautifully with **Pure Blue** (Hex: `#3333FF`), the birthday color of July 11. While **Lemon** ignites energy and new ideas, **Pure Blue** brings depth, calm, and intellectual clarity. Together, they create an exceptional synergy—**Lemon** inspires, while **Pure Blue** grounds. This combination allows for both creativity and insight, perfect for those looking to spark new projects or find clarity in their goals.
 
 ### 5. Conclusion (A Poem of Healing)
 

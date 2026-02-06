@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjsh8eep-DeNhIUAG10Sx8V9GzExUVD86oXJs_uieIronOwESulde3y4nAXxnUznbdGUIwI-wZYBkK6bnQIyrkKLlOvZy09v3Phqlp0hoP6A7lWpGFduknWVYlH7iTGLprzyzPK7xlICESK5YcpzKaM1s8_l_Yr4OpuUu_i-Wb3ExG-G-31j1eNe2oX_F7k=s1600)
+
 ## 3월 28일의 탄생색: 포그 핑크 (`#E0CECE`)
 
 ### 1. 포그 핑크에 대한 설명 (색의 느낌과 특징)

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh_nChkwx4yMoDxv3-Wk6x85mlqp6zZ8Rov6ZmeDim6_geBgW8iIbQEqlqeZ5czGnNfuJLDaY_LtyPI3pu_OeG9myQ-oAzsauiLH6vfnoY5Sxcvl_DZUDvZkANuII5y-uL9gBi3ZHy6dg2202XNQOWd7KrIYc4IICL_4FHxtvQQ5yoXD9VoiriIVH5soh1Z=s1600)
+
 ## 9월 23일의 탄생색: 애쉬 브라운 (`#534E4B`)
 
 ### 1. 애쉬 브라운에 대한 설명: 균형의 계절이 선사하는 가장 고요한 휴식

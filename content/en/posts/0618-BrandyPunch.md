@@ -1,21 +1,27 @@
 ---
-title: "Brandy Punch, The Birthday Color of June 18th"
-date: 2026-06-18
-description: "The birthday color for June 18th is Brandy Punch (C6794A). Its meaning is Profound, Stable, Mature."
-author: 365days
+title: "Brandy Punch, The Birthday Color of June 18"
+date: "2026-06-18"
+updated: "2026-06-18"
 tags:
-  - brandy punch
-  - birthday color
-  - june 18th
-  - c6794a
-  - june
-  - dark turquoise
-draft: false
+  - "brandy punch"
+  - "birthday color"
+  - "june 18"
+  - "c6794a"
+  - "june"
+  - "dark turquoise"
+description: "The birthday color for June 18 is Brandy Punch (C6794A). Its meaning is Profound, Stable, Mature."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhzOoelgWACAvlEQrFipOLGu_a-k4UD2Lxq3DaZB5_Sou4fF0SMmf9TdPKww4HTBP0TZWCqrTc39oGnKxq0rEu0FHC39ltfLl6rAypqNaZjKbPdS3MTrBbMqQ0dVAb_8RcFmUiLOAVGwvtEUSNhCtCofKyEvj2LgGKDqs-uIwMSvZysnNj7jwMUS1M9NxIN=s1600"
+en_name: "BrandyPunch"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Brandy Punch](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_170.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhzOoelgWACAvlEQrFipOLGu_a-k4UD2Lxq3DaZB5_Sou4fF0SMmf9TdPKww4HTBP0TZWCqrTc39oGnKxq0rEu0FHC39ltfLl6rAypqNaZjKbPdS3MTrBbMqQ0dVAb_8RcFmUiLOAVGwvtEUSNhCtCofKyEvj2LgGKDqs-uIwMSvZysnNj7jwMUS1M9NxIN=s1600)
 
-## Birthday Color for June 18th: Brandy Punch (`#C6794A`)
+
+## Birthday Color for June 18: Brandy Punch (`#C6794A`)
 
 ### 1. Description of Brandy Punch (Feeling and Traits)
 
@@ -37,7 +43,7 @@ For home decor, **Brandy Punch** makes a space feel **welcoming** and **steady**
 
 ### 4. Plus Tip (Destiny Color)
 
-For those looking to balance **Brandy Punch** with something that adds a touch of **mystery** and **creativity**, **Dark Turquoise**, the birthday color of **May 24th**, offers the perfect counterpart. When **Brandy Punch** is paired with the profound and deep tones of **Dark Turquoise**, it creates a dynamic synergy between **stability** and **imagination**—offering both a **grounded presence** and a hint of **mystery** that invites exploration.
+For those looking to balance **Brandy Punch** with something that adds a touch of **mystery** and **creativity**, **Dark Turquoise**, the birthday color of **May 24**, offers the perfect counterpart. When **Brandy Punch** is paired with the profound and deep tones of **Dark Turquoise**, it creates a dynamic synergy between **stability** and **imagination**—offering both a **grounded presence** and a hint of **mystery** that invites exploration.
 
 ### 5. Conclusion (A Poem of Healing)
 

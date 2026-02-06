@@ -1,21 +1,28 @@
 ---
-title: "Deep Forest, The Birthday Color of January 9th"
-date: 2026-01-09
-description: "The birthday color for January 9th is Deep Forest (13191A). Its meaning is Growth, Development, Innovation."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-09'
+description: The birthday color for January 9 is Deep Forest (13191A). Its meaning
+  is Growth, Development, Innovation.
+en_name: DeepForest
 tags:
-  - deep forest
-  - birthday color
-  - january 9th
-  - 13191a
-  - january
-  - fine sand
-draft: false
+- deep forest
+- birthday color
+- january 9
+- 13191a
+- january
+- fine sand
+postId: '284554651672564260'
+postUrl: https://the366days-en.blogspot.com/2026/01/deep-forest-birthday-color-of-january-9.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEikcBAvIie0OK0D0CpdrVzJEJaa6xRrkxheci0Z-B--09lKrShOyus5nmYLKcKlLGLnpedjBDS58FimDxcDIz1Fg4AJECC1bkl3CjLcBJHHIfzZ6JqMZKCTIucNKNy5W6L9QGk9Yk7mXW3fAskd6tDlqRFzj8z2aiykpxc0k-tA26MpG5UunBcNWivror_b=s1600
+title: Deep Forest, The Birthday Color of January 9
+updated: '2026-01-09'
 ---
 
-![Deep Forest](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_009.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEikcBAvIie0OK0D0CpdrVzJEJaa6xRrkxheci0Z-B--09lKrShOyus5nmYLKcKlLGLnpedjBDS58FimDxcDIz1Fg4AJECC1bkl3CjLcBJHHIfzZ6JqMZKCTIucNKNy5W6L9QGk9Yk7mXW3fAskd6tDlqRFzj8z2aiykpxc0k-tA26MpG5UunBcNWivror_b=s1600)
 
-## Birthday Color for January 9th: Deep Forest (`#13191A`)
+
+## Birthday Color for January 9: Deep Forest (`#13191A`)
 
 ### 1. **Description of Deep Forest (Feeling and Traits)**
 
@@ -31,7 +38,7 @@ In fashion, **Deep Forest** brings an air of elegance and mystery. A **Deep Fore
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For those looking to add balance, **combining Deep Forest with Fine Sand**, the birthday color of September 11th, creates a harmonious synergy. While **Deep Forest** brings strength, growth, and innovation, **Fine Sand** adds a calming, peaceful presence that allows for clarity and serenity.
+For those looking to add balance, **combining Deep Forest with Fine Sand**, the birthday color of September 11, creates a harmonious synergy. While **Deep Forest** brings strength, growth, and innovation, **Fine Sand** adds a calming, peaceful presence that allows for clarity and serenity.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

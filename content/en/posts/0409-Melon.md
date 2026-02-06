@@ -1,21 +1,27 @@
 ---
-title: "Melon, The Birthday Color of April 9th"
-date: 2026-04-09
-description: "The birthday color for April 9th is Melon (98E294). Its meaning is Sweet, Positivity, Happiness."
-author: 365days
+title: "Melon, The Birthday Color of April 9"
+date: "2026-04-09"
+updated: "2026-04-09"
 tags:
-  - melon
-  - birthday color
-  - april 9th
-  - 98e294
-  - april
-  - mystic purple
-draft: false
+  - "melon"
+  - "birthday color"
+  - "april 9"
+  - "98e294"
+  - "april"
+  - "mystic purple"
+description: "The birthday color for April 9 is Melon (98E294). Its meaning is Sweet, Positivity, Happiness."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjjD5YuuJtv7gfxVkcJhRJVxRwQ_JvtH56cPgw_sSIVU41Qe43cxn6uDaw4SEaPxW6tDaBNpF1xBLYGpx_1BdLQS8KzjlwHrosJnM7JQO3UkjewwcjqeVtCVKyndI7Tc1qG6Qt33Y4iCnlEXaE1t0pIJTZoGjjG1w6ggyPc55Jg1ck8TnOUMCJTwmL4QbFP=s1600"
+en_name: "Melon"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Melon](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_100.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjjD5YuuJtv7gfxVkcJhRJVxRwQ_JvtH56cPgw_sSIVU41Qe43cxn6uDaw4SEaPxW6tDaBNpF1xBLYGpx_1BdLQS8KzjlwHrosJnM7JQO3UkjewwcjqeVtCVKyndI7Tc1qG6Qt33Y4iCnlEXaE1t0pIJTZoGjjG1w6ggyPc55Jg1ck8TnOUMCJTwmL4QbFP=s1600)
 
-## Birthday Color for April 9th: Melon (`#98E294`)
+
+## Birthday Color for April 9: Melon (`#98E294`)
 
 ### 1. Description of Melon (Feeling and Traits)
 
@@ -35,7 +41,7 @@ In **interior design**, **Melon** is the perfect choice for creating spaces that
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Mystic Purple**, the birthday color of **February 6th**, **Melon** creates an intriguing synergy. **Mystic Purple** adds depth and **mysticism**, providing a perfect balance to **Melon’s** light, airy nature. Together, they create a harmony of **joy** and **mystery**, where happiness and wonder coexist effortlessly. The contrast of colors amplifies their energy, making for a captivating pairing.
+When combined with **Mystic Purple**, the birthday color of **February 6**, **Melon** creates an intriguing synergy. **Mystic Purple** adds depth and **mysticism**, providing a perfect balance to **Melon’s** light, airy nature. Together, they create a harmony of **joy** and **mystery**, where happiness and wonder coexist effortlessly. The contrast of colors amplifies their energy, making for a captivating pairing.
 
 ### 5. Conclusion (A Poem of Healing)
 

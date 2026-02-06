@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhnyzr_M-lugPxRpVI2B54BPuOaj-caSZj2vX7qd9hxYafD97Xy9-f-fjTy1iNEzax8qPyuG2eyJ_-OsREb7kYrXSSF0ypJrFVD6zs1PSZlsQGXMTGxyN50OYDnfdmAZnpPwZR5HHpw-6OhmiRdoAencUBaLNqQ5JdaKEGzHkqT2RvjDFZHWB7P1qLQuHPs=s1600)
+
 ## 11월 26일의 탄생색: 미드나잇 모던블랙 (`#1A1A1B`)
 
 ### 1. 미드나잇 모던블랙에 대한 설명 (색의 느낌과 특징)

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgBmRYb1RWYh7raZkgImnQYr8RUeXMKOzRI26ZdvLXMrxgTdRWWHhszBXxOgwCcuTxe03J10S6HPZLzRm8tiGAxE7yjknJHYU5bA0zqCOgmnKQRob634-6bcOcyUGmUEIs7Cc3dhEbbE7ABGHhe1pll_rATXppIjjsy6HJiiayDzkIq09eQ8yAdQhRjGAZC=s1600)
+
 ## 12월 25일의 탄생색: 앤티크 크리스마스 골드 (`#947E4C`)
 
 ### 1. 앤티크 크리스마스 골드에 대한 설명 (색의 느낌과 특징)

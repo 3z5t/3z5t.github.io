@@ -1,21 +1,27 @@
 ---
-title: "Mystic Purple, The Birthday Color of July 12th"
-date: 2026-07-12
-description: "The birthday color for July 12th is Mystic Purple (9900FF). Its meaning is Mysterious, Charming, Artistic."
-author: 365days
+title: "Mystic Purple, The Birthday Color of July 12"
+date: "2026-07-12"
+updated: "2026-07-12"
 tags:
-  - mystic purple
-  - birthday color
-  - july 12th
-  - 9900ff
-  - july
-  - bright green
-draft: false
+  - "mystic purple"
+  - "birthday color"
+  - "july 12"
+  - "9900ff"
+  - "july"
+  - "bright green"
+description: "The birthday color for July 12 is Mystic Purple (9900FF). Its meaning is Mysterious, Charming, Artistic."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgbmD4TQtrQPsyepaNHzl6zqDknwofyy5g6F1WCm92aSE96V-c1Uvvg-BMeMmYBtsv-9jxVG5-LWBSVNhGPq9Bxee8C7WzuD-yfjZwZL8IcwN5Nya8tuocgEj6h9XXHYY4NNFOPStLXreDfYzsVeL70E5wqeFNm0wkwIhhO45CsnX5FdxI-tZw_N24S6jGi=s1600"
+en_name: "MysticPurple"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Mystic Purple](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_194.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgbmD4TQtrQPsyepaNHzl6zqDknwofyy5g6F1WCm92aSE96V-c1Uvvg-BMeMmYBtsv-9jxVG5-LWBSVNhGPq9Bxee8C7WzuD-yfjZwZL8IcwN5Nya8tuocgEj6h9XXHYY4NNFOPStLXreDfYzsVeL70E5wqeFNm0wkwIhhO45CsnX5FdxI-tZw_N24S6jGi=s1600)
 
-## Birthday Color for July 12th: Mystic Purple (`#9900FF`)
+
+## Birthday Color for July 12: Mystic Purple (`#9900FF`)
 
 ### 1. Description of Mystic Purple (Feeling and Traits)
 
@@ -31,7 +37,7 @@ When you first encounter **Mystic Purple**, it feels like stepping into a world 
 
 ### 4. Plus Tip (Destiny Color)
 
-When **Mystic Purple** is paired with **Bright Green** (Hex: `#66FF00`), the birthday color of May 14th, the combination creates a dynamic contrast between **creativity** and **vitality**. **Bright Green** brings a sense of **freshness** and **progress**, which enhances the **artistic** and **mystical** qualities of **Mystic Purple**. Together, these colors create an **energizing** and **inspiring synergy** that encourages both **creativity** and **growth**.
+When **Mystic Purple** is paired with **Bright Green** (Hex: `#66FF00`), the birthday color of May 14, the combination creates a dynamic contrast between **creativity** and **vitality**. **Bright Green** brings a sense of **freshness** and **progress**, which enhances the **artistic** and **mystical** qualities of **Mystic Purple**. Together, these colors create an **energizing** and **inspiring synergy** that encourages both **creativity** and **growth**.
 
 ### 5. Conclusion (A Poem of Healing)
 

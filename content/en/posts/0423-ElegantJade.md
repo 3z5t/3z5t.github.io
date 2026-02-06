@@ -1,21 +1,27 @@
 ---
-title: "Elegant Jade, The Birthday Color of April 23rd"
-date: 2026-04-23
-description: "The birthday color for April 23rd is Elegant Jade (79B49F). Its meaning is Peaceful, Harmonious, Stability."
-author: 365days
+title: "Elegant Jade, The Birthday Color of April 23"
+date: "2026-04-23"
+updated: "2026-04-23"
 tags:
-  - elegant jade
-  - birthday color
-  - april 23rd
-  - 79b49f
-  - april
-  - taupe
-draft: false
+  - "elegant jade"
+  - "birthday color"
+  - "april 23"
+  - "79b49f"
+  - "april"
+  - "taupe"
+description: "The birthday color for April 23 is Elegant Jade (79B49F). Its meaning is Peaceful, Harmonious, Stability."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj5D_bZSA1EfWkzox53fE26MCEjPqCSJj7f7rl0w1XjcbHKZ5iz2A487UWKh62bI_phUR_CEFQzBRcRrSxKwrFURXDt2QkIgRaVTfyiloMH-uwcD_QKK4kVct1nTNeUb5XFusPFRJo94WzCF0F1MniHeC2LDxBwLs_30FM20VmvfFKpFxKX0QjOT9Tc_r8d=s1600"
+en_name: "ElegantJade"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Elegant Jade](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_114.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj5D_bZSA1EfWkzox53fE26MCEjPqCSJj7f7rl0w1XjcbHKZ5iz2A487UWKh62bI_phUR_CEFQzBRcRrSxKwrFURXDt2QkIgRaVTfyiloMH-uwcD_QKK4kVct1nTNeUb5XFusPFRJo94WzCF0F1MniHeC2LDxBwLs_30FM20VmvfFKpFxKX0QjOT9Tc_r8d=s1600)
 
-## Birthday Color for April 23rd: Elegant Jade (`#79B49F`)
+
+## Birthday Color for April 23: Elegant Jade (`#79B49F`)
 
 ### 1. Description of Elegant Jade (Feeling and Traits)
 
@@ -31,7 +37,7 @@ To bring **Elegant Jade** into your life, consider it as a subtle yet powerful f
 
 ### 4. Plus Tip (Destiny Color)
 
-For those seeking a bit more depth, **Elegant Jade** pairs wonderfully with **Taupe** (Hex: `#805454`), the birthday color of October 18th. Combining these two colors creates a sense of grounded balance—while **Elegant Jade** brings harmony and peace, **Taupe** adds warmth and calm depth. Together, they make for a beautifully serene and sophisticated combination.
+For those seeking a bit more depth, **Elegant Jade** pairs wonderfully with **Taupe** (Hex: `#805454`), the birthday color of October 18. Combining these two colors creates a sense of grounded balance—while **Elegant Jade** brings harmony and peace, **Taupe** adds warmth and calm depth. Together, they make for a beautifully serene and sophisticated combination.
 
 ### 5. Conclusion (A Poem of Healing)
 

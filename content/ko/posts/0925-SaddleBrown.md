@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhfmRXn3o89rNp7z7LgipsKBs89BZsJ79fiIepQb7hGZ3ffngK5s1KpuZjg3DfwfihDZeywAyFRd1hi799PDa9vheLikjkWPJ_1VbAfra4Ls5M38pjCyram37fSS4MuyGSNaiOq0UCg0k9xal0tvBx8Ba4nPpqPYsHmXIjJptN4EXcgPgOn4x1kUy0u02uO=s1600)
+
 ## 9월 25일의 탄생색: 새들 브라운 (`#4A2F29`)
 
 ### 1. 새들 브라운에 대한 설명: 시간을 견뎌낸 가죽처럼 깊고 단단한 약속

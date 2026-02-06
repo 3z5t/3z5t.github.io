@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiSyZgqcLmxgiQ0B8DMgyeQUZ1d0kZjZIc2kLCL3k87-f3oH3rorF8hkXzikA-vu1cFh397jFm5hZRRX5ri2VeU97B_5HVGn2v8TPog0B33b_SExRx_civ5caTLg_fHKLPd9qeYpMlbNZEdTNrDMxQKsCm7MRc96bfEwlCW9DE7MYmDFJaCb7vTtbxlj39V=s1600)
+
 ## 12월 17일의 탄생색: 퓨어 실버 (`#E5E5E5`)
 
 ### 1. 퓨어 실버에 대한 설명 (색의 느낌과 특징)

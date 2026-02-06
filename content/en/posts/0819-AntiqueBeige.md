@@ -1,21 +1,27 @@
 ---
-title: "Antique Beige, The Birthday Color of August 19th"
-date: 2026-08-19
-description: "The birthday color for August 19th is Antique Beige (A19475). Its meaning is Classical, Wise, Traditional."
-author: 365days
+title: "Antique Beige, The Birthday Color of August 19"
+date: "2026-08-19"
+updated: "2026-08-19"
 tags:
-  - antique beige
-  - birthday color
-  - august 19th
-  - a19475
-  - august
-  - deep ocean
-draft: false
+  - "antique beige"
+  - "birthday color"
+  - "august 19"
+  - "a19475"
+  - "august"
+  - "deep ocean"
+description: "The birthday color for August 19 is Antique Beige (A19475). Its meaning is Classical, Wise, Traditional."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj32v0rXbduQwVtvy3C-5FSEdPi1Dqt4x1EjW8wGYjZmhr5mOl9S-GGwwtpQT6EVxSo9T_iyATvY7ZlKVXWL6UsM1EEA8FmVtSvnSGMENbHRIyPHDTVMJB-ZDHPHmN7fxLmluOWfwy4DAVz_0jslCWFaGEP8wiA2Y6tNk8M70gyOK2-Ef_KunRL9aYNEhxj=s1600"
+en_name: "AntiqueBeige"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Antique Beige](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_232.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj32v0rXbduQwVtvy3C-5FSEdPi1Dqt4x1EjW8wGYjZmhr5mOl9S-GGwwtpQT6EVxSo9T_iyATvY7ZlKVXWL6UsM1EEA8FmVtSvnSGMENbHRIyPHDTVMJB-ZDHPHmN7fxLmluOWfwy4DAVz_0jslCWFaGEP8wiA2Y6tNk8M70gyOK2-Ef_KunRL9aYNEhxj=s1600)
 
-## Birthday Color for August 19th: Antique Beige (`#A19475`)
+
+## Birthday Color for August 19: Antique Beige (`#A19475`)
 
 ### 1. Description of Antique Beige (Feeling and Traits)
 
@@ -35,7 +41,7 @@ The essence of **Antique Beige** is steeped in **classical beauty** and **tradit
 
 ### 4. Plus Tip (Destiny Color)
 
-**Antique Beige** harmonizes beautifully with **Deep Ocean**, the birthday color for September 5th. Combining these colors brings together the grounded, traditional elegance of **Antique Beige** with the **mysterious depth** of **Deep Ocean**, creating a pairing that feels both **rooted** and **expansive**. Whether used in interior design or personal styling, this synergy offers a sense of balance—**timeless wisdom** meeting the **vastness of possibility**.
+**Antique Beige** harmonizes beautifully with **Deep Ocean**, the birthday color for September 5. Combining these colors brings together the grounded, traditional elegance of **Antique Beige** with the **mysterious depth** of **Deep Ocean**, creating a pairing that feels both **rooted** and **expansive**. Whether used in interior design or personal styling, this synergy offers a sense of balance—**timeless wisdom** meeting the **vastness of possibility**.
 
 ### 5. Conclusion (A Poem of Healing)
 

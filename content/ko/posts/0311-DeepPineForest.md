@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh0156Sr94Mu-TkmCi5stfdP5ag9YNayovl1K8-hsEh92xlXNtRhdFFwYJLsUReKLvAUtZi7eczXGW1gI_er0aAfVbuKPD89zRv7RP5cGiCPlrjBNN81Ey5Xv5K4mdOPC_n21xL4ocQ_csf8WOmfwt5SHDOdSkoGrZ2g3ce-1UphO75mZTL8SsXiKuR677O=s1600)
+
 ## 3월 11일의 탄생색: 깊은 솔숲 (`#006400`)
 
 ### 1. 깊은 솔숲에 대한 설명 (색의 느낌과 특징)

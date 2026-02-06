@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiJWmfRBKzyrN90_KVct_137wPE_fj_cyiIV2hD2XZgZk6VzQpJ5I3ZcA7hbW9iEzYd2fweE0hFFzUZVNwxMDm3G7oXUmyMU3EIqQIaClqwsHW0QGQUyYHyAd028DOAyQ_iljbOqqjsan86zXQf8uUG-BpPNHWgxgVd6-0_GIPNU-OIL6sGBLwG5zMICY87=s1600)
+
 ## 6월 16일의 탄생색: 자몽 (`#FE7B84`)
 
 ### 1. 자몽에 대한 설명: 입안 가득 터지는 루비빛 설렘

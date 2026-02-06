@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh2mAhBA4ai_HAnX5CnvVvaXj0fLMrgQp502yMLME1R-Nu9c8VwLcziWRKEK0K96bED95fYM9i7uhQOP9MsjcGMgCNh0KC5QL5QXMpyUeN7GH5xQC0IuY7EPpbNAPRDCm_G7x5IfH1HF3gb4vqWtez-3xLrqXel-anaKoqfIFGK-7VccNfMXYroklzdzjjp=s1600)
+
 ## 11월 29일의 탄생색: 미드나잇 라이더 (`#333333`)
 
 ### 1. 미드나잇 라이더에 대한 설명 (색의 느낌과 특징)

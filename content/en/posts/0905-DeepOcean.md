@@ -1,21 +1,27 @@
 ---
-title: "Deep Ocean, The Birthday Color of September 5th"
-date: 2026-09-05
-description: "The birthday color for September 5th is Deep Ocean (5A6078). Its meaning is Mysterious, Profound, Philosophical."
-author: 365days
+title: "Deep Ocean, The Birthday Color of September 5"
+date: "2026-09-05"
+updated: "2026-09-05"
 tags:
-  - deep ocean
-  - birthday color
-  - september 5th
-  - 5a6078
-  - september
-  - light green tea
-draft: false
+  - "deep ocean"
+  - "birthday color"
+  - "september 5"
+  - "5a6078"
+  - "september"
+  - "light green tea"
+description: "The birthday color for September 5 is Deep Ocean (5A6078). Its meaning is Mysterious, Profound, Philosophical."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhaf7dQ8JUJeFXmcG5nyYZhCecg7Cq-K3UiBsX79mQeFcSxAPY5QsfEB7kTkFLt7zpeHyL6TYZeLyIpj4kta40Q7FDnsNJlJgGDkSmD138u1VwmCmmrxXVVHzQNzKiWMQLWt3do3AGLmDus4aW8ztUSs7CccB3QIYV1FMUE0rOH5uTlw8kTgFFs5I4yKKZy=s1600"
+en_name: "DeepOcean"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Deep Ocean](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_249.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhaf7dQ8JUJeFXmcG5nyYZhCecg7Cq-K3UiBsX79mQeFcSxAPY5QsfEB7kTkFLt7zpeHyL6TYZeLyIpj4kta40Q7FDnsNJlJgGDkSmD138u1VwmCmmrxXVVHzQNzKiWMQLWt3do3AGLmDus4aW8ztUSs7CccB3QIYV1FMUE0rOH5uTlw8kTgFFs5I4yKKZy=s1600)
 
-## Birthday Color for September 5th: Deep Ocean (`#5A6078`)
+
+## Birthday Color for September 5: Deep Ocean (`#5A6078`)
 
 ### 1. Description of Deep Ocean (Feeling and Traits)
 
@@ -37,7 +43,7 @@ When it comes to interior design, **Deep Ocean** can transform a space into a se
 
 ### 4. Plus Tip (Destiny Color)
 
-Combining **Deep Ocean** with **Light Green Tea**, the birthday color for September 16th, creates a beautiful balance of **mystery** and **calm**. While **Deep Ocean** provides a sense of profound depth and philosophical inquiry, **Light Green Tea** adds a touch of tranquility and **peaceful reflection**, making this pairing perfect for those who seek balance and harmony.
+Combining **Deep Ocean** with **Light Green Tea**, the birthday color for September 16, creates a beautiful balance of **mystery** and **calm**. While **Deep Ocean** provides a sense of profound depth and philosophical inquiry, **Light Green Tea** adds a touch of tranquility and **peaceful reflection**, making this pairing perfect for those who seek balance and harmony.
 
 ### 5. Conclusion (A Poem of Healing)
 

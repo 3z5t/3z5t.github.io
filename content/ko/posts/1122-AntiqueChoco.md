@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEipp-VEcXRKXJgXmnIOsqIvVYKwtAftxg5_90azj98B3HkU0RuOCRujAURTI7UTHT1Hp407mIwzhR0wmAWCw98kbPD3uu_A_cjIgmWMW-ebPIgUmrlrlssqJGgXOlNtmV2B-KY0ZlKkwjN8qvFsIN2LI9PNG7PP9JWdwNOQUwmyCvcAt0RtZ6blJ9Vs5Uva=s1600)
+
 ## 11월 22일의 탄생색: 앤티크 초코 (`#1F070C`)
 
 ### 1. 앤티크 초코에 대한 설명 (색의 느낌과 특징)

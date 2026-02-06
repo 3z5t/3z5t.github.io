@@ -1,21 +1,27 @@
 ---
-title: "Sea Green, The Birthday Color of April 29th"
-date: 2026-04-29
-description: "The birthday color for April 29th is Sea Green (19776B). Its meaning is Mysterious, Profound, Insightful."
-author: 365days
+title: "Sea Green, The Birthday Color of April 29"
+date: "2026-04-29"
+updated: "2026-04-29"
 tags:
-  - sea green
-  - birthday color
-  - april 29th
-  - 19776b
-  - april
-  - light coral
-draft: false
+  - "sea green"
+  - "birthday color"
+  - "april 29"
+  - "19776b"
+  - "april"
+  - "light coral"
+description: "The birthday color for April 29 is Sea Green (19776B). Its meaning is Mysterious, Profound, Insightful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgZt2-h1objjkINzeA1dlyPjbLm4Ew9EmM0EIo19bMloNddWrb5ZLjq4WXOgAH-M81HdTaJQxO1-MRXgqSZHD_6gEoilsK0mnEPLgu5VgRNXFXDJekL7OH0GNPTlkC-ennbB7fNnlNgBINtTRjjMa66-Ea53A34bC7CAr1oa02t9bed9QZbrWQ2RKrTSfpJ=s1600"
+en_name: "SeaGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Sea Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_120.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgZt2-h1objjkINzeA1dlyPjbLm4Ew9EmM0EIo19bMloNddWrb5ZLjq4WXOgAH-M81HdTaJQxO1-MRXgqSZHD_6gEoilsK0mnEPLgu5VgRNXFXDJekL7OH0GNPTlkC-ennbB7fNnlNgBINtTRjjMa66-Ea53A34bC7CAr1oa02t9bed9QZbrWQ2RKrTSfpJ=s1600)
 
-## Birthday Color for April 29th: Sea Green (`#19776B`)
+
+## Birthday Color for April 29: Sea Green (`#19776B`)
 
 ### 1. Description of Sea Green (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Sea Green** brings a refreshing yet enigmatic energy. A **Sea Gree
 
 ### 4. Plus Tip (Destiny Color)
 
-For a touch of warmth and softness, **Sea Green** pairs wonderfully with **Light Coral** (Hex: `#F19292`), the birthday color of July 3rd. The combination of **Sea Green’s** mystery and depth with **Light Coral’s** gentle, soft heart creates a beautifully balanced, harmonious vibe, perfect for those seeking both introspection and lightness in their life.
+For a touch of warmth and softness, **Sea Green** pairs wonderfully with **Light Coral** (Hex: `#F19292`), the birthday color of July 3. The combination of **Sea Green’s** mystery and depth with **Light Coral’s** gentle, soft heart creates a beautifully balanced, harmonious vibe, perfect for those seeking both introspection and lightness in their life.
 
 ### 5. Conclusion (A Poem of Healing)
 

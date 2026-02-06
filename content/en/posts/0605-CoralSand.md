@@ -1,21 +1,27 @@
 ---
-title: "Coral Sand, The Birthday Color of June 5th"
-date: 2026-06-05
-description: "The birthday color for June 5th is Coral Sand (FFD0A1). Its meaning is Harmonious, Balanced, Inclusive."
-author: 365days
+title: "Coral Sand, The Birthday Color of June 5"
+date: "2026-06-05"
+updated: "2026-06-05"
 tags:
-  - coral sand
-  - birthday color
-  - june 5th
-  - ffd0a1
-  - june
-  - steel navy
-draft: false
+  - "coral sand"
+  - "birthday color"
+  - "june 5"
+  - "ffd0a1"
+  - "june"
+  - "steel navy"
+description: "The birthday color for June 5 is Coral Sand (FFD0A1). Its meaning is Harmonious, Balanced, Inclusive."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhj-Jv2PSL8hAK66sFqQAE99AWBhmO02mXNW9WfTHCFAG4zB8ZLGywNE2PPlKrO7CXLziPnJtC7PcyjIqUH6q4l2Ftguyi5CnvBbMcbHRN_Hu0BRO1HWGJphB05ysj4F4j5-rkz9H8ZDtx1lg115elh_x82UHFF7SAr9b0xcwTFsrtD784Q1EGzHJpchv47=s1600"
+en_name: "CoralSand"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Coral Sand](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_157.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhj-Jv2PSL8hAK66sFqQAE99AWBhmO02mXNW9WfTHCFAG4zB8ZLGywNE2PPlKrO7CXLziPnJtC7PcyjIqUH6q4l2Ftguyi5CnvBbMcbHRN_Hu0BRO1HWGJphB05ysj4F4j5-rkz9H8ZDtx1lg115elh_x82UHFF7SAr9b0xcwTFsrtD784Q1EGzHJpchv47=s1600)
 
-## Birthday Color for June 5th: Coral Sand (`#FFD0A1`)
+
+## Birthday Color for June 5: Coral Sand (`#FFD0A1`)
 
 ### 1. Description of Coral Sand (Feeling and Traits)
 
@@ -31,7 +37,7 @@ Born under the influence of **Coral Sand**, individuals are deeply **harmonious*
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Steel Navy**, the birthday color of **January 11th**, **Coral Sand** creates a beautiful contrast that is both **grounded** and **uplifting**. The deep, sturdy nature of **Steel Navy** brings strength to the warmth of **Coral Sand**, creating a balance of **trust** and **warmth** that is both inviting and reassuring. Together, they form a combination that speaks to both the soul and the spirit, fostering connection and stability.
+When combined with **Steel Navy**, the birthday color of **January 11**, **Coral Sand** creates a beautiful contrast that is both **grounded** and **uplifting**. The deep, sturdy nature of **Steel Navy** brings strength to the warmth of **Coral Sand**, creating a balance of **trust** and **warmth** that is both inviting and reassuring. Together, they form a combination that speaks to both the soul and the spirit, fostering connection and stability.
 
 ### 5. Conclusion (A Poem of Healing)
 

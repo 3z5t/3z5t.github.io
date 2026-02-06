@@ -1,21 +1,27 @@
 ---
-title: "Baby Blue, The Birthday Color of July 23rd"
-date: 2026-07-23
-description: "The birthday color for July 23rd is Baby Blue (66FFFF). Its meaning is Pure Heart, Peaceful, Clear Mind."
-author: 365days
+title: "Baby Blue, The Birthday Color of July 23"
+date: "2026-07-23"
+updated: "2026-07-23"
 tags:
-  - baby blue
-  - birthday color
-  - july 23rd
-  - 66ffff
-  - july
-  - sangria
-draft: false
+  - "baby blue"
+  - "birthday color"
+  - "july 23"
+  - "66ffff"
+  - "july"
+  - "sangria"
+description: "The birthday color for July 23 is Baby Blue (66FFFF). Its meaning is Pure Heart, Peaceful, Clear Mind."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEisOIYTxmPcZbvsLv1U42QXtS02ot0Nu3jzhp0eZAbbuOrh6QZbNqGTcEfq1-RuVJ3Vvb10oRxt4mGGsRqtxRSa3oh0Yp_Rzwu95Gb0NgurlgMo0yAez6CuTKwoQkdkPZWROR-itgwaap4Ipxt3B_dR-Jxh_4nIc_uKo5CAjfB73D0Oq84vBy-OHJqICcmO=s1600"
+en_name: "BabyBlue"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Baby Blue](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_205.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEisOIYTxmPcZbvsLv1U42QXtS02ot0Nu3jzhp0eZAbbuOrh6QZbNqGTcEfq1-RuVJ3Vvb10oRxt4mGGsRqtxRSa3oh0Yp_Rzwu95Gb0NgurlgMo0yAez6CuTKwoQkdkPZWROR-itgwaap4Ipxt3B_dR-Jxh_4nIc_uKo5CAjfB73D0Oq84vBy-OHJqICcmO=s1600)
 
-## Birthday Color for July 23rd: Baby Blue (`#66FFFF`)
+
+## Birthday Color for July 23: Baby Blue (`#66FFFF`)
 
 ### 1. Description of Baby Blue (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Baby Blue** is the ultimate color for expressing a **refreshing** 
 
 ### 4. Plus Tip (Destiny Color)
 
-For a beautiful balance, **Baby Blue** can be paired with **Sangria**, the birthday color of October 15th. The deep, rich tones of **Sangria** contrast wonderfully with the **lightness** of Baby Blue, creating an intriguing synergy between **passion** and **peace**.
+For a beautiful balance, **Baby Blue** can be paired with **Sangria**, the birthday color of October 15. The deep, rich tones of **Sangria** contrast wonderfully with the **lightness** of Baby Blue, creating an intriguing synergy between **passion** and **peace**.
 
 ### 5. Conclusion (A Poem of Healing)
 

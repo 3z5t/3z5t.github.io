@@ -1,21 +1,27 @@
 ---
-title: "Pastel Pink, The Birthday Color of March 22nd"
-date: 2026-03-22
-description: "The birthday color for March 22nd is Pastel Pink (FFD1DC). Its meaning is Soft, Warm, Cozy."
-author: 365days
+title: "Pastel Pink, The Birthday Color of March 22"
+date: "2026-03-22"
+updated: "2026-03-22"
 tags:
-  - pastel pink
-  - birthday color
-  - march 22nd
-  - ffd1dc
-  - march
-  - deep night sky
-draft: false
+  - "pastel pink"
+  - "birthday color"
+  - "march 22"
+  - "ffd1dc"
+  - "march"
+  - "deep night sky"
+description: "The birthday color for March 22 is Pastel Pink (FFD1DC). Its meaning is Soft, Warm, Cozy."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgL6bXLYqpFCViuGzlGJDz8rM6Pg5smY5GBkdpRO1Aukbj2UaprnKrfpQixgjVFLr9HfpVgY5mSb9IKRE0eUVzGbviGFo0pf5OhdQKGMDA9mCISLbVjnb1galkrC25TQB08T8Se3Q2kaKBmeGTU-kVSRUIOw0aZS71kCgeLEmah3eGGOJNjSTevHBHs-nnK=s1600"
+en_name: "PastelPink"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Pastel Pink](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_082.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgL6bXLYqpFCViuGzlGJDz8rM6Pg5smY5GBkdpRO1Aukbj2UaprnKrfpQixgjVFLr9HfpVgY5mSb9IKRE0eUVzGbviGFo0pf5OhdQKGMDA9mCISLbVjnb1galkrC25TQB08T8Se3Q2kaKBmeGTU-kVSRUIOw0aZS71kCgeLEmah3eGGOJNjSTevHBHs-nnK=s1600)
 
-## Birthday Color for March 22nd: Pastel Pink (`#FFD1DC`)
+
+## Birthday Color for March 22: Pastel Pink (`#FFD1DC`)
 
 ### 1. Description of Pastel Pink (Feeling and Traits)
 
@@ -31,7 +37,7 @@ To bring **Pastel Pink** into your life, focus on creating an environment where 
 
 ### 4. Plus Tip (Destiny Color)
 
-If you’re interested in exploring the harmony between colors, **Deep Night Sky** (Hex: `#142029`)—the birthday color of September 3rd—offers an intriguing contrast to Pastel Pink. **Combining the softness of Pastel Pink with the depth of Deep Night Sky** creates a beautiful balance of warmth and mystery, where light meets dark in a powerful, contemplative synergy.
+If you’re interested in exploring the harmony between colors, **Deep Night Sky** (Hex: `#142029`)—the birthday color of September 3—offers an intriguing contrast to Pastel Pink. **Combining the softness of Pastel Pink with the depth of Deep Night Sky** creates a beautiful balance of warmth and mystery, where light meets dark in a powerful, contemplative synergy.
 
 ### 5. Conclusion (A Poem of Healing)
 

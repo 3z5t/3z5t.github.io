@@ -1,21 +1,27 @@
 ---
-title: "Light Pink, The Birthday Color of March 18th"
-date: 2026-03-18
-description: "The birthday color for March 18th is Light Pink (FFB6C1). Its meaning is Pure, Hopeful, Positive."
-author: 365days
+title: "Light Pink, The Birthday Color of March 18"
+date: "2026-03-18"
+updated: "2026-03-18"
 tags:
-  - light pink
-  - birthday color
-  - march 18th
-  - ffb6c1
-  - march
-  - steel navy
-draft: false
+  - "light pink"
+  - "birthday color"
+  - "march 18"
+  - "ffb6c1"
+  - "march"
+  - "steel navy"
+description: "The birthday color for March 18 is Light Pink (FFB6C1). Its meaning is Pure, Hopeful, Positive."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh1JfuqdILcGnMCPo5oduyrcYhdXqAj8hEgZ2p9tF88cbL7idhJUtUoowl2fIvwj0AjTauNnAutoCWyDshoCEgjoGpCUbX55cBZwRim5jaazDFfhrVNPou6ks3T0pibzxmKz787myCwGAc8nj8gVHolhtTPP2svpC153Bl3jXlGp72cF3pAmjTqDlxrcD2c=s1600"
+en_name: "LightPink"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Light Pink](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_078.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh1JfuqdILcGnMCPo5oduyrcYhdXqAj8hEgZ2p9tF88cbL7idhJUtUoowl2fIvwj0AjTauNnAutoCWyDshoCEgjoGpCUbX55cBZwRim5jaazDFfhrVNPou6ks3T0pibzxmKz787myCwGAc8nj8gVHolhtTPP2svpC153Bl3jXlGp72cF3pAmjTqDlxrcD2c=s1600)
 
-## Birthday Color for March 18th: Light Pink (`#FFB6C1`)
+
+## Birthday Color for March 18: Light Pink (`#FFB6C1`)
 
 ### 1. Description of Light Pink (Feeling and Traits)
 
@@ -33,7 +39,7 @@ In interior design, **Light Pink** can transform any space into a peaceful sanct
 
 ### 4. Plus Tip (Destiny Color)
 
-For an added layer of sophistication, combine **Light Pink** with **Steel Navy**, the birthday color for January 11th. The contrasting **strength** and **stability** of **Steel Navy** beautifully balance the soft, uplifting energy of **Light Pink**, creating a harmonious blend of hope and grounded wisdom. This pairing works especially well for those who want to combine gentleness with a sense of calm security.
+For an added layer of sophistication, combine **Light Pink** with **Steel Navy**, the birthday color for January 11. The contrasting **strength** and **stability** of **Steel Navy** beautifully balance the soft, uplifting energy of **Light Pink**, creating a harmonious blend of hope and grounded wisdom. This pairing works especially well for those who want to combine gentleness with a sense of calm security.
 
 ### 5. Conclusion (A Poem of Healing)
 

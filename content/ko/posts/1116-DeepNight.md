@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjefr8b-KiMo2_TAOZBxnb3VGxGLL-H5YqH-6LlmjOq_JMVRuIE209ourj0vSDVPEONMwZiGuKNNXIDfULzJPaIr0vVnz5yMKo47VW0jlaqqSxhbgkdSEykpq5vnX6_Why8IAOs2Ol_nk8_XtVvLPbeblEIQEpSk0pXrKJEnQMWEk9h8qGWtMKch77z-fd-=s1600)
+
 ## 11월 16일의 탄생색: 깊은 밤 (`#1A161F`)
 
 ### 1. 깊은 밤에 대한 설명: 모든 빛이 잠들고 영혼이 깨어나는 시간

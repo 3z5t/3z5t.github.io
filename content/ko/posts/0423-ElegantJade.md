@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh-ZrxmLU7OojEMMp5mRvz0_IW9YGFL0BYS3D2EFPxEuLR0HGJhP0vq8WIa9kYaljYaWCbKwJvzIU1xEtDLFrBsGJ9i0Etgn2Zr-WrFQxVoieCkS2b25qZCGD9orKcD8iyowqZ3wuS6gUetud0wlBlUh53I4TdWGS6fGlxfl3ysVUxGtOqgmZdp5SkZc9H2=s1600)
+
 ## 4월 23일의 탄생색: 단아한 옥색 (`#79B49F`)
 
 ### 1. 단아한 옥색에 대한 설명 (색의 느낌과 특징)

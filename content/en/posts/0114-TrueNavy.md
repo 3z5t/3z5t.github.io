@@ -1,21 +1,28 @@
 ---
-title: "True Navy, The Birthday Color of January 14th"
-date: 2026-01-14
-description: "The birthday color for January 14th is True Navy (313C75). Its meaning is Sincerity, Truthfulness, Devoted."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-14'
+description: The birthday color for January 14 is True Navy (313C75). Its meaning
+  is Sincerity, Truthfulness, Devoted.
+en_name: TrueNavy
 tags:
-  - true navy
-  - birthday color
-  - january 14th
-  - 313c75
-  - january
-  - classic beige
-draft: false
+- true navy
+- birthday color
+- january 14
+- 313c75
+- january
+- classic beige
+postId: '5350138334485134303'
+postUrl: https://the366days-en.blogspot.com/2026/01/true-navy-birthday-color-of-january-14.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgW61vmTN_Kiii-IGWs36WxcZPyibZyoO4VyJOedGxeTFVrIe3G2nl8OrLMv14zzJCxCG5HhsNinq62wpzPdrloH27HTodRY-yLMP-MlsF8GFdiksy0Nf6egUA5KkGQDXaXDKxe-d90HpGMftAjoSmTX-CrKs8alRzvTyI35S7QkB7m9lBmzhVFcLIv7OJ_=s1600
+title: True Navy, The Birthday Color of January 14
+updated: '2026-01-14'
 ---
 
-![True Navy](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_014.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgW61vmTN_Kiii-IGWs36WxcZPyibZyoO4VyJOedGxeTFVrIe3G2nl8OrLMv14zzJCxCG5HhsNinq62wpzPdrloH27HTodRY-yLMP-MlsF8GFdiksy0Nf6egUA5KkGQDXaXDKxe-d90HpGMftAjoSmTX-CrKs8alRzvTyI35S7QkB7m9lBmzhVFcLIv7OJ_=s1600)
 
-## Birthday Color for January 14th: True Navy (`#313C75`)
+
+## Birthday Color for January 14: True Navy (`#313C75`)
 
 ### 1. **Description of True Navy (Feeling and Traits)**
 
@@ -31,7 +38,7 @@ When it comes to fashion, **True Navy** is a timeless, versatile color that can 
 
 ### 4. **Plus Tip (Destiny Color)**
 
-To complement the grounded, calming nature of **True Navy**, consider pairing it with **Classic Beige**, the birthday color of August 20th. The combination of **True Navy's** devotion and sincerity with **Classic Beige's** warm, stable presence creates a harmonious and balanced energy that enhances both warmth and trust.
+To complement the grounded, calming nature of **True Navy**, consider pairing it with **Classic Beige**, the birthday color of August 20. The combination of **True Navy's** devotion and sincerity with **Classic Beige's** warm, stable presence creates a harmonious and balanced energy that enhances both warmth and trust.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

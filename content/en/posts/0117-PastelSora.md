@@ -1,21 +1,28 @@
 ---
-title: "Pastel Sora, The Birthday Color of January 17th"
-date: 2026-01-17
-description: "The birthday color for January 17th is Pastel Sora (B0C4DE). Its meaning is Hopeful, Optimistic, Bright Personality."
-author: 365days
+author: Pieces of a Day
+date: '2026-01-17'
+description: The birthday color for January 17 is Pastel Sora (B0C4DE). Its meaning
+  is Hopeful, Optimistic, Bright Personality.
+en_name: PastelSora
 tags:
-  - pastel sora
-  - birthday color
-  - january 17th
-  - b0c4de
-  - january
-  - saddle brown
-draft: false
+- pastel sora
+- birthday color
+- january 17
+- b0c4de
+- january
+- saddle brown
+postId: '8468828809463976044'
+postUrl: https://the366days-en.blogspot.com/2026/01/pastel-sora-birthday-color-of-january-17.html
+profileName: Pieces of a Day
+thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEjrB2BjpkLxUJKaSglZrUIzcNCAGkYFnBTkq2g6Z9HdEXEiLaWbpxqXGDmZ9om7qaDtpA4J-jSKEiSnOd5MYpiqhRRqCTf1QjHoW_iU_iJTjhasMZIKCI_yxbGbLGCkvphDVm5e2VnlrH25c6Loc2fY9BdKIb4k66FqrKc8MLCniX2AuhMHw5q433mOuHHF=s1600
+title: Pastel Sora, The Birthday Color of January 17
+updated: '2026-01-17'
 ---
 
-![Pastel Sora](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_017.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjrB2BjpkLxUJKaSglZrUIzcNCAGkYFnBTkq2g6Z9HdEXEiLaWbpxqXGDmZ9om7qaDtpA4J-jSKEiSnOd5MYpiqhRRqCTf1QjHoW_iU_iJTjhasMZIKCI_yxbGbLGCkvphDVm5e2VnlrH25c6Loc2fY9BdKIb4k66FqrKc8MLCniX2AuhMHw5q433mOuHHF=s1600)
 
-## Birthday Color for January 17th: Pastel Sora (`#B0C4DE`)
+
+## Birthday Color for January 17: Pastel Sora (`#B0C4DE`)
 
 ### 1. **Description of Pastel Sora (Feeling and Traits)**
 
@@ -31,7 +38,7 @@ When it comes to styling, **Pastel Sora** is an incredibly versatile and chic co
 
 ### 4. **Plus Tip (Destiny Color)**
 
-To complement **Pastel Sora**, consider **Saddle Brown**, the birthday color of September 25th. The deep, grounded qualities of **Saddle Brown** create a beautiful balance with **Pastel Sora**, adding stability and warmth to its gentle energy, creating a harmonious and supportive synergy.
+To complement **Pastel Sora**, consider **Saddle Brown**, the birthday color of September 25. The deep, grounded qualities of **Saddle Brown** create a beautiful balance with **Pastel Sora**, adding stability and warmth to its gentle energy, creating a harmonious and supportive synergy.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

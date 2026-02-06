@@ -1,21 +1,27 @@
 ---
-title: "Gray Sky, The Birthday Color of July 24th"
-date: 2026-07-24
-description: "The birthday color for July 24th is Gray Sky (BDE0F4). Its meaning is Relaxed, Peaceful, Stability."
-author: 365days
+title: "Gray Sky, The Birthday Color of July 24"
+date: "2026-07-24"
+updated: "2026-07-24"
 tags:
-  - gray sky
-  - birthday color
-  - july 24th
-  - bde0f4
-  - july
-  - autumn leaves
-draft: false
+  - "gray sky"
+  - "birthday color"
+  - "july 24"
+  - "bde0f4"
+  - "july"
+  - "autumn leaves"
+description: "The birthday color for July 24 is Gray Sky (BDE0F4). Its meaning is Relaxed, Peaceful, Stability."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjtwBEghUqAxy8xVpL4EPoHOJDZeB9ZfbHbu9d3ub0aO5wwPJTTdspHVM27lBMrgDhtWjf9eOilKHwjU-R1vedpBIQFUo3Su8g5fOfY37s__NFWKbWTRlZbvRsitKHfgbEHxMpMgCwCSgRYa9bezWauHMuFMzhhaa-cTv9w6Q-wu9v482AajEfkxk5cXakV=s1600"
+en_name: "GraySky"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Gray Sky](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_206.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjtwBEghUqAxy8xVpL4EPoHOJDZeB9ZfbHbu9d3ub0aO5wwPJTTdspHVM27lBMrgDhtWjf9eOilKHwjU-R1vedpBIQFUo3Su8g5fOfY37s__NFWKbWTRlZbvRsitKHfgbEHxMpMgCwCSgRYa9bezWauHMuFMzhhaa-cTv9w6Q-wu9v482AajEfkxk5cXakV=s1600)
 
-## Birthday Color for July 24th: Gray Sky (`#BDE0F4`)
+
+## Birthday Color for July 24: Gray Sky (`#BDE0F4`)
 
 ### 1. Description of Gray Sky (Feeling and Traits)
 
@@ -31,7 +37,7 @@ A person born under the influence of **Gray Sky** is naturally drawn to **stabil
 
 ### 4. Plus Tip (Destiny Color)
 
-Combining **Gray Sky** with **Autumn Leaves**, the birthday color for September 28th, creates a beautiful contrast between **peaceful stability** and **rich sensibility**. The grounding tones of **Autumn Leaves** complement the serene, calming nature of **Gray Sky**, making for a harmonious pairing that balances **warmth** and **cool tranquility**.
+Combining **Gray Sky** with **Autumn Leaves**, the birthday color for September 28, creates a beautiful contrast between **peaceful stability** and **rich sensibility**. The grounding tones of **Autumn Leaves** complement the serene, calming nature of **Gray Sky**, making for a harmonious pairing that balances **warmth** and **cool tranquility**.
 
 ### 5. Conclusion (A Poem of Healing)
 

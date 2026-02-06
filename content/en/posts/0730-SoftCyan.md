@@ -1,21 +1,27 @@
 ---
-title: "Soft Cyan, The Birthday Color of July 30th"
-date: 2026-07-30
-description: "The birthday color for July 30th is Soft Cyan (6EC5EF). Its meaning is Refreshing Personality, Cool, Bright Mind."
-author: 365days
+title: "Soft Cyan, The Birthday Color of July 30"
+date: "2026-07-30"
+updated: "2026-07-30"
 tags:
-  - soft cyan
-  - birthday color
-  - july 30th
-  - 6ec5ef
-  - july
-  - brown
-draft: false
+  - "soft cyan"
+  - "birthday color"
+  - "july 30"
+  - "6ec5ef"
+  - "july"
+  - "brown"
+description: "The birthday color for July 30 is Soft Cyan (6EC5EF). Its meaning is Refreshing Personality, Cool, Bright Mind."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiC6hpu9WZ7WqeUiG_qMUq-QMtgBNoGbil-oSWcIxcdfsgYu4c1ypK9cjq5a501uZ6yk8pgITBHTTH8Cqz9Vmyr0ruLWzsy4xozAfAge6rjcVydonMSwtDaElhYYJaJSOOkaUy4s9Y8LlLmUTKjRXnqtyoUlRL1rg3_T_B5Uan4fPh0ybsQXlYABUTeZL01=s1600"
+en_name: "SoftCyan"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Soft Cyan](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_212.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiC6hpu9WZ7WqeUiG_qMUq-QMtgBNoGbil-oSWcIxcdfsgYu4c1ypK9cjq5a501uZ6yk8pgITBHTTH8Cqz9Vmyr0ruLWzsy4xozAfAge6rjcVydonMSwtDaElhYYJaJSOOkaUy4s9Y8LlLmUTKjRXnqtyoUlRL1rg3_T_B5Uan4fPh0ybsQXlYABUTeZL01=s1600)
 
-## Birthday Color for July 30th: Soft Cyan (`#6EC5EF`)
+
+## Birthday Color for July 30: Soft Cyan (`#6EC5EF`)
 
 ### 1. Description of Soft Cyan (Feeling and Traits)
 
@@ -31,7 +37,7 @@ When it comes to **fashion**, **Soft Cyan** adds a breath of **fresh air** to an
 
 ### 4. Plus Tip (Destiny Color)
 
-**Soft Cyan** pairs wonderfully with **Brown**, the birthday color of September 26th. **Brown** brings a grounding, **practical** energy that beautifully complements **Soft Cyan’s** light, refreshing qualities. The combination of the **cool, bright mind** of **Soft Cyan** and the **stability** and **practicality** of **Brown** creates a balanced environment, where creativity and thoughtfulness coexist harmoniously.
+**Soft Cyan** pairs wonderfully with **Brown**, the birthday color of September 26. **Brown** brings a grounding, **practical** energy that beautifully complements **Soft Cyan’s** light, refreshing qualities. The combination of the **cool, bright mind** of **Soft Cyan** and the **stability** and **practicality** of **Brown** creates a balanced environment, where creativity and thoughtfulness coexist harmoniously.
 
 ### 5. Conclusion (A Poem of Healing)
 

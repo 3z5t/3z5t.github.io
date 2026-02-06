@@ -19,6 +19,9 @@ postId: "5575116832046658194"
 postUrl: ""
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhyEiAEgu79XEIgTsI1tKuUsVEN2XlPfZrcoM_hVGXfB0q_OL4mRjfxZv0wWZGNac7fjGXU4R_VjLK5B9M0Mvn0icpbXmw2U-BazgmPWPRLDJKi7VvajQ95jNzTHPB5uiRi2ZaSYfTAQ1pQlHklbKGN1_aQOqm_KKoUywIx_lxUydswhD-Fp6yET9AbCZvo=s1600)
+
+
 **1월 13일의 탄생색: 다크 블루 (#00008B)**
 
 ### 1. 다크 블루에 대한 설명 (색의 느낌과 특징)

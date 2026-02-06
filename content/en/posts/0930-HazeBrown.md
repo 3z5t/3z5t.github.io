@@ -1,21 +1,27 @@
 ---
-title: "Haze Brown, The Birthday Color of September 30th"
-date: 2026-09-30
-description: "The birthday color for September 30th is Haze Brown (9D8C7A). Its meaning is Subtle Charm, Knowing Longing, Lingering."
-author: 365days
+title: "Haze Brown, The Birthday Color of September 30"
+date: "2026-09-30"
+updated: "2026-09-30"
 tags:
-  - haze brown
-  - birthday color
-  - september 30th
-  - 9d8c7a
-  - september
-  - slate green
-draft: false
+  - "haze brown"
+  - "birthday color"
+  - "september 30"
+  - "9d8c7a"
+  - "september"
+  - "slate green"
+description: "The birthday color for September 30 is Haze Brown (9D8C7A). Its meaning is Subtle Charm, Knowing Longing, Lingering."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiAHS_3jghRUpu8OfzbzYwlv8_A2VuyghQnRhIaedlmKWb66KYIqja73ZXNKSuuzJPcZXk5LyCDIifBZciAh_yINhLFd2HlkfXRilmQBt42Ww6gymCgxDOZ95hSQA-ZNVqExbCoHHvwHlZdxnUM1zkmUzMsCc5plt9XL8DtriezuxyQznJigigQgPu8Lu42=s1600"
+en_name: "HazeBrown"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Haze Brown](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_274.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiAHS_3jghRUpu8OfzbzYwlv8_A2VuyghQnRhIaedlmKWb66KYIqja73ZXNKSuuzJPcZXk5LyCDIifBZciAh_yINhLFd2HlkfXRilmQBt42Ww6gymCgxDOZ95hSQA-ZNVqExbCoHHvwHlZdxnUM1zkmUzMsCc5plt9XL8DtriezuxyQznJigigQgPu8Lu42=s1600)
 
-## Birthday Color for September 30th: Haze Brown (`#9D8C7A`)
+
+## Birthday Color for September 30: Haze Brown (`#9D8C7A`)
 
 ### 1. **Description of Haze Brown (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ In fashion, **Haze Brown** is a wonderfully versatile and timeless color, perfec
 
 ### 4. **Plus Tip (Destiny Color)**
 
-For an extra layer of depth, consider combining **Haze Brown** with **Slate Green**, the birthday color of May 21st. Together, they create a beautiful synergy of introspection and intelligence—**Slate Green’s** intellectual, **inquisitive** nature pairs wonderfully with the subtle charm and emotional depth of **Haze Brown**, resulting in a balanced, thoughtful energy.
+For an extra layer of depth, consider combining **Haze Brown** with **Slate Green**, the birthday color of May 21. Together, they create a beautiful synergy of introspection and intelligence—**Slate Green’s** intellectual, **inquisitive** nature pairs wonderfully with the subtle charm and emotional depth of **Haze Brown**, resulting in a balanced, thoughtful energy.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

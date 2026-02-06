@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi28BpcebLOU9MaEzh_WGZS3edK0B2ZR3fSkr6Wf7SUY6MFVDi4dv6bUed1iDjLcfSwAepzHIZp4xOGNA1lk-5EKM595t7Ybb4V06gRz3ieAINitjQSs7fG4cW4OkyFvVVU6aC5debgzGx_0XqVxu-IFAiPurypDRyFSiR2k5VjT-rEpoM1hSkBfzxKA8ne=s1600)
+
 ## 3월 19일의 탄생색: 딸기우유 (`#FF81D3`)
 
 ### 1. 딸기우유에 대한 설명 (색의 느낌과 특징)

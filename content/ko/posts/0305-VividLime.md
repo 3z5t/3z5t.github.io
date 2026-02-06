@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgfVHsRv5CzMTYr9R_jaO86BvGDHA5iKMPxticbD6zpL74TA1wESK4RwIbzgxpv_PZrjf0TgxvOZjQZkgOc6Fnjq_2SkPSfEbT6W0yfaz7dfiFNzVjpz8Su1Ka2Rf_1LrncNqyLNrEP3NBVYIH-9az_9PFA5FabhsRZ-NUvUiLACT9wQyn2MXbkfSLujoxd=s1600)
+
 ## 3월 5일의 탄생색: 비비드 라임 (`#00FF00`)
 
 ### 1. 비비드 라임에 대한 설명 (색의 느낌과 특징)

@@ -1,21 +1,27 @@
 ---
-title: "Forest Garden, The Birthday Color of April 25th"
-date: 2026-04-25
-description: "The birthday color for April 25th is Forest Garden (317D61). Its meaning is Healthy, Energetic, Strong."
-author: 365days
+title: "Forest Garden, The Birthday Color of April 25"
+date: "2026-04-25"
+updated: "2026-04-25"
 tags:
-  - forest garden
-  - birthday color
-  - april 25th
-  - 317d61
-  - april
-  - silver rose
-draft: false
+  - "forest garden"
+  - "birthday color"
+  - "april 25"
+  - "317d61"
+  - "april"
+  - "silver rose"
+description: "The birthday color for April 25 is Forest Garden (317D61). Its meaning is Healthy, Energetic, Strong."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi9w89DmTiPxJ_F4Bzp-RICarX2AlEOxbQh5jnNxcbNsT5y0u0VYG9sGbHFWyiuowKWb5rcAFieDTXs53LvYNLUYRYegHdNU5-QkoK81g-f2tU7-nhhmFGRzbpIcdNcf1iD5ChaTs91GuHSKSUmegecI6HrW99TAh6XIk9TlqtzlMTXx2_RtxYdbRHY5a-q=s1600"
+en_name: "ForestGarden"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Forest Garden](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_116.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi9w89DmTiPxJ_F4Bzp-RICarX2AlEOxbQh5jnNxcbNsT5y0u0VYG9sGbHFWyiuowKWb5rcAFieDTXs53LvYNLUYRYegHdNU5-QkoK81g-f2tU7-nhhmFGRzbpIcdNcf1iD5ChaTs91GuHSKSUmegecI6HrW99TAh6XIk9TlqtzlMTXx2_RtxYdbRHY5a-q=s1600)
 
-## Birthday Color for April 25th: Forest Garden (`#317D61`)
+
+## Birthday Color for April 25: Forest Garden (`#317D61`)
 
 ### 1. Description of Forest Garden (Feeling and Traits)
 
@@ -31,7 +37,7 @@ To truly bring the spirit of **Forest Garden** into your life, consider this ric
 
 ### 4. Plus Tip (Destiny Color)
 
-**Forest Garden** pairs beautifully with **Silver Rose** (Hex: `#BE8C92`), the birthday color of March 25th. While **Forest Garden** brings energy and strength, **Silver Rose** adds an elegant touch of maturity and luxury. Together, they create a beautiful balance, combining the vigor of nature with the refinement of timeless grace.
+**Forest Garden** pairs beautifully with **Silver Rose** (Hex: `#BE8C92`), the birthday color of March 25. While **Forest Garden** brings energy and strength, **Silver Rose** adds an elegant touch of maturity and luxury. Together, they create a beautiful balance, combining the vigor of nature with the refinement of timeless grace.
 
 ### 5. Conclusion (A Poem of Healing)
 

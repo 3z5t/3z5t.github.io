@@ -19,6 +19,9 @@ title: '1월 25일, 오늘을 닮은 색: 미스티 스카이'
 updated: '2026-01-25'
 ---
 
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEieGN9bWz80toBsoro4-_C1FJdTp1d4mfB2Kc9Ij9fWwea-skNAUNpk1au4ITxNNPj5LyAQrBly4MD766qJewulPAywwn4nrEuMZ0AEFNiMxk9yOG8h5cKO_TCOoaK5FZ-71yWXroO8eVUt16QXjMXa_rOfjmn9VtuymiT0v4OWPFmrsChJZ-Xme1STpp1r=s1600)
+
+
 **1월 25일의 탄생색: 미스티 스카이 (#C2BEC5)**
 
 ### 1. 미스티 스카이에 대한 설명 (색의 느낌과 특징)

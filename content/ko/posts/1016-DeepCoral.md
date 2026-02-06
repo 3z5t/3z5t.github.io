@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjYfY0Fe844hvoji7XlrwMW9MZyfVxjHh1y-pxm54U9_5w5v2EkJCV94tcc6Em0e74zNaE6epYfoBG31Kn85YDeYXda3hpMLNBXbXMzFJLAZiXpOQIzEPN9K4pcmqnKpTgimfgUmF2EaVqnCaImyv5WZ4qbyp03FuvFXAPWQpFZxwJqdrCb1lXGLgX-DAHb=s1600)
+
 ## 10월 16일의 탄생색: 딥 코랄 (`#743636`)
 
 ### 1. 딥 코랄에 대한 설명: 대지의 온기를 머금은 가장 차분한 안식

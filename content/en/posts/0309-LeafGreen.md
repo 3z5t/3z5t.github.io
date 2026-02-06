@@ -1,21 +1,27 @@
 ---
-title: "Leaf Green, The Birthday Color of March 9th"
-date: 2026-03-09
-description: "The birthday color for March 9th is Leaf Green (587D4A). Its meaning is Nature-friendly, Balanced, Inclusive."
-author: 365days
+title: "Leaf Green, The Birthday Color of March 9"
+date: "2026-03-09"
+updated: "2026-03-09"
 tags:
-  - leaf green
-  - birthday color
-  - march 9th
-  - 587d4a
-  - march
-  - soft light purple
-draft: false
+  - "leaf green"
+  - "birthday color"
+  - "march 9"
+  - "587d4a"
+  - "march"
+  - "soft light purple"
+description: "The birthday color for March 9 is Leaf Green (587D4A). Its meaning is Nature-friendly, Balanced, Inclusive."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjg018ss3FF21HFyd0Jcp4Ba9iCNhFTfM_wrVuFdJnvSaHlXLojCw5X4Er4dOL-gjCrgixOYQfV9HjIFMsuDlVV1JKLmhRb88Bv1htsMJkfogSTYJm_Pmj0NGuKqK4z3pmouFSNfzHupXyI7CRCzvVvQSqoWcBspo5Ahra6ixLGLWrS5IMW98k44yJi87h1=s1600"
+en_name: "LeafGreen"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Leaf Green](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_069.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjg018ss3FF21HFyd0Jcp4Ba9iCNhFTfM_wrVuFdJnvSaHlXLojCw5X4Er4dOL-gjCrgixOYQfV9HjIFMsuDlVV1JKLmhRb88Bv1htsMJkfogSTYJm_Pmj0NGuKqK4z3pmouFSNfzHupXyI7CRCzvVvQSqoWcBspo5Ahra6ixLGLWrS5IMW98k44yJi87h1=s1600)
 
-## Birthday Color for March 9th: Leaf Green (`#587D4A`)
+
+## Birthday Color for March 9: Leaf Green (`#587D4A`)
 
 ### 1. Description of Leaf Green (Feeling and Traits)
 
@@ -31,7 +37,7 @@ To highlight the **natural beauty** of **Leaf Green**, it’s best to let it sta
 
 ### 4. Plus Tip (Destiny Color)
 
-For a touch of magic, consider pairing **Leaf Green** with **Soft Light Purple** (the birthday color for February 9th). This combination creates a beautiful synergy, as the grounded energy of green meets the empathetic warmth of purple, bringing both balance and emotional connection to any setting.
+For a touch of magic, consider pairing **Leaf Green** with **Soft Light Purple** (the birthday color for February 9). This combination creates a beautiful synergy, as the grounded energy of green meets the empathetic warmth of purple, bringing both balance and emotional connection to any setting.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,21 +1,27 @@
 ---
-title: "Brilliant Red, The Birthday Color of December 6th"
-date: 2026-12-06
-description: "The birthday color for December 6th is Brilliant Red (F60100). Its meaning is Profound, Mysterious, Peaceful."
-author: 365days
+title: "Brilliant Red, The Birthday Color of December 6"
+date: "2026-12-06"
+updated: "2026-12-06"
 tags:
-  - brilliant red
-  - birthday color
-  - december 6th
-  - f60100
-  - december
-  - aqua
-draft: false
+  - "brilliant red"
+  - "birthday color"
+  - "december 6"
+  - "f60100"
+  - "december"
+  - "aqua"
+description: "The birthday color for December 6 is Brilliant Red (F60100). Its meaning is Profound, Mysterious, Peaceful."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhPt8f7jvDT71TFzge_Alvksz167TIwwCMmkoltkYNmoPwK7OZXsz2IMlaKbjmflfN3yOK84-wv9rl7ebT0fIXzJCFkqyqfsWExINiVZHlby02dvQM-9OMTSMTCZ00CNMpxQIsot9O0ccoxH21fhuujb10YxAzDI5C-mbJwE5vKXt2jqMKOLzGVT26sOawp=s1600"
+en_name: "BrilliantRed"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Brilliant Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_341.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhPt8f7jvDT71TFzge_Alvksz167TIwwCMmkoltkYNmoPwK7OZXsz2IMlaKbjmflfN3yOK84-wv9rl7ebT0fIXzJCFkqyqfsWExINiVZHlby02dvQM-9OMTSMTCZ00CNMpxQIsot9O0ccoxH21fhuujb10YxAzDI5C-mbJwE5vKXt2jqMKOLzGVT26sOawp=s1600)
 
-## Birthday Color for December 6th: Brilliant Red (`#F60100`)
+
+## Birthday Color for December 6: Brilliant Red (`#F60100`)
 
 ### 1. Description of Brilliant Red (Feeling and Traits)
 
@@ -33,7 +39,7 @@ In interior design, Brilliant Red can transform a space, making it feel both inv
 
 ### 4. Plus Tip (Destiny Color)
 
-Interestingly, combining **Brilliant Red** with **Aqua** (the birthday color of July 26th) creates a harmonious blend. Aqua, with its **cool, lively, and creative nature**, complements the grounded and profound aspects of Brilliant Red. Together, they form a partnership of energy and serenity—perfect for someone who seeks balance between strength and calm.
+Interestingly, combining **Brilliant Red** with **Aqua** (the birthday color of July 26) creates a harmonious blend. Aqua, with its **cool, lively, and creative nature**, complements the grounded and profound aspects of Brilliant Red. Together, they form a partnership of energy and serenity—perfect for someone who seeks balance between strength and calm.
 
 ### 5. Conclusion (A Poem of Healing)
 

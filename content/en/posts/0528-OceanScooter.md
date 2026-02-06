@@ -1,21 +1,27 @@
 ---
-title: "Ocean Scooter, The Birthday Color of May 28th"
-date: 2026-05-28
-description: "The birthday color for May 28th is Ocean Scooter (339999). Its meaning is Adventurous, Challenging Spirit, Energetic."
-author: 365days
+title: "Ocean Scooter, The Birthday Color of May 28"
+date: "2026-05-28"
+updated: "2026-05-28"
 tags:
-  - ocean scooter
-  - birthday color
-  - may 28th
-  - 339999
-  - may
-  - matte rose
-draft: false
+  - "ocean scooter"
+  - "birthday color"
+  - "may 28"
+  - "339999"
+  - "may"
+  - "matte rose"
+description: "The birthday color for May 28 is Ocean Scooter (339999). Its meaning is Adventurous, Challenging Spirit, Energetic."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgX-YgKQvhSxtxh3lfcE--v2lv2VPVy6asE06dsReuf4aikzvR3qXxXHtzTfJq_rE3cSumoYzBn9_qPM5xjNVyrIu4lcjM-s4edEBg5Yz5nJYU1f1N2lKMD-H47u97bPAzdfsIuEtaz1d-zaADtur3rcruk5_1XqGEz0XXsgjdor1rBhXlc5WHqER2hvwyy=s1600"
+en_name: "OceanScooter"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Ocean Scooter](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_149.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgX-YgKQvhSxtxh3lfcE--v2lv2VPVy6asE06dsReuf4aikzvR3qXxXHtzTfJq_rE3cSumoYzBn9_qPM5xjNVyrIu4lcjM-s4edEBg5Yz5nJYU1f1N2lKMD-H47u97bPAzdfsIuEtaz1d-zaADtur3rcruk5_1XqGEz0XXsgjdor1rBhXlc5WHqER2hvwyy=s1600)
 
-## Birthday Color for May 28th: Ocean Scooter (`#339999`)
+
+## Birthday Color for May 28: Ocean Scooter (`#339999`)
 
 ### 1. Description of Ocean Scooter (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In **fashion**, **Ocean Scooter** is a bold statement. It’s perfect for those 
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Matte Rose** (Hex: `#AE675F`), the birthday color of **February 28th**, the synergy between these colors is truly magical. **Matte Rose**, with its **mature** and **reliable** undertones, balances the **adventurous** nature of **Ocean Scooter**, creating a dynamic harmony between **stability** and **spontaneity**. Together, they create an atmosphere where you feel both grounded and ready to leap forward into new adventures.
+When combined with **Matte Rose** (Hex: `#AE675F`), the birthday color of **February 28**, the synergy between these colors is truly magical. **Matte Rose**, with its **mature** and **reliable** undertones, balances the **adventurous** nature of **Ocean Scooter**, creating a dynamic harmony between **stability** and **spontaneity**. Together, they create an atmosphere where you feel both grounded and ready to leap forward into new adventures.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -1,21 +1,24 @@
 ---
-title: "Dark Red, The Birthday Color of February 20th"
-date: 2026-02-20
-description: "The birthday color for February 20th is Dark Red (840C18). Its meaning is Determination, Willpower, Drive."
-author: 365days
-tags:
-  - dark red
-  - birthday color
-  - february 20th
-  - 840c18
-  - february
-  - baby blue
-draft: false
+"title": "Dark Red, The Birthday Color of February 20"
+"date": "2026-02-20"
+"updated": "2026-02-20"
+"labels":
+- "dark red"
+- "birthday color"
+- "february 20"
+- "840c18"
+- "february"
+- "baby blue"
+"description": "The birthday color for February 20 is Dark Red (840C18). Its meaning is Determination, Willpower, Drive."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEg-hcoo_bUkgj_SNC2Jm3xvEiFlwGyvXf_iBcy2wVkXHA4UTFRcD6pP6h7FCSXtb7us_Ib_BjhqMKegNtPmCl905fTbr72YQJV1GLTGmJOKDBgVKrjTCHPMR_8J_X2MMmhWFtTQsTZziHkozsc7c0PVW0eUv3bpcw0IeMJc94UqH-UVE-uyorCK4UrbXN7D=s1600"
+"en_name": "DarkRed"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "2706008625015129801"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/dark-red-birthday-color-of-february-20.html"
 ---
 
-![Dark Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_051.webp)
-
-## Birthday Color for February 20th: Dark Red (`#840C18`)
+## Birthday Color for February 20: Dark Red (`#840C18`)
 
 ### 1. Description of Dark Red (Feeling and Traits)
 
@@ -33,7 +36,7 @@ In **interior design**, **Dark Red** works wonderfully as an accent color, espec
 
 ### 4. Plus Tip (Destiny Color)
 
-**Baby Blue**, the birthday color of July 23rd, creates a beautiful contrast when paired with **Dark Red**. The **gentle coolness** of **Baby Blue** brings a sense of **calm** and **clarity**, perfectly complementing the **determined energy** of **Dark Red**. The combination of these two colors encourages both **strength** and **serenity**, fostering a balanced energy in any setting.
+**Baby Blue**, the birthday color of July 23, creates a beautiful contrast when paired with **Dark Red**. The **gentle coolness** of **Baby Blue** brings a sense of **calm** and **clarity**, perfectly complementing the **determined energy** of **Dark Red**. The combination of these two colors encourages both **strength** and **serenity**, fostering a balanced energy in any setting.
 
 ### 5. Conclusion (A Poem of Healing)
 

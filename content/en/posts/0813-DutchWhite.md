@@ -1,21 +1,27 @@
 ---
-title: "Dutch White, The Birthday Color of August 13th"
-date: 2026-08-13
-description: "The birthday color for August 13th is Dutch White (EFE3B5). Its meaning is Traditional, Classy, Elegant."
-author: 365days
+title: "Dutch White, The Birthday Color of August 13"
+date: "2026-08-13"
+updated: "2026-08-13"
 tags:
-  - dutch white
-  - birthday color
-  - august 13th
-  - efe3b5
-  - august
-  - evening sky
-draft: false
+  - "dutch white"
+  - "birthday color"
+  - "august 13"
+  - "efe3b5"
+  - "august"
+  - "evening sky"
+description: "The birthday color for August 13 is Dutch White (EFE3B5). Its meaning is Traditional, Classy, Elegant."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEijEDBvEptznZw-nHbFHGQIwIc1AYyr1nMTzfIh7LwM0vbo4oNkGx0SUPfC_hXGC18-z3UQZNKW_0fBnQELH03_U2qdngFJ8-EfZ-3y526qdZ-52l_Y3pISCfXjZmsmp18OBtaBcwo_9si1eZwkXY9ds4HRnxX0jAK6kYtUlJgN1wM30NKxL0ddelXpZCNz=s1600"
+en_name: "DutchWhite"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Dutch White](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_226.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEijEDBvEptznZw-nHbFHGQIwIc1AYyr1nMTzfIh7LwM0vbo4oNkGx0SUPfC_hXGC18-z3UQZNKW_0fBnQELH03_U2qdngFJ8-EfZ-3y526qdZ-52l_Y3pISCfXjZmsmp18OBtaBcwo_9si1eZwkXY9ds4HRnxX0jAK6kYtUlJgN1wM30NKxL0ddelXpZCNz=s1600)
 
-## Birthday Color for August 13th: Dutch White (`#EFE3B5`)
+
+## Birthday Color for August 13: Dutch White (`#EFE3B5`)
 
 ### 1. Description of Dutch White (Feeling and Traits)
 
@@ -35,7 +41,7 @@ The moment you encounter **Dutch White**, you are transported to a place where t
 
 ### 4. Plus Tip (Destiny Color)
 
-The partner color for **Dutch White** is **Evening Sky**, the birthday color of September 4th. **Evening Sky** embodies **meditation**, **calm**, and **introspection**, offering a profound balance to the warmth of **Dutch White**. Together, these colors create a beautiful synergy, blending **elegance** with **tranquility**, and are perfect for crafting a space or personal aesthetic that is both **grounded** and **inspiring**.
+The partner color for **Dutch White** is **Evening Sky**, the birthday color of September 4. **Evening Sky** embodies **meditation**, **calm**, and **introspection**, offering a profound balance to the warmth of **Dutch White**. Together, these colors create a beautiful synergy, blending **elegance** with **tranquility**, and are perfect for crafting a space or personal aesthetic that is both **grounded** and **inspiring**.
 
 ### 5. Conclusion (A Poem of Healing)
 

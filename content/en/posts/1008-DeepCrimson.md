@@ -1,21 +1,27 @@
 ---
-title: "Deep Crimson, The Birthday Color of October 8th"
-date: 2026-10-08
-description: "The birthday color for October 8th is Deep Crimson (BA0046). Its meaning is Truthful Heart, Pure Passion, Genuine."
-author: 365days
+title: "Deep Crimson, The Birthday Color of October 8"
+date: "2026-10-08"
+updated: "2026-10-08"
 tags:
-  - deep crimson
-  - birthday color
-  - october 8th
-  - ba0046
-  - october
-  - turquoise
-draft: false
+  - "deep crimson"
+  - "birthday color"
+  - "october 8"
+  - "ba0046"
+  - "october"
+  - "turquoise"
+description: "The birthday color for October 8 is Deep Crimson (BA0046). Its meaning is Truthful Heart, Pure Passion, Genuine."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEheKv1k8hl7pvA7SOkOExzf-MV9j8OmhaXCi2jTwm40L2amVufEomNJrKGKbVEQoVJig2DWhdfVJEdNAiI777fJYdAAiLmd9EQsTMFLkF6LIe39bWIvp2Wgoc2i2dsYrHLlEyETTlTqadrwPZ_OWG7E_tG7rgkHaQttaIcaoFWxYQSHyTDb7oZxEgsoEVFD=s1600"
+en_name: "DeepCrimson"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Deep Crimson](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_282.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEheKv1k8hl7pvA7SOkOExzf-MV9j8OmhaXCi2jTwm40L2amVufEomNJrKGKbVEQoVJig2DWhdfVJEdNAiI777fJYdAAiLmd9EQsTMFLkF6LIe39bWIvp2Wgoc2i2dsYrHLlEyETTlTqadrwPZ_OWG7E_tG7rgkHaQttaIcaoFWxYQSHyTDb7oZxEgsoEVFD=s1600)
 
-## Birthday Color for October 8th: Deep Crimson (`#BA0046`)
+
+## Birthday Color for October 8: Deep Crimson (`#BA0046`)
 
 ### 1. **Description of Deep Crimson (Feeling and Traits)**
 
@@ -31,7 +37,7 @@ In fashion, **Deep Crimson** is a color that demands attention and exudes **conf
 
 ### 4. **Plus Tip (Destiny Color)**
 
-When paired with **Turquoise**, the birthday color of **April 7th**, a beautiful synergy emerges. While **Deep Crimson** brings **truth** and **passion**, **Turquoise** introduces a sense of **balance** and **creativity**. Combining these two colors can create a dynamic harmony—one that is deeply grounded in authenticity while still embracing the refreshing and healing energy that **Turquoise** provides.
+When paired with **Turquoise**, the birthday color of **April 7**, a beautiful synergy emerges. While **Deep Crimson** brings **truth** and **passion**, **Turquoise** introduces a sense of **balance** and **creativity**. Combining these two colors can create a dynamic harmony—one that is deeply grounded in authenticity while still embracing the refreshing and healing energy that **Turquoise** provides.
 
 ### 5. **Conclusion (A Poem of Healing)**
 

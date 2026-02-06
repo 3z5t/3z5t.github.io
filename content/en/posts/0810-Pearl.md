@@ -1,21 +1,27 @@
 ---
-title: "Pearl, The Birthday Color of August 10th"
-date: 2026-08-10
-description: "The birthday color for August 10th is Pearl (EAE1DD). Its meaning is Valuable, Classy, High-minded."
-author: 365days
+title: "Pearl, The Birthday Color of August 10"
+date: "2026-08-10"
+updated: "2026-08-10"
 tags:
-  - pearl
-  - birthday color
-  - august 10th
-  - eae1dd
-  - august
-  - deep black
-draft: false
+  - "pearl"
+  - "birthday color"
+  - "august 10"
+  - "eae1dd"
+  - "august"
+  - "deep black"
+description: "The birthday color for August 10 is Pearl (EAE1DD). Its meaning is Valuable, Classy, High-minded."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjGbYH2pR2h8voDravMweXwsmsXLEUQc6gImmJFeAELrWYaDosTP6rn9THRA_2uMEeqPqonmMvcjs9NWkuqbvRPbCxGaTwB2w30UMKR878-xoXYwjz9Qj14d8ZK4QRHyP0l7F-L-pyqLoF1LgqvIb4n3rmp8pV-W8n5FX0sJnr2TCHEmGtUYcGWj5YgQkw9=s1600"
+en_name: "Pearl"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Pearl](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_223.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjGbYH2pR2h8voDravMweXwsmsXLEUQc6gImmJFeAELrWYaDosTP6rn9THRA_2uMEeqPqonmMvcjs9NWkuqbvRPbCxGaTwB2w30UMKR878-xoXYwjz9Qj14d8ZK4QRHyP0l7F-L-pyqLoF1LgqvIb4n3rmp8pV-W8n5FX0sJnr2TCHEmGtUYcGWj5YgQkw9=s1600)
 
-## Birthday Color for August 10th: Pearl (`#EAE1DD`)
+
+## Birthday Color for August 10: Pearl (`#EAE1DD`)
 
 ### 1. Description of Pearl (Feeling and Traits)
 
@@ -35,7 +41,7 @@ The keyword **'Valuable'** perfectly captures the essence of **Pearl**. This col
 
 ### 4. Plus Tip (Destiny Color)
 
-The partner color for **Pearl** is **Deep Black**, the birthday color for January 7th. This rich and profound color represents **determination** and **originality**, and when combined with **Pearl**, the synergy between the two is powerful. **Pearl** brings softness and clarity, while **Deep Black** adds **depth** and **mystery**, creating a beautifully balanced contrast. Together, they represent a harmonious blend of light and shadow, **grace** and **strength**, creating a space for true **growth** and **creativity**.
+The partner color for **Pearl** is **Deep Black**, the birthday color for January 7. This rich and profound color represents **determination** and **originality**, and when combined with **Pearl**, the synergy between the two is powerful. **Pearl** brings softness and clarity, while **Deep Black** adds **depth** and **mystery**, creating a beautifully balanced contrast. Together, they represent a harmonious blend of light and shadow, **grace** and **strength**, creating a space for true **growth** and **creativity**.
 
 ### 5. Conclusion (A Poem of Healing)
 

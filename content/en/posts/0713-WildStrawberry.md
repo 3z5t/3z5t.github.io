@@ -1,21 +1,27 @@
 ---
-title: "Wild Strawberry, The Birthday Color of July 13th"
-date: 2026-07-13
-description: "The birthday color for July 13th is Wild Strawberry (FF3399). Its meaning is Sweet Charm, Passionate, Lively."
-author: 365days
+title: "Wild Strawberry, The Birthday Color of July 13"
+date: "2026-07-13"
+updated: "2026-07-13"
 tags:
-  - wild strawberry
-  - birthday color
-  - july 13th
-  - ff3399
-  - july
-  - emerald green
-draft: false
+  - "wild strawberry"
+  - "birthday color"
+  - "july 13"
+  - "ff3399"
+  - "july"
+  - "emerald green"
+description: "The birthday color for July 13 is Wild Strawberry (FF3399). Its meaning is Sweet Charm, Passionate, Lively."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiIuhOL-nH8SMbvt0z4HyOImapUGnSr8QzC5RfWmDD9vBLG69zHFw0z6d7jy6ccCnJ4yPbdv4EhHclsahGOo1x9f8_c_EcKxAuSajc9esLEQvSTl5KqkZAlNIRVcRdJ2a72iN3YDvGncu2JZOL4xLF7LVAI-ExDSkVDW4sWWb28a-a13NJ8Nk2E56GY-xMt=s1600"
+en_name: "WildStrawberry"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Wild Strawberry](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_195.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiIuhOL-nH8SMbvt0z4HyOImapUGnSr8QzC5RfWmDD9vBLG69zHFw0z6d7jy6ccCnJ4yPbdv4EhHclsahGOo1x9f8_c_EcKxAuSajc9esLEQvSTl5KqkZAlNIRVcRdJ2a72iN3YDvGncu2JZOL4xLF7LVAI-ExDSkVDW4sWWb28a-a13NJ8Nk2E56GY-xMt=s1600)
 
-## Birthday Color for July 13th: Wild Strawberry (`#FF3399`)
+
+## Birthday Color for July 13: Wild Strawberry (`#FF3399`)
 
 ### 1. Description of Wild Strawberry (Feeling and Traits)
 
@@ -31,7 +37,7 @@ Styling with **Wild Strawberry** is like infusing a room or an outfit with a bur
 
 ### 4. Plus Tip (Destiny Color)
 
-As an interesting note, **combining Wild Strawberry** with **Emerald Green**—the birthday color for April 3rd—can create great synergy. **Emerald Green**, with its youthful spirit and growth, complements the **passionate energy** of Wild Strawberry, together nurturing both **hope** and **vibrance**.
+As an interesting note, **combining Wild Strawberry** with **Emerald Green**—the birthday color for April 3—can create great synergy. **Emerald Green**, with its youthful spirit and growth, complements the **passionate energy** of Wild Strawberry, together nurturing both **hope** and **vibrance**.
 
 ### 5. Conclusion (A Poem of Healing)
 

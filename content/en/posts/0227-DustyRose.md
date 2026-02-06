@@ -1,20 +1,24 @@
 ---
-title: "Dusty Rose, The Birthday Color of February 27th"
-date: 2026-02-27
-description: "The birthday color for February 27th is Dusty Rose (794848). Its meaning is Introspective, Emotional, Wisdom."
-author: 365days
-tags:
-  - dusty rose
-  - birthday color
-  - february 27th
-  - 794848
-  - february
-  - cool green
-draft: false
+"title": "Dusty Rose, The Birthday Color of February 27"
+"date": "2026-02-27"
+"updated": "2026-02-27"
+"labels":
+- "dusty rose"
+- "birthday color"
+- "february 27"
+- "794848"
+- "february"
+- "cool green"
+"description": "The birthday color for February 27 is Dusty Rose (794848). Its meaning is Introspective, Emotional, Wisdom."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEga9IkW3XTWhq_Vmo3MAxEiG7Ed3VxwxMjxV1es-JOS2vNmvfarUm1RHFxYJ0oDMKffEWbFI82iXrkcZVi29LV5U10LeCGD43foHj4udzDsmz2C6eKDHhfV99VktSKU4UxS-cgHZglAFoiMIdQ5rT5vk7SRAN5dV9Sg1w2W-MjJcr8iB3oCZu3DX2a8apWV=s1600"
+"en_name": "DustyRose"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "6228846392126948263"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/dusty-rose-birthday-color-of-february-27.html"
 ---
 
-![Dusty Rose](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_058.webp)
-## Birthday Color for February 27th: Dusty Rose (`#794848`)
+## Birthday Color for February 27: Dusty Rose (`#794848`)
 
 ### 1. Description of Dusty Rose (Feeling and Traits)
 
@@ -32,7 +36,7 @@ When it comes to interior design, **Dusty Rose** adds warmth and **calm** to any
 
 ### 4. Plus Tip (Destiny Color)
 
-The partner color for **Dusty Rose** is **Cool Green**, the birthday color for April 21st. While **Dusty Rose** brings a sense of warmth and emotional depth, **Cool Green** adds a **refreshing**, **balanced** energy that complements it beautifully. Together, these colors form a harmonious blend of introspective depth and calming serenity, making them a powerful combination for those seeking to embrace both **wisdom** and **peace**.
+The partner color for **Dusty Rose** is **Cool Green**, the birthday color for April 21. While **Dusty Rose** brings a sense of warmth and emotional depth, **Cool Green** adds a **refreshing**, **balanced** energy that complements it beautifully. Together, these colors form a harmonious blend of introspective depth and calming serenity, making them a powerful combination for those seeking to embrace both **wisdom** and **peace**.
 
 ### 5. Conclusion (A Poem of Healing)
 

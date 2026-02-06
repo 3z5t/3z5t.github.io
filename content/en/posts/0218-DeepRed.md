@@ -1,21 +1,24 @@
 ---
-title: "Deep Red, The Birthday Color of February 18th"
-date: 2026-02-18
-description: "The birthday color for February 18th is Deep Red (F3392C). Its meaning is Challenging Spirit, Courage, Determination."
-author: 365days
-tags:
-  - deep red
-  - birthday color
-  - february 18th
-  - f3392c
-  - february
-  - noble sky blue
-draft: false
+"title": "Deep Red, The Birthday Color of February 18"
+"date": "2026-02-18"
+"updated": "2026-02-18"
+"labels":
+- "deep red"
+- "birthday color"
+- "february 18"
+- "f3392c"
+- "february"
+- "noble sky blue"
+"description": "The birthday color for February 18 is Deep Red (F3392C). Its meaning is Challenging Spirit, Courage, Determination."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgNAuE9iXgcys2PjgoY65gNihH6bJYnIKcjFZYNRmS_cBrqdmlAXPFjxCrEbFnVSM7TwgsBsEIfgiaRCFtAO4mOkf8x1F7tjEIi2PpIkGwTUIsc0XUicPLhRr_1CjriPcKljWzp3ybD0rPkyYHrKXbBwgEnlJVedkvh3fXojCj_JJEJZoYdthcAJEziNZxM=s1600"
+"en_name": "DeepRed"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "6327929262000857513"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/deep-red-birthday-color-of-february-18.html"
 ---
 
-![Deep Red](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_049.webp)
-
-## Birthday Color for February 18th: Deep Red (`#F3392C`)
+## Birthday Color for February 18: Deep Red (`#F3392C`)
 
 ### 1. Description of Deep Red (Feeling and Traits)
 
@@ -33,7 +36,7 @@ In **interior design**, **Deep Red** creates an atmosphere of **intensity** and 
 
 ### 4. Plus Tip (Destiny Color)
 
-**Noble Sky Blue**, the birthday color of December 18th, brings an exciting synergy when paired with **Deep Red**. The cool, refreshing energy of **Sky Blue** balances the intense, fiery nature of **Deep Red**, creating a dynamic, harmonious contrast. Together, they evoke **courage** and **hope**—a perfect pairing for anyone seeking to make bold moves while maintaining clarity and **balance**.
+**Noble Sky Blue**, the birthday color of December 18, brings an exciting synergy when paired with **Deep Red**. The cool, refreshing energy of **Sky Blue** balances the intense, fiery nature of **Deep Red**, creating a dynamic, harmonious contrast. Together, they evoke **courage** and **hope**—a perfect pairing for anyone seeking to make bold moves while maintaining clarity and **balance**.
 
 ### 5. Conclusion (A Poem of Healing)
 

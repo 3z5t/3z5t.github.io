@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiFs02mH9-Kvo3zCj3GRW_ATVwPjpJDmpXpRMI1wnvlG7Eh1LteV-UT0mY7ud7lx3C8qPudzU1X9n_R7pF9GDmzkz6ABcEn4qsrthw9WfSA7QpEeSMMKH8WLvg2AVhjBZD8VXrRFW-Wofn9DO3G395SSRiq5uZDGDs5Jx2uMyqcC6ZXVpjstTkUD0cmVWVq=s1600)
+
 ## 3월 29일의 탄생색: 수국 핑크 (`#FFBFCA`)
 
 ### 1. 수국 핑크에 대한 설명 (색의 느낌과 특징)

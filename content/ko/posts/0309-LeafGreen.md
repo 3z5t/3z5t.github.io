@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh8PReyP4bwLsS6I6vPF0eSSQVmjR0GQbT0qQ4zEugg7-VsREsX9YNZknOtyGA3CuOiCa6wsRgzwrX1XBt_m7AJWFoKX_VK0ZHsGLXy6qamhkRJlSfdEAUxKzrvxKluUHDyBi_dlsOoHeflrpJP25ly_UaKHfQ8pqOGeqUWl8YHb1VljOpDLn-0GZ6nfqH3=s1600)
+
 ## 3월 9일의 탄생색: 풀잎 초록 (`#587D4A`)
 
 ### 1. 풀잎 초록에 대한 설명 (색의 느낌과 특징)

@@ -1,21 +1,27 @@
 ---
-title: "Sand Pink, The Birthday Color of March 30th"
-date: 2026-03-30
-description: "The birthday color for March 30th is Sand Pink (F5C4AC). Its meaning is Warm, Inclusive, Gentle."
-author: 365days
+title: "Sand Pink, The Birthday Color of March 30"
+date: "2026-03-30"
+updated: "2026-03-30"
 tags:
-  - sand pink
-  - birthday color
-  - march 30th
-  - f5c4ac
-  - march
-  - steel navy
-draft: false
+  - "sand pink"
+  - "birthday color"
+  - "march 30"
+  - "f5c4ac"
+  - "march"
+  - "steel navy"
+description: "The birthday color for March 30 is Sand Pink (F5C4AC). Its meaning is Warm, Inclusive, Gentle."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiM-CsTGVAjm0PzVh3A79GoerXnrROIazltxtteF7NpOeItqsto3YK52SuYBjR-K5aCzJ5-c6M4SZt4sb5A9YGghwWKN7n257tgUCNHrXs0R4KS1uWzxp7Rrn3Mz00Xlj68bf4xz6ZGJDDkMqXfeN_FnE72enLvfEjTJm_VOpnVZt3QIW1NVn5ueCg18ZFK=s1600"
+en_name: "SandPink"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Sand Pink](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_090.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiM-CsTGVAjm0PzVh3A79GoerXnrROIazltxtteF7NpOeItqsto3YK52SuYBjR-K5aCzJ5-c6M4SZt4sb5A9YGghwWKN7n257tgUCNHrXs0R4KS1uWzxp7Rrn3Mz00Xlj68bf4xz6ZGJDDkMqXfeN_FnE72enLvfEjTJm_VOpnVZt3QIW1NVn5ueCg18ZFK=s1600)
 
-## Birthday Color for March 30th: Sand Pink (`#F5C4AC`)
+
+## Birthday Color for March 30: Sand Pink (`#F5C4AC`)
 
 ### 1. Description of Sand Pink (Feeling and Traits)
 
@@ -31,7 +37,7 @@ To highlight the serene and **gentle** beauty of **Sand Pink**, it’s best to u
 
 ### 4. Plus Tip (Destiny Color)
 
-To deepen the sense of **grounded stability**, consider combining **Sand Pink** with **Steel Navy** (Hex: `#1A3855`), the birthday color of January 11th. The **strength** of Steel Navy paired with the warmth of **Sand Pink** creates a beautiful contrast between **stability and softness**, offering a harmonious balance between the calm, nurturing energy of pink and the sturdy trustworthiness of navy. Together, they form a synergy that is both **soothing and empowering**.
+To deepen the sense of **grounded stability**, consider combining **Sand Pink** with **Steel Navy** (Hex: `#1A3855`), the birthday color of January 11. The **strength** of Steel Navy paired with the warmth of **Sand Pink** creates a beautiful contrast between **stability and softness**, offering a harmonious balance between the calm, nurturing energy of pink and the sturdy trustworthiness of navy. Together, they form a synergy that is both **soothing and empowering**.
 
 ### 5. Conclusion (A Poem of Healing)
 

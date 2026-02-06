@@ -1,21 +1,27 @@
 ---
-title: "Rudolph Brown, The Birthday Color of December 3rd"
-date: 2026-12-03
-description: "The birthday color for December 3rd is Rudolph Brown (6C4D32). Its meaning is Warm Heart, Cozy, Stable."
-author: 365days
+title: "Rudolph Brown, The Birthday Color of December 3"
+date: "2026-12-03"
+updated: "2026-12-03"
 tags:
-  - rudolph brown
-  - birthday color
-  - december 3rd
-  - 6c4d32
-  - december
-  - bright blue
-draft: false
+  - "rudolph brown"
+  - "birthday color"
+  - "december 3"
+  - "6c4d32"
+  - "december"
+  - "bright blue"
+description: "The birthday color for December 3 is Rudolph Brown (6C4D32). Its meaning is Warm Heart, Cozy, Stable."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgSLmL5MlKmXJOTYjjNtCQpt21DEwuRtOK07QXSZfs21FieezcN0-NasTJEBeuPc4JYfVDJDdcdR17EJSrKuigYl8cok1mxjDV2uLkTHoa5MV9MDjdcFydyOkQCQ1sELV-XxjeXJkbCNy47GdvK0woG7jM-A3AfpQRcJUiLYcPVx3ivx95rlg6viP0ZOaHJ=s1600"
+en_name: "RudolphBrown"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Rudolph Brown](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_338.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgSLmL5MlKmXJOTYjjNtCQpt21DEwuRtOK07QXSZfs21FieezcN0-NasTJEBeuPc4JYfVDJDdcdR17EJSrKuigYl8cok1mxjDV2uLkTHoa5MV9MDjdcFydyOkQCQ1sELV-XxjeXJkbCNy47GdvK0woG7jM-A3AfpQRcJUiLYcPVx3ivx95rlg6viP0ZOaHJ=s1600)
 
-## Birthday Color for December 3rd: Rudolph Brown (`#6C4D32`)
+
+## Birthday Color for December 3: Rudolph Brown (`#6C4D32`)
 
 ### 1. Description of Rudolph Brown (Feeling and Traits)
 
@@ -35,7 +41,7 @@ When it comes to interior design, **Rudolph Brown** shines in spaces that are me
 
 ### 4. Plus Tip (Destiny Color)
 
-When combined with **Bright Blue** (the birthday color of January 28th), **Rudolph Brown** creates a beautiful balance of energy and warmth. While **Bright Blue** adds a cool, refreshing vibrance, **Rudolph Brown** brings a grounding warmth that stabilizes and centers the energy, creating a harmonious atmosphere where both colors complement each other beautifully.
+When combined with **Bright Blue** (the birthday color of January 28), **Rudolph Brown** creates a beautiful balance of energy and warmth. While **Bright Blue** adds a cool, refreshing vibrance, **Rudolph Brown** brings a grounding warmth that stabilizes and centers the energy, creating a harmonious atmosphere where both colors complement each other beautifully.
 
 ### 5. Conclusion (A Poem of Healing)
 

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiYFVddfcCYzyuWIYHEFKOQBdhApl-UPgU5Hk81SHNIAcBwD06s9un3vm7-VAb_SjpSmGnjhfm8XZF6X47eCy0zNC_l3KYiwKe34B49dE8aGe6f8-NKjEttEwN6QOvUajffL3HIShKJNq9MOZpkVmRF-XPGwKW5YZy27feefpWwN9rtza5WGFyrKbnSGoXv=s1600)
+
 ## 11월 18일의 탄생색: 자정 (`#242228`)
 
 ### 1. 자정에 대한 설명: 모든 소음이 멈춘 자리에 내려앉은 신비로운 장막

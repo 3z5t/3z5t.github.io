@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgVR9LnZATXaOYda3bkWR1JZp5O-vhq4XP6wpoHhdnb3OYwrNWtk_hO6Z6E0pXdHcjhSoYcW29nQ2bbJ5KsFQxx5knYetM5FpZ9rE6SqaxYp6XtLXsG_VYlnj6Ho1_cGxFJqSFw_pR4Tws4-qO6ukSEUdM9ItO-HrmIyQl4bLEIgNfPuJ5j_VfSF23ysfNf=s1600)
+
 ## 6월 3일의 탄생색: 피치 오렌지 (`#FFCC99`)
 
 ### 1. 피치 오렌지에 대한 설명: 한 입 베어 물고 싶은 싱그러운 과즙

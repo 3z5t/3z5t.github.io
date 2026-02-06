@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjtOJn-NV8ldLHtptDw9vz71m-PhvxuFhn-GqEesL0Q619PZyctazFG7vzbIfoPvkdMNkrLJefkQ3_P9Bg09GPxG5fjIF80bx6jZlZximxwzCJK0zUonqH0Fnbzuq1cwmsTWQEHXAnbvAHROmpvde7T8E2r-4pLn0IJqOLA78dDG-0oww5GIWOuukcHqD5J=s1600)
+
 ## 12월 26일의 탄생색: 빈티지 네이비 (`#494960`)
 
 ### 1. 빈티지 네이비에 대한 설명 (색의 느낌과 특징)

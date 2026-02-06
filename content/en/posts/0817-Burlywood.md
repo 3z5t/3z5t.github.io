@@ -1,21 +1,27 @@
 ---
-title: "Burlywood, The Birthday Color of August 17th"
-date: 2026-08-17
-description: "The birthday color for August 17th is Burlywood (DCBF97). Its meaning is Mature, Stable, Calm."
-author: 365days
+title: "Burlywood, The Birthday Color of August 17"
+date: "2026-08-17"
+updated: "2026-08-17"
 tags:
-  - burlywood
-  - birthday color
-  - august 17th
-  - dcbf97
-  - august
-  - true navy
-draft: false
+  - "burlywood"
+  - "birthday color"
+  - "august 17"
+  - "dcbf97"
+  - "august"
+  - "true navy"
+description: "The birthday color for August 17 is Burlywood (DCBF97). Its meaning is Mature, Stable, Calm."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhMG_AEG8vbb1-OlvzdPCl-bK7GOa07b6v9ZqxNro5Saz8mR84S9D5lrX-SFLooZMRBON2HJQZECyshjU2t8usTrP4TfoNBYm-deyTNdjPA25TckNk1NtkjbMJUfGs80777qBcA4vAn1OJwMcGzI8fmaedaM39ZqdLmvtKr2GwI-VXXmfAUTOXzWChmeGiT=s1600"
+en_name: "Burlywood"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Burlywood](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_230.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhMG_AEG8vbb1-OlvzdPCl-bK7GOa07b6v9ZqxNro5Saz8mR84S9D5lrX-SFLooZMRBON2HJQZECyshjU2t8usTrP4TfoNBYm-deyTNdjPA25TckNk1NtkjbMJUfGs80777qBcA4vAn1OJwMcGzI8fmaedaM39ZqdLmvtKr2GwI-VXXmfAUTOXzWChmeGiT=s1600)
 
-## Birthday Color for August 17th: Burlywood (`#DCBF97`)
+
+## Birthday Color for August 17: Burlywood (`#DCBF97`)
 
 ### 1. Description of Burlywood (Feeling and Traits)
 
@@ -35,7 +41,7 @@ People born under the influence of **Burlywood** often radiate an air of **matur
 
 ### 4. Plus Tip (Destiny Color)
 
-The partner color for **Burlywood** is **True Navy**, the birthday color for January 14th. These two colors create a harmonious blend of warmth and coolness. **Burlywood’s** **earthy tone** beautifully complements **True Navy’s** **deep, serene quality**, creating a striking contrast that feels both **calming** and **elegant**. Whether used together in fashion or home decor, the synergy between these colors promotes a sense of balance and understated sophistication.
+The partner color for **Burlywood** is **True Navy**, the birthday color for January 14. These two colors create a harmonious blend of warmth and coolness. **Burlywood’s** **earthy tone** beautifully complements **True Navy’s** **deep, serene quality**, creating a striking contrast that feels both **calming** and **elegant**. Whether used together in fashion or home decor, the synergy between these colors promotes a sense of balance and understated sophistication.
 
 ### 5. Conclusion (A Poem of Healing)
 

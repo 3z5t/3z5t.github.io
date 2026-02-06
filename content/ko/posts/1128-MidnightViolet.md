@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi_dcRoc7ZYOd5fuAUsvidjur30ECfNsZnmdHMZ1SZfRkcfI5CE02I-0mCacbXr1omUmbgzXac1Va8OpqZ1zNeJOxHnq3B73f4w8L8lah6HJsoC-57DxHO20CU_EC3peWDqZcSgBDLIwk40yRCU89BzSs_DLuVLM0le8n45ccEaDYGQaHFTHa-s5XVDZsTi=s1600)
+
 ## 11월 28일의 탄생색: 미드나잇 바이올렛 (`#20202E`)
 
 ### 1. 미드나잇 바이올렛에 대한 설명 (색의 느낌과 특징)

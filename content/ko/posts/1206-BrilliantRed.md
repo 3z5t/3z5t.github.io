@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh4nTTULTtXImMdmhjzZLxfmVp4NWYTpjDiMNNQYezINTvGuaFUZydCIZXv4AyzcgaOAGOdMPOPOTRAvnKkwNtky0j_aFGXZ9-aBVBMYeWFGPDRHPKKkPK9Chf2Mo8dgwCV7FzKooYHul-ArYzf0T6Ta1gYUp2MseJ-KfjDwbkPNvlD7Pg9uBmH-AT7qmnR=s1600)
+
 ## 12월 6일의 탄생색: 브릴리언트 레드 (`#F60100`)
 
 ### 1. 브릴리언트 레드에 대한 설명 (색의 느낌과 특징)

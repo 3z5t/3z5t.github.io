@@ -1,21 +1,27 @@
 ---
-title: "Tomato, The Birthday Color of July 6th"
-date: 2026-07-06
-description: "The birthday color for July 6th is Tomato (FF6347). Its meaning is Healthy Mind, Fresh, Energetic."
-author: 365days
+title: "Tomato, The Birthday Color of July 6"
+date: "2026-07-06"
+updated: "2026-07-06"
 tags:
-  - tomato
-  - birthday color
-  - july 6th
-  - ff6347
-  - july
-  - high sky
-draft: false
+  - "tomato"
+  - "birthday color"
+  - "july 6"
+  - "ff6347"
+  - "july"
+  - "high sky"
+description: "The birthday color for July 6 is Tomato (FF6347). Its meaning is Healthy Mind, Fresh, Energetic."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEijnjk-u7bTXoM4TBor-4ryf_Hd99xWG9BaDY6dVpa-Wk5YsZJW0-4Oi5KTFsmRO7_-KgI6Y9KoUEC2pDKhKLJyzbRTz2bEUUtvm9l3gYJxoUD7-cOglxXT86Fmysd-7WUiahG3l-FRgmWrZiJ4KSY--8LppquA3FwFDrybEKKV1AGHxZOtJMOf7WgxcVAP=s1600"
+en_name: "Tomato"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Tomato](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_188.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEijnjk-u7bTXoM4TBor-4ryf_Hd99xWG9BaDY6dVpa-Wk5YsZJW0-4Oi5KTFsmRO7_-KgI6Y9KoUEC2pDKhKLJyzbRTz2bEUUtvm9l3gYJxoUD7-cOglxXT86Fmysd-7WUiahG3l-FRgmWrZiJ4KSY--8LppquA3FwFDrybEKKV1AGHxZOtJMOf7WgxcVAP=s1600)
 
-## Birthday Color for July 6th: Tomato (`#FF6347`)
+
+## Birthday Color for July 6: Tomato (`#FF6347`)
 
 ### 1. Description of Tomato (Feeling and Traits)
 
@@ -31,7 +37,7 @@ In fashion, **Tomato** makes an immediate impression. A **Tomato-colored dress**
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **High Sky** (Hex: `#0B8AC3`), the birthday color of January 22nd, **Tomato** finds its perfect counterpart. While Tomato brings **energy** and **vitality**, High Sky adds a touch of **clarity** and **innovation**, creating a dynamic balance of **freshness** and **pioneering spirit**. Together, these colors invite you to embrace both the **new** and the **renewed**, creating a synergy of **enthusiasm** and **creative insight**.
+When paired with **High Sky** (Hex: `#0B8AC3`), the birthday color of January 22, **Tomato** finds its perfect counterpart. While Tomato brings **energy** and **vitality**, High Sky adds a touch of **clarity** and **innovation**, creating a dynamic balance of **freshness** and **pioneering spirit**. Together, these colors invite you to embrace both the **new** and the **renewed**, creating a synergy of **enthusiasm** and **creative insight**.
 
 ### 5. Conclusion (A Poem of Healing)
 

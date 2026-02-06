@@ -1,21 +1,27 @@
 ---
-title: "Antique Brown, The Birthday Color of November 24th"
-date: 2026-11-24
-description: "The birthday color for November 24th is Antique Brown (35292A). Its meaning is Traditional, Stable, Profound."
-author: 365days
+title: "Antique Brown, The Birthday Color of November 24"
+date: "2026-11-24"
+updated: "2026-11-24"
 tags:
-  - antique brown
-  - birthday color
-  - november 24th
-  - 35292a
-  - november
-  - cloudy sky
-draft: false
+  - "antique brown"
+  - "birthday color"
+  - "november 24"
+  - "35292a"
+  - "november"
+  - "cloudy sky"
+description: "The birthday color for November 24 is Antique Brown (35292A). Its meaning is Traditional, Stable, Profound."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjVeF7GR0vBR5DOZYrI43IULocICqGyKTBQ5YQU_3UwoGtQx7kaBq4mxB2W1r3hgP7UrukxR8XR7GWMAsPaGAh8LxhKclRRJg2F-BT0yaKo7UK1qp7D-0GPEOmXqgkpalwb8em0Y9fN_X-2zArNNiVwVEBJPPsOya84LIPw19qCqMUxaAFg3LVscyQz0m1o=s1600"
+en_name: "AntiqueBrown"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Antique Brown](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_329.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjVeF7GR0vBR5DOZYrI43IULocICqGyKTBQ5YQU_3UwoGtQx7kaBq4mxB2W1r3hgP7UrukxR8XR7GWMAsPaGAh8LxhKclRRJg2F-BT0yaKo7UK1qp7D-0GPEOmXqgkpalwb8em0Y9fN_X-2zArNNiVwVEBJPPsOya84LIPw19qCqMUxaAFg3LVscyQz0m1o=s1600)
 
-## Birthday Color for November 24th: Antique Brown (`#35292A`)
+
+## Birthday Color for November 24: Antique Brown (`#35292A`)
 
 ### 1. Description of Antique Brown (Feeling and Traits)
 
@@ -33,7 +39,7 @@ For interiors, **Antique Brown** is a go-to color for creating a warm, welcoming
 
 ### 4. Plus Tip (Destiny Color)
 
-When paired with **Cloudy Sky** (the birthday color of January 24th), **Antique Brown** takes on an even greater sense of depth and clarity. The cool, soft tones of **Cloudy Sky** provide a gentle contrast, lifting the grounded heaviness of the brown, and adding an element of lightness. Together, they create a harmonious balance, combining the weight of tradition with the fresh perspective of understanding.
+When paired with **Cloudy Sky** (the birthday color of January 24), **Antique Brown** takes on an even greater sense of depth and clarity. The cool, soft tones of **Cloudy Sky** provide a gentle contrast, lifting the grounded heaviness of the brown, and adding an element of lightness. Together, they create a harmonious balance, combining the weight of tradition with the fresh perspective of understanding.
 
 ### 5. Conclusion (A Poem of Healing)
 

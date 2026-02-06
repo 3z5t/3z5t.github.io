@@ -1,21 +1,24 @@
 ---
-title: "Pale Magenta, The Birthday Color of February 13th"
-date: 2026-02-13
-description: "The birthday color for February 13th is Pale Magenta (61368D). Its meaning is Romantic, Emotional, Artistic."
-author: 365days
-tags:
-  - pale magenta
-  - birthday color
-  - february 13th
-  - 61368d
-  - february
-  - soft melon
-draft: false
+"title": "Pale Magenta, The Birthday Color of February 13"
+"date": "2026-02-13"
+"updated": "2026-02-13"
+"labels":
+- "pale magenta"
+- "birthday color"
+- "february 13"
+- "61368d"
+- "february"
+- "soft melon"
+"description": "The birthday color for February 13 is Pale Magenta (61368D). Its meaning is Romantic, Emotional, Artistic."
+"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEggZoY33YN7LiAbXHTLWhr4Uq3fLRY8Abd5j7Ms2jPxaNe_m550V2JVtnTohjkNJ7iEnLFaTlntLYDFxOfGMvUKgxQBbnboHV9RiRmvl0C6TEoYW_cIpvfVUAG-CYZLYgyCu7ttKiQ1FfyPTENC5SoeBQ7xiCow0kG4J4sLrpLMcc4bUnawkMTDN2_kJJ5h=s1600"
+"en_name": "PaleMagenta"
+"author": "Pieces of a Day"
+"profileName": "Pieces of a Day"
+"postId": "4356086856551370083"
+"postUrl": "https://the366days-en.blogspot.com/2026/02/pale-magenta-birthday-color-of-february.html"
 ---
 
-![Pale Magenta](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_044.webp)
-
-## Birthday Color for February 13th: Pale Magenta (`#61368D`)
+## Birthday Color for February 13: Pale Magenta (`#61368D`)
 
 ### 1. Description of Pale Magenta (Feeling and Traits)
 
@@ -31,7 +34,7 @@ When it comes to **fashion**, **Pale Magenta** is a color that exudes **grace** 
 
 ### 4. Plus Tip (Destiny Color)
 
-**Pale Magenta** is beautifully complemented by **Soft Melon**, the birthday color of April 11th. The **freshness** and **balance** of **Soft Melon** harmonize effortlessly with **Pale Magenta’s** romantic and artistic nature, creating a vibrant, yet calming, atmosphere. Together, they encourage a deep connection to **inner beauty** and **emotional expression**, making them a wonderful pairing for those seeking both **creativity** and **stability** in their lives.
+**Pale Magenta** is beautifully complemented by **Soft Melon**, the birthday color of April 11. The **freshness** and **balance** of **Soft Melon** harmonize effortlessly with **Pale Magenta’s** romantic and artistic nature, creating a vibrant, yet calming, atmosphere. Together, they encourage a deep connection to **inner beauty** and **emotional expression**, making them a wonderful pairing for those seeking both **creativity** and **stability** in their lives.
 
 ### 5. Conclusion (A Poem of Healing)
 

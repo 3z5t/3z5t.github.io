@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhq5TEcDqjlxhkVdPVJm6jHGIqIMtJyUKsNo3ql4ucYCPnZHVuRAJI3LBtkF79tcFwtpiz4I_bDOmj9ThDbKT02zjFt3bLIx2MmWaoD6fipgW_YEThYCTApSH6-CUZI5hW5flmpCJaWw2SNfX7pOLdi8tXFSsaHKQcYiaJsMayZKjB_kHtaJM6VpRYKw1pE=s1600)
+
 ## 7월 3일의 탄생색: 라이트 코랄 (`#F19292`)
 
 ### 1. 라이트 코랄에 대한 설명: 거친 파도 속에서도 잃지 않는 부드러움

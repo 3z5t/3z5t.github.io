@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEheoetn7G_3AfiZyxf-3-ntgprV6zfvuECSo_strU1EX3zcr9FcQj4cfA58A5LYQVKOcOW6zkhUTnUvDIJcHLYOFHRPEp_CIpXcLVgkM-zA8Gmp8gbvsS_3A_B40Dp_M3Yw1UVF3qxGOu94yjOpAtfMBlyZBsrAu1xQe7-9exej9Te8dlb3Ghi9GrzvkF09=s1600)
+
 ## 7월 2일의 탄생색: 캔디 코랄 (`#F18372`)
 
 ### 1. 캔디 코랄에 대한 설명: 입안에서 사르르 녹는 달콤한 위로

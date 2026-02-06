@@ -1,21 +1,27 @@
 ---
-title: "Dark Beige, The Birthday Color of August 26th"
-date: 2026-08-26
-description: "The birthday color for August 26th is Dark Beige (DEB887). Its meaning is Profound, Weighty, Prudent."
-author: 365days
+title: "Dark Beige, The Birthday Color of August 26"
+date: "2026-08-26"
+updated: "2026-08-26"
 tags:
-  - dark beige
-  - birthday color
-  - august 26th
-  - deb887
-  - august
-  - true navy
-draft: false
+  - "dark beige"
+  - "birthday color"
+  - "august 26"
+  - "deb887"
+  - "august"
+  - "true navy"
+description: "The birthday color for August 26 is Dark Beige (DEB887). Its meaning is Profound, Weighty, Prudent."
+thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhAVK-Xk5vs7zS0gcereHPh19ACqDX-uJ9spkSJnrYGws4vTE9OHEgT-3ngCMn5ULZMFV7GexOtkFDwQu3pEl0LMdEKaejJqkk7Lp5OXatlPc4AN6P0ez1UvQ9GDS_f1sZ21O0PQL0iXh1sgfgWsbzYIxoPfErFBTz0s0nUo75dZ5sX68yd1HrriBp0vUVs=s1600"
+en_name: "DarkBeige"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: ""
+postUrl: ""
 ---
 
-![Dark Beige](https://cdn.jsdelivr.net/gh/3z5t/assets-v1@main/2026/color/images/en/en_239.webp)
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhAVK-Xk5vs7zS0gcereHPh19ACqDX-uJ9spkSJnrYGws4vTE9OHEgT-3ngCMn5ULZMFV7GexOtkFDwQu3pEl0LMdEKaejJqkk7Lp5OXatlPc4AN6P0ez1UvQ9GDS_f1sZ21O0PQL0iXh1sgfgWsbzYIxoPfErFBTz0s0nUo75dZ5sX68yd1HrriBp0vUVs=s1600)
 
-## Birthday Color for August 26th: Dark Beige (`#DEB887`)
+
+## Birthday Color for August 26: Dark Beige (`#DEB887`)
 
 ### 1. Description of Dark Beige (Feeling and Traits)
 
@@ -35,7 +41,7 @@ Those born with **Dark Beige** as their color are often **deep thinkers** with a
 
 ### 4. Plus Tip (Destiny Color)
 
-To enhance the natural **wisdom** and **pragmatism** of **Dark Beige**, consider pairing it with **True Navy**, the birthday color of January 14th. **True Navy**, with its sincerity and deep devotion, combines beautifully with **Dark Beige** to create a sense of **grounded stability** and **trustworthy elegance**. Together, they form a **timeless** and **powerful duo** that reflects both **thoughtful introspection** and a sense of **deep-rooted reliability**.
+To enhance the natural **wisdom** and **pragmatism** of **Dark Beige**, consider pairing it with **True Navy**, the birthday color of January 14. **True Navy**, with its sincerity and deep devotion, combines beautifully with **Dark Beige** to create a sense of **grounded stability** and **trustworthy elegance**. Together, they form a **timeless** and **powerful duo** that reflects both **thoughtful introspection** and a sense of **deep-rooted reliability**.
 
 ### 5. Conclusion (A Poem of Healing)
 

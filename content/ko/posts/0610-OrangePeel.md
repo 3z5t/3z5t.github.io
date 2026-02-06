@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjDqcK1eMqLIzdj7dZvxawFgLsjE_-pR_IcJ4t7vAXTaVe-Ust6nUsgOq9C7hP0CcOQTXOy9837bk0eLpm5RmFw_zuGkz_jbGM_OwwQ1QzptwPLS38fBYKap3kKlY5HOjIaLhlIO9ua455uuuoTiXK82AQsg0lhdF_LxmqWAyTHkMyAEuYKyj9O39AD0IEv=s1600)
+
 ## 6월 10일의 탄생색: 오렌지 필 (`#FF9900`)
 
 ### 1. 오렌지 필에 대한 설명: 껍질 속에 응축된 태양의 알갱이

@@ -16,6 +16,9 @@ profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
+
+![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgvPBKDPdWqkyjB7l789aS2dqfw80LfxqxIamSPJoS1TPiqX6jz9gFDyqi8ZXK2EEKc7HkjBOdzGDpmMCMiUoeqIsCNIjagURBHAnIHFv_NSDUZob3NVHgarlOK4d6HXILfFAEhKx87Iwz9yEzVGxO4tWs9p6N9B66hBEYCPptaHmf1L73Fp2UHvUq6PlXJ=s1600)
+
 ## 6월 4일의 탄생색: 복숭아 요거트 (`#FFC1B5`)
 
 ### 1. 복숭아 요거트에 대한 설명: 순백의 우유에 스며든 과일의 설렘
