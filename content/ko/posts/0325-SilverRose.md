@@ -9,16 +9,16 @@ tags:
   - "3월"
   - "be8c92"
 description: "오늘의 탄생색, 실버 로즈. '품위있음, 고급스러움, 성숙함'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiWZ7MWUp3l7pazz60cs75mm2wv0QQebp0DX7sw5hWjOuL0PqmdM2T-2t_hya-0A-TUsJHv4pqGQdJTBktji2_uFzb6dBH3svLdCFz0omWNbcg3cKfiWQpQEQmUFWlZJjZegQtkRiLvTtubF8qsfuV5NLd7pGY90QdSP8Weom12sNua3vEZQ9xIA84PxJT_=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiWZ7MWUp3l7pazz60cs75mm2wv0QQebp0DX7sw5hWjOuL0PqmdM2T-2t_hya-0A-TUsJHv4pqGQdJTBktji2_uFzb6dBH3svLdCFz0omWNbcg3cKfiWQpQEQmUFWlZJjZegQtkRiLvTtubF8qsfuV5NLd7pGY90QdSP8Weom12sNua3vEZQ9xIA84PxJT_=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Silver Rose"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiWZ7MWUp3l7pazz60cs75mm2wv0QQebp0DX7sw5hWjOuL0PqmdM2T-2t_hya-0A-TUsJHv4pqGQdJTBktji2_uFzb6dBH3svLdCFz0omWNbcg3cKfiWQpQEQmUFWlZJjZegQtkRiLvTtubF8qsfuV5NLd7pGY90QdSP8Weom12sNua3vEZQ9xIA84PxJT_=s1600)
-
 ## 3월 25일의 탄생색: 실버 로즈 (`#BE8C92`)
 
 ### 1. 실버 로즈에 대한 설명 (색의 느낌과 특징)

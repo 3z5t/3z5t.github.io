@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "dfdcdd"
 description: "오늘의 탄생색, 생크림. '순수함, 부드러움, 깨끗함'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEikDIi5jyaHAiGyJqiaiH7pb5y4mW3tcgeHEZwS8xutE4tUVf7HFdPL3DOSeGp74egWfqGcz1-qAz5YW3zlaRsO_DpBr7qs1Bg-ksEcBbQpEzMbeJyNy9vbV0l7sOeuH9Nd3BGIzdSy28Cty99P0qzXcq6WcQKyiWru-hBlZVUmjoM13en2lOWOSUHOspeB=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEikDIi5jyaHAiGyJqiaiH7pb5y4mW3tcgeHEZwS8xutE4tUVf7HFdPL3DOSeGp74egWfqGcz1-qAz5YW3zlaRsO_DpBr7qs1Bg-ksEcBbQpEzMbeJyNy9vbV0l7sOeuH9Nd3BGIzdSy28Cty99P0qzXcq6WcQKyiWru-hBlZVUmjoM13en2lOWOSUHOspeB=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Whipped Cream"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEikDIi5jyaHAiGyJqiaiH7pb5y4mW3tcgeHEZwS8xutE4tUVf7HFdPL3DOSeGp74egWfqGcz1-qAz5YW3zlaRsO_DpBr7qs1Bg-ksEcBbQpEzMbeJyNy9vbV0l7sOeuH9Nd3BGIzdSy28Cty99P0qzXcq6WcQKyiWru-hBlZVUmjoM13en2lOWOSUHOspeB=s1600)
-
 ## 8월 6일의 탄생색: 생크림 (`#DFDCDD`)
 
 ### 1. 생크림에 대한 설명: 입안에서 녹아내리는 구름 같은 휴식

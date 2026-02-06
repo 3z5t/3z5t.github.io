@@ -14,13 +14,13 @@ tags:
 postId: '7020474551175033759'
 postUrl: https://the366days-ko.blogspot.com/2026/01/1-27-silver-blue.html
 profileName: 하루의 조각
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhL-NKML1IHlJlvA31YV56Qy91LTmbkp3KENXuO0d-PlVG7xIAspmGJiHlfSe_h75wA971BxmBeZ9aeNhusZzLp5bkUdO6c0SDOLmP4X4QDQrog5gbG_fJ0Eh33sjqeLCRanKblMwRaLq0l10yJ94l7aDLlPIUd6Dw6cXNSGDn40fLYxJD1Oo4NJaXlJ3FY=s1600
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhL-NKML1IHlJlvA31YV56Qy91LTmbkp3KENXuO0d-PlVG7xIAspmGJiHlfSe_h75wA971BxmBeZ9aeNhusZzLp5bkUdO6c0SDOLmP4X4QDQrog5gbG_fJ0Eh33sjqeLCRanKblMwRaLq0l10yJ94l7aDLlPIUd6Dw6cXNSGDn40fLYxJD1Oo4NJaXlJ3FY=s1600"
+  alt: "오늘의 색"
+  relative: false
 title: '1월 27일, 오늘을 닮은 색: 실버 블루'
 updated: '2026-01-27'
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhL-NKML1IHlJlvA31YV56Qy91LTmbkp3KENXuO0d-PlVG7xIAspmGJiHlfSe_h75wA971BxmBeZ9aeNhusZzLp5bkUdO6c0SDOLmP4X4QDQrog5gbG_fJ0Eh33sjqeLCRanKblMwRaLq0l10yJ94l7aDLlPIUd6Dw6cXNSGDn40fLYxJD1Oo4NJaXlJ3FY=s1600)
-
 
 **1월 27일의 탄생색: 실버 블루 (#ABB5C1)**
 

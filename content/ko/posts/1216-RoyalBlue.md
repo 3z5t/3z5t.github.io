@@ -9,16 +9,16 @@ tags:
   - "12월"
   - "1b76d8"
 description: "오늘의 탄생색, 로얄 블루. '깊이있는, 품격있는, 심오한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhoayXTI4HMwViS3D_G6vgCe8N76BuGYWYPyE_FDX5tAdh6rNZa_0PBZG30GEvNTgxd5KzdKgEiVeEMYc5wPxUSEpfbbRWA1fzP-M3qrwf-iZpB7YFhAAaSmjAWpzumqpfDwT2YT3koHFaTunKHjH3wFrq1E-GYuy5drLPScs7HeSrMugbl9Vb0BhPDe9Tt=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhoayXTI4HMwViS3D_G6vgCe8N76BuGYWYPyE_FDX5tAdh6rNZa_0PBZG30GEvNTgxd5KzdKgEiVeEMYc5wPxUSEpfbbRWA1fzP-M3qrwf-iZpB7YFhAAaSmjAWpzumqpfDwT2YT3koHFaTunKHjH3wFrq1E-GYuy5drLPScs7HeSrMugbl9Vb0BhPDe9Tt=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Royal Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhoayXTI4HMwViS3D_G6vgCe8N76BuGYWYPyE_FDX5tAdh6rNZa_0PBZG30GEvNTgxd5KzdKgEiVeEMYc5wPxUSEpfbbRWA1fzP-M3qrwf-iZpB7YFhAAaSmjAWpzumqpfDwT2YT3koHFaTunKHjH3wFrq1E-GYuy5drLPScs7HeSrMugbl9Vb0BhPDe9Tt=s1600)
-
 ## 12월 16일의 탄생색: 로얄 블루 (`#1B76D8`)
 
 ### 1. 로얄 블루에 대한 설명 (색의 느낌과 특징)

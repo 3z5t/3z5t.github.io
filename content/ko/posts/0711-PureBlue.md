@@ -9,16 +9,16 @@ tags:
   - "7월"
   - "3333ff"
 description: "오늘의 탄생색, 퓨어 블루. '순수한열정, 깊이있는, 이상적인'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjer00Iu4X8FBgLBxfJLPR9RcqUnAqZiaDDb5qVS9Qnx8uNbzXuz2gCTnGYalAVB4ZII8btobrtmms6ijyv4_k7cNnAUgMLXZTkspXIxt688HfO3gdKaSKyPrY9VVLJCd3Mx7yjyg4cY9jMf3gOAWLZ3mwzHQi4x4_yWBP2NNr7ajhZh_ygbDQc91XUYfC0=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjer00Iu4X8FBgLBxfJLPR9RcqUnAqZiaDDb5qVS9Qnx8uNbzXuz2gCTnGYalAVB4ZII8btobrtmms6ijyv4_k7cNnAUgMLXZTkspXIxt688HfO3gdKaSKyPrY9VVLJCd3Mx7yjyg4cY9jMf3gOAWLZ3mwzHQi4x4_yWBP2NNr7ajhZh_ygbDQc91XUYfC0=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Pure Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjer00Iu4X8FBgLBxfJLPR9RcqUnAqZiaDDb5qVS9Qnx8uNbzXuz2gCTnGYalAVB4ZII8btobrtmms6ijyv4_k7cNnAUgMLXZTkspXIxt688HfO3gdKaSKyPrY9VVLJCd3Mx7yjyg4cY9jMf3gOAWLZ3mwzHQi4x4_yWBP2NNr7ajhZh_ygbDQc91XUYfC0=s1600)
-
 ## 7월 11일의 탄생색: 퓨어 블루 (`#3333FF`)
 
 ### 1. 퓨어 블루에 대한 설명: 가장 뜨거운 불꽃은 푸른색이다

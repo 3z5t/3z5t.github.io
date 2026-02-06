@@ -9,16 +9,16 @@ tags:
   - "4월"
   - "30ba8f"
 description: "오늘의 탄생색, 블루 그린. '조화로움, 균형감, 안정감'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhmIsfHs_sXMt51GKkFLOeBMhq7sSlLqvcAHMbzHVc979mowiKdzFKY5ZXur7x7VYHddV5K5DJWpR6h3LZGkyGwQPyyFcgDrUYzuerRCuc8jqbEnAfwnrv9veRsG1nRjdmI03QgqbvacPWjZBeTWIBA47XppMtkR-ezLms-qPZxWZ1sX8j3FPvShVSBLSrt=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhmIsfHs_sXMt51GKkFLOeBMhq7sSlLqvcAHMbzHVc979mowiKdzFKY5ZXur7x7VYHddV5K5DJWpR6h3LZGkyGwQPyyFcgDrUYzuerRCuc8jqbEnAfwnrv9veRsG1nRjdmI03QgqbvacPWjZBeTWIBA47XppMtkR-ezLms-qPZxWZ1sX8j3FPvShVSBLSrt=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Blue Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhmIsfHs_sXMt51GKkFLOeBMhq7sSlLqvcAHMbzHVc979mowiKdzFKY5ZXur7x7VYHddV5K5DJWpR6h3LZGkyGwQPyyFcgDrUYzuerRCuc8jqbEnAfwnrv9veRsG1nRjdmI03QgqbvacPWjZBeTWIBA47XppMtkR-ezLms-qPZxWZ1sX8j3FPvShVSBLSrt=s1600)
-
 ## 4월 8일의 탄생색: 블루 그린 (`#30BA8F`)
 
 ### 1. 블루 그린에 대한 설명 (색의 느낌과 특징)

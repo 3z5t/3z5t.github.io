@@ -9,16 +9,16 @@ tags:
   - "3월"
   - "ffb6c1"
 description: "오늘의 탄생색, 라이트 핑크. '순수함, 희망적, 긍정적'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjQNnhZloDiiPd-quM8mhGKhmv5XqAmy2qW4n2MWLdOWhKMzv2gELT7hoKIhkf1vX7EqeJwlyb7ggzZhLP2FEv8TysbLot71K4ceH0aQoXylXp2dApSQNh9uIB_illx6j335djEOHBhI2ch0b4hvI4gFeqyICuh7RjJAZzrWzLtQcSg4z6GT332-TIHEaDc=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjQNnhZloDiiPd-quM8mhGKhmv5XqAmy2qW4n2MWLdOWhKMzv2gELT7hoKIhkf1vX7EqeJwlyb7ggzZhLP2FEv8TysbLot71K4ceH0aQoXylXp2dApSQNh9uIB_illx6j335djEOHBhI2ch0b4hvI4gFeqyICuh7RjJAZzrWzLtQcSg4z6GT332-TIHEaDc=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Light Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjQNnhZloDiiPd-quM8mhGKhmv5XqAmy2qW4n2MWLdOWhKMzv2gELT7hoKIhkf1vX7EqeJwlyb7ggzZhLP2FEv8TysbLot71K4ceH0aQoXylXp2dApSQNh9uIB_illx6j335djEOHBhI2ch0b4hvI4gFeqyICuh7RjJAZzrWzLtQcSg4z6GT332-TIHEaDc=s1600)
-
 ## 3월 18일의 탄생색: 라이트 핑크 (`#FFB6C1`)
 
 ### 1. 라이트 핑크에 대한 설명 (색의 느낌과 특징)

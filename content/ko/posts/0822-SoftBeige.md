@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "ecbda4"
 description: "오늘의 탄생색, 소프트 베이지. '따스한마음, 포근함, 온화함'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg0ZwUBnwdY9NZlxhQ6t9Fva3MirQVkz7pFZmz_op9JI16FdOQp0zgG9i219wdubjFL2SSMcENXuv0dLhqdwnSjCXdbR55BpiqPAZEBvGie4oBi2DmtndX2RF8NOhI_ATSM2tGMGHmu3vSaUhVR4vlon56px1RE3phBkBImVRC8-O-HLogZFL-wEX_g5sq9=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEg0ZwUBnwdY9NZlxhQ6t9Fva3MirQVkz7pFZmz_op9JI16FdOQp0zgG9i219wdubjFL2SSMcENXuv0dLhqdwnSjCXdbR55BpiqPAZEBvGie4oBi2DmtndX2RF8NOhI_ATSM2tGMGHmu3vSaUhVR4vlon56px1RE3phBkBImVRC8-O-HLogZFL-wEX_g5sq9=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Soft Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg0ZwUBnwdY9NZlxhQ6t9Fva3MirQVkz7pFZmz_op9JI16FdOQp0zgG9i219wdubjFL2SSMcENXuv0dLhqdwnSjCXdbR55BpiqPAZEBvGie4oBi2DmtndX2RF8NOhI_ATSM2tGMGHmu3vSaUhVR4vlon56px1RE3phBkBImVRC8-O-HLogZFL-wEX_g5sq9=s1600)
-
 ## 8월 22일의 탄생색: 소프트 베이지 (`#ECBDA4`)
 
 ### 1. 소프트 베이지에 대한 설명: 체온을 닮은 가장 다정한 색

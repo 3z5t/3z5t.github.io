@@ -11,16 +11,16 @@ tags:
   - f2f1f1
   - 1월
 description: 오늘의 탄생색, 스노우 화이트. '창조적, 순수함, 새로움'이라는 의미를 담고 있어요.
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgdWav3vdn9l7EvWY8tIuMUpYWUDk11WfO7JSZzqJ-pxGRy3gO2QrxBkaaStDUYN-CC7mRTfAUqzDHgkwvT5ffffodUUIUfL2bKpPWFHqgkTYDQ9rSTOTpewOI2pALZi94WbvOPsg2roq4OuoWJMxDvcSw8mvouuNPLnEwa0GkRU6pB3WnWUWqtWZrrYf6q=s1600
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgdWav3vdn9l7EvWY8tIuMUpYWUDk11WfO7JSZzqJ-pxGRy3gO2QrxBkaaStDUYN-CC7mRTfAUqzDHgkwvT5ffffodUUIUfL2bKpPWFHqgkTYDQ9rSTOTpewOI2pALZi94WbvOPsg2roq4OuoWJMxDvcSw8mvouuNPLnEwa0GkRU6pB3WnWUWqtWZrrYf6q=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: Snow White
 author: 하루의 조각
 profileName: 하루의 조각
 postId: "4472952606261953637"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgdWav3vdn9l7EvWY8tIuMUpYWUDk11WfO7JSZzqJ-pxGRy3gO2QrxBkaaStDUYN-CC7mRTfAUqzDHgkwvT5ffffodUUIUfL2bKpPWFHqgkTYDQ9rSTOTpewOI2pALZi94WbvOPsg2roq4OuoWJMxDvcSw8mvouuNPLnEwa0GkRU6pB3WnWUWqtWZrrYf6q=s1600)
-
 
 ## 1월 1일의 탄생색: 스노우 화이트 (`#F2F1F1`)
 

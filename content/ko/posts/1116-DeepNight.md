@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "1a161f"
 description: "오늘의 탄생색, 깊은 밤. '고요한영혼, 평화로운, 사색적인'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjefr8b-KiMo2_TAOZBxnb3VGxGLL-H5YqH-6LlmjOq_JMVRuIE209ourj0vSDVPEONMwZiGuKNNXIDfULzJPaIr0vVnz5yMKo47VW0jlaqqSxhbgkdSEykpq5vnX6_Why8IAOs2Ol_nk8_XtVvLPbeblEIQEpSk0pXrKJEnQMWEk9h8qGWtMKch77z-fd-=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjefr8b-KiMo2_TAOZBxnb3VGxGLL-H5YqH-6LlmjOq_JMVRuIE209ourj0vSDVPEONMwZiGuKNNXIDfULzJPaIr0vVnz5yMKo47VW0jlaqqSxhbgkdSEykpq5vnX6_Why8IAOs2Ol_nk8_XtVvLPbeblEIQEpSk0pXrKJEnQMWEk9h8qGWtMKch77z-fd-=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Deep Night"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjefr8b-KiMo2_TAOZBxnb3VGxGLL-H5YqH-6LlmjOq_JMVRuIE209ourj0vSDVPEONMwZiGuKNNXIDfULzJPaIr0vVnz5yMKo47VW0jlaqqSxhbgkdSEykpq5vnX6_Why8IAOs2Ol_nk8_XtVvLPbeblEIQEpSk0pXrKJEnQMWEk9h8qGWtMKch77z-fd-=s1600)
-
 ## 11월 16일의 탄생색: 깊은 밤 (`#1A161F`)
 
 ### 1. 깊은 밤에 대한 설명: 모든 빛이 잠들고 영혼이 깨어나는 시간

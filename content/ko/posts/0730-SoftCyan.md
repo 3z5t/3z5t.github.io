@@ -9,16 +9,16 @@ tags:
   - "7월"
   - "6ec5ef"
 description: "오늘의 탄생색, 소프트 시안. '상쾌한성격, 청량감, 밝은마음'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhf4CnDlJlWNZd7_x6lhmaANvWmXgK7hfieDSICAgxFSKpX1WZAlTuyIdMf6FtTc8bRsed8_nQVasMSRLlc7Zm6NAKThBJUYLcEH-Jy_AH2ha4FzNI7AbSoHnjgRRMVXE864XqhU_sIyZR15wHyhIYMegPy8H_29mJ0cHvL3S1uHA4mPq5-z9iYFee8wiI5=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhf4CnDlJlWNZd7_x6lhmaANvWmXgK7hfieDSICAgxFSKpX1WZAlTuyIdMf6FtTc8bRsed8_nQVasMSRLlc7Zm6NAKThBJUYLcEH-Jy_AH2ha4FzNI7AbSoHnjgRRMVXE864XqhU_sIyZR15wHyhIYMegPy8H_29mJ0cHvL3S1uHA4mPq5-z9iYFee8wiI5=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Soft Cyan"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhf4CnDlJlWNZd7_x6lhmaANvWmXgK7hfieDSICAgxFSKpX1WZAlTuyIdMf6FtTc8bRsed8_nQVasMSRLlc7Zm6NAKThBJUYLcEH-Jy_AH2ha4FzNI7AbSoHnjgRRMVXE864XqhU_sIyZR15wHyhIYMegPy8H_29mJ0cHvL3S1uHA4mPq5-z9iYFee8wiI5=s1600)
-
 ## 7월 30일의 탄생색: 소프트 시안 (`#6EC5EF`)
 
 ### 1. 소프트 시안에 대한 설명: 구름 위를 걷는 듯한 가장 부드러운 자유

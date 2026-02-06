@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "fff3d4"
 description: "오늘의 탄생색, 아이보리. '지혜로운, 고전적, 품위있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhJCJkWwacWopYTyX12rRhJGLoDq5D5C20x3BknEb9lAKbEVQ6n1BstXlV4rb-KbDNjYGGhMMixBq6NcgdNL1ccE_aMp6DFYzrhCJiZHwF5_09rhe3irGAnJxJTow1lSfAQs1VFZ60aS_-Q-c3eMCFdtSFGxeFTX7KazJT_bXHdm0gElD2AuE9QImZIvjmQ=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhJCJkWwacWopYTyX12rRhJGLoDq5D5C20x3BknEb9lAKbEVQ6n1BstXlV4rb-KbDNjYGGhMMixBq6NcgdNL1ccE_aMp6DFYzrhCJiZHwF5_09rhe3irGAnJxJTow1lSfAQs1VFZ60aS_-Q-c3eMCFdtSFGxeFTX7KazJT_bXHdm0gElD2AuE9QImZIvjmQ=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Ivory"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhJCJkWwacWopYTyX12rRhJGLoDq5D5C20x3BknEb9lAKbEVQ6n1BstXlV4rb-KbDNjYGGhMMixBq6NcgdNL1ccE_aMp6DFYzrhCJiZHwF5_09rhe3irGAnJxJTow1lSfAQs1VFZ60aS_-Q-c3eMCFdtSFGxeFTX7KazJT_bXHdm0gElD2AuE9QImZIvjmQ=s1600)
-
 ## 8월 11일의 탄생색: 아이보리 (`#FFF3D4`)
 
 ### 1. 아이보리에 대한 설명: 세월이 빚어낸 가장 우아한 온기

@@ -11,16 +11,16 @@ tags:
   - "54"
   - 1월
 description: 오늘의 탄생색, 클래식 네이비. '신념, 책임감, 통솔력'이라는 의미를 담고 있어요.
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhPulYYTu2ExXLEGuAqI1-8R3Sq1EBrkYWq6k4B2dzfev7khFX6AAEc9vN3cdfKnbQvAd748if7yuhuLLP5xPDw0IXn4ufQ3QrM0LBSd3PpAF7goGq7Vfy9G4dplnW74U25TCVPrTQWaI4FTXefa0yqeVwcm8lvV9NfloYwvIdMV2_NZXTMxE3-2V8zzWTD=s1600
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhPulYYTu2ExXLEGuAqI1-8R3Sq1EBrkYWq6k4B2dzfev7khFX6AAEc9vN3cdfKnbQvAd748if7yuhuLLP5xPDw0IXn4ufQ3QrM0LBSd3PpAF7goGq7Vfy9G4dplnW74U25TCVPrTQWaI4FTXefa0yqeVwcm8lvV9NfloYwvIdMV2_NZXTMxE3-2V8zzWTD=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: Classic Navy
 author: 하루의 조각
 profileName: 하루의 조각
 postId: "1004"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhPulYYTu2ExXLEGuAqI1-8R3Sq1EBrkYWq6k4B2dzfev7khFX6AAEc9vN3cdfKnbQvAd748if7yuhuLLP5xPDw0IXn4ufQ3QrM0LBSd3PpAF7goGq7Vfy9G4dplnW74U25TCVPrTQWaI4FTXefa0yqeVwcm8lvV9NfloYwvIdMV2_NZXTMxE3-2V8zzWTD=s1600)
-
 
 **1월 6일의 탄생색: 클래식 네이비 (#000066)**
 

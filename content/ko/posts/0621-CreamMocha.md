@@ -9,16 +9,16 @@ tags:
   - "6월"
   - "d19a71"
 description: "오늘의 탄생색, 크림 모카. '여유로움, 평화로움, 안정감'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjE15fIbmZKYND0sf7yhCiUQcl4ZDaiV3ixKhTejSUEou7DmmWQsh1FmWCrIAhrPvX2A-l0l7t23KriCMwnjEtZY9_v9n8xML5TBPEpfHTjaK-kSqLlgFBy3JWiqEl7iJdLQcuOxAjDLgZaODXZJ7BnFGVAsAbDywUYwTHPY-ZRwDA46xicvlDSPrkui8Xj=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjE15fIbmZKYND0sf7yhCiUQcl4ZDaiV3ixKhTejSUEou7DmmWQsh1FmWCrIAhrPvX2A-l0l7t23KriCMwnjEtZY9_v9n8xML5TBPEpfHTjaK-kSqLlgFBy3JWiqEl7iJdLQcuOxAjDLgZaODXZJ7BnFGVAsAbDywUYwTHPY-ZRwDA46xicvlDSPrkui8Xj=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Cream Mocha"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjE15fIbmZKYND0sf7yhCiUQcl4ZDaiV3ixKhTejSUEou7DmmWQsh1FmWCrIAhrPvX2A-l0l7t23KriCMwnjEtZY9_v9n8xML5TBPEpfHTjaK-kSqLlgFBy3JWiqEl7iJdLQcuOxAjDLgZaODXZJ7BnFGVAsAbDywUYwTHPY-ZRwDA46xicvlDSPrkui8Xj=s1600)
-
 ## 6월 21일의 탄생색: 크림 모카 (`#D19A71`)
 
 ### 1. 크림 모카에 대한 설명: 나른한 오후, 입가에 머무는 부드러운 휴식

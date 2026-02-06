@@ -11,16 +11,16 @@ tags:
   - 00009b
   - 1월
 description: 오늘의 탄생색, 로얄 코발트. '선구자적, 선도력, 도전정신'이라는 의미를 담고 있어요.
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEj4ykpKQVmCVYHE7699z5xQjccjWzKz07N6NNw51rxilyVkUwQAOGFFk8pkx9YXP0-qWuIxPTCGchAMXr6Du5SV0JVa9PTMA198ioOOjWh1JZ72xGMI21ORN1Iq8eLwZRD7wJBJQZkzOLCe0LYRHo6BhVl6fPpeZTbukwSghLglOxij2NA-_MeTR1jdRXkx=s1600
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEj4ykpKQVmCVYHE7699z5xQjccjWzKz07N6NNw51rxilyVkUwQAOGFFk8pkx9YXP0-qWuIxPTCGchAMXr6Du5SV0JVa9PTMA198ioOOjWh1JZ72xGMI21ORN1Iq8eLwZRD7wJBJQZkzOLCe0LYRHo6BhVl6fPpeZTbukwSghLglOxij2NA-_MeTR1jdRXkx=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: Royal Cobalt
 author: 하루의 조각
 profileName: 하루의 조각
 postId: "1004"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj4ykpKQVmCVYHE7699z5xQjccjWzKz07N6NNw51rxilyVkUwQAOGFFk8pkx9YXP0-qWuIxPTCGchAMXr6Du5SV0JVa9PTMA198ioOOjWh1JZ72xGMI21ORN1Iq8eLwZRD7wJBJQZkzOLCe0LYRHo6BhVl6fPpeZTbukwSghLglOxij2NA-_MeTR1jdRXkx=s1600)
-
 
 **1월 5일의 탄생색: 로얄 코발트 (#00009B)**
 

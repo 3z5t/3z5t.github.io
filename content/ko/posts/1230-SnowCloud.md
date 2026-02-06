@@ -9,16 +9,16 @@ tags:
   - "12월"
   - "f1f5f7"
 description: "오늘의 탄생색, 스노우 클라우드. '깊이있는, 고요한, 신비로운'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjnqvyrTA9Ua_9jeDifGkOVLBTanq7B_61i9NVihxeUHBijLsHuXz9wVPA0dSHHi8lNK1V6u-qEEVrV5DiUKlWyceCtNJUeO4a5XSk26HS2Ep1ROxIaKFXTRwrFHF3EwSmckvMecitru5LF5X-MPbffTOgg0aZ-pLhF6bBItNBORXJuKr0vgk4-Mp8Ygcja=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjnqvyrTA9Ua_9jeDifGkOVLBTanq7B_61i9NVihxeUHBijLsHuXz9wVPA0dSHHi8lNK1V6u-qEEVrV5DiUKlWyceCtNJUeO4a5XSk26HS2Ep1ROxIaKFXTRwrFHF3EwSmckvMecitru5LF5X-MPbffTOgg0aZ-pLhF6bBItNBORXJuKr0vgk4-Mp8Ygcja=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Snow Cloud"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjnqvyrTA9Ua_9jeDifGkOVLBTanq7B_61i9NVihxeUHBijLsHuXz9wVPA0dSHHi8lNK1V6u-qEEVrV5DiUKlWyceCtNJUeO4a5XSk26HS2Ep1ROxIaKFXTRwrFHF3EwSmckvMecitru5LF5X-MPbffTOgg0aZ-pLhF6bBItNBORXJuKr0vgk4-Mp8Ygcja=s1600)
-
 ## 12월 30일의 탄생색: 스노우 클라우드 (`#F1F5F7`)
 
 ### 1. 스노우 클라우드에 대한 설명 (색의 느낌과 특징)

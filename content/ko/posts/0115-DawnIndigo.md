@@ -11,16 +11,16 @@ tags:
   - 2c3c57
   - 1월
 description: 오늘의 탄생색, 새벽 쪽빛. '예술성, 문화적, 창의성'이라는 의미를 담고 있어요.
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEh7D0zWeDrIf2-dGf_LHTDSm9cEMZIxerFuezlPUzjZQSvv2fxpHQtEXhnbNfRgcvbNfPcQ248Z1GAFbta0JST_n6y-aFl2v5_g4Qk8PGc2A7XhCTNroB2HdRrLQxjpCo3sQt3TMUBGJfjRUHSuGRWc8xNaPA8zHSzQiUa7dqEFTBqNUCWz3nA4yr9Yxt6w=s1600
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh7D0zWeDrIf2-dGf_LHTDSm9cEMZIxerFuezlPUzjZQSvv2fxpHQtEXhnbNfRgcvbNfPcQ248Z1GAFbta0JST_n6y-aFl2v5_g4Qk8PGc2A7XhCTNroB2HdRrLQxjpCo3sQt3TMUBGJfjRUHSuGRWc8xNaPA8zHSzQiUa7dqEFTBqNUCWz3nA4yr9Yxt6w=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: Dawn Indigo
 author: 하루의 조각
 profileName: 하루의 조각
 postId: "7097829914813912120"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh7D0zWeDrIf2-dGf_LHTDSm9cEMZIxerFuezlPUzjZQSvv2fxpHQtEXhnbNfRgcvbNfPcQ248Z1GAFbta0JST_n6y-aFl2v5_g4Qk8PGc2A7XhCTNroB2HdRrLQxjpCo3sQt3TMUBGJfjRUHSuGRWc8xNaPA8zHSzQiUa7dqEFTBqNUCWz3nA4yr9Yxt6w=s1600)
-
 
 **1월 15일의 탄생색: 새벽 쪽빛 (#2C3C57)**
 

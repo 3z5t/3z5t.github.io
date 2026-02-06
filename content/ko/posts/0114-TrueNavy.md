@@ -11,16 +11,16 @@ tags:
   - 313c75
   - 1월
 description: 오늘의 탄생색, 트루 네이비. '성실성, 진실성, 헌신적'이라는 의미를 담고 있어요.
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhs8-MfNvx1VoTJEOUdAd1sRqTtjFBw7ctKnakACBW_duyXMDkJedGsYqBirpKJW1yM6cFXpwq8ctyEW5A_teKqCVH-ihR9sgkyn_mvA9Jgw_ayGkzT3YhQ4BC2qCp9MXEctQrkt5PqFexHFqiXNTGo0D9pCm3cw5kFdIhBtBiCwNYdUS6VCnwzladhDSr9=s1600
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhs8-MfNvx1VoTJEOUdAd1sRqTtjFBw7ctKnakACBW_duyXMDkJedGsYqBirpKJW1yM6cFXpwq8ctyEW5A_teKqCVH-ihR9sgkyn_mvA9Jgw_ayGkzT3YhQ4BC2qCp9MXEctQrkt5PqFexHFqiXNTGo0D9pCm3cw5kFdIhBtBiCwNYdUS6VCnwzladhDSr9=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: True Navy
 author: 하루의 조각
 profileName: 하루의 조각
 postId: "7865018355503451515"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhs8-MfNvx1VoTJEOUdAd1sRqTtjFBw7ctKnakACBW_duyXMDkJedGsYqBirpKJW1yM6cFXpwq8ctyEW5A_teKqCVH-ihR9sgkyn_mvA9Jgw_ayGkzT3YhQ4BC2qCp9MXEctQrkt5PqFexHFqiXNTGo0D9pCm3cw5kFdIhBtBiCwNYdUS6VCnwzladhDSr9=s1600)
-
 
 **1월 14일의 탄생색: 트루 네이비 (#313C75)**
 

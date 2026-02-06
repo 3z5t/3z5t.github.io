@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "ffffe0"
 description: "오늘의 탄생색, 상아 (Ivory). '자유로운영혼, 평화로움, 고귀함'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg9S4-3baMnNHb_EulzThA2AhKmv70ehDl6kJmtTwpL0jA7S-MB3K8GrPiMI9nL2wcWnpSC1bFxGJG2AUeYu-OT20BlFylZ6N9PlhxjZVFpKwHgbS3LJktD9lN00izTjLfEjK46TzAUKrtITx-VcMDD3-qNsnVN74Miac9HoKNN0N6Im_PNhd7vAiAnwdT-=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEg9S4-3baMnNHb_EulzThA2AhKmv70ehDl6kJmtTwpL0jA7S-MB3K8GrPiMI9nL2wcWnpSC1bFxGJG2AUeYu-OT20BlFylZ6N9PlhxjZVFpKwHgbS3LJktD9lN00izTjLfEjK46TzAUKrtITx-VcMDD3-qNsnVN74Miac9HoKNN0N6Im_PNhd7vAiAnwdT-=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Ivory"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg9S4-3baMnNHb_EulzThA2AhKmv70ehDl6kJmtTwpL0jA7S-MB3K8GrPiMI9nL2wcWnpSC1bFxGJG2AUeYu-OT20BlFylZ6N9PlhxjZVFpKwHgbS3LJktD9lN00izTjLfEjK46TzAUKrtITx-VcMDD3-qNsnVN74Miac9HoKNN0N6Im_PNhd7vAiAnwdT-=s1600)
-
 ## 8월 15일의 탄생색: 상아 (Ivory) (`#FFFFE0`)
 
 ### 1. 상아 (Ivory)에 대한 설명: 구속받지 않는 영혼의 가장 맑은 빛

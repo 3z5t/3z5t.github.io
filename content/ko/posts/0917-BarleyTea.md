@@ -9,16 +9,16 @@ tags:
   - "9월"
   - "bd844b"
 description: "오늘의 탄생색, 보리차. '전통적인, 익숙한듯새로운, 포용력있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjivmiZn0om-HVPAKBYlP_V6kdY9xKE3lmRiUijwSb2IPGRCnAJxgltUtAw4-yUjeO06FPbYP8O7iiqHXYDTboN05dpo5mo0M_VNTJB7UCJEmNhu2NRtKNv7Qqp_TQgcg2I_XFdtIwNjLjvOe2Wj7tYlIosyUYo-j_8uhtCCDt7vS3g9afDQ_yGcEj14qhc=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjivmiZn0om-HVPAKBYlP_V6kdY9xKE3lmRiUijwSb2IPGRCnAJxgltUtAw4-yUjeO06FPbYP8O7iiqHXYDTboN05dpo5mo0M_VNTJB7UCJEmNhu2NRtKNv7Qqp_TQgcg2I_XFdtIwNjLjvOe2Wj7tYlIosyUYo-j_8uhtCCDt7vS3g9afDQ_yGcEj14qhc=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Barley Tea"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjivmiZn0om-HVPAKBYlP_V6kdY9xKE3lmRiUijwSb2IPGRCnAJxgltUtAw4-yUjeO06FPbYP8O7iiqHXYDTboN05dpo5mo0M_VNTJB7UCJEmNhu2NRtKNv7Qqp_TQgcg2I_XFdtIwNjLjvOe2Wj7tYlIosyUYo-j_8uhtCCDt7vS3g9afDQ_yGcEj14qhc=s1600)
-
 ## 9월 17일의 탄생색: 보리차 (`#BD844B`)
 
 ### 1. 보리차에 대한 설명: 일상에 스며든 가장 구수한 위로

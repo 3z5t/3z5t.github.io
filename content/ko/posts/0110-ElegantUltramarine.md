@@ -11,16 +11,16 @@ tags:
   - 445b97
   - 1월
 description: 오늘의 탄생색, 단아한 군청. '신뢰성, 충성심, 정직함'이라는 의미를 담고 있어요.
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEh1aFCLkOgubiQj3dWyec7bCYAd6lJewv4Z18rhC9jBUFHylzF4TjBnK7rhw2VL_wjyEIh6N6XDEt8gtUuRTVW3A2I9YBaxkk6WZWxj-Tmy_0TMQgOzGSpqTmKiY1HawJrLuLTiPRX1PU_aa6vD895ucChtl1I_X3wkFSwTZdp1ljmocODKHIEzxdfJY0Uc=s1600
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh1aFCLkOgubiQj3dWyec7bCYAd6lJewv4Z18rhC9jBUFHylzF4TjBnK7rhw2VL_wjyEIh6N6XDEt8gtUuRTVW3A2I9YBaxkk6WZWxj-Tmy_0TMQgOzGSpqTmKiY1HawJrLuLTiPRX1PU_aa6vD895ucChtl1I_X3wkFSwTZdp1ljmocODKHIEzxdfJY0Uc=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: Elegant Ultramarine
 author: 하루의 조각
 profileName: 하루의 조각
 postId: "1004"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh1aFCLkOgubiQj3dWyec7bCYAd6lJewv4Z18rhC9jBUFHylzF4TjBnK7rhw2VL_wjyEIh6N6XDEt8gtUuRTVW3A2I9YBaxkk6WZWxj-Tmy_0TMQgOzGSpqTmKiY1HawJrLuLTiPRX1PU_aa6vD895ucChtl1I_X3wkFSwTZdp1ljmocODKHIEzxdfJY0Uc=s1600)
-
 
 **1월 10일의 탄생색: 단아한 군청 (#445B97)**
 

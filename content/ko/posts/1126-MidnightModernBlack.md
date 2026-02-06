@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "1a1a1b"
 description: "오늘의 탄생색, 미드나잇 모던블랙. '현대적인, 세련된, 심플한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhnyzr_M-lugPxRpVI2B54BPuOaj-caSZj2vX7qd9hxYafD97Xy9-f-fjTy1iNEzax8qPyuG2eyJ_-OsREb7kYrXSSF0ypJrFVD6zs1PSZlsQGXMTGxyN50OYDnfdmAZnpPwZR5HHpw-6OhmiRdoAencUBaLNqQ5JdaKEGzHkqT2RvjDFZHWB7P1qLQuHPs=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhnyzr_M-lugPxRpVI2B54BPuOaj-caSZj2vX7qd9hxYafD97Xy9-f-fjTy1iNEzax8qPyuG2eyJ_-OsREb7kYrXSSF0ypJrFVD6zs1PSZlsQGXMTGxyN50OYDnfdmAZnpPwZR5HHpw-6OhmiRdoAencUBaLNqQ5JdaKEGzHkqT2RvjDFZHWB7P1qLQuHPs=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Midnight Modern Black"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhnyzr_M-lugPxRpVI2B54BPuOaj-caSZj2vX7qd9hxYafD97Xy9-f-fjTy1iNEzax8qPyuG2eyJ_-OsREb7kYrXSSF0ypJrFVD6zs1PSZlsQGXMTGxyN50OYDnfdmAZnpPwZR5HHpw-6OhmiRdoAencUBaLNqQ5JdaKEGzHkqT2RvjDFZHWB7P1qLQuHPs=s1600)
-
 ## 11월 26일의 탄생색: 미드나잇 모던블랙 (`#1A1A1B`)
 
 ### 1. 미드나잇 모던블랙에 대한 설명 (색의 느낌과 특징)

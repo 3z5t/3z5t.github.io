@@ -9,16 +9,16 @@ tags:
   - 2월
   - b58a7b
 description: 오늘의 탄생색, 브랜디 로즈. '독특함, 창의성, 개성'이라는 의미를 담고 있어요.
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEipyZg1OyNs67rS94-sJYzrtkC6beXn-wZ2Af3By5akry6nzKowo-6C-hknYMcWEN8FOahrjVtMcLthGpLwt3Wo0HYVHjwXHZ31orlZbkadY8AalXib7BQEPikgNNVeFgn46fud5_GZ6BdTGIfyed2bnFM-KzbYoPiOXpBebkT8raYiTr0Yz2U8_UPToP4H=s1600
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEipyZg1OyNs67rS94-sJYzrtkC6beXn-wZ2Af3By5akry6nzKowo-6C-hknYMcWEN8FOahrjVtMcLthGpLwt3Wo0HYVHjwXHZ31orlZbkadY8AalXib7BQEPikgNNVeFgn46fud5_GZ6BdTGIfyed2bnFM-KzbYoPiOXpBebkT8raYiTr0Yz2U8_UPToP4H=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: Brandy Rose
 author: 하루의 조각
 profileName: 하루의 조각
 postId: "6443676090545741573"
 postUrl: https://the366days-ko.blogspot.com
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEipyZg1OyNs67rS94-sJYzrtkC6beXn-wZ2Af3By5akry6nzKowo-6C-hknYMcWEN8FOahrjVtMcLthGpLwt3Wo0HYVHjwXHZ31orlZbkadY8AalXib7BQEPikgNNVeFgn46fud5_GZ6BdTGIfyed2bnFM-KzbYoPiOXpBebkT8raYiTr0Yz2U8_UPToP4H=s1600)
-
 
 ## 2월 29일의 탄생색: 브랜디 로즈 (`#B58A7B`)
 

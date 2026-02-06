@@ -9,16 +9,16 @@ tags:
   - "3월"
   - "66cc66"
 description: "오늘의 탄생색, 에메랄드. '생동감, 젊음, 창조성'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiil3RDl6WxQWAgPVOzK5LKDjXA52l9RNMCOyXps91nrsy1iPDMJRzNpTggNZ3LZl81ulL0-q7e6rQixPGd63SJMFan_aoSBvaiwophp81iksNHpLoy9pRbVKaFNXfCFWBWO-Gckc54XcUqRKDgZEMKtaZZDq5T41cswUnDw-w0xKGwN0ffS3fBws-CDt03=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiil3RDl6WxQWAgPVOzK5LKDjXA52l9RNMCOyXps91nrsy1iPDMJRzNpTggNZ3LZl81ulL0-q7e6rQixPGd63SJMFan_aoSBvaiwophp81iksNHpLoy9pRbVKaFNXfCFWBWO-Gckc54XcUqRKDgZEMKtaZZDq5T41cswUnDw-w0xKGwN0ffS3fBws-CDt03=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Emerald"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiil3RDl6WxQWAgPVOzK5LKDjXA52l9RNMCOyXps91nrsy1iPDMJRzNpTggNZ3LZl81ulL0-q7e6rQixPGd63SJMFan_aoSBvaiwophp81iksNHpLoy9pRbVKaFNXfCFWBWO-Gckc54XcUqRKDgZEMKtaZZDq5T41cswUnDw-w0xKGwN0ffS3fBws-CDt03=s1600)
-
 ## 3월 14일의 탄생색: 에메랄드 (`#66CC66`)
 
 ### 1. 에메랄드에 대한 설명 (색의 느낌과 특징)

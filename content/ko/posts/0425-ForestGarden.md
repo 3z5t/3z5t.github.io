@@ -9,16 +9,16 @@ tags:
   - "4월"
   - "317d61"
 description: "오늘의 탄생색, 포레스트 가든. '건강함, 활력적, 강인함'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjkapKYONYVPQqSX65rRkwmTJlTqvUdExgj1Z6PjcQwkl7kt267JOqoWkocVFn8tLMsmoJhz0wZRedvyx6AH3mARFbRlbDcBDaoA1npI0gFnaPQN_Mj8dw9TcH3axslvtrFdMK6iTATLMgJLSR2-5u0ulxx4-bEklbX1zK4ikmkviBFwur-g-lkHVHElaM4=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjkapKYONYVPQqSX65rRkwmTJlTqvUdExgj1Z6PjcQwkl7kt267JOqoWkocVFn8tLMsmoJhz0wZRedvyx6AH3mARFbRlbDcBDaoA1npI0gFnaPQN_Mj8dw9TcH3axslvtrFdMK6iTATLMgJLSR2-5u0ulxx4-bEklbX1zK4ikmkviBFwur-g-lkHVHElaM4=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Forest Garden"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjkapKYONYVPQqSX65rRkwmTJlTqvUdExgj1Z6PjcQwkl7kt267JOqoWkocVFn8tLMsmoJhz0wZRedvyx6AH3mARFbRlbDcBDaoA1npI0gFnaPQN_Mj8dw9TcH3axslvtrFdMK6iTATLMgJLSR2-5u0ulxx4-bEklbX1zK4ikmkviBFwur-g-lkHVHElaM4=s1600)
-
 ## 4월 25일의 탄생색: 포레스트 가든 (`#317D61`)
 
 ### 1. 포레스트 가든에 대한 설명 (색의 느낌과 특징)

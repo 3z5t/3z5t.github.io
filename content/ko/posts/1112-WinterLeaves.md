@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "706863"
 description: "오늘의 탄생색, 겨울 낙엽. '그리움을아는, 감성적인, 서정적인'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiLm0DU0DbbMoLiNvvnz7rE4lUoWmRB10b58NmDQnoj8vj6GJj_RBmph34iBcZmuNzZg-ZgMapQLySTfb_ZjNvGxPQ3F2Co95mjME6zB9r6_a89RMSxxvwijxxXneCL1AxuIDuy0VPni9EvYoJ1-0mx4oddGvHXuy2cnrnsO0QRJ0B9zIxOvS0MSk23WndM=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiLm0DU0DbbMoLiNvvnz7rE4lUoWmRB10b58NmDQnoj8vj6GJj_RBmph34iBcZmuNzZg-ZgMapQLySTfb_ZjNvGxPQ3F2Co95mjME6zB9r6_a89RMSxxvwijxxXneCL1AxuIDuy0VPni9EvYoJ1-0mx4oddGvHXuy2cnrnsO0QRJ0B9zIxOvS0MSk23WndM=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Winter Leaves"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiLm0DU0DbbMoLiNvvnz7rE4lUoWmRB10b58NmDQnoj8vj6GJj_RBmph34iBcZmuNzZg-ZgMapQLySTfb_ZjNvGxPQ3F2Co95mjME6zB9r6_a89RMSxxvwijxxXneCL1AxuIDuy0VPni9EvYoJ1-0mx4oddGvHXuy2cnrnsO0QRJ0B9zIxOvS0MSk23WndM=s1600)
-
 ## 11월 12일의 탄생색: 겨울 낙엽 (`#706863`)
 
 ### 1. 겨울 낙엽에 대한 설명: 지난 계절의 온기를 간직한 회색빛 갈색

@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "000033"
 description: "오늘의 탄생색, 미드나잇 네이비. '신비로운, 깊이있는, 고요한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEikjGspp2F5ZuFytjlKRClXoiVNQBmCaBtfpyhPEfZr3zRFB9wdDSQpa2b7wZmxBOoRiJAvrkNEWy9ZBKJfNrRu7n7vsTFVM1l-EgbrwSjZPYONY_wUHgQizcCCEPB6AWABz9pkjJMtkPBy2aYqBOUTd-be1I9ykCtN5ZModMVihVFr8uo5bPYEDdAUrou8=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEikjGspp2F5ZuFytjlKRClXoiVNQBmCaBtfpyhPEfZr3zRFB9wdDSQpa2b7wZmxBOoRiJAvrkNEWy9ZBKJfNrRu7n7vsTFVM1l-EgbrwSjZPYONY_wUHgQizcCCEPB6AWABz9pkjJMtkPBy2aYqBOUTd-be1I9ykCtN5ZModMVihVFr8uo5bPYEDdAUrou8=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Midnight Navy"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEikjGspp2F5ZuFytjlKRClXoiVNQBmCaBtfpyhPEfZr3zRFB9wdDSQpa2b7wZmxBOoRiJAvrkNEWy9ZBKJfNrRu7n7vsTFVM1l-EgbrwSjZPYONY_wUHgQizcCCEPB6AWABz9pkjJMtkPBy2aYqBOUTd-be1I9ykCtN5ZModMVihVFr8uo5bPYEDdAUrou8=s1600)
-
 ## 11월 21일의 탄생색: 미드나잇 네이비 (`#000033`)
 
 ### 1. 미드나잇 네이비에 대한 설명 (색의 느낌과 특징)

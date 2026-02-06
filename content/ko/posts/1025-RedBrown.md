@@ -9,16 +9,16 @@ tags:
   - "10월"
   - "6c1818"
 description: "오늘의 탄생색, 레드 브라운. '강인한의지, 단단한, 결단력있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhD-AUZ6XjDEoNgfyjmYUjG2Ym-9wR2m41oUW-Yv8wP-eGFy9qAfzi7BelnuFYio5KGjEW-wS8z6v4H5k1nKtd6HZ6JwcIea0bzZkRWdlBNWayjeSL7xBO1VysRTqQb2JBLVCdmcf0yFo7bJo95u4SDlCxB28b0-JwzJCgsvJGWT99yl1h8kqa9G9rgW1hx=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhD-AUZ6XjDEoNgfyjmYUjG2Ym-9wR2m41oUW-Yv8wP-eGFy9qAfzi7BelnuFYio5KGjEW-wS8z6v4H5k1nKtd6HZ6JwcIea0bzZkRWdlBNWayjeSL7xBO1VysRTqQb2JBLVCdmcf0yFo7bJo95u4SDlCxB28b0-JwzJCgsvJGWT99yl1h8kqa9G9rgW1hx=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Red Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhD-AUZ6XjDEoNgfyjmYUjG2Ym-9wR2m41oUW-Yv8wP-eGFy9qAfzi7BelnuFYio5KGjEW-wS8z6v4H5k1nKtd6HZ6JwcIea0bzZkRWdlBNWayjeSL7xBO1VysRTqQb2JBLVCdmcf0yFo7bJo95u4SDlCxB28b0-JwzJCgsvJGWT99yl1h8kqa9G9rgW1hx=s1600)
-
 ## 10월 25일의 탄생색: 레드 브라운 (`#6C1818`)
 
 ### 1. 레드 브라운에 대한 설명: 시련을 견디고 단단하게 굳어진 신념의 색

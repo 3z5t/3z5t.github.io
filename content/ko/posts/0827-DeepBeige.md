@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "d29e5c"
 description: "오늘의 탄생색, 진베이지. '풍부한감성, 깊이있는, 성숙한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiMUHIThmaDDZn-kZNFYE-ZgwNgSs8pKM6c_EmS3WGLSlSJIqkvOGl3bUMlq0BNFo-H94Hsz6KTG2ulFypqOWbRwlkwthkDpfqc23JBmW6IXF8gFCbnhLLRXVkrfyv7voPGZO5KQpZ_OHydZEXSBOwirDOSmXHJaoOszNAQvZB0-JVevNLr9VUXZGQzNq3v=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiMUHIThmaDDZn-kZNFYE-ZgwNgSs8pKM6c_EmS3WGLSlSJIqkvOGl3bUMlq0BNFo-H94Hsz6KTG2ulFypqOWbRwlkwthkDpfqc23JBmW6IXF8gFCbnhLLRXVkrfyv7voPGZO5KQpZ_OHydZEXSBOwirDOSmXHJaoOszNAQvZB0-JVevNLr9VUXZGQzNq3v=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Deep Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiMUHIThmaDDZn-kZNFYE-ZgwNgSs8pKM6c_EmS3WGLSlSJIqkvOGl3bUMlq0BNFo-H94Hsz6KTG2ulFypqOWbRwlkwthkDpfqc23JBmW6IXF8gFCbnhLLRXVkrfyv7voPGZO5KQpZ_OHydZEXSBOwirDOSmXHJaoOszNAQvZB0-JVevNLr9VUXZGQzNq3v=s1600)
-
 ## 8월 27일의 탄생색: 진베이지 (`#D29E5C`)
 
 ### 1. 진베이지에 대한 설명: 가을의 문턱에서 만나는 황금빛 노을

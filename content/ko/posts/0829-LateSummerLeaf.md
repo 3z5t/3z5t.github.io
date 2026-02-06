@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "566353"
 description: "오늘의 탄생색, 늦여름의 잎사귀. '성숙한, 깊이있는, 안정된'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjKxbdhc0vskCVXfBsSzHxAU7oRPzExFyoj3dEnV1cLz89oQ4lhDjkU4lHyna01r5HgoS6V_e6lm8n4gF7PlgGrldnPkIvGY1LQXWFCAjH8SBw9-xMgjJK_9tKMSr9B4n4cmwIb4CvlLb7yk1JwYq3Gay1RroShwE9J7D25esXtP5uE9zXDUWFS5k-xjcv-=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjKxbdhc0vskCVXfBsSzHxAU7oRPzExFyoj3dEnV1cLz89oQ4lhDjkU4lHyna01r5HgoS6V_e6lm8n4gF7PlgGrldnPkIvGY1LQXWFCAjH8SBw9-xMgjJK_9tKMSr9B4n4cmwIb4CvlLb7yk1JwYq3Gay1RroShwE9J7D25esXtP5uE9zXDUWFS5k-xjcv-=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Late Summer Leaf"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjKxbdhc0vskCVXfBsSzHxAU7oRPzExFyoj3dEnV1cLz89oQ4lhDjkU4lHyna01r5HgoS6V_e6lm8n4gF7PlgGrldnPkIvGY1LQXWFCAjH8SBw9-xMgjJK_9tKMSr9B4n4cmwIb4CvlLb7yk1JwYq3Gay1RroShwE9J7D25esXtP5uE9zXDUWFS5k-xjcv-=s1600)
-
 ## 8월 29일의 탄생색: 늦여름의 잎사귀 (`#566353`)
 
 ### 1. 늦여름의 잎사귀에 대한 설명: 계절의 깊이를 머금은 침묵의 초록

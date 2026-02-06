@@ -14,13 +14,13 @@ tags:
 postId: "2966704532723182057"
 postUrl: https://the366days-ko.blogspot.com/2026/01/1-11-steel-navy_01421601772.html
 profileName: 하루의 조각
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEj6ZRDcJc1cHAgI16z0_QanLZ_qrZX39QrJDdavWtB2b0MRg8WooYa63jbLwojL4bpNsjjROTn6fOIiuKG_lrGi5JCKikn9y33KMsJ0Evqf3mBt7rOHe1dYzVVthH-0-9L9V42aE-IPGt1R3iALgLOf27dtE_tpMYJfCQ9mrPFyG5DuRVj_ycS0tbSA56R7=s1600
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEj6ZRDcJc1cHAgI16z0_QanLZ_qrZX39QrJDdavWtB2b0MRg8WooYa63jbLwojL4bpNsjjROTn6fOIiuKG_lrGi5JCKikn9y33KMsJ0Evqf3mBt7rOHe1dYzVVthH-0-9L9V42aE-IPGt1R3iALgLOf27dtE_tpMYJfCQ9mrPFyG5DuRVj_ycS0tbSA56R7=s1600"
+  alt: "오늘의 색"
+  relative: false
 title: "1월 11일, 오늘을 닮은 색: 스틸 네이비"
 updated: 2026-01-11
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj6ZRDcJc1cHAgI16z0_QanLZ_qrZX39QrJDdavWtB2b0MRg8WooYa63jbLwojL4bpNsjjROTn6fOIiuKG_lrGi5JCKikn9y33KMsJ0Evqf3mBt7rOHe1dYzVVthH-0-9L9V42aE-IPGt1R3iALgLOf27dtE_tpMYJfCQ9mrPFyG5DuRVj_ycS0tbSA56R7=s1600)
-
 
 ![1월 11일, 오늘을 닮은 색: 스틸 네이비 (Steel Navy)](https://blogger.googleusercontent.com/img/a/AVvXsEj6ZRDcJc1cHAgI16z0_QanLZ_qrZX39QrJDdavWtB2b0MRg8WooYa63jbLwojL4bpNsjjROTn6fOIiuKG_lrGi5JCKikn9y33KMsJ0Evqf3mBt7rOHe1dYzVVthH-0-9L9V42aE-IPGt1R3iALgLOf27dtE_tpMYJfCQ9mrPFyG5DuRVj_ycS0tbSA56R7=s1600)
 

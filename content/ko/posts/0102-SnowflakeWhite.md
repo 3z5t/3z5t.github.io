@@ -11,16 +11,16 @@ tags:
   - f2edf3
   - 1월
 description: 오늘의 탄생색, 눈꽃 화이트. '청렴함, 이상적, 온순함'이라는 의미를 담고 있어요.
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEji6YxdORHb2a7fqbX3frcSj2ffw7tlebbc_Ad5RnOVUfeidbTlWJbAxCji6s7LU_WQmbGc60TaQWZYwajcBBMdWEc9ZpPJ2O-3zFWis5MHMhcScAf6OgsLosATGyLFPTZBe6qcAYU4buQKqez__hu52-umk-ShjFap2Nhg1cxRfOw4iOgVR22hopPREbzE=s1600
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEji6YxdORHb2a7fqbX3frcSj2ffw7tlebbc_Ad5RnOVUfeidbTlWJbAxCji6s7LU_WQmbGc60TaQWZYwajcBBMdWEc9ZpPJ2O-3zFWis5MHMhcScAf6OgsLosATGyLFPTZBe6qcAYU4buQKqez__hu52-umk-ShjFap2Nhg1cxRfOw4iOgVR22hopPREbzE=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: Snowflake White
 author: 하루의 조각
 profileName: 하루의 조각
 postId: "1004"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEji6YxdORHb2a7fqbX3frcSj2ffw7tlebbc_Ad5RnOVUfeidbTlWJbAxCji6s7LU_WQmbGc60TaQWZYwajcBBMdWEc9ZpPJ2O-3zFWis5MHMhcScAf6OgsLosATGyLFPTZBe6qcAYU4buQKqez__hu52-umk-ShjFap2Nhg1cxRfOw4iOgVR22hopPREbzE=s1600)
-
 
 **1월 2일의 탄생색: 눈꽃 화이트 (#F2EDF3)**
 

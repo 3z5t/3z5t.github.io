@@ -9,16 +9,16 @@ tags:
   - "12월"
   - "e9e1d8"
 description: "오늘의 탄생색, 앤티크 아이보리. '순수한마음, 청정한, 우아한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg3joJtgHubQDyPbQXUqAnTfXROLEaBvG_H3qYDO8C_n4dDOnCy10Rnz0u1MQQx26G25FNHSzR-78HPMyFv-5LBtLLlah78uB63NGnzc3fB60aBcBIDaYRv7LuiHbgW6tdl1biAw1mxfT3fNZp1Ro9FpB-M81o-EN6bvKB-d2xzKX-SdrpNc0YUMj0RC0hP=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEg3joJtgHubQDyPbQXUqAnTfXROLEaBvG_H3qYDO8C_n4dDOnCy10Rnz0u1MQQx26G25FNHSzR-78HPMyFv-5LBtLLlah78uB63NGnzc3fB60aBcBIDaYRv7LuiHbgW6tdl1biAw1mxfT3fNZp1Ro9FpB-M81o-EN6bvKB-d2xzKX-SdrpNc0YUMj0RC0hP=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Antique Ivory"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg3joJtgHubQDyPbQXUqAnTfXROLEaBvG_H3qYDO8C_n4dDOnCy10Rnz0u1MQQx26G25FNHSzR-78HPMyFv-5LBtLLlah78uB63NGnzc3fB60aBcBIDaYRv7LuiHbgW6tdl1biAw1mxfT3fNZp1Ro9FpB-M81o-EN6bvKB-d2xzKX-SdrpNc0YUMj0RC0hP=s1600)
-
 ## 12월 12일의 탄생색: 앤티크 아이보리 (`#E9E1D8`)
 
 ### 1. 앤티크 아이보리에 대한 설명 (색의 느낌과 특징)

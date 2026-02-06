@@ -9,16 +9,16 @@ tags:
   - "12월"
   - "506850"
 description: "오늘의 탄생색, 크리스마스 트리. '소망이루는, 희망적인, 긍정적인'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEguHMMMsf354H1eTM3S2lIbHDEtRIM6TGDymjWbBOnLhK7frKwo7Bodj-hU8Ehmcxz4FTDxwn1Jbj8OUF_FZXVuCUJLMeKh7n43wiS6qtMI8w-CSy6WwtqMStsehHidNbRZji2KPNSaWcxUixdbgGQeNssC8CgOzpESsrw05F8Gv-G7HZ2Bn4i7IDEEshlr=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEguHMMMsf354H1eTM3S2lIbHDEtRIM6TGDymjWbBOnLhK7frKwo7Bodj-hU8Ehmcxz4FTDxwn1Jbj8OUF_FZXVuCUJLMeKh7n43wiS6qtMI8w-CSy6WwtqMStsehHidNbRZji2KPNSaWcxUixdbgGQeNssC8CgOzpESsrw05F8Gv-G7HZ2Bn4i7IDEEshlr=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Christmas Tree"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEguHMMMsf354H1eTM3S2lIbHDEtRIM6TGDymjWbBOnLhK7frKwo7Bodj-hU8Ehmcxz4FTDxwn1Jbj8OUF_FZXVuCUJLMeKh7n43wiS6qtMI8w-CSy6WwtqMStsehHidNbRZji2KPNSaWcxUixdbgGQeNssC8CgOzpESsrw05F8Gv-G7HZ2Bn4i7IDEEshlr=s1600)
-
 ## 12월 7일의 탄생색: 크리스마스 트리 (`#506850`)
 
 ### 1. 크리스마스 트리에 대한 설명 (색의 느낌과 특징)

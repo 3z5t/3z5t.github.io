@@ -9,16 +9,16 @@ tags:
   - "12월"
   - "6c4d32"
 description: "오늘의 탄생색, 루돌프 브라운. '따뜻한마음, 포근한, 안정감있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhmrJXbptV80TRZ1-bhzw-HybO7cA1lQgui1DoFSbv9l9732LorHbIDX-HzBBNzfuHBCJyFYAbuozfK-vQr13jJx0jBdiYUaAExrnAZWYLfZbUCHjq28dyyYqxCZ2VmIOXW8_8oOs7VsIzcV_4s0WVBmWgoa80zlve3R60g3Mxljv5TFuUrh2j5phREJgyh=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhmrJXbptV80TRZ1-bhzw-HybO7cA1lQgui1DoFSbv9l9732LorHbIDX-HzBBNzfuHBCJyFYAbuozfK-vQr13jJx0jBdiYUaAExrnAZWYLfZbUCHjq28dyyYqxCZ2VmIOXW8_8oOs7VsIzcV_4s0WVBmWgoa80zlve3R60g3Mxljv5TFuUrh2j5phREJgyh=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Rudolph Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhmrJXbptV80TRZ1-bhzw-HybO7cA1lQgui1DoFSbv9l9732LorHbIDX-HzBBNzfuHBCJyFYAbuozfK-vQr13jJx0jBdiYUaAExrnAZWYLfZbUCHjq28dyyYqxCZ2VmIOXW8_8oOs7VsIzcV_4s0WVBmWgoa80zlve3R60g3Mxljv5TFuUrh2j5phREJgyh=s1600)
-
 ## 12월 3일의 탄생색: 루돌프 브라운 (`#6C4D32`)
 
 ### 1. 루돌프 브라운에 대한 설명 (색의 느낌과 특징)

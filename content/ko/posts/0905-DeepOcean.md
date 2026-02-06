@@ -9,16 +9,16 @@ tags:
   - "9월"
   - "5a6078"
 description: "오늘의 탄생색, 심해. '신비로운, 깊이있는, 철학적'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiRBMolJrIP9koxV8ar2EhkjbR4NJ85nuodFsWaIfT6431L5ZGjFsrLIzLIPt9AlZfbjq-Jhrg5inzKoAfYhMkJy_nJjUE3C70JGgysR0FmgemMJu3M5_SeQonZC1OBr4fjLeaMyle5JSkVukYmglegTwK8El3ADV8BJAy8T70Hx14UOCfhyN04IiOi7zfX=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiRBMolJrIP9koxV8ar2EhkjbR4NJ85nuodFsWaIfT6431L5ZGjFsrLIzLIPt9AlZfbjq-Jhrg5inzKoAfYhMkJy_nJjUE3C70JGgysR0FmgemMJu3M5_SeQonZC1OBr4fjLeaMyle5JSkVukYmglegTwK8El3ADV8BJAy8T70Hx14UOCfhyN04IiOi7zfX=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Deep Ocean"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiRBMolJrIP9koxV8ar2EhkjbR4NJ85nuodFsWaIfT6431L5ZGjFsrLIzLIPt9AlZfbjq-Jhrg5inzKoAfYhMkJy_nJjUE3C70JGgysR0FmgemMJu3M5_SeQonZC1OBr4fjLeaMyle5JSkVukYmglegTwK8El3ADV8BJAy8T70Hx14UOCfhyN04IiOi7zfX=s1600)
-
 ## 9월 5일의 탄생색: 심해 (`#5A6078`)
 
 ### 1. 심해에 대한 설명: 닿을 수 없는 깊이가 빚어낸 신비로운 푸른빛

@@ -9,16 +9,16 @@ tags:
   - "4월"
   - "84c07a"
 description: "오늘의 탄생색, 소프트 멜론. '안정감, 성숙함, 균형감'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgGSv7qDEESnhWVpTvN-hefl84TltlEa6K9LZjiiqkUBskOGUJMVJ4fS5KbhWVaMmjjW9tyVquIEydXhkGHV4YWOK1ogSPyd2jjBuZDynC9n2m3mOp53LEFY051ZeuRh3WSYnUQkCMtu66_ASD_2c20xYy-mxJfb9HBwh3laj4dooaEFQz_uCq75ExK1TB6=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgGSv7qDEESnhWVpTvN-hefl84TltlEa6K9LZjiiqkUBskOGUJMVJ4fS5KbhWVaMmjjW9tyVquIEydXhkGHV4YWOK1ogSPyd2jjBuZDynC9n2m3mOp53LEFY051ZeuRh3WSYnUQkCMtu66_ASD_2c20xYy-mxJfb9HBwh3laj4dooaEFQz_uCq75ExK1TB6=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Soft Melon"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgGSv7qDEESnhWVpTvN-hefl84TltlEa6K9LZjiiqkUBskOGUJMVJ4fS5KbhWVaMmjjW9tyVquIEydXhkGHV4YWOK1ogSPyd2jjBuZDynC9n2m3mOp53LEFY051ZeuRh3WSYnUQkCMtu66_ASD_2c20xYy-mxJfb9HBwh3laj4dooaEFQz_uCq75ExK1TB6=s1600)
-
 ## 4월 11일의 탄생색: 소프트 멜론 (`#84C07A`)
 
 ### 1. 소프트 멜론에 대한 설명 (색의 느낌과 특징)

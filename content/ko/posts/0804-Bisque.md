@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "ffe4c4"
 description: "오늘의 탄생색, 비스크. '포근한마음, 따스함, 안정감'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiT_LgwCXh3hXvVFowkhNO7DQWsa5jq1s5LuXjSsuXKs_RNfQdsEkbekAro4AKp_BrASObIreKupSojMydJjwresxQAMqRD5_WEvaYDFuxBShqURP_iuc7PdiuQMrulgIjBkD3LHNrpjSBc5dkIxvZxwF_2y1u1pHKUiuW_MSw0kHIjyu0bWP-FEdT-Le_-=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiT_LgwCXh3hXvVFowkhNO7DQWsa5jq1s5LuXjSsuXKs_RNfQdsEkbekAro4AKp_BrASObIreKupSojMydJjwresxQAMqRD5_WEvaYDFuxBShqURP_iuc7PdiuQMrulgIjBkD3LHNrpjSBc5dkIxvZxwF_2y1u1pHKUiuW_MSw0kHIjyu0bWP-FEdT-Le_-=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Bisque"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiT_LgwCXh3hXvVFowkhNO7DQWsa5jq1s5LuXjSsuXKs_RNfQdsEkbekAro4AKp_BrASObIreKupSojMydJjwresxQAMqRD5_WEvaYDFuxBShqURP_iuc7PdiuQMrulgIjBkD3LHNrpjSBc5dkIxvZxwF_2y1u1pHKUiuW_MSw0kHIjyu0bWP-FEdT-Le_-=s1600)
-
 ## 8월 4일의 탄생색: 비스크 (`#FFE4C4`)
 
 ### 1. 비스크에 대한 설명: 잘 구워진 도자기처럼 은은한 온기

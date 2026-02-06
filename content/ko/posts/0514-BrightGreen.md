@@ -9,16 +9,16 @@ tags:
   - "5월"
   - "66ff00"
 description: "오늘의 탄생색, 브라이트 그린. '생명력, 창조성, 진취적'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEixDuEFXtoEVJfHww4WoFosnacpOKTY_jxmggbKOhjsAEUqVMr_wN798O4VHVMDZMiUfSacWJteq8sOH2-6krQ1LmIqcKN6RuxejYqhQZifHTm1L3NAIsCWiHqdKMkgRSr8UYOVP45BlTY4ZS4WoTvOW17yd06ppV1L8ITY4FfpkvrkN27Pm7p6Be2WjGX-=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEixDuEFXtoEVJfHww4WoFosnacpOKTY_jxmggbKOhjsAEUqVMr_wN798O4VHVMDZMiUfSacWJteq8sOH2-6krQ1LmIqcKN6RuxejYqhQZifHTm1L3NAIsCWiHqdKMkgRSr8UYOVP45BlTY4ZS4WoTvOW17yd06ppV1L8ITY4FfpkvrkN27Pm7p6Be2WjGX-=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Bright Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEixDuEFXtoEVJfHww4WoFosnacpOKTY_jxmggbKOhjsAEUqVMr_wN798O4VHVMDZMiUfSacWJteq8sOH2-6krQ1LmIqcKN6RuxejYqhQZifHTm1L3NAIsCWiHqdKMkgRSr8UYOVP45BlTY4ZS4WoTvOW17yd06ppV1L8ITY4FfpkvrkN27Pm7p6Be2WjGX-=s1600)
-
 ## 5월 14일의 탄생색: 브라이트 그린 (`#66FF00`)
 
 ### 1. 브라이트 그린에 대한 설명: 대지를 뚫고 솟아오르는 날것의 에너지

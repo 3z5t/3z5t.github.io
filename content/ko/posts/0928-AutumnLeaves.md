@@ -9,16 +9,16 @@ tags:
   - "9월"
   - "362925"
 description: "오늘의 탄생색, 가을의 낙엽. '순환을아는, 이별을이해하는, 포용력있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgUQSI3_W00TbC5TkoSoMlwTCKnmByk4RbfhMqp9wqyZ91Hi84v4ozQXTbZArdu_LlnXGp-mrf4_qmmWKKVFj1wbXM6bLwQNQKmkRgQGltaYDwDDIg-N8l7DN7uS1YIuJep7mD7cWXlSIB4TBiVlonOFJSAmMRyWmRF1DoISVb8B_NORe_nb9ceSHsfghsz=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgUQSI3_W00TbC5TkoSoMlwTCKnmByk4RbfhMqp9wqyZ91Hi84v4ozQXTbZArdu_LlnXGp-mrf4_qmmWKKVFj1wbXM6bLwQNQKmkRgQGltaYDwDDIg-N8l7DN7uS1YIuJep7mD7cWXlSIB4TBiVlonOFJSAmMRyWmRF1DoISVb8B_NORe_nb9ceSHsfghsz=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Autumn Leaves"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgUQSI3_W00TbC5TkoSoMlwTCKnmByk4RbfhMqp9wqyZ91Hi84v4ozQXTbZArdu_LlnXGp-mrf4_qmmWKKVFj1wbXM6bLwQNQKmkRgQGltaYDwDDIg-N8l7DN7uS1YIuJep7mD7cWXlSIB4TBiVlonOFJSAmMRyWmRF1DoISVb8B_NORe_nb9ceSHsfghsz=s1600)
-
 ## 9월 28일의 탄생색: 가을의 낙엽 (`#362925`)
 
 ### 1. 가을의 낙엽에 대한 설명: 대지로 돌아가는 가장 겸허하고 깊은 갈색

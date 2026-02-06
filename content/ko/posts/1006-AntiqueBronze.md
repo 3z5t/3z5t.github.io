@@ -9,16 +9,16 @@ tags:
   - "10월"
   - "9b6066"
 description: "오늘의 탄생색, 엔틱 브론즈. '고전적인, 견고한, 가치있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgCS9w3ZWNxLedUTAc3l_DXTZUVJ_VKq5MWiZSpBr46Z9xVAY5CXPRU_nbqWoy9SS2w564biiUWjlYYa2mgfDNgtMrjoACxIaAp4d4UlcZ3FzDIkUzGxLu1z4HBsFrrJZOUFdoB6j3b_jcMcFzxwvHDdtdog6NGL-P2t5s--cr8NrSKveyt8tSucWM8RFze=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgCS9w3ZWNxLedUTAc3l_DXTZUVJ_VKq5MWiZSpBr46Z9xVAY5CXPRU_nbqWoy9SS2w564biiUWjlYYa2mgfDNgtMrjoACxIaAp4d4UlcZ3FzDIkUzGxLu1z4HBsFrrJZOUFdoB6j3b_jcMcFzxwvHDdtdog6NGL-P2t5s--cr8NrSKveyt8tSucWM8RFze=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Antique Bronze"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgCS9w3ZWNxLedUTAc3l_DXTZUVJ_VKq5MWiZSpBr46Z9xVAY5CXPRU_nbqWoy9SS2w564biiUWjlYYa2mgfDNgtMrjoACxIaAp4d4UlcZ3FzDIkUzGxLu1z4HBsFrrJZOUFdoB6j3b_jcMcFzxwvHDdtdog6NGL-P2t5s--cr8NrSKveyt8tSucWM8RFze=s1600)
-
 ## 10월 6일의 탄생색: 엔틱 브론즈 (`#9B6066`)
 
 ### 1. 엔틱 브론즈에 대한 설명: 시간을 견딘 것들만이 가지는 고귀한 훈장

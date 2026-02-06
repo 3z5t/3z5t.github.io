@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "efe3b5"
 description: "오늘의 탄생색, 더치 화이트. '전통적, 품격있는, 우아한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiaEzwEL5GelVCK3gE3kUxeuJja-9jfratPeotaAk1Ky4ZRGy23YbmDDUn-f1ZwP7sHZuNW99bFllJwHx-NceSwMm2j4_pPIq883G-56xZwWbcqsRzuf52Z9uWN-jyrpVyktiU9NE-0P2aurDIrxTw71UooyVUgjTmRfIYpz3Pw74_jGOgTaJ7e0lnmMg45=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiaEzwEL5GelVCK3gE3kUxeuJja-9jfratPeotaAk1Ky4ZRGy23YbmDDUn-f1ZwP7sHZuNW99bFllJwHx-NceSwMm2j4_pPIq883G-56xZwWbcqsRzuf52Z9uWN-jyrpVyktiU9NE-0P2aurDIrxTw71UooyVUgjTmRfIYpz3Pw74_jGOgTaJ7e0lnmMg45=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Dutch White"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiaEzwEL5GelVCK3gE3kUxeuJja-9jfratPeotaAk1Ky4ZRGy23YbmDDUn-f1ZwP7sHZuNW99bFllJwHx-NceSwMm2j4_pPIq883G-56xZwWbcqsRzuf52Z9uWN-jyrpVyktiU9NE-0P2aurDIrxTw71UooyVUgjTmRfIYpz3Pw74_jGOgTaJ7e0lnmMg45=s1600)
-
 ## 8월 13일의 탄생색: 더치 화이트 (`#EFE3B5`)
 
 ### 1. 더치 화이트에 대한 설명: 시간을 견뎌낸 고전의 우아함

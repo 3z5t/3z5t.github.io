@@ -9,16 +9,16 @@ tags:
   - "9월"
   - "9d8c7a"
 description: "오늘의 탄생색, 헤이즈 브라운. '은은한매력, 그리움을아는, 여운있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiYlhq-NcY25scnQiTNlLaOS8c5W8Y1RON1UCQW8JCbITj9PlvVUc9n0MAKg_6kHXq0bsrMkohIHnUHwx1d32Q1j614-I9elJqO7Xui0ChhwRUkpbuyHGApkzcCHtCYUwXw9vscbYRhzHwrm8YOUmMA_bUtsp_u6rJgevT3kZyU1Ss9Os_jVAbml6i3ZOuW=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiYlhq-NcY25scnQiTNlLaOS8c5W8Y1RON1UCQW8JCbITj9PlvVUc9n0MAKg_6kHXq0bsrMkohIHnUHwx1d32Q1j614-I9elJqO7Xui0ChhwRUkpbuyHGApkzcCHtCYUwXw9vscbYRhzHwrm8YOUmMA_bUtsp_u6rJgevT3kZyU1Ss9Os_jVAbml6i3ZOuW=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Haze Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiYlhq-NcY25scnQiTNlLaOS8c5W8Y1RON1UCQW8JCbITj9PlvVUc9n0MAKg_6kHXq0bsrMkohIHnUHwx1d32Q1j614-I9elJqO7Xui0ChhwRUkpbuyHGApkzcCHtCYUwXw9vscbYRhzHwrm8YOUmMA_bUtsp_u6rJgevT3kZyU1Ss9Os_jVAbml6i3ZOuW=s1600)
-
 ## 9월 30일의 탄생색: 헤이즈 브라운 (`#9D8C7A`)
 
 ### 1. 헤이즈 브라운에 대한 설명: 9월의 마지막이 남긴 아스라한 안개의 색

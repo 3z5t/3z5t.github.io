@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "ecc586"
 description: "오늘의 탄생색, 소프트 카멜. '고급스러운, 세련된, 품위있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgqyxQhqi-FR-9G6gbno4_bB5Mkpm5T6MguVAMIFMxoE1kxEM0r_-mjGWa66q6WO-gH_5VICGFEH_pYKfFaOnIlLlURHpK-MqhMLdzHl__FO3BtIEGgiiQa1Ll0bmYOBGkf4sKU7oMuJr5P6ak2yXHIRT_TlyEdGhVLezqe3l74bJnfvbK2kCPhQy9cch-X=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgqyxQhqi-FR-9G6gbno4_bB5Mkpm5T6MguVAMIFMxoE1kxEM0r_-mjGWa66q6WO-gH_5VICGFEH_pYKfFaOnIlLlURHpK-MqhMLdzHl__FO3BtIEGgiiQa1Ll0bmYOBGkf4sKU7oMuJr5P6ak2yXHIRT_TlyEdGhVLezqe3l74bJnfvbK2kCPhQy9cch-X=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Soft Camel"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgqyxQhqi-FR-9G6gbno4_bB5Mkpm5T6MguVAMIFMxoE1kxEM0r_-mjGWa66q6WO-gH_5VICGFEH_pYKfFaOnIlLlURHpK-MqhMLdzHl__FO3BtIEGgiiQa1Ll0bmYOBGkf4sKU7oMuJr5P6ak2yXHIRT_TlyEdGhVLezqe3l74bJnfvbK2kCPhQy9cch-X=s1600)
-
 ## 8월 16일의 탄생색: 소프트 카멜 (`#ECC586`)
 
 ### 1. 소프트 카멜에 대한 설명: 계절의 길목에서 만나는 황금빛 여유

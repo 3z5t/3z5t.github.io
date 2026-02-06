@@ -9,16 +9,16 @@ tags:
   - "6월"
   - "ffd0a1"
 description: "오늘의 탄생색, 코랄 샌드. '조화로움, 균형감, 포용력'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiijQLCiv2qzfwj-chfunJ9tq_724UsLyBxZ322F_dYXfEcurOg2qzoEcnSRdlPZVxnsqd5ba6m7qdowFL2tpOeTXtSgfwZ_NX7UuDFhlDAJ18OLjfx3ePhEVA7MYjc5_GrwZ-fDtRR01O2vZwAuSg3AkNF-i-VBbv0EOlORwcqBHLHwwJNOfLShsH_ucMj=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiijQLCiv2qzfwj-chfunJ9tq_724UsLyBxZ322F_dYXfEcurOg2qzoEcnSRdlPZVxnsqd5ba6m7qdowFL2tpOeTXtSgfwZ_NX7UuDFhlDAJ18OLjfx3ePhEVA7MYjc5_GrwZ-fDtRR01O2vZwAuSg3AkNF-i-VBbv0EOlORwcqBHLHwwJNOfLShsH_ucMj=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Coral Sand"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiijQLCiv2qzfwj-chfunJ9tq_724UsLyBxZ322F_dYXfEcurOg2qzoEcnSRdlPZVxnsqd5ba6m7qdowFL2tpOeTXtSgfwZ_NX7UuDFhlDAJ18OLjfx3ePhEVA7MYjc5_GrwZ-fDtRR01O2vZwAuSg3AkNF-i-VBbv0EOlORwcqBHLHwwJNOfLShsH_ucMj=s1600)
-
 ## 6월 5일의 탄생색: 코랄 샌드 (`#FFD0A1`)
 
 ### 1. 코랄 샌드에 대한 설명: 해 질 녘 해변이 건네는 따스한 위로

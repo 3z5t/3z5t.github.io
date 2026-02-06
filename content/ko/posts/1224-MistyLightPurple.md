@@ -9,16 +9,16 @@ tags:
   - "12월"
   - "7f7f9b"
 description: "오늘의 탄생색, 미스티 연보라. '신비로운, 은은한, 기대감있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgzT85_LJ7fhkhBIrD59tjnn0bws1_j9Z-cUZvb_FOs-BKTJ9q233t4cbEy9yTP84q8A45Qlq24zQKB_5M0dwnCMz6Rr1Z0AbwIArO8RGkznHRr8IcaznqvXKIokX8IihsHWxws0JMIHqfOBbArnrmhJfPh9A5ZsJbQnw6EF1O4hAE4HIFTQlA6XDg24pn2=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgzT85_LJ7fhkhBIrD59tjnn0bws1_j9Z-cUZvb_FOs-BKTJ9q233t4cbEy9yTP84q8A45Qlq24zQKB_5M0dwnCMz6Rr1Z0AbwIArO8RGkznHRr8IcaznqvXKIokX8IihsHWxws0JMIHqfOBbArnrmhJfPh9A5ZsJbQnw6EF1O4hAE4HIFTQlA6XDg24pn2=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Misty Light Purple"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgzT85_LJ7fhkhBIrD59tjnn0bws1_j9Z-cUZvb_FOs-BKTJ9q233t4cbEy9yTP84q8A45Qlq24zQKB_5M0dwnCMz6Rr1Z0AbwIArO8RGkznHRr8IcaznqvXKIokX8IihsHWxws0JMIHqfOBbArnrmhJfPh9A5ZsJbQnw6EF1O4hAE4HIFTQlA6XDg24pn2=s1600)
-
 ## 12월 24일의 탄생색: 미스티 연보라 (`#7F7F9B`)
 
 ### 1. 미스티 연보라에 대한 설명 (색의 느낌과 특징)

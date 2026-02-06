@@ -9,16 +9,16 @@ tags:
   - "10월"
   - "3a0000"
 description: "오늘의 탄생색, 다크 마룬. '신비로운, 깊이있는, 고요한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjjMtvTNECxgTg90ZLCT7p8D_fsSwfP84gb8pJJCU7rZebCnwUEwJzqeldylTqhcGNVWzcGfO7IGA68fyHr1CTG2zO04LpXGVDTJrtQG0r-aE5_DvwVWA6IpQvXNkZWd1WM9sEbaap6yVHbAnXWZNQNAC6-uNbnyWTl7t40YUWVQA0PWdeGVctwoj-RZAPI=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjjMtvTNECxgTg90ZLCT7p8D_fsSwfP84gb8pJJCU7rZebCnwUEwJzqeldylTqhcGNVWzcGfO7IGA68fyHr1CTG2zO04LpXGVDTJrtQG0r-aE5_DvwVWA6IpQvXNkZWd1WM9sEbaap6yVHbAnXWZNQNAC6-uNbnyWTl7t40YUWVQA0PWdeGVctwoj-RZAPI=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Dark Maroon"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjjMtvTNECxgTg90ZLCT7p8D_fsSwfP84gb8pJJCU7rZebCnwUEwJzqeldylTqhcGNVWzcGfO7IGA68fyHr1CTG2zO04LpXGVDTJrtQG0r-aE5_DvwVWA6IpQvXNkZWd1WM9sEbaap6yVHbAnXWZNQNAC6-uNbnyWTl7t40YUWVQA0PWdeGVctwoj-RZAPI=s1600)
-
 ## 10월 13일의 탄생색: 다크 마룬 (`#3A0000`)
 
 ### 1. 다크 마룬에 대한 설명: 빛이 잠든 곳에서 피어나는 가장 깊은 침묵

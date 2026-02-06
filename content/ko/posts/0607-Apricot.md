@@ -9,16 +9,16 @@ tags:
   - "6월"
   - "ea9e71"
 description: "오늘의 탄생색, 살구. '부드러움, 풍요로움, 성숙미'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhlegdQz4EyBSQUmzbJQDzEO84ZjxmjOLDy9X-P3GYnutn27fCDy8Du-xRARXS2jUHSf0YLITdrkTvEs5ZG-g94htywePWxhnpWRDkUpfzV6QW7OJHN8Szgr_BoZdzr34bayq0lB0CY9Cab-ufNesHhOGoAZ8tIkB8Vb-ZAzGEQKYldu6CBiJ8TYYZoSbzn=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhlegdQz4EyBSQUmzbJQDzEO84ZjxmjOLDy9X-P3GYnutn27fCDy8Du-xRARXS2jUHSf0YLITdrkTvEs5ZG-g94htywePWxhnpWRDkUpfzV6QW7OJHN8Szgr_BoZdzr34bayq0lB0CY9Cab-ufNesHhOGoAZ8tIkB8Vb-ZAzGEQKYldu6CBiJ8TYYZoSbzn=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Apricot"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhlegdQz4EyBSQUmzbJQDzEO84ZjxmjOLDy9X-P3GYnutn27fCDy8Du-xRARXS2jUHSf0YLITdrkTvEs5ZG-g94htywePWxhnpWRDkUpfzV6QW7OJHN8Szgr_BoZdzr34bayq0lB0CY9Cab-ufNesHhOGoAZ8tIkB8Vb-ZAzGEQKYldu6CBiJ8TYYZoSbzn=s1600)
-
 ## 6월 7일의 탄생색: 살구 (`#EA9E71`)
 
 ### 1. 살구에 대한 설명: 햇살을 머금고 무르익은 초여름의 다정함

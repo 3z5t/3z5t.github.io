@@ -9,16 +9,16 @@ tags:
   - "12월"
   - "e2e1ee"
 description: "오늘의 탄생색, 크리스마스 화이트. '깨끗한마음, 순수한, 희망찬'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiVH3sGH7fAXiLxQJ0MCZNY7ckjqcpLAHtzow3qAK4oZMFKezYniRosIdSJp-eCYYBQ14kC1fGGY-1VSuqHdLt9OUoELw3ULynkxgh4etDAj4u7NJ3cfDB_g6BX-bfds7fAgm9NKpgn-CyTqXUVqLWtIKhDCQuMXXdWmgKgeVatBxozZI_UMzEahP-nAatK=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiVH3sGH7fAXiLxQJ0MCZNY7ckjqcpLAHtzow3qAK4oZMFKezYniRosIdSJp-eCYYBQ14kC1fGGY-1VSuqHdLt9OUoELw3ULynkxgh4etDAj4u7NJ3cfDB_g6BX-bfds7fAgm9NKpgn-CyTqXUVqLWtIKhDCQuMXXdWmgKgeVatBxozZI_UMzEahP-nAatK=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Christmas White"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiVH3sGH7fAXiLxQJ0MCZNY7ckjqcpLAHtzow3qAK4oZMFKezYniRosIdSJp-eCYYBQ14kC1fGGY-1VSuqHdLt9OUoELw3ULynkxgh4etDAj4u7NJ3cfDB_g6BX-bfds7fAgm9NKpgn-CyTqXUVqLWtIKhDCQuMXXdWmgKgeVatBxozZI_UMzEahP-nAatK=s1600)
-
 ## 12월 29일의 탄생색: 크리스마스 화이트 (`#E2E1EE`)
 
 ### 1. 크리스마스 화이트에 대한 설명 (색의 느낌과 특징)

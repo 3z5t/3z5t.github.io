@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "191616"
 description: "오늘의 탄생색, 블랙 초콜릿. '성숙한, 깊이있는, 달콤씁쓸한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjZ-gv3FrjyhfHqR017nqnSPvGMMOE5EN0lI5qiZXYqNQkIlfc2u2QsCx0gMYXWTqDiqMMgArVdUaL3NxLVI5A9xN78qg8I_yzmCrUQIVw3SzjCa2_Q95aVppDxoqlSC-nTIyz8G9oRH-KNwsSVqzM0Td42csa9JX49SpTuUpKhwAocdfxDZFEKRFOaFyK3=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjZ-gv3FrjyhfHqR017nqnSPvGMMOE5EN0lI5qiZXYqNQkIlfc2u2QsCx0gMYXWTqDiqMMgArVdUaL3NxLVI5A9xN78qg8I_yzmCrUQIVw3SzjCa2_Q95aVppDxoqlSC-nTIyz8G9oRH-KNwsSVqzM0Td42csa9JX49SpTuUpKhwAocdfxDZFEKRFOaFyK3=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Black Chocolate"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjZ-gv3FrjyhfHqR017nqnSPvGMMOE5EN0lI5qiZXYqNQkIlfc2u2QsCx0gMYXWTqDiqMMgArVdUaL3NxLVI5A9xN78qg8I_yzmCrUQIVw3SzjCa2_Q95aVppDxoqlSC-nTIyz8G9oRH-KNwsSVqzM0Td42csa9JX49SpTuUpKhwAocdfxDZFEKRFOaFyK3=s1600)
-
 ## 11월 15일의 탄생색: 블랙 초콜릿 (`#191616`)
 
 ### 1. 블랙 초콜릿에 대한 설명: 혀끝에 맴도는 인생의 가장 진한 여운

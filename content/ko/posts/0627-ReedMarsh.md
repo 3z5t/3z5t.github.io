@@ -9,16 +9,16 @@ tags:
   - "6월"
   - "b09a82"
 description: "오늘의 탄생색, 갈대숲. '자연스러움, 평화로움, 포용력'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjw-KJ_LnGgoE0P7V7J7hZFbzjthLx0-h2P19L5dfSM3rYgvIXR9lbziEfZJluo8Jh-rL7UFphPCYP90EIowKqWO26kZRAygZ2H_xDUFwzP5MAA27-UzkIT--wk4eSOMhczGbFH78ZSihBbPUjCvPrU_OIPw4ZZOsi7L8cnS58ga29qxgrU8U7HPrDVnVKx=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjw-KJ_LnGgoE0P7V7J7hZFbzjthLx0-h2P19L5dfSM3rYgvIXR9lbziEfZJluo8Jh-rL7UFphPCYP90EIowKqWO26kZRAygZ2H_xDUFwzP5MAA27-UzkIT--wk4eSOMhczGbFH78ZSihBbPUjCvPrU_OIPw4ZZOsi7L8cnS58ga29qxgrU8U7HPrDVnVKx=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Reed Marsh"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjw-KJ_LnGgoE0P7V7J7hZFbzjthLx0-h2P19L5dfSM3rYgvIXR9lbziEfZJluo8Jh-rL7UFphPCYP90EIowKqWO26kZRAygZ2H_xDUFwzP5MAA27-UzkIT--wk4eSOMhczGbFH78ZSihBbPUjCvPrU_OIPw4ZZOsi7L8cnS58ga29qxgrU8U7HPrDVnVKx=s1600)
-
 ## 6월 27일의 탄생색: 갈대숲 (`#B09A82`)
 
 ### 1. 갈대숲에 대한 설명: 바람이 머물다 가는 가장 자연스러운 쉼터

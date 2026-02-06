@@ -9,16 +9,16 @@ tags:
   - "7월"
   - "f01313"
 description: "오늘의 탄생색, 썬 레드. '에너지충만, 밝은빛, 리더십'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgJwbMev76hlVXsedboZ5-T_AN9D32POR2_zHXvxIDQ8ajQhyFHMXBonQ7g0EV4JOjbFClLh58FbEaMfRKmfXcZIEIYggrYq2sRoo625F8bCxX8MhDAK_L9Evqp4pJUsShXC_y9qirs2kGRh1RXIlVfIY3HcefyNqpLYs7-paYfzAUIT4mJeCOx6nz3CC06=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgJwbMev76hlVXsedboZ5-T_AN9D32POR2_zHXvxIDQ8ajQhyFHMXBonQ7g0EV4JOjbFClLh58FbEaMfRKmfXcZIEIYggrYq2sRoo625F8bCxX8MhDAK_L9Evqp4pJUsShXC_y9qirs2kGRh1RXIlVfIY3HcefyNqpLYs7-paYfzAUIT4mJeCOx6nz3CC06=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Sun Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgJwbMev76hlVXsedboZ5-T_AN9D32POR2_zHXvxIDQ8ajQhyFHMXBonQ7g0EV4JOjbFClLh58FbEaMfRKmfXcZIEIYggrYq2sRoo625F8bCxX8MhDAK_L9Evqp4pJUsShXC_y9qirs2kGRh1RXIlVfIY3HcefyNqpLYs7-paYfzAUIT4mJeCOx6nz3CC06=s1600)
-
 ## 7월 9일의 탄생색: 썬 레드 (`#F01313`)
 
 ### 1. 썬 레드에 대한 설명: 태양의 심장에서 가져온 가장 뜨거운 조각

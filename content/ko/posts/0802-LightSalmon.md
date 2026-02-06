@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "ffa07a"
 description: "오늘의 탄생색, 라이트 살몬. '밝은마음, 상큼함, 친근함'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgYHwhx6kWmMf05l-x5U07hsEGdA4SK5CLpn3LJp8pj9Nl3VCNIspJfYOVcOb4Q_d1vu1oB2u3nnmFPgIsgpuyB1JfnWywUiwo4P-qPT729vkAMIS7mUKeXYboCf2CMNnEcCBYdGPt_MA0d0cT5Pv8DhUzlw8WcimykYPUwmi38OwGNk80dSjUP2bNaID72=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgYHwhx6kWmMf05l-x5U07hsEGdA4SK5CLpn3LJp8pj9Nl3VCNIspJfYOVcOb4Q_d1vu1oB2u3nnmFPgIsgpuyB1JfnWywUiwo4P-qPT729vkAMIS7mUKeXYboCf2CMNnEcCBYdGPt_MA0d0cT5Pv8DhUzlw8WcimykYPUwmi38OwGNk80dSjUP2bNaID72=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Light Salmon"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgYHwhx6kWmMf05l-x5U07hsEGdA4SK5CLpn3LJp8pj9Nl3VCNIspJfYOVcOb4Q_d1vu1oB2u3nnmFPgIsgpuyB1JfnWywUiwo4P-qPT729vkAMIS7mUKeXYboCf2CMNnEcCBYdGPt_MA0d0cT5Pv8DhUzlw8WcimykYPUwmi38OwGNk80dSjUP2bNaID72=s1600)
-
 ## 8월 2일의 탄생색: 라이트 살몬 (`#FFA07A`)
 
 ### 1. 라이트 살몬에 대한 설명: 입안에서 사르르 녹는 살구 셔벗의 맛

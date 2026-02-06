@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "887a7c"
 description: "오늘의 탄생색, 소프트 모브. '부드러운마음, 온화한, 포용력있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgltvaRN4WLb9RPuNx8yiz5sXdtQxURKJl1kpzawBIqsir5JCeu9AxOuND4GNy57aOCVMRIks24qHtB6XeS63gKAlPmbA4r-Ir9jMLR4Ao1mB9k0dnHc6H3tJv4fZ6DDmb8TMJMq-jJtbEY-BCV-XDM4Ayab7U3tt0f2hv9sjyQIrtOkSD2j6ut74CGemSv=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgltvaRN4WLb9RPuNx8yiz5sXdtQxURKJl1kpzawBIqsir5JCeu9AxOuND4GNy57aOCVMRIks24qHtB6XeS63gKAlPmbA4r-Ir9jMLR4Ao1mB9k0dnHc6H3tJv4fZ6DDmb8TMJMq-jJtbEY-BCV-XDM4Ayab7U3tt0f2hv9sjyQIrtOkSD2j6ut74CGemSv=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Soft Mauve"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgltvaRN4WLb9RPuNx8yiz5sXdtQxURKJl1kpzawBIqsir5JCeu9AxOuND4GNy57aOCVMRIks24qHtB6XeS63gKAlPmbA4r-Ir9jMLR4Ao1mB9k0dnHc6H3tJv4fZ6DDmb8TMJMq-jJtbEY-BCV-XDM4Ayab7U3tt0f2hv9sjyQIrtOkSD2j6ut74CGemSv=s1600)
-
 ## 11월 5일의 탄생색: 소프트 모브 (`#887A7C`)
 
 ### 1. 소프트 모브에 대한 설명: 찬 바람을 막아주는 가장 포근한 담요의 색

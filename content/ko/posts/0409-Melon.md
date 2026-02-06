@@ -9,16 +9,16 @@ tags:
   - "4월"
   - "98e294"
 description: "오늘의 탄생색, 멜론. '달콤함, 긍정성, 행복감'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEib3lmB1rZrGgjtHt6CjcPnd0le-1ha1o_y8b98Niu3nAxaPJ25Z1BGBPri6m6p5xxEp5o1tCyf_U79LSdzFGg4KMgaMBqzF45PD3malURAvQDmIuSCaZKBIJ5TrjrK0xeJxBQXb2FA9Pg5jQadOsAEvE2eb_nQVyQY9wk8qG82QSYZ07HsjsxKy4sIdzDw=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEib3lmB1rZrGgjtHt6CjcPnd0le-1ha1o_y8b98Niu3nAxaPJ25Z1BGBPri6m6p5xxEp5o1tCyf_U79LSdzFGg4KMgaMBqzF45PD3malURAvQDmIuSCaZKBIJ5TrjrK0xeJxBQXb2FA9Pg5jQadOsAEvE2eb_nQVyQY9wk8qG82QSYZ07HsjsxKy4sIdzDw=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Melon"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEib3lmB1rZrGgjtHt6CjcPnd0le-1ha1o_y8b98Niu3nAxaPJ25Z1BGBPri6m6p5xxEp5o1tCyf_U79LSdzFGg4KMgaMBqzF45PD3malURAvQDmIuSCaZKBIJ5TrjrK0xeJxBQXb2FA9Pg5jQadOsAEvE2eb_nQVyQY9wk8qG82QSYZ07HsjsxKy4sIdzDw=s1600)
-
 ## 4월 9일의 탄생색: 멜론 (`#98E294`)
 
 ### 1. 멜론에 대한 설명 (색의 느낌과 특징)

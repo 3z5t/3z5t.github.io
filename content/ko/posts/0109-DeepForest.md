@@ -11,16 +11,16 @@ tags:
   - 13191a
   - 1월
 description: 오늘의 탄생색, 딥 포레스트. '성장력, 발전성, 혁신성'이라는 의미를 담고 있어요.
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhUSsylOF98bEMHb3V_WBiodvxOf419_xrUbOQdwdc5M7BGn0K_-ZPFN0x_WFRIx89V1HHqRoxdFBQh7jDqhOKt7uC6I58DxDQB7051-DKP9gRG5kMSo9jBQW3pRluQkH4vbDHiaC0HevCpADzH2IqI282RT6J_l-I1hYFMkRItee5_8dIzViikSYAEvswP=s1600
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhUSsylOF98bEMHb3V_WBiodvxOf419_xrUbOQdwdc5M7BGn0K_-ZPFN0x_WFRIx89V1HHqRoxdFBQh7jDqhOKt7uC6I58DxDQB7051-DKP9gRG5kMSo9jBQW3pRluQkH4vbDHiaC0HevCpADzH2IqI282RT6J_l-I1hYFMkRItee5_8dIzViikSYAEvswP=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: Deep Forest
 author: 하루의 조각
 profileName: 하루의 조각
 postId: "1004"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhUSsylOF98bEMHb3V_WBiodvxOf419_xrUbOQdwdc5M7BGn0K_-ZPFN0x_WFRIx89V1HHqRoxdFBQh7jDqhOKt7uC6I58DxDQB7051-DKP9gRG5kMSo9jBQW3pRluQkH4vbDHiaC0HevCpADzH2IqI282RT6J_l-I1hYFMkRItee5_8dIzViikSYAEvswP=s1600)
-
 
 **1월 9일의 탄생색: 딥 포레스트 (#13191A)**
 

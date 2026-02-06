@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "a19475"
 description: "오늘의 탄생색, 앤티크 베이지. '고전적인, 지혜로운, 전통적'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgXmP64kuhGgHRlvuWXX9rvl4tMGSFpjltgEqsolHDMSnOCegp6q1M2lY3A6HPx53TTJCAHxexRC5OT0g40WMeP7ebtU3rwh5COJV5RiNFTSp0zzEACteEOCWSgYyXRSdwYne3c4d7pKsCYZAGiy8I9wSJcwQdiggMo4p-h-8AjpYd_QsacbEAdtY2STsyS=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgXmP64kuhGgHRlvuWXX9rvl4tMGSFpjltgEqsolHDMSnOCegp6q1M2lY3A6HPx53TTJCAHxexRC5OT0g40WMeP7ebtU3rwh5COJV5RiNFTSp0zzEACteEOCWSgYyXRSdwYne3c4d7pKsCYZAGiy8I9wSJcwQdiggMo4p-h-8AjpYd_QsacbEAdtY2STsyS=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Antique Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgXmP64kuhGgHRlvuWXX9rvl4tMGSFpjltgEqsolHDMSnOCegp6q1M2lY3A6HPx53TTJCAHxexRC5OT0g40WMeP7ebtU3rwh5COJV5RiNFTSp0zzEACteEOCWSgYyXRSdwYne3c4d7pKsCYZAGiy8I9wSJcwQdiggMo4p-h-8AjpYd_QsacbEAdtY2STsyS=s1600)
-
 ## 8월 19일의 탄생색: 앤티크 베이지 (`#A19475`)
 
 ### 1. 앤티크 베이지에 대한 설명: 시간의 결이 켜켜이 쌓인 지혜의 색

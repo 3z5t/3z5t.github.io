@@ -9,16 +9,16 @@ tags:
   - "7월"
   - "bde0f4"
 description: "오늘의 탄생색, 그레이 스카이. '여유로운, 평화로운, 안정감'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiqW_VCAPL2jvuqBev4yNgVU3wyY-x0p9liiXFgTZbdvAXy1bhjyV-CYEqs5YqgLyD_osIDXYkIIV8YSzDTP8or8w__hW41vACD-SPxnXahPW2u91rQfFa4xBIlf_Pw1aHvzn3NmaJN5pE1iag0lbe89WrTcMm_AZXMjiwy7kjz8OdgdzMLT4SyuWfseMj3=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiqW_VCAPL2jvuqBev4yNgVU3wyY-x0p9liiXFgTZbdvAXy1bhjyV-CYEqs5YqgLyD_osIDXYkIIV8YSzDTP8or8w__hW41vACD-SPxnXahPW2u91rQfFa4xBIlf_Pw1aHvzn3NmaJN5pE1iag0lbe89WrTcMm_AZXMjiwy7kjz8OdgdzMLT4SyuWfseMj3=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Gray Sky"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiqW_VCAPL2jvuqBev4yNgVU3wyY-x0p9liiXFgTZbdvAXy1bhjyV-CYEqs5YqgLyD_osIDXYkIIV8YSzDTP8or8w__hW41vACD-SPxnXahPW2u91rQfFa4xBIlf_Pw1aHvzn3NmaJN5pE1iag0lbe89WrTcMm_AZXMjiwy7kjz8OdgdzMLT4SyuWfseMj3=s1600)
-
 ## 7월 24일의 탄생색: 그레이 스카이 (`#BDE0F4`)
 
 ### 1. 그레이 스카이에 대한 설명: 구름 사이로 스며드는 은은한 위로

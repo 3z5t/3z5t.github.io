@@ -9,16 +9,16 @@ tags:
   - "3월"
   - "dfaea7"
 description: "오늘의 탄생색, 아이리쉬 핑크. '생기발랄, 활력적, 건강함'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi7ad_7SZQM24kVcuqbor38d7kwRyhZE4zzULZVjtJlpPolepHC-_RVcYPBeDoqgeLAvjcehHiDYChODeBZiHpUPjyF90B1cgRyx4wCHioicLZYsW7xkyYQ9rs_JO2OO7Yej4-moXLj6ZwPxTzDkuT56uBf-Wc_C38Z6dSHHtPsKnbfGqGmqb27x4dZAz6q=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi7ad_7SZQM24kVcuqbor38d7kwRyhZE4zzULZVjtJlpPolepHC-_RVcYPBeDoqgeLAvjcehHiDYChODeBZiHpUPjyF90B1cgRyx4wCHioicLZYsW7xkyYQ9rs_JO2OO7Yej4-moXLj6ZwPxTzDkuT56uBf-Wc_C38Z6dSHHtPsKnbfGqGmqb27x4dZAz6q=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Irish Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi7ad_7SZQM24kVcuqbor38d7kwRyhZE4zzULZVjtJlpPolepHC-_RVcYPBeDoqgeLAvjcehHiDYChODeBZiHpUPjyF90B1cgRyx4wCHioicLZYsW7xkyYQ9rs_JO2OO7Yej4-moXLj6ZwPxTzDkuT56uBf-Wc_C38Z6dSHHtPsKnbfGqGmqb27x4dZAz6q=s1600)
-
 ## 3월 26일의 탄생색: 아이리쉬 핑크 (`#DFAEA7`)
 
 ### 1. 아이리쉬 핑크에 대한 설명 (색의 느낌과 특징)

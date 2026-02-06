@@ -9,16 +9,16 @@ tags:
   - "4월"
   - "666600"
 description: "오늘의 탄생색, 올리브. '지혜로움, 평화로움, 통찰력'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgWbuYXEz-va8LsF684V5ldkYv50cOkrUPwnwL2BDZIf2F3W8XQWqFYeEyBNUYG-d5EZjx5URPLcBQ1LtFwhIs3wkbsYphkEbFtc0yOBh3b-tOWzvlMg16rvoaV4k9BtCOxREKOtQcXc-vWvglTb6cghRaCHRVhXyWFgPwKR44X3DjPyxmrdgnJtK8SNnGO=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgWbuYXEz-va8LsF684V5ldkYv50cOkrUPwnwL2BDZIf2F3W8XQWqFYeEyBNUYG-d5EZjx5URPLcBQ1LtFwhIs3wkbsYphkEbFtc0yOBh3b-tOWzvlMg16rvoaV4k9BtCOxREKOtQcXc-vWvglTb6cghRaCHRVhXyWFgPwKR44X3DjPyxmrdgnJtK8SNnGO=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Olive"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgWbuYXEz-va8LsF684V5ldkYv50cOkrUPwnwL2BDZIf2F3W8XQWqFYeEyBNUYG-d5EZjx5URPLcBQ1LtFwhIs3wkbsYphkEbFtc0yOBh3b-tOWzvlMg16rvoaV4k9BtCOxREKOtQcXc-vWvglTb6cghRaCHRVhXyWFgPwKR44X3DjPyxmrdgnJtK8SNnGO=s1600)
-
 ## 4월 14일의 탄생색: 올리브 (`#666600`)
 
 ### 1. 올리브에 대한 설명 (색의 느낌과 특징)

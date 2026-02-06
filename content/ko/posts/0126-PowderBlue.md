@@ -14,13 +14,13 @@ tags:
 postId: '2991059262490573887'
 postUrl: https://the366days-ko.blogspot.com/2026/01/1-26-powder-blue.html
 profileName: 하루의 조각
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgKInOEmfoywYZJWNRYoAjynxD9yUn7UPv7m_5n-LG0OcsSNTzAFOcS_laqZrhEGrQJNZIcquV1GJqqcfc1R9ivUJ7Le_87CSUmWo_eonYN3xNoeu7d8uK-vZWP_3gv6KRMKO8eOQhLEfNLEh6UGQ0G14SCrwMj7n67kkM6K_xrndtREB4cqXx68YyrVpYS=s1600
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgKInOEmfoywYZJWNRYoAjynxD9yUn7UPv7m_5n-LG0OcsSNTzAFOcS_laqZrhEGrQJNZIcquV1GJqqcfc1R9ivUJ7Le_87CSUmWo_eonYN3xNoeu7d8uK-vZWP_3gv6KRMKO8eOQhLEfNLEh6UGQ0G14SCrwMj7n67kkM6K_xrndtREB4cqXx68YyrVpYS=s1600"
+  alt: "오늘의 색"
+  relative: false
 title: '1월 26일, 오늘을 닮은 색: 파우더 블루'
 updated: '2026-01-26'
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgKInOEmfoywYZJWNRYoAjynxD9yUn7UPv7m_5n-LG0OcsSNTzAFOcS_laqZrhEGrQJNZIcquV1GJqqcfc1R9ivUJ7Le_87CSUmWo_eonYN3xNoeu7d8uK-vZWP_3gv6KRMKO8eOQhLEfNLEh6UGQ0G14SCrwMj7n67kkM6K_xrndtREB4cqXx68YyrVpYS=s1600)
-
 
 **1월 26일의 탄생색: 파우더 블루 (#C4E8E6)**
 

@@ -9,16 +9,16 @@ tags:
   - "9월"
   - "7f3300"
 description: "오늘의 탄생색, 브라운. '풍요로운, 안정된, 실용적인'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhfDgPgf_vzPFPG7GXNDUPv1niIq0Kbyt4C3UlWMRdQmTu0ZLUl3iujWPoIx39X6NiIiOwGCK1yIaXnFdkMv45Pzhofg0tVtswFa5svsplLEDU4ntnUWZNucjG5gW8WP1J35oOPnMdU2luQ6db6NliEAidCXBt9CNQ-zi5kCTqROKxwziFsLDmaa9j07KdE=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhfDgPgf_vzPFPG7GXNDUPv1niIq0Kbyt4C3UlWMRdQmTu0ZLUl3iujWPoIx39X6NiIiOwGCK1yIaXnFdkMv45Pzhofg0tVtswFa5svsplLEDU4ntnUWZNucjG5gW8WP1J35oOPnMdU2luQ6db6NliEAidCXBt9CNQ-zi5kCTqROKxwziFsLDmaa9j07KdE=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhfDgPgf_vzPFPG7GXNDUPv1niIq0Kbyt4C3UlWMRdQmTu0ZLUl3iujWPoIx39X6NiIiOwGCK1yIaXnFdkMv45Pzhofg0tVtswFa5svsplLEDU4ntnUWZNucjG5gW8WP1J35oOPnMdU2luQ6db6NliEAidCXBt9CNQ-zi5kCTqROKxwziFsLDmaa9j07KdE=s1600)
-
 ## 9월 26일의 탄생색: 브라운 (`#7F3300`)
 
 ### 1. 브라운에 대한 설명: 대지의 심장이 뛰는 가장 뜨거운 흙의 색

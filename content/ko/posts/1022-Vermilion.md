@@ -9,16 +9,16 @@ tags:
   - "10월"
   - "e34234"
 description: "오늘의 탄생색, 버밀리온. '생명력있는, 활기찬, 열정적인'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjXhlbiAFB_CYJ9G7lzm4VxF2CTejGNAIK712xirfdSgCzVeTQBDw3A1llqk_kNz0tpOBTLTkDGnx99aT0DTsdXxXMfblN5q5GLvUuhLIVslrchE_RpovZFxQTaZqDjzfslz1kP0mx_axVh87taQwQZfcmypNwQnxvpe8WbjzFQkKp0b3eJMUNAv0wYtD-_=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjXhlbiAFB_CYJ9G7lzm4VxF2CTejGNAIK712xirfdSgCzVeTQBDw3A1llqk_kNz0tpOBTLTkDGnx99aT0DTsdXxXMfblN5q5GLvUuhLIVslrchE_RpovZFxQTaZqDjzfslz1kP0mx_axVh87taQwQZfcmypNwQnxvpe8WbjzFQkKp0b3eJMUNAv0wYtD-_=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Vermilion"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjXhlbiAFB_CYJ9G7lzm4VxF2CTejGNAIK712xirfdSgCzVeTQBDw3A1llqk_kNz0tpOBTLTkDGnx99aT0DTsdXxXMfblN5q5GLvUuhLIVslrchE_RpovZFxQTaZqDjzfslz1kP0mx_axVh87taQwQZfcmypNwQnxvpe8WbjzFQkKp0b3eJMUNAv0wYtD-_=s1600)
-
 ## 10월 22일의 탄생색: 버밀리온 (`#E34234`)
 
 ### 1. 버밀리온에 대한 설명: 대지의 맥박을 닮은 가장 살아있는 붉은빛

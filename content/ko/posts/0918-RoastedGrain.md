@@ -9,16 +9,16 @@ tags:
   - "9월"
   - "a09588"
 description: "오늘의 탄생색, 미숫가루. '건강한정신, 영양가있는, 풍요로운'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgcIYmxujCPwG7yuhvlc4gro877_8Z3vEwiGgbDW7_piC4OGXj9YnTRYq_qMee4dYlUubd7aEiKad_9gLC6E7fl5CrvPeelpLDTYY2FNSiixU-eQ7AqOUQn5yiohBfGlTJGN63cox5AKiEj4Q_MCJCtydRF_1-fQhAc0mVxwkyWZxHDzwM4EOZi9Hlm_7vx=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgcIYmxujCPwG7yuhvlc4gro877_8Z3vEwiGgbDW7_piC4OGXj9YnTRYq_qMee4dYlUubd7aEiKad_9gLC6E7fl5CrvPeelpLDTYY2FNSiixU-eQ7AqOUQn5yiohBfGlTJGN63cox5AKiEj4Q_MCJCtydRF_1-fQhAc0mVxwkyWZxHDzwM4EOZi9Hlm_7vx=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Roasted Grain"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgcIYmxujCPwG7yuhvlc4gro877_8Z3vEwiGgbDW7_piC4OGXj9YnTRYq_qMee4dYlUubd7aEiKad_9gLC6E7fl5CrvPeelpLDTYY2FNSiixU-eQ7AqOUQn5yiohBfGlTJGN63cox5AKiEj4Q_MCJCtydRF_1-fQhAc0mVxwkyWZxHDzwM4EOZi9Hlm_7vx=s1600)
-
 ## 9월 18일의 탄생색: 미숫가루 (`#A09588`)
 
 ### 1. 미숫가루에 대한 설명: 대지의 정성을 빻아 만든 고소한 위로

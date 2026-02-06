@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "633122"
 description: "오늘의 탄생색, 초코. '달콤한성격, 풍요로운, 안정된'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhqWXQmmaRAOcnEhx7embcx0ht5RTuwRnZRLNs-QGQ2AQBoCahXQf6kK3kAv788J8zmJqChs_W6qPJ09TP0-WLiYx782LOWYTi--QG3IseJwLNDkw23pCDp9tKqbRvjvy5uJnb-RlSCIt3Ooo9XpZqkhNXW2FHJXv270OeysOCdFI2RcYvUOjxKva-q-4TK=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhqWXQmmaRAOcnEhx7embcx0ht5RTuwRnZRLNs-QGQ2AQBoCahXQf6kK3kAv788J8zmJqChs_W6qPJ09TP0-WLiYx782LOWYTi--QG3IseJwLNDkw23pCDp9tKqbRvjvy5uJnb-RlSCIt3Ooo9XpZqkhNXW2FHJXv270OeysOCdFI2RcYvUOjxKva-q-4TK=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Choco"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhqWXQmmaRAOcnEhx7embcx0ht5RTuwRnZRLNs-QGQ2AQBoCahXQf6kK3kAv788J8zmJqChs_W6qPJ09TP0-WLiYx782LOWYTi--QG3IseJwLNDkw23pCDp9tKqbRvjvy5uJnb-RlSCIt3Ooo9XpZqkhNXW2FHJXv270OeysOCdFI2RcYvUOjxKva-q-4TK=s1600)
-
 ## 11월 30일의 탄생색: 초코 (`#633122`)
 
 ### 1. 초코에 대한 설명 (색의 느낌과 특징)

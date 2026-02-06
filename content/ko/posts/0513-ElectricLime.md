@@ -9,16 +9,16 @@ tags:
   - "5월"
   - "ccff00"
 description: "오늘의 탄생색, 일렉트릭 라임. '열정적, 혁신적, 독창성'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgdXiF7wtTbqXavYwEjFim9BTHFwdh8afQfO_F8aYRc5S3lYYN1dHo1S8yoK3zH4keQpegpJhffefAT59b5Nbeupq0R8K4q8hJd_MiapehzDsWv5h-VyEgLYV9EeilATfsGZfMS0f1V_fueHAXrql-WFfF89q-6VZwwDpi0FxzDFL5mj_Y42YpRG4H-w6yo=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgdXiF7wtTbqXavYwEjFim9BTHFwdh8afQfO_F8aYRc5S3lYYN1dHo1S8yoK3zH4keQpegpJhffefAT59b5Nbeupq0R8K4q8hJd_MiapehzDsWv5h-VyEgLYV9EeilATfsGZfMS0f1V_fueHAXrql-WFfF89q-6VZwwDpi0FxzDFL5mj_Y42YpRG4H-w6yo=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Electric Lime"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgdXiF7wtTbqXavYwEjFim9BTHFwdh8afQfO_F8aYRc5S3lYYN1dHo1S8yoK3zH4keQpegpJhffefAT59b5Nbeupq0R8K4q8hJd_MiapehzDsWv5h-VyEgLYV9EeilATfsGZfMS0f1V_fueHAXrql-WFfF89q-6VZwwDpi0FxzDFL5mj_Y42YpRG4H-w6yo=s1600)
-
 ## 5월 13일의 탄생색: 일렉트릭 라임 (`#CCFF00`)
 
 ### 1. 일렉트릭 라임에 대한 설명: 시신경을 깨우는 고전압의 스파크

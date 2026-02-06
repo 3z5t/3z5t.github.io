@@ -9,16 +9,16 @@ tags:
   - "10월"
   - "926630"
 description: "오늘의 탄생색, 소프트 오커. '대지같은, 풍요로운, 안정된'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhbKTIya9NHYEYOZsag3w-dOvzzBSOu4bpIeptWG4Fk8sD71yC0yBfmHLhgXGJGWtKHoeEsdRfVlyF-S7-7JnRN4nNvilomjxSpj9ZfkAnh2Mr7I1OQdSQvxNIlkjPDmprBhDKMXFALWpIXTIq9NYbjYKiZEKIWAp4igTfKwQB1K3dHOEC_5MHiQNLSSe1f=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhbKTIya9NHYEYOZsag3w-dOvzzBSOu4bpIeptWG4Fk8sD71yC0yBfmHLhgXGJGWtKHoeEsdRfVlyF-S7-7JnRN4nNvilomjxSpj9ZfkAnh2Mr7I1OQdSQvxNIlkjPDmprBhDKMXFALWpIXTIq9NYbjYKiZEKIWAp4igTfKwQB1K3dHOEC_5MHiQNLSSe1f=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Soft Ochre"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhbKTIya9NHYEYOZsag3w-dOvzzBSOu4bpIeptWG4Fk8sD71yC0yBfmHLhgXGJGWtKHoeEsdRfVlyF-S7-7JnRN4nNvilomjxSpj9ZfkAnh2Mr7I1OQdSQvxNIlkjPDmprBhDKMXFALWpIXTIq9NYbjYKiZEKIWAp4igTfKwQB1K3dHOEC_5MHiQNLSSe1f=s1600)
-
 ## 10월 19일의 탄생색: 소프트 오커 (`#926630`)
 
 ### 1. 소프트 오커에 대한 설명: 어머니 대지의 품처럼 따스하고 넉넉한 흙의 빛

@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "5e162d"
 description: "오늘의 탄생색, 앤티크 보라. '고풍스러운, 신비로운, 깊이있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg9q4eXXAkV1s8Y3YKEGFxcYlFEpiLKkkQjt-FhFRLi5Dyi7apV9Tvj87dszAqAXd_B8WOm7_CDUCwXbAbdetfq-L58A24wq_87XiSprbLohdpbaPx6nVGsk9icoKiYJomTvjgwhuINdIZ13gGxtwLoWADfhCB0iDwo66qigs2KYaqFLJxz4GrsUm-Cgv5t=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEg9q4eXXAkV1s8Y3YKEGFxcYlFEpiLKkkQjt-FhFRLi5Dyi7apV9Tvj87dszAqAXd_B8WOm7_CDUCwXbAbdetfq-L58A24wq_87XiSprbLohdpbaPx6nVGsk9icoKiYJomTvjgwhuINdIZ13gGxtwLoWADfhCB0iDwo66qigs2KYaqFLJxz4GrsUm-Cgv5t=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Antique Purple"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg9q4eXXAkV1s8Y3YKEGFxcYlFEpiLKkkQjt-FhFRLi5Dyi7apV9Tvj87dszAqAXd_B8WOm7_CDUCwXbAbdetfq-L58A24wq_87XiSprbLohdpbaPx6nVGsk9icoKiYJomTvjgwhuINdIZ13gGxtwLoWADfhCB0iDwo66qigs2KYaqFLJxz4GrsUm-Cgv5t=s1600)
-
 ## 11월 23일의 탄생색: 앤티크 보라 (`#5E162D`)
 
 ### 1. 앤티크 보라에 대한 설명 (색의 느낌과 특징)

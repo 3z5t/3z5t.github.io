@@ -9,16 +9,16 @@ tags:
   - "7월"
   - "ff7f50"
 description: "오늘의 탄생색, 코랄. '생기발랄, 매력적, 낙천적'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhBAZmFuDwuc9tS_EVTYAlOxuFIEgibOAoGJ6rmoEJnkDO3s_Eq0zse-lXzTLWqIeaQvhVYmg-AvMbB35Sr6AWfmNPcTQQt19jsuRpj_KToBb4DJp5kCMge20nIBFkFrpkDByaZJtzUo-0VmZUV0ZEzfj6BzynZvUH8IC8aUig6BWmS5wCkeJtkloDToUNy=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhBAZmFuDwuc9tS_EVTYAlOxuFIEgibOAoGJ6rmoEJnkDO3s_Eq0zse-lXzTLWqIeaQvhVYmg-AvMbB35Sr6AWfmNPcTQQt19jsuRpj_KToBb4DJp5kCMge20nIBFkFrpkDByaZJtzUo-0VmZUV0ZEzfj6BzynZvUH8IC8aUig6BWmS5wCkeJtkloDToUNy=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Coral"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhBAZmFuDwuc9tS_EVTYAlOxuFIEgibOAoGJ6rmoEJnkDO3s_Eq0zse-lXzTLWqIeaQvhVYmg-AvMbB35Sr6AWfmNPcTQQt19jsuRpj_KToBb4DJp5kCMge20nIBFkFrpkDByaZJtzUo-0VmZUV0ZEzfj6BzynZvUH8IC8aUig6BWmS5wCkeJtkloDToUNy=s1600)
-
 ## 7월 1일의 탄생색: 코랄 (`#FF7F50`)
 
 ### 1. 코랄에 대한 설명: 여름의 문을 여는 생명의 빛깔

@@ -9,16 +9,16 @@ tags:
   - "5월"
   - "99ff33"
 description: "오늘의 탄생색, 그린 옐로우. '도전정신, 활력, 창조성'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgrChPkRWkLT3PaSTLjji0yNVvjNIAF4HYkmGtSKFoGVrr3jfGO-pgNVQvARnAgx1ecGgTBbq3nTC6wMzuLTrS_fGP5JSWCpP1quDO94eMIzLGiowWBmS07eR8qJCojobjbp6AUzeOkI8yz8WTiEYOtvHmix0u10gkiIRJeA_0tNJNaN_WIM9qLmHR47vT-=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgrChPkRWkLT3PaSTLjji0yNVvjNIAF4HYkmGtSKFoGVrr3jfGO-pgNVQvARnAgx1ecGgTBbq3nTC6wMzuLTrS_fGP5JSWCpP1quDO94eMIzLGiowWBmS07eR8qJCojobjbp6AUzeOkI8yz8WTiEYOtvHmix0u10gkiIRJeA_0tNJNaN_WIM9qLmHR47vT-=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Green Yellow"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgrChPkRWkLT3PaSTLjji0yNVvjNIAF4HYkmGtSKFoGVrr3jfGO-pgNVQvARnAgx1ecGgTBbq3nTC6wMzuLTrS_fGP5JSWCpP1quDO94eMIzLGiowWBmS07eR8qJCojobjbp6AUzeOkI8yz8WTiEYOtvHmix0u10gkiIRJeA_0tNJNaN_WIM9qLmHR47vT-=s1600)
-
 ## 5월 12일의 탄생색: 그린 옐로우 (`#99FF33`)
 
 ### 1. 그린 옐로우에 대한 설명: 대지를 뚫고 나오는 폭발적인 생명력

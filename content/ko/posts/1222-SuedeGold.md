@@ -9,16 +9,16 @@ tags:
   - "12월"
   - "f9ebda"
 description: "오늘의 탄생색, 스웨이드 골드. '풍요로운, 희망찬, 기대감있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi0g2TPFt3nX-7Z5ETnPe15kKyr0aQ0F8g5cmhQBDPo7EsJVELw8pHFdAcvKf3F_wgrfBAmtPBcO_bE4F2fOVEysEEKPK_bG6okPdAbKl1OE8f2HgqkiAqfhz8TzSWoSm_A7IcCkjMU8aGBovRKn5i76ZJgYBjaVl78Ah0a68jCR8mb9TuZ7J9X5mp2pBwW=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi0g2TPFt3nX-7Z5ETnPe15kKyr0aQ0F8g5cmhQBDPo7EsJVELw8pHFdAcvKf3F_wgrfBAmtPBcO_bE4F2fOVEysEEKPK_bG6okPdAbKl1OE8f2HgqkiAqfhz8TzSWoSm_A7IcCkjMU8aGBovRKn5i76ZJgYBjaVl78Ah0a68jCR8mb9TuZ7J9X5mp2pBwW=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Suede Gold"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi0g2TPFt3nX-7Z5ETnPe15kKyr0aQ0F8g5cmhQBDPo7EsJVELw8pHFdAcvKf3F_wgrfBAmtPBcO_bE4F2fOVEysEEKPK_bG6okPdAbKl1OE8f2HgqkiAqfhz8TzSWoSm_A7IcCkjMU8aGBovRKn5i76ZJgYBjaVl78Ah0a68jCR8mb9TuZ7J9X5mp2pBwW=s1600)
-
 ## 12월 22일의 탄생색: 스웨이드 골드 (`#F9EBDA`)
 
 ### 1. 스웨이드 골드에 대한 설명 (색의 느낌과 특징)

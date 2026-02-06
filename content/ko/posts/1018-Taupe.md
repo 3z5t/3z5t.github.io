@@ -9,16 +9,16 @@ tags:
   - "10월"
   - "805454"
 description: "오늘의 탄생색, 토프 (Taupe). '차분한성격, 안정된, 균형잡힌'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgyG0_n0eMSAKjihtfK9zsPukOQTeC2Me7A4a63vjibIYEH4G00vBq3lA_jyMppO4CbDWv7GNT-CMLtRX5svRXsVs9ML-K6HKhIXfiwdjn67Pwq94d-toCikGOTFJlGAi_8wi9ELtsVSIaOx-5UScGbvhHz3mfWwQCUbLV3NdIqk8ThMJoxWWgp_KZ-LE3M=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgyG0_n0eMSAKjihtfK9zsPukOQTeC2Me7A4a63vjibIYEH4G00vBq3lA_jyMppO4CbDWv7GNT-CMLtRX5svRXsVs9ML-K6HKhIXfiwdjn67Pwq94d-toCikGOTFJlGAi_8wi9ELtsVSIaOx-5UScGbvhHz3mfWwQCUbLV3NdIqk8ThMJoxWWgp_KZ-LE3M=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Taupe"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgyG0_n0eMSAKjihtfK9zsPukOQTeC2Me7A4a63vjibIYEH4G00vBq3lA_jyMppO4CbDWv7GNT-CMLtRX5svRXsVs9ML-K6HKhIXfiwdjn67Pwq94d-toCikGOTFJlGAi_8wi9ELtsVSIaOx-5UScGbvhHz3mfWwQCUbLV3NdIqk8ThMJoxWWgp_KZ-LE3M=s1600)
-
 ## 10월 18일의 탄생색: 토프 (Taupe) (`#805454`)
 
 ### 1. 토프 (Taupe)에 대한 설명: 경계에서 피어나는 가장 우아한 모호함

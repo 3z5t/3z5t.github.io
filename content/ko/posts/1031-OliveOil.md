@@ -9,16 +9,16 @@ tags:
   - "10월"
   - "999900"
 description: "오늘의 탄생색, 올리브 오일. '풍요로운, 안정된, 희망적인'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEibP3yUsUmbzHz_pEFXkbPLSeTz55509fd72gXzOBcMAnp5ybdUQReTcWrt06Qx4z6by_GHTS5vYu0DcROfAo91RH2DDoMy2aYo8zhOgZ6mc0Lli9GMoSFXx6XAh0iBTl7KQhbFaz3wSF3TjWR2T3-mpSwKXQ8KwRTSzMXJVOS9hk4cojzHQJmi0i95Xadc=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEibP3yUsUmbzHz_pEFXkbPLSeTz55509fd72gXzOBcMAnp5ybdUQReTcWrt06Qx4z6by_GHTS5vYu0DcROfAo91RH2DDoMy2aYo8zhOgZ6mc0Lli9GMoSFXx6XAh0iBTl7KQhbFaz3wSF3TjWR2T3-mpSwKXQ8KwRTSzMXJVOS9hk4cojzHQJmi0i95Xadc=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Olive Oil"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEibP3yUsUmbzHz_pEFXkbPLSeTz55509fd72gXzOBcMAnp5ybdUQReTcWrt06Qx4z6by_GHTS5vYu0DcROfAo91RH2DDoMy2aYo8zhOgZ6mc0Lli9GMoSFXx6XAh0iBTl7KQhbFaz3wSF3TjWR2T3-mpSwKXQ8KwRTSzMXJVOS9hk4cojzHQJmi0i95Xadc=s1600)
-
 ## 10월 31일의 탄생색: 올리브 오일 (`#999900`)
 
 ### 1. 올리브 오일에 대한 설명: 태양의 축복을 가득 머금은 황금빛 액체의 생명력

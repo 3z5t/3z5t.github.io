@@ -9,16 +9,16 @@ tags:
   - "4월"
   - "00cc66"
 description: "오늘의 탄생색, 에메랄드 그린. '젊은 정신, 성장력, 희망'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgF06dWdG3QHwtEvMpBAZ2cfrJCFsgC9t8NqhSFq-a0Jsv8ze9hblKSA6ZlodCiHCRBloumMAXPgad4_KEP10FRCHEBPPG-bFcVyLJd4Ofz8pBROScIiwB12M1fh3zFgASm8JI-zckOLmgNJe_9e-tGBCmVmcFtW0gnvsGdVY1M3RC2YPb_3dALmkHaQ5K5=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgF06dWdG3QHwtEvMpBAZ2cfrJCFsgC9t8NqhSFq-a0Jsv8ze9hblKSA6ZlodCiHCRBloumMAXPgad4_KEP10FRCHEBPPG-bFcVyLJd4Ofz8pBROScIiwB12M1fh3zFgASm8JI-zckOLmgNJe_9e-tGBCmVmcFtW0gnvsGdVY1M3RC2YPb_3dALmkHaQ5K5=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Emerald Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgF06dWdG3QHwtEvMpBAZ2cfrJCFsgC9t8NqhSFq-a0Jsv8ze9hblKSA6ZlodCiHCRBloumMAXPgad4_KEP10FRCHEBPPG-bFcVyLJd4Ofz8pBROScIiwB12M1fh3zFgASm8JI-zckOLmgNJe_9e-tGBCmVmcFtW0gnvsGdVY1M3RC2YPb_3dALmkHaQ5K5=s1600)
-
 ## 4월 3일의 탄생색: 에메랄드 그린 (`#00CC66`)
 
 ### 1. 에메랄드 그린에 대한 설명 (색의 느낌과 특징)

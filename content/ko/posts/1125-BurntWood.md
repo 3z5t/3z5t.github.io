@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "3f242d"
 description: "오늘의 탄생색, 번트 우드. '깊이있는, 성숙한, 안정된'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhPpzQd7fVNaLMR21X_Vf0ZnrNRkaLQlyQmHXFHlHcyDwDOIQgblCtOK5tDk5aKlGlS5IU0isU0zZ--QJFxsmgUGhMYtL7_47cjTII2lO7ren8J3zrPDlWbuD76o1bZeAiMms3A-q6e-G4tZ4yM6kK7CTQKcR6Z4jeSS4yMqZqBKlzbFbeVPR9_4f4xIFjP=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhPpzQd7fVNaLMR21X_Vf0ZnrNRkaLQlyQmHXFHlHcyDwDOIQgblCtOK5tDk5aKlGlS5IU0isU0zZ--QJFxsmgUGhMYtL7_47cjTII2lO7ren8J3zrPDlWbuD76o1bZeAiMms3A-q6e-G4tZ4yM6kK7CTQKcR6Z4jeSS4yMqZqBKlzbFbeVPR9_4f4xIFjP=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Burnt Wood"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhPpzQd7fVNaLMR21X_Vf0ZnrNRkaLQlyQmHXFHlHcyDwDOIQgblCtOK5tDk5aKlGlS5IU0isU0zZ--QJFxsmgUGhMYtL7_47cjTII2lO7ren8J3zrPDlWbuD76o1bZeAiMms3A-q6e-G4tZ4yM6kK7CTQKcR6Z4jeSS4yMqZqBKlzbFbeVPR9_4f4xIFjP=s1600)
-
 ## 11월 25일의 탄생색: 번트 우드 (`#3F242D`)
 
 ### 1. 번트 우드에 대한 설명 (색의 느낌과 특징)

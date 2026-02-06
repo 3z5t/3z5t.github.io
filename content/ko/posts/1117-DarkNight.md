@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "2a2333"
 description: "오늘의 탄생색, 어두운 밤. '명상적인, 사색하는, 신비로운'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjdmP4JNzDPB6I341NmtbkdWvLMQ1oJ5fqwCHJuzviZoRgHnz34Wwt38YLj5Yyejd8gTyBjWalLbRVgdJIuBZK6a-GYHzf3CoCwCIi1oHZ-m7tcNZh33w633-pts1pD5uXFbbPi_PctFPv9I2koA2G1DjcEUL-fGZON4w1lVmlF7jpnBZj2llAZ8pQTUv17=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjdmP4JNzDPB6I341NmtbkdWvLMQ1oJ5fqwCHJuzviZoRgHnz34Wwt38YLj5Yyejd8gTyBjWalLbRVgdJIuBZK6a-GYHzf3CoCwCIi1oHZ-m7tcNZh33w633-pts1pD5uXFbbPi_PctFPv9I2koA2G1DjcEUL-fGZON4w1lVmlF7jpnBZj2llAZ8pQTUv17=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Dark Night"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjdmP4JNzDPB6I341NmtbkdWvLMQ1oJ5fqwCHJuzviZoRgHnz34Wwt38YLj5Yyejd8gTyBjWalLbRVgdJIuBZK6a-GYHzf3CoCwCIi1oHZ-m7tcNZh33w633-pts1pD5uXFbbPi_PctFPv9I2koA2G1DjcEUL-fGZON4w1lVmlF7jpnBZj2llAZ8pQTUv17=s1600)
-
 ## 11월 17일의 탄생색: 어두운 밤 (`#2A2333`)
 
 ### 1. 어두운 밤에 대한 설명: 영혼의 커튼이 내려지는 가장 깊은 보랏빛 흑색

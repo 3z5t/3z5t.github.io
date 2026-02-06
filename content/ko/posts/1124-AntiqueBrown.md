@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "35292a"
 description: "오늘의 탄생색, 앤티크 브라운. '전통적인, 안정된, 깊이있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhiyjzfX6DLzzoAToKsHmmUTRXVm_2l74pb8npaSfHiiSCHL3pCwlXZ68oF-XzAwK4tFi4oPKBwIkX1jVP1JZDTd7XjBiHJA5jbedbCnJxG8aA7RS_03dCzwtx-mwG-Hn6PDoqYoh2HIIDd-XCtNlGThPIPrMixo4f2BKbcTB9Egedk5kpInvmY0BCur9RA=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhiyjzfX6DLzzoAToKsHmmUTRXVm_2l74pb8npaSfHiiSCHL3pCwlXZ68oF-XzAwK4tFi4oPKBwIkX1jVP1JZDTd7XjBiHJA5jbedbCnJxG8aA7RS_03dCzwtx-mwG-Hn6PDoqYoh2HIIDd-XCtNlGThPIPrMixo4f2BKbcTB9Egedk5kpInvmY0BCur9RA=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Antique Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhiyjzfX6DLzzoAToKsHmmUTRXVm_2l74pb8npaSfHiiSCHL3pCwlXZ68oF-XzAwK4tFi4oPKBwIkX1jVP1JZDTd7XjBiHJA5jbedbCnJxG8aA7RS_03dCzwtx-mwG-Hn6PDoqYoh2HIIDd-XCtNlGThPIPrMixo4f2BKbcTB9Egedk5kpInvmY0BCur9RA=s1600)
-
 ## 11월 24일의 탄생색: 앤티크 브라운 (`#35292A`)
 
 ### 1. 앤티크 브라운에 대한 설명 (색의 느낌과 특징)

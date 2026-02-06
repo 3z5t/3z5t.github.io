@@ -9,16 +9,16 @@ tags:
   - "3월"
   - "ffc7c6"
 description: "오늘의 탄생색, 신데렐라 핑크. '동화같은, 꿈많은, 낭만적'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjlg4IdR_6g4vVqPUeZzHNJMMo6Q2KZhC4-n5cBF_47ww-2bqIPZED9uSPqAeiVzpf3Wpw2Dt3xZ39l1YFK1hl_I_IUkSCDQbeLJ0m-hxkvhYoh1bO8jj2CIHrlAhhZRcD9j0EJDcj8QhKhfeu8rPy-JIRSz0ILYdc8G-lOS6V6Ee8gi9fznKck-qnGFu91=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjlg4IdR_6g4vVqPUeZzHNJMMo6Q2KZhC4-n5cBF_47ww-2bqIPZED9uSPqAeiVzpf3Wpw2Dt3xZ39l1YFK1hl_I_IUkSCDQbeLJ0m-hxkvhYoh1bO8jj2CIHrlAhhZRcD9j0EJDcj8QhKhfeu8rPy-JIRSz0ILYdc8G-lOS6V6Ee8gi9fznKck-qnGFu91=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Cinderella Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjlg4IdR_6g4vVqPUeZzHNJMMo6Q2KZhC4-n5cBF_47ww-2bqIPZED9uSPqAeiVzpf3Wpw2Dt3xZ39l1YFK1hl_I_IUkSCDQbeLJ0m-hxkvhYoh1bO8jj2CIHrlAhhZRcD9j0EJDcj8QhKhfeu8rPy-JIRSz0ILYdc8G-lOS6V6Ee8gi9fznKck-qnGFu91=s1600)
-
 ## 3월 27일의 탄생색: 신데렐라 핑크 (`#FFC7C6`)
 
 ### 1. 신데렐라 핑크에 대한 설명 (색의 느낌과 특징)

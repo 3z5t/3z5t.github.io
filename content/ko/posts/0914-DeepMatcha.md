@@ -9,16 +9,16 @@ tags:
   - "9월"
   - "74703f"
 description: "오늘의 탄생색, 딥 말차. '깊이있는, 지혜로운, 성숙한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEizEmH7icMEHeXLJWANy6FXnDyWg2ymlbuysP-Y6DGh6QjsSIzu4MaDWmx0Fv_iTsPE-j6b6n0_OqCYv3MnhCRafXWraXqvi1z_HG-2B_f9SNzcwDuBevtESvTxCRnLrFhqZg0b7h1pvloNH_sFCYLBNWR9ZP9AbLBK4sn3Kvn48RYRZTX-wl_aPNk2mF5R=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEizEmH7icMEHeXLJWANy6FXnDyWg2ymlbuysP-Y6DGh6QjsSIzu4MaDWmx0Fv_iTsPE-j6b6n0_OqCYv3MnhCRafXWraXqvi1z_HG-2B_f9SNzcwDuBevtESvTxCRnLrFhqZg0b7h1pvloNH_sFCYLBNWR9ZP9AbLBK4sn3Kvn48RYRZTX-wl_aPNk2mF5R=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Deep Matcha"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEizEmH7icMEHeXLJWANy6FXnDyWg2ymlbuysP-Y6DGh6QjsSIzu4MaDWmx0Fv_iTsPE-j6b6n0_OqCYv3MnhCRafXWraXqvi1z_HG-2B_f9SNzcwDuBevtESvTxCRnLrFhqZg0b7h1pvloNH_sFCYLBNWR9ZP9AbLBK4sn3Kvn48RYRZTX-wl_aPNk2mF5R=s1600)
-
 ## 9월 14일의 탄생색: 딥 말차 (`#74703F`)
 
 ### 1. 딥 말차에 대한 설명: 시간을 우려낸 깊고 진한 초록의 침묵

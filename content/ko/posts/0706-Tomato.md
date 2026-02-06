@@ -9,16 +9,16 @@ tags:
   - "7월"
   - "ff6347"
 description: "오늘의 탄생색, 토마토. '건강한정신, 신선함, 활력적'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi4ISonjzdHxTnaAAYK4xzm5WqBE1ZPsaEUWXRYYwpbUsR5r6ce53Lp0X8froYAsAqy05o6kvi2ph--V1XwhPXADYCUW_En3rKHXBgS1_23QX7Le1IWeUq0OpEQkOoJ8l4FYFZEoG-0KiVz3J-CjODpJSVB8Od35XA0E764H4ZVU831kaQj0qetqLsYEzG6=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi4ISonjzdHxTnaAAYK4xzm5WqBE1ZPsaEUWXRYYwpbUsR5r6ce53Lp0X8froYAsAqy05o6kvi2ph--V1XwhPXADYCUW_En3rKHXBgS1_23QX7Le1IWeUq0OpEQkOoJ8l4FYFZEoG-0KiVz3J-CjODpJSVB8Od35XA0E764H4ZVU831kaQj0qetqLsYEzG6=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Tomato"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi4ISonjzdHxTnaAAYK4xzm5WqBE1ZPsaEUWXRYYwpbUsR5r6ce53Lp0X8froYAsAqy05o6kvi2ph--V1XwhPXADYCUW_En3rKHXBgS1_23QX7Le1IWeUq0OpEQkOoJ8l4FYFZEoG-0KiVz3J-CjODpJSVB8Od35XA0E764H4ZVU831kaQj0qetqLsYEzG6=s1600)
-
 ## 7월 6일의 탄생색: 토마토 (`#FF6347`)
 
 ### 1. 토마토에 대한 설명: 태양이 빚어낸 가장 건강한 붉은빛

@@ -9,16 +9,16 @@ tags:
   - "5월"
   - "347691"
 description: "오늘의 탄생색, 딥 시안. '신비로움, 직관력, 통찰력'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgIa4DUebpkvGDLc_8ktBTy9sGtl96VvL2zG_4UA4BrsQPLlRsQdMkvfLF1iomIpwUPAgTbGOnRJXQ43K79fgHJehk1D40XhgYWwcYpHkkdYyMYpZrbBLXJhwO3OIMG_VhVYYpGX9ey6sIbh7zkI44E3cBBWXpp2hCqSQYUaOgWT2HFsnjZKBySIgp9LJhF=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgIa4DUebpkvGDLc_8ktBTy9sGtl96VvL2zG_4UA4BrsQPLlRsQdMkvfLF1iomIpwUPAgTbGOnRJXQ43K79fgHJehk1D40XhgYWwcYpHkkdYyMYpZrbBLXJhwO3OIMG_VhVYYpGX9ey6sIbh7zkI44E3cBBWXpp2hCqSQYUaOgWT2HFsnjZKBySIgp9LJhF=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Deep Cyan"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgIa4DUebpkvGDLc_8ktBTy9sGtl96VvL2zG_4UA4BrsQPLlRsQdMkvfLF1iomIpwUPAgTbGOnRJXQ43K79fgHJehk1D40XhgYWwcYpHkkdYyMYpZrbBLXJhwO3OIMG_VhVYYpGX9ey6sIbh7zkI44E3cBBWXpp2hCqSQYUaOgWT2HFsnjZKBySIgp9LJhF=s1600)
-
 ## 5월 23일의 탄생색: 딥 시안 (`#347691`)
 
 ### 1. 딥 시안에 대한 설명: 침묵 속에 잠긴 심해의 신비

@@ -9,16 +9,16 @@ tags:
   - "6월"
   - "c6794a"
 description: "오늘의 탄생색, 브랜디 펀치. '깊이있는, 안정된, 성숙한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEglKmzLaik1Op6YtHQ2Iu7r_Kn-w1A3yoZOTeogzpXGCwyeK55stl9aoKxNT77P1lTwa-jr5kzTnVPvhOKIy27OnnttClvQlEBsOqZiWW1374Pya5L8ilH07R85XOOCYPdMLNFr_PnbakIotbwQ6FprSG8OE6uBSHQq_cXGd_TM2omlnkegfYwfKx0HaDv3=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEglKmzLaik1Op6YtHQ2Iu7r_Kn-w1A3yoZOTeogzpXGCwyeK55stl9aoKxNT77P1lTwa-jr5kzTnVPvhOKIy27OnnttClvQlEBsOqZiWW1374Pya5L8ilH07R85XOOCYPdMLNFr_PnbakIotbwQ6FprSG8OE6uBSHQq_cXGd_TM2omlnkegfYwfKx0HaDv3=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Brandy Punch"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEglKmzLaik1Op6YtHQ2Iu7r_Kn-w1A3yoZOTeogzpXGCwyeK55stl9aoKxNT77P1lTwa-jr5kzTnVPvhOKIy27OnnttClvQlEBsOqZiWW1374Pya5L8ilH07R85XOOCYPdMLNFr_PnbakIotbwQ6FprSG8OE6uBSHQq_cXGd_TM2omlnkegfYwfKx0HaDv3=s1600)
-
 ## 6월 18일의 탄생색: 브랜디 펀치 (`#C6794A`)
 
 ### 1. 브랜디 펀치에 대한 설명: 시간의 깊이가 빚어낸 우아한 숙성

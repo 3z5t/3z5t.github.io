@@ -9,16 +9,16 @@ tags:
   - "4월"
   - "476664"
 description: "오늘의 탄생색, 에이션트 그린. '지혜로움, 고요함, 전통성'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgW-p6b0YzfpsRuu3y5fkodH0IBOkUSVn-wrayE9rIURbDrDMig4H3w3F5Dbvb-wwluJ3Qek8X1V1Zr_5Kk_8N_wkoXRQO7r8aeG4uLj2SjXh0Fy-MabT3bnIja6jbxIjIi0Lgi3rslnBmM5DnZswDmB-m3XdgA5yOmyn8AogFe8m3QjOuZ2jTNRPyYqhzj=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgW-p6b0YzfpsRuu3y5fkodH0IBOkUSVn-wrayE9rIURbDrDMig4H3w3F5Dbvb-wwluJ3Qek8X1V1Zr_5Kk_8N_wkoXRQO7r8aeG4uLj2SjXh0Fy-MabT3bnIja6jbxIjIi0Lgi3rslnBmM5DnZswDmB-m3XdgA5yOmyn8AogFe8m3QjOuZ2jTNRPyYqhzj=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Ancient Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgW-p6b0YzfpsRuu3y5fkodH0IBOkUSVn-wrayE9rIURbDrDMig4H3w3F5Dbvb-wwluJ3Qek8X1V1Zr_5Kk_8N_wkoXRQO7r8aeG4uLj2SjXh0Fy-MabT3bnIja6jbxIjIi0Lgi3rslnBmM5DnZswDmB-m3XdgA5yOmyn8AogFe8m3QjOuZ2jTNRPyYqhzj=s1600)
-
 ## 4월 26일의 탄생색: 에이션트 그린 (`#476664`)
 
 ### 1. 에이션트 그린에 대한 설명 (색의 느낌과 특징)

@@ -9,16 +9,16 @@ tags:
   - "10월"
   - "aa0000"
 description: "오늘의 탄생색, 가넷 레드. '단단한의지, 열정적인, 강인한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgbHRmaPM1uGMC-1EGVTkEDiu6MID-mYoSxOc0STSUFLziSAuNWKNZMmt3COedyKGbyi8PkY25x9TQOAUMcav_6iqZiBzo3U-Wiv5R_zjnklfp2BInPRdzusP7aR4bFZSmERQr2SglsrogCzbBehqCAy7W0H69xnDvNxlpT-MbL6k9Socb_EUsQe0kpS-js=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgbHRmaPM1uGMC-1EGVTkEDiu6MID-mYoSxOc0STSUFLziSAuNWKNZMmt3COedyKGbyi8PkY25x9TQOAUMcav_6iqZiBzo3U-Wiv5R_zjnklfp2BInPRdzusP7aR4bFZSmERQr2SglsrogCzbBehqCAy7W0H69xnDvNxlpT-MbL6k9Socb_EUsQe0kpS-js=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Garnet Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgbHRmaPM1uGMC-1EGVTkEDiu6MID-mYoSxOc0STSUFLziSAuNWKNZMmt3COedyKGbyi8PkY25x9TQOAUMcav_6iqZiBzo3U-Wiv5R_zjnklfp2BInPRdzusP7aR4bFZSmERQr2SglsrogCzbBehqCAy7W0H69xnDvNxlpT-MbL6k9Socb_EUsQe0kpS-js=s1600)
-
 ## 10월 12일의 탄생색: 가넷 레드 (`#AA0000`)
 
 ### 1. 가넷 레드에 대한 설명: 시련 속에서 단단하게 결정화된 불멸의 붉은 빛

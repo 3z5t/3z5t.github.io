@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "eae1dd"
 description: "오늘의 탄생색, 진주. '가치있는, 품격있는, 고결한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhr5Fi5BrrCjIflAE6Lr2-DwryOY9E8qxuZqgxJHCOAdQDkdbo7C852AKOJ-m5VMINEvToXKV6djq0PM3MG5qKIQ5LWFRwD2Ejj6BbNLLHsoEv0lbCR0a8_CGsvp_WfKtl-bYYuWXHHW18SkWd49c18SflHd6gQPXBd3fZN9V4RJ3N8V-Uqu6ZyKEw9LP7D=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhr5Fi5BrrCjIflAE6Lr2-DwryOY9E8qxuZqgxJHCOAdQDkdbo7C852AKOJ-m5VMINEvToXKV6djq0PM3MG5qKIQ5LWFRwD2Ejj6BbNLLHsoEv0lbCR0a8_CGsvp_WfKtl-bYYuWXHHW18SkWd49c18SflHd6gQPXBd3fZN9V4RJ3N8V-Uqu6ZyKEw9LP7D=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Pearl"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhr5Fi5BrrCjIflAE6Lr2-DwryOY9E8qxuZqgxJHCOAdQDkdbo7C852AKOJ-m5VMINEvToXKV6djq0PM3MG5qKIQ5LWFRwD2Ejj6BbNLLHsoEv0lbCR0a8_CGsvp_WfKtl-bYYuWXHHW18SkWd49c18SflHd6gQPXBd3fZN9V4RJ3N8V-Uqu6ZyKEw9LP7D=s1600)
-
 ## 8월 10일의 탄생색: 진주 (`#EAE1DD`)
 
 ### 1. 진주에 대한 설명: 시간과 인내가 빚어낸 영롱한 눈물

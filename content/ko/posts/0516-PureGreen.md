@@ -9,16 +9,16 @@ tags:
   - "5월"
   - "2fba10"
 description: "오늘의 탄생색, 퓨어 그린. '순수함, 자연스러움, 생명력'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEigJqQMAtoCRMbtGit-dlEj86eE7xj0WnfeKztte329DveJWLj37LwxJYy1_XYKeuZONaLwYKx6eCcJlRPyz2PRd7NSch4gWUaUbPhv3klAU8EOrVOMHBv3dF6sNTkoqSzIHgwfHVR_qz6tRjeZm-GQ26gKAvK_3-fMRAr7eEINvjPPOBuKrkwbn_TWmTcM=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEigJqQMAtoCRMbtGit-dlEj86eE7xj0WnfeKztte329DveJWLj37LwxJYy1_XYKeuZONaLwYKx6eCcJlRPyz2PRd7NSch4gWUaUbPhv3klAU8EOrVOMHBv3dF6sNTkoqSzIHgwfHVR_qz6tRjeZm-GQ26gKAvK_3-fMRAr7eEINvjPPOBuKrkwbn_TWmTcM=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Pure Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEigJqQMAtoCRMbtGit-dlEj86eE7xj0WnfeKztte329DveJWLj37LwxJYy1_XYKeuZONaLwYKx6eCcJlRPyz2PRd7NSch4gWUaUbPhv3klAU8EOrVOMHBv3dF6sNTkoqSzIHgwfHVR_qz6tRjeZm-GQ26gKAvK_3-fMRAr7eEINvjPPOBuKrkwbn_TWmTcM=s1600)
-
 ## 5월 16일의 탄생색: 퓨어 그린 (`#2FBA10`)
 
 ### 1. 퓨어 그린에 대한 설명: 가공되지 않은 자연 그대로의 숨결

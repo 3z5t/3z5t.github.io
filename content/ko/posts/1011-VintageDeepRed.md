@@ -9,16 +9,16 @@ tags:
   - "10월"
   - "8d192b"
 description: "오늘의 탄생색, 빈티지 딥 레드. '깊이있는, 진중한, 성숙한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiKavqExnNQ5EOIyLa5H7DBTFNYmcTt5lkemMJzUzx7Zt5MvK_SIEINoSH1lte-rerIjM25aw4SYX-N7UXp9xyQCgmgaKz48xMLjoWbR5QhbJyJA1_NA1RGeYhiR5eZpQi4cmI0z6q3J6GlWERQ5XJYuFkl06fj0OrW7U73UQiXuZ0Gnpz9Dr8cdCTZrDPi=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiKavqExnNQ5EOIyLa5H7DBTFNYmcTt5lkemMJzUzx7Zt5MvK_SIEINoSH1lte-rerIjM25aw4SYX-N7UXp9xyQCgmgaKz48xMLjoWbR5QhbJyJA1_NA1RGeYhiR5eZpQi4cmI0z6q3J6GlWERQ5XJYuFkl06fj0OrW7U73UQiXuZ0Gnpz9Dr8cdCTZrDPi=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Vintage Deep Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiKavqExnNQ5EOIyLa5H7DBTFNYmcTt5lkemMJzUzx7Zt5MvK_SIEINoSH1lte-rerIjM25aw4SYX-N7UXp9xyQCgmgaKz48xMLjoWbR5QhbJyJA1_NA1RGeYhiR5eZpQi4cmI0z6q3J6GlWERQ5XJYuFkl06fj0OrW7U73UQiXuZ0Gnpz9Dr8cdCTZrDPi=s1600)
-
 ## 10월 11일의 탄생색: 빈티지 딥 레드 (`#8D192B`)
 
 ### 1. 빈티지 딥 레드에 대한 설명: 시간의 켜가 쌓여 만들어진 고혹적인 침묵

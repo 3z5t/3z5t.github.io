@@ -9,16 +9,16 @@ tags:
   - "9월"
   - "eee9e2"
 description: "오늘의 탄생색, 고운 모래. '순수한마음, 자연스러운, 평화로운'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjd-oUGcaq1flxWuDFOuriLDB0ElM51H3nlXWGD_fRFNwhs4YraEp1FpFP2mbw73fLmeWyPTUP98luhUz-83LnCsSyakzNRzygxuiVuousW3rTQWX-4gUjEvscFCrck_mYauTDQgpERfC4X7XXRvLEbOGpy1RFtIp5v5aUgMhJppYW1iAXqUr3FJq3SOCTl=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjd-oUGcaq1flxWuDFOuriLDB0ElM51H3nlXWGD_fRFNwhs4YraEp1FpFP2mbw73fLmeWyPTUP98luhUz-83LnCsSyakzNRzygxuiVuousW3rTQWX-4gUjEvscFCrck_mYauTDQgpERfC4X7XXRvLEbOGpy1RFtIp5v5aUgMhJppYW1iAXqUr3FJq3SOCTl=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Fine Sand"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjd-oUGcaq1flxWuDFOuriLDB0ElM51H3nlXWGD_fRFNwhs4YraEp1FpFP2mbw73fLmeWyPTUP98luhUz-83LnCsSyakzNRzygxuiVuousW3rTQWX-4gUjEvscFCrck_mYauTDQgpERfC4X7XXRvLEbOGpy1RFtIp5v5aUgMhJppYW1iAXqUr3FJq3SOCTl=s1600)
-
 ## 9월 11일의 탄생색: 고운 모래 (`#EEE9E2`)
 
 ### 1. 고운 모래에 대한 설명: 자연이 빚어낸 가장 순수한 여백

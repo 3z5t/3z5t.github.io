@@ -9,16 +9,16 @@ tags:
   - "12월"
   - "bb8f3d"
 description: "오늘의 탄생색, 앤티크 머스타드. '차분한성격, 풍요로운, 깊이있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiE_ZwSVYZ0_xtxDk4vXKE6VDVQ4W9TI6lr3VUmvw2XB5piR-oCn-gxxayB4RhoEJoc88y5abFvFTcIc6WSqnu5cTiA4arSkopOsJrSwjRF0bQLaBIOPcUqr-f_DlRQ2ZxoGyZk57jgvXIroIP90ueGFp40OSqlmR01ffeuD-POmZsKbx2wp4jnp3xQ6La9=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiE_ZwSVYZ0_xtxDk4vXKE6VDVQ4W9TI6lr3VUmvw2XB5piR-oCn-gxxayB4RhoEJoc88y5abFvFTcIc6WSqnu5cTiA4arSkopOsJrSwjRF0bQLaBIOPcUqr-f_DlRQ2ZxoGyZk57jgvXIroIP90ueGFp40OSqlmR01ffeuD-POmZsKbx2wp4jnp3xQ6La9=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Antique Mustard"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiE_ZwSVYZ0_xtxDk4vXKE6VDVQ4W9TI6lr3VUmvw2XB5piR-oCn-gxxayB4RhoEJoc88y5abFvFTcIc6WSqnu5cTiA4arSkopOsJrSwjRF0bQLaBIOPcUqr-f_DlRQ2ZxoGyZk57jgvXIroIP90ueGFp40OSqlmR01ffeuD-POmZsKbx2wp4jnp3xQ6La9=s1600)
-
 ## 12월 28일의 탄생색: 앤티크 머스타드 (`#BB8F3D`)
 
 ### 1. 앤티크 머스타드에 대한 설명 (색의 느낌과 특징)

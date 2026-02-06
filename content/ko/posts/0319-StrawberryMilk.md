@@ -9,16 +9,16 @@ tags:
   - "3월"
   - "ff81d3"
 description: "오늘의 탄생색, 딸기우유. '달콤함, 행복감, 즐거움'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi28BpcebLOU9MaEzh_WGZS3edK0B2ZR3fSkr6Wf7SUY6MFVDi4dv6bUed1iDjLcfSwAepzHIZp4xOGNA1lk-5EKM595t7Ybb4V06gRz3ieAINitjQSs7fG4cW4OkyFvVVU6aC5debgzGx_0XqVxu-IFAiPurypDRyFSiR2k5VjT-rEpoM1hSkBfzxKA8ne=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi28BpcebLOU9MaEzh_WGZS3edK0B2ZR3fSkr6Wf7SUY6MFVDi4dv6bUed1iDjLcfSwAepzHIZp4xOGNA1lk-5EKM595t7Ybb4V06gRz3ieAINitjQSs7fG4cW4OkyFvVVU6aC5debgzGx_0XqVxu-IFAiPurypDRyFSiR2k5VjT-rEpoM1hSkBfzxKA8ne=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Strawberry Milk"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi28BpcebLOU9MaEzh_WGZS3edK0B2ZR3fSkr6Wf7SUY6MFVDi4dv6bUed1iDjLcfSwAepzHIZp4xOGNA1lk-5EKM595t7Ybb4V06gRz3ieAINitjQSs7fG4cW4OkyFvVVU6aC5debgzGx_0XqVxu-IFAiPurypDRyFSiR2k5VjT-rEpoM1hSkBfzxKA8ne=s1600)
-
 ## 3월 19일의 탄생색: 딸기우유 (`#FF81D3`)
 
 ### 1. 딸기우유에 대한 설명 (색의 느낌과 특징)

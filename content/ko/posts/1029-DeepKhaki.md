@@ -9,16 +9,16 @@ tags:
   - "10월"
   - "525c3e"
 description: "오늘의 탄생색, 진한 카키. '자연스러운, 안정된, 평화로운'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgpR3pircoChSCSruHTl_5F6eCWfx6CU9USy2r-SFP1ru9Xp_dM-11c_cg_XfQ4MG4xFIo_wnLrm2-FRPixWmRrioTGXBqX68iKUET0fWU4oXRP1J55WxnFGLPg-MqhL3CFTScpog6A3_1o6IDANDFqgs46plleNf-x_O8lKh_atRYpvWg75FDNqBRX4fWA=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgpR3pircoChSCSruHTl_5F6eCWfx6CU9USy2r-SFP1ru9Xp_dM-11c_cg_XfQ4MG4xFIo_wnLrm2-FRPixWmRrioTGXBqX68iKUET0fWU4oXRP1J55WxnFGLPg-MqhL3CFTScpog6A3_1o6IDANDFqgs46plleNf-x_O8lKh_atRYpvWg75FDNqBRX4fWA=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Deep Khaki"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgpR3pircoChSCSruHTl_5F6eCWfx6CU9USy2r-SFP1ru9Xp_dM-11c_cg_XfQ4MG4xFIo_wnLrm2-FRPixWmRrioTGXBqX68iKUET0fWU4oXRP1J55WxnFGLPg-MqhL3CFTScpog6A3_1o6IDANDFqgs46plleNf-x_O8lKh_atRYpvWg75FDNqBRX4fWA=s1600)
-
 ## 10월 29일의 탄생색: 진한 카키 (`#525C3E`)
 
 ### 1. 진한 카키에 대한 설명: 태고의 숲이 간직한 가장 깊은 침묵

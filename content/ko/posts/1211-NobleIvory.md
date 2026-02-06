@@ -9,16 +9,16 @@ tags:
   - "12월"
   - "f4ebe7"
 description: "오늘의 탄생색, 노블 아이보리. '고귀한영혼, 우아한, 품격있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjlPgszFbfCgrxDpKwRnkJGeOhd6CpIJ2y4hyDlgxugAnvubAGON_RfJIPfNB0qb6sWOsy2fRunkKUAapVuusJXGbfwWyq1HnZvEpNoqqO2LGGw9QJwkMdlqbW9bZAj2hOLlTLOg7UAoDLLrAZHV24kUaH0iPt8P1Hi4CHlzRKdH-WZMOrVMO47m-lv8pED=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjlPgszFbfCgrxDpKwRnkJGeOhd6CpIJ2y4hyDlgxugAnvubAGON_RfJIPfNB0qb6sWOsy2fRunkKUAapVuusJXGbfwWyq1HnZvEpNoqqO2LGGw9QJwkMdlqbW9bZAj2hOLlTLOg7UAoDLLrAZHV24kUaH0iPt8P1Hi4CHlzRKdH-WZMOrVMO47m-lv8pED=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Noble Ivory"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjlPgszFbfCgrxDpKwRnkJGeOhd6CpIJ2y4hyDlgxugAnvubAGON_RfJIPfNB0qb6sWOsy2fRunkKUAapVuusJXGbfwWyq1HnZvEpNoqqO2LGGw9QJwkMdlqbW9bZAj2hOLlTLOg7UAoDLLrAZHV24kUaH0iPt8P1Hi4CHlzRKdH-WZMOrVMO47m-lv8pED=s1600)
-
 ## 12월 11일의 탄생색: 노블 아이보리 (`#F4EBE7`)
 
 ### 1. 노블 아이보리에 대한 설명 (색의 느낌과 특징)

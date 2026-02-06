@@ -11,16 +11,16 @@ tags:
   - 00008b
   - 1월
 description: 오늘의 탄생색, 다크 블루. '통찰력, 사색적, 지혜로움'이라는 의미를 담고 있어요.
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhyEiAEgu79XEIgTsI1tKuUsVEN2XlPfZrcoM_hVGXfB0q_OL4mRjfxZv0wWZGNac7fjGXU4R_VjLK5B9M0Mvn0icpbXmw2U-BazgmPWPRLDJKi7VvajQ95jNzTHPB5uiRi2ZaSYfTAQ1pQlHklbKGN1_aQOqm_KKoUywIx_lxUydswhD-Fp6yET9AbCZvo=s1600
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhyEiAEgu79XEIgTsI1tKuUsVEN2XlPfZrcoM_hVGXfB0q_OL4mRjfxZv0wWZGNac7fjGXU4R_VjLK5B9M0Mvn0icpbXmw2U-BazgmPWPRLDJKi7VvajQ95jNzTHPB5uiRi2ZaSYfTAQ1pQlHklbKGN1_aQOqm_KKoUywIx_lxUydswhD-Fp6yET9AbCZvo=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: Dark Blue
 author: 하루의 조각
 profileName: 하루의 조각
 postId: "5575116832046658194"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhyEiAEgu79XEIgTsI1tKuUsVEN2XlPfZrcoM_hVGXfB0q_OL4mRjfxZv0wWZGNac7fjGXU4R_VjLK5B9M0Mvn0icpbXmw2U-BazgmPWPRLDJKi7VvajQ95jNzTHPB5uiRi2ZaSYfTAQ1pQlHklbKGN1_aQOqm_KKoUywIx_lxUydswhD-Fp6yET9AbCZvo=s1600)
-
 
 **1월 13일의 탄생색: 다크 블루 (#00008B)**
 

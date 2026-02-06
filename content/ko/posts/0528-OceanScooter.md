@@ -9,16 +9,16 @@ tags:
   - "5월"
   - "339999"
 description: "오늘의 탄생색, 오션 스쿠터. '모험심, 도전정신, 활력적'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh_kO-hVjavGMCQKTE242BFWfA-LK8XEGl35-am-L883fxOG4vPCtGOD3i5v-MZmjHq8K22dtXXOGRtG7cYmH6Y-4Zr963WOCM7I9N_kXVxXRB288m-SCI0fiwxOR8ALNTUCIYXFLjoRn2c-5d-c3kXTkOWZvGKwIEIDxvokimKDj3IFWWqyFriK07U8qtb=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh_kO-hVjavGMCQKTE242BFWfA-LK8XEGl35-am-L883fxOG4vPCtGOD3i5v-MZmjHq8K22dtXXOGRtG7cYmH6Y-4Zr963WOCM7I9N_kXVxXRB288m-SCI0fiwxOR8ALNTUCIYXFLjoRn2c-5d-c3kXTkOWZvGKwIEIDxvokimKDj3IFWWqyFriK07U8qtb=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Ocean Scooter"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh_kO-hVjavGMCQKTE242BFWfA-LK8XEGl35-am-L883fxOG4vPCtGOD3i5v-MZmjHq8K22dtXXOGRtG7cYmH6Y-4Zr963WOCM7I9N_kXVxXRB288m-SCI0fiwxOR8ALNTUCIYXFLjoRn2c-5d-c3kXTkOWZvGKwIEIDxvokimKDj3IFWWqyFriK07U8qtb=s1600)
-
 ## 5월 28일의 탄생색: 오션 스쿠터 (`#339999`)
 
 ### 1. 오션 스쿠터에 대한 설명: 수평선을 향해 질주하는 청록의 자유

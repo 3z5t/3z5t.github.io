@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "2b2b2b"
 description: "오늘의 탄생색, 리얼 블랙. '무게감있는, 깊이있는, 안정된'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg4P6lOxPnf3-B0cc_BQupg7NLIl7YZjZ3bDcDlenVRjlpOn01mZ9niFIPn45D2UIzO9k079fVJ4rRftfhFJaL1nHGifyhaLmDCyMD6jLpeQmHjFOVGSuLeq9piiQDaIvR1rgwU4ucId1tFJy5u5FQzMt24mSb8irQV9MnZTnS0nbwvlVnOKG_WYxMRuz_2=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEg4P6lOxPnf3-B0cc_BQupg7NLIl7YZjZ3bDcDlenVRjlpOn01mZ9niFIPn45D2UIzO9k079fVJ4rRftfhFJaL1nHGifyhaLmDCyMD6jLpeQmHjFOVGSuLeq9piiQDaIvR1rgwU4ucId1tFJy5u5FQzMt24mSb8irQV9MnZTnS0nbwvlVnOKG_WYxMRuz_2=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Real Black"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg4P6lOxPnf3-B0cc_BQupg7NLIl7YZjZ3bDcDlenVRjlpOn01mZ9niFIPn45D2UIzO9k079fVJ4rRftfhFJaL1nHGifyhaLmDCyMD6jLpeQmHjFOVGSuLeq9piiQDaIvR1rgwU4ucId1tFJy5u5FQzMt24mSb8irQV9MnZTnS0nbwvlVnOKG_WYxMRuz_2=s1600)
-
 ## 11월 14일의 탄생색: 리얼 블랙 (`#2B2B2B`)
 
 ### 1. 리얼 블랙에 대한 설명: 모든 빛을 품어 안은 가장 본질적인 깊이

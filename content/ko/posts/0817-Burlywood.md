@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "dcbf97"
 description: "오늘의 탄생색, 벌리우드. '성숙한, 안정된, 차분한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiSo5JQy5xSlFAOnUNfung8sqshONXmRNNvjinlxaGq1Kb4MGgeiwIobifRZerrc2V1N2tlYyH2eDT2wUnGbb7TZ35ODKmoqJfDKXZvtnegeWYwhStKMfxs-ZWsdoRVkzB6NxFN3JifFAu8Fba6n3vtXclB9DId4gMMV9NWuTcgXLv1zT9q8ucV8JlR-JJv=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiSo5JQy5xSlFAOnUNfung8sqshONXmRNNvjinlxaGq1Kb4MGgeiwIobifRZerrc2V1N2tlYyH2eDT2wUnGbb7TZ35ODKmoqJfDKXZvtnegeWYwhStKMfxs-ZWsdoRVkzB6NxFN3JifFAu8Fba6n3vtXclB9DId4gMMV9NWuTcgXLv1zT9q8ucV8JlR-JJv=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Burlywood"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiSo5JQy5xSlFAOnUNfung8sqshONXmRNNvjinlxaGq1Kb4MGgeiwIobifRZerrc2V1N2tlYyH2eDT2wUnGbb7TZ35ODKmoqJfDKXZvtnegeWYwhStKMfxs-ZWsdoRVkzB6NxFN3JifFAu8Fba6n3vtXclB9DId4gMMV9NWuTcgXLv1zT9q8ucV8JlR-JJv=s1600)
-
 ## 8월 17일의 탄생색: 벌리우드 (`#DCBF97`)
 
 ### 1. 벌리우드에 대한 설명: 시간을 견뎌낸 나무의 단단한 온기

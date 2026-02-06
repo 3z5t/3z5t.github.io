@@ -9,16 +9,16 @@ tags:
   - "12월"
   - "2a3a2f"
 description: "오늘의 탄생색, 다크 포레스트 그레이. '깊이있는, 차분한, 안정된'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEipyFSlok8NtULPcaCHWZ4etGrbDN4BmQ0VRf10scgRgEKn3PqLQI3oP-_1xUyKGMSbMMiWCK6sqtviN0DQdKSKR0YTzkmzloPlAQQYU1iM8ns8ctLLSwUSFzeyTR_GDlhLjrZ5Yqa_zD0UO8FlPkT9m5V1FdNcFUOE3Oqq55TA8gM__v9sa9GyFT9B1e7d=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEipyFSlok8NtULPcaCHWZ4etGrbDN4BmQ0VRf10scgRgEKn3PqLQI3oP-_1xUyKGMSbMMiWCK6sqtviN0DQdKSKR0YTzkmzloPlAQQYU1iM8ns8ctLLSwUSFzeyTR_GDlhLjrZ5Yqa_zD0UO8FlPkT9m5V1FdNcFUOE3Oqq55TA8gM__v9sa9GyFT9B1e7d=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Dark Forest Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEipyFSlok8NtULPcaCHWZ4etGrbDN4BmQ0VRf10scgRgEKn3PqLQI3oP-_1xUyKGMSbMMiWCK6sqtviN0DQdKSKR0YTzkmzloPlAQQYU1iM8ns8ctLLSwUSFzeyTR_GDlhLjrZ5Yqa_zD0UO8FlPkT9m5V1FdNcFUOE3Oqq55TA8gM__v9sa9GyFT9B1e7d=s1600)
-
 ## 12월 19일의 탄생색: 다크 포레스트 그레이 (`#2A3A2F`)
 
 ### 1. 다크 포레스트 그레이에 대한 설명 (색의 느낌과 특징)

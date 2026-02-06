@@ -9,16 +9,16 @@ tags:
   - "10월"
   - "d8d3cd"
 description: "오늘의 탄생색, 클라우드 그레이. '포용력있는, 평온한, 성숙한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgU_VWdImQhc1Bcd_wZ6VFBwI71J8UMcpaFutRlPksP0wgUJPoCyk5Vl3mf2G2f8k31yYKaYGA7Cs7yDxcJAJJfxFB0Q7VxWTAxGKvdMTLDiCU06NTroVrKImwy3I7PD_3-OSZe6cRbLi1lTeij5XcdSHxFBXFPKFYrWtFor6m1GTj2Bwfz9s-ckVrHuhop=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgU_VWdImQhc1Bcd_wZ6VFBwI71J8UMcpaFutRlPksP0wgUJPoCyk5Vl3mf2G2f8k31yYKaYGA7Cs7yDxcJAJJfxFB0Q7VxWTAxGKvdMTLDiCU06NTroVrKImwy3I7PD_3-OSZe6cRbLi1lTeij5XcdSHxFBXFPKFYrWtFor6m1GTj2Bwfz9s-ckVrHuhop=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Cloud Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgU_VWdImQhc1Bcd_wZ6VFBwI71J8UMcpaFutRlPksP0wgUJPoCyk5Vl3mf2G2f8k31yYKaYGA7Cs7yDxcJAJJfxFB0Q7VxWTAxGKvdMTLDiCU06NTroVrKImwy3I7PD_3-OSZe6cRbLi1lTeij5XcdSHxFBXFPKFYrWtFor6m1GTj2Bwfz9s-ckVrHuhop=s1600)
-
 ## 10월 21일의 탄생색: 클라우드 그레이 (`#D8D3CD`)
 
 ### 1. 클라우드 그레이에 대한 설명: 가장 부드럽게 세상을 감싸 안는 구름의 온도

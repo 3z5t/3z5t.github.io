@@ -9,16 +9,16 @@ tags:
   - "7월"
   - "ff1414"
 description: "오늘의 탄생색, 비비드 레드. '돋보이는, 활기찬, 독창적'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjjFmZYCxqqTMTQY8ubsCohwSxammUaE0Rsh7Uo-e7FKF3kkcUUBcuIEmfSua_VatOM9FV5Y7LPytjmlLBj5noWNRWojNsfu2DNBJZkUt_fMM4RLW-iUJkaA8BApcO5ff8bWuXBzMje5oc4mhP19gfrm_fpUVwLfAFVbda-8vwlFdgeIx7gRQGztXduamDW=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjjFmZYCxqqTMTQY8ubsCohwSxammUaE0Rsh7Uo-e7FKF3kkcUUBcuIEmfSua_VatOM9FV5Y7LPytjmlLBj5noWNRWojNsfu2DNBJZkUt_fMM4RLW-iUJkaA8BApcO5ff8bWuXBzMje5oc4mhP19gfrm_fpUVwLfAFVbda-8vwlFdgeIx7gRQGztXduamDW=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Vivid Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjjFmZYCxqqTMTQY8ubsCohwSxammUaE0Rsh7Uo-e7FKF3kkcUUBcuIEmfSua_VatOM9FV5Y7LPytjmlLBj5noWNRWojNsfu2DNBJZkUt_fMM4RLW-iUJkaA8BApcO5ff8bWuXBzMje5oc4mhP19gfrm_fpUVwLfAFVbda-8vwlFdgeIx7gRQGztXduamDW=s1600)
-
 ## 7월 10일의 탄생색: 비비드 레드 (`#FF1414`)
 
 ### 1. 비비드 레드에 대한 설명: 시선을 훔치는 가장 강렬한 독창성

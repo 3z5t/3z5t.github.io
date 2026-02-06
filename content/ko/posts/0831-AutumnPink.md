@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "cc8f8a"
 description: "오늘의 탄생색, 가을빛 분홍. '감성적인, 서정적인, 낭만적인'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhf7jFkZYIAIqEjsk6XAKwUAgLJmbTKlVN2QSK2x0b1MWvNaHcE3GDdqJz5K76BeIdY41czNMT9_mjJis9yupSfzaGp1-V2SXLM96p5j5mkpm9owT2Ri1F7LcIjNe6XOpYklMu-8Js_b0AXGyLPP1NE02p-iY9vndFmk7cmzkaFZy1X7cLjqJ5j8wPZY_zY=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhf7jFkZYIAIqEjsk6XAKwUAgLJmbTKlVN2QSK2x0b1MWvNaHcE3GDdqJz5K76BeIdY41czNMT9_mjJis9yupSfzaGp1-V2SXLM96p5j5mkpm9owT2Ri1F7LcIjNe6XOpYklMu-8Js_b0AXGyLPP1NE02p-iY9vndFmk7cmzkaFZy1X7cLjqJ5j8wPZY_zY=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Autumn Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhf7jFkZYIAIqEjsk6XAKwUAgLJmbTKlVN2QSK2x0b1MWvNaHcE3GDdqJz5K76BeIdY41czNMT9_mjJis9yupSfzaGp1-V2SXLM96p5j5mkpm9owT2Ri1F7LcIjNe6XOpYklMu-8Js_b0AXGyLPP1NE02p-iY9vndFmk7cmzkaFZy1X7cLjqJ5j8wPZY_zY=s1600)
-
 ## 8월 31일의 탄생색: 가을빛 분홍 (`#CC8F8A`)
 
 ### 1. 가을빛 분홍에 대한 설명: 여름의 끝자락에서 피어난 아련한 연서

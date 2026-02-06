@@ -9,16 +9,16 @@ tags:
   - "9월"
   - "ceb9ab"
 description: "오늘의 탄생색, 겨울빛 모래사장. '포근한, 안정감있는, 따뜻한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg54B9euYjmtQLOIwMioIscaiLKPCyLvj3y6pgmBhoXRyEQw8K37PjVEPuAkHfhTM8u6OSUGZUy1khYNt_7Udmq6YgS13FZ86pLQJXc_Ing0fMLjkGnfto_gfNf-ezk7m3HEeIy5azr5SkFpuayshgyxc5TWkqo-R9gLvbrephWPRm5nG7Rc9V84u_eC90n=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEg54B9euYjmtQLOIwMioIscaiLKPCyLvj3y6pgmBhoXRyEQw8K37PjVEPuAkHfhTM8u6OSUGZUy1khYNt_7Udmq6YgS13FZ86pLQJXc_Ing0fMLjkGnfto_gfNf-ezk7m3HEeIy5azr5SkFpuayshgyxc5TWkqo-R9gLvbrephWPRm5nG7Rc9V84u_eC90n=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Winter Sand Beach"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg54B9euYjmtQLOIwMioIscaiLKPCyLvj3y6pgmBhoXRyEQw8K37PjVEPuAkHfhTM8u6OSUGZUy1khYNt_7Udmq6YgS13FZ86pLQJXc_Ing0fMLjkGnfto_gfNf-ezk7m3HEeIy5azr5SkFpuayshgyxc5TWkqo-R9gLvbrephWPRm5nG7Rc9V84u_eC90n=s1600)
-
 ## 9월 12일의 탄생색: 겨울빛 모래사장 (`#CEB9AB`)
 
 ### 1. 겨울빛 모래사장에 대한 설명: 계절의 온기를 품은 가장 부드러운 위로

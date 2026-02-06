@@ -9,16 +9,16 @@ tags:
   - "6월"
   - "fd731c"
 description: "오늘의 탄생색, 딥 오렌지. '열정적, 도전적, 창의적'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgfGSpuefNeEN5WWYSRpMBePksuoOZsvtPIUss8UFwrDNL6gYWORNIdRixUb4CxIA_WJiO_N29QPoSW1w2jTxr4ZOECCRcx7lFZa5sFtIdOIPqzSBqgcznnvEeW3lUHlq22fnEQFhPtbWet-Znn5bVHS-p9zMipDk2hK2vAFIJg7bqSR9GOEmBboPg-qd_9=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgfGSpuefNeEN5WWYSRpMBePksuoOZsvtPIUss8UFwrDNL6gYWORNIdRixUb4CxIA_WJiO_N29QPoSW1w2jTxr4ZOECCRcx7lFZa5sFtIdOIPqzSBqgcznnvEeW3lUHlq22fnEQFhPtbWet-Znn5bVHS-p9zMipDk2hK2vAFIJg7bqSR9GOEmBboPg-qd_9=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Deep Orange"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgfGSpuefNeEN5WWYSRpMBePksuoOZsvtPIUss8UFwrDNL6gYWORNIdRixUb4CxIA_WJiO_N29QPoSW1w2jTxr4ZOECCRcx7lFZa5sFtIdOIPqzSBqgcznnvEeW3lUHlq22fnEQFhPtbWet-Znn5bVHS-p9zMipDk2hK2vAFIJg7bqSR9GOEmBboPg-qd_9=s1600)
-
 ## 6월 17일의 탄생색: 딥 오렌지 (`#FD731C`)
 
 ### 1. 딥 오렌지에 대한 설명: 심장 가장 깊은 곳에서 타오르는 불꽃

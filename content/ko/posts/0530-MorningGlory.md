@@ -9,16 +9,16 @@ tags:
   - "5월"
   - "99cccc"
 description: "오늘의 탄생색, 모닝글로리. '희망적, 시작의힘, 긍정적'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg2-4I5RbGClSvJHMs0rGbfGaw2FixQ_Pd4bvpfl8v6Tv4XASso3lqh6e3gpGtelaCqdNfXVGIW2st35vQNqn2enA-5HNNl-wTtMLQnlFEkOEKhbFPJW0tOqVicZQHRyiQNIkmekJ_kX1sx3RpA77-4Wzq3BzD1UmdGOSICkUCLGqYTWvC58qwbpJtiuv55=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEg2-4I5RbGClSvJHMs0rGbfGaw2FixQ_Pd4bvpfl8v6Tv4XASso3lqh6e3gpGtelaCqdNfXVGIW2st35vQNqn2enA-5HNNl-wTtMLQnlFEkOEKhbFPJW0tOqVicZQHRyiQNIkmekJ_kX1sx3RpA77-4Wzq3BzD1UmdGOSICkUCLGqYTWvC58qwbpJtiuv55=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Morning Glory"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg2-4I5RbGClSvJHMs0rGbfGaw2FixQ_Pd4bvpfl8v6Tv4XASso3lqh6e3gpGtelaCqdNfXVGIW2st35vQNqn2enA-5HNNl-wTtMLQnlFEkOEKhbFPJW0tOqVicZQHRyiQNIkmekJ_kX1sx3RpA77-4Wzq3BzD1UmdGOSICkUCLGqYTWvC58qwbpJtiuv55=s1600)
-
 ## 5월 30일의 탄생색: 모닝글로리 (`#99CCCC`)
 
 ### 1. 모닝글로리에 대한 설명: 새벽이슬을 머금은 희망의 나팔소리

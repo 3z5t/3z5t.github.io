@@ -9,16 +9,16 @@ tags:
   - "6월"
   - "ff6600"
 description: "오늘의 탄생색, 선셋 오렌지. '신중함, 통찰력, 보호력'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgzu4annjcdWio319P8aggGJ1hXKkDdFYjmDfKyLURXhTunjjxpvXoLmTzV0CevIcCoVKoeW6EnM_CWGi1l0xD_W9OIwAAyUV8a7FdnRKbkx_NJhVCLsW56YCga4kogZQ4ToI1oNh-mjWzstESXuJYIjZy8JWdKkF6dglmVJSxDTYVHf-UGtRa6BL558ah4=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgzu4annjcdWio319P8aggGJ1hXKkDdFYjmDfKyLURXhTunjjxpvXoLmTzV0CevIcCoVKoeW6EnM_CWGi1l0xD_W9OIwAAyUV8a7FdnRKbkx_NJhVCLsW56YCga4kogZQ4ToI1oNh-mjWzstESXuJYIjZy8JWdKkF6dglmVJSxDTYVHf-UGtRa6BL558ah4=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Sunset Orange"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgzu4annjcdWio319P8aggGJ1hXKkDdFYjmDfKyLURXhTunjjxpvXoLmTzV0CevIcCoVKoeW6EnM_CWGi1l0xD_W9OIwAAyUV8a7FdnRKbkx_NJhVCLsW56YCga4kogZQ4ToI1oNh-mjWzstESXuJYIjZy8JWdKkF6dglmVJSxDTYVHf-UGtRa6BL558ah4=s1600)
-
 ## 6월 11일의 탄생색: 선셋 오렌지 (`#FF6600`)
 
 ### 1. 선셋 오렌지에 대한 설명: 하루의 절정에서 타오르는 황홀한 약속

@@ -9,16 +9,16 @@ tags:
   - "9월"
   - "313035"
 description: "오늘의 탄생색, 더스크 그레이. '안정감있는, 성찰하는, 신중한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg63kH6nW-U8DLurgpTXR-8vJBzAtztV368vZ2K6xj9Am36xZyHA1c_sJy_GBtFjADFuKHG8N5dRqtqHpifnqdw_Z7ZNmyaUajYMg__VMgsfzrKvEUjgxdv9BF7fzrkv_Q39L6LaQ4ROhwKsFzcrN4zGXI0mws6QsQJft7YUr21SWrkSld9nWR-fsvStnRc=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEg63kH6nW-U8DLurgpTXR-8vJBzAtztV368vZ2K6xj9Am36xZyHA1c_sJy_GBtFjADFuKHG8N5dRqtqHpifnqdw_Z7ZNmyaUajYMg__VMgsfzrKvEUjgxdv9BF7fzrkv_Q39L6LaQ4ROhwKsFzcrN4zGXI0mws6QsQJft7YUr21SWrkSld9nWR-fsvStnRc=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Dusk Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg63kH6nW-U8DLurgpTXR-8vJBzAtztV368vZ2K6xj9Am36xZyHA1c_sJy_GBtFjADFuKHG8N5dRqtqHpifnqdw_Z7ZNmyaUajYMg__VMgsfzrKvEUjgxdv9BF7fzrkv_Q39L6LaQ4ROhwKsFzcrN4zGXI0mws6QsQJft7YUr21SWrkSld9nWR-fsvStnRc=s1600)
-
 ## 9월 7일의 탄생색: 더스크 그레이 (`#313035`)
 
 ### 1. 더스크 그레이에 대한 설명: 낮과 밤의 경계, 세상이 가장 고요해지는 시간

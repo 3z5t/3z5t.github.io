@@ -9,16 +9,16 @@ tags:
   - "3월"
   - "3d5e40"
 description: "오늘의 탄생색, 딥 그린. '통찰력, 지혜, 성숙함'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiVajyBkoKWWi3hrZ4yj0a4O5hK0hBtPIQby0Ip0i4_wHljWVJmxSizwbOWgG0GJTxbXqNCDWtj6zcZPcbN8JNE27pvXG8JtV_ATPwv2kpcgRZoNZIUD-69gcyITPIB5eyl-GY2FY67k6NvIArbRQGXLPq7SHXsKe9ygFx-x_-xg7VDRG-5mn56CJxjHchH=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiVajyBkoKWWi3hrZ4yj0a4O5hK0hBtPIQby0Ip0i4_wHljWVJmxSizwbOWgG0GJTxbXqNCDWtj6zcZPcbN8JNE27pvXG8JtV_ATPwv2kpcgRZoNZIUD-69gcyITPIB5eyl-GY2FY67k6NvIArbRQGXLPq7SHXsKe9ygFx-x_-xg7VDRG-5mn56CJxjHchH=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Deep Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiVajyBkoKWWi3hrZ4yj0a4O5hK0hBtPIQby0Ip0i4_wHljWVJmxSizwbOWgG0GJTxbXqNCDWtj6zcZPcbN8JNE27pvXG8JtV_ATPwv2kpcgRZoNZIUD-69gcyITPIB5eyl-GY2FY67k6NvIArbRQGXLPq7SHXsKe9ygFx-x_-xg7VDRG-5mn56CJxjHchH=s1600)
-
 ## 3월 13일의 탄생색: 딥 그린 (`#3D5E40`)
 
 ### 1. 딥 그린에 대한 설명 (색의 느낌과 특징)

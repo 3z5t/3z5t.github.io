@@ -9,16 +9,16 @@ tags:
   - "5월"
   - "557a7c"
 description: "오늘의 탄생색, 슬레이트 그린. '지성적, 학구열, 탐구심'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhvDXE2B3Pxk_fcN7QTbU6pn6XpWUPK2an2RrSwmOucgrMRd9KLOW08tuZuLQ8F4M9AnwoSjbB7cBJIqhdTpkqbxmu7IT_j9FFmeK9tT_0WqDtodGfLuKT6nIyJUWb8ct9OJ6N7YjPXhB7KoxK_ZUxNK0dSpPhNFs_9rAU8QsXCZiZ-I9saiUtznnr5BEhX=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhvDXE2B3Pxk_fcN7QTbU6pn6XpWUPK2an2RrSwmOucgrMRd9KLOW08tuZuLQ8F4M9AnwoSjbB7cBJIqhdTpkqbxmu7IT_j9FFmeK9tT_0WqDtodGfLuKT6nIyJUWb8ct9OJ6N7YjPXhB7KoxK_ZUxNK0dSpPhNFs_9rAU8QsXCZiZ-I9saiUtznnr5BEhX=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Slate Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhvDXE2B3Pxk_fcN7QTbU6pn6XpWUPK2an2RrSwmOucgrMRd9KLOW08tuZuLQ8F4M9AnwoSjbB7cBJIqhdTpkqbxmu7IT_j9FFmeK9tT_0WqDtodGfLuKT6nIyJUWb8ct9OJ6N7YjPXhB7KoxK_ZUxNK0dSpPhNFs_9rAU8QsXCZiZ-I9saiUtznnr5BEhX=s1600)
-
 ## 5월 21일의 탄생색: 슬레이트 그린 (`#557A7C`)
 
 ### 1. 슬레이트 그린에 대한 설명: 안개 낀 숲속의 도서관

@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "666666"
 description: "오늘의 탄생색, 딤 그레이. '깊이있는, 차분한, 성숙한'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjh-PPVizZQRWCLCW2PQMC86f-2PxkDRCTkxumUuCEOYLPnQXc76rYqMjno6CvYWYYvQmCaXczSi-ujlyEzkg1Lt04xb16TXI1HZDAsqOoonKUSlviCUSTOMtJuJeHeV_YPr21DSrIvGUM9i8o8U2e9fIu0Gxde4N8Cd786jkfVFWvlboOdLFGsniFIUmWh=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjh-PPVizZQRWCLCW2PQMC86f-2PxkDRCTkxumUuCEOYLPnQXc76rYqMjno6CvYWYYvQmCaXczSi-ujlyEzkg1Lt04xb16TXI1HZDAsqOoonKUSlviCUSTOMtJuJeHeV_YPr21DSrIvGUM9i8o8U2e9fIu0Gxde4N8Cd786jkfVFWvlboOdLFGsniFIUmWh=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Dim Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjh-PPVizZQRWCLCW2PQMC86f-2PxkDRCTkxumUuCEOYLPnQXc76rYqMjno6CvYWYYvQmCaXczSi-ujlyEzkg1Lt04xb16TXI1HZDAsqOoonKUSlviCUSTOMtJuJeHeV_YPr21DSrIvGUM9i8o8U2e9fIu0Gxde4N8Cd786jkfVFWvlboOdLFGsniFIUmWh=s1600)
-
 ## 11월 10일의 탄생색: 딤 그레이 (`#666666`)
 
 ### 1. 딤 그레이에 대한 설명: 빛과 어둠이 만나 빚어낸 가장 깊은 침묵

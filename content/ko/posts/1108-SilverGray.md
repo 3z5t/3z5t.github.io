@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "e2dfe5"
 description: "오늘의 탄생색, 실버 그레이. '세련된, 우아한, 품위있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi6Rp-7rMsMKI0aN66c2ufIiVS4XqOlyhwIKJllzYd3cdKoZNi9AL43ufJT7oWQ1V1iHP4VjOB5rPM7pHrND-4s7uMUhy0_r9wl2TMnt0fF13M3Be0uSSILQ1FhC-UsvmygioLeJbkzORJLCQiX2CwnhgxBH0Yh4HUlbzMPGXuCDjiLaVaPo5DKyprzT0q6=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi6Rp-7rMsMKI0aN66c2ufIiVS4XqOlyhwIKJllzYd3cdKoZNi9AL43ufJT7oWQ1V1iHP4VjOB5rPM7pHrND-4s7uMUhy0_r9wl2TMnt0fF13M3Be0uSSILQ1FhC-UsvmygioLeJbkzORJLCQiX2CwnhgxBH0Yh4HUlbzMPGXuCDjiLaVaPo5DKyprzT0q6=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Silver Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi6Rp-7rMsMKI0aN66c2ufIiVS4XqOlyhwIKJllzYd3cdKoZNi9AL43ufJT7oWQ1V1iHP4VjOB5rPM7pHrND-4s7uMUhy0_r9wl2TMnt0fF13M3Be0uSSILQ1FhC-UsvmygioLeJbkzORJLCQiX2CwnhgxBH0Yh4HUlbzMPGXuCDjiLaVaPo5DKyprzT0q6=s1600)
-
 ## 11월 8일의 탄생색: 실버 그레이 (`#E2DFE5`)
 
 ### 1. 실버 그레이에 대한 설명: 겨울의 초입, 서리 내린 새벽의 고귀한 빛

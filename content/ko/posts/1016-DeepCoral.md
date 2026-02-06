@@ -9,16 +9,16 @@ tags:
   - "10월"
   - "743636"
 description: "오늘의 탄생색, 딥 코랄. '차분한, 균형잡힌, 안정된'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjYfY0Fe844hvoji7XlrwMW9MZyfVxjHh1y-pxm54U9_5w5v2EkJCV94tcc6Em0e74zNaE6epYfoBG31Kn85YDeYXda3hpMLNBXbXMzFJLAZiXpOQIzEPN9K4pcmqnKpTgimfgUmF2EaVqnCaImyv5WZ4qbyp03FuvFXAPWQpFZxwJqdrCb1lXGLgX-DAHb=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjYfY0Fe844hvoji7XlrwMW9MZyfVxjHh1y-pxm54U9_5w5v2EkJCV94tcc6Em0e74zNaE6epYfoBG31Kn85YDeYXda3hpMLNBXbXMzFJLAZiXpOQIzEPN9K4pcmqnKpTgimfgUmF2EaVqnCaImyv5WZ4qbyp03FuvFXAPWQpFZxwJqdrCb1lXGLgX-DAHb=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Deep Coral"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjYfY0Fe844hvoji7XlrwMW9MZyfVxjHh1y-pxm54U9_5w5v2EkJCV94tcc6Em0e74zNaE6epYfoBG31Kn85YDeYXda3hpMLNBXbXMzFJLAZiXpOQIzEPN9K4pcmqnKpTgimfgUmF2EaVqnCaImyv5WZ4qbyp03FuvFXAPWQpFZxwJqdrCb1lXGLgX-DAHb=s1600)
-
 ## 10월 16일의 탄생색: 딥 코랄 (`#743636`)
 
 ### 1. 딥 코랄에 대한 설명: 대지의 온기를 머금은 가장 차분한 안식

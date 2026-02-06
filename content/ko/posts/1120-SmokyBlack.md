@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "100f0f"
 description: "오늘의 탄생색, 스모키 블랙. '은은한매력, 그윽한, 깊이있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhVljv8Ki6D6fvpdJbJh1GzPzE8CSHIx27TPnkFDgcMUOlhUoYyhD1YbOxPaZr0ZRtWZJj7d1scibIgAgifKulECXZBO7GLVHbnz6DFp-cK2OjrHo3CN01bStSR4DPmrTIQSoFVEwxlSnjAgFvSFW3YigT7YckQspp0cvM_8XmFpaDAfpe1gfTo162me34l=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhVljv8Ki6D6fvpdJbJh1GzPzE8CSHIx27TPnkFDgcMUOlhUoYyhD1YbOxPaZr0ZRtWZJj7d1scibIgAgifKulECXZBO7GLVHbnz6DFp-cK2OjrHo3CN01bStSR4DPmrTIQSoFVEwxlSnjAgFvSFW3YigT7YckQspp0cvM_8XmFpaDAfpe1gfTo162me34l=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Smoky Black"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhVljv8Ki6D6fvpdJbJh1GzPzE8CSHIx27TPnkFDgcMUOlhUoYyhD1YbOxPaZr0ZRtWZJj7d1scibIgAgifKulECXZBO7GLVHbnz6DFp-cK2OjrHo3CN01bStSR4DPmrTIQSoFVEwxlSnjAgFvSFW3YigT7YckQspp0cvM_8XmFpaDAfpe1gfTo162me34l=s1600)
-
 ## 11월 20일의 탄생색: 스모키 블랙 (`#100F0F`)
 
 ### 1. 스모키 블랙에 대한 설명 (색의 느낌과 특징)

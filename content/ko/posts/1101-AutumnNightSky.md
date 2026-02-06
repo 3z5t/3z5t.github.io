@@ -9,16 +9,16 @@ tags:
   - "11월"
   - "3c3232"
 description: "오늘의 탄생색, 가을빛 밤하늘. '사색적인, 명상적인, 통찰력있는'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh8XsVn99d1QHyaYzJPBNCuY4J7MdSLM_LcDHU0vaWmQggtLxzCBga-Fs1hoZBky06KnmOtd56f_TUncOrpBJpkxZ_0XL52aH-N2RUHylkXWbg5ECasG9taojgl0QJTi_wztd980v-1JnvsJmipWcjyWRIYiVZof4V3I3CtUo_0uaPBWsAnOsEBMmGub736=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh8XsVn99d1QHyaYzJPBNCuY4J7MdSLM_LcDHU0vaWmQggtLxzCBga-Fs1hoZBky06KnmOtd56f_TUncOrpBJpkxZ_0XL52aH-N2RUHylkXWbg5ECasG9taojgl0QJTi_wztd980v-1JnvsJmipWcjyWRIYiVZof4V3I3CtUo_0uaPBWsAnOsEBMmGub736=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Autumn Night Sky"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh8XsVn99d1QHyaYzJPBNCuY4J7MdSLM_LcDHU0vaWmQggtLxzCBga-Fs1hoZBky06KnmOtd56f_TUncOrpBJpkxZ_0XL52aH-N2RUHylkXWbg5ECasG9taojgl0QJTi_wztd980v-1JnvsJmipWcjyWRIYiVZof4V3I3CtUo_0uaPBWsAnOsEBMmGub736=s1600)
-
 ## 11월 1일의 탄생색: 가을빛 밤하늘 (`#3C3232`)
 
 ### 1. 가을빛 밤하늘에 대한 설명: 소란스러움이 잠든 자리에 내려앉은 고요한 장막

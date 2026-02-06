@@ -11,16 +11,16 @@ tags:
   - 99dbe9
   - 1월
 description: 오늘의 탄생색, 맑은 하늘. '이상주의, 꿈꾸는, 낭만적'이라는 의미를 담고 있어요.
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEjnhvVUWwUaPok1yfhrPp4YRhL9_t-HAv_4z42SnvCLJuGltTMZi1SwqUla-aR6L9iTS145dIfQpC9TeaMeirakHb0szoozRqLuGS3WGGPmfPHJapKn5FvXQ_9mL9aNW0HiE43dFWf3Aw4Aee1z8O0tkc7O2KgKuuKhwP96y7ejAAQE3XXYAVH20B4zfsvH=s1600
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjnhvVUWwUaPok1yfhrPp4YRhL9_t-HAv_4z42SnvCLJuGltTMZi1SwqUla-aR6L9iTS145dIfQpC9TeaMeirakHb0szoozRqLuGS3WGGPmfPHJapKn5FvXQ_9mL9aNW0HiE43dFWf3Aw4Aee1z8O0tkc7O2KgKuuKhwP96y7ejAAQE3XXYAVH20B4zfsvH=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: Clear Sky
 author: 하루의 조각
 profileName: 하루의 조각
 postId: "6614166500375809916"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjnhvVUWwUaPok1yfhrPp4YRhL9_t-HAv_4z42SnvCLJuGltTMZi1SwqUla-aR6L9iTS145dIfQpC9TeaMeirakHb0szoozRqLuGS3WGGPmfPHJapKn5FvXQ_9mL9aNW0HiE43dFWf3Aw4Aee1z8O0tkc7O2KgKuuKhwP96y7ejAAQE3XXYAVH20B4zfsvH=s1600)
-
 
 **1월 21일의 탄생색: 맑은 하늘 (#99DBE9)**
 

@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "deba86"
 description: "오늘의 탄생색, 아이보리 아이스. '시원한성격, 차분함, 안정감'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhkRC7iSZrgFHgtwCirIwFjR1Gf0nExDmqY-JjegxGRP5WqQx7On_3cxFmhRoETdob9pT-MZiQNWIfU7Hh7-ez1dml7QiuRf7txfbI7YA2dIfTZBaTcqeIeeji5oFiNkUw0hPlGAdntTxr6LgHxTTq-1xqpo1tBqNMZz6nDLQzJ-tDDPO8ZXL7s1gxO5luh=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhkRC7iSZrgFHgtwCirIwFjR1Gf0nExDmqY-JjegxGRP5WqQx7On_3cxFmhRoETdob9pT-MZiQNWIfU7Hh7-ez1dml7QiuRf7txfbI7YA2dIfTZBaTcqeIeeji5oFiNkUw0hPlGAdntTxr6LgHxTTq-1xqpo1tBqNMZz6nDLQzJ-tDDPO8ZXL7s1gxO5luh=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Ivory Ice"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhkRC7iSZrgFHgtwCirIwFjR1Gf0nExDmqY-JjegxGRP5WqQx7On_3cxFmhRoETdob9pT-MZiQNWIfU7Hh7-ez1dml7QiuRf7txfbI7YA2dIfTZBaTcqeIeeji5oFiNkUw0hPlGAdntTxr6LgHxTTq-1xqpo1tBqNMZz6nDLQzJ-tDDPO8ZXL7s1gxO5luh=s1600)
-
 ## 8월 12일의 탄생색: 아이보리 아이스 (`#DEBA86`)
 
 ### 1. 아이보리 아이스에 대한 설명: 황금빛 모래사장 위로 부는 시원한 바람

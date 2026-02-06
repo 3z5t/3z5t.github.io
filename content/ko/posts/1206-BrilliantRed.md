@@ -9,16 +9,16 @@ tags:
   - "12월"
   - "f60100"
 description: "오늘의 탄생색, 브릴리언트 레드. '깊이있는, 신비로운, 평화로운'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh4nTTULTtXImMdmhjzZLxfmVp4NWYTpjDiMNNQYezINTvGuaFUZydCIZXv4AyzcgaOAGOdMPOPOTRAvnKkwNtky0j_aFGXZ9-aBVBMYeWFGPDRHPKKkPK9Chf2Mo8dgwCV7FzKooYHul-ArYzf0T6Ta1gYUp2MseJ-KfjDwbkPNvlD7Pg9uBmH-AT7qmnR=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh4nTTULTtXImMdmhjzZLxfmVp4NWYTpjDiMNNQYezINTvGuaFUZydCIZXv4AyzcgaOAGOdMPOPOTRAvnKkwNtky0j_aFGXZ9-aBVBMYeWFGPDRHPKKkPK9Chf2Mo8dgwCV7FzKooYHul-ArYzf0T6Ta1gYUp2MseJ-KfjDwbkPNvlD7Pg9uBmH-AT7qmnR=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Brilliant Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh4nTTULTtXImMdmhjzZLxfmVp4NWYTpjDiMNNQYezINTvGuaFUZydCIZXv4AyzcgaOAGOdMPOPOTRAvnKkwNtky0j_aFGXZ9-aBVBMYeWFGPDRHPKKkPK9Chf2Mo8dgwCV7FzKooYHul-ArYzf0T6Ta1gYUp2MseJ-KfjDwbkPNvlD7Pg9uBmH-AT7qmnR=s1600)
-
 ## 12월 6일의 탄생색: 브릴리언트 레드 (`#F60100`)
 
 ### 1. 브릴리언트 레드에 대한 설명 (색의 느낌과 특징)

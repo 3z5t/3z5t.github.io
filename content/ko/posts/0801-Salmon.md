@@ -9,16 +9,16 @@ tags:
   - "8월"
   - "fa8072"
 description: "오늘의 탄생색, 살몬. '활기찬성격, 생동감, 긍정적'이라는 의미를 담고 있어요."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi_g5JUnctp7DUMKeaYaIrqa3U5_cPdmRh4H73MUs99rLxDcF2ULQa5EATJ19fQ1m_tEZey9vu4kwznBGz7KuQvYhgc59E_Ja-N1619d74p3ol6n2758YeR61wNFO5ErHBHnEa9mNxdmY1RqeDqndjC6Qi4-uj5s_-HgRdITjtu3GYBLJnNZSLD5C9Zq5vA=s1600"
+cover:
+  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi_g5JUnctp7DUMKeaYaIrqa3U5_cPdmRh4H73MUs99rLxDcF2ULQa5EATJ19fQ1m_tEZey9vu4kwznBGz7KuQvYhgc59E_Ja-N1619d74p3ol6n2758YeR61wNFO5ErHBHnEa9mNxdmY1RqeDqndjC6Qi4-uj5s_-HgRdITjtu3GYBLJnNZSLD5C9Zq5vA=s1600"
+  alt: "오늘의 색"
+  relative: false
 en_name: "Salmon"
 author: "하루의 조각"
 profileName: "하루의 조각"
 postId: "" 
 postUrl: "" 
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi_g5JUnctp7DUMKeaYaIrqa3U5_cPdmRh4H73MUs99rLxDcF2ULQa5EATJ19fQ1m_tEZey9vu4kwznBGz7KuQvYhgc59E_Ja-N1619d74p3ol6n2758YeR61wNFO5ErHBHnEa9mNxdmY1RqeDqndjC6Qi4-uj5s_-HgRdITjtu3GYBLJnNZSLD5C9Zq5vA=s1600)
-
 ## 8월 1일의 탄생색: 살몬 (`#FA8072`)
 
 ### 1. 살몬에 대한 설명: 여름의 절정에서 만나는 가장 맛있는 색
