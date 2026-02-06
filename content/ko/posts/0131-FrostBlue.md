@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhPEoNKbV5v_GCyktHMSrtCtmfAWv0eRtmDM5FbI-BiVOJADkZ5Ta83PYBZSxizVi8DD3-t-ZUWf34-1DmpNNTzBC9Wv7gGPJutc05jtiT4wBJXXwIT9RAvIyOVvl1wQBIPHMwSX2PjK_6PGao3oi1leVJNxCoFhweyA0uvTKRotT8S1HpLzIMyW3J0A2EK=s1600"
+    alt: "오늘의 색"
+    relative: false
 author: 하루의 조각
 date: '2026-01-31'
 description: 오늘의 탄생색, 프로스트 블루. '성취력, 완벽주의, 리더십'이라는 의미를 담고 있어요.
@@ -14,10 +18,6 @@ tags:
 postId: '5275133036910127016'
 postUrl: https://the366days-ko.blogspot.com/2026/01/1-31-frost-blue.html
 profileName: 하루의 조각
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhPEoNKbV5v_GCyktHMSrtCtmfAWv0eRtmDM5FbI-BiVOJADkZ5Ta83PYBZSxizVi8DD3-t-ZUWf34-1DmpNNTzBC9Wv7gGPJutc05jtiT4wBJXXwIT9RAvIyOVvl1wQBIPHMwSX2PjK_6PGao3oi1leVJNxCoFhweyA0uvTKRotT8S1HpLzIMyW3J0A2EK=s1600"
-  alt: "오늘의 색"
-  relative: false
 title: '1월 31일, 오늘을 닮은 색: 프로스트 블루'
 updated: '2026-01-31'
 ---

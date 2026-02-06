@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh0156Sr94Mu-TkmCi5stfdP5ag9YNayovl1K8-hsEh92xlXNtRhdFFwYJLsUReKLvAUtZi7eczXGW1gI_er0aAfVbuKPD89zRv7RP5cGiCPlrjBNN81Ey5Xv5K4mdOPC_n21xL4ocQ_csf8WOmfwt5SHDOdSkoGrZ2g3ce-1UphO75mZTL8SsXiKuR677O=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 11일, 오늘을 닮은 색: 깊은 솔숲"
 date: "2026-03-11"
 updated: "2026-03-11"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "006400"
 description: "오늘의 탄생색, 깊은 솔숲. '영속성, 전통성, 신뢰성'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh0156Sr94Mu-TkmCi5stfdP5ag9YNayovl1K8-hsEh92xlXNtRhdFFwYJLsUReKLvAUtZi7eczXGW1gI_er0aAfVbuKPD89zRv7RP5cGiCPlrjBNN81Ey5Xv5K4mdOPC_n21xL4ocQ_csf8WOmfwt5SHDOdSkoGrZ2g3ce-1UphO75mZTL8SsXiKuR677O=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Deep Pine Forest"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,20 +1,23 @@
 ---
-"title": "2월 8일, 오늘을 닮은 색: 로얄 바이올렛"
-"date": "2026-02-08"
-"updated": "2026-02-08"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiLDpLXTYGePnnw3thEkGcBWO5CLjEUhS2wjT71dXcrNZAvMoimFoiFkhpDBcZI-WFYrkfiZAnbCkq9EjBUeWM7wUJljuxebqTn7bw2UUMBA7eOgq64Hn5gZrMGXWM4XjAFYJuo940_QKN6vw-Fuyx_7u7a3pW9XFUfMTB5sE5tcoByprgDyAo-xekQazDK=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 8일, 오늘을 닮은 색: 로얄 바이올렛"
+date: "2026-02-08"
+updated: "2026-02-08"
+tags:
 - "탄생색"
 - "로얄 바이올렛"
 - "2월 8일"
 - "2월"
 - "32127a"
-"description": "오늘의 탄생색, 로얄 바이올렛. '철학적, 명상적, 통찰력'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEiLDpLXTYGePnnw3thEkGcBWO5CLjEUhS2wjT71dXcrNZAvMoimFoiFkhpDBcZI-WFYrkfiZAnbCkq9EjBUeWM7wUJljuxebqTn7bw2UUMBA7eOgq64Hn5gZrMGXWM4XjAFYJuo940_QKN6vw-Fuyx_7u7a3pW9XFUfMTB5sE5tcoByprgDyAo-xekQazDK=s1600"
-"en_name": "Royal Violet"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "7797539674272794275"
-"postUrl": "https://the366days-ko.blogspot.com/2026/02/2-8-royal-violet.html"
+description: "오늘의 탄생색, 로얄 바이올렛. '철학적, 명상적, 통찰력'이라는 의미를 담고 있어요."
+en_name: "Royal Violet"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "7797539674272794275"
+postUrl: "https://the366days-ko.blogspot.com/2026/02/2-8-royal-violet.html"
 ---
 
 ## 2월 8일의 탄생색: 로얄 바이올렛 (`#32127A`)

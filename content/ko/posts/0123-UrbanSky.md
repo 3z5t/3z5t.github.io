@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhEIRaQT5XH38UxoASyHZCqLMjYUrolbFUzlSijnfSqdEcYYio9Yao-Nq7AAthiwFb83GTpXvwxXmwmp4NaEjTLnAVOJl647a8tnvdebOgQ32V-kQItREn3scLuSc9XDUK1919IZ6th5v6vksI8XGIXbkkQTpH34-0coDJNGLzLUJ7IWKZs3G35pnAY2zoE=s1600"
+    alt: "오늘의 색"
+    relative: false
 author: 하루의 조각
 date: '2026-01-23'
 description: 오늘의 탄생색, 어반 스카이. '현대적, 세련됨, 진보적'이라는 의미를 담고 있어요.
@@ -14,10 +18,6 @@ tags:
 postId: '1918756501297935922'
 postUrl: https://the366days-ko.blogspot.com/2026/01/1-23-urban-sky.html
 profileName: 하루의 조각
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhEIRaQT5XH38UxoASyHZCqLMjYUrolbFUzlSijnfSqdEcYYio9Yao-Nq7AAthiwFb83GTpXvwxXmwmp4NaEjTLnAVOJl647a8tnvdebOgQ32V-kQItREn3scLuSc9XDUK1919IZ6th5v6vksI8XGIXbkkQTpH34-0coDJNGLzLUJ7IWKZs3G35pnAY2zoE=s1600"
-  alt: "오늘의 색"
-  relative: false
 title: '1월 23일, 오늘을 닮은 색: 어반 스카이'
 updated: '2026-01-23'
 ---

@@ -1,20 +1,23 @@
 ---
-"title": "2월 6일, 오늘을 닮은 색: 미스틱 보라"
-"date": "2026-02-06"
-"updated": "2026-02-06"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhYa_Npcl1H28oaa5V_7GMORLQiQDF1gI3dGUp3kC0zbr4S948dngFfJm1uEtxEa0kN74QlwrHGgVZuMdqctKsyF_XpRpQ-IWnrd7HjYv6S2zNHnMK63PogS882PI4lCnekb3TMfnNnzoJvLSqSKLnNeiZe_Cdic0KHQCy05bDnebhTTyYmCmSJK0XuUzJX=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 6일, 오늘을 닮은 색: 미스틱 보라"
+date: "2026-02-06"
+updated: "2026-02-06"
+tags:
 - "탄생색"
 - "미스틱 보라"
 - "2월 6일"
 - "2월"
 - "520054"
-"description": "오늘의 탄생색, 미스틱 보라. '신비주의, 영적능력, 직관력'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhYa_Npcl1H28oaa5V_7GMORLQiQDF1gI3dGUp3kC0zbr4S948dngFfJm1uEtxEa0kN74QlwrHGgVZuMdqctKsyF_XpRpQ-IWnrd7HjYv6S2zNHnMK63PogS882PI4lCnekb3TMfnNnzoJvLSqSKLnNeiZe_Cdic0KHQCy05bDnebhTTyYmCmSJK0XuUzJX=s1600"
-"en_name": "Mystic Purple"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "6362036260452443530"
-"postUrl": "https://the366days-ko.blogspot.com/2026/02/2-6-mystic-purple.html"
+description: "오늘의 탄생색, 미스틱 보라. '신비주의, 영적능력, 직관력'이라는 의미를 담고 있어요."
+en_name: "Mystic Purple"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "6362036260452443530"
+postUrl: "https://the366days-ko.blogspot.com/2026/02/2-6-mystic-purple.html"
 ---
 
 ## 2월 6일의 탄생색: 미스틱 보라 (`#520054`)

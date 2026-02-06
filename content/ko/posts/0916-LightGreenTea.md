@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj8zE5taS4OPl59sXUDJXcUyQ56fPGcihpOrQZRJzOcebJCCKHYeeLBtEvqa4nOlixfNcfhuIB2XU-BaksGpa0DdeWfV1vCTHQWSrFZPcrux__XLiM8UaTcKgArc2Je7kVoW4N_E6eXgJGJvXwgu10N5a2Fy0q72mzKb1j-IZ0vCX1Lpqn6FFUEYjNI_2mx=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "9월 16일, 오늘을 닮은 색: 연녹차"
 date: "2026-09-16"
 updated: "2026-09-16"
@@ -9,10 +13,6 @@ tags:
   - "9월"
   - "aba88a"
 description: "오늘의 탄생색, 연녹차. '은은한매력, 차분한, 평화로운'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEj8zE5taS4OPl59sXUDJXcUyQ56fPGcihpOrQZRJzOcebJCCKHYeeLBtEvqa4nOlixfNcfhuIB2XU-BaksGpa0DdeWfV1vCTHQWSrFZPcrux__XLiM8UaTcKgArc2Je7kVoW4N_E6eXgJGJvXwgu10N5a2Fy0q72mzKb1j-IZ0vCX1Lpqn6FFUEYjNI_2mx=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Light Green Tea"
 author: "하루의 조각"
 profileName: "하루의 조각"

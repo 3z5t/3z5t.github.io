@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgLqv0q-xBYg6AK0HWNn78rH2DYQEO9Wz05IQa1rJOJeQwDLo4fDne5ROc9v1Hcq7aQxxZ6aZfUplXbFfeNdUUFqMezfxMLA4kJVcP4tagyc2wc7ukNyKuiEjU_2BWwk4eal0WafpVESp1G9wc-r2I6MhQVwB-8h400sRR_-T8nDLM62zKHHRhgzwMfWI1B=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 14일, 오늘을 닮은 색: 마룬"
 date: "2026-10-14"
 updated: "2026-10-14"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "800000"
 description: "오늘의 탄생색, 마룬. '안정된, 성숙한, 지혜로운'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgLqv0q-xBYg6AK0HWNn78rH2DYQEO9Wz05IQa1rJOJeQwDLo4fDne5ROc9v1Hcq7aQxxZ6aZfUplXbFfeNdUUFqMezfxMLA4kJVcP4tagyc2wc7ukNyKuiEjU_2BWwk4eal0WafpVESp1G9wc-r2I6MhQVwB-8h400sRR_-T8nDLM62zKHHRhgzwMfWI1B=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Maroon"
 author: "하루의 조각"
 profileName: "하루의 조각"

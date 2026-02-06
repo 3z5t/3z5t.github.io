@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjLLNBv53zhh-KZISa4m3zj7RdvO4OBEcP5bgiP1nM0PgyBSrpyoFHDLZdba0vkkBE6e9aCD2toVN-oXECPf0-5Vwn-ScF2qL0Gg5i1tItrmcTpCro87EwhRsyG_j2GFo8tMKkDSIoDFySt8rpNQ6tjdQwUpAGxGeMp3yT-dYxBtNPl_7aiJqCVUFt44cyR=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 8일, 오늘을 닮은 색: 이글 레드"
 date: "2026-07-08"
 updated: "2026-07-08"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "ff2d2d"
 description: "오늘의 탄생색, 이글 레드. '용기있는, 도전적, 선구자적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjLLNBv53zhh-KZISa4m3zj7RdvO4OBEcP5bgiP1nM0PgyBSrpyoFHDLZdba0vkkBE6e9aCD2toVN-oXECPf0-5Vwn-ScF2qL0Gg5i1tItrmcTpCro87EwhRsyG_j2GFo8tMKkDSIoDFySt8rpNQ6tjdQwUpAGxGeMp3yT-dYxBtNPl_7aiJqCVUFt44cyR=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Eagle Red"
 author: "하루의 조각"
 profileName: "하루의 조각"

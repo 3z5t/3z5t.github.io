@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgMZ8LJ47famgyrd7eGbCOibzGRk1J4Qz9IOCkx8bQ0_ZAN2dYd77ab6RAHqmdD7uxq-gulIWpoDa36GUQqxCkWhcw8CjGJDuYBeGdjNE9EPOqsbTm5p7RmoCNfNW6lOJ9tM5BlyAEg4GuAF4N4cMBrrUxrENvHYAGYyWZRd-8J-JhBOL-Fu2ZpIzIJ6DxN=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 8일, 오늘을 닮은 색: 포레스트 그린"
 date: "2026-03-08"
 updated: "2026-03-08"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "006600"
 description: "오늘의 탄생색, 포레스트 그린. '성장력, 지도력, 안정감'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgMZ8LJ47famgyrd7eGbCOibzGRk1J4Qz9IOCkx8bQ0_ZAN2dYd77ab6RAHqmdD7uxq-gulIWpoDa36GUQqxCkWhcw8CjGJDuYBeGdjNE9EPOqsbTm5p7RmoCNfNW6lOJ9tM5BlyAEg4GuAF4N4cMBrrUxrENvHYAGYyWZRd-8J-JhBOL-Fu2ZpIzIJ6DxN=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Forest Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

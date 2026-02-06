@@ -1,20 +1,23 @@
 ---
-"title": "10월 4일, 오늘을 닮은 색: 다크 마르살라"
-"date": "2026-10-04"
-"updated": "2026-10-04"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgW8Bxy7MWGB2zWQLycw8rptQUJJ6Cig47AqgpUeBA_p4eduC3iurdnBltcAQAmRCKmPSZFhbc8FdHejwwQAUwezRfKQYtIxr99FnP0VGKtnHZM8QgBe5v6TMRF98n8Mx-5yLqr4ftAO_Sk_89M0DtpICEx9_fx6CQzOd1k-ajjVUwjZlvVmcJYA9DtH4l2=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "10월 4일, 오늘을 닮은 색: 다크 마르살라"
+date: "2026-10-04"
+updated: "2026-10-04"
+tags:
 - "탄생색"
 - "다크 마르살라"
 - "10월 4일"
 - "10월"
 - "a4665d"
-"description": "오늘의 탄생색, 다크 마르살라. '깊이있는, 풍요로운, 안정된'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgW8Bxy7MWGB2zWQLycw8rptQUJJ6Cig47AqgpUeBA_p4eduC3iurdnBltcAQAmRCKmPSZFhbc8FdHejwwQAUwezRfKQYtIxr99FnP0VGKtnHZM8QgBe5v6TMRF98n8Mx-5yLqr4ftAO_Sk_89M0DtpICEx9_fx6CQzOd1k-ajjVUwjZlvVmcJYA9DtH4l2=s1600"
-"en_name": "Dark Marsala"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "3308052287479824778"
-"postUrl": "https://the366days-ko.blogspot.com/2026/10/10-4-dark-marsala.html"
+description: "오늘의 탄생색, 다크 마르살라. '깊이있는, 풍요로운, 안정된'이라는 의미를 담고 있어요."
+en_name: "Dark Marsala"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "3308052287479824778"
+postUrl: "https://the366days-ko.blogspot.com/2026/10/10-4-dark-marsala.html"
 ---
 
 ## 10월 4일의 탄생색: 다크 마르살라 (`#A4665D`)

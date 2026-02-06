@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjw-2VCuoGRoR9QCjITxW3M3q_tDZylTQo5ZtZgjKcTjms8otOVs7gQLaOPsTE-d6aG4YSTnCN8c6D26yWsa-ypc2THIIle8MALCtMhJj8rJCoGZggweRrfOmmEapxT3jqtjtGp8ASVbWw8pESWjpB6jXNzlcDdO3NaQLLOo0AYmqSMeyVAOhkCwRXmet2q=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 8일, 오늘을 닮은 색: 딥 포레스트 틸"
 date: "2026-12-08"
 updated: "2026-12-08"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "17896e"
 description: "오늘의 탄생색, 딥 포레스트 틸. '청명한영혼, 차가운지성, 고요한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjw-2VCuoGRoR9QCjITxW3M3q_tDZylTQo5ZtZgjKcTjms8otOVs7gQLaOPsTE-d6aG4YSTnCN8c6D26yWsa-ypc2THIIle8MALCtMhJj8rJCoGZggweRrfOmmEapxT3jqtjtGp8ASVbWw8pESWjpB6jXNzlcDdO3NaQLLOo0AYmqSMeyVAOhkCwRXmet2q=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Deep Forest Teal"
 author: "하루의 조각"
 profileName: "하루의 조각"

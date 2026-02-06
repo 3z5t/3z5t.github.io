@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgBmRYb1RWYh7raZkgImnQYr8RUeXMKOzRI26ZdvLXMrxgTdRWWHhszBXxOgwCcuTxe03J10S6HPZLzRm8tiGAxE7yjknJHYU5bA0zqCOgmnKQRob634-6bcOcyUGmUEIs7Cc3dhEbbE7ABGHhe1pll_rATXppIjjsy6HJiiayDzkIq09eQ8yAdQhRjGAZC=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 25일, 오늘을 닮은 색: 앤티크 크리스마스 골드"
 date: "2026-12-25"
 updated: "2026-12-25"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "947e4c"
 description: "오늘의 탄생색, 앤티크 크리스마스 골드. '축복받은, 사랑넘치는, 나눔의기쁨'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgBmRYb1RWYh7raZkgImnQYr8RUeXMKOzRI26ZdvLXMrxgTdRWWHhszBXxOgwCcuTxe03J10S6HPZLzRm8tiGAxE7yjknJHYU5bA0zqCOgmnKQRob634-6bcOcyUGmUEIs7Cc3dhEbbE7ABGHhe1pll_rATXppIjjsy6HJiiayDzkIq09eQ8yAdQhRjGAZC=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Antique Christmas Gold"
 author: "하루의 조각"
 profileName: "하루의 조각"

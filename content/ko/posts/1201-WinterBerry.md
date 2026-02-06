@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhp9KGutUEhwHAcaZ24n33VQu9qCBzxdfMufyHe9YDiSsf6W82o3O4xoO_yMlwBm46NSXRf_0fi6gKrhpezgjiNhtwb_rSTmfXYWg1XvrdXuURufURVNIW2gIU9vwPLn5ikudypT4aNn2ZlhbHUqTohyYjsnn_1FFE2OU1-iteiufQYm4Hn_rosKddAtazK=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 1일, 오늘을 닮은 색: 윈터 베리"
 date: "2026-12-01"
 updated: "2026-12-01"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "af2a24"
 description: "오늘의 탄생색, 윈터 베리. '희망을주는, 기대감있는, 신비로운'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhp9KGutUEhwHAcaZ24n33VQu9qCBzxdfMufyHe9YDiSsf6W82o3O4xoO_yMlwBm46NSXRf_0fi6gKrhpezgjiNhtwb_rSTmfXYWg1XvrdXuURufURVNIW2gIU9vwPLn5ikudypT4aNn2ZlhbHUqTohyYjsnn_1FFE2OU1-iteiufQYm4Hn_rosKddAtazK=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Winter Berry"
 author: "하루의 조각"
 profileName: "하루의 조각"

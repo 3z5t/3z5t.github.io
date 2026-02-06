@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhjJ9_MLifTNMpY2X1WJXXzLgULcH6LIyGUM-7g-_nwaDc4V0fYMgAHyeBT-Ch7ET21b3J5bC5EIQIWtM_KuDMF-xj0bgGCPd7t_V6bM6HhGsLupHXewc93JqrcIUbt9keJio-FdqFdSZW89EVfqKbyBaCvepYcX9LHW05y2L0vAlJlxRBI2bEUFEpOBgjO=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 9일, 오늘을 닮은 색: 밀라노 레드"
 date: "2026-10-09"
 updated: "2026-10-09"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "993333"
 description: "오늘의 탄생색, 밀라노 레드. '고전적인, 우아한, 품위있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhjJ9_MLifTNMpY2X1WJXXzLgULcH6LIyGUM-7g-_nwaDc4V0fYMgAHyeBT-Ch7ET21b3J5bC5EIQIWtM_KuDMF-xj0bgGCPd7t_V6bM6HhGsLupHXewc93JqrcIUbt9keJio-FdqFdSZW89EVfqKbyBaCvepYcX9LHW05y2L0vAlJlxRBI2bEUFEpOBgjO=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Milano Red"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,20 +1,23 @@
 ---
-"title": "2월 12일, 오늘을 닮은 색: 딥 마젠타"
-"date": "2026-02-12"
-"updated": "2026-02-12"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjAdHT-qxcE43WLK0ZBH-xLrcHNkBsp46hi2PIB2r_9VzFyuXtb40jwdVP928VM17_6XO-nimlBkeccRyr_IZ_8pDbBLBaR6DUjBtY_boQ77vckjxxfud8FXCWht-u3eSHjQc0Auy7tkoSWI10I1T0mXPI3F-6y0-szos4a1HQ0Pp3d9zV4bEq9CXKuQ0hU=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 12일, 오늘을 닮은 색: 딥 마젠타"
+date: "2026-02-12"
+updated: "2026-02-12"
+tags:
 - "탄생색"
 - "딥 마젠타"
 - "2월 12일"
 - "2월"
 - "2c1725"
-"description": "오늘의 탄생색, 딥 마젠타. '통찰력, 성숙함, 지혜'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjAdHT-qxcE43WLK0ZBH-xLrcHNkBsp46hi2PIB2r_9VzFyuXtb40jwdVP928VM17_6XO-nimlBkeccRyr_IZ_8pDbBLBaR6DUjBtY_boQ77vckjxxfud8FXCWht-u3eSHjQc0Auy7tkoSWI10I1T0mXPI3F-6y0-szos4a1HQ0Pp3d9zV4bEq9CXKuQ0hU=s1600"
-"en_name": "Deep Magenta"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "8154026266229903555"
-"postUrl": "https://the366days-ko.blogspot.com/2026/02/2-12-deep-magenta.html"
+description: "오늘의 탄생색, 딥 마젠타. '통찰력, 성숙함, 지혜'이라는 의미를 담고 있어요."
+en_name: "Deep Magenta"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "8154026266229903555"
+postUrl: "https://the366days-ko.blogspot.com/2026/02/2-12-deep-magenta.html"
 ---
 
 ## 2월 12일의 탄생색: 딥 마젠타 (`#2C1725`)

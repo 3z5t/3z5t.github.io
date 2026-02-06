@@ -1,20 +1,23 @@
 ---
-"title": "2월 15일, 오늘을 닮은 색: 비비드 마젠타"
-"date": "2026-02-15"
-"updated": "2026-02-15"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjcb5Bmzgypu9C5xrHv1QWjVSCgbSb1G3npeztYtl75CeDhr7VnXOw2Xujh5012rMno6XbASfln82XHb027Ot-_f3tdvAgaud_vuh27iLnWyHnA7eSRMpsSdsXBgnh1DFSDmrVq04KmW9gyp_OAhpWOTXrw3EnYTclyH08vVaZAujEQZJ2KLg5N11AsqBhY=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 15일, 오늘을 닮은 색: 비비드 마젠타"
+date: "2026-02-15"
+updated: "2026-02-15"
+tags:
 - "탄생색"
 - "비비드 마젠타"
 - "2월 15일"
 - "2월"
 - "ff00ff"
-"description": "오늘의 탄생색, 비비드 마젠타. '창조력, 열정, 생동감'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjcb5Bmzgypu9C5xrHv1QWjVSCgbSb1G3npeztYtl75CeDhr7VnXOw2Xujh5012rMno6XbASfln82XHb027Ot-_f3tdvAgaud_vuh27iLnWyHnA7eSRMpsSdsXBgnh1DFSDmrVq04KmW9gyp_OAhpWOTXrw3EnYTclyH08vVaZAujEQZJ2KLg5N11AsqBhY=s1600"
-"en_name": "Vivid Magenta"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "1797123251947017671"
-"postUrl": "https://the366days-ko.blogspot.com"
+description: "오늘의 탄생색, 비비드 마젠타. '창조력, 열정, 생동감'이라는 의미를 담고 있어요."
+en_name: "Vivid Magenta"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "1797123251947017671"
+postUrl: "https://the366days-ko.blogspot.com"
 ---
 
 ## 2월 15일의 탄생색: 비비드 마젠타 (`#FF00FF`)

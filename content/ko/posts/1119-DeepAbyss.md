@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiL_YftLhN588x3Tr3dulr7Eu0EzEeWp47MXB5879dNdTXx2NBILrnwRJAiMzC22v6JEH7yV4C9ob41r2hbVAfySbOj_n_OuVz0AP4DbbuZLsAU1CxdmYEpJzspDo_jSARzVcGcO4b18b929GDe3usIUKo8mORMq2EIRehdzass5zIyInjiOp3ZiKT15GB5=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 19일, 오늘을 닮은 색: 깊은 심연"
 date: "2026-11-19"
 updated: "2026-11-19"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "0d0d10"
 description: "오늘의 탄생색, 깊은 심연. '무한한, 신비로운, 심오한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiL_YftLhN588x3Tr3dulr7Eu0EzEeWp47MXB5879dNdTXx2NBILrnwRJAiMzC22v6JEH7yV4C9ob41r2hbVAfySbOj_n_OuVz0AP4DbbuZLsAU1CxdmYEpJzspDo_jSARzVcGcO4b18b929GDe3usIUKo8mORMq2EIRehdzass5zIyInjiOp3ZiKT15GB5=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Deep Abyss"
 author: "하루의 조각"
 profileName: "하루의 조각"

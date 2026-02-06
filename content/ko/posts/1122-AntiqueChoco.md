@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEipp-VEcXRKXJgXmnIOsqIvVYKwtAftxg5_90azj98B3HkU0RuOCRujAURTI7UTHT1Hp407mIwzhR0wmAWCw98kbPD3uu_A_cjIgmWMW-ebPIgUmrlrlssqJGgXOlNtmV2B-KY0ZlKkwjN8qvFsIN2LI9PNG7PP9JWdwNOQUwmyCvcAt0RtZ6blJ9Vs5Uva=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 22일, 오늘을 닮은 색: 앤티크 초코"
 date: "2026-11-22"
 updated: "2026-11-22"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "1f070c"
 description: "오늘의 탄생색, 앤티크 초코. '깊이있는, 성숙한, 안정된'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEipp-VEcXRKXJgXmnIOsqIvVYKwtAftxg5_90azj98B3HkU0RuOCRujAURTI7UTHT1Hp407mIwzhR0wmAWCw98kbPD3uu_A_cjIgmWMW-ebPIgUmrlrlssqJGgXOlNtmV2B-KY0ZlKkwjN8qvFsIN2LI9PNG7PP9JWdwNOQUwmyCvcAt0RtZ6blJ9Vs5Uva=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Antique Choco"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhdHYi861SgGqRV5KO-sdp5dVe05dwjp24r64uymRrtHxuIF9No5WVf-OoBlNAwReu2NKDlVXkgttPT-7iQEjWgzAKTROILg4pyA6MCuMeutLyjVtOO6IobDHK9Q2mbWWRdFXrJZqV0rYhjWCpFYOsN8Mb93K000c1jdl24_5tA9YOrTcfrNgbMZKDuHQie=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 30일, 오늘을 닮은 색: 와일드 그린"
 date: "2026-04-30"
 updated: "2026-04-30"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "387146"
 description: "오늘의 탄생색, 와일드 그린. '강인함, 생명력, 번영'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhdHYi861SgGqRV5KO-sdp5dVe05dwjp24r64uymRrtHxuIF9No5WVf-OoBlNAwReu2NKDlVXkgttPT-7iQEjWgzAKTROILg4pyA6MCuMeutLyjVtOO6IobDHK9Q2mbWWRdFXrJZqV0rYhjWCpFYOsN8Mb93K000c1jdl24_5tA9YOrTcfrNgbMZKDuHQie=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Wild Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

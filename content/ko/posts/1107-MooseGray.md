@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjsGYWG4SdzEruPHA7iMz6ai3yAIEsTejbf9goXSDg5SWZVVfcqJCJDZ2-UEOb16Y5hhK1cJyv5i1bOV_C10_nHERLM_ntkFbrGBfIBKjOBxVGNJ8MVmAwCgW_3ujQYtU9XjdGVMBU_BUiKTvEkQxxgh5khHX2uiEYjgaBqAOyIdC22kW0AhG-HEfTqJMBY=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 7일, 오늘을 닮은 색: 무스 그레이"
 date: "2026-11-07"
 updated: "2026-11-07"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "999999"
 description: "오늘의 탄생색, 무스 그레이. '중용을지키는, 균형잡힌, 안정된'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjsGYWG4SdzEruPHA7iMz6ai3yAIEsTejbf9goXSDg5SWZVVfcqJCJDZ2-UEOb16Y5hhK1cJyv5i1bOV_C10_nHERLM_ntkFbrGBfIBKjOBxVGNJ8MVmAwCgW_3ujQYtU9XjdGVMBU_BUiKTvEkQxxgh5khHX2uiEYjgaBqAOyIdC22kW0AhG-HEfTqJMBY=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Moose Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"

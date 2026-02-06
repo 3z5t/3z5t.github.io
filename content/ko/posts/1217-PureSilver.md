@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiSyZgqcLmxgiQ0B8DMgyeQUZ1d0kZjZIc2kLCL3k87-f3oH3rorF8hkXzikA-vu1cFh397jFm5hZRRX5ri2VeU97B_5HVGn2v8TPog0B33b_SExRx_civ5caTLg_fHKLPd9qeYpMlbNZEdTNrDMxQKsCm7MRc96bfEwlCW9DE7MYmDFJaCb7vTtbxlj39V=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 17일, 오늘을 닮은 색: 퓨어 실버"
 date: "2026-12-17"
 updated: "2026-12-17"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "e5e5e5"
 description: "오늘의 탄생색, 퓨어 실버. '겨울처럼맑은, 순수한, 청정한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiSyZgqcLmxgiQ0B8DMgyeQUZ1d0kZjZIc2kLCL3k87-f3oH3rorF8hkXzikA-vu1cFh397jFm5hZRRX5ri2VeU97B_5HVGn2v8TPog0B33b_SExRx_civ5caTLg_fHKLPd9qeYpMlbNZEdTNrDMxQKsCm7MRc96bfEwlCW9DE7MYmDFJaCb7vTtbxlj39V=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Pure Silver"
 author: "하루의 조각"
 profileName: "하루의 조각"

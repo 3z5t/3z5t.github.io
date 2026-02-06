@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhTEejXw9OEocwmTJlvhsG_A1jU1JTqS0vxVWaj91-RbIs81O7ihw-V8dIJw1ZEVYh56MgSkToGyU_dw_OZkz2H7Z73WenkMfwBgliGUXuW-XEixsPBEFg-mCmtADS4vNRfVDfOfWciFlezkzJh9ACmPMbKhEHvffY5FlR-w1o-uy4RiT5kE7cti7rBDkKK=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "1월 18일, 오늘을 닮은 색: 더스티 소라"
 date: 2026-01-18
 updated: 2026-01-18
@@ -11,10 +15,6 @@ tags:
   - a4b0cc
   - 1월
 description: 오늘의 탄생색, 더스티 소라. '이성적, 논리적, 분석력'이라는 의미를 담고 있어요.
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhTEejXw9OEocwmTJlvhsG_A1jU1JTqS0vxVWaj91-RbIs81O7ihw-V8dIJw1ZEVYh56MgSkToGyU_dw_OZkz2H7Z73WenkMfwBgliGUXuW-XEixsPBEFg-mCmtADS4vNRfVDfOfWciFlezkzJh9ACmPMbKhEHvffY5FlR-w1o-uy4RiT5kE7cti7rBDkKK=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: Dusty Sora
 author: 하루의 조각
 profileName: 하루의 조각

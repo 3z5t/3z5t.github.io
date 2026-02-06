@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhvDXE2B3Pxk_fcN7QTbU6pn6XpWUPK2an2RrSwmOucgrMRd9KLOW08tuZuLQ8F4M9AnwoSjbB7cBJIqhdTpkqbxmu7IT_j9FFmeK9tT_0WqDtodGfLuKT6nIyJUWb8ct9OJ6N7YjPXhB7KoxK_ZUxNK0dSpPhNFs_9rAU8QsXCZiZ-I9saiUtznnr5BEhX=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 21일, 오늘을 닮은 색: 슬레이트 그린"
 date: "2026-05-21"
 updated: "2026-05-21"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "557a7c"
 description: "오늘의 탄생색, 슬레이트 그린. '지성적, 학구열, 탐구심'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhvDXE2B3Pxk_fcN7QTbU6pn6XpWUPK2an2RrSwmOucgrMRd9KLOW08tuZuLQ8F4M9AnwoSjbB7cBJIqhdTpkqbxmu7IT_j9FFmeK9tT_0WqDtodGfLuKT6nIyJUWb8ct9OJ6N7YjPXhB7KoxK_ZUxNK0dSpPhNFs_9rAU8QsXCZiZ-I9saiUtznnr5BEhX=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Slate Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

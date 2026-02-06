@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEitdI0XwFTryRz2htLqhx41lxU5NvLFnBS8dlosX8Je82cVn5FZ-N8YcI9MdPIdVIVkNEDtP4j2dUOPwMDlglTL6C7QjLv_Hn7rn8QseqX6Y1--vebktMZhgXl0A2kfDnB-Do3gUUH9gcQ-tzPBWSW7b18HupuvZA9VX6H8wgl1GfrtCrGPAHadhgxdYFaT=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 8일, 오늘을 닮은 색: 물렁한 복숭아"
 date: "2026-08-08"
 updated: "2026-08-08"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "f8f3ea"
 description: "오늘의 탄생색, 물렁한 복숭아. '포용력, 이해심, 배려심'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEitdI0XwFTryRz2htLqhx41lxU5NvLFnBS8dlosX8Je82cVn5FZ-N8YcI9MdPIdVIVkNEDtP4j2dUOPwMDlglTL6C7QjLv_Hn7rn8QseqX6Y1--vebktMZhgXl0A2kfDnB-Do3gUUH9gcQ-tzPBWSW7b18HupuvZA9VX6H8wgl1GfrtCrGPAHadhgxdYFaT=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Ripe Peach"
 author: "하루의 조각"
 profileName: "하루의 조각"

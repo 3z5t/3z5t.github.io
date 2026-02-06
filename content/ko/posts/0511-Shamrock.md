@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhWicTFRP_67b2AlN8_LN8c3vWyPlcY8-1hXdKRKuFwjZ8azl6vJsr7X5VtHsENfKbjFlwA6TuzrO02-uNdAOrY_JRmHWS_v4OmtjgZqjmOevrM6J2CE0jDNA2PCRE4voAkj4kr4hYDDwi27MfLxeJz1D6gGq2nxTZCxUICU9iCz1eNCb_DmSHkvOPeu4TS=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 11일, 오늘을 닮은 색: 샴록"
 date: "2026-05-11"
 updated: "2026-05-11"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "33cc99"
 description: "오늘의 탄생색, 샴록. '행운, 영감, 창의성'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhWicTFRP_67b2AlN8_LN8c3vWyPlcY8-1hXdKRKuFwjZ8azl6vJsr7X5VtHsENfKbjFlwA6TuzrO02-uNdAOrY_JRmHWS_v4OmtjgZqjmOevrM6J2CE0jDNA2PCRE4voAkj4kr4hYDDwi27MfLxeJz1D6gGq2nxTZCxUICU9iCz1eNCb_DmSHkvOPeu4TS=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Shamrock"
 author: "하루의 조각"
 profileName: "하루의 조각"

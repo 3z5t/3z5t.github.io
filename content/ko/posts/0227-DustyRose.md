@@ -1,20 +1,23 @@
 ---
-"title": "2월 27일, 오늘을 닮은 색: 말린 장미"
-"date": "2026-02-27"
-"updated": "2026-02-27"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjjnwrRJ3i8no1qJh00uBqtMRT_vpDqtIHKFJZOTKFjN5incCH0O2ybJ8i30WvglpZ0DQWXwUwlbKPBWvmnv8Ta5qySWnOM-czeZkGvEchim6xCYzdgzlt-e70hY4iIU-phlqj1QaNV6x8QgDqid9JjqThWIgyQggf7SF5g1dz1rIidKzXzYEztdka4YBh-=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 27일, 오늘을 닮은 색: 말린 장미"
+date: "2026-02-27"
+updated: "2026-02-27"
+tags:
 - "탄생색"
 - "말린 장미"
 - "2월 27일"
 - "2월"
 - "794848"
-"description": "오늘의 탄생색, 말린 장미. '성찰력, 감성, 지혜'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjjnwrRJ3i8no1qJh00uBqtMRT_vpDqtIHKFJZOTKFjN5incCH0O2ybJ8i30WvglpZ0DQWXwUwlbKPBWvmnv8Ta5qySWnOM-czeZkGvEchim6xCYzdgzlt-e70hY4iIU-phlqj1QaNV6x8QgDqid9JjqThWIgyQggf7SF5g1dz1rIidKzXzYEztdka4YBh-=s1600"
-"en_name": "Dusty Rose"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "8599974320856288115"
-"postUrl": "https://the366days-ko.blogspot.com"
+description: "오늘의 탄생색, 말린 장미. '성찰력, 감성, 지혜'이라는 의미를 담고 있어요."
+en_name: "Dusty Rose"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "8599974320856288115"
+postUrl: "https://the366days-ko.blogspot.com"
 ---
 
 ## 2월 27일의 탄생색: 말린 장미 (`#794848`)

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhmrJXbptV80TRZ1-bhzw-HybO7cA1lQgui1DoFSbv9l9732LorHbIDX-HzBBNzfuHBCJyFYAbuozfK-vQr13jJx0jBdiYUaAExrnAZWYLfZbUCHjq28dyyYqxCZ2VmIOXW8_8oOs7VsIzcV_4s0WVBmWgoa80zlve3R60g3Mxljv5TFuUrh2j5phREJgyh=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 3일, 오늘을 닮은 색: 루돌프 브라운"
 date: "2026-12-03"
 updated: "2026-12-03"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "6c4d32"
 description: "오늘의 탄생색, 루돌프 브라운. '따뜻한마음, 포근한, 안정감있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhmrJXbptV80TRZ1-bhzw-HybO7cA1lQgui1DoFSbv9l9732LorHbIDX-HzBBNzfuHBCJyFYAbuozfK-vQr13jJx0jBdiYUaAExrnAZWYLfZbUCHjq28dyyYqxCZ2VmIOXW8_8oOs7VsIzcV_4s0WVBmWgoa80zlve3R60g3Mxljv5TFuUrh2j5phREJgyh=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Rudolph Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"

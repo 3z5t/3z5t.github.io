@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgkff8QDfVMA_9V7w_XeaYfIZnCvnXVDLonbk4bdLerE7eQmn8usV_eJxUkxmOH2hX6XdFaJmzxEofYfAU0JuTupUXuyxt-81nBlZUTGM3fNkavpCFgcUSMzUABaAWvZfLa1kEYw0ntFevyxXURAAI_7HKJV8w_GXf4VLYrRq0SDvML0ixNe5ogcpsLVkT6=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 6일, 오늘을 닮은 색: 바나나"
 date: "2026-05-06"
 updated: "2026-05-06"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "fff462"
 description: "오늘의 탄생색, 바나나. '쾌활함, 즐거움, 낙천적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgkff8QDfVMA_9V7w_XeaYfIZnCvnXVDLonbk4bdLerE7eQmn8usV_eJxUkxmOH2hX6XdFaJmzxEofYfAU0JuTupUXuyxt-81nBlZUTGM3fNkavpCFgcUSMzUABaAWvZfLa1kEYw0ntFevyxXURAAI_7HKJV8w_GXf4VLYrRq0SDvML0ixNe5ogcpsLVkT6=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Banana"
 author: "하루의 조각"
 profileName: "하루의 조각"

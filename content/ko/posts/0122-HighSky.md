@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi_yiyzu-Af_oM6qPl3TuJR9cHAlyaL4cZaaORjt-7Qg_cK_exnPsNdc-zEHBD-NFWxdrL9CFGFTMNtR9cdtG8pOWX5vNuT0Ogejbz9GFeWcEbTEiqADQ03QgJTsGTT4tFGawIk7lKdw47u6Uts0GUqFyUpYG5NSsZlOwkTKtfMvyqN2dAi_FlM6_XM-f6P=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "1월 22일, 오늘을 닮은 색: 높은 하늘"
 date: 2026-01-22
 updated: 2026-01-22
@@ -11,10 +15,6 @@ tags:
   - 0b8ac3
   - 1월
 description: 오늘의 탄생색, 높은 하늘. '도전정신, 선구자적, 혁신적'이라는 의미를 담고 있어요.
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi_yiyzu-Af_oM6qPl3TuJR9cHAlyaL4cZaaORjt-7Qg_cK_exnPsNdc-zEHBD-NFWxdrL9CFGFTMNtR9cdtG8pOWX5vNuT0Ogejbz9GFeWcEbTEiqADQ03QgJTsGTT4tFGawIk7lKdw47u6Uts0GUqFyUpYG5NSsZlOwkTKtfMvyqN2dAi_FlM6_XM-f6P=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: High Sky
 author: 하루의 조각
 profileName: 하루의 조각

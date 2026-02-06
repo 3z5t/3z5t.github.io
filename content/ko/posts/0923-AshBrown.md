@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh_nChkwx4yMoDxv3-Wk6x85mlqp6zZ8Rov6ZmeDim6_geBgW8iIbQEqlqeZ5czGnNfuJLDaY_LtyPI3pu_OeG9myQ-oAzsauiLH6vfnoY5Sxcvl_DZUDvZkANuII5y-uL9gBi3ZHy6dg2202XNQOWd7KrIYc4IICL_4FHxtvQQ5yoXD9VoiriIVH5soh1Z=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "9월 23일, 오늘을 닮은 색: 애쉬 브라운"
 date: "2026-09-23"
 updated: "2026-09-23"
@@ -9,10 +13,6 @@ tags:
   - "9월"
   - "534e4b"
 description: "오늘의 탄생색, 애쉬 브라운. '안정감있는, 균형잡힌, 차분한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh_nChkwx4yMoDxv3-Wk6x85mlqp6zZ8Rov6ZmeDim6_geBgW8iIbQEqlqeZ5czGnNfuJLDaY_LtyPI3pu_OeG9myQ-oAzsauiLH6vfnoY5Sxcvl_DZUDvZkANuII5y-uL9gBi3ZHy6dg2202XNQOWd7KrIYc4IICL_4FHxtvQQ5yoXD9VoiriIVH5soh1Z=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Ash Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"

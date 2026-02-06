@@ -1,20 +1,23 @@
 ---
-"title": "2월 7일, 오늘을 닮은 색: 남보라"
-"date": "2026-02-07"
-"updated": "2026-02-07"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjf4gvWPxsWdo_NTeoTtjc8pC7kYOVvSI4UnSnKLRae0pvxtLnwQBJLigjxbyotnuJhQQAKp0tcu2Jkxva8YmHoy8rqvVZzgw3sC08EL5VB8bxfVNAFkHiI_wMaIBAwLg89A_T6pBrYoqv7I0SPEUa1WfPNRg0gUcwK3KTxpM3X-U0uMF20gFxaDW1RBshf=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 7일, 오늘을 닮은 색: 남보라"
+date: "2026-02-07"
+updated: "2026-02-07"
+tags:
 - "탄생색"
 - "남보라"
 - "2월 7일"
 - "2월"
 - "8673c4"
-"description": "오늘의 탄생색, 남보라. '예술적, 영감적, 창의적'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjf4gvWPxsWdo_NTeoTtjc8pC7kYOVvSI4UnSnKLRae0pvxtLnwQBJLigjxbyotnuJhQQAKp0tcu2Jkxva8YmHoy8rqvVZzgw3sC08EL5VB8bxfVNAFkHiI_wMaIBAwLg89A_T6pBrYoqv7I0SPEUa1WfPNRg0gUcwK3KTxpM3X-U0uMF20gFxaDW1RBshf=s1600"
-"en_name": "Blue Violet"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "5781541952347081544"
-"postUrl": "https://the366days-ko.blogspot.com/2026/02/2-7-blue-violet.html"
+description: "오늘의 탄생색, 남보라. '예술적, 영감적, 창의적'이라는 의미를 담고 있어요."
+en_name: "Blue Violet"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "5781541952347081544"
+postUrl: "https://the366days-ko.blogspot.com/2026/02/2-7-blue-violet.html"
 ---
 
 ## 2월 7일의 탄생색: 남보라 (`#8673C4`)

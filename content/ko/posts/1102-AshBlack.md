@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiva3dzgC48pprcTRdr8jmRTteoWkO3ESHTqvcsLsTUE4WULSn3yidbkM0lUc1ykIMI4gPzfIKDVXhr_aZJkFxsoAHEAEWsnAtXuBixmH3564NLoYgvFv_v7Oz83zk2hN77S-LHt8GHuXayU0gT4INFlVOOJFmdSlx3z0dKiyUGhbZA61fyjntLIAt0m_3V=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 2일, 오늘을 닮은 색: 애쉬 블랙"
 date: "2026-11-02"
 updated: "2026-11-02"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "282221"
 description: "오늘의 탄생색, 애쉬 블랙. '변화를수용하는, 순환을아는, 혁신적인'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiva3dzgC48pprcTRdr8jmRTteoWkO3ESHTqvcsLsTUE4WULSn3yidbkM0lUc1ykIMI4gPzfIKDVXhr_aZJkFxsoAHEAEWsnAtXuBixmH3564NLoYgvFv_v7Oz83zk2hN77S-LHt8GHuXayU0gT4INFlVOOJFmdSlx3z0dKiyUGhbZA61fyjntLIAt0m_3V=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Ash Black"
 author: "하루의 조각"
 profileName: "하루의 조각"

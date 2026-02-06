@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjKxbdhc0vskCVXfBsSzHxAU7oRPzExFyoj3dEnV1cLz89oQ4lhDjkU4lHyna01r5HgoS6V_e6lm8n4gF7PlgGrldnPkIvGY1LQXWFCAjH8SBw9-xMgjJK_9tKMSr9B4n4cmwIb4CvlLb7yk1JwYq3Gay1RroShwE9J7D25esXtP5uE9zXDUWFS5k-xjcv-=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 29일, 오늘을 닮은 색: 늦여름의 잎사귀"
 date: "2026-08-29"
 updated: "2026-08-29"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "566353"
 description: "오늘의 탄생색, 늦여름의 잎사귀. '성숙한, 깊이있는, 안정된'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjKxbdhc0vskCVXfBsSzHxAU7oRPzExFyoj3dEnV1cLz89oQ4lhDjkU4lHyna01r5HgoS6V_e6lm8n4gF7PlgGrldnPkIvGY1LQXWFCAjH8SBw9-xMgjJK_9tKMSr9B4n4cmwIb4CvlLb7yk1JwYq3Gay1RroShwE9J7D25esXtP5uE9zXDUWFS5k-xjcv-=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Late Summer Leaf"
 author: "하루의 조각"
 profileName: "하루의 조각"

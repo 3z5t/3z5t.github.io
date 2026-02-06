@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg_1ibYnQ5O-R9smAFfIIVzq2yLadkgHbq4syVDp7orgdEQ-XaGdvxHMLpj6rS7WkKNtFyZjYDWw4YticwU-XX2FfCr1AztZSWdLSyypqjxkbTugPPxTmikxx-PASGZmgMV-4nf5Ks3MlKy1ovUFMjg64lwHLfmabmT2Ppb8Olku3ehMElhSd_CD4hJgUsU=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 17일, 오늘을 닮은 색: 클래식 핑크"
 date: "2026-03-17"
 updated: "2026-03-17"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "ffc0cb"
 description: "오늘의 탄생색, 클래식 핑크. '사랑스러움, 낭만성, 온화함'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEg_1ibYnQ5O-R9smAFfIIVzq2yLadkgHbq4syVDp7orgdEQ-XaGdvxHMLpj6rS7WkKNtFyZjYDWw4YticwU-XX2FfCr1AztZSWdLSyypqjxkbTugPPxTmikxx-PASGZmgMV-4nf5Ks3MlKy1ovUFMjg64lwHLfmabmT2Ppb8Olku3ehMElhSd_CD4hJgUsU=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Classic Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"

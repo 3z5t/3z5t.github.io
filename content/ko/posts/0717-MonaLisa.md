@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh7d6rMtV-VY8Y6jFWimVEe4EKwPKUa4NWz_ZfMjloHCe0v4EqK3WxteseR--MyXpGpZo5vJGVSCRcI7dWrgYI-Pg3eJ2soBMRgOt4irq0BcV9IZ_9pSXnJOBgp2rUGUUcqeRQiFUe-DmHYYyR4-QaIHdxfCA6Tc77u-meY6uZxvRcKmrp7yViD47C10keR=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 17일, 오늘을 닮은 색: 모나리자"
 date: "2026-07-17"
 updated: "2026-07-17"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "ff9999"
 description: "오늘의 탄생색, 모나리자. '예술적, 아름다운, 균형잡힌'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh7d6rMtV-VY8Y6jFWimVEe4EKwPKUa4NWz_ZfMjloHCe0v4EqK3WxteseR--MyXpGpZo5vJGVSCRcI7dWrgYI-Pg3eJ2soBMRgOt4irq0BcV9IZ_9pSXnJOBgp2rUGUUcqeRQiFUe-DmHYYyR4-QaIHdxfCA6Tc77u-meY6uZxvRcKmrp7yViD47C10keR=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Mona Lisa"
 author: "하루의 조각"
 profileName: "하루의 조각"

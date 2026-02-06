@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhRL7L1XLf6s9D5bHKSErYNA57pKjd6zxzedsyrkrAvIJb33OJgAFEyNb7BqpZOHYYKuRdmkPlA6G2PTur-5cSS3Eg1jSMo6SdKxe9iTi_mQzJ4Cwi5cQkD43w0oeSo7X43X3TUf5aDMdHKROsXCZULzlJJNSKDjV9bsLQLh3-WNxw1NHj6jQvfxZiB3Kx7=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 22일, 오늘을 닮은 색: 블루 라군"
 date: "2026-05-22"
 updated: "2026-05-22"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "006666"
 description: "오늘의 탄생색, 블루 라군. '평화로움, 치유력, 안정감'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhRL7L1XLf6s9D5bHKSErYNA57pKjd6zxzedsyrkrAvIJb33OJgAFEyNb7BqpZOHYYKuRdmkPlA6G2PTur-5cSS3Eg1jSMo6SdKxe9iTi_mQzJ4Cwi5cQkD43w0oeSo7X43X3TUf5aDMdHKROsXCZULzlJJNSKDjV9bsLQLh3-WNxw1NHj6jQvfxZiB3Kx7=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Blue Lagoon"
 author: "하루의 조각"
 profileName: "하루의 조각"

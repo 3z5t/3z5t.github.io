@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi6qI9olYtrjICeUBNYrCCFysA9xhJCEL3rivOUwhH6BNXtMapvdbRNfqlUZgdCvcDur1vQDQLMF6EG855i1O8Tu2K3ceNer4esJgqLirP0M0RkzstnPE0_ODw4E9_j-tzjjFM_DvgyEG2LYezWK0BKjj50HCYEPvk8Z62WJmjuZztqIudlB4_lWB-HJi5j=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 10일, 오늘을 닮은 색: 스파이시 레드"
 date: "2026-10-10"
 updated: "2026-10-10"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "990033"
 description: "오늘의 탄생색, 스파이시 레드. '정열적인, 의지력강한, 깊이있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi6qI9olYtrjICeUBNYrCCFysA9xhJCEL3rivOUwhH6BNXtMapvdbRNfqlUZgdCvcDur1vQDQLMF6EG855i1O8Tu2K3ceNer4esJgqLirP0M0RkzstnPE0_ODw4E9_j-tzjjFM_DvgyEG2LYezWK0BKjj50HCYEPvk8Z62WJmjuZztqIudlB4_lWB-HJi5j=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Spicy Red"
 author: "하루의 조각"
 profileName: "하루의 조각"

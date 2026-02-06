@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhr0rAUEwoLR2F1kmUffh6DrqS3Cxu2ty0yccUiGrmZ_wfnjnNfukjZhhHH7002XyIviY6y8bIXQotb2i3s0guMSUpmZfO6vWdA3s-fNqwouFs6rWFQyWM7gKyZZOVdcOT0rs_-O0rsWvW6daEFQ2lSw6IBT426N9YYE6QZmSlTBc31p1AQsIjgOS-5ol-n=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 28일, 오늘을 닮은 색: 밀밭"
 date: "2026-06-28"
 updated: "2026-06-28"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "b89a6d"
 description: "오늘의 탄생색, 밀밭. '풍요로움, 감사함, 번영'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhr0rAUEwoLR2F1kmUffh6DrqS3Cxu2ty0yccUiGrmZ_wfnjnNfukjZhhHH7002XyIviY6y8bIXQotb2i3s0guMSUpmZfO6vWdA3s-fNqwouFs6rWFQyWM7gKyZZOVdcOT0rs_-O0rsWvW6daEFQ2lSw6IBT426N9YYE6QZmSlTBc31p1AQsIjgOS-5ol-n=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Wheat Field"
 author: "하루의 조각"
 profileName: "하루의 조각"

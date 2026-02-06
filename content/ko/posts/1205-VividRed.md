@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg12TOPcGGCYjAqizdpvi48WvBCrFf6blurWLGKid6eWN0CJ5nFHiXvfSl5WMTtnlYpBsWbZfWRVDczmqJmsisaLxL8w9KyHDwx8aEG-l94RvBJbTsfu_FiCohVUmJlK_twdB72p0LriZru5ev5Kvb3U1pCktSyZILb-vWZzr6Cxbnafx7NeCIufS2aHGrg=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 5일, 오늘을 닮은 색: 비비드 레드"
 date: "2026-12-05"
 updated: "2026-12-05"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "d93232"
 description: "오늘의 탄생색, 비비드 레드. '축제를즐기는, 기쁨넘치는, 활력있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEg12TOPcGGCYjAqizdpvi48WvBCrFf6blurWLGKid6eWN0CJ5nFHiXvfSl5WMTtnlYpBsWbZfWRVDczmqJmsisaLxL8w9KyHDwx8aEG-l94RvBJbTsfu_FiCohVUmJlK_twdB72p0LriZru5ev5Kvb3U1pCktSyZILb-vWZzr6Cxbnafx7NeCIufS2aHGrg=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Vivid Red"
 author: "하루의 조각"
 profileName: "하루의 조각"

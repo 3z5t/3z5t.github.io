@@ -1,20 +1,23 @@
 ---
-"title": "2월 17일, 오늘을 닮은 색: 브릴리언트 로즈"
-"date": "2026-02-17"
-"updated": "2026-02-17"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhYAqEf5UN8c5T1Wph1YaotVYfNTwuLDpumPvd4E3WiFi5-jG-MPCbDT0cvMw3p_FOESM2hUxQ6nUKaQTt8_egj0_3rquIx81s7w-lBKPd1VG3_uwXbSjgZJngKpS9HhuZVu9jDhLE0P5QhG9w2RnF2n6VASCFkOKaHvnaLSZja63mlfSMMinoLqQ54brq9=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 17일, 오늘을 닮은 색: 브릴리언트 로즈"
+date: "2026-02-17"
+updated: "2026-02-17"
+tags:
 - "탄생색"
 - "브릴리언트 로즈"
 - "2월 17일"
 - "2월"
 - "ff6699"
-"description": "오늘의 탄생색, 브릴리언트 로즈. '사랑스러움, 긍정성, 희망'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhYAqEf5UN8c5T1Wph1YaotVYfNTwuLDpumPvd4E3WiFi5-jG-MPCbDT0cvMw3p_FOESM2hUxQ6nUKaQTt8_egj0_3rquIx81s7w-lBKPd1VG3_uwXbSjgZJngKpS9HhuZVu9jDhLE0P5QhG9w2RnF2n6VASCFkOKaHvnaLSZja63mlfSMMinoLqQ54brq9=s1600"
-"en_name": "Brilliant Rose"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "8071002200408961356"
-"postUrl": "https://the366days-ko.blogspot.com"
+description: "오늘의 탄생색, 브릴리언트 로즈. '사랑스러움, 긍정성, 희망'이라는 의미를 담고 있어요."
+en_name: "Brilliant Rose"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "8071002200408961356"
+postUrl: "https://the366days-ko.blogspot.com"
 ---
 
 ## 2월 17일의 탄생색: 브릴리언트 로즈 (`#FF6699`)

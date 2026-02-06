@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi_dcRoc7ZYOd5fuAUsvidjur30ECfNsZnmdHMZ1SZfRkcfI5CE02I-0mCacbXr1omUmbgzXac1Va8OpqZ1zNeJOxHnq3B73f4w8L8lah6HJsoC-57DxHO20CU_EC3peWDqZcSgBDLIwk40yRCU89BzSs_DLuVLM0le8n45ccEaDYGQaHFTHa-s5XVDZsTi=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 28일, 오늘을 닮은 색: 미드나잇 바이올렛"
 date: "2026-11-28"
 updated: "2026-11-28"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "20202e"
 description: "오늘의 탄생색, 미드나잇 바이올렛. '신비로운, 우아한, 품격있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi_dcRoc7ZYOd5fuAUsvidjur30ECfNsZnmdHMZ1SZfRkcfI5CE02I-0mCacbXr1omUmbgzXac1Va8OpqZ1zNeJOxHnq3B73f4w8L8lah6HJsoC-57DxHO20CU_EC3peWDqZcSgBDLIwk40yRCU89BzSs_DLuVLM0le8n45ccEaDYGQaHFTHa-s5XVDZsTi=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Midnight Violet"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgS8rMR880_AUF1FA_aiu08CA-PnxZweQNhKu5JVxTY36e6P0o21dRebIwWvm3n-W-AL-TGybUjiy_6eUrhPzv5J90_71wjOVAud6UOGbxMBy-gjhsGCzFesEEwE4fjCDUaQ40MxY0Ybu8CZz5LzGNT4sVDjR0QoAPU5dR-C2T9woxS50lCxxQVYqF1pFHy=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 13일, 오늘을 닮은 색: 시트러스"
 date: "2026-04-13"
 updated: "2026-04-13"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "99cc00"
 description: "오늘의 탄생색, 시트러스. '상쾌함, 활력적, 도전적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgS8rMR880_AUF1FA_aiu08CA-PnxZweQNhKu5JVxTY36e6P0o21dRebIwWvm3n-W-AL-TGybUjiy_6eUrhPzv5J90_71wjOVAud6UOGbxMBy-gjhsGCzFesEEwE4fjCDUaQ40MxY0Ybu8CZz5LzGNT4sVDjR0QoAPU5dR-C2T9woxS50lCxxQVYqF1pFHy=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Citrus"
 author: "하루의 조각"
 profileName: "하루의 조각"

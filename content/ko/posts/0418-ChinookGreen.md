@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhicr6w3IRAH4CRK8aqu6B742v5PALhx3kZZ8JH30V1RntTWCQmVbO4iEST6XHsIx17zx61qihsxySxYsdgR14lCrbATW-l0aS2-BdqKqQxWHe05v8A39ylu4OUZRYXJuWZK5adQPUn3r_AsPERP5YZfDzExyj8U2bqRNPFAr062e29YNes3SKKGLh4LjZH=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 18일, 오늘을 닮은 색: 치녹 그린"
 date: "2026-04-18"
 updated: "2026-04-18"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "99cc99"
 description: "오늘의 탄생색, 치녹 그린. '조화로움, 평화로움, 치유력'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhicr6w3IRAH4CRK8aqu6B742v5PALhx3kZZ8JH30V1RntTWCQmVbO4iEST6XHsIx17zx61qihsxySxYsdgR14lCrbATW-l0aS2-BdqKqQxWHe05v8A39ylu4OUZRYXJuWZK5adQPUn3r_AsPERP5YZfDzExyj8U2bqRNPFAr062e29YNes3SKKGLh4LjZH=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Chinook Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

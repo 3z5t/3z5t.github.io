@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjCgfNUxjKdbJov-tU5wIe72JSP1N8co_LfMfsfpTVaOaK-jjxOy5MqiAo2YeujrwBt9GnAoUcrczSRVasuNmV-Eti-4vS5Ds-JPxaiPfsNdd0gQxicdpZz8SfgFvPHS94XJIdPTIbCLT7cKnTSqn8DxEcMyUz6E9SLMJCpwE9J-wTY1qdsLNaNmI1pNMfB=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 24일, 오늘을 닮은 색: 유칼립투스"
 date: "2026-04-24"
 updated: "2026-04-24"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "339966"
 description: "오늘의 탄생색, 유칼립투스. '치유력, 회복력, 생명력'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjCgfNUxjKdbJov-tU5wIe72JSP1N8co_LfMfsfpTVaOaK-jjxOy5MqiAo2YeujrwBt9GnAoUcrczSRVasuNmV-Eti-4vS5Ds-JPxaiPfsNdd0gQxicdpZz8SfgFvPHS94XJIdPTIbCLT7cKnTSqn8DxEcMyUz6E9SLMJCpwE9J-wTY1qdsLNaNmI1pNMfB=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Eucalyptus"
 author: "하루의 조각"
 profileName: "하루의 조각"

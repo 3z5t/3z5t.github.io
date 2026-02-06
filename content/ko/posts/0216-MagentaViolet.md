@@ -1,20 +1,23 @@
 ---
-"title": "2월 16일, 오늘을 닮은 색: 마젠타 바이올렛"
-"date": "2026-02-16"
-"updated": "2026-02-16"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh39GtaFIUKSCgAg2QNgPj6vhGtCq09u6DKFddIZ-gzMrErybthA_jT3SGhfiqoxMTnNxtgxqWBIujq0RzhQCDjpAK4k7ExgKeOSfW9o6tsBrefUGv9o-r3mVTZwl9c_puItpsRbJ48fNkN2TcXdTK_di5f-F5heeC6Pc1cM7yvBlWPqpPqa7x2e8FpUjO3=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 16일, 오늘을 닮은 색: 마젠타 바이올렛"
+date: "2026-02-16"
+updated: "2026-02-16"
+tags:
 - "탄생색"
 - "마젠타 바이올렛"
 - "2월 16일"
 - "2월"
 - "ee82ee"
-"description": "오늘의 탄생색, 마젠타 바이올렛. '감각적, 매력적, 창의성'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEh39GtaFIUKSCgAg2QNgPj6vhGtCq09u6DKFddIZ-gzMrErybthA_jT3SGhfiqoxMTnNxtgxqWBIujq0RzhQCDjpAK4k7ExgKeOSfW9o6tsBrefUGv9o-r3mVTZwl9c_puItpsRbJ48fNkN2TcXdTK_di5f-F5heeC6Pc1cM7yvBlWPqpPqa7x2e8FpUjO3=s1600"
-"en_name": "Magenta Violet"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "6082792741019091071"
-"postUrl": "https://the366days-ko.blogspot.com"
+description: "오늘의 탄생색, 마젠타 바이올렛. '감각적, 매력적, 창의성'이라는 의미를 담고 있어요."
+en_name: "Magenta Violet"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "6082792741019091071"
+postUrl: "https://the366days-ko.blogspot.com"
 
 ---
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjXLJr31x62awHcxX8i31FPKpHVC72arzf5_oqX57M_G7nb_BtLmbHUAO41z75mzN0PiGYQHXhLpn79ibBPvAx0g9WAfUH-_DwwAt9LhljvpeDZTHdPhtqRFT7JObsjRv-C76uYmdYw6kEkaG2taEpEYLitDXEyssQLsRsiC-0E0CVG41cQSQow2PJrBF5G=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 20일, 오늘을 닮은 색: 샤이닝 스타"
 date: "2026-06-20"
 updated: "2026-06-20"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "eaab5b"
 description: "오늘의 탄생색, 샤이닝 스타. '빛나는재능, 희망적, 영향력'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjXLJr31x62awHcxX8i31FPKpHVC72arzf5_oqX57M_G7nb_BtLmbHUAO41z75mzN0PiGYQHXhLpn79ibBPvAx0g9WAfUH-_DwwAt9LhljvpeDZTHdPhtqRFT7JObsjRv-C76uYmdYw6kEkaG2taEpEYLitDXEyssQLsRsiC-0E0CVG41cQSQow2PJrBF5G=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Shining Star"
 author: "하루의 조각"
 profileName: "하루의 조각"

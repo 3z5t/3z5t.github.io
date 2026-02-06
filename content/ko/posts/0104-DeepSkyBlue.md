@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgociM1cuKOxruHbZFrPKrHw-906YShXxBiorhEQGFIxbhw7HyJ0RnsWkfCDqJB46jcRf00ONgipdu2K2R1095qradVbnnUC7q3XwC4hs1AJLmVb7bsxj5mnYQYL5RC5SiKnlzIXn7pj7g1chLoKcEn9-AmU4kMckWxGVdpfKyggAi-M_pmbWGr7xIMzYc4=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "1월 4일, 오늘을 닮은 색: 딥 스카이블루"
 date: 2026-01-04
 updated: 2026-01-04
@@ -11,10 +15,6 @@ tags:
   - 00ccff
   - 1월
 description: 오늘의 탄생색, 딥 스카이블루. '무한한 가능성, 진취성, 열정'이라는 의미를 담고 있어요.
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgociM1cuKOxruHbZFrPKrHw-906YShXxBiorhEQGFIxbhw7HyJ0RnsWkfCDqJB46jcRf00ONgipdu2K2R1095qradVbnnUC7q3XwC4hs1AJLmVb7bsxj5mnYQYL5RC5SiKnlzIXn7pj7g1chLoKcEn9-AmU4kMckWxGVdpfKyggAi-M_pmbWGr7xIMzYc4=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: Deep Sky Blue
 author: 하루의 조각
 profileName: 하루의 조각

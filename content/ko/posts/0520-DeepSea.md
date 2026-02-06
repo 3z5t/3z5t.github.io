@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjFIKFX0qXG7kMorZUdI12CGOifD_4SOwvkBvPRK3csCuP9tbAyEDJ7hy802siZx_WeV0XF7aKLc9jtQ_3tmiL_4mwqL8Tky4giDoUhm1JdVZ1lMktotQz4gOBST2fN6aglhzET-VX09dvWgJFNjDTDqYsnqCOZ3yhSk5I5BIO6CiMXbqhZu7WJ08tCrD5s=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 20일, 오늘을 닮은 색: 딥 씨 (Deep Sea)"
 date: "2026-05-20"
 updated: "2026-05-20"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "2f4f4f"
 description: "오늘의 탄생색, 딥 씨 (Deep Sea). '통찰력, 사색적, 지혜로움'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjFIKFX0qXG7kMorZUdI12CGOifD_4SOwvkBvPRK3csCuP9tbAyEDJ7hy802siZx_WeV0XF7aKLc9jtQ_3tmiL_4mwqL8Tky4giDoUhm1JdVZ1lMktotQz4gOBST2fN6aglhzET-VX09dvWgJFNjDTDqYsnqCOZ3yhSk5I5BIO6CiMXbqhZu7WJ08tCrD5s=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Deep Sea"
 author: "하루의 조각"
 profileName: "하루의 조각"

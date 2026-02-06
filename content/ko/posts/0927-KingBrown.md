@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhRtGJRnCFsDT5yc1n-dTNHc2k3tbC0XU06JdSSCInQj2DxhghGy2SpSn6Oyurl2fzvRm0qwIieEnGRi2SQ02RvA1ogS6wuGLWQ5lbdjiwVh2QO7XCcwv47KCmJotFqNi1Wm_LzUuvqwZHZIia7E47dcVO5tPOE9z7vqLha45pVdzQzGzqkj7c3tThho9O0=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "9월 27일, 오늘을 닮은 색: 킹 브라운"
 date: "2026-09-27"
 updated: "2026-09-27"
@@ -9,10 +13,6 @@ tags:
   - "9월"
   - "a86248"
 description: "오늘의 탄생색, 킹 브라운. '위엄있는, 품격있는, 리더십있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhRtGJRnCFsDT5yc1n-dTNHc2k3tbC0XU06JdSSCInQj2DxhghGy2SpSn6Oyurl2fzvRm0qwIieEnGRi2SQ02RvA1ogS6wuGLWQ5lbdjiwVh2QO7XCcwv47KCmJotFqNi1Wm_LzUuvqwZHZIia7E47dcVO5tPOE9z7vqLha45pVdzQzGzqkj7c3tThho9O0=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "King Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"

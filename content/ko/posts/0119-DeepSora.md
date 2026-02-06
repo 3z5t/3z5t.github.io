@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEheBa11-sjqR-72hhn0k8GhngFsLDU73Eu0g-wlTYOpUGIzo5CPgHiucUDwIJgUlA83vE_nkBoO8zDhU7yBVrXwBA2dWXB9DeoSn5ge-O6csFo49ngZa7kDiC9FF3BYkVg3P0yFupr7zjoiQhc0bsupCJ7TFBCAghN-EXhlS1u9K6jn37CPoRMD2rQ9f2dk=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "1월 19일, 오늘을 닮은 색: 진소라"
 date: 2026-01-19
 updated: 2026-01-19
@@ -11,10 +15,6 @@ tags:
   - 667cb8
   - 1월
 description: 오늘의 탄생색, 진소라. '성실함, 근면성, 책임감'이라는 의미를 담고 있어요.
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEheBa11-sjqR-72hhn0k8GhngFsLDU73Eu0g-wlTYOpUGIzo5CPgHiucUDwIJgUlA83vE_nkBoO8zDhU7yBVrXwBA2dWXB9DeoSn5ge-O6csFo49ngZa7kDiC9FF3BYkVg3P0yFupr7zjoiQhc0bsupCJ7TFBCAghN-EXhlS1u9K6jn37CPoRMD2rQ9f2dk=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: Deep Sora
 author: 하루의 조각
 profileName: 하루의 조각

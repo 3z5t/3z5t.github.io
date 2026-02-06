@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjK1Jt7UzaG0f6l442sdKxqfd_vB75wuBzc_tIZdJL59kLFh9ySJbQftMGC9wR6JYQf6mVhwdZ4c6It_lco7dyJ6Zl7-7H7oe530BR3088FMzrSC9B8HMV63zwhhlkDznF-fE3c_hAs7GVgjhY3r5P82NkjhasjY062-ydUvT2YQQVqL4R694iiM9wUKRka=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 15일, 오늘을 닮은 색: 상그리아"
 date: "2026-10-15"
 updated: "2026-10-15"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "990000"
 description: "오늘의 탄생색, 상그리아. '깊이있는, 풍부한감성, 여운있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjK1Jt7UzaG0f6l442sdKxqfd_vB75wuBzc_tIZdJL59kLFh9ySJbQftMGC9wR6JYQf6mVhwdZ4c6It_lco7dyJ6Zl7-7H7oe530BR3088FMzrSC9B8HMV63zwhhlkDznF-fE3c_hAs7GVgjhY3r5P82NkjhasjY062-ydUvT2YQQVqL4R694iiM9wUKRka=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Sangria"
 author: "하루의 조각"
 profileName: "하루의 조각"

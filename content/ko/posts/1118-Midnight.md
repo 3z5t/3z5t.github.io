@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiYFVddfcCYzyuWIYHEFKOQBdhApl-UPgU5Hk81SHNIAcBwD06s9un3vm7-VAb_SjpSmGnjhfm8XZF6X47eCy0zNC_l3KYiwKe34B49dE8aGe6f8-NKjEttEwN6QOvUajffL3HIShKJNq9MOZpkVmRF-XPGwKW5YZy27feefpWwN9rtza5WGFyrKbnSGoXv=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 18일, 오늘을 닮은 색: 자정"
 date: "2026-11-18"
 updated: "2026-11-18"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "242228"
 description: "오늘의 탄생색, 자정. '고요한, 평화로운, 휴식을주는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiYFVddfcCYzyuWIYHEFKOQBdhApl-UPgU5Hk81SHNIAcBwD06s9un3vm7-VAb_SjpSmGnjhfm8XZF6X47eCy0zNC_l3KYiwKe34B49dE8aGe6f8-NKjEttEwN6QOvUajffL3HIShKJNq9MOZpkVmRF-XPGwKW5YZy27feefpWwN9rtza5WGFyrKbnSGoXv=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Midnight"
 author: "하루의 조각"
 profileName: "하루의 조각"

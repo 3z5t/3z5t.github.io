@@ -1,20 +1,23 @@
 ---
-"title": "2월 14일, 오늘을 닮은 색: 핫 마젠타"
-"date": "2026-02-14"
-"updated": "2026-02-14"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgYD5ChXWjLtL-6L9HGcQkLRv37xtzbnxw6-RlhRU4O_7uIqOMml1k7ElZJpcbn4r89d6tugn9kN4dk9bCvH0Hs2JtL0L0YLEQWHPBytR2DDI3ayaxcZPwEM4PaFM5wPEAG6QHHWhBWzOUAK3qc_OLRMVdsegMTjSPvQx5uAppkz6i1B2Ml_ViC9OgizNK6=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 14일, 오늘을 닮은 색: 핫 마젠타"
+date: "2026-02-14"
+updated: "2026-02-14"
+tags:
 - "탄생색"
 - "핫 마젠타"
 - "2월 14일"
 - "2월"
 - "ff00cc"
-"description": "오늘의 탄생색, 핫 마젠타. '열정적, 사랑스러움, 매력'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgYD5ChXWjLtL-6L9HGcQkLRv37xtzbnxw6-RlhRU4O_7uIqOMml1k7ElZJpcbn4r89d6tugn9kN4dk9bCvH0Hs2JtL0L0YLEQWHPBytR2DDI3ayaxcZPwEM4PaFM5wPEAG6QHHWhBWzOUAK3qc_OLRMVdsegMTjSPvQx5uAppkz6i1B2Ml_ViC9OgizNK6=s1600"
-"en_name": "Hot Magenta"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "3571114601138277153"
-"postUrl": "https://the366days-ko.blogspot.com/2026/02/2-14-hot-magenta.html"
+description: "오늘의 탄생색, 핫 마젠타. '열정적, 사랑스러움, 매력'이라는 의미를 담고 있어요."
+en_name: "Hot Magenta"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "3571114601138277153"
+postUrl: "https://the366days-ko.blogspot.com/2026/02/2-14-hot-magenta.html"
 ---
 
 ## 2월 14일의 탄생색: 핫 마젠타 (`#FF00CC`)

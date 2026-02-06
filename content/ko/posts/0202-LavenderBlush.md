@@ -1,20 +1,23 @@
 ---
-"title": "2월 2일, 오늘을 닮은 색: 라벤더 블러쉬"
-"date": "2026-02-02"
-"updated": "2026-02-02"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgOiBk9W7CQmeAAjQA9Rako51b7kDT8iJVbD7XIaONUStl1ycCb9x8l9yz1kyh3MlirSM8QACTg-zxVI4QcWolSJJhek9wtOUxiAoIa7YLjO5kCn_9w05qWLDXjohCGuBvuesR9o9vEkRRBLxQT4KoE83Bd-tFjwqFBjIW9cG5sHYcUJAGoVbbJ17RW-zYZ=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 2일, 오늘을 닮은 색: 라벤더 블러쉬"
+date: "2026-02-02"
+updated: "2026-02-02"
+tags:
 - "탄생색"
 - "라벤더 블러쉬"
 - "2월 2일"
 - "2월"
 - "ffccff"
-"description": "오늘의 탄생색, 라벤더 블러쉬. '낭만적, 예술성, 상상력'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgOiBk9W7CQmeAAjQA9Rako51b7kDT8iJVbD7XIaONUStl1ycCb9x8l9yz1kyh3MlirSM8QACTg-zxVI4QcWolSJJhek9wtOUxiAoIa7YLjO5kCn_9w05qWLDXjohCGuBvuesR9o9vEkRRBLxQT4KoE83Bd-tFjwqFBjIW9cG5sHYcUJAGoVbbJ17RW-zYZ=s1600"
-"en_name": "Lavender Blush"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "2843034529398039540"
-"postUrl": "https://the366days-ko.blogspot.com/2026/02/2-2-lavender-blush.html"
+description: "오늘의 탄생색, 라벤더 블러쉬. '낭만적, 예술성, 상상력'이라는 의미를 담고 있어요."
+en_name: "Lavender Blush"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "2843034529398039540"
+postUrl: "https://the366days-ko.blogspot.com/2026/02/2-2-lavender-blush.html"
 ---
 
 ## 2월 2일의 탄생색: 라벤더 블러쉬 (`#FFCCFF`)

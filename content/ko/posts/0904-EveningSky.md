@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhCyrGvSOwZgnWwx9gDyzEhyUF3teIghtXIZfCKzd-Y3iRkMNZwW5FWA_DydVTMTXoJC2FS54GK6ALgP6HzZaoKRggDdr_75dLKIsmZnJatLfp5xug9uniXRDYVVqP2cnAtgOklp5LrrWMSDVXfwZYwWaviIl8c7_TJAd_QzV4OTN2b90PvHMeexEh75jQ9=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "9월 4일, 오늘을 닮은 색: 저녁 밤하늘"
 date: "2026-09-04"
 updated: "2026-09-04"
@@ -9,10 +13,6 @@ tags:
   - "9월"
   - "071734"
 description: "오늘의 탄생색, 저녁 밤하늘. '명상적인, 차분한, 직관적인'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhCyrGvSOwZgnWwx9gDyzEhyUF3teIghtXIZfCKzd-Y3iRkMNZwW5FWA_DydVTMTXoJC2FS54GK6ALgP6HzZaoKRggDdr_75dLKIsmZnJatLfp5xug9uniXRDYVVqP2cnAtgOklp5LrrWMSDVXfwZYwWaviIl8c7_TJAd_QzV4OTN2b90PvHMeexEh75jQ9=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Evening Sky"
 author: "하루의 조각"
 profileName: "하루의 조각"

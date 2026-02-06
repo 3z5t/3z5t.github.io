@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEibP3yUsUmbzHz_pEFXkbPLSeTz55509fd72gXzOBcMAnp5ybdUQReTcWrt06Qx4z6by_GHTS5vYu0DcROfAo91RH2DDoMy2aYo8zhOgZ6mc0Lli9GMoSFXx6XAh0iBTl7KQhbFaz3wSF3TjWR2T3-mpSwKXQ8KwRTSzMXJVOS9hk4cojzHQJmi0i95Xadc=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 31일, 오늘을 닮은 색: 올리브 오일"
 date: "2026-10-31"
 updated: "2026-10-31"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "999900"
 description: "오늘의 탄생색, 올리브 오일. '풍요로운, 안정된, 희망적인'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEibP3yUsUmbzHz_pEFXkbPLSeTz55509fd72gXzOBcMAnp5ybdUQReTcWrt06Qx4z6by_GHTS5vYu0DcROfAo91RH2DDoMy2aYo8zhOgZ6mc0Lli9GMoSFXx6XAh0iBTl7KQhbFaz3wSF3TjWR2T3-mpSwKXQ8KwRTSzMXJVOS9hk4cojzHQJmi0i95Xadc=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Olive Oil"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhlSZJC9t7Loyhuc1Xk5Xu3kBAvd0vJYeV7EIFSfsGmU_FwJI_sD5Eh57SJ03yCAEKl-XcYsw7lKNAvw7bwsC9XvcfdfQzStW1HKOEgYw9wyl4GQLwFC7h7wpufCK7G0OkIl42XElkA6M8DGBGqlvJb5vFn3O2atEFUuU-oXjOzXhXJ8IoYuEScdccIfuAN=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "9월 22일, 오늘을 닮은 색: 다람쥐 브라운"
 date: "2026-09-22"
 updated: "2026-09-22"
@@ -9,10 +13,6 @@ tags:
   - "9월"
   - "996a52"
 description: "오늘의 탄생색, 다람쥐 브라운. '준비성있는, 부지런한, 실용적인'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhlSZJC9t7Loyhuc1Xk5Xu3kBAvd0vJYeV7EIFSfsGmU_FwJI_sD5Eh57SJ03yCAEKl-XcYsw7lKNAvw7bwsC9XvcfdfQzStW1HKOEgYw9wyl4GQLwFC7h7wpufCK7G0OkIl42XElkA6M8DGBGqlvJb5vFn3O2atEFUuU-oXjOzXhXJ8IoYuEScdccIfuAN=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Squirrel Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"

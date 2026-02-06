@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjIFpkmp-1cn1-o3P3EyHCAZ9YK9lZfnJ9kSmxHichBJ3EtvCBaFJHmvtHi7ooM0deiu1cmqUWNMH_qCSbE4kVBtabFaRvTstsKisDkOP2-wRdUszB_6fLmCPTQ6-xqFfxTXu5fOWvv4sWg8k1UwMperWqqhadr_Gl9yea8DXvrt2j6e9r2-Pwg5gPWHPCF=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 2일, 오늘을 닮은 색: 레드 오렌지"
 date: "2026-10-02"
 updated: "2026-10-02"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "ff3333"
 description: "오늘의 탄생색, 레드 오렌지. '생동감있는, 활력넘치는, 역동적인'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjIFpkmp-1cn1-o3P3EyHCAZ9YK9lZfnJ9kSmxHichBJ3EtvCBaFJHmvtHi7ooM0deiu1cmqUWNMH_qCSbE4kVBtabFaRvTstsKisDkOP2-wRdUszB_6fLmCPTQ6-xqFfxTXu5fOWvv4sWg8k1UwMperWqqhadr_Gl9yea8DXvrt2j6e9r2-Pwg5gPWHPCF=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Red Orange"
 author: "하루의 조각"
 profileName: "하루의 조각"

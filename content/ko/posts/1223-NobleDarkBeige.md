@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiHx8ChMolrz86iiiVvp_PD8rHZLunr4B-xeISb2cIt43Vgtl9u-oKi-8VmF1oo1tXDc5WKWqyw0zQtvS6iLayYSZ-wOU5NYHPAqYg5D9ZUWSvTrUT-zDwYK9OV4q32LI2cDr0JhPltOES35kL0LeiBLR_jJLJ-QrQacDm6f-q9DMVG39npC6lQ-LEvs02q=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 23일, 오늘을 닮은 색: 노블 다크베이지"
 date: "2026-12-23"
 updated: "2026-12-23"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "d5a66b"
 description: "오늘의 탄생색, 노블 다크베이지. '깊이있는, 성숙한, 안정된'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiHx8ChMolrz86iiiVvp_PD8rHZLunr4B-xeISb2cIt43Vgtl9u-oKi-8VmF1oo1tXDc5WKWqyw0zQtvS6iLayYSZ-wOU5NYHPAqYg5D9ZUWSvTrUT-zDwYK9OV4q32LI2cDr0JhPltOES35kL0LeiBLR_jJLJ-QrQacDm6f-q9DMVG39npC6lQ-LEvs02q=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Noble Dark Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgDBefnM7f3gyyKagMFAcKcVP7csDRKdK7LrqjB0WG5gGtE-UUqbqDjlXRAYRcdpip4gRk3V-BcMamA7t_C_kdQjvS4k7ALquqO7qTYFHTWPPsnsjLyF0c8XSzMeAqgmZuwyB91j2UHeebjvOfjvwI5lazK2RFtxdiQDFtxI7n_EqYpBSd7AApzb4NvUKOf=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 23일, 오늘을 닮은 색: 베이비 블루"
 date: "2026-07-23"
 updated: "2026-07-23"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "66ffff"
 description: "오늘의 탄생색, 베이비 블루. '순수한마음, 평화로운, 맑은정신'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgDBefnM7f3gyyKagMFAcKcVP7csDRKdK7LrqjB0WG5gGtE-UUqbqDjlXRAYRcdpip4gRk3V-BcMamA7t_C_kdQjvS4k7ALquqO7qTYFHTWPPsnsjLyF0c8XSzMeAqgmZuwyB91j2UHeebjvOfjvwI5lazK2RFtxdiQDFtxI7n_EqYpBSd7AApzb4NvUKOf=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Baby Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"

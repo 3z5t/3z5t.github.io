@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgzu4annjcdWio319P8aggGJ1hXKkDdFYjmDfKyLURXhTunjjxpvXoLmTzV0CevIcCoVKoeW6EnM_CWGi1l0xD_W9OIwAAyUV8a7FdnRKbkx_NJhVCLsW56YCga4kogZQ4ToI1oNh-mjWzstESXuJYIjZy8JWdKkF6dglmVJSxDTYVHf-UGtRa6BL558ah4=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 11일, 오늘을 닮은 색: 선셋 오렌지"
 date: "2026-06-11"
 updated: "2026-06-11"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "ff6600"
 description: "오늘의 탄생색, 선셋 오렌지. '신중함, 통찰력, 보호력'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgzu4annjcdWio319P8aggGJ1hXKkDdFYjmDfKyLURXhTunjjxpvXoLmTzV0CevIcCoVKoeW6EnM_CWGi1l0xD_W9OIwAAyUV8a7FdnRKbkx_NJhVCLsW56YCga4kogZQ4ToI1oNh-mjWzstESXuJYIjZy8JWdKkF6dglmVJSxDTYVHf-UGtRa6BL558ah4=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Sunset Orange"
 author: "하루의 조각"
 profileName: "하루의 조각"

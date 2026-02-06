@@ -1,20 +1,23 @@
 ---
-"title": "2월 3일, 오늘을 닮은 색: 라벤더 퍼플"
-"date": "2026-02-03"
-"updated": "2026-02-03"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi07n_gfX02MoBZls1sfeZZ4YU1klYsuSVvRDDhEyCNWyYLtPGLtDkGe_xgCHw-wYFuNUuSUiOcsSMQ1Dnj-JRI3KUIZ9AWU9K7A3Z1k1o0eF7Wyg7pGTd3OI8RGTi0Srr7qPWNe-2o0acno0zG_XoXfUys9DxLzCVbYGCAd1HH9ZCP9YXCGylmpp9y_nJM=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 3일, 오늘을 닮은 색: 라벤더 퍼플"
+date: "2026-02-03"
+updated: "2026-02-03"
+tags:
 - "탄생색"
 - "라벤더 퍼플"
 - "2월 3일"
 - "2월"
 - "dab7f0"
-"description": "오늘의 탄생색, 라벤더 퍼플. '고귀함, 품격, 창의성'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEi07n_gfX02MoBZls1sfeZZ4YU1klYsuSVvRDDhEyCNWyYLtPGLtDkGe_xgCHw-wYFuNUuSUiOcsSMQ1Dnj-JRI3KUIZ9AWU9K7A3Z1k1o0eF7Wyg7pGTd3OI8RGTi0Srr7qPWNe-2o0acno0zG_XoXfUys9DxLzCVbYGCAd1HH9ZCP9YXCGylmpp9y_nJM=s1600"
-"en_name": "Lavender Purple"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "66601904522782041"
-"postUrl": "https://the366days-ko.blogspot.com/2026/02/2-3-lavender-purple.html"
+description: "오늘의 탄생색, 라벤더 퍼플. '고귀함, 품격, 창의성'이라는 의미를 담고 있어요."
+en_name: "Lavender Purple"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "66601904522782041"
+postUrl: "https://the366days-ko.blogspot.com/2026/02/2-3-lavender-purple.html"
 ---
 
 ## 2월 3일의 탄생색: 라벤더 퍼플 (`#DAB7F0`)

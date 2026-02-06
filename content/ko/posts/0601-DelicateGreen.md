@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhJ6KgKMTsuoMnVf0v-dDBIDglv1zSkGIY8HoxgoiMT5w_CZQKvG0jFYi8q-qLfdpv46Zi_qvXgsw6uROXV6ebeNGeaUBdVOzeL02VumjJ8XPc7VE6dPNAH8tlcJqu20cs9ZQr6dVoKkJnFlsRkb0YxZ4N6qZ9RSukGYD-aEmlU15g2L8qouXofXXJRTBFd=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 1일, 오늘을 닮은 색: 델리케이트 그린"
 date: "2026-06-01"
 updated: "2026-06-01"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "7ddcc4"
 description: "오늘의 탄생색, 델리케이트 그린. '섬세함, 순수함, 창의성'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhJ6KgKMTsuoMnVf0v-dDBIDglv1zSkGIY8HoxgoiMT5w_CZQKvG0jFYi8q-qLfdpv46Zi_qvXgsw6uROXV6ebeNGeaUBdVOzeL02VumjJ8XPc7VE6dPNAH8tlcJqu20cs9ZQr6dVoKkJnFlsRkb0YxZ4N6qZ9RSukGYD-aEmlU15g2L8qouXofXXJRTBFd=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Delicate Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

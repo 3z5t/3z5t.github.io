@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi37OsQ4p1s-qTjKAn0pdo4tyQ5VtiWDl_R4dTEClhF8lA6vLfqAPTtGfZWLQwULcLM15QeMMpzeJOr554177JC6tUmDW-U-NqL6US3XHPRz582ME2F-y27SEMgNtl96Uz5QtlzMKOdH9gPaWy3MWeHpbnDWOz5En7SCWuhs650K2Jj-5TFBS0-mGhTIFyo=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 13일, 오늘을 닮은 색: 당근"
 date: "2026-06-13"
 updated: "2026-06-13"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "eb731c"
 description: "오늘의 탄생색, 당근. '건강한정신, 활력, 긍정성'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi37OsQ4p1s-qTjKAn0pdo4tyQ5VtiWDl_R4dTEClhF8lA6vLfqAPTtGfZWLQwULcLM15QeMMpzeJOr554177JC6tUmDW-U-NqL6US3XHPRz582ME2F-y27SEMgNtl96Uz5QtlzMKOdH9gPaWy3MWeHpbnDWOz5En7SCWuhs650K2Jj-5TFBS0-mGhTIFyo=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Carrot"
 author: "하루의 조각"
 profileName: "하루의 조각"

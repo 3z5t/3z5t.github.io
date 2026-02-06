@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiMbKUFA3ROZhA3FeX8iYA4vMrSnEnj7PjJLLG2at1hrNp9inTHdz20vY6VQBiSsKEx672kByqV8T0JJ6DEXzLv6m1ubh5cHKw7WmRodgxSSRh_WI7lHkMpkhv47LnQVTb4mm64lM8R6Hfzvu-RNqBgiLrGMzjqprTmlbpLo-d-kiPn_PUd_XSsZwVky8Xh=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 7일, 오늘을 닮은 색: 딱딱한 복숭아"
 date: "2026-08-07"
 updated: "2026-08-07"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "f5eae6"
 description: "오늘의 탄생색, 딱딱한 복숭아. '단단한의지, 결단력, 추진력'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiMbKUFA3ROZhA3FeX8iYA4vMrSnEnj7PjJLLG2at1hrNp9inTHdz20vY6VQBiSsKEx672kByqV8T0JJ6DEXzLv6m1ubh5cHKw7WmRodgxSSRh_WI7lHkMpkhv47LnQVTb4mm64lM8R6Hfzvu-RNqBgiLrGMzjqprTmlbpLo-d-kiPn_PUd_XSsZwVky8Xh=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Firm Peach"
 author: "하루의 조각"
 profileName: "하루의 조각"

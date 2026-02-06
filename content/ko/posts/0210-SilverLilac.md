@@ -1,20 +1,23 @@
 ---
-"title": "2월 10일, 오늘을 닮은 색: 실버 라일락"
-"date": "2026-02-10"
-"updated": "2026-02-10"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgr31Ptw3TfwgW432UK1qiSX23GCnxEkPUO0ZoVn9_LFaAAdNphZiplrCIdV_B-CbWAjAmtrgauz4Tryaix3x09tgCyRk6J6gOUh-Omvaz23eyBwqCZ6R9rvQQ93JfrFLcGbcouvXeAPzZcXqTTx4xCkAi7K1syHcZjzSbn8VjCRTmbmxezyUufKDPTiRjl=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 10일, 오늘을 닮은 색: 실버 라일락"
+date: "2026-02-10"
+updated: "2026-02-10"
+tags:
 - "탄생색"
 - "실버 라일락"
 - "2월 10일"
 - "2월"
 - "aea2c9"
-"description": "오늘의 탄생색, 실버 라일락. '우아함, 세련됨, 심미안'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgr31Ptw3TfwgW432UK1qiSX23GCnxEkPUO0ZoVn9_LFaAAdNphZiplrCIdV_B-CbWAjAmtrgauz4Tryaix3x09tgCyRk6J6gOUh-Omvaz23eyBwqCZ6R9rvQQ93JfrFLcGbcouvXeAPzZcXqTTx4xCkAi7K1syHcZjzSbn8VjCRTmbmxezyUufKDPTiRjl=s1600"
-"en_name": "Silver Lilac"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "2966576812636536069"
-"postUrl": "https://the366days-ko.blogspot.com/2026/02/2-10-silver-lilac.html"
+description: "오늘의 탄생색, 실버 라일락. '우아함, 세련됨, 심미안'이라는 의미를 담고 있어요."
+en_name: "Silver Lilac"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "2966576812636536069"
+postUrl: "https://the366days-ko.blogspot.com/2026/02/2-10-silver-lilac.html"
 ---
 
 ## 2월 10일의 탄생색: 실버 라일락 (`#AEA2C9`)

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgv7-Xk4MPxVB2-3sxl0QA5OFXhKLxJ8V-X_0Ey6wa9Lw3wdfoHLX-uOCHRmRcXHUOEkb4viagkKr6NkLKG2Pel2ehd_9gBew6aTII7rngOv39tY3WcdhTeDKujax_QpIpbRH1gUFO4Cs8oPJJL8BSSDfYGX1ubzt9tLpWB3iSZf6D41v2jh429AvuzrUHZ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 7일, 오늘을 닮은 색: 레몬"
 date: "2026-05-07"
 updated: "2026-05-07"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "efda00"
 description: "오늘의 탄생색, 레몬. '상큼함, 지성, 영감'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgv7-Xk4MPxVB2-3sxl0QA5OFXhKLxJ8V-X_0Ey6wa9Lw3wdfoHLX-uOCHRmRcXHUOEkb4viagkKr6NkLKG2Pel2ehd_9gBew6aTII7rngOv39tY3WcdhTeDKujax_QpIpbRH1gUFO4Cs8oPJJL8BSSDfYGX1ubzt9tLpWB3iSZf6D41v2jh429AvuzrUHZ=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Lemon"
 author: "하루의 조각"
 profileName: "하루의 조각"

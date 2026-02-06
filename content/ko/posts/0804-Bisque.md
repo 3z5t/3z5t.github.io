@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiT_LgwCXh3hXvVFowkhNO7DQWsa5jq1s5LuXjSsuXKs_RNfQdsEkbekAro4AKp_BrASObIreKupSojMydJjwresxQAMqRD5_WEvaYDFuxBShqURP_iuc7PdiuQMrulgIjBkD3LHNrpjSBc5dkIxvZxwF_2y1u1pHKUiuW_MSw0kHIjyu0bWP-FEdT-Le_-=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 4일, 오늘을 닮은 색: 비스크"
 date: "2026-08-04"
 updated: "2026-08-04"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "ffe4c4"
 description: "오늘의 탄생색, 비스크. '포근한마음, 따스함, 안정감'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiT_LgwCXh3hXvVFowkhNO7DQWsa5jq1s5LuXjSsuXKs_RNfQdsEkbekAro4AKp_BrASObIreKupSojMydJjwresxQAMqRD5_WEvaYDFuxBShqURP_iuc7PdiuQMrulgIjBkD3LHNrpjSBc5dkIxvZxwF_2y1u1pHKUiuW_MSw0kHIjyu0bWP-FEdT-Le_-=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Bisque"
 author: "하루의 조각"
 profileName: "하루의 조각"

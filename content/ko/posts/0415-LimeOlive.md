@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh6vxsPbdMIEkuj7ISxvuSomxpMkAp9UYhL168LQYf8M92GsnS9LYM9ao1dYSv0X38WKXUBq6C3QraXTdvf26sNdDvfWmmkyi-YioFn8ew1FyJZIGjs19kP1UbCxXN7IlXzsUnDdEaVyDfAHt4fC-rX3AMxsfN9ovWSdMu7neLm08lxVt7O8SE6VIigTVt8=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 15일, 오늘을 닮은 색: 라임 올리브"
 date: "2026-04-15"
 updated: "2026-04-15"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "b8c249"
 description: "오늘의 탄생색, 라임 올리브. '생동감, 희망적, 창의적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh6vxsPbdMIEkuj7ISxvuSomxpMkAp9UYhL168LQYf8M92GsnS9LYM9ao1dYSv0X38WKXUBq6C3QraXTdvf26sNdDvfWmmkyi-YioFn8ew1FyJZIGjs19kP1UbCxXN7IlXzsUnDdEaVyDfAHt4fC-rX3AMxsfN9ovWSdMu7neLm08lxVt7O8SE6VIigTVt8=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Lime Olive"
 author: "하루의 조각"
 profileName: "하루의 조각"

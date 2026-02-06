@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEii2O2Wcb-sHlMAPEFjQROKm-itYexDiDC0SiT7g5aEzIFL5Jvo-Bz9ueiGWxZeWxOgc7hjf0OkXKJWu0I8oJQYPi62tYI54vIpXSLllsSubMRn49rOZ3G5MUrhf0vGeG3O13ltss8Tf0tNQq6_t7wmdl3zeStMW3sgALX01OFUxEtZTfjJyQoB0fGVS_-R=s1600"
+    alt: "오늘의 색"
+    relative: false
 author: 하루의 조각
 date: '2026-01-24'
 description: 오늘의 탄생색, 클라우디 스카이. '포용력, 이해심, 배려심'이라는 의미를 담고 있어요.
@@ -14,10 +18,6 @@ tags:
 postId: '629578458528582413'
 postUrl: https://the366days-ko.blogspot.com/2026/01/1-24-cloudy-sky.html
 profileName: 하루의 조각
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEii2O2Wcb-sHlMAPEFjQROKm-itYexDiDC0SiT7g5aEzIFL5Jvo-Bz9ueiGWxZeWxOgc7hjf0OkXKJWu0I8oJQYPi62tYI54vIpXSLllsSubMRn49rOZ3G5MUrhf0vGeG3O13ltss8Tf0tNQq6_t7wmdl3zeStMW3sgALX01OFUxEtZTfjJyQoB0fGVS_-R=s1600"
-  alt: "오늘의 색"
-  relative: false
 title: '1월 24일, 오늘을 닮은 색: 클라우디 스카이'
 updated: '2026-01-24'
 ---

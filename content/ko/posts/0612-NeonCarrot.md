@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi6OjfWgEVGb_03CScJXLL2yJlIj3UXSV4n9bj7zidrD3pKC-qnFBiQ7ui8bZseaBTeTzQThEKrQygh0N1rK9a-cQp7tObK6o4IZJZWwekTX0a3g3VNrU3kZNg5WawN3R5O_UvPBPqek9v96djphmISmixwzNTfKbS6SsK_01AzWBx9S-H2DLs_w1jSiKJJ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 12일, 오늘을 닮은 색: 네온 캐럿"
 date: "2026-06-12"
 updated: "2026-06-12"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "ff9933"
 description: "오늘의 탄생색, 네온 캐럿. '생동감, 활력적, 열정적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi6OjfWgEVGb_03CScJXLL2yJlIj3UXSV4n9bj7zidrD3pKC-qnFBiQ7ui8bZseaBTeTzQThEKrQygh0N1rK9a-cQp7tObK6o4IZJZWwekTX0a3g3VNrU3kZNg5WawN3R5O_UvPBPqek9v96djphmISmixwzNTfKbS6SsK_01AzWBx9S-H2DLs_w1jSiKJJ=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Neon Carrot"
 author: "하루의 조각"
 profileName: "하루의 조각"

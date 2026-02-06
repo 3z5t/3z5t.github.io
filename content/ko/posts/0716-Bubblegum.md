@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjdL4Ha6pmGCkVdAHbuzDkH_OydeuhHGI56Ew5cL-nPFGQ4W7Hne5MZHlf0P1hX4qL_6LOXWngKWE34BxQ8_tw6EZtNU4Zr3LG-FTe_pt_HWu4ibcMuzOo1pqAnlMQNKv2P-3CpWwHh5QMfvGrtWzrx-kKb2lJxCxyRL2uDDRlMUou8vSL1Mkbm5sqfi0br=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 16일, 오늘을 닮은 색: 버블껌"
 date: "2026-07-16"
 updated: "2026-07-16"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "fbc9cb"
 description: "오늘의 탄생색, 버블껌. '즐거운성격, 사랑스러운, 귀여운'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjdL4Ha6pmGCkVdAHbuzDkH_OydeuhHGI56Ew5cL-nPFGQ4W7Hne5MZHlf0P1hX4qL_6LOXWngKWE34BxQ8_tw6EZtNU4Zr3LG-FTe_pt_HWu4ibcMuzOo1pqAnlMQNKv2P-3CpWwHh5QMfvGrtWzrx-kKb2lJxCxyRL2uDDRlMUou8vSL1Mkbm5sqfi0br=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Bubblegum"
 author: "하루의 조각"
 profileName: "하루의 조각"

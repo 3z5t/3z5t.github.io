@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjiwje_-qwJvXJweiiXARtcLhyRGeeg8KFP9FRHO7Nm_rx6RvEZanpjDUxSqztGSCsFNuEggtl7WAXZWiegHwDqVr6d_WViCaccC-j1eteQamiMfaCzJT5QFbLaYIyrdGbyIAV7iqe-qXpl0QN9mYV_pbIdPdNHevCQP6aqTCjf4muoKiD9wp_czYf_n8Tp=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 21일, 오늘을 닮은 색: 앤티크 화이트"
 date: "2026-12-21"
 updated: "2026-12-21"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "ebe2ce"
 description: "오늘의 탄생색, 앤티크 화이트. '순수한영혼, 온화한, 평화로운'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjiwje_-qwJvXJweiiXARtcLhyRGeeg8KFP9FRHO7Nm_rx6RvEZanpjDUxSqztGSCsFNuEggtl7WAXZWiegHwDqVr6d_WViCaccC-j1eteQamiMfaCzJT5QFbLaYIyrdGbyIAV7iqe-qXpl0QN9mYV_pbIdPdNHevCQP6aqTCjf4muoKiD9wp_czYf_n8Tp=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Antique White"
 author: "하루의 조각"
 profileName: "하루의 조각"

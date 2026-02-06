@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjXhlbiAFB_CYJ9G7lzm4VxF2CTejGNAIK712xirfdSgCzVeTQBDw3A1llqk_kNz0tpOBTLTkDGnx99aT0DTsdXxXMfblN5q5GLvUuhLIVslrchE_RpovZFxQTaZqDjzfslz1kP0mx_axVh87taQwQZfcmypNwQnxvpe8WbjzFQkKp0b3eJMUNAv0wYtD-_=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 22일, 오늘을 닮은 색: 버밀리온"
 date: "2026-10-22"
 updated: "2026-10-22"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "e34234"
 description: "오늘의 탄생색, 버밀리온. '생명력있는, 활기찬, 열정적인'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjXhlbiAFB_CYJ9G7lzm4VxF2CTejGNAIK712xirfdSgCzVeTQBDw3A1llqk_kNz0tpOBTLTkDGnx99aT0DTsdXxXMfblN5q5GLvUuhLIVslrchE_RpovZFxQTaZqDjzfslz1kP0mx_axVh87taQwQZfcmypNwQnxvpe8WbjzFQkKp0b3eJMUNAv0wYtD-_=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Vermilion"
 author: "하루의 조각"
 profileName: "하루의 조각"

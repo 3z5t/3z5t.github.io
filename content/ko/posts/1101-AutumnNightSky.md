@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh8XsVn99d1QHyaYzJPBNCuY4J7MdSLM_LcDHU0vaWmQggtLxzCBga-Fs1hoZBky06KnmOtd56f_TUncOrpBJpkxZ_0XL52aH-N2RUHylkXWbg5ECasG9taojgl0QJTi_wztd980v-1JnvsJmipWcjyWRIYiVZof4V3I3CtUo_0uaPBWsAnOsEBMmGub736=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 1일, 오늘을 닮은 색: 가을빛 밤하늘"
 date: "2026-11-01"
 updated: "2026-11-01"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "3c3232"
 description: "오늘의 탄생색, 가을빛 밤하늘. '사색적인, 명상적인, 통찰력있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh8XsVn99d1QHyaYzJPBNCuY4J7MdSLM_LcDHU0vaWmQggtLxzCBga-Fs1hoZBky06KnmOtd56f_TUncOrpBJpkxZ_0XL52aH-N2RUHylkXWbg5ECasG9taojgl0QJTi_wztd980v-1JnvsJmipWcjyWRIYiVZof4V3I3CtUo_0uaPBWsAnOsEBMmGub736=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Autumn Night Sky"
 author: "하루의 조각"
 profileName: "하루의 조각"

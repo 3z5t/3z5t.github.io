@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhSekIDVAaDmbfuTdGBUsG2pPpntruB-7L8DDps3PvytDHWPI913Ws-CV0UiucUFPBXtkYxOhJ8j_6gBgMarjrLxcuX8izYGtg2V9HXEJpGS7SXwkRzBca6TfQeH0J8LsvWSD54x8UWKp746AFOp1cfOLhXZJxQ8-bVwZEb5uiu-dVo1njrsY7h-hOpgOAQ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 21일, 오늘을 닮은 색: 브라이트 핑크"
 date: "2026-03-21"
 updated: "2026-03-21"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "ffeaf3"
 description: "오늘의 탄생색, 브라이트 핑크. '밝음, 새로움, 희망적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhSekIDVAaDmbfuTdGBUsG2pPpntruB-7L8DDps3PvytDHWPI913Ws-CV0UiucUFPBXtkYxOhJ8j_6gBgMarjrLxcuX8izYGtg2V9HXEJpGS7SXwkRzBca6TfQeH0J8LsvWSD54x8UWKp746AFOp1cfOLhXZJxQ8-bVwZEb5uiu-dVo1njrsY7h-hOpgOAQ=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Bright Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"

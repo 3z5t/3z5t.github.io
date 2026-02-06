@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgWsR9VgAs7b3VzQn6bLux7N6NXAJxFdZoYZlk4RIudmBNMJkN1gv-I0kz994pxC1IhRLUzRlXBfG7AHB7kp4iAvWjTx1jmkgkLdvRDaqxCOAiKNMZtlvgtMVAGfocUinAq2-JdDfsWP1hmq6LqLSfOSyKdiKpDqUIq-wRPIkjFcGGj0zAPPTCxq6CvUmiZ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 15일, 오늘을 닮은 색: 감귤"
 date: "2026-06-15"
 updated: "2026-06-15"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "ee934f"
 description: "오늘의 탄생색, 감귤. '달콤한성격, 신선함, 밝은마음'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgWsR9VgAs7b3VzQn6bLux7N6NXAJxFdZoYZlk4RIudmBNMJkN1gv-I0kz994pxC1IhRLUzRlXBfG7AHB7kp4iAvWjTx1jmkgkLdvRDaqxCOAiKNMZtlvgtMVAGfocUinAq2-JdDfsWP1hmq6LqLSfOSyKdiKpDqUIq-wRPIkjFcGGj0zAPPTCxq6CvUmiZ=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Tangerine"
 author: "하루의 조각"
 profileName: "하루의 조각"

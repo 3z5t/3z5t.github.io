@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgHg_4occWfSCqqXHWV0xvPa6Iul_HWOR_FIXHgzTfslvWDvEki4bOVToScmDaaFqkJJoV-nXEbMBGD8Gmo2GIfMH4PwGRJ9Wf9wkZVyYDqp-XfU-UxLG6aGxomq9RzQtTJ2oFkDik5AD3OP1kd_j7_TO_21-Mgoy1MnJe6JLDdVqXrPh5Qn-jbHZ7X33G7=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "1월 17일, 오늘을 닮은 색: 파스텔 소라"
 date: 2026-01-17
 updated: 2026-01-17
@@ -11,10 +15,6 @@ tags:
   - b0c4de
   - 1월
 description: 오늘의 탄생색, 파스텔 소라. '희망적, 낙관적, 밝은성격'이라는 의미를 담고 있어요.
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgHg_4occWfSCqqXHWV0xvPa6Iul_HWOR_FIXHgzTfslvWDvEki4bOVToScmDaaFqkJJoV-nXEbMBGD8Gmo2GIfMH4PwGRJ9Wf9wkZVyYDqp-XfU-UxLG6aGxomq9RzQtTJ2oFkDik5AD3OP1kd_j7_TO_21-Mgoy1MnJe6JLDdVqXrPh5Qn-jbHZ7X33G7=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: Pastel Sora
 author: 하루의 조각
 profileName: 하루의 조각

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgvPBKDPdWqkyjB7l789aS2dqfw80LfxqxIamSPJoS1TPiqX6jz9gFDyqi8ZXK2EEKc7HkjBOdzGDpmMCMiUoeqIsCNIjagURBHAnIHFv_NSDUZob3NVHgarlOK4d6HXILfFAEhKx87Iwz9yEzVGxO4tWs9p6N9B66hBEYCPptaHmf1L73Fp2UHvUq6PlXJ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 4일, 오늘을 닮은 색: 복숭아 요거트"
 date: "2026-06-04"
 updated: "2026-06-04"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "ffc1b5"
 description: "오늘의 탄생색, 복숭아 요거트. '상큼함, 순수함, 친근함'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgvPBKDPdWqkyjB7l789aS2dqfw80LfxqxIamSPJoS1TPiqX6jz9gFDyqi8ZXK2EEKc7HkjBOdzGDpmMCMiUoeqIsCNIjagURBHAnIHFv_NSDUZob3NVHgarlOK4d6HXILfFAEhKx87Iwz9yEzVGxO4tWs9p6N9B66hBEYCPptaHmf1L73Fp2UHvUq6PlXJ=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Peach Yogurt"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg0ZwUBnwdY9NZlxhQ6t9Fva3MirQVkz7pFZmz_op9JI16FdOQp0zgG9i219wdubjFL2SSMcENXuv0dLhqdwnSjCXdbR55BpiqPAZEBvGie4oBi2DmtndX2RF8NOhI_ATSM2tGMGHmu3vSaUhVR4vlon56px1RE3phBkBImVRC8-O-HLogZFL-wEX_g5sq9=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 22일, 오늘을 닮은 색: 소프트 베이지"
 date: "2026-08-22"
 updated: "2026-08-22"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "ecbda4"
 description: "오늘의 탄생색, 소프트 베이지. '따스한마음, 포근함, 온화함'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEg0ZwUBnwdY9NZlxhQ6t9Fva3MirQVkz7pFZmz_op9JI16FdOQp0zgG9i219wdubjFL2SSMcENXuv0dLhqdwnSjCXdbR55BpiqPAZEBvGie4oBi2DmtndX2RF8NOhI_ATSM2tGMGHmu3vSaUhVR4vlon56px1RE3phBkBImVRC8-O-HLogZFL-wEX_g5sq9=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Soft Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"

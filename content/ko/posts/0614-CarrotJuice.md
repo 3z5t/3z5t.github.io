@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgz--1IOh217Ciytz9-fIQAdaohlD08-ctpEEqBPGQ3J8HC9HS9uHdoW37FJ5npRNMG3pZVzpTGNMOeKdN8iuzS-QGN-_MXU-EgMXAGTXp1lVXuISyfC0sydGs3t20POsy_oKOzDDTvreX87pWd8kSVsptIslWPtRDBVFTK9cTF2ncupxiGC5B8uzjsIYTM=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 14일, 오늘을 닮은 색: 당근 주스"
 date: "2026-06-14"
 updated: "2026-06-14"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "e8742d"
 description: "오늘의 탄생색, 당근 주스. '영양가있는, 건강한, 활기찬'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgz--1IOh217Ciytz9-fIQAdaohlD08-ctpEEqBPGQ3J8HC9HS9uHdoW37FJ5npRNMG3pZVzpTGNMOeKdN8iuzS-QGN-_MXU-EgMXAGTXp1lVXuISyfC0sydGs3t20POsy_oKOzDDTvreX87pWd8kSVsptIslWPtRDBVFTK9cTF2ncupxiGC5B8uzjsIYTM=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Carrot Juice"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgBkuiVyv565ehh4-VlfYkqTN5Z7gJ5hJJf0EG_zcDlFbqe8QaeEK-iG9s3edKEY-irpSJPUWpPNvOvnBphIDIE8ki5pnBAK8JeXCf7jrrbQmBgkYcrnCniIaTlCM9ZzRYaLFZD7RnssHEekHm9Ys78UQcKIwvwSVM7fm-i3javHV6Bt6hlni08MNxzbPuG=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 1일, 오늘을 닮은 색: 새싹 연두"
 date: "2026-03-01"
 updated: "2026-03-01"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "5fd059"
 description: "오늘의 탄생색, 새싹 연두. '자유로움, 독립심, 개척정신'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgBkuiVyv565ehh4-VlfYkqTN5Z7gJ5hJJf0EG_zcDlFbqe8QaeEK-iG9s3edKEY-irpSJPUWpPNvOvnBphIDIE8ki5pnBAK8JeXCf7jrrbQmBgkYcrnCniIaTlCM9ZzRYaLFZD7RnssHEekHm9Ys78UQcKIwvwSVM7fm-i3javHV6Bt6hlni08MNxzbPuG=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Sprout Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

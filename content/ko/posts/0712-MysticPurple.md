@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj0G1eT1dU4R3h9zI7HVeH2JJ7Vg4Uw-hmdAtfncIYcjwbf-JqA9slA6adFUxXebB4tKCZQuVCrHoKasIBkexh8xQLNgIXmPy377MJVdKyTyE5fBSxwzbW7K1SVLVXv__CWxscwgkbGVTkw4F9xUk1DP7gpZaMZkhnpu-5j1imYhL8DMi1jUaoS1kIvKab4=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 12일, 오늘을 닮은 색: 미스틱 퍼플"
 date: "2026-07-12"
 updated: "2026-07-12"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "9900ff"
 description: "오늘의 탄생색, 미스틱 퍼플. '신비로운, 매력적, 예술성'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEj0G1eT1dU4R3h9zI7HVeH2JJ7Vg4Uw-hmdAtfncIYcjwbf-JqA9slA6adFUxXebB4tKCZQuVCrHoKasIBkexh8xQLNgIXmPy377MJVdKyTyE5fBSxwzbW7K1SVLVXv__CWxscwgkbGVTkw4F9xUk1DP7gpZaMZkhnpu-5j1imYhL8DMi1jUaoS1kIvKab4=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Mystic Purple"
 author: "하루의 조각"
 profileName: "하루의 조각"

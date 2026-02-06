@@ -1,20 +1,23 @@
 ---
-"title": "2월 18일, 오늘을 닮은 색: 딥 레드"
-"date": "2026-02-18"
-"updated": "2026-02-18"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhutZdiTvUPw9WcaTclqwS4bYTbIJQonrwfi3xA5hCsSyXHl8WFo4MtBK-a29mvJKdUr_nAgqDp06WFVW5XGAjUSILodl-Xw1BDmTgc4EsJxH305OVW02xUdgUgbKuQoIEo9J6x7q8rbz5qko59uk54sYKxVOsOTEnfo7FHbNbrsyU1HT4RK-YNX2tpsyPy=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 18일, 오늘을 닮은 색: 딥 레드"
+date: "2026-02-18"
+updated: "2026-02-18"
+tags:
 - "탄생색"
 - "딥 레드"
 - "2월 18일"
 - "2월"
 - "f3392c"
-"description": "오늘의 탄생색, 딥 레드. '도전정신, 용기, 결단력'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhutZdiTvUPw9WcaTclqwS4bYTbIJQonrwfi3xA5hCsSyXHl8WFo4MtBK-a29mvJKdUr_nAgqDp06WFVW5XGAjUSILodl-Xw1BDmTgc4EsJxH305OVW02xUdgUgbKuQoIEo9J6x7q8rbz5qko59uk54sYKxVOsOTEnfo7FHbNbrsyU1HT4RK-YNX2tpsyPy=s1600"
-"en_name": "Deep Red"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "4763724216343339117"
-"postUrl": "https://the366days-ko.blogspot.com"
+description: "오늘의 탄생색, 딥 레드. '도전정신, 용기, 결단력'이라는 의미를 담고 있어요."
+en_name: "Deep Red"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "4763724216343339117"
+postUrl: "https://the366days-ko.blogspot.com"
 ---
 
 ## 2월 18일의 탄생색: 딥 레드 (`#F3392C`)

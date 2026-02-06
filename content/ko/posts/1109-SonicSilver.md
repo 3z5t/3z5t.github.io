@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiBgjbktbBeWGJbUaEc8OTt9kPWWFkGJxkKeifV1taW3fJseWzjhhYbnz-OkO-nvRIJSqf2Wufy67IVXiIpyeAwYwFxmbtxrduW2q78y0EWYlmaTMdvp7dd5MnnHBnAdUOdVMBFJ4RyFNXRUyJg0Ktz4DnZJNwgocIOqTQZ-yX4xJaeK8oY9LHF-GD5yj0s=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 9일, 오늘을 닮은 색: 소닉 실버"
 date: "2026-11-09"
 updated: "2026-11-09"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "767272"
 description: "오늘의 탄생색, 소닉 실버. '단단한의지, 견고한, 신뢰감있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiBgjbktbBeWGJbUaEc8OTt9kPWWFkGJxkKeifV1taW3fJseWzjhhYbnz-OkO-nvRIJSqf2Wufy67IVXiIpyeAwYwFxmbtxrduW2q78y0EWYlmaTMdvp7dd5MnnHBnAdUOdVMBFJ4RyFNXRUyJg0Ktz4DnZJNwgocIOqTQZ-yX4xJaeK8oY9LHF-GD5yj0s=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Sonic Silver"
 author: "하루의 조각"
 profileName: "하루의 조각"

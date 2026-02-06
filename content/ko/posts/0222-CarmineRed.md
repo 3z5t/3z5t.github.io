@@ -1,20 +1,23 @@
 ---
-"title": "2월 22일, 오늘을 닮은 색: 카민 레드"
-"date": "2026-02-22"
-"updated": "2026-02-22"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhtFtOGPUyUA1CZ20NKmgqyS_bity7zoS_Fwv-s9CUTnBGnD_BeszNhmXy3g6pfF3p7lJbQ-ob1-AdxDCofS2Swx5U5dbEOUyDW6r1Kq6N6IGd9Ay-PoCiUJnrbbIWWHyi5DTTH5IJ8yjxiMHjjbTqYSQe-kljqaUeZtcUCaexgBXgeWNMdRBbDlFO1ULEA=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 22일, 오늘을 닮은 색: 카민 레드"
+date: "2026-02-22"
+updated: "2026-02-22"
+tags:
 - "탄생색"
 - "카민 레드"
 - "2월 22일"
 - "2월"
 - "b72f42"
-"description": "오늘의 탄생색, 카민 레드. '강인함, 의지력, 추진력'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhtFtOGPUyUA1CZ20NKmgqyS_bity7zoS_Fwv-s9CUTnBGnD_BeszNhmXy3g6pfF3p7lJbQ-ob1-AdxDCofS2Swx5U5dbEOUyDW6r1Kq6N6IGd9Ay-PoCiUJnrbbIWWHyi5DTTH5IJ8yjxiMHjjbTqYSQe-kljqaUeZtcUCaexgBXgeWNMdRBbDlFO1ULEA=s1600"
-"en_name": "Carmine Red"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "6239677732667448351"
-"postUrl": "https://the366days-ko.blogspot.com"
+description: "오늘의 탄생색, 카민 레드. '강인함, 의지력, 추진력'이라는 의미를 담고 있어요."
+en_name: "Carmine Red"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "6239677732667448351"
+postUrl: "https://the366days-ko.blogspot.com"
 ---
 
 ## 2월 22일의 탄생색: 카민 레드 (`#B72F42`)

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEixUdbTm2KzbbybQinJgGn-o6PMz4vL3JZeVi3TmJYvXpEWmYxZe4JCNv8_ZBOFedHnqwOLwVCQs_KBp-DoYri5ZZw94gIHKdDVX6biHoh0h3G0t7HR8UOoihG_K2voZZdhMxP-UV1bfHnpP9oCEmXGYuno_9IDc1ApXH5EMC4nTWtXfSVGgCLYfRkfr_h4=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 8일, 오늘을 닮은 색: 소프트 레몬"
 date: "2026-05-08"
 updated: "2026-05-08"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "d5d679"
 description: "오늘의 탄생색, 소프트 레몬. '포용력, 배려심, 이해심'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEixUdbTm2KzbbybQinJgGn-o6PMz4vL3JZeVi3TmJYvXpEWmYxZe4JCNv8_ZBOFedHnqwOLwVCQs_KBp-DoYri5ZZw94gIHKdDVX6biHoh0h3G0t7HR8UOoihG_K2voZZdhMxP-UV1bfHnpP9oCEmXGYuno_9IDc1ApXH5EMC4nTWtXfSVGgCLYfRkfr_h4=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Soft Lemon"
 author: "하루의 조각"
 profileName: "하루의 조각"

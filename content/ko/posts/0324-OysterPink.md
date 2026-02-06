@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhpLALu-ObIaQKjlZJZSFVfvV4jY-ORVtRW-ik5gYkMbeTdop6BFDeso-6ZGof5U0PJ5UThVlzIL6_P7ryif6AHfwi8_LEUguWgrCjkOmOc-eNop5XJaSc4EdrqZ0f_hopW_Q5sdW5mVCVJJ2cP-DzcAyF2Gz4Xy7t08gxQUb90Y8FaQB7Ab8qauGVzllBI=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 24일, 오늘을 닮은 색: 오이스터 핑크"
 date: "2026-03-24"
 updated: "2026-03-24"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "ceaaad"
 description: "오늘의 탄생색, 오이스터 핑크. '평화로움, 안정감, 편안함'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhpLALu-ObIaQKjlZJZSFVfvV4jY-ORVtRW-ik5gYkMbeTdop6BFDeso-6ZGof5U0PJ5UThVlzIL6_P7ryif6AHfwi8_LEUguWgrCjkOmOc-eNop5XJaSc4EdrqZ0f_hopW_Q5sdW5mVCVJJ2cP-DzcAyF2Gz4Xy7t08gxQUb90Y8FaQB7Ab8qauGVzllBI=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Oyster Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"

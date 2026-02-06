@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjlXfuG-d3vmfIulWkVAkE9Y9jE01Gj8H-IAQ467ZsFCEfzAts8zAZo9UHppHh3pULWMNceDi4sECZ3vmC-l-WA9-2FNemwRe4ivpC3OmJiAFdIsuPa1r4l1kWoyXkGMgwGOWI2oFig_-Z4EHEp0W6plJ3sEnlFvSUthOcaMhsZBRA9rBbyNGHj_6zfNxIA=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 10일, 오늘을 닮은 색: 겨울 밀크티"
 date: "2026-12-10"
 updated: "2026-12-10"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "f2edf3"
 description: "오늘의 탄생색, 겨울 밀크티. '따뜻한마음, 포근한, 평화로운'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjlXfuG-d3vmfIulWkVAkE9Y9jE01Gj8H-IAQ467ZsFCEfzAts8zAZo9UHppHh3pULWMNceDi4sECZ3vmC-l-WA9-2FNemwRe4ivpC3OmJiAFdIsuPa1r4l1kWoyXkGMgwGOWI2oFig_-Z4EHEp0W6plJ3sEnlFvSUthOcaMhsZBRA9rBbyNGHj_6zfNxIA=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Winter Milk Tea"
 author: "하루의 조각"
 profileName: "하루의 조각"

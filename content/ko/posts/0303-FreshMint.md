@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj3RIyQxbWcvh6fZcB_YDZ3y5gyInkf6GAu0LRIInwXgovczOovJWCrDpT3XFwWmGffAwPKehQUuZqDahbj1RJnPL9TuqdohGHURWRW52jteNKbSdqvJJ0upul-KpZXEaj1lMIWYRZKqbbc_dMru1G-K4ZsOKndjrzGRsCjC6dWsQNjQrvgpGgVNRKwdJQ3=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 3일, 오늘을 닮은 색: 프레쉬 민트"
 date: "2026-03-03"
 updated: "2026-03-03"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "64d1c3"
 description: "오늘의 탄생색, 프레쉬 민트. '창의성, 청량감, 긍정성'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEj3RIyQxbWcvh6fZcB_YDZ3y5gyInkf6GAu0LRIInwXgovczOovJWCrDpT3XFwWmGffAwPKehQUuZqDahbj1RJnPL9TuqdohGHURWRW52jteNKbSdqvJJ0upul-KpZXEaj1lMIWYRZKqbbc_dMru1G-K4ZsOKndjrzGRsCjC6dWsQNjQrvgpGgVNRKwdJQ3=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Fresh Mint"
 author: "하루의 조각"
 profileName: "하루의 조각"

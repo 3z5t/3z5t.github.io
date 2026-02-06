@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjjMtvTNECxgTg90ZLCT7p8D_fsSwfP84gb8pJJCU7rZebCnwUEwJzqeldylTqhcGNVWzcGfO7IGA68fyHr1CTG2zO04LpXGVDTJrtQG0r-aE5_DvwVWA6IpQvXNkZWd1WM9sEbaap6yVHbAnXWZNQNAC6-uNbnyWTl7t40YUWVQA0PWdeGVctwoj-RZAPI=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 13일, 오늘을 닮은 색: 다크 마룬"
 date: "2026-10-13"
 updated: "2026-10-13"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "3a0000"
 description: "오늘의 탄생색, 다크 마룬. '신비로운, 깊이있는, 고요한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjjMtvTNECxgTg90ZLCT7p8D_fsSwfP84gb8pJJCU7rZebCnwUEwJzqeldylTqhcGNVWzcGfO7IGA68fyHr1CTG2zO04LpXGVDTJrtQG0r-aE5_DvwVWA6IpQvXNkZWd1WM9sEbaap6yVHbAnXWZNQNAC6-uNbnyWTl7t40YUWVQA0PWdeGVctwoj-RZAPI=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Dark Maroon"
 author: "하루의 조각"
 profileName: "하루의 조각"

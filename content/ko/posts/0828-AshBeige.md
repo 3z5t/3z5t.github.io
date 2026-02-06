@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjfxpKA0Pz37w-qVxMGZkYslibQiCylNR1VYcPKDwkKTjlOt7zswn5ZUR3-uLN8lUNgKt00FjMUT2vwgB7rFLMCVBt5XuTJneIu3wp__1svCyWixin6EpuXXq6hEJIeLbD2CsyLkzV1ll23a4p6-dPRJvhCwWDnogGUK70gXmMGH8ingFlUoUzqtPf_dzi7=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 28일, 오늘을 닮은 색: 애쉬 베이지"
 date: "2026-08-28"
 updated: "2026-08-28"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "978b88"
 description: "오늘의 탄생색, 애쉬 베이지. '절제력있는, 균형잡힌, 차분한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjfxpKA0Pz37w-qVxMGZkYslibQiCylNR1VYcPKDwkKTjlOt7zswn5ZUR3-uLN8lUNgKt00FjMUT2vwgB7rFLMCVBt5XuTJneIu3wp__1svCyWixin6EpuXXq6hEJIeLbD2CsyLkzV1ll23a4p6-dPRJvhCwWDnogGUK70gXmMGH8ingFlUoUzqtPf_dzi7=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Ash Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"

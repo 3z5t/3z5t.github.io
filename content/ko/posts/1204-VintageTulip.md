@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi6B0qPDFBqE56N_SKIJSTeKVg7GtP1KD8hucxw5iGdfztiOSPU2aPZQw7L7tySzW1OzYis8PWvIaGEWzUUxPpepf7ucdNtx2HmyMYcTuKr4Ym7SMfy4CdZFmiDrdgj_NX8Qeky84C3c4OHN-Ug3nB70gs-N5kO4_U5s86cyohsz_ZCr3f6aytAaK8FyWCi=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 4일, 오늘을 닮은 색: 빈티지 튤립"
 date: "2026-12-04"
 updated: "2026-12-04"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "b80c03"
 description: "오늘의 탄생색, 빈티지 튤립. '깊이있는, 신비로운, 고요한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi6B0qPDFBqE56N_SKIJSTeKVg7GtP1KD8hucxw5iGdfztiOSPU2aPZQw7L7tySzW1OzYis8PWvIaGEWzUUxPpepf7ucdNtx2HmyMYcTuKr4Ym7SMfy4CdZFmiDrdgj_NX8Qeky84C3c4OHN-Ug3nB70gs-N5kO4_U5s86cyohsz_ZCr3f6aytAaK8FyWCi=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Vintage Tulip"
 author: "하루의 조각"
 profileName: "하루의 조각"

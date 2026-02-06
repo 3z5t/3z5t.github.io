@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjMcnMzBP3GdT7XnFxC8mUnbXFGysOYnlw6FHADBn0cLPFHj8nu62gTFrwczBgRoXl9KR-jb0SVNr4XXngEfKd00sWrOxSI-mrZEbjepRrTuADUmHb-jpa2SQrjsVaS7eisZG5_vD5WQYplSKLAH4ptX310wi41FfF-JCi2qNUDa8NLUQGDGA13rpyFo686=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 18일, 오늘을 닮은 색: 풋사과"
 date: "2026-05-18"
 updated: "2026-05-18"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "5ce546"
 description: "오늘의 탄생색, 풋사과. '젊은정신, 희망적, 생동감'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjMcnMzBP3GdT7XnFxC8mUnbXFGysOYnlw6FHADBn0cLPFHj8nu62gTFrwczBgRoXl9KR-jb0SVNr4XXngEfKd00sWrOxSI-mrZEbjepRrTuADUmHb-jpa2SQrjsVaS7eisZG5_vD5WQYplSKLAH4ptX310wi41FfF-JCi2qNUDa8NLUQGDGA13rpyFo686=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Green Apple"
 author: "하루의 조각"
 profileName: "하루의 조각"

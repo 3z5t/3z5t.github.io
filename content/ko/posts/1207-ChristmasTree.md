@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEguHMMMsf354H1eTM3S2lIbHDEtRIM6TGDymjWbBOnLhK7frKwo7Bodj-hU8Ehmcxz4FTDxwn1Jbj8OUF_FZXVuCUJLMeKh7n43wiS6qtMI8w-CSy6WwtqMStsehHidNbRZji2KPNSaWcxUixdbgGQeNssC8CgOzpESsrw05F8Gv-G7HZ2Bn4i7IDEEshlr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 7일, 오늘을 닮은 색: 크리스마스 트리"
 date: "2026-12-07"
 updated: "2026-12-07"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "506850"
 description: "오늘의 탄생색, 크리스마스 트리. '소망이루는, 희망적인, 긍정적인'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEguHMMMsf354H1eTM3S2lIbHDEtRIM6TGDymjWbBOnLhK7frKwo7Bodj-hU8Ehmcxz4FTDxwn1Jbj8OUF_FZXVuCUJLMeKh7n43wiS6qtMI8w-CSy6WwtqMStsehHidNbRZji2KPNSaWcxUixdbgGQeNssC8CgOzpESsrw05F8Gv-G7HZ2Bn4i7IDEEshlr=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Christmas Tree"
 author: "하루의 조각"
 profileName: "하루의 조각"

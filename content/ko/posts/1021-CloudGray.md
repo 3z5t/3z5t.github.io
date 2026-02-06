@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgU_VWdImQhc1Bcd_wZ6VFBwI71J8UMcpaFutRlPksP0wgUJPoCyk5Vl3mf2G2f8k31yYKaYGA7Cs7yDxcJAJJfxFB0Q7VxWTAxGKvdMTLDiCU06NTroVrKImwy3I7PD_3-OSZe6cRbLi1lTeij5XcdSHxFBXFPKFYrWtFor6m1GTj2Bwfz9s-ckVrHuhop=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 21일, 오늘을 닮은 색: 클라우드 그레이"
 date: "2026-10-21"
 updated: "2026-10-21"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "d8d3cd"
 description: "오늘의 탄생색, 클라우드 그레이. '포용력있는, 평온한, 성숙한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgU_VWdImQhc1Bcd_wZ6VFBwI71J8UMcpaFutRlPksP0wgUJPoCyk5Vl3mf2G2f8k31yYKaYGA7Cs7yDxcJAJJfxFB0Q7VxWTAxGKvdMTLDiCU06NTroVrKImwy3I7PD_3-OSZe6cRbLi1lTeij5XcdSHxFBXFPKFYrWtFor6m1GTj2Bwfz9s-ckVrHuhop=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Cloud Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"

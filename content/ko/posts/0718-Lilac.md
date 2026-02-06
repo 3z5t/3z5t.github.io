@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEipry6T34VuzFHmpsHw-NjnYsSF1SBss27kCJTUU8HVydZkWE8chkivRfXnw-pUcaZ4ha1QgfpFV_x4xCvk58hbinwVKkG5JkV_oz00bvtKd4niHTC429d24fjtajKYjaFHnRfLXyA7bOzTwUiRFNxgw_gFTN6PuLIehFTPNYMC7Y_sxGgiG62fqA_RM9_r=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 18일, 오늘을 닮은 색: 라일락"
 date: "2026-07-18"
 updated: "2026-07-18"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "cc99cc"
 description: "오늘의 탄생색, 라일락. '우아한, 품위있는, 세련된'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEipry6T34VuzFHmpsHw-NjnYsSF1SBss27kCJTUU8HVydZkWE8chkivRfXnw-pUcaZ4ha1QgfpFV_x4xCvk58hbinwVKkG5JkV_oz00bvtKd4niHTC429d24fjtajKYjaFHnRfLXyA7bOzTwUiRFNxgw_gFTN6PuLIehFTPNYMC7Y_sxGgiG62fqA_RM9_r=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Lilac"
 author: "하루의 조각"
 profileName: "하루의 조각"

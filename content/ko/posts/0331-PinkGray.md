@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjNL-IZpTSkf3_cns4p-Ng6QxltHFM8PGZaLby6-Hh1vhRqxXQicE6lvx1F1_C9udcUimL6HFQNlGs7QOHtdovrXDNnpEovzM_rAjA3_pUCNwkqmDPCN3q9KUos4vRf0rpen9uVW8ZB-I2k-5XUfPPMZBNNkXXXUjntnCTQUZMRf45PwZKdUrfzjI7yz-ec=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 31일, 오늘을 닮은 색: 핑크 그레이"
 date: "2026-03-31"
 updated: "2026-03-31"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "e5d7cd"
 description: "오늘의 탄생색, 핑크 그레이. '성숙함, 균형감, 지혜로움'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjNL-IZpTSkf3_cns4p-Ng6QxltHFM8PGZaLby6-Hh1vhRqxXQicE6lvx1F1_C9udcUimL6HFQNlGs7QOHtdovrXDNnpEovzM_rAjA3_pUCNwkqmDPCN3q9KUos4vRf0rpen9uVW8ZB-I2k-5XUfPPMZBNNkXXXUjntnCTQUZMRf45PwZKdUrfzjI7yz-ec=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Pink Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"

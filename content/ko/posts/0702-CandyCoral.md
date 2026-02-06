@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEheoetn7G_3AfiZyxf-3-ntgprV6zfvuECSo_strU1EX3zcr9FcQj4cfA58A5LYQVKOcOW6zkhUTnUvDIJcHLYOFHRPEp_CIpXcLVgkM-zA8Gmp8gbvsS_3A_B40Dp_M3Yw1UVF3qxGOu94yjOpAtfMBlyZBsrAu1xQe7-9exej9Te8dlb3Ghi9GrzvkF09=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 2일, 오늘을 닮은 색: 캔디 코랄"
 date: "2026-07-02"
 updated: "2026-07-02"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "f18372"
 description: "오늘의 탄생색, 캔디 코랄. '달콤한성격, 사교성, 친근함'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEheoetn7G_3AfiZyxf-3-ntgprV6zfvuECSo_strU1EX3zcr9FcQj4cfA58A5LYQVKOcOW6zkhUTnUvDIJcHLYOFHRPEp_CIpXcLVgkM-zA8Gmp8gbvsS_3A_B40Dp_M3Yw1UVF3qxGOu94yjOpAtfMBlyZBsrAu1xQe7-9exej9Te8dlb3Ghi9GrzvkF09=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Candy Coral"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi2FIRj3ACagXfTYLlegEHLI-Nq3S-6jXtstF7zEIY6iuNZUhXgvV74ULOFcEBzT1V8FD9_88HFn6YlMYipeGrK3V-yi6gGVPud_BO-Tpk6tDcpxobVDoAKRi_n8oj1QC8ncxPOVwY3ENRPks0BIopsPGkkjyeC0z939f_C8SMHx596MO2-ZCTIbZFbjTkx=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 6일, 오늘을 닮은 색: 카네이션 핑크"
 date: "2026-06-06"
 updated: "2026-06-06"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "ff99cc"
 description: "오늘의 탄생색, 카네이션 핑크. '평화로움, 사랑스러움, 감성적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi2FIRj3ACagXfTYLlegEHLI-Nq3S-6jXtstF7zEIY6iuNZUhXgvV74ULOFcEBzT1V8FD9_88HFn6YlMYipeGrK3V-yi6gGVPud_BO-Tpk6tDcpxobVDoAKRi_n8oj1QC8ncxPOVwY3ENRPks0BIopsPGkkjyeC0z939f_C8SMHx596MO2-ZCTIbZFbjTkx=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Carnation Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"

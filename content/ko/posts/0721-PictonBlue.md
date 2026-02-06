@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhVRU4zu_pXqLDe8e06WYA3fpgDM7bFau130mKMujxW7NeNC4vTNCu2P0k2uICGkKNuon6VaiQyjpLl5Lhag0PyiC3Ycg_H_wguWnnRv-kt4RVKyyGPgouCPfqhn7FUzN_j5bpdF3wiWTVfsj-bvDQC8YfDjO6XUTvS7VuNXWZO15MPsa4hh16DGQ07yHKg=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 21일, 오늘을 닮은 색: 픽톤 블루"
 date: "2026-07-21"
 updated: "2026-07-21"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "6699cc"
 description: "오늘의 탄생색, 픽톤 블루. '시원한마음, 청량감, 평화로운'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhVRU4zu_pXqLDe8e06WYA3fpgDM7bFau130mKMujxW7NeNC4vTNCu2P0k2uICGkKNuon6VaiQyjpLl5Lhag0PyiC3Ycg_H_wguWnnRv-kt4RVKyyGPgouCPfqhn7FUzN_j5bpdF3wiWTVfsj-bvDQC8YfDjO6XUTvS7VuNXWZO15MPsa4hh16DGQ07yHKg=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Picton Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,20 +1,23 @@
 ---
-"title": "2월 5일, 오늘을 닮은 색: 오키드 보라"
-"date": "2026-02-05"
-"updated": "2026-02-05"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEixnnhz43Xr-0_hBgyGrtrVw_c27teSGtZQT4z1LqTxKVb1j-3HLgaClh6ph9TND1i6TqzYgyu9moc52iRPLnYGcWYx4YltinK_gKQd4saT_OG1wlzLjFxsAAvHiUECwSZvFF-aEioBwm5Mftb_JovvzwOxx-SHOYIpe8ts50yMLZrbXRjp-k-1UlRssQ11=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 5일, 오늘을 닮은 색: 오키드 보라"
+date: "2026-02-05"
+updated: "2026-02-05"
+tags:
 - "탄생색"
 - "오키드 보라"
 - "2월 5일"
 - "2월"
 - "9f56a2"
-"description": "오늘의 탄생색, 오키드 보라. '창조성, 영감, 독창성'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEixnnhz43Xr-0_hBgyGrtrVw_c27teSGtZQT4z1LqTxKVb1j-3HLgaClh6ph9TND1i6TqzYgyu9moc52iRPLnYGcWYx4YltinK_gKQd4saT_OG1wlzLjFxsAAvHiUECwSZvFF-aEioBwm5Mftb_JovvzwOxx-SHOYIpe8ts50yMLZrbXRjp-k-1UlRssQ11=s1600"
-"en_name": "Orchid Purple"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "3359421331516633457"
-"postUrl": "https://the366days-ko.blogspot.com/2026/02/2-5-orchid-purple.html"
+description: "오늘의 탄생색, 오키드 보라. '창조성, 영감, 독창성'이라는 의미를 담고 있어요."
+en_name: "Orchid Purple"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "3359421331516633457"
+postUrl: "https://the366days-ko.blogspot.com/2026/02/2-5-orchid-purple.html"
 ---
 
 ## 2월 5일의 탄생색: 오키드 보라 (`#9F56A2`)

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhFghV51uRKr4_lE4MiOEUfsjrLOrPnwsayBIsjasiMFOYOxqR2OxS7E0UjdA_7vFoDVqmuqKY70KI82fsVwJ9NrSSfBeuWaDbbtofoCcJtcdPBZWaegRWMReGA0DmAiGg_y_nJXBIRcd3oU_03jQIJjUaUGPGis2yM5OcOh14XbsC_EKzUmYtctxolxo-A=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "1월 16일, 오늘을 닮은 색: 소라"
 date: 2026-01-16
 updated: 2026-01-16
@@ -11,10 +15,6 @@ tags:
   - 7f9bb9
   - 1월
 description: 오늘의 탄생색, 소라. '조화로움, 평화로움, 친화력'이라는 의미를 담고 있어요.
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhFghV51uRKr4_lE4MiOEUfsjrLOrPnwsayBIsjasiMFOYOxqR2OxS7E0UjdA_7vFoDVqmuqKY70KI82fsVwJ9NrSSfBeuWaDbbtofoCcJtcdPBZWaegRWMReGA0DmAiGg_y_nJXBIRcd3oU_03jQIJjUaUGPGis2yM5OcOh14XbsC_EKzUmYtctxolxo-A=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: Sora Blue
 author: 하루의 조각
 profileName: 하루의 조각

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjp6dqx99St1fAnCDWd0fBFvx0ysunhZLGd5qc3oP5B6uBwV6p6UiR73SfSbJmhy8WSobRYiWnPXsavBZuby791QSD_Xbj4VsKH85V7F2RDJIW7bdX6mQn744X-wGggeiWe94HSNWrDk0c9g7H5dDQRmUl4aNNtiob5reYKgxvmaOmab7WPWKz-5WaWBcyc=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 29일, 오늘을 닮은 색: 소프트 다우니"
 date: "2026-05-29"
 updated: "2026-05-29"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "66cccc"
 description: "오늘의 탄생색, 소프트 다우니. '부드러움, 포용력, 감성적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjp6dqx99St1fAnCDWd0fBFvx0ysunhZLGd5qc3oP5B6uBwV6p6UiR73SfSbJmhy8WSobRYiWnPXsavBZuby791QSD_Xbj4VsKH85V7F2RDJIW7bdX6mQn744X-wGggeiWe94HSNWrDk0c9g7H5dDQRmUl4aNNtiob5reYKgxvmaOmab7WPWKz-5WaWBcyc=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Soft Downy"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,20 +1,23 @@
 ---
-"title": "2월 11일, 오늘을 닮은 색: 로얄 퍼플"
-"date": "2026-02-11"
-"updated": "2026-02-11"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi8iSJq_2DzyLcC9seXrTiCzgTQdJ7-yDAjeJFPX9GV5RktTjFPB-v6AXdbfKki4MH9j8PP2Kq6L16S3LToYwG9UUXbEsBTCJSlldyGXedAdEMRZRl3kG9PW80iJ3PuZmsxoqQ_a1LIrXUbYgGbCtIjAmpySHM58HLZ18h8gjxwbs80y9bHLpkMWbvccyGD=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 11일, 오늘을 닮은 색: 로얄 퍼플"
+date: "2026-02-11"
+updated: "2026-02-11"
+tags:
 - "탄생색"
 - "로얄 퍼플"
 - "2월 11일"
 - "2월"
 - "800080"
-"description": "오늘의 탄생색, 로얄 퍼플. '리더십, 카리스마, 존엄성'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEi8iSJq_2DzyLcC9seXrTiCzgTQdJ7-yDAjeJFPX9GV5RktTjFPB-v6AXdbfKki4MH9j8PP2Kq6L16S3LToYwG9UUXbEsBTCJSlldyGXedAdEMRZRl3kG9PW80iJ3PuZmsxoqQ_a1LIrXUbYgGbCtIjAmpySHM58HLZ18h8gjxwbs80y9bHLpkMWbvccyGD=s1600"
-"en_name": "Royal Purple"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "5614175120467506397"
-"postUrl": "https://the366days-ko.blogspot.com/2026/02/2-11-royal-purple.html"
+description: "오늘의 탄생색, 로얄 퍼플. '리더십, 카리스마, 존엄성'이라는 의미를 담고 있어요."
+en_name: "Royal Purple"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "5614175120467506397"
+postUrl: "https://the366days-ko.blogspot.com/2026/02/2-11-royal-purple.html"
 ---
 
 ## 2월 11일의 탄생색: 로얄 퍼플 (`#800080`)

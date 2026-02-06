@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEigziEJmPvLKJ5MrT-qvyEnc1NdlyJwZokDdori9Larx9ohvc9v3IvlM9NqThn5yDSV_MMYFVYK03QK1WM0NkzpnG2dhkRaEqaCrZ1dWs_hH7R1q-yVsO_t6e7d0T10AwJDUZg4aYKpYS0Gmssa22Ax5MYBhmerSXLqeSPFItizpqUBzrC8EGemXw8QOMzt=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 12일, 오늘을 닮은 색: 스프링 그린"
 date: "2026-03-12"
 updated: "2026-03-12"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "00ff66"
 description: "오늘의 탄생색, 스프링 그린. '희망적, 낙관적, 창의적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEigziEJmPvLKJ5MrT-qvyEnc1NdlyJwZokDdori9Larx9ohvc9v3IvlM9NqThn5yDSV_MMYFVYK03QK1WM0NkzpnG2dhkRaEqaCrZ1dWs_hH7R1q-yVsO_t6e7d0T10AwJDUZg4aYKpYS0Gmssa22Ax5MYBhmerSXLqeSPFItizpqUBzrC8EGemXw8QOMzt=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Spring Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

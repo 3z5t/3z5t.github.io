@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjDFTe1yvJLVZqUbJ1az607WnZiarOr4wvXcnS_qAJDxQmUUU90eTH12W0BxgmecyHisDSzDfyygEHGDeCz3Hvo4ka3TS1HNRhks7JVlSYidTN-UxIxyjQLzLbgY-3t5efNaU5ffIDGqK7DIn7cF5uFJqcUfkxIFFgpj1csgo_2u5MNGeZFaLib2zOxFm0Q=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 12일, 오늘을 닮은 색: 완두콩"
 date: "2026-04-12"
 updated: "2026-04-12"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "8c9e58"
 description: "오늘의 탄생색, 완두콩. '강건함, 생명력, 성장성'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjDFTe1yvJLVZqUbJ1az607WnZiarOr4wvXcnS_qAJDxQmUUU90eTH12W0BxgmecyHisDSzDfyygEHGDeCz3Hvo4ka3TS1HNRhks7JVlSYidTN-UxIxyjQLzLbgY-3t5efNaU5ffIDGqK7DIn7cF5uFJqcUfkxIFFgpj1csgo_2u5MNGeZFaLib2zOxFm0Q=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Pea Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

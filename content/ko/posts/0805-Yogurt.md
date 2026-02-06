@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEimOUPdgtUT1rZbSPsQaVuOGARnjtcld8gAW8znyA80QXHdIaKFsfEp49xyt_5gTYFs1GVsa5-YGbgHZA3dqlTSnBQCta8cT8i-wqzyOFcHNmJJ1NZYcYykkpZh14A2Sd3bcCUMB_Rhxqb3jWEu4M97SzjDV7cmn2sn1QbjrgZtK-qWwh79yAj7zXEeN-un=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 5일, 오늘을 닮은 색: 요구르트"
 date: "2026-08-05"
 updated: "2026-08-05"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "ffdcb8"
 description: "오늘의 탄생색, 요구르트. '순수한마음, 신선함, 밝은성격'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEimOUPdgtUT1rZbSPsQaVuOGARnjtcld8gAW8znyA80QXHdIaKFsfEp49xyt_5gTYFs1GVsa5-YGbgHZA3dqlTSnBQCta8cT8i-wqzyOFcHNmJJ1NZYcYykkpZh14A2Sd3bcCUMB_Rhxqb3jWEu4M97SzjDV7cmn2sn1QbjrgZtK-qWwh79yAj7zXEeN-un=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Yogurt"
 author: "하루의 조각"
 profileName: "하루의 조각"

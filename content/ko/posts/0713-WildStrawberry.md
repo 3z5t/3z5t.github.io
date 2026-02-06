@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgP1KRxwPRifXfFtX5o7MqhbLLO6d-o-yJu3b5r5UsZxydCVUvyvYndUETy_mKQyYNUKPYNrRMABRoQrPM6Rj1FM6bF2cfPrYJ2LIVnpOxNr8AhTMPiKRc6Hu2kNH36A4o1-AeEYW4U4c8giXHseXa7R2TauEQO0OKx4oJLYKiE4Zjk8E-4utb7cm7YfnFw=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 13일, 오늘을 닮은 색: 와일드 스트로베리"
 date: "2026-07-13"
 updated: "2026-07-13"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "ff3399"
 description: "오늘의 탄생색, 와일드 스트로베리. '달콤한매력, 정열적, 생기발랄'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgP1KRxwPRifXfFtX5o7MqhbLLO6d-o-yJu3b5r5UsZxydCVUvyvYndUETy_mKQyYNUKPYNrRMABRoQrPM6Rj1FM6bF2cfPrYJ2LIVnpOxNr8AhTMPiKRc6Hu2kNH36A4o1-AeEYW4U4c8giXHseXa7R2TauEQO0OKx4oJLYKiE4Zjk8E-4utb7cm7YfnFw=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Wild Strawberry"
 author: "하루의 조각"
 profileName: "하루의 조각"

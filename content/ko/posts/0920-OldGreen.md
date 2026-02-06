@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhnQ4VbWv9sTqNMX4Uy-SBTmmj2QqGyNNl92RnbeabI2kKOwXEr8L7yAUkkKsdFtpOuPhCU6XHIqUeKuw_8CanQLDNe6gqP8Xl4O-Vdv6DbzxY1-zA1aq8oxWHRExuQ4zqAiOivAeeORz-_QagA9zavVPid2qQS5b6rzPnFm4S-XGNrge9z705twM9h-GUR=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "9월 20일, 오늘을 닮은 색: 올드 그린"
 date: "2026-09-20"
 updated: "2026-09-20"
@@ -9,10 +13,6 @@ tags:
   - "9월"
   - "726d46"
 description: "오늘의 탄생색, 올드 그린. '고전적인, 지혜로운, 전통적인'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhnQ4VbWv9sTqNMX4Uy-SBTmmj2QqGyNNl92RnbeabI2kKOwXEr8L7yAUkkKsdFtpOuPhCU6XHIqUeKuw_8CanQLDNe6gqP8Xl4O-Vdv6DbzxY1-zA1aq8oxWHRExuQ4zqAiOivAeeORz-_QagA9zavVPid2qQS5b6rzPnFm4S-XGNrge9z705twM9h-GUR=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Old Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

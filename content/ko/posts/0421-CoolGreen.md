@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhdIMhYB2V02-aNSBNlblFEOqb-2ho8q-TuzmcSqjyO1Zzhy1NcG0aU2gHqi8gEws3Kn7Wz5nOxx11ypOBCUAb5amwhZC7TmytRbZ-SJiRpZicMETrGl3vWtKOUeB8UzuZwGuRUkZJf7vpKr4rA21XFvx4oowZRD6Eli2Yhn-9KM-GK8TFY2N4nnaZPsXqn=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 21일, 오늘을 닮은 색: 쿨 그린"
 date: "2026-04-21"
 updated: "2026-04-21"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "78baad"
 description: "오늘의 탄생색, 쿨 그린. '청량감, 차분함, 균형감'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhdIMhYB2V02-aNSBNlblFEOqb-2ho8q-TuzmcSqjyO1Zzhy1NcG0aU2gHqi8gEws3Kn7Wz5nOxx11ypOBCUAb5amwhZC7TmytRbZ-SJiRpZicMETrGl3vWtKOUeB8UzuZwGuRUkZJf7vpKr4rA21XFvx4oowZRD6Eli2Yhn-9KM-GK8TFY2N4nnaZPsXqn=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Cool Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

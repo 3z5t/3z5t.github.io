@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiigV7XJ2w7O6trHYsM9IzJb5Os3qlc6Ku0FlbsMc2Dlou3DQxIbgxLAj3mkT3M0tTzBRrNF9s0qI0Q3MXORk_waRMJSjStXVYWUn4knFBkLuBmpANv7D_haFKqt774v60lKE5w1K13L6uhW9_QDkjurfho4IJU2D-P2zl7ZqoUi3TucPJKkhwgcKslegNk=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 2일, 오늘을 닮은 색: 어린 잎"
 date: "2026-03-02"
 updated: "2026-03-02"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "93ac8b"
 description: "오늘의 탄생색, 어린 잎. '성장력, 가능성, 새로움'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiigV7XJ2w7O6trHYsM9IzJb5Os3qlc6Ku0FlbsMc2Dlou3DQxIbgxLAj3mkT3M0tTzBRrNF9s0qI0Q3MXORk_waRMJSjStXVYWUn4knFBkLuBmpANv7D_haFKqt774v60lKE5w1K13L6uhW9_QDkjurfho4IJU2D-P2zl7ZqoUi3TucPJKkhwgcKslegNk=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Young Leaf"
 author: "하루의 조각"
 profileName: "하루의 조각"

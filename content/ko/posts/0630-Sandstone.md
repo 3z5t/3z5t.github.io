@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiSn8E_7ATa14v6fVzG2mgsKeplTrC-K-ucpKhXjrbcXF54mua2DKLqgA7HccUWN8Z58ozcT60Cx3WRU3X3pKBqffH5-6UIEjEEv3JOms0j-kHKL6ADgI9T-Pzr0t_SvSA9K3ddHciaaDYs4q8xKtiB8cam4a3OjvuHBcNtPrwVWLVkBktgq1yqITyxaAYJ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 30일, 오늘을 닮은 색: 샌드 스톤"
 date: "2026-06-30"
 updated: "2026-06-30"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "7b6d6d"
 description: "오늘의 탄생색, 샌드 스톤. '균형잡힌, 안정된, 조화로운'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiSn8E_7ATa14v6fVzG2mgsKeplTrC-K-ucpKhXjrbcXF54mua2DKLqgA7HccUWN8Z58ozcT60Cx3WRU3X3pKBqffH5-6UIEjEEv3JOms0j-kHKL6ADgI9T-Pzr0t_SvSA9K3ddHciaaDYs4q8xKtiB8cam4a3OjvuHBcNtPrwVWLVkBktgq1yqITyxaAYJ=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Sandstone"
 author: "하루의 조각"
 profileName: "하루의 조각"

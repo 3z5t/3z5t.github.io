@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgvSwzk4PieKZER0lUcib8_eL34ikD1c2HRNkX3gor3F5ubtpTKu_2kVXjERJiYoy17aTe8yz7dgjnwnsgm7BPSH_mL5o8f7j_6zyN27Mm19ug_reo73ubhjZX79i8GnaF7muevuATbszrTiF3_8gqxMYcnGWtw2guq6nZZ10prvmjwXmCZXUPHDQvlizSU=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 1일, 오늘을 닮은 색: 일렉트릭 블루"
 date: "2026-04-01"
 updated: "2026-04-01"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "99ffff"
 description: "오늘의 탄생색, 일렉트릭 블루. '활기찬, 유쾌함, 창의성'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgvSwzk4PieKZER0lUcib8_eL34ikD1c2HRNkX3gor3F5ubtpTKu_2kVXjERJiYoy17aTe8yz7dgjnwnsgm7BPSH_mL5o8f7j_6zyN27Mm19ug_reo73ubhjZX79i8GnaF7muevuATbszrTiF3_8gqxMYcnGWtw2guq6nZZ10prvmjwXmCZXUPHDQvlizSU=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Electric Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi6Rp-7rMsMKI0aN66c2ufIiVS4XqOlyhwIKJllzYd3cdKoZNi9AL43ufJT7oWQ1V1iHP4VjOB5rPM7pHrND-4s7uMUhy0_r9wl2TMnt0fF13M3Be0uSSILQ1FhC-UsvmygioLeJbkzORJLCQiX2CwnhgxBH0Yh4HUlbzMPGXuCDjiLaVaPo5DKyprzT0q6=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 8일, 오늘을 닮은 색: 실버 그레이"
 date: "2026-11-08"
 updated: "2026-11-08"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "e2dfe5"
 description: "오늘의 탄생색, 실버 그레이. '세련된, 우아한, 품위있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi6Rp-7rMsMKI0aN66c2ufIiVS4XqOlyhwIKJllzYd3cdKoZNi9AL43ufJT7oWQ1V1iHP4VjOB5rPM7pHrND-4s7uMUhy0_r9wl2TMnt0fF13M3Be0uSSILQ1FhC-UsvmygioLeJbkzORJLCQiX2CwnhgxBH0Yh4HUlbzMPGXuCDjiLaVaPo5DKyprzT0q6=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Silver Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"

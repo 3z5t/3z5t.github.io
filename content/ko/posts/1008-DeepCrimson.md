@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhlb-DeswlFzE4PkOrTp6nWqDfNIoxfFDKznrj9bXM6hF89XWW20AYd4Cs6SOwo-DozJHOscG_y5P17K_xBou7MdBXf9OdajSRMW0e-2lVEII6o9F5DjIsH6dbU6095FBABKgqmz4neg89Vmwr0-BZsXWZBskJEaoNLg-HxbGNs3-cR7X46oEljwbjY0ek8=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 8일, 오늘을 닮은 색: 딥 크림슨"
 date: "2026-10-08"
 updated: "2026-10-08"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "ba0046"
 description: "오늘의 탄생색, 딥 크림슨. '진실된마음, 순수한열정, 진정성있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhlb-DeswlFzE4PkOrTp6nWqDfNIoxfFDKznrj9bXM6hF89XWW20AYd4Cs6SOwo-DozJHOscG_y5P17K_xBou7MdBXf9OdajSRMW0e-2lVEII6o9F5DjIsH6dbU6095FBABKgqmz4neg89Vmwr0-BZsXWZBskJEaoNLg-HxbGNs3-cR7X46oEljwbjY0ek8=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Deep Crimson"
 author: "하루의 조각"
 profileName: "하루의 조각"

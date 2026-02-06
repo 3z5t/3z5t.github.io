@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEggO-mY0rpDsi4CKtU5bHjbdYxJ6n5Dv6tkKxDuye3ZPjvskaNvormZU7BGlFny4PxSMPX-0E1f4M5NYlE1UX_Z3mIcRb7-KMuGcwcPR8t0isS0p7dcrXUgOkXmQI6CDXvzVCzU4BKaP-4FqQKjff12_oP-mUAeYD4R1lR8Glp02gkrPPq9c4QUAuSggD5q=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 16일, 오늘을 닮은 색: 딥 올리브"
 date: "2026-04-16"
 updated: "2026-04-16"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "6b8e23"
 description: "오늘의 탄생색, 딥 올리브. '성숙함, 안정감, 신중함'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEggO-mY0rpDsi4CKtU5bHjbdYxJ6n5Dv6tkKxDuye3ZPjvskaNvormZU7BGlFny4PxSMPX-0E1f4M5NYlE1UX_Z3mIcRb7-KMuGcwcPR8t0isS0p7dcrXUgOkXmQI6CDXvzVCzU4BKaP-4FqQKjff12_oP-mUAeYD4R1lR8Glp02gkrPPq9c4QUAuSggD5q=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Deep Olive"
 author: "하루의 조각"
 profileName: "하루의 조각"

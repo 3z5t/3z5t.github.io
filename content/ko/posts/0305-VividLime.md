@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgfVHsRv5CzMTYr9R_jaO86BvGDHA5iKMPxticbD6zpL74TA1wESK4RwIbzgxpv_PZrjf0TgxvOZjQZkgOc6Fnjq_2SkPSfEbT6W0yfaz7dfiFNzVjpz8Su1Ka2Rf_1LrncNqyLNrEP3NBVYIH-9az_9PFA5FabhsRZ-NUvUiLACT9wQyn2MXbkfSLujoxd=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 5일, 오늘을 닮은 색: 비비드 라임"
 date: "2026-03-05"
 updated: "2026-03-05"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "00ff00"
 description: "오늘의 탄생색, 비비드 라임. '도전정신, 활력, 혁신성'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgfVHsRv5CzMTYr9R_jaO86BvGDHA5iKMPxticbD6zpL74TA1wESK4RwIbzgxpv_PZrjf0TgxvOZjQZkgOc6Fnjq_2SkPSfEbT6W0yfaz7dfiFNzVjpz8Su1Ka2Rf_1LrncNqyLNrEP3NBVYIH-9az_9PFA5FabhsRZ-NUvUiLACT9wQyn2MXbkfSLujoxd=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Vivid Lime"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjjA3jCYFxFiIqv75XsWFR-wTIMObOZNrOUwA7-DVwfPvcnFYEfK2PC8mo9xKGAg86VSlvv1OtkS822fMLOcm8Y241p1Bowk9aqGVxC8j_fqG5f_UADIY8dzjJGnLggpNgCo06bH9rCSj9FJfKVxaWm2Dyj_xSPFVDmo8r0EIUaOSK7YMiYrASwddl_Kk0E=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 30일, 오늘을 닮은 색: 가을의 벽돌담"
 date: "2026-08-30"
 updated: "2026-08-30"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "aa837e"
 description: "오늘의 탄생색, 가을의 벽돌담. '단단한의지, 안정감, 변화를즐기는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjjA3jCYFxFiIqv75XsWFR-wTIMObOZNrOUwA7-DVwfPvcnFYEfK2PC8mo9xKGAg86VSlvv1OtkS822fMLOcm8Y241p1Bowk9aqGVxC8j_fqG5f_UADIY8dzjJGnLggpNgCo06bH9rCSj9FJfKVxaWm2Dyj_xSPFVDmo8r0EIUaOSK7YMiYrASwddl_Kk0E=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Autumn Brick Wall"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgosrvndUUa8r0_Kxu1kUU0bxf7oc9vgSKuITSWkC6lC8tFoDSwto01XGKnj-ZY3VSHjmibc49pMb8UHlfwtig3O24OipVU9ACeo7zj-wd5kbTL0CmQy18d6eU7ybPl_WteJZE6ALtM169KZVxqoQeeYIImekVMyAcW87LT2Ls9VGnr71X00YvivOGeuQnk=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 4일, 오늘을 닮은 색: 더스티 퍼플"
 date: "2026-11-04"
 updated: "2026-11-04"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "746b7a"
 description: "오늘의 탄생색, 더스티 퍼플. '품위있는, 우아한, 은은한매력'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgosrvndUUa8r0_Kxu1kUU0bxf7oc9vgSKuITSWkC6lC8tFoDSwto01XGKnj-ZY3VSHjmibc49pMb8UHlfwtig3O24OipVU9ACeo7zj-wd5kbTL0CmQy18d6eU7ybPl_WteJZE6ALtM169KZVxqoQeeYIImekVMyAcW87LT2Ls9VGnr71X00YvivOGeuQnk=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Dusty Purple"
 author: "하루의 조각"
 profileName: "하루의 조각"

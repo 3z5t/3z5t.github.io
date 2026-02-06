@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgQhT9msMy4gwOazRdxyVtZ_q3ng2z8KL09yjRqkQXqGjb11GjosDvNPBRJbrjJN1IEsau2ZMecClWqKMsTSk_2YvEmk7QgvVtnscM-gpaqP3DbOE0XiO9_aJBWm-Jm02gJA-FAruJ6DZe4Lr9CUSJ_M2RIujLMHsaOZ9WFyi4MPbhGGysfxO_4LO4Xjt8s=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 23일, 오늘을 닮은 색: 카레"
 date: "2026-06-23"
 updated: "2026-06-23"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "d6a620"
 description: "오늘의 탄생색, 카레. '활력있는, 에너지풍부, 창의적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgQhT9msMy4gwOazRdxyVtZ_q3ng2z8KL09yjRqkQXqGjb11GjosDvNPBRJbrjJN1IEsau2ZMecClWqKMsTSk_2YvEmk7QgvVtnscM-gpaqP3DbOE0XiO9_aJBWm-Jm02gJA-FAruJ6DZe4Lr9CUSJ_M2RIujLMHsaOZ9WFyi4MPbhGGysfxO_4LO4Xjt8s=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Curry"
 author: "하루의 조각"
 profileName: "하루의 조각"

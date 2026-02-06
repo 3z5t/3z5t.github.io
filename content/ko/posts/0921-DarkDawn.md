@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjXeLt9sUcZ2pDmDECpMKjWdC7S-iTfdBDPyitpn9AFMMkEmjIJcPQQdBMcSfSbmeDlJ7POSKzsp1I3NXcUlvU4KoC_8VMT7ZmCQHFTDD6o9YPD5EmYDKgxr9gDcokrfizxBx7OgeuZ1nxzjgt8k_UI0VJotHs7vAOHR8YE972zs_TcTcoDsmUhY3vDVLGK=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "9월 21일, 오늘을 닮은 색: 짙은 새벽"
 date: "2026-09-21"
 updated: "2026-09-21"
@@ -9,10 +13,6 @@ tags:
   - "9월"
   - "3d4247"
 description: "오늘의 탄생색, 짙은 새벽. '새로운시작의, 희망적인, 도전적인'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjXeLt9sUcZ2pDmDECpMKjWdC7S-iTfdBDPyitpn9AFMMkEmjIJcPQQdBMcSfSbmeDlJ7POSKzsp1I3NXcUlvU4KoC_8VMT7ZmCQHFTDD6o9YPD5EmYDKgxr9gDcokrfizxBx7OgeuZ1nxzjgt8k_UI0VJotHs7vAOHR8YE972zs_TcTcoDsmUhY3vDVLGK=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Dark Dawn"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjtOJn-NV8ldLHtptDw9vz71m-PhvxuFhn-GqEesL0Q619PZyctazFG7vzbIfoPvkdMNkrLJefkQ3_P9Bg09GPxG5fjIF80bx6jZlZximxwzCJK0zUonqH0Fnbzuq1cwmsTWQEHXAnbvAHROmpvde7T8E2r-4pLn0IJqOLA78dDG-0oww5GIWOuukcHqD5J=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 26일, 오늘을 닮은 색: 빈티지 네이비"
 date: "2026-12-26"
 updated: "2026-12-26"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "494960"
 description: "오늘의 탄생색, 빈티지 네이비. '깊이있는, 안정된, 성찰하는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjtOJn-NV8ldLHtptDw9vz71m-PhvxuFhn-GqEesL0Q619PZyctazFG7vzbIfoPvkdMNkrLJefkQ3_P9Bg09GPxG5fjIF80bx6jZlZximxwzCJK0zUonqH0Fnbzuq1cwmsTWQEHXAnbvAHROmpvde7T8E2r-4pLn0IJqOLA78dDG-0oww5GIWOuukcHqD5J=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Vintage Navy"
 author: "하루의 조각"
 profileName: "하루의 조각"

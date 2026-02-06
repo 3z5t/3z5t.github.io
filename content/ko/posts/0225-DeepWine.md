@@ -1,20 +1,23 @@
 ---
-"title": "2월 25일, 오늘을 닮은 색: 딥 와인"
-"date": "2026-02-25"
-"updated": "2026-02-25"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjVNmKwScZ3OBSUtABs8Nm8d8ow7mlfZzrIHfPZnqVkN1buWWRiMeGMqTCCJ0UmO3fsyLskUXVpwyCcydamvzJq3DoZAQn67XrRLz3XkjScWU2DKL7ETEQsPurfCMCjbrP29iEMBjdbEuhsIUZUBrmo9nA6yNej-6QSjsaMuKciZJMc7o7lSUyNjUSyceSX=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 25일, 오늘을 닮은 색: 딥 와인"
+date: "2026-02-25"
+updated: "2026-02-25"
+tags:
 - "탄생색"
 - "딥 와인"
 - "2월 25일"
 - "2월"
 - "77384c"
-"description": "오늘의 탄생색, 딥 와인. '포용력, 관용, 지혜'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjVNmKwScZ3OBSUtABs8Nm8d8ow7mlfZzrIHfPZnqVkN1buWWRiMeGMqTCCJ0UmO3fsyLskUXVpwyCcydamvzJq3DoZAQn67XrRLz3XkjScWU2DKL7ETEQsPurfCMCjbrP29iEMBjdbEuhsIUZUBrmo9nA6yNej-6QSjsaMuKciZJMc7o7lSUyNjUSyceSX=s1600"
-"en_name": "Deep Wine"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "8525203241899290605"
-"postUrl": "https://the366days-ko.blogspot.com"
+description: "오늘의 탄생색, 딥 와인. '포용력, 관용, 지혜'이라는 의미를 담고 있어요."
+en_name: "Deep Wine"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "8525203241899290605"
+postUrl: "https://the366days-ko.blogspot.com"
 ---
 
 ## 2월 25일의 탄생색: 딥 와인 (`#77384C`)

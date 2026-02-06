@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhNZrR5ti3WeE6nCSooe4QDe7tENIGj3GL7Kc2ov0tzuoQdsgf9MBAWJl1mMj4fO9-_WJUdcsbZRcEMZggDs_X_KVtiWUIseSTrtH_2U6k6GMZXELVTrGnfok0sDRCJpIKexfYGXnxJOzYSajYtCi9hXRU8sz2BN-k57NrgurPuKUwtkNjS38uT_Whub2pv=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 15일, 오늘을 닮은 색: 벚꽃"
 date: "2026-03-15"
 updated: "2026-03-15"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "f0adca"
 description: "오늘의 탄생색, 벚꽃. '감성적, 사랑스러움, 낭만적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhNZrR5ti3WeE6nCSooe4QDe7tENIGj3GL7Kc2ov0tzuoQdsgf9MBAWJl1mMj4fO9-_WJUdcsbZRcEMZggDs_X_KVtiWUIseSTrtH_2U6k6GMZXELVTrGnfok0sDRCJpIKexfYGXnxJOzYSajYtCi9hXRU8sz2BN-k57NrgurPuKUwtkNjS38uT_Whub2pv=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Cherry Blossom"
 author: "하루의 조각"
 profileName: "하루의 조각"

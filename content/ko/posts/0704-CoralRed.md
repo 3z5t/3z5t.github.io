@@ -1,20 +1,23 @@
 ---
-"title": "7월 4일, 오늘을 닮은 색: 산호"
-"date": "2026-07-04"
-"updated": "2026-07-04"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhyPrU4IKtXPPSzTsSmmCsFlXbcaA_d_be8yjL58v0cjKqwZIawm-2IgPi49GqE0q4BIzC_RA8QUUGxtQkxF0dMVi9UILpeEVtUfciZPjTys4XVsDJAbrrP4P-74gh5XuRrkURIaykgLBgcBrVNEA9FDykKRJAhF3y6lQIlZylJC8vLycJHIr4z7Nt21hqo=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "7월 4일, 오늘을 닮은 색: 산호"
+date: "2026-07-04"
+updated: "2026-07-04"
+tags:
 - "탄생색"
 - "산호"
 - "7월 4일"
 - "7월"
 - "fe5955"
-"description": "오늘의 탄생색, 산호. '정열적, 활기찬, 긍정적'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhyPrU4IKtXPPSzTsSmmCsFlXbcaA_d_be8yjL58v0cjKqwZIawm-2IgPi49GqE0q4BIzC_RA8QUUGxtQkxF0dMVi9UILpeEVtUfciZPjTys4XVsDJAbrrP4P-74gh5XuRrkURIaykgLBgcBrVNEA9FDykKRJAhF3y6lQIlZylJC8vLycJHIr4z7Nt21hqo=s1600"
-"en_name": "Coral Red"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "1882427928199772272"
-"postUrl": "https://the366days-ko.blogspot.com/2026/07/7-4-coral-red.html"
+description: "오늘의 탄생색, 산호. '정열적, 활기찬, 긍정적'이라는 의미를 담고 있어요."
+en_name: "Coral Red"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "1882427928199772272"
+postUrl: "https://the366days-ko.blogspot.com/2026/07/7-4-coral-red.html"
 ---
 
 ## 7월 4일의 탄생색: 산호 (`#FE5955`)

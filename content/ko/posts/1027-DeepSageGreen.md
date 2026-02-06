@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhuQJTSORCkPgEiQhlmvyF24hBBN33z0ccJd-V_eEqGJeeuV7tCp9JSJb9gh5ZZb8dMz0WGcpM5OYVVbKAPLo7v1PljL4x0DS0lQM8DnYRTVOVnb_4cZi0C0oViuHX6IOaX27Biuz2VTuSXBP1wVXIBAUYIW20RB9HuJ1QO_L3eFevh7r7peHTUO0q3Ztbh=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 27일, 오늘을 닮은 색: 딥 세이지 그린"
 date: "2026-10-27"
 updated: "2026-10-27"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "055f5f"
 description: "오늘의 탄생색, 딥 세이지 그린. '지혜로운, 고요한, 품격있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhuQJTSORCkPgEiQhlmvyF24hBBN33z0ccJd-V_eEqGJeeuV7tCp9JSJb9gh5ZZb8dMz0WGcpM5OYVVbKAPLo7v1PljL4x0DS0lQM8DnYRTVOVnb_4cZi0C0oViuHX6IOaX27Biuz2VTuSXBP1wVXIBAUYIW20RB9HuJ1QO_L3eFevh7r7peHTUO0q3Ztbh=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Deep Sage Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

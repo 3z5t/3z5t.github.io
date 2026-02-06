@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiJWmfRBKzyrN90_KVct_137wPE_fj_cyiIV2hD2XZgZk6VzQpJ5I3ZcA7hbW9iEzYd2fweE0hFFzUZVNwxMDm3G7oXUmyMU3EIqQIaClqwsHW0QGQUyYHyAd028DOAyQ_iljbOqqjsan86zXQf8uUG-BpPNHWgxgVd6-0_GIPNU-OIL6sGBLwG5zMICY87=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 16일, 오늘을 닮은 색: 자몽"
 date: "2026-06-16"
 updated: "2026-06-16"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "fe7b84"
 description: "오늘의 탄생색, 자몽. '상큼한매력, 생기발랄, 활력적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiJWmfRBKzyrN90_KVct_137wPE_fj_cyiIV2hD2XZgZk6VzQpJ5I3ZcA7hbW9iEzYd2fweE0hFFzUZVNwxMDm3G7oXUmyMU3EIqQIaClqwsHW0QGQUyYHyAd028DOAyQ_iljbOqqjsan86zXQf8uUG-BpPNHWgxgVd6-0_GIPNU-OIL6sGBLwG5zMICY87=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Grapefruit"
 author: "하루의 조각"
 profileName: "하루의 조각"

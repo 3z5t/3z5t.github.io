@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhbKfzkHxKgTZzFka-AFoMcwFnl0uG18hvQ6aQWz6WXqeA9yZ8JYP4H999mIAdBudpRM9sLIHUeweg_12HQt7hgf49jxRL_n7qCZd_V8im0ZfSCGANBuBYPAu17p658mZa2Rh-43hiTeR_m7F-HCm63E6lRXYnBJ8ktZ8ioaRIHAfrPVIcGrq5EHU9rwMND=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 21일, 오늘을 닮은 색: 라이트 베이지"
 date: "2026-08-21"
 updated: "2026-08-21"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "c1a99b"
 description: "오늘의 탄생색, 라이트 베이지. '부드러운성격, 온화함, 상냥함'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhbKfzkHxKgTZzFka-AFoMcwFnl0uG18hvQ6aQWz6WXqeA9yZ8JYP4H999mIAdBudpRM9sLIHUeweg_12HQt7hgf49jxRL_n7qCZd_V8im0ZfSCGANBuBYPAu17p658mZa2Rh-43hiTeR_m7F-HCm63E6lRXYnBJ8ktZ8ioaRIHAfrPVIcGrq5EHU9rwMND=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Light Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"

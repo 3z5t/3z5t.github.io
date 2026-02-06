@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjHl_7uzohXRDM595cn21M8K7d9Dw4KUS8_akGgro3n_S5XD64WVmKMfBfBUSZruYw3tuKa4j9B6_z70L83VMsdz0S0OrvQ4xad30f8SwjbsstQLqg9-h2hbNdAcqFiSE_ZG7tNZwbbdAIMKyqpSfNbkl838vL8LTXU1bSvVjjbLsujSY1JWdyMpk6pfSMt=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 10일, 오늘을 닮은 색: 허니듀"
 date: "2026-05-10"
 updated: "2026-05-10"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "ccffcc"
 description: "오늘의 탄생색, 허니듀. '달콤함, 싱그러움, 감성적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjHl_7uzohXRDM595cn21M8K7d9Dw4KUS8_akGgro3n_S5XD64WVmKMfBfBUSZruYw3tuKa4j9B6_z70L83VMsdz0S0OrvQ4xad30f8SwjbsstQLqg9-h2hbNdAcqFiSE_ZG7tNZwbbdAIMKyqpSfNbkl838vL8LTXU1bSvVjjbLsujSY1JWdyMpk6pfSMt=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Honeydew"
 author: "하루의 조각"
 profileName: "하루의 조각"

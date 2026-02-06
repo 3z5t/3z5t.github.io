@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhdLJsA9IEDcc2pbqMBwa6f-xoHQhOFtVlqfszBkKsrlZs5YV8m0GxTcyYF9fST9Fp74AncOXgTgzYhhlW4zxPnvPFe2eS6pcVa-yOy3mjfpO3XIEfSx4Qmr3qWCjqTmTPR1lfvdNuaQmrHUJOI5VzVXkgUQtgtv4P3c6UyVVuY5TBwf5XzGT7vHAjZjgYY=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 19일, 오늘을 닮은 색: 아주르 블루"
 date: "2026-07-19"
 updated: "2026-07-19"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "1e90ff"
 description: "오늘의 탄생색, 아주르 블루. '시원한성격, 명쾌한, 활기찬'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhdLJsA9IEDcc2pbqMBwa6f-xoHQhOFtVlqfszBkKsrlZs5YV8m0GxTcyYF9fST9Fp74AncOXgTgzYhhlW4zxPnvPFe2eS6pcVa-yOy3mjfpO3XIEfSx4Qmr3qWCjqTmTPR1lfvdNuaQmrHUJOI5VzVXkgUQtgtv4P3c6UyVVuY5TBwf5XzGT7vHAjZjgYY=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Azure Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"

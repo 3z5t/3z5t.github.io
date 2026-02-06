@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhr5Fi5BrrCjIflAE6Lr2-DwryOY9E8qxuZqgxJHCOAdQDkdbo7C852AKOJ-m5VMINEvToXKV6djq0PM3MG5qKIQ5LWFRwD2Ejj6BbNLLHsoEv0lbCR0a8_CGsvp_WfKtl-bYYuWXHHW18SkWd49c18SflHd6gQPXBd3fZN9V4RJ3N8V-Uqu6ZyKEw9LP7D=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 10일, 오늘을 닮은 색: 진주"
 date: "2026-08-10"
 updated: "2026-08-10"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "eae1dd"
 description: "오늘의 탄생색, 진주. '가치있는, 품격있는, 고결한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhr5Fi5BrrCjIflAE6Lr2-DwryOY9E8qxuZqgxJHCOAdQDkdbo7C852AKOJ-m5VMINEvToXKV6djq0PM3MG5qKIQ5LWFRwD2Ejj6BbNLLHsoEv0lbCR0a8_CGsvp_WfKtl-bYYuWXHHW18SkWd49c18SflHd6gQPXBd3fZN9V4RJ3N8V-Uqu6ZyKEw9LP7D=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Pearl"
 author: "하루의 조각"
 profileName: "하루의 조각"

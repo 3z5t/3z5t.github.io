@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi3gmkUjy--cvtWWP0o_TY1bLq_T44nqMg222q8HDVzDg77in84Drlr-2PMTnyj2f5nlvrwpbz-i_NL09CYckRkr5M0L3qL1KpClcbgkfSkdW4OeLWPR9ncjyv6G1600X78Jj07dW6CiE561VfIIXmoXKFuI9SdYPCS9K6HiRtHFxUcl-_FQTh6pCMKuU03=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 3일, 오늘을 닮은 색: 피치 퍼프"
 date: "2026-08-03"
 updated: "2026-08-03"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "ffd7b5"
 description: "오늘의 탄생색, 피치 퍼프. '부드러운성격, 달콤함, 온화함'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi3gmkUjy--cvtWWP0o_TY1bLq_T44nqMg222q8HDVzDg77in84Drlr-2PMTnyj2f5nlvrwpbz-i_NL09CYckRkr5M0L3qL1KpClcbgkfSkdW4OeLWPR9ncjyv6G1600X78Jj07dW6CiE561VfIIXmoXKFuI9SdYPCS9K6HiRtHFxUcl-_FQTh6pCMKuU03=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Peach Puff"
 author: "하루의 조각"
 profileName: "하루의 조각"

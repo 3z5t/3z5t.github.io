@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh6LBTy-DWEChoS1BKn0rd8MXQOkxZk2hVGFjYE-G-3o56evwmaY3xPvg552uxz-UmvKJkuQ9-9NWKMZo7NaL2GeNmeg0yaZ9f255zTcwpWLuY2s9VuOAwW5t6FY28dMH0dfpn0Ttnac6KSd6GZbDFjuWl8B1juZIxSLqJRo-alXm0gpt7eW7dliFRq93uq=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 24일, 오늘을 닮은 색: 섀도우 브라운"
 date: "2026-10-24"
 updated: "2026-10-24"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "503d3e"
 description: "오늘의 탄생색, 섀도우 브라운. '신비로운, 깊이있는, 통찰력있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh6LBTy-DWEChoS1BKn0rd8MXQOkxZk2hVGFjYE-G-3o56evwmaY3xPvg552uxz-UmvKJkuQ9-9NWKMZo7NaL2GeNmeg0yaZ9f255zTcwpWLuY2s9VuOAwW5t6FY28dMH0dfpn0Ttnac6KSd6GZbDFjuWl8B1juZIxSLqJRo-alXm0gpt7eW7dliFRq93uq=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Shadow Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"

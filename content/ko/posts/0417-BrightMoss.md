@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi6N1MxqAbfRJdgXfdlOIVd4R-DBd1W8YJwRg481O5Crg_QrX0YSIeVxWAv0pNRa-yggZ-EAaTnDF5B9EpmRZNOSyGG-twB96l7ld_0SbWU73DQ1kEybfbdIB4r2ymQkhMgtid7T8wpDLRsH8lLrBq2TleBE8DFWPQH0SvEiDFq8IQPg3vkZo270PcdYY_Y=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 17일, 오늘을 닮은 색: 브라이트 모스"
 date: "2026-04-17"
 updated: "2026-04-17"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "adc12d"
 description: "오늘의 탄생색, 브라이트 모스. '생명력, 번영, 창조성'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi6N1MxqAbfRJdgXfdlOIVd4R-DBd1W8YJwRg481O5Crg_QrX0YSIeVxWAv0pNRa-yggZ-EAaTnDF5B9EpmRZNOSyGG-twB96l7ld_0SbWU73DQ1kEybfbdIB4r2ymQkhMgtid7T8wpDLRsH8lLrBq2TleBE8DFWPQH0SvEiDFq8IQPg3vkZo270PcdYY_Y=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Bright Moss"
 author: "하루의 조각"
 profileName: "하루의 조각"

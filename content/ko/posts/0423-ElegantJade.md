@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh-ZrxmLU7OojEMMp5mRvz0_IW9YGFL0BYS3D2EFPxEuLR0HGJhP0vq8WIa9kYaljYaWCbKwJvzIU1xEtDLFrBsGJ9i0Etgn2Zr-WrFQxVoieCkS2b25qZCGD9orKcD8iyowqZ3wuS6gUetud0wlBlUh53I4TdWGS6fGlxfl3ysVUxGtOqgmZdp5SkZc9H2=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 23일, 오늘을 닮은 색: 단아한 옥색"
 date: "2026-04-23"
 updated: "2026-04-23"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "79b49f"
 description: "오늘의 탄생색, 단아한 옥색. '평화로움, 조화로움, 안정감'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh-ZrxmLU7OojEMMp5mRvz0_IW9YGFL0BYS3D2EFPxEuLR0HGJhP0vq8WIa9kYaljYaWCbKwJvzIU1xEtDLFrBsGJ9i0Etgn2Zr-WrFQxVoieCkS2b25qZCGD9orKcD8iyowqZ3wuS6gUetud0wlBlUh53I4TdWGS6fGlxfl3ysVUxGtOqgmZdp5SkZc9H2=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Elegant Jade"
 author: "하루의 조각"
 profileName: "하루의 조각"

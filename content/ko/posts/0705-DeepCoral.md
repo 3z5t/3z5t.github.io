@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhHgwHxtGCGIIqhf7FTCk3wKUugs6HZZ9F4v90FQvtSOO6x8ksE8Q7aZCG2OQRaR6jWN211pD8ZchNgVNtetV2dmtVg2Uqd7o7mrFl3gAAsJTnFQnATjH2M9l0oyZRrrwXPD2CxxUChhMkzd7UVmW4SWNtVxpMp90mOy_L-i9irpRl3c3LyGBy1s4RZci4L=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 5일, 오늘을 닮은 색: 딥 코랄"
 date: "2026-07-05"
 updated: "2026-07-05"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "743636"
 description: "오늘의 탄생색, 딥 코랄. '깊이있는, 차분한, 신중함'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhHgwHxtGCGIIqhf7FTCk3wKUugs6HZZ9F4v90FQvtSOO6x8ksE8Q7aZCG2OQRaR6jWN211pD8ZchNgVNtetV2dmtVg2Uqd7o7mrFl3gAAsJTnFQnATjH2M9l0oyZRrrwXPD2CxxUChhMkzd7UVmW4SWNtVxpMp90mOy_L-i9irpRl3c3LyGBy1s4RZci4L=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Deep Coral"
 author: "하루의 조각"
 profileName: "하루의 조각"

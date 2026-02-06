@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgCI5NjDh44y1UXNTHAaSfwF4IRWWsPK2U6i4EQACnKNIxqTeX7x_od7TVyWSVqr0SLMmDwL3hJ0z6hxXc3srF6Jrya9Iz6fgL0VE18FcIrCLAUSMcNXfpRvm2Kkv1uoc_vZYbOekRqkEtT06vw-0TJ3DeO4ed0fzNAZbAc3wec-_YLY5r1FuMSSltN6RJ2=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 31일, 오늘을 닮은 색: 라이트 시안"
 date: "2026-05-31"
 updated: "2026-05-31"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "e0ffff"
 description: "오늘의 탄생색, 라이트 시안. '청량감, 맑은정신, 균형감'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgCI5NjDh44y1UXNTHAaSfwF4IRWWsPK2U6i4EQACnKNIxqTeX7x_od7TVyWSVqr0SLMmDwL3hJ0z6hxXc3srF6Jrya9Iz6fgL0VE18FcIrCLAUSMcNXfpRvm2Kkv1uoc_vZYbOekRqkEtT06vw-0TJ3DeO4ed0fzNAZbAc3wec-_YLY5r1FuMSSltN6RJ2=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Light Cyan"
 author: "하루의 조각"
 profileName: "하루의 조각"

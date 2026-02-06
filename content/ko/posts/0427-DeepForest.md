@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjQjIvxdJrcWq92INI9uKJTEQZjtV0GGs_NornI7sgtOTtl3ElD8qM0ul6-9Ff5pEp19t-dvg5alUAMzpBe_PQv5LQe2vZp-BlAaSxJ9uskGUTmNh8jbyZ-Dep-NZtoPqIdJqlIHnb9ikOaQUflTgbmmGDhji9P4QB3ve_XFREW5OP-ryrxzhCttpQEj8jp=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 27일, 오늘을 닮은 색: 딥 포레스트"
 date: "2026-04-27"
 updated: "2026-04-27"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "2f4a2f"
 description: "오늘의 탄생색, 딥 포레스트. '깊이있는, 성숙한, 안정된'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjQjIvxdJrcWq92INI9uKJTEQZjtV0GGs_NornI7sgtOTtl3ElD8qM0ul6-9Ff5pEp19t-dvg5alUAMzpBe_PQv5LQe2vZp-BlAaSxJ9uskGUTmNh8jbyZ-Dep-NZtoPqIdJqlIHnb9ikOaQUflTgbmmGDhji9P4QB3ve_XFREW5OP-ryrxzhCttpQEj8jp=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Deep Forest"
 author: "하루의 조각"
 profileName: "하루의 조각"

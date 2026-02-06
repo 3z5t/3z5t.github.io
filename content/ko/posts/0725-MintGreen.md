@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjW5QvaBFCx_BT27IeqaFrxbOMNZ2xEKLppMWEWWm8Q0iWwsqUjNRoBFPkybU504azZiAcKQChgjF70rvHOoJlYPdcDUdXLO5RHui3u1-OKDMhTZ_tQ_k2_DBxRULwuodHWxxILsqTfgrZdpYqOyxP17FSexbNIoG_nkIZ8EwOY6YHoTfNukvBlzxOfW6yB=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 25일, 오늘을 닮은 색: 민트 그린"
 date: "2026-07-25"
 updated: "2026-07-25"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "99ff99"
 description: "오늘의 탄생색, 민트 그린. '청량한성격, 상쾌한, 생기있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjW5QvaBFCx_BT27IeqaFrxbOMNZ2xEKLppMWEWWm8Q0iWwsqUjNRoBFPkybU504azZiAcKQChgjF70rvHOoJlYPdcDUdXLO5RHui3u1-OKDMhTZ_tQ_k2_DBxRULwuodHWxxILsqTfgrZdpYqOyxP17FSexbNIoG_nkIZ8EwOY6YHoTfNukvBlzxOfW6yB=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Mint Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

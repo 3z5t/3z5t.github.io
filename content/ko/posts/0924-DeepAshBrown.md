@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEipjVVRC1wqU0AZm45fh0VfiaGxqRsbTQtaNAhJB_m9LPMgzT48dZqRPuZBFSYsiFRz2r4WYaC9vBdNb1MKf-VZwFrXOCtI2bQKRHPequ0by81q63vc4QTJLzwcq62C6RQN9x-kI4Gb3jKf-NgWDe-5_UIVEaQ5YyFT_kbdslM8aC-NJjxUu9wbYfX1DP_d=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "9월 24일, 오늘을 닮은 색: 딥 애쉬브라운"
 date: "2026-09-24"
 updated: "2026-09-24"
@@ -9,10 +13,6 @@ tags:
   - "9월"
   - "49423e"
 description: "오늘의 탄생색, 딥 애쉬브라운. '지혜로운, 깊이있는, 성숙한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEipjVVRC1wqU0AZm45fh0VfiaGxqRsbTQtaNAhJB_m9LPMgzT48dZqRPuZBFSYsiFRz2r4WYaC9vBdNb1MKf-VZwFrXOCtI2bQKRHPequ0by81q63vc4QTJLzwcq62C6RQN9x-kI4Gb3jKf-NgWDe-5_UIVEaQ5YyFT_kbdslM8aC-NJjxUu9wbYfX1DP_d=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Deep Ash Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"

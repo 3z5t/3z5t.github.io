@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhCfkgjTluXFQ_Sz-l2cbFBRK6rttzFaApz139ljUz_D1RYeWFnP-PWdZkEPfKB0VObT3UtmrZsvtq2X6DxtM6jsbhmadSKfkuesUblTZQjJktRk3d32-kNXzHHNL_V3JGvbJuE-YYFNwqQmC-Qwyp8ZG2edF5QGU9XCoSoAH4Bvksdz_AiJyIvECrNFZoz=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 26일, 오늘을 닮은 색: 다크 베이지"
 date: "2026-08-26"
 updated: "2026-08-26"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "deb887"
 description: "오늘의 탄생색, 다크 베이지. '깊이있는, 무게감있는, 신중한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhCfkgjTluXFQ_Sz-l2cbFBRK6rttzFaApz139ljUz_D1RYeWFnP-PWdZkEPfKB0VObT3UtmrZsvtq2X6DxtM6jsbhmadSKfkuesUblTZQjJktRk3d32-kNXzHHNL_V3JGvbJuE-YYFNwqQmC-Qwyp8ZG2edF5QGU9XCoSoAH4Bvksdz_AiJyIvECrNFZoz=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Dark Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"

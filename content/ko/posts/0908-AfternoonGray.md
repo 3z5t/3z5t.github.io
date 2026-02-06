@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi4Pf7WxnRlqmNMt3VVta0isJOsdZhx-f0B03hxwga0AqdpcxX6EjM2_BJVzGLU63H9zxsnV1JoRkessR0AFqFoLHgWSldCsDJ3O17RB7v2G6u0HMLn_N19_btSSa_O0bWJpAkh5jjdbmlLd4wRgnGU0ta0fWixPDG4sVXTIK3vz_vc1xle2da0x1XJClJ5=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "9월 8일, 오늘을 닮은 색: 애프터눈 그레이"
 date: "2026-09-08"
 updated: "2026-09-08"
@@ -9,10 +13,6 @@ tags:
   - "9월"
   - "75787b"
 description: "오늘의 탄생색, 애프터눈 그레이. '성숙한, 지혜로운, 균형잡힌'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi4Pf7WxnRlqmNMt3VVta0isJOsdZhx-f0B03hxwga0AqdpcxX6EjM2_BJVzGLU63H9zxsnV1JoRkessR0AFqFoLHgWSldCsDJ3O17RB7v2G6u0HMLn_N19_btSSa_O0bWJpAkh5jjdbmlLd4wRgnGU0ta0fWixPDG4sVXTIK3vz_vc1xle2da0x1XJClJ5=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Afternoon Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"

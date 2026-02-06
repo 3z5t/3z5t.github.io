@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgRAV7PAy8iB0GkrEI-5B9WsTPgDVldGGEamyjhefVv5MU3-bKbYy1ZYRVQ7wYK4KamuK5EJ33Gtno6yTW1QBOZCvqIWLkaoOwPKmHSpLGY0uCCeTZZejVWtaa96uL5_mpAyiSoh5iuAjB5Z9TrAY7gwvkwblb4u6mTk6dL3IWGkAZW9UgsBXxdZOobVz-W=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 24일, 오늘을 닮은 색: 쿨 베이지"
 date: "2026-08-24"
 updated: "2026-08-24"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "af8e8a"
 description: "오늘의 탄생색, 쿨 베이지. '차분한성격, 지적인, 성숙한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgRAV7PAy8iB0GkrEI-5B9WsTPgDVldGGEamyjhefVv5MU3-bKbYy1ZYRVQ7wYK4KamuK5EJ33Gtno6yTW1QBOZCvqIWLkaoOwPKmHSpLGY0uCCeTZZejVWtaa96uL5_mpAyiSoh5iuAjB5Z9TrAY7gwvkwblb4u6mTk6dL3IWGkAZW9UgsBXxdZOobVz-W=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Cool Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -61,12 +61,6 @@ params:
     imageWidth: 250
     imageHeight: 250
 
-  cover:
-    hiddenInList: false    # 목록에서 이미지 보이기
-    hiddenInSingle: false  # 본문에서 이미지 보이기
-    responsiveImages: false # 외부 URL(Blogger 등) 사용 시 false 권장
-    linkFullImages: true
-
   # socialIcons:
   #   - name: email
   #     url: "mailto:"

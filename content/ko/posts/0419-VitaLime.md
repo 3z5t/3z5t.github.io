@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEinvJfwRapR-YCISR57nVazW5RlmzSVnlgDvnwCXrMz9HxbHYmkSEndSzP_B19aNT2onMgS4wWIueDPcUz0oTJjfIQpvJlbVv5vJEMsS_ge7ir6fkKZcL37rMTniEJeFQpwzmvZc8iMpp2URRYuOBk64MDW3hsODSUOo4wj42NNoHjRaBVlIm95vyou-tgz=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 19일, 오늘을 닮은 색: 비타 라임"
 date: "2026-04-19"
 updated: "2026-04-19"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "d1d734"
 description: "오늘의 탄생색, 비타 라임. '도전정신, 활력적, 열정적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEinvJfwRapR-YCISR57nVazW5RlmzSVnlgDvnwCXrMz9HxbHYmkSEndSzP_B19aNT2onMgS4wWIueDPcUz0oTJjfIQpvJlbVv5vJEMsS_ge7ir6fkKZcL37rMTniEJeFQpwzmvZc8iMpp2URRYuOBk64MDW3hsODSUOo4wj42NNoHjRaBVlIm95vyou-tgz=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Vita Lime"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhwiW-fiwePu3KqPpoMkwf-Mqk8yznh0tvNlezRw1yhh819iPTD8i3I-3zqa6BL2BbgzqPdP677VrXaL-fjyuOpeBomqqXQmJOXE7ZGUSogc9BZvS4l08GBxt7D2_6UzwHn7ruBI0ir8DPhABg-fuMlX8D9JjbXUoHl4aMfLDOjHObkQlVk9IfqixCaX56G=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "1월 20일, 오늘을 닮은 색: 비비드 스카이"
 date: 2026-01-20
 updated: 2026-01-20
@@ -11,10 +15,6 @@ tags:
   - 00bfff
   - 1월
 description: 오늘의 탄생색, 비비드 스카이. '자유로움, 개방적, 창의성'이라는 의미를 담고 있어요.
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhwiW-fiwePu3KqPpoMkwf-Mqk8yznh0tvNlezRw1yhh819iPTD8i3I-3zqa6BL2BbgzqPdP677VrXaL-fjyuOpeBomqqXQmJOXE7ZGUSogc9BZvS4l08GBxt7D2_6UzwHn7ruBI0ir8DPhABg-fuMlX8D9JjbXUoHl4aMfLDOjHObkQlVk9IfqixCaX56G=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: Vivid Sky
 author: 하루의 조각
 profileName: 하루의 조각

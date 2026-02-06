@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiVH3sGH7fAXiLxQJ0MCZNY7ckjqcpLAHtzow3qAK4oZMFKezYniRosIdSJp-eCYYBQ14kC1fGGY-1VSuqHdLt9OUoELw3ULynkxgh4etDAj4u7NJ3cfDB_g6BX-bfds7fAgm9NKpgn-CyTqXUVqLWtIKhDCQuMXXdWmgKgeVatBxozZI_UMzEahP-nAatK=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 29일, 오늘을 닮은 색: 크리스마스 화이트"
 date: "2026-12-29"
 updated: "2026-12-29"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "e2e1ee"
 description: "오늘의 탄생색, 크리스마스 화이트. '깨끗한마음, 순수한, 희망찬'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiVH3sGH7fAXiLxQJ0MCZNY7ckjqcpLAHtzow3qAK4oZMFKezYniRosIdSJp-eCYYBQ14kC1fGGY-1VSuqHdLt9OUoELw3ULynkxgh4etDAj4u7NJ3cfDB_g6BX-bfds7fAgm9NKpgn-CyTqXUVqLWtIKhDCQuMXXdWmgKgeVatBxozZI_UMzEahP-nAatK=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Christmas White"
 author: "하루의 조각"
 profileName: "하루의 조각"

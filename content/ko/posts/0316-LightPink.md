@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiEzEIW-uCF8VDFHQ_I54jrvwBnsPS3MWhLWbrEcHrh1a1DXXJQUq9Ij-q6pojNk-mPN7qqLVeafIabDcR2DVEBgGVNi8nGYH_L14QEPoLlo5AiHudw_2I8doQvvMAsIlSRfcBye7m8r8v52SgEkdCesCWNyDl0XyTAITKCbpFefR1dNeEh2KZ8A2q7_PQg=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 16일, 오늘을 닮은 색: 연분홍"
 date: "2026-03-16"
 updated: "2026-03-16"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "ffaaaa"
 description: "오늘의 탄생색, 연분홍. '다정함, 친근감, 애정'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiEzEIW-uCF8VDFHQ_I54jrvwBnsPS3MWhLWbrEcHrh1a1DXXJQUq9Ij-q6pojNk-mPN7qqLVeafIabDcR2DVEBgGVNi8nGYH_L14QEPoLlo5AiHudw_2I8doQvvMAsIlSRfcBye7m8r8v52SgEkdCesCWNyDl0XyTAITKCbpFefR1dNeEh2KZ8A2q7_PQg=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Light Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"

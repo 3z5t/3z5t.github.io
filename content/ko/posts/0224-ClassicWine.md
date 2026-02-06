@@ -1,20 +1,23 @@
 ---
-"title": "2월 24일, 오늘을 닮은 색: 클래식 와인"
-"date": "2026-02-24"
-"updated": "2026-02-24"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgbc0h9FXb9ulslSS156M2VU8A8_7JZ1S9oA1kpgyyVeOGVcjan245Q6TYOC1JaeKaxaANNIFWbHSddVOWFFl0cFjKjhNgGWk1rmVro7hh3GvnEkSbdL5tQs6VmARyloLTVkqcALeA4OTls3gMo-ZF0-phMPldsy36DKbt0qpNOHPc-fs0E_6chRJLezSLz=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 24일, 오늘을 닮은 색: 클래식 와인"
+date: "2026-02-24"
+updated: "2026-02-24"
+tags:
 - "탄생색"
 - "클래식 와인"
 - "2월 24일"
 - "2월"
 - "893751"
-"description": "오늘의 탄생색, 클래식 와인. '성숙미, 지성, 여유로움'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgbc0h9FXb9ulslSS156M2VU8A8_7JZ1S9oA1kpgyyVeOGVcjan245Q6TYOC1JaeKaxaANNIFWbHSddVOWFFl0cFjKjhNgGWk1rmVro7hh3GvnEkSbdL5tQs6VmARyloLTVkqcALeA4OTls3gMo-ZF0-phMPldsy36DKbt0qpNOHPc-fs0E_6chRJLezSLz=s1600"
-"en_name": "Classic Wine"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "8214726136298011545"
-"postUrl": "https://the366days-ko.blogspot.com"
+description: "오늘의 탄생색, 클래식 와인. '성숙미, 지성, 여유로움'이라는 의미를 담고 있어요."
+en_name: "Classic Wine"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "8214726136298011545"
+postUrl: "https://the366days-ko.blogspot.com"
 ---
 
 ## 2월 24일의 탄생색: 클래식 와인 (`#893751`)

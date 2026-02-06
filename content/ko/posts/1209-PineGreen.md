@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhlVwEK9H5HfcBV8iCZVnWkW8i3H2p22akr0S1VCwcdr6qT0rcCOuCkYivQFhseYfj-FLXljlc4tk7MKRQWOOwSR_ShP2DrNJbQaG-smH_vCECcPQ7Cq0aKROudeZLaUOTkJ7DjI4SBiBniKpuIuzcwoIpKDpCpU3ZC3Zm4ok9yigs_17jkUDmRQVbb5z8i=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 9일, 오늘을 닮은 색: 파인 그린"
 date: "2026-12-09"
 updated: "2026-12-09"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "207670"
 description: "오늘의 탄생색, 파인 그린. '순수한영혼, 신비로운, 차가운'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhlVwEK9H5HfcBV8iCZVnWkW8i3H2p22akr0S1VCwcdr6qT0rcCOuCkYivQFhseYfj-FLXljlc4tk7MKRQWOOwSR_ShP2DrNJbQaG-smH_vCECcPQ7Cq0aKROudeZLaUOTkJ7DjI4SBiBniKpuIuzcwoIpKDpCpU3ZC3Zm4ok9yigs_17jkUDmRQVbb5z8i=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Pine Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

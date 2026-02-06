@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjr-cSwjSxMhimvvAyYZMEbTJbKPG9Fo89WFFm8qDc1RlEodh2qem5ntKx4uCHLYaekwXns9JHZEcyd4D2X2Dnp4w4HQKFfAla2mhNYLo9l9CdJJoPrz2rxdZpELTTqOVhkT7nbxSEaFGYjCezRuWrfOsa3Er0IEuI080mwLTYzbSBFT79I_fHQcgwOtmI1=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 22일, 오늘을 닮은 색: 라이트 스카이"
 date: "2026-07-22"
 updated: "2026-07-22"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "3ddaee"
 description: "오늘의 탄생색, 라이트 스카이. '상쾌한성격, 밝은마음, 깨끗한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjr-cSwjSxMhimvvAyYZMEbTJbKPG9Fo89WFFm8qDc1RlEodh2qem5ntKx4uCHLYaekwXns9JHZEcyd4D2X2Dnp4w4HQKFfAla2mhNYLo9l9CdJJoPrz2rxdZpELTTqOVhkT7nbxSEaFGYjCezRuWrfOsa3Er0IEuI080mwLTYzbSBFT79I_fHQcgwOtmI1=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Light Sky"
 author: "하루의 조각"
 profileName: "하루의 조각"

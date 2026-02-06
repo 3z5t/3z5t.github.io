@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEitl93vJvdwI1Y7pSU4g_7P60Cgn5anbRt8pHXIVlWQgkEe6b-2gQoxQczjgSKrWPZMJbraf5mfC6hEJ8WgSzLQ9Z2P1erOiI-S5gkW6cFOUQ75NxfAG4AEwEKvUpbjC0oqfvRcqeXiuLapGNZvv5sPqIU5Zfjdyak2LeEYvNjD13pW4eW_STFBOX-WWX_5=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 1일, 오늘을 닮은 색: 강렬한 석양"
 date: "2026-10-01"
 updated: "2026-10-01"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "bc5445"
 description: "오늘의 탄생색, 강렬한 석양. '열정적인, 강렬한, 인상적인'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEitl93vJvdwI1Y7pSU4g_7P60Cgn5anbRt8pHXIVlWQgkEe6b-2gQoxQczjgSKrWPZMJbraf5mfC6hEJ8WgSzLQ9Z2P1erOiI-S5gkW6cFOUQ75NxfAG4AEwEKvUpbjC0oqfvRcqeXiuLapGNZvv5sPqIU5Zfjdyak2LeEYvNjD13pW4eW_STFBOX-WWX_5=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Intense Sunset"
 author: "하루의 조각"
 profileName: "하루의 조각"

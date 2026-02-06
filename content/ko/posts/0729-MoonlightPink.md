@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh0Zw9LIbqqSgxnzZ_AzvuXB3owOw8WT5Iavo-dunqalMNQcMgBMz2MMS_NsDn3ArudYEKx36nhYc18gMXEdXBBkS1LoTdiJSgbtYfSHBfZprQs6N_TarA4sRhP-9XCbc9MISAKgcWxboBiNTRzw9DyAkxWanl8rks60fWgDv2QmDLY-oZopxAAOdo8VAJ0=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 29일, 오늘을 닮은 색: 문라이트 핑크"
 date: "2026-07-29"
 updated: "2026-07-29"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "e0c8c0"
 description: "오늘의 탄생색, 문라이트 핑크. '부드러운, 순수한, 청아한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh0Zw9LIbqqSgxnzZ_AzvuXB3owOw8WT5Iavo-dunqalMNQcMgBMz2MMS_NsDn3ArudYEKx36nhYc18gMXEdXBBkS1LoTdiJSgbtYfSHBfZprQs6N_TarA4sRhP-9XCbc9MISAKgcWxboBiNTRzw9DyAkxWanl8rks60fWgDv2QmDLY-oZopxAAOdo8VAJ0=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Moonlight Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"

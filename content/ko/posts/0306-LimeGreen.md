@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEixNtohqC8m8DTNzRf7Y7kEaRvNaTCnGN7NAPanIeqKDsxJ4ro6Z0PT9Ezu5SBoa_uDlaISobTXGtsPyL0sXRgHho4vhDYQdz2spEgl-BQgH4S3QUwv6rTNeklHUXZ7NSIlTYb1oxu7y9lVgK3t_9RjJps8SWRJjxapVyBLsqwIFYjUke5xmn8_24sy0ckr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 6일, 오늘을 닮은 색: 라임 그린"
 date: "2026-03-06"
 updated: "2026-03-06"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "6ead5c"
 description: "오늘의 탄생색, 라임 그린. '생명력, 창조성, 풍요로움'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEixNtohqC8m8DTNzRf7Y7kEaRvNaTCnGN7NAPanIeqKDsxJ4ro6Z0PT9Ezu5SBoa_uDlaISobTXGtsPyL0sXRgHho4vhDYQdz2spEgl-BQgH4S3QUwv6rTNeklHUXZ7NSIlTYb1oxu7y9lVgK3t_9RjJps8SWRJjxapVyBLsqwIFYjUke5xmn8_24sy0ckr=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Lime Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

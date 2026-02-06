@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEigJqQMAtoCRMbtGit-dlEj86eE7xj0WnfeKztte329DveJWLj37LwxJYy1_XYKeuZONaLwYKx6eCcJlRPyz2PRd7NSch4gWUaUbPhv3klAU8EOrVOMHBv3dF6sNTkoqSzIHgwfHVR_qz6tRjeZm-GQ26gKAvK_3-fMRAr7eEINvjPPOBuKrkwbn_TWmTcM=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 16일, 오늘을 닮은 색: 퓨어 그린"
 date: "2026-05-16"
 updated: "2026-05-16"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "2fba10"
 description: "오늘의 탄생색, 퓨어 그린. '순수함, 자연스러움, 생명력'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEigJqQMAtoCRMbtGit-dlEj86eE7xj0WnfeKztte329DveJWLj37LwxJYy1_XYKeuZONaLwYKx6eCcJlRPyz2PRd7NSch4gWUaUbPhv3klAU8EOrVOMHBv3dF6sNTkoqSzIHgwfHVR_qz6tRjeZm-GQ26gKAvK_3-fMRAr7eEINvjPPOBuKrkwbn_TWmTcM=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Pure Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

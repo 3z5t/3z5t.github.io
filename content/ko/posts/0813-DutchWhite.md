@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiaEzwEL5GelVCK3gE3kUxeuJja-9jfratPeotaAk1Ky4ZRGy23YbmDDUn-f1ZwP7sHZuNW99bFllJwHx-NceSwMm2j4_pPIq883G-56xZwWbcqsRzuf52Z9uWN-jyrpVyktiU9NE-0P2aurDIrxTw71UooyVUgjTmRfIYpz3Pw74_jGOgTaJ7e0lnmMg45=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 13일, 오늘을 닮은 색: 더치 화이트"
 date: "2026-08-13"
 updated: "2026-08-13"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "efe3b5"
 description: "오늘의 탄생색, 더치 화이트. '전통적, 품격있는, 우아한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiaEzwEL5GelVCK3gE3kUxeuJja-9jfratPeotaAk1Ky4ZRGy23YbmDDUn-f1ZwP7sHZuNW99bFllJwHx-NceSwMm2j4_pPIq883G-56xZwWbcqsRzuf52Z9uWN-jyrpVyktiU9NE-0P2aurDIrxTw71UooyVUgjTmRfIYpz3Pw74_jGOgTaJ7e0lnmMg45=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Dutch White"
 author: "하루의 조각"
 profileName: "하루의 조각"

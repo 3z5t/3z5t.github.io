@@ -1,20 +1,23 @@
 ---
-"title": "9월 15일, 오늘을 닮은 색: 녹차"
-"date": "2026-09-15"
-"updated": "2026-09-15"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg_tA4o4OyCQ0DviqR2z3cNQjri4pn8vBMwYIpl000XFSRGFegQlvurYR1gAxEuqTAfdNWggvf9hY-uxcCI7OnGNie95A8OM7AdSLQyAmc5evjN6qHhKJo8ETj7ejmAOJTVnp18EZtqYJBEFn8WNoJeyVSczbV54nsx1N3CUVqR7HQUPwJnirIBFw2BEy15=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "9월 15일, 오늘을 닮은 색: 녹차"
+date: "2026-09-15"
+updated: "2026-09-15"
+tags:
 - "탄생색"
 - "녹차"
 - "9월 15일"
 - "9월"
 - "98946e"
-"description": "오늘의 탄생색, 녹차. '평온한, 여유있는, 차분한'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEg_tA4o4OyCQ0DviqR2z3cNQjri4pn8vBMwYIpl000XFSRGFegQlvurYR1gAxEuqTAfdNWggvf9hY-uxcCI7OnGNie95A8OM7AdSLQyAmc5evjN6qHhKJo8ETj7ejmAOJTVnp18EZtqYJBEFn8WNoJeyVSczbV54nsx1N3CUVqR7HQUPwJnirIBFw2BEy15=s1600"
-"en_name": "Green Tea"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "4562378128769585062"
-"postUrl": "https://the366days-ko.blogspot.com/2026/09/9-15-green-tea.html"
+description: "오늘의 탄생색, 녹차. '평온한, 여유있는, 차분한'이라는 의미를 담고 있어요."
+en_name: "Green Tea"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "4562378128769585062"
+postUrl: "https://the366days-ko.blogspot.com/2026/09/9-15-green-tea.html"
 ---
 
 ## 9월 15일의 탄생색: 녹차 (`#98946E`)

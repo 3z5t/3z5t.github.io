@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh8PReyP4bwLsS6I6vPF0eSSQVmjR0GQbT0qQ4zEugg7-VsREsX9YNZknOtyGA3CuOiCa6wsRgzwrX1XBt_m7AJWFoKX_VK0ZHsGLXy6qamhkRJlSfdEAUxKzrvxKluUHDyBi_dlsOoHeflrpJP25ly_UaKHfQ8pqOGeqUWl8YHb1VljOpDLn-0GZ6nfqH3=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 9일, 오늘을 닮은 색: 풀잎 초록"
 date: "2026-03-09"
 updated: "2026-03-09"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "587d4a"
 description: "오늘의 탄생색, 풀잎 초록. '자연친화, 균형감, 포용력'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh8PReyP4bwLsS6I6vPF0eSSQVmjR0GQbT0qQ4zEugg7-VsREsX9YNZknOtyGA3CuOiCa6wsRgzwrX1XBt_m7AJWFoKX_VK0ZHsGLXy6qamhkRJlSfdEAUxKzrvxKluUHDyBi_dlsOoHeflrpJP25ly_UaKHfQ8pqOGeqUWl8YHb1VljOpDLn-0GZ6nfqH3=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Leaf Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

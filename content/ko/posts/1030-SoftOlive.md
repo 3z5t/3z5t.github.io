@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgAORVVe392TQkfJYLk42cYlINm28wpscn1oA_PDV8gxUqhKzrhAA7_pTFBkTwd2Q4nv2tkTdkSn5adDltOJpBBzdfS0mXaoVvm0zdCI0Hk7S5_Y577UVUBvx6k2-uBKkdSoW0ynlwIznCyd11aPUZ5RASeqpvDovoi9cW7NqguiG-wyfP9s87ux0l7vSXI=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 30일, 오늘을 닮은 색: 소프트 올리브"
 date: "2026-10-30"
 updated: "2026-10-30"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "7e9682"
 description: "오늘의 탄생색, 소프트 올리브. '차분한, 안정된, 평화로운'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgAORVVe392TQkfJYLk42cYlINm28wpscn1oA_PDV8gxUqhKzrhAA7_pTFBkTwd2Q4nv2tkTdkSn5adDltOJpBBzdfS0mXaoVvm0zdCI0Hk7S5_Y577UVUBvx6k2-uBKkdSoW0ynlwIznCyd11aPUZ5RASeqpvDovoi9cW7NqguiG-wyfP9s87ux0l7vSXI=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Soft Olive"
 author: "하루의 조각"
 profileName: "하루의 조각"

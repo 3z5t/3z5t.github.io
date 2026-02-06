@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgTcVnAW09mNLGnMmvWuUxwGSquKE9EPJ7PPK-G-HpETZRZL0AsOltDJztAzQs8jIJ7h2rAJtfoM13pCb1lhpuPnIWqZ4Y-CGbvNsHggm3QxkjPa8kHfMfXpTPrHVeemHV0WVOvQJSPJH9AZjq1t4VYTNfLBO0QSqR1VkNcCQ-nYRtrUX4XpDdhQKedqjB-=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 13일, 오늘을 닮은 색: 미드나잇 블랙"
 date: "2026-12-13"
 updated: "2026-12-13"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "141618"
 description: "오늘의 탄생색, 미드나잇 블랙. '심오한영혼, 명상적인, 고요한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgTcVnAW09mNLGnMmvWuUxwGSquKE9EPJ7PPK-G-HpETZRZL0AsOltDJztAzQs8jIJ7h2rAJtfoM13pCb1lhpuPnIWqZ4Y-CGbvNsHggm3QxkjPa8kHfMfXpTPrHVeemHV0WVOvQJSPJH9AZjq1t4VYTNfLBO0QSqR1VkNcCQ-nYRtrUX4XpDdhQKedqjB-=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Midnight Black"
 author: "하루의 조각"
 profileName: "하루의 조각"

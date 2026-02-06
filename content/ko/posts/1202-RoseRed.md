@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEit9Q8R4PP1PCdX06BPXU7NoWJA8JDScPwRgzO4NHGV3NTjx9O6DjzDHh92YAxjhpzNrgAVOb1wKyjXSTkGKlGuupxDoLwb-fUCH18b7BeomgrVonCNz1sYpa24xCYZknVOwjVuwvhTWjwiUZvl5VhU_WapOLSSz-1BX47vub4-AOECHFRooWOMnF2-SfRn=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 2일, 오늘을 닮은 색: 장미 레드"
 date: "2026-12-02"
 updated: "2026-12-02"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "8d1c1c"
 description: "오늘의 탄생색, 장미 레드. '열정적인, 의지력강한, 희망찬'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEit9Q8R4PP1PCdX06BPXU7NoWJA8JDScPwRgzO4NHGV3NTjx9O6DjzDHh92YAxjhpzNrgAVOb1wKyjXSTkGKlGuupxDoLwb-fUCH18b7BeomgrVonCNz1sYpa24xCYZknVOwjVuwvhTWjwiUZvl5VhU_WapOLSSz-1BX47vub4-AOECHFRooWOMnF2-SfRn=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Rose Red"
 author: "하루의 조각"
 profileName: "하루의 조각"

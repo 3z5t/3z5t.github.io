@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh_IfB5iFudn1mGRCpSVteblh7uml9EW15yJcTftxg6N_z4MsojQtNNGgSGTzI7kRCUiiAV3ktow17yJNJyGZpIS7fdlGO9YPQGPvr3PUdPb2qwt1tfsnDwwO1PbLjvg2iPze9jsFpGcKc6UfIhCMSYWw7jmk6vHNQz5XFKrSWQmqKkqpkgmKg665Y_Ad5D=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 9일, 오늘을 닮은 색: 크림"
 date: "2026-05-09"
 updated: "2026-05-09"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "ffffcc"
 description: "오늘의 탄생색, 크림. '부드러움, 따뜻함, 순수함'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh_IfB5iFudn1mGRCpSVteblh7uml9EW15yJcTftxg6N_z4MsojQtNNGgSGTzI7kRCUiiAV3ktow17yJNJyGZpIS7fdlGO9YPQGPvr3PUdPb2qwt1tfsnDwwO1PbLjvg2iPze9jsFpGcKc6UfIhCMSYWw7jmk6vHNQz5XFKrSWQmqKkqpkgmKg665Y_Ad5D=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Cream"
 author: "하루의 조각"
 profileName: "하루의 조각"

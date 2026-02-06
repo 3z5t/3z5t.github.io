@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjh-PPVizZQRWCLCW2PQMC86f-2PxkDRCTkxumUuCEOYLPnQXc76rYqMjno6CvYWYYvQmCaXczSi-ujlyEzkg1Lt04xb16TXI1HZDAsqOoonKUSlviCUSTOMtJuJeHeV_YPr21DSrIvGUM9i8o8U2e9fIu0Gxde4N8Cd786jkfVFWvlboOdLFGsniFIUmWh=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 10일, 오늘을 닮은 색: 딤 그레이"
 date: "2026-11-10"
 updated: "2026-11-10"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "666666"
 description: "오늘의 탄생색, 딤 그레이. '깊이있는, 차분한, 성숙한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjh-PPVizZQRWCLCW2PQMC86f-2PxkDRCTkxumUuCEOYLPnQXc76rYqMjno6CvYWYYvQmCaXczSi-ujlyEzkg1Lt04xb16TXI1HZDAsqOoonKUSlviCUSTOMtJuJeHeV_YPr21DSrIvGUM9i8o8U2e9fIu0Gxde4N8Cd786jkfVFWvlboOdLFGsniFIUmWh=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Dim Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"

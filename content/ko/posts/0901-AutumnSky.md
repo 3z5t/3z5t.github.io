@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjZ_-IL8qIskWD79ZnWXv4VQEfjf6Pz3moxUYAz0uvsQB0Kle7oJi_fHKw5zX-JZL-FSow3JWFqbopxUAo0TR-SZF_mkT5l4NkUNrOr9SKLKiIzxfxDtBpcGOyn25RVDV14zTH83G5tBtMapLSm25UsW9-3avClR5RjPitkbXYpfN-rg2gug2nRWQVI74dk=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "9월 1일, 오늘을 닮은 색: 가을 하늘"
 date: "2026-09-01"
 updated: "2026-09-01"
@@ -9,10 +13,6 @@ tags:
   - "9월"
   - "59819a"
 description: "오늘의 탄생색, 가을 하늘. '청명한정신, 이상적, 창의적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjZ_-IL8qIskWD79ZnWXv4VQEfjf6Pz3moxUYAz0uvsQB0Kle7oJi_fHKw5zX-JZL-FSow3JWFqbopxUAo0TR-SZF_mkT5l4NkUNrOr9SKLKiIzxfxDtBpcGOyn25RVDV14zTH83G5tBtMapLSm25UsW9-3avClR5RjPitkbXYpfN-rg2gug2nRWQVI74dk=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Autumn Sky"
 author: "하루의 조각"
 profileName: "하루의 조각"

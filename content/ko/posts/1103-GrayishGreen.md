@@ -1,20 +1,23 @@
 ---
-"title": "11월 3일, 오늘을 닮은 색: 그레이시 그린"
-"date": "2026-11-03"
-"updated": "2026-11-03"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgPASXr2xlgk_UeYp3Sc2zEdPhBTIBIEZmV74LZrWg6eSXnN61tYq7_uhgkFU8qO4N0m1dL5ZnMz9eClqX_pwF_g-_cQVspwidbdIGJUQH6KUAXmh53KuVd4v2RL96EZHf5bVd_q2pJxB6Ko3GSJ_1KrYJx4yUGozmdeeeHnOvGXM-_xhf6mvZMcf4jPkHI=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "11월 3일, 오늘을 닮은 색: 그레이시 그린"
+date: "2026-11-03"
+updated: "2026-11-03"
+tags:
 - "탄생색"
 - "그레이시 그린"
 - "11월 3일"
 - "11월"
 - "444236"
-"description": "오늘의 탄생색, 그레이시 그린. '안정된, 차분한, 균형잡힌'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgPASXr2xlgk_UeYp3Sc2zEdPhBTIBIEZmV74LZrWg6eSXnN61tYq7_uhgkFU8qO4N0m1dL5ZnMz9eClqX_pwF_g-_cQVspwidbdIGJUQH6KUAXmh53KuVd4v2RL96EZHf5bVd_q2pJxB6Ko3GSJ_1KrYJx4yUGozmdeeeHnOvGXM-_xhf6mvZMcf4jPkHI=s1600"
-"en_name": "Grayish Green"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "3623703898308387175"
-"postUrl": "https://the366days-ko.blogspot.com/2026/11/11-3-grayish-green.html"
+description: "오늘의 탄생색, 그레이시 그린. '안정된, 차분한, 균형잡힌'이라는 의미를 담고 있어요."
+en_name: "Grayish Green"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "3623703898308387175"
+postUrl: "https://the366days-ko.blogspot.com/2026/11/11-3-grayish-green.html"
 ---
 
 ## 11월 3일의 탄생색: 그레이시 그린 (`#444236`)

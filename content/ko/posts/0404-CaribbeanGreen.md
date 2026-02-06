@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhKksjA3XSZnbD05EZYORBdcxll9pVwRxDdXoCLZqSNhfL0DUYAEZ4KUX2eG_YK6sAVWhcoqrZpQcBdnKj0z8t1qxXNKmgRiEBVWI9QtG88aYyLI7LMidTB-5DizX5G8XnFVjR4ssm5Em8E5UIk6bI9fVYxxmHBGxMshLLoUDzVNDNZyifFUFgnjVi3lxaT=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 4일, 오늘을 닮은 색: 캐리비안 그린"
 date: "2026-04-04"
 updated: "2026-04-04"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "00cc99"
 description: "오늘의 탄생색, 캐리비안 그린. '모험심, 자유로움, 개척정신'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhKksjA3XSZnbD05EZYORBdcxll9pVwRxDdXoCLZqSNhfL0DUYAEZ4KUX2eG_YK6sAVWhcoqrZpQcBdnKj0z8t1qxXNKmgRiEBVWI9QtG88aYyLI7LMidTB-5DizX5G8XnFVjR4ssm5Em8E5UIk6bI9fVYxxmHBGxMshLLoUDzVNDNZyifFUFgnjVi3lxaT=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Caribbean Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

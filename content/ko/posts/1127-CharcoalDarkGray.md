@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhQLnbkJ91Pg8EasiOknEoBJhad31lIRPyT6cPi4kG3h2-n-fIXNf2eX6GzUAddbrMOlNRc0sYZ1m4kyMBSlJIdPSwAHcN6vCCOFU0kYL96h1Yr5lySUMzEqIxz64vz1F9aUtouziiK8HNnA9pxHrhS9FthllkKX6GsQG0iwXaor1QZmfxj1MwJYHtAYPrb=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 27일, 오늘을 닮은 색: 차콜 다크그레이"
 date: "2026-11-27"
 updated: "2026-11-27"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "2f2c2c"
 description: "오늘의 탄생색, 차콜 다크그레이. '차분한, 균형잡힌, 안정된'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhQLnbkJ91Pg8EasiOknEoBJhad31lIRPyT6cPi4kG3h2-n-fIXNf2eX6GzUAddbrMOlNRc0sYZ1m4kyMBSlJIdPSwAHcN6vCCOFU0kYL96h1Yr5lySUMzEqIxz64vz1F9aUtouziiK8HNnA9pxHrhS9FthllkKX6GsQG0iwXaor1QZmfxj1MwJYHtAYPrb=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Charcoal Dark Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"

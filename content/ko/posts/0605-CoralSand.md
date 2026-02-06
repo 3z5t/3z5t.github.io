@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiijQLCiv2qzfwj-chfunJ9tq_724UsLyBxZ322F_dYXfEcurOg2qzoEcnSRdlPZVxnsqd5ba6m7qdowFL2tpOeTXtSgfwZ_NX7UuDFhlDAJ18OLjfx3ePhEVA7MYjc5_GrwZ-fDtRR01O2vZwAuSg3AkNF-i-VBbv0EOlORwcqBHLHwwJNOfLShsH_ucMj=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 5일, 오늘을 닮은 색: 코랄 샌드"
 date: "2026-06-05"
 updated: "2026-06-05"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "ffd0a1"
 description: "오늘의 탄생색, 코랄 샌드. '조화로움, 균형감, 포용력'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiijQLCiv2qzfwj-chfunJ9tq_724UsLyBxZ322F_dYXfEcurOg2qzoEcnSRdlPZVxnsqd5ba6m7qdowFL2tpOeTXtSgfwZ_NX7UuDFhlDAJ18OLjfx3ePhEVA7MYjc5_GrwZ-fDtRR01O2vZwAuSg3AkNF-i-VBbv0EOlORwcqBHLHwwJNOfLShsH_ucMj=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Coral Sand"
 author: "하루의 조각"
 profileName: "하루의 조각"

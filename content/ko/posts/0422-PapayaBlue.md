@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjB5lcgrBKXY9yQDGjK9uat6BVn4NLAXaSS1O92T5nj7_09AP83O_or58pXfNxh1VQj20cgu-MAEbwSqqw9xe6dUew3AHU3cW9H8mv8hIBBzvuDK6c3dR-ojGiHn73Kglu4RbTWxuB7XMfNlpzTQHqaiL9lDK_4pGp8bxOT9YcLMwQtFfScFTehC0U7eHGM=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 22일, 오늘을 닮은 색: 파파야 블루"
 date: "2026-04-22"
 updated: "2026-04-22"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "37b5be"
 description: "오늘의 탄생색, 파파야 블루. '활력적, 건강함, 생동감'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjB5lcgrBKXY9yQDGjK9uat6BVn4NLAXaSS1O92T5nj7_09AP83O_or58pXfNxh1VQj20cgu-MAEbwSqqw9xe6dUew3AHU3cW9H8mv8hIBBzvuDK6c3dR-ojGiHn73Kglu4RbTWxuB7XMfNlpzTQHqaiL9lDK_4pGp8bxOT9YcLMwQtFfScFTehC0U7eHGM=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Papaya Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"

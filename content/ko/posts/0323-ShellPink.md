@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiKYR2GODI-B-G6NAO3zmuX6IE97mwicfZCHCd8dXZgVoH6NjWTgrlZdBPxZkJzkFmLzFPNBsrXaU9iuu8xAE7gO7iihiDzaMkVcCPQkoxbi01chpG4LxcmRyTYiyVdcxAT57z84kjtw370vE-aWIx-Q-DwBmsDmhKd5rOUhUU95KQSH3afaAxZeROLVyYq=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 23일, 오늘을 닮은 색: 셸 핑크"
 date: "2026-03-23"
 updated: "2026-03-23"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "e9ccc8"
 description: "오늘의 탄생색, 셸 핑크. '우아함, 고귀함, 세련됨'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiKYR2GODI-B-G6NAO3zmuX6IE97mwicfZCHCd8dXZgVoH6NjWTgrlZdBPxZkJzkFmLzFPNBsrXaU9iuu8xAE7gO7iihiDzaMkVcCPQkoxbi01chpG4LxcmRyTYiyVdcxAT57z84kjtw370vE-aWIx-Q-DwBmsDmhKd5rOUhUU95KQSH3afaAxZeROLVyYq=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Shell Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"

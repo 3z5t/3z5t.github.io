@@ -1,20 +1,23 @@
 ---
-"title": "2월 1일, 오늘을 닮은 색: 라벤더 블루"
-"date": "2026-02-01"
-"updated": "2026-02-01"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhhjZhOXeb4YaPPZiIxTSHtw_YGvSSMrBn1CrIDvCZERUhhoeKsAdyhuS3VBGGdykeI9alLYHkhB5E08KDY2XUrR_4nmRNwA58RZRlS8zEjYsV92DPLhFkBorx-8uaUKoflfiyCfDw44NJ-JYE9ypNhuAovA4Nv6bHbvy3uz_ZCx6HAqyQ9tJW95yLA569w=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 1일, 오늘을 닮은 색: 라벤더 블루"
+date: "2026-02-01"
+updated: "2026-02-01"
+tags:
 - "탄생색"
 - "라벤더 블루"
 - "2월 1일"
 - "2월"
 - "ccccff"
-"description": "오늘의 탄생색, 라벤더 블루. '감수성, 직관력, 영감'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhhjZhOXeb4YaPPZiIxTSHtw_YGvSSMrBn1CrIDvCZERUhhoeKsAdyhuS3VBGGdykeI9alLYHkhB5E08KDY2XUrR_4nmRNwA58RZRlS8zEjYsV92DPLhFkBorx-8uaUKoflfiyCfDw44NJ-JYE9ypNhuAovA4Nv6bHbvy3uz_ZCx6HAqyQ9tJW95yLA569w=s1600"
-"en_name": "Lavender Blue"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "5921895799133513187"
-"postUrl": "https://the366days-ko.blogspot.com/2026/02/2-1-lavender-blue.html"
+description: "오늘의 탄생색, 라벤더 블루. '감수성, 직관력, 영감'이라는 의미를 담고 있어요."
+en_name: "Lavender Blue"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "5921895799133513187"
+postUrl: "https://the366days-ko.blogspot.com/2026/02/2-1-lavender-blue.html"
 ---
 
 ## 2월 1일의 탄생색: 라벤더 블루 (`#CCCCFF`)

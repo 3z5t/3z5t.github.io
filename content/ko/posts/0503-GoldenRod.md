@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg-JHDNXXq_74ZfkDF6bpx4Ct2ABEKqh6fskcWiE5JJYtk54HKCCauga4QJUNn_aWuEM5WmLN7CFpuqbeSqn4oN22_DUv-e8-PikjpYCb3ABkIpFtKOGJAhtuscrr3oTRitQqftG97d0oEYzK-RgddqFJbKddYL0i4XF0tSpw7jRBFJLxS1HuWYSh5U451p=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 3일, 오늘을 닮은 색: 골든 로드"
 date: "2026-05-03"
 updated: "2026-05-03"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "daa520"
 description: "오늘의 탄생색, 골든 로드. '긍정성, 성공운, 리더십'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEg-JHDNXXq_74ZfkDF6bpx4Ct2ABEKqh6fskcWiE5JJYtk54HKCCauga4QJUNn_aWuEM5WmLN7CFpuqbeSqn4oN22_DUv-e8-PikjpYCb3ABkIpFtKOGJAhtuscrr3oTRitQqftG97d0oEYzK-RgddqFJbKddYL0i4XF0tSpw7jRBFJLxS1HuWYSh5U451p=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Golden Rod"
 author: "하루의 조각"
 profileName: "하루의 조각"

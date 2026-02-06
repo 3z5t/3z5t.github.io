@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjhHxaLdCNJ0Nw7Cyx-yXqMwL7tFEujy0ZCxiZUrgd8B0thLkBuV0pc-PfNYLuksSes3suJO7Wo0XUQBG5rlxudQSapSzLL3Qn-S4slNja_ufVsvSAbnDhB4sTowpnYzrpKFp07tK7lpT60Q05Lud8JvhZ8cSaytjdvFSha4i8TvmLpo3666kCd_gi9wImC=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 7일, 오늘을 닮은 색: 번트 엄버"
 date: "2026-10-07"
 updated: "2026-10-07"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "8d3131"
 description: "오늘의 탄생색, 번트 엄버. '단단한의지, 강인한, 결단력있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjhHxaLdCNJ0Nw7Cyx-yXqMwL7tFEujy0ZCxiZUrgd8B0thLkBuV0pc-PfNYLuksSes3suJO7Wo0XUQBG5rlxudQSapSzLL3Qn-S4slNja_ufVsvSAbnDhB4sTowpnYzrpKFp07tK7lpT60Q05Lud8JvhZ8cSaytjdvFSha4i8TvmLpo3666kCd_gi9wImC=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Burnt Umber"
 author: "하루의 조각"
 profileName: "하루의 조각"

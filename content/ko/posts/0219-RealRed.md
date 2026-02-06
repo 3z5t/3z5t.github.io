@@ -1,20 +1,23 @@
 ---
-"title": "2월 19일, 오늘을 닮은 색: 리얼 레드"
-"date": "2026-02-19"
-"updated": "2026-02-19"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjL-EChgJ98B9uJ21JYCEoHcm9_6hAokOX8x2gviJQY-J3IAVF3zzZGeNpRkIb_nfQIhHE8VZH6Ut0Je-WSAEUxAkFH-wmyn9wcWSUh2Omn60ReZ2lXTqkpLu_Cv8Cf7UCszH2pJxRO4gFJuAXEBIVSciuHf4DqiqK6eGfy8yQkkJP-ilim8GLZAUvHjuWd=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 19일, 오늘을 닮은 색: 리얼 레드"
+date: "2026-02-19"
+updated: "2026-02-19"
+tags:
 - "탄생색"
 - "리얼 레드"
 - "2월 19일"
 - "2월"
 - "c61400"
-"description": "오늘의 탄생색, 리얼 레드. '리더십, 추진력, 열정'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjL-EChgJ98B9uJ21JYCEoHcm9_6hAokOX8x2gviJQY-J3IAVF3zzZGeNpRkIb_nfQIhHE8VZH6Ut0Je-WSAEUxAkFH-wmyn9wcWSUh2Omn60ReZ2lXTqkpLu_Cv8Cf7UCszH2pJxRO4gFJuAXEBIVSciuHf4DqiqK6eGfy8yQkkJP-ilim8GLZAUvHjuWd=s1600"
-"en_name": "Real Red"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "8807891217124121278"
-"postUrl": "https://the366days-ko.blogspot.com/2026/02/2-19-real-red.html"
+description: "오늘의 탄생색, 리얼 레드. '리더십, 추진력, 열정'이라는 의미를 담고 있어요."
+en_name: "Real Red"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "8807891217124121278"
+postUrl: "https://the366days-ko.blogspot.com/2026/02/2-19-real-red.html"
 ---
 
 ## 2월 19일의 탄생색: 리얼 레드 (`#C61400`)

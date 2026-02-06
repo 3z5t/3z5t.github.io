@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhDsFhCd4RgSLLlQlukzEBdTH0XKNnNW5vKW8wIBsqQDF3xJ2Q-QNhye6Qj6hlgCH4Sc9_tmf7oNg3tMjwMlcZDYiK9iFkVDSlTDlMAIDuUdNJvdRl3VkIKVutZ28UGjEh9u56Kj2bpDHS7wuxQ2z0JCEGlr5K8BhbRkQrfSnjgZb9KsTiUR31HM9RfaBdJ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 13일, 오늘을 닮은 색: 어비스 블랙"
 date: "2026-11-13"
 updated: "2026-11-13"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "1a1a1a"
 description: "오늘의 탄생색, 어비스 블랙. '무한한가능성, 신비로운, 심오한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhDsFhCd4RgSLLlQlukzEBdTH0XKNnNW5vKW8wIBsqQDF3xJ2Q-QNhye6Qj6hlgCH4Sc9_tmf7oNg3tMjwMlcZDYiK9iFkVDSlTDlMAIDuUdNJvdRl3VkIKVutZ28UGjEh9u56Kj2bpDHS7wuxQ2z0JCEGlr5K8BhbRkQrfSnjgZb9KsTiUR31HM9RfaBdJ=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Abyss Black"
 author: "하루의 조각"
 profileName: "하루의 조각"

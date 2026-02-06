@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgf6W7pe38iNDlIOqmxTutieS7hZFOmBU_xw68Zocal99JYQw-brgUdaHdjzSB1B_NJCzSr0GU9thJWOCmlvpWKt8dtCCniPLKBkvjc2XNQW9npbWOpl8OxBCrZItYYM5UxxuE3woZbycRJUDa1i0MsUvCfPYsDn32O3PpT447r-mSQxaMNGNxY9WqETFUr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 26일, 오늘을 닮은 색: 진한 고동빛"
 date: "2026-10-26"
 updated: "2026-10-26"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "504644"
 description: "오늘의 탄생색, 진한 고동빛. '깊이있는, 안정된, 성숙한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgf6W7pe38iNDlIOqmxTutieS7hZFOmBU_xw68Zocal99JYQw-brgUdaHdjzSB1B_NJCzSr0GU9thJWOCmlvpWKt8dtCCniPLKBkvjc2XNQW9npbWOpl8OxBCrZItYYM5UxxuE3woZbycRJUDa1i0MsUvCfPYsDn32O3PpT447r-mSQxaMNGNxY9WqETFUr=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Dark Espresso"
 author: "하루의 조각"
 profileName: "하루의 조각"

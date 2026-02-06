@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiX2x0azyZtOZhOW_ewqDchOoiegneb7gdXU0YK5xNcDtJYWXw6fJu3Xl1CizIWjQnX9HKoLJo8wzksh_zGl5jkWIpLjS-R8qPf4L-kv7udYskAZ79VQauPM98PSuJDby4akEd95tw-MgS-NK3iIll_-V2VflinMUK_T5oKVwY1Dhhuja57AWAg9a2Yy2WQ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 25일, 오늘을 닮은 색: 프렌치 베이지"
 date: "2026-08-25"
 updated: "2026-08-25"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "a67b5b"
 description: "오늘의 탄생색, 프렌치 베이지. '세련된, 고급스러운, 우아한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiX2x0azyZtOZhOW_ewqDchOoiegneb7gdXU0YK5xNcDtJYWXw6fJu3Xl1CizIWjQnX9HKoLJo8wzksh_zGl5jkWIpLjS-R8qPf4L-kv7udYskAZ79VQauPM98PSuJDby4akEd95tw-MgS-NK3iIll_-V2VflinMUK_T5oKVwY1Dhhuja57AWAg9a2Yy2WQ=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "French Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"

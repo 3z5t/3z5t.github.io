@@ -1,20 +1,23 @@
 ---
-"title": "2월 21일, 오늘을 닮은 색: 버밀리온"
-"date": "2026-02-21"
-"updated": "2026-02-21"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgNtRGDiMPh2i-QitYoVu1LVih9wnfDboYuWnQyHu0TpnmTomiKHJQgoMjZmuvgOsQWtoUsARE1LWGSRid2yOY0R4usZpLOmmKD1zhL3P2ukcMWwKSFnXUR_vT9kQEqIeUFTLkAn9cBrfKNlTcUbo8FP4KvOU86np89-sV396a6vX05BVIry7l6tFcf2bZn=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 21일, 오늘을 닮은 색: 버밀리온"
+date: "2026-02-21"
+updated: "2026-02-21"
+tags:
 - "탄생색"
 - "버밀리온"
 - "2월 21일"
 - "2월"
 - "e34234"
-"description": "오늘의 탄생색, 버밀리온. '활력, 긍정성, 낙관주의'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgNtRGDiMPh2i-QitYoVu1LVih9wnfDboYuWnQyHu0TpnmTomiKHJQgoMjZmuvgOsQWtoUsARE1LWGSRid2yOY0R4usZpLOmmKD1zhL3P2ukcMWwKSFnXUR_vT9kQEqIeUFTLkAn9cBrfKNlTcUbo8FP4KvOU86np89-sV396a6vX05BVIry7l6tFcf2bZn=s1600"
-"en_name": "Vermilion"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "6928172711479558734"
-"postUrl": "https://the366days-ko.blogspot.com"
+description: "오늘의 탄생색, 버밀리온. '활력, 긍정성, 낙관주의'이라는 의미를 담고 있어요."
+en_name: "Vermilion"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "6928172711479558734"
+postUrl: "https://the366days-ko.blogspot.com"
 ---
 
 ## 2월 21일의 탄생색: 버밀리온 (`#E34234`)

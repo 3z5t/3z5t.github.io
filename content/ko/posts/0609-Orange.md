@@ -1,20 +1,23 @@
 ---
-"title": "6월 9일, 오늘을 닮은 색: 오렌지"
-"date": "2026-06-09"
-"updated": "2026-06-09"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgnRU0KNEdfvF_C2YWt-AxrkvtWErGTa-54R-DDej8JJnI5Ra90hFLPrrCQD-g4i-LN69KcB0y9Q_FRKcWw-zjvIio1EajbRiF1HHDD_R5ytE2-UAaxh48hpBOQAj6uYIwTEaASf5qEhIRruRNky4ku9qQStt-nsovh-0xdZr60Gr3uHRzAcN5g49Ce52z6=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "6월 9일, 오늘을 닮은 색: 오렌지"
+date: "2026-06-09"
+updated: "2026-06-09"
+tags:
 - "탄생색"
 - "오렌지"
 - "6월 9일"
 - "6월"
 - "ff6633"
-"description": "오늘의 탄생색, 오렌지. '열정적, 도전적, 활력적'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgnRU0KNEdfvF_C2YWt-AxrkvtWErGTa-54R-DDej8JJnI5Ra90hFLPrrCQD-g4i-LN69KcB0y9Q_FRKcWw-zjvIio1EajbRiF1HHDD_R5ytE2-UAaxh48hpBOQAj6uYIwTEaASf5qEhIRruRNky4ku9qQStt-nsovh-0xdZr60Gr3uHRzAcN5g49Ce52z6=s1600"
-"en_name": "Orange"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "2225116631241893547"
-"postUrl": "https://the366days-ko.blogspot.com/2026/06/6-9-orange.html"
+description: "오늘의 탄생색, 오렌지. '열정적, 도전적, 활력적'이라는 의미를 담고 있어요."
+en_name: "Orange"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "2225116631241893547"
+postUrl: "https://the366days-ko.blogspot.com/2026/06/6-9-orange.html"
 ---
 
 ## 6월 9일의 탄생색: 오렌지 (`#FF6633`)

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh6fPaANlK_2j1tqewRXBdGSRgKNvrz84nfLCapIlhNvOmP_xes54ePlNBbfJZunqrZoean-nl68iFiRxQarlrZzS6zYXyR_aSPd201plkQh2shJDXMW7dNbmOUaqOKZL_KZyr1Nmh8cF-nrzO6ZxGc1DJ-T3bz5tI6MtSDUHsXwMW6yeVDMIqRa4Mu-zE6=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 20일, 오늘을 닮은 색: 클래식 베이지"
 date: "2026-08-20"
 updated: "2026-08-20"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "d7c095"
 description: "오늘의 탄생색, 클래식 베이지. '안정감있는, 편안한, 차분한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh6fPaANlK_2j1tqewRXBdGSRgKNvrz84nfLCapIlhNvOmP_xes54ePlNBbfJZunqrZoean-nl68iFiRxQarlrZzS6zYXyR_aSPd201plkQh2shJDXMW7dNbmOUaqOKZL_KZyr1Nmh8cF-nrzO6ZxGc1DJ-T3bz5tI6MtSDUHsXwMW6yeVDMIqRa4Mu-zE6=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Classic Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"

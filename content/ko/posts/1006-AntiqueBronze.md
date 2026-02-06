@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgCS9w3ZWNxLedUTAc3l_DXTZUVJ_VKq5MWiZSpBr46Z9xVAY5CXPRU_nbqWoy9SS2w564biiUWjlYYa2mgfDNgtMrjoACxIaAp4d4UlcZ3FzDIkUzGxLu1z4HBsFrrJZOUFdoB6j3b_jcMcFzxwvHDdtdog6NGL-P2t5s--cr8NrSKveyt8tSucWM8RFze=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 6일, 오늘을 닮은 색: 엔틱 브론즈"
 date: "2026-10-06"
 updated: "2026-10-06"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "9b6066"
 description: "오늘의 탄생색, 엔틱 브론즈. '고전적인, 견고한, 가치있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgCS9w3ZWNxLedUTAc3l_DXTZUVJ_VKq5MWiZSpBr46Z9xVAY5CXPRU_nbqWoy9SS2w564biiUWjlYYa2mgfDNgtMrjoACxIaAp4d4UlcZ3FzDIkUzGxLu1z4HBsFrrJZOUFdoB6j3b_jcMcFzxwvHDdtdog6NGL-P2t5s--cr8NrSKveyt8tSucWM8RFze=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Antique Bronze"
 author: "하루의 조각"
 profileName: "하루의 조각"

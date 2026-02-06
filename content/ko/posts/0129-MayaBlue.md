@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEikQzwwJb740Z8IXcMo_PIZVYn6BiQTKUMiyZ_XnYx0HFRmA9af4CLojUQxNmU22dywLsazcpFPEGgYaYfbsCi9VpK73ayXBhQqBpQkRZuxkTNEtBmvcZRoNjUaSQETAAnqSniZ9MGHnnuV4wgUdTDndcnrKRIeqq1Sb0tv8Exz21P9MMDh0XPLcUdqrYAH=s1600"
+    alt: "오늘의 색"
+    relative: false
 author: 하루의 조각
 date: '2026-01-29'
 description: 오늘의 탄생색, 마야 블루. '이상주의, 순수성, 창조성'이라는 의미를 담고 있어요.
@@ -14,10 +18,6 @@ tags:
 postId: '7333173124477001153'
 postUrl: https://the366days-ko.blogspot.com/2026/01/1-29-maya-blue.html
 profileName: 하루의 조각
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEikQzwwJb740Z8IXcMo_PIZVYn6BiQTKUMiyZ_XnYx0HFRmA9af4CLojUQxNmU22dywLsazcpFPEGgYaYfbsCi9VpK73ayXBhQqBpQkRZuxkTNEtBmvcZRoNjUaSQETAAnqSniZ9MGHnnuV4wgUdTDndcnrKRIeqq1Sb0tv8Exz21P9MMDh0XPLcUdqrYAH=s1600"
-  alt: "오늘의 색"
-  relative: false
 title: '1월 29일, 오늘을 닮은 색: 마야 블루'
 updated: '2026-01-29'
 ---

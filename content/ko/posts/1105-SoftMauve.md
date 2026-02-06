@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgltvaRN4WLb9RPuNx8yiz5sXdtQxURKJl1kpzawBIqsir5JCeu9AxOuND4GNy57aOCVMRIks24qHtB6XeS63gKAlPmbA4r-Ir9jMLR4Ao1mB9k0dnHc6H3tJv4fZ6DDmb8TMJMq-jJtbEY-BCV-XDM4Ayab7U3tt0f2hv9sjyQIrtOkSD2j6ut74CGemSv=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 5일, 오늘을 닮은 색: 소프트 모브"
 date: "2026-11-05"
 updated: "2026-11-05"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "887a7c"
 description: "오늘의 탄생색, 소프트 모브. '부드러운마음, 온화한, 포용력있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgltvaRN4WLb9RPuNx8yiz5sXdtQxURKJl1kpzawBIqsir5JCeu9AxOuND4GNy57aOCVMRIks24qHtB6XeS63gKAlPmbA4r-Ir9jMLR4Ao1mB9k0dnHc6H3tJv4fZ6DDmb8TMJMq-jJtbEY-BCV-XDM4Ayab7U3tt0f2hv9sjyQIrtOkSD2j6ut74CGemSv=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Soft Mauve"
 author: "하루의 조각"
 profileName: "하루의 조각"

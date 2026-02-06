@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi980ycSjmsEc-xMD82UeY1aConnZGlB-u5691oUDAY3B1brqoFGGiGoj9lCbjXsIGU5agVJtkO710nd9UHMNHXPyZFclVBPkdqdbAFxXrs9VE0GHYRDsuwueI_2MFDBAifGGDIncfVD5u5O6JSTN4swnTycGbjE-vPAJxdxQAFcGzke6v7VQhnQh3NMDot=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 18일, 오늘을 닮은 색: 노블 스카이블루"
 date: "2026-12-18"
 updated: "2026-12-18"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "1fbee3"
 description: "오늘의 탄생색, 노블 스카이블루. '깨끗한마음, 희망적인, 청량한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi980ycSjmsEc-xMD82UeY1aConnZGlB-u5691oUDAY3B1brqoFGGiGoj9lCbjXsIGU5agVJtkO710nd9UHMNHXPyZFclVBPkdqdbAFxXrs9VE0GHYRDsuwueI_2MFDBAifGGDIncfVD5u5O6JSTN4swnTycGbjE-vPAJxdxQAFcGzke6v7VQhnQh3NMDot=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Noble Sky Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"

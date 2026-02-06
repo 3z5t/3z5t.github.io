@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEheYzsSQ18NE3pFydDnO5NtmTq3XqG1sHRGpqyFboHlfRa8sbfoBZqshcJAMYXAyQPAvIv9ABMvtqAmHZCoOm-MHvmuoeckF5_jiLzjKoyRsOh1IcpJXABcf5REXBp2iD6v7sEgSxRktvQic1Cn2wv3CQKTFnPd2F4tD7QA2alPGqpZ8DUpn-c04xsib_O_=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 30일, 오늘을 닮은 색: 샌드 핑크"
 date: "2026-03-30"
 updated: "2026-03-30"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "f5c4ac"
 description: "오늘의 탄생색, 샌드 핑크. '따뜻함, 포용력, 온화함'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEheYzsSQ18NE3pFydDnO5NtmTq3XqG1sHRGpqyFboHlfRa8sbfoBZqshcJAMYXAyQPAvIv9ABMvtqAmHZCoOm-MHvmuoeckF5_jiLzjKoyRsOh1IcpJXABcf5REXBp2iD6v7sEgSxRktvQic1Cn2wv3CQKTFnPd2F4tD7QA2alPGqpZ8DUpn-c04xsib_O_=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Sand Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"

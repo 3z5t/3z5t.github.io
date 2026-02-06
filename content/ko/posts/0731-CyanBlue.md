@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhFZPoL87BiN6T_ZsLyuNF583CjIb-BJw89QOsWlLhIvvxh3Q2vNKWd5v7mZzpHT1DqhH_haAjDOnLv1DbfAbLCgRAr7Szg0POiBzAQ_Tan0v0r37nZ7rE-GsV8dfYY_hjPXUrXIb0nVO1trM4l5TXCOaMYBwYcjxFmgu0YFHgDwqTmiLjBSaE52r6udtpH=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 31일, 오늘을 닮은 색: 시안 블루"
 date: "2026-07-31"
 updated: "2026-07-31"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "0b93ce"
 description: "오늘의 탄생색, 시안 블루. '깊이있는, 시원한, 지혜로운'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhFZPoL87BiN6T_ZsLyuNF583CjIb-BJw89QOsWlLhIvvxh3Q2vNKWd5v7mZzpHT1DqhH_haAjDOnLv1DbfAbLCgRAr7Szg0POiBzAQ_Tan0v0r37nZ7rE-GsV8dfYY_hjPXUrXIb0nVO1trM4l5TXCOaMYBwYcjxFmgu0YFHgDwqTmiLjBSaE52r6udtpH=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Cyan Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"

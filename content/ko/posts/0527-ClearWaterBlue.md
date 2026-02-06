@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhYUZRkAODgKXlbCC-Z2FSkeqJfznmLr5YYnnuztHrrd4rqy8cfjAvclS-ME9pMWC-dnzG36H1y-pqB54LWgUjeGEdvfIOmThyUQG4KxzGrhJ09xG58-tSj--gPQ4nG6kRrFV1G9RZaGdy_5ZCEZLg4-2h44tp-lu9rdiEZ20JaoXQDwN6cMMy_FUeMmrDL=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 27일, 오늘을 닮은 색: 맑은 물빛"
 date: "2026-05-27"
 updated: "2026-05-27"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "3a8299"
 description: "오늘의 탄생색, 맑은 물빛. '맑은정신, 순수함, 평화로움'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhYUZRkAODgKXlbCC-Z2FSkeqJfznmLr5YYnnuztHrrd4rqy8cfjAvclS-ME9pMWC-dnzG36H1y-pqB54LWgUjeGEdvfIOmThyUQG4KxzGrhJ09xG58-tSj--gPQ4nG6kRrFV1G9RZaGdy_5ZCEZLg4-2h44tp-lu9rdiEZ20JaoXQDwN6cMMy_FUeMmrDL=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Clear Water Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"

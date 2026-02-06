@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhpSpwDSDYkEdlRb1jsGfJ1MLfNRp5DRnwDoWhtGgLKNMnkVtkB3GVRpK_bxDFsFlxJW_cxmDjZEgbO0st73KRBE7Fw0OMl_3VKJkNyTZUuZiHVyDWBIC5gnyhjE0kj7hlM_jLlnT6CGq9pAgFJka-4fc59D4TvZHJUEIe0eg-RLnzEIHXZ-g3kWnqnOhzN=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 7일, 오늘을 닮은 색: 페일 그린"
 date: "2026-03-07"
 updated: "2026-03-07"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "98fb98"
 description: "오늘의 탄생색, 페일 그린. '섬세함, 온화함, 조화로움'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhpSpwDSDYkEdlRb1jsGfJ1MLfNRp5DRnwDoWhtGgLKNMnkVtkB3GVRpK_bxDFsFlxJW_cxmDjZEgbO0st73KRBE7Fw0OMl_3VKJkNyTZUuZiHVyDWBIC5gnyhjE0kj7hlM_jLlnT6CGq9pAgFJka-4fc59D4TvZHJUEIe0eg-RLnzEIHXZ-g3kWnqnOhzN=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Pale Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

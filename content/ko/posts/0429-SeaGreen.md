@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhpnbJ5evzNoN1GQOo125LZLEWkQeXdk-VYyZqfdbO_8YmFGAECLLVdVVz_XS8g-gMHg0C42UQGYfnShrs-cdn1vd9fWSRVth-IQKVvgyVjTI-i9ig6hC_5jk6iowmPNFDoZVp4x92BE-CI07g5za9Su3QIJbSYkqnx71lJ_SG_epCzvKZfmaU8smhbZluB=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 29일, 오늘을 닮은 색: 씨 그린"
 date: "2026-04-29"
 updated: "2026-04-29"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "19776b"
 description: "오늘의 탄생색, 씨 그린. '신비로움, 깊이있는, 통찰력'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhpnbJ5evzNoN1GQOo125LZLEWkQeXdk-VYyZqfdbO_8YmFGAECLLVdVVz_XS8g-gMHg0C42UQGYfnShrs-cdn1vd9fWSRVth-IQKVvgyVjTI-i9ig6hC_5jk6iowmPNFDoZVp4x92BE-CI07g5za9Su3QIJbSYkqnx71lJ_SG_epCzvKZfmaU8smhbZluB=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Sea Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

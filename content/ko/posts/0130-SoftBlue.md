@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg5168WQXQyFcnHcaghyE6YW_OQprP0eFdWEh4rnSiqySB2SQOfm3B2mrN0jh_M0qlV1wupfTV44pPh9ccs4pzFpdHIFxJlec3c4A6sCpAdV-lPyYInAnrN69XXOPuTFtNR7Cuftrv7nUi-W1h1u9mL9gtka94Y3jrLesTmpQ5qXgQz-lMpUMYmeELeEdCB=s1600"
+    alt: "오늘의 색"
+    relative: false
 author: 하루의 조각
 date: '2026-01-30'
 description: 오늘의 탄생색, 소프트 블루. '자유분방, 개방적, 평화로움'이라는 의미를 담고 있어요.
@@ -14,10 +18,6 @@ tags:
 postId: '5438681745585800116'
 postUrl: https://the366days-ko.blogspot.com/2026/01/1-30-soft-blue.html
 profileName: 하루의 조각
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEg5168WQXQyFcnHcaghyE6YW_OQprP0eFdWEh4rnSiqySB2SQOfm3B2mrN0jh_M0qlV1wupfTV44pPh9ccs4pzFpdHIFxJlec3c4A6sCpAdV-lPyYInAnrN69XXOPuTFtNR7Cuftrv7nUi-W1h1u9mL9gtka94Y3jrLesTmpQ5qXgQz-lMpUMYmeELeEdCB=s1600"
-  alt: "오늘의 색"
-  relative: false
 title: '1월 30일, 오늘을 닮은 색: 소프트 블루'
 updated: '2026-01-30'
 ---

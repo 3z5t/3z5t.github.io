@@ -1,20 +1,23 @@
 ---
-"title": "9월 9일, 오늘을 닮은 색: 정돈된 돌담"
-"date": "2026-09-09"
-"updated": "2026-09-09"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi9fyPkzzxZaPxXJr_9x7ipu7-MHggwdX0N_wXtu888AYqopVAK-sxqZffYseX6gAvuZdhU7TqrgYvpnbAqtx9YB1HzTQ5VPZ-IT4rsDrygV5dmHKyBuDdBoTId-kr7KT_kkqRVOsuHGlAuAAhbwinBnlCYP13qocIiYGy_2NjHI9-B8wW-420iVQMH_wuf=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "9월 9일, 오늘을 닮은 색: 정돈된 돌담"
+date: "2026-09-09"
+updated: "2026-09-09"
+tags:
 - "탄생색"
 - "정돈된 돌담"
 - "9월 9일"
 - "9월"
 - "665e5f"
-"description": "오늘의 탄생색, 정돈된 돌담. '안정된, 전통을지키는, 신뢰감있는'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEi9fyPkzzxZaPxXJr_9x7ipu7-MHggwdX0N_wXtu888AYqopVAK-sxqZffYseX6gAvuZdhU7TqrgYvpnbAqtx9YB1HzTQ5VPZ-IT4rsDrygV5dmHKyBuDdBoTId-kr7KT_kkqRVOsuHGlAuAAhbwinBnlCYP13qocIiYGy_2NjHI9-B8wW-420iVQMH_wuf=s1600"
-"en_name": "Organized Stone Wall"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "6060312864180397046"
-"postUrl": "https://the366days-ko.blogspot.com/2026/09/9-9-organized-stone-wall.html"
+description: "오늘의 탄생색, 정돈된 돌담. '안정된, 전통을지키는, 신뢰감있는'이라는 의미를 담고 있어요."
+en_name: "Organized Stone Wall"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "6060312864180397046"
+postUrl: "https://the366days-ko.blogspot.com/2026/09/9-9-organized-stone-wall.html"
 ---
 
 ## 9월 9일의 탄생색: 정돈된 돌담 (`#665E5F`)

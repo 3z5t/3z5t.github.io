@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhf4CnDlJlWNZd7_x6lhmaANvWmXgK7hfieDSICAgxFSKpX1WZAlTuyIdMf6FtTc8bRsed8_nQVasMSRLlc7Zm6NAKThBJUYLcEH-Jy_AH2ha4FzNI7AbSoHnjgRRMVXE864XqhU_sIyZR15wHyhIYMegPy8H_29mJ0cHvL3S1uHA4mPq5-z9iYFee8wiI5=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 30일, 오늘을 닮은 색: 소프트 시안"
 date: "2026-07-30"
 updated: "2026-07-30"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "6ec5ef"
 description: "오늘의 탄생색, 소프트 시안. '상쾌한성격, 청량감, 밝은마음'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhf4CnDlJlWNZd7_x6lhmaANvWmXgK7hfieDSICAgxFSKpX1WZAlTuyIdMf6FtTc8bRsed8_nQVasMSRLlc7Zm6NAKThBJUYLcEH-Jy_AH2ha4FzNI7AbSoHnjgRRMVXE864XqhU_sIyZR15wHyhIYMegPy8H_29mJ0cHvL3S1uHA4mPq5-z9iYFee8wiI5=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Soft Cyan"
 author: "하루의 조각"
 profileName: "하루의 조각"

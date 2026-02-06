@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhLGBPP9HDsHjx6Bhqc7Vi85iMx-kfENTw0SJMd90jMw70oRn0j6HACOxj4S8H7J7obKS1RzdQZuC3VNGvAgLUyYWPW4FPlBbCJJy_hqlOIbEAEEIUrab3oCZvocbiQyn0q7Kslkediu6o2CGUKYO96RlMy9YXsex9_5MBSavfT1emqIv0f7883-w0xvV1p=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "9월 3일, 오늘을 닮은 색: 깊은 밤하늘"
 date: "2026-09-03"
 updated: "2026-09-03"
@@ -9,10 +13,6 @@ tags:
   - "9월"
   - "142029"
 description: "오늘의 탄생색, 깊은 밤하늘. '통찰력있는, 신비로운, 사색적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhLGBPP9HDsHjx6Bhqc7Vi85iMx-kfENTw0SJMd90jMw70oRn0j6HACOxj4S8H7J7obKS1RzdQZuC3VNGvAgLUyYWPW4FPlBbCJJy_hqlOIbEAEEIUrab3oCZvocbiQyn0q7Kslkediu6o2CGUKYO96RlMy9YXsex9_5MBSavfT1emqIv0f7883-w0xvV1p=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Deep Night Sky"
 author: "하루의 조각"
 profileName: "하루의 조각"

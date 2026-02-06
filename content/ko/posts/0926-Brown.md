@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhfDgPgf_vzPFPG7GXNDUPv1niIq0Kbyt4C3UlWMRdQmTu0ZLUl3iujWPoIx39X6NiIiOwGCK1yIaXnFdkMv45Pzhofg0tVtswFa5svsplLEDU4ntnUWZNucjG5gW8WP1J35oOPnMdU2luQ6db6NliEAidCXBt9CNQ-zi5kCTqROKxwziFsLDmaa9j07KdE=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "9월 26일, 오늘을 닮은 색: 브라운"
 date: "2026-09-26"
 updated: "2026-09-26"
@@ -9,10 +13,6 @@ tags:
   - "9월"
   - "7f3300"
 description: "오늘의 탄생색, 브라운. '풍요로운, 안정된, 실용적인'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhfDgPgf_vzPFPG7GXNDUPv1niIq0Kbyt4C3UlWMRdQmTu0ZLUl3iujWPoIx39X6NiIiOwGCK1yIaXnFdkMv45Pzhofg0tVtswFa5svsplLEDU4ntnUWZNucjG5gW8WP1J35oOPnMdU2luQ6db6NliEAidCXBt9CNQ-zi5kCTqROKxwziFsLDmaa9j07KdE=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"

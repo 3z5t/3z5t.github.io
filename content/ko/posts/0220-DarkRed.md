@@ -1,20 +1,23 @@
 ---
-"title": "2월 20일, 오늘을 닮은 색: 다크 레드"
-"date": "2026-02-20"
-"updated": "2026-02-20"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhOqgu8_SBGIDZHgV4TGa4yLd7iP-QWMNo8SV3WSWwaiuhdj0bZ7kFwGC4Q66ihhYWFsIATya1LVshfkJzNO9rDaopkzQAX_NkX22nV-_-9gmtI7ec1es7Xef1yHDtxb_1iPEGAvBgmVu6n3CXZC5nnmwABR66A7Jm7G4FHJvOQ5KccHEPqkH2_YL8nsflD=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 20일, 오늘을 닮은 색: 다크 레드"
+date: "2026-02-20"
+updated: "2026-02-20"
+tags:
 - "탄생색"
 - "다크 레드"
 - "2월 20일"
 - "2월"
 - "840c18"
-"description": "오늘의 탄생색, 다크 레드. '결단력, 의지력, 추진력'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhOqgu8_SBGIDZHgV4TGa4yLd7iP-QWMNo8SV3WSWwaiuhdj0bZ7kFwGC4Q66ihhYWFsIATya1LVshfkJzNO9rDaopkzQAX_NkX22nV-_-9gmtI7ec1es7Xef1yHDtxb_1iPEGAvBgmVu6n3CXZC5nnmwABR66A7Jm7G4FHJvOQ5KccHEPqkH2_YL8nsflD=s1600"
-"en_name": "Dark Red"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "6134808347940498581"
-"postUrl": "https://the366days-ko.blogspot.com"
+description: "오늘의 탄생색, 다크 레드. '결단력, 의지력, 추진력'이라는 의미를 담고 있어요."
+en_name: "Dark Red"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "6134808347940498581"
+postUrl: "https://the366days-ko.blogspot.com"
 ---
 
 ## 2월 20일의 탄생색: 다크 레드 (`#840C18`)

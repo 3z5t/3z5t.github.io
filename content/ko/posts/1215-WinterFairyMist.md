@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhjref5txEHXC0WBv7IVwlWdMYZ9BRdsubqr9FORIWLJmg19nKBBuSRjCY8bAU0OzfcFSA7AOSM20-aMIPBcpuZbfTKXFY0SGxzIwTX4WhYT2-DvsAQSQ_uWcM0_AjGBf0_drpTNiKGa_sn8_7gAki48KoQPUpTxLBSPP6Vu1ZOv9VBXVFb2V9qzbuisf1o=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 15일, 오늘을 닮은 색: 윈터 페어리 미스트"
 date: "2026-12-15"
 updated: "2026-12-15"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "b3c4e5"
 description: "오늘의 탄생색, 윈터 페어리 미스트. '따뜻한마음, 평화로운, 안정된'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhjref5txEHXC0WBv7IVwlWdMYZ9BRdsubqr9FORIWLJmg19nKBBuSRjCY8bAU0OzfcFSA7AOSM20-aMIPBcpuZbfTKXFY0SGxzIwTX4WhYT2-DvsAQSQ_uWcM0_AjGBf0_drpTNiKGa_sn8_7gAki48KoQPUpTxLBSPP6Vu1ZOv9VBXVFb2V9qzbuisf1o=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Winter Fairy Mist"
 author: "하루의 조각"
 profileName: "하루의 조각"

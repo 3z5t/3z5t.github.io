@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiSnrNjoYqaYC8oqTZvD6RtmyGRLmqbZ9EW3btiGGcosyOrJYoeCHx2ZPo638iqxUECZ5dLvyzr6oyxTjBikH0Gw9sUGKvq2x3sSzldhseABMLPjzyx-lC9f9UR9uBWccWEu3SbFPxfDX10VrQDuCKgYdXfGebMwZsdNjl_aOtv7d7v4dmv2Fa-ZnvesqZH=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 22일, 오늘을 닮은 색: 파스텔 핑크"
 date: "2026-03-22"
 updated: "2026-03-22"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "ffd1dc"
 description: "오늘의 탄생색, 파스텔 핑크. '부드러움, 따뜻함, 포근함'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiSnrNjoYqaYC8oqTZvD6RtmyGRLmqbZ9EW3btiGGcosyOrJYoeCHx2ZPo638iqxUECZ5dLvyzr6oyxTjBikH0Gw9sUGKvq2x3sSzldhseABMLPjzyx-lC9f9UR9uBWccWEu3SbFPxfDX10VrQDuCKgYdXfGebMwZsdNjl_aOtv7d7v4dmv2Fa-ZnvesqZH=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Pastel Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"

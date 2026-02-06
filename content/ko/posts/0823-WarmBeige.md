@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi8fJPJQe8OJoiUK_K2b2TowkBZwd4tfgsxtsfXLDi4HLa_I8lgcV5B40ueC4cAl7vQkOHC2KVU3j6hHSEbINCy3-zWx0NlI-gAYLXxWgRgAwv0DxYdiEeO2kXxkXrkzwkQCAO0YpbUHNfQoeyp4fFWRFk5wCqsRDkc1pr489VUtvtJBOY7f1_N0d1WIfth=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 23일, 오늘을 닮은 색: 웜 베이지"
 date: "2026-08-23"
 updated: "2026-08-23"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "b69174"
 description: "오늘의 탄생색, 웜 베이지. '따뜻한마음, 포용력, 이해심'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi8fJPJQe8OJoiUK_K2b2TowkBZwd4tfgsxtsfXLDi4HLa_I8lgcV5B40ueC4cAl7vQkOHC2KVU3j6hHSEbINCy3-zWx0NlI-gAYLXxWgRgAwv0DxYdiEeO2kXxkXrkzwkQCAO0YpbUHNfQoeyp4fFWRFk5wCqsRDkc1pr489VUtvtJBOY7f1_N0d1WIfth=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Warm Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"

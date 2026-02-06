@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj8qY7FPzS_23lTz9co6Dpg1dGSiTg4pXD8yXUluGKrp9hY1MHben4qGKOxvmveYpIi7Av8Hz5kUktPwOillCRhfwoXLwNzynbNZ72qz7siuBhIXplgqI00G7cKPpxyF48ad_e3DycVrQKlKjMj0RsMlljJEDOxyNkbEXpXtNnZv2sPnkoW54vrHJPRI6UQ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 22일, 오늘을 닮은 색: 밀크티"
 date: "2026-06-22"
 updated: "2026-06-22"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "e4b982"
 description: "오늘의 탄생색, 밀크티. '부드러운성격, 달콤함, 온화함'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEj8qY7FPzS_23lTz9co6Dpg1dGSiTg4pXD8yXUluGKrp9hY1MHben4qGKOxvmveYpIi7Av8Hz5kUktPwOillCRhfwoXLwNzynbNZ72qz7siuBhIXplgqI00G7cKPpxyF48ad_e3DycVrQKlKjMj0RsMlljJEDOxyNkbEXpXtNnZv2sPnkoW54vrHJPRI6UQ=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Milk Tea"
 author: "하루의 조각"
 profileName: "하루의 조각"

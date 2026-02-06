@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgYSVMI7n1kehkPuiq1CTAUFYaG5XhVbcwQsntu_NbrKJGuPGRVOHRZJ3R7DSnrtq7IINJlgv7s_WSpnZiooGX9qFGayCanVBpyZtue19Aw1J4qsV2T74015Bt6oLp7DTqOTuymgeT-FZ3j2951UQyyrKHWAPDB-TAVBqBZD4HcAsq5bc_1VAvq3W6JmTA-=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "1월 3일, 오늘을 닮은 색: 어반 실버"
 date: 2026-01-03
 updated: 2026-01-03
@@ -11,10 +15,6 @@ tags:
   - "808080"
   - 1월
 description: 오늘의 탄생색, 어반 실버. '중재력, 균형감, 통찰력'이라는 의미를 담고 있어요.
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgYSVMI7n1kehkPuiq1CTAUFYaG5XhVbcwQsntu_NbrKJGuPGRVOHRZJ3R7DSnrtq7IINJlgv7s_WSpnZiooGX9qFGayCanVBpyZtue19Aw1J4qsV2T74015Bt6oLp7DTqOTuymgeT-FZ3j2951UQyyrKHWAPDB-TAVBqBZD4HcAsq5bc_1VAvq3W6JmTA-=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: Urban Silver
 author: 하루의 조각
 profileName: 하루의 조각

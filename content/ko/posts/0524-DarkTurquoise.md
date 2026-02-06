@@ -1,20 +1,23 @@
 ---
-"title": "5월 24일, 오늘을 닮은 색: 다크 터콰이즈"
-"date": "2026-05-24"
-"updated": "2026-05-24"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjb19YpTmKKwGOO_I2GIJxsQjPrAC71bHVeb5CR4lcfn0boltc-X0B10znlkBt0Xly0vw8XgHC6o6Nkib7z_9DBNb_RbvYTNsOiZzx2-ITpG9f_zKAdbyww40bXMjR2L9rKI9bl7yXECMiQ-ViRvIvwcOY1USxHKQnxTjig1ebUGyVald0voOwedeAPHfuE=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "5월 24일, 오늘을 닮은 색: 다크 터콰이즈"
+date: "2026-05-24"
+updated: "2026-05-24"
+tags:
 - "탄생색"
 - "다크 터콰이즈"
 - "5월 24일"
 - "5월"
 - "3f97af"
-"description": "오늘의 탄생색, 다크 터콰이즈. '깊이있는, 신비로운, 창의적'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjb19YpTmKKwGOO_I2GIJxsQjPrAC71bHVeb5CR4lcfn0boltc-X0B10znlkBt0Xly0vw8XgHC6o6Nkib7z_9DBNb_RbvYTNsOiZzx2-ITpG9f_zKAdbyww40bXMjR2L9rKI9bl7yXECMiQ-ViRvIvwcOY1USxHKQnxTjig1ebUGyVald0voOwedeAPHfuE=s1600"
-"en_name": "Dark Turquoise"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "1506259308848992227"
-"postUrl": "https://the366days-ko.blogspot.com/2026/05/5-24-dark-turquoise.html"
+description: "오늘의 탄생색, 다크 터콰이즈. '깊이있는, 신비로운, 창의적'이라는 의미를 담고 있어요."
+en_name: "Dark Turquoise"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "1506259308848992227"
+postUrl: "https://the366days-ko.blogspot.com/2026/05/5-24-dark-turquoise.html"
 ---
 
 ## 5월 24일의 탄생색: 다크 터콰이즈 (`#3F97AF`)

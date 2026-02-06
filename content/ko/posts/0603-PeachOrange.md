@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgVR9LnZATXaOYda3bkWR1JZp5O-vhq4XP6wpoHhdnb3OYwrNWtk_hO6Z6E0pXdHcjhSoYcW29nQ2bbJ5KsFQxx5knYetM5FpZ9rE6SqaxYp6XtLXsG_VYlnj6Ho1_cGxFJqSFw_pR4Tws4-qO6ukSEUdM9ItO-HrmIyQl4bLEIgNfPuJ5j_VfSF23ysfNf=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 3일, 오늘을 닮은 색: 피치 오렌지"
 date: "2026-06-03"
 updated: "2026-06-03"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "ffcc99"
 description: "오늘의 탄생색, 피치 오렌지. '달콤한성격, 사교성, 매력'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgVR9LnZATXaOYda3bkWR1JZp5O-vhq4XP6wpoHhdnb3OYwrNWtk_hO6Z6E0pXdHcjhSoYcW29nQ2bbJ5KsFQxx5knYetM5FpZ9rE6SqaxYp6XtLXsG_VYlnj6Ho1_cGxFJqSFw_pR4Tws4-qO6ukSEUdM9ItO-HrmIyQl4bLEIgNfPuJ5j_VfSF23ysfNf=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Peach Orange"
 author: "하루의 조각"
 profileName: "하루의 조각"

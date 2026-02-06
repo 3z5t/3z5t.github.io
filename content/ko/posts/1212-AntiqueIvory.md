@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg3joJtgHubQDyPbQXUqAnTfXROLEaBvG_H3qYDO8C_n4dDOnCy10Rnz0u1MQQx26G25FNHSzR-78HPMyFv-5LBtLLlah78uB63NGnzc3fB60aBcBIDaYRv7LuiHbgW6tdl1biAw1mxfT3fNZp1Ro9FpB-M81o-EN6bvKB-d2xzKX-SdrpNc0YUMj0RC0hP=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 12일, 오늘을 닮은 색: 앤티크 아이보리"
 date: "2026-12-12"
 updated: "2026-12-12"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "e9e1d8"
 description: "오늘의 탄생색, 앤티크 아이보리. '순수한마음, 청정한, 우아한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEg3joJtgHubQDyPbQXUqAnTfXROLEaBvG_H3qYDO8C_n4dDOnCy10Rnz0u1MQQx26G25FNHSzR-78HPMyFv-5LBtLLlah78uB63NGnzc3fB60aBcBIDaYRv7LuiHbgW6tdl1biAw1mxfT3fNZp1Ro9FpB-M81o-EN6bvKB-d2xzKX-SdrpNc0YUMj0RC0hP=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Antique Ivory"
 author: "하루의 조각"
 profileName: "하루의 조각"

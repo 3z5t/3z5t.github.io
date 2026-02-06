@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh3bsQLNKDNb-PGI5Rw-dF2Jp5JTetS0DeR8otcaZKQ8fSvDjAW5_yl0j7zusupmfKjbv7CIPx78KYhr5LQ74jiez7qjeGgv8l2i42K47063Q2UwfRoS_I-h1xh9hRZ7SgCVuDyMrrflYhFSJyxFPt0o1ynNFpQJO35oIuvRdDmFfi6Mulfxpx2Y6d3vacK=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 23일, 오늘을 닮은 색: 프러시안 레드"
 date: "2026-10-23"
 updated: "2026-10-23"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "cc3333"
 description: "오늘의 탄생색, 프러시안 레드. '의지력강한, 결단력있는, 강인한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh3bsQLNKDNb-PGI5Rw-dF2Jp5JTetS0DeR8otcaZKQ8fSvDjAW5_yl0j7zusupmfKjbv7CIPx78KYhr5LQ74jiez7qjeGgv8l2i42K47063Q2UwfRoS_I-h1xh9hRZ7SgCVuDyMrrflYhFSJyxFPt0o1ynNFpQJO35oIuvRdDmFfi6Mulfxpx2Y6d3vacK=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Prussian Red"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjyYYPg3QXPVJQxdk3-ZUgrVv7myqt00oWdkyBFvd8fojRpWf3cSu0QEi1omryvinwAtSRT9AvfH3RApZ9E-pjGWJYASIv0xW7hvFJfymufpKfrauZmWdCA1WpJQ-etKDWxvxoOofSlIbwUtLBKeOvMMz170TKCF8f8iC4G5AaHi42MBzadN4PkuLI6Poa1=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 18일, 오늘을 닮은 색: 로얄 베이지"
 date: "2026-08-18"
 updated: "2026-08-18"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "ab9170"
 description: "오늘의 탄생색, 로얄 베이지. '고귀한품성, 우아함, 품위'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjyYYPg3QXPVJQxdk3-ZUgrVv7myqt00oWdkyBFvd8fojRpWf3cSu0QEi1omryvinwAtSRT9AvfH3RApZ9E-pjGWJYASIv0xW7hvFJfymufpKfrauZmWdCA1WpJQ-etKDWxvxoOofSlIbwUtLBKeOvMMz170TKCF8f8iC4G5AaHi42MBzadN4PkuLI6Poa1=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Royal Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,20 +1,23 @@
 ---
-"title": "2월 9일, 오늘을 닮은 색: 소프트 연보라"
-"date": "2026-02-09"
-"updated": "2026-02-09"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhgbwUN8Ov5nZtm9RDJ2KKcBweAkbEyt9ERNhBkrAH-asP9tMsspt_ITcw0-A5ndnzxiTSq9u1lnYeRms6gqhBI2Xgixqnxc9ZFUfnUlOL_M3m0NA6_2C0Fo3QbqDxu8Mtzooqq4zkMdQ7nmHzhFE-Q3u3wGr1OuwXa9pO47DBp-qcSCrtIKO1oZUs7WpRl=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 9일, 오늘을 닮은 색: 소프트 연보라"
+date: "2026-02-09"
+updated: "2026-02-09"
+tags:
 - "탄생색"
 - "소프트 연보라"
 - "2월 9일"
 - "2월"
 - "ac79ae"
-"description": "오늘의 탄생색, 소프트 연보라. '감성적, 공감능력, 포용력'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhgbwUN8Ov5nZtm9RDJ2KKcBweAkbEyt9ERNhBkrAH-asP9tMsspt_ITcw0-A5ndnzxiTSq9u1lnYeRms6gqhBI2Xgixqnxc9ZFUfnUlOL_M3m0NA6_2C0Fo3QbqDxu8Mtzooqq4zkMdQ7nmHzhFE-Q3u3wGr1OuwXa9pO47DBp-qcSCrtIKO1oZUs7WpRl=s1600"
-"en_name": "Soft Light Purple"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "2783929580755273168"
-"postUrl": "https://the366days-ko.blogspot.com/2026/02/2-9-soft-light-purple.html"
+description: "오늘의 탄생색, 소프트 연보라. '감성적, 공감능력, 포용력'이라는 의미를 담고 있어요."
+en_name: "Soft Light Purple"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "2783929580755273168"
+postUrl: "https://the366days-ko.blogspot.com/2026/02/2-9-soft-light-purple.html"
 ---
 
 ## 2월 9일의 탄생색: 소프트 연보라 (`#AC79AE`)

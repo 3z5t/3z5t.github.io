@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEinrrVeXs5fiRWXKKUe32ygVa3Hquh9PwxtzWxNezgMneOchWIVF5gNosFW1jLJAdluqdWlnMcPlV-8D7LKx1u3qXxgv-ur52viJSpmOrswX09oXry54yBhb8-WMHcmhSL7QPtO5DZ1cHecwvcoqeynyRCrUy74_vxOBbIbt32jgOqPmUB94238bF451elj=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 15일, 오늘을 닮은 색: 문라이트 와인"
 date: "2026-07-15"
 updated: "2026-07-15"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "610928"
 description: "오늘의 탄생색, 문라이트 와인. '깊이있는, 신비로운, 고귀한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEinrrVeXs5fiRWXKKUe32ygVa3Hquh9PwxtzWxNezgMneOchWIVF5gNosFW1jLJAdluqdWlnMcPlV-8D7LKx1u3qXxgv-ur52viJSpmOrswX09oXry54yBhb8-WMHcmhSL7QPtO5DZ1cHecwvcoqeynyRCrUy74_vxOBbIbt32jgOqPmUB94238bF451elj=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Moonlight Wine"
 author: "하루의 조각"
 profileName: "하루의 조각"

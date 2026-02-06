@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgdWav3vdn9l7EvWY8tIuMUpYWUDk11WfO7JSZzqJ-pxGRy3gO2QrxBkaaStDUYN-CC7mRTfAUqzDHgkwvT5ffffodUUIUfL2bKpPWFHqgkTYDQ9rSTOTpewOI2pALZi94WbvOPsg2roq4OuoWJMxDvcSw8mvouuNPLnEwa0GkRU6pB3WnWUWqtWZrrYf6q=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "1월 1일, 오늘을 닮은 색: 스노우 화이트"
 date: 2026-01-01
 updated: 2026-01-01
@@ -11,10 +15,6 @@ tags:
   - f2f1f1
   - 1월
 description: 오늘의 탄생색, 스노우 화이트. '창조적, 순수함, 새로움'이라는 의미를 담고 있어요.
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgdWav3vdn9l7EvWY8tIuMUpYWUDk11WfO7JSZzqJ-pxGRy3gO2QrxBkaaStDUYN-CC7mRTfAUqzDHgkwvT5ffffodUUIUfL2bKpPWFHqgkTYDQ9rSTOTpewOI2pALZi94WbvOPsg2roq4OuoWJMxDvcSw8mvouuNPLnEwa0GkRU6pB3WnWUWqtWZrrYf6q=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: Snow White
 author: 하루의 조각
 profileName: 하루의 조각

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhbymsGWDyFJ19OtfcLzfRZQEifLoEuy66Y3Pf_Qv8Db-PwQa4GigogBYMrdLqunpeCfdSgkNyTyZAatrBzFIZkMh69Pa9ar7tvBnWgD7e2ZkRnq8RJ_IzJx2k8bf7d4x5GeR_cf4BpOGBCMvjPC2ZbIwssumgvz6G06G5nlpJibFoDe6P-0UmHfBZxEOnB=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 6일, 오늘을 닮은 색: 실버 앤틱"
 date: "2026-11-06"
 updated: "2026-11-06"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "c6c3c6"
 description: "오늘의 탄생색, 실버 앤틱. '고전적인, 품격있는, 가치있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhbymsGWDyFJ19OtfcLzfRZQEifLoEuy66Y3Pf_Qv8Db-PwQa4GigogBYMrdLqunpeCfdSgkNyTyZAatrBzFIZkMh69Pa9ar7tvBnWgD7e2ZkRnq8RJ_IzJx2k8bf7d4x5GeR_cf4BpOGBCMvjPC2ZbIwssumgvz6G06G5nlpJibFoDe6P-0UmHfBZxEOnB=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Silver Antique"
 author: "하루의 조각"
 profileName: "하루의 조각"

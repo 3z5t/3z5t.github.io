@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhfmRXn3o89rNp7z7LgipsKBs89BZsJ79fiIepQb7hGZ3ffngK5s1KpuZjg3DfwfihDZeywAyFRd1hi799PDa9vheLikjkWPJ_1VbAfra4Ls5M38pjCyram37fSS4MuyGSNaiOq0UCg0k9xal0tvBx8Ba4nPpqPYsHmXIjJptN4EXcgPgOn4x1kUy0u02uO=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "9월 25일, 오늘을 닮은 색: 새들 브라운"
 date: "2026-09-25"
 updated: "2026-09-25"
@@ -9,10 +13,6 @@ tags:
   - "9월"
   - "4a2f29"
 description: "오늘의 탄생색, 새들 브라운. '견고한, 안정된, 신뢰감있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhfmRXn3o89rNp7z7LgipsKBs89BZsJ79fiIepQb7hGZ3ffngK5s1KpuZjg3DfwfihDZeywAyFRd1hi799PDa9vheLikjkWPJ_1VbAfra4Ls5M38pjCyram37fSS4MuyGSNaiOq0UCg0k9xal0tvBx8Ba4nPpqPYsHmXIjJptN4EXcgPgOn4x1kUy0u02uO=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Saddle Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"

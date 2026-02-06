@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjRP7bGfSdWCny9kItBXEiYSFSRxaUg-oAQU6btBUa8A5xQwklPp3cuxP_Zo8bp_3iAuWtCtcg00s1LgUS_jfONcSz3vIZEzKcIWKwvWgw33lxyGBnNR5D9BfIdXqRy-yp9yXDy7NEJTT4duMz0NPO-EMsXgh6mGi49sYlmrfaZfztVzizaTHhKrxVJpS9f=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 19일, 오늘을 닮은 색: 매트 골드"
 date: "2026-06-19"
 updated: "2026-06-19"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "dd9330"
 description: "오늘의 탄생색, 매트 골드. '풍요로움, 안정감, 깊이감'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjRP7bGfSdWCny9kItBXEiYSFSRxaUg-oAQU6btBUa8A5xQwklPp3cuxP_Zo8bp_3iAuWtCtcg00s1LgUS_jfONcSz3vIZEzKcIWKwvWgw33lxyGBnNR5D9BfIdXqRy-yp9yXDy7NEJTT4duMz0NPO-EMsXgh6mGi49sYlmrfaZfztVzizaTHhKrxVJpS9f=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Matte Gold"
 author: "하루의 조각"
 profileName: "하루의 조각"

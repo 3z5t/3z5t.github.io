@@ -1,20 +1,23 @@
 ---
-"title": "2월 23일, 오늘을 닮은 색: 퓨어 크림슨"
-"date": "2026-02-23"
-"updated": "2026-02-23"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh6L0YawlJ-5nhdNNCi7ycfna6X_ez9hqjninI-7P5pR7rw_C8otYHDi8m5SNHkZ_FwWJn938sf1AWNHrufwhTKaGG0k5xuZNQ4DaXqATRRf2OHS0-aHmJ862Qfb7F0ge7Sz6CZlPdwNX8HBW-lbfYkPFAVhQzCIGfGzspsZ62nPKKZ6RDF0yvb5iSJRqLp=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 23일, 오늘을 닮은 색: 퓨어 크림슨"
+date: "2026-02-23"
+updated: "2026-02-23"
+tags:
 - "탄생색"
 - "퓨어 크림슨"
 - "2월 23일"
 - "2월"
 - "ba0046"
-"description": "오늘의 탄생색, 퓨어 크림슨. '진정성, 순수함, 열정'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEh6L0YawlJ-5nhdNNCi7ycfna6X_ez9hqjninI-7P5pR7rw_C8otYHDi8m5SNHkZ_FwWJn938sf1AWNHrufwhTKaGG0k5xuZNQ4DaXqATRRf2OHS0-aHmJ862Qfb7F0ge7Sz6CZlPdwNX8HBW-lbfYkPFAVhQzCIGfGzspsZ62nPKKZ6RDF0yvb5iSJRqLp=s1600"
-"en_name": "Pure Crimson"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "1744251441285896422"
-"postUrl": "https://the366days-ko.blogspot.com"
+description: "오늘의 탄생색, 퓨어 크림슨. '진정성, 순수함, 열정'이라는 의미를 담고 있어요."
+en_name: "Pure Crimson"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "1744251441285896422"
+postUrl: "https://the366days-ko.blogspot.com"
 ---
 
 ## 2월 23일의 탄생색: 퓨어 크림슨 (`#BA0046`)

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjyzexZLYVs776iTbkFYMCZG1CT1lucpPqWxkX06t0nCLp3B0ygHMC4IQILvFlGi29W0gzWCkigNI1DBM85KY3LebtzV2hSBEvHlwXSVn1CjkZmBZ-3qwodWOrCzBV-LQqZdH6kYYwgoYMKAODtZT03wE6bF6eKuikTN7bbwX59vBhB55PMcgVVWmFculgp=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 27일, 오늘을 닮은 색: 미디움 터콰이즈"
 date: "2026-07-27"
 updated: "2026-07-27"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "33cccc"
 description: "오늘의 탄생색, 미디움 터콰이즈. '깊이있는, 안정된, 평화로운'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjyzexZLYVs776iTbkFYMCZG1CT1lucpPqWxkX06t0nCLp3B0ygHMC4IQILvFlGi29W0gzWCkigNI1DBM85KY3LebtzV2hSBEvHlwXSVn1CjkZmBZ-3qwodWOrCzBV-LQqZdH6kYYwgoYMKAODtZT03wE6bF6eKuikTN7bbwX59vBhB55PMcgVVWmFculgp=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Medium Turquoise"
 author: "하루의 조각"
 profileName: "하루의 조각"

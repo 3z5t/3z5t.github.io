@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhLOODLIZSCbx340Sak3O81eQscoeFPpRQmfyjVHk88ypIbahsFqwca-VP2wN1picMerj-piTgNbm6Z5DFpgJ9JuUco-mIEvIkWVe2A9NzReRvCYx6xe4G4F5I5ag_ABRezkhP3w-Kg89hGpGGMpWCAOV-YopMJ5iM6gz7WsOXMsrSna8cvi1vO0boV1xJW=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 7일, 오늘을 닮은 색: 터콰이즈"
 date: "2026-04-07"
 updated: "2026-04-07"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "40e0d0"
 description: "오늘의 탄생색, 터콰이즈. '치유력, 회복력, 창조성'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhLOODLIZSCbx340Sak3O81eQscoeFPpRQmfyjVHk88ypIbahsFqwca-VP2wN1picMerj-piTgNbm6Z5DFpgJ9JuUco-mIEvIkWVe2A9NzReRvCYx6xe4G4F5I5ag_ABRezkhP3w-Kg89hGpGGMpWCAOV-YopMJ5iM6gz7WsOXMsrSna8cvi1vO0boV1xJW=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Turquoise"
 author: "하루의 조각"
 profileName: "하루의 조각"

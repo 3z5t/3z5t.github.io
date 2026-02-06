@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjWCNBj3u12OYhy0UQ7AqVRm-zMpRXMJ4OEXIhaT_wlV3tYssp9EtjX2Dxcw--PB_XQicQNh-YxNYkyeU1u2OcIFSQ20nVEs1M_0HVAIwIuqU-b5B_bl7pq2sE5LRZbzcTycRCeZYuqGDoskxRcxH3KraybE2dhjw7Kyh0907E5Gn6SWavQ2rn6B-Dj9-rO=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 14일, 오늘을 닮은 색: 푸크시아"
 date: "2026-07-14"
 updated: "2026-07-14"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "cc33cc"
 description: "오늘의 탄생색, 푸크시아. '매력있는, 화려한, 독특한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjWCNBj3u12OYhy0UQ7AqVRm-zMpRXMJ4OEXIhaT_wlV3tYssp9EtjX2Dxcw--PB_XQicQNh-YxNYkyeU1u2OcIFSQ20nVEs1M_0HVAIwIuqU-b5B_bl7pq2sE5LRZbzcTycRCeZYuqGDoskxRcxH3KraybE2dhjw7Kyh0907E5Gn6SWavQ2rn6B-Dj9-rO=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Fuchsia"
 author: "하루의 조각"
 profileName: "하루의 조각"

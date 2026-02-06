@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhOWSC1SAYeFZoCt45jiU_aHFFdcEsJaI79Npf6ViwZYo2uFDRpSQ1w4u3vJcboKxf4m_V_9eHGLuV96yWAixEJAi2PR81q-IU2d_-sWumR9qk632LFuLxcRmUpWBHpOnG4sHYlT7mrrWKIWCimAT0IhoyO-SsJNlUgNeOsxAR1-60d23DpboIKpHxL2scr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 2일, 오늘을 닮은 색: 골든 스타"
 date: "2026-05-02"
 updated: "2026-05-02"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "e5a859"
 description: "오늘의 탄생색, 골든 스타. '성취력, 빛나는, 영향력'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhOWSC1SAYeFZoCt45jiU_aHFFdcEsJaI79Npf6ViwZYo2uFDRpSQ1w4u3vJcboKxf4m_V_9eHGLuV96yWAixEJAi2PR81q-IU2d_-sWumR9qk632LFuLxcRmUpWBHpOnG4sHYlT7mrrWKIWCimAT0IhoyO-SsJNlUgNeOsxAR1-60d23DpboIKpHxL2scr=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Golden Star"
 author: "하루의 조각"
 profileName: "하루의 조각"

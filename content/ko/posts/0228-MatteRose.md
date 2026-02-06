@@ -1,20 +1,23 @@
 ---
-"title": "2월 28일, 오늘을 닮은 색: 매트 로즈"
-"date": "2026-02-28"
-"updated": "2026-02-28"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiP3dqnkGtAz4Uic1eJhv5hZnIa0Etr90Pg1wA6InDANRq66_bI8_igYnVEmTEdRH-Yb8fYH_s6BHd9CzCpJIyzP7V4VTrsTU2bqSYOUZ5Yd73aGYOm3PCjPrFftDHMCixNSVK55iJO6leN6ufD3O7mk1tkv_dierZV2uFvZWZL-rC9FxB8-_8l8bF96UX1=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 28일, 오늘을 닮은 색: 매트 로즈"
+date: "2026-02-28"
+updated: "2026-02-28"
+tags:
 - "탄생색"
 - "매트 로즈"
 - "2월 28일"
 - "2월"
 - "ae675f"
-"description": "오늘의 탄생색, 매트 로즈. '안정감, 성숙함, 신뢰성'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEiP3dqnkGtAz4Uic1eJhv5hZnIa0Etr90Pg1wA6InDANRq66_bI8_igYnVEmTEdRH-Yb8fYH_s6BHd9CzCpJIyzP7V4VTrsTU2bqSYOUZ5Yd73aGYOm3PCjPrFftDHMCixNSVK55iJO6leN6ufD3O7mk1tkv_dierZV2uFvZWZL-rC9FxB8-_8l8bF96UX1=s1600"
-"en_name": "Matte Rose"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "8767073867983507290"
-"postUrl": "https://the366days-ko.blogspot.com"
+description: "오늘의 탄생색, 매트 로즈. '안정감, 성숙함, 신뢰성'이라는 의미를 담고 있어요."
+en_name: "Matte Rose"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "8767073867983507290"
+postUrl: "https://the366days-ko.blogspot.com"
 ---
 
 ## 2월 28일의 탄생색: 매트 로즈 (`#AE675F`)

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjnhvVUWwUaPok1yfhrPp4YRhL9_t-HAv_4z42SnvCLJuGltTMZi1SwqUla-aR6L9iTS145dIfQpC9TeaMeirakHb0szoozRqLuGS3WGGPmfPHJapKn5FvXQ_9mL9aNW0HiE43dFWf3Aw4Aee1z8O0tkc7O2KgKuuKhwP96y7ejAAQE3XXYAVH20B4zfsvH=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "1월 21일, 오늘을 닮은 색: 맑은 하늘"
 date: 2026-01-21
 updated: 2026-01-21
@@ -11,10 +15,6 @@ tags:
   - 99dbe9
   - 1월
 description: 오늘의 탄생색, 맑은 하늘. '이상주의, 꿈꾸는, 낭만적'이라는 의미를 담고 있어요.
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjnhvVUWwUaPok1yfhrPp4YRhL9_t-HAv_4z42SnvCLJuGltTMZi1SwqUla-aR6L9iTS145dIfQpC9TeaMeirakHb0szoozRqLuGS3WGGPmfPHJapKn5FvXQ_9mL9aNW0HiE43dFWf3Aw4Aee1z8O0tkc7O2KgKuuKhwP96y7ejAAQE3XXYAVH20B4zfsvH=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: Clear Sky
 author: 하루의 조각
 profileName: 하루의 조각

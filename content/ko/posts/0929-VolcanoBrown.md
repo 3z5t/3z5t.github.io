@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi_yIL4uEhYMggSYE5C63q4M9YEuEzwOHE0R5UnI1jw3AK062rDSsp1WbkfP4EHQ5FHctuZswXWEYqjApsvfO0LsPUVcnIaoBXU9a5i9gaxvs8isuUUf80-hT-HsV5HLKX9wEp9vq0qwC2LSDNCBJSvA3eOGa2KmyxG34sMaIGMWml9UlbdrgUf7gB_kMjP=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "9월 29일, 오늘을 닮은 색: 볼케이노 브라운"
 date: "2026-09-29"
 updated: "2026-09-29"
@@ -9,10 +13,6 @@ tags:
   - "9월"
   - "675853"
 description: "오늘의 탄생색, 볼케이노 브라운. '강인한의지, 단단한마음, 결단력있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi_yIL4uEhYMggSYE5C63q4M9YEuEzwOHE0R5UnI1jw3AK062rDSsp1WbkfP4EHQ5FHctuZswXWEYqjApsvfO0LsPUVcnIaoBXU9a5i9gaxvs8isuUUf80-hT-HsV5HLKX9wEp9vq0qwC2LSDNCBJSvA3eOGa2KmyxG34sMaIGMWml9UlbdrgUf7gB_kMjP=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Volcano Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhq5TEcDqjlxhkVdPVJm6jHGIqIMtJyUKsNo3ql4ucYCPnZHVuRAJI3LBtkF79tcFwtpiz4I_bDOmj9ThDbKT02zjFt3bLIx2MmWaoD6fipgW_YEThYCTApSH6-CUZI5hW5flmpCJaWw2SNfX7pOLdi8tXFSsaHKQcYiaJsMayZKjB_kHtaJM6VpRYKw1pE=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "7월 3일, 오늘을 닮은 색: 라이트 코랄"
 date: "2026-07-03"
 updated: "2026-07-03"
@@ -9,10 +13,6 @@ tags:
   - "7월"
   - "f19292"
 description: "오늘의 탄생색, 라이트 코랄. '부드러운마음, 상냥함, 온화함'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhq5TEcDqjlxhkVdPVJm6jHGIqIMtJyUKsNo3ql4ucYCPnZHVuRAJI3LBtkF79tcFwtpiz4I_bDOmj9ThDbKT02zjFt3bLIx2MmWaoD6fipgW_YEThYCTApSH6-CUZI5hW5flmpCJaWw2SNfX7pOLdi8tXFSsaHKQcYiaJsMayZKjB_kHtaJM6VpRYKw1pE=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Light Coral"
 author: "하루의 조각"
 profileName: "하루의 조각"

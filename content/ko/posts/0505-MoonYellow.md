@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhwqTg3WZnKpPI9f_8TZhwNsET5M5WCMLTDV3Suo4yNNmUlN_XzqF4dv0vxzkf72BsoHjF1H4jGq8bVR_B8Hjyl-ki1PX60pOYiyTJSY0njXNpTngrlTBQ28IbEehxs_1o0ZPF4DIiUe09B3WQ2OD1Q5bf5jbSUv7d5fVcukVrUgcYokkujHvFcksbhkfID=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 5일, 오늘을 닮은 색: 문 옐로우"
 date: "2026-05-05"
 updated: "2026-05-05"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "feb721"
 description: "오늘의 탄생색, 문 옐로우. '밝은마음, 순수함, 창의성'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhwqTg3WZnKpPI9f_8TZhwNsET5M5WCMLTDV3Suo4yNNmUlN_XzqF4dv0vxzkf72BsoHjF1H4jGq8bVR_B8Hjyl-ki1PX60pOYiyTJSY0njXNpTngrlTBQ28IbEehxs_1o0ZPF4DIiUe09B3WQ2OD1Q5bf5jbSUv7d5fVcukVrUgcYokkujHvFcksbhkfID=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Moon Yellow"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjsh8eep-DeNhIUAG10Sx8V9GzExUVD86oXJs_uieIronOwESulde3y4nAXxnUznbdGUIwI-wZYBkK6bnQIyrkKLlOvZy09v3Phqlp0hoP6A7lWpGFduknWVYlH7iTGLprzyzPK7xlICESK5YcpzKaM1s8_l_Yr4OpuUu_i-Wb3ExG-G-31j1eNe2oX_F7k=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "3월 28일, 오늘을 닮은 색: 포그 핑크"
 date: "2026-03-28"
 updated: "2026-03-28"
@@ -9,10 +13,6 @@ tags:
   - "3월"
   - "e0cece"
 description: "오늘의 탄생색, 포그 핑크. '부드러움, 은은함, 신비로움'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjsh8eep-DeNhIUAG10Sx8V9GzExUVD86oXJs_uieIronOwESulde3y4nAXxnUznbdGUIwI-wZYBkK6bnQIyrkKLlOvZy09v3Phqlp0hoP6A7lWpGFduknWVYlH7iTGLprzyzPK7xlICESK5YcpzKaM1s8_l_Yr4OpuUu_i-Wb3ExG-G-31j1eNe2oX_F7k=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Fog Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"

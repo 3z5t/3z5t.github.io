@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi_g5JUnctp7DUMKeaYaIrqa3U5_cPdmRh4H73MUs99rLxDcF2ULQa5EATJ19fQ1m_tEZey9vu4kwznBGz7KuQvYhgc59E_Ja-N1619d74p3ol6n2758YeR61wNFO5ErHBHnEa9mNxdmY1RqeDqndjC6Qi4-uj5s_-HgRdITjtu3GYBLJnNZSLD5C9Zq5vA=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "8월 1일, 오늘을 닮은 색: 살몬"
 date: "2026-08-01"
 updated: "2026-08-01"
@@ -9,10 +13,6 @@ tags:
   - "8월"
   - "fa8072"
 description: "오늘의 탄생색, 살몬. '활기찬성격, 생동감, 긍정적'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEi_g5JUnctp7DUMKeaYaIrqa3U5_cPdmRh4H73MUs99rLxDcF2ULQa5EATJ19fQ1m_tEZey9vu4kwznBGz7KuQvYhgc59E_Ja-N1619d74p3ol6n2758YeR61wNFO5ErHBHnEa9mNxdmY1RqeDqndjC6Qi4-uj5s_-HgRdITjtu3GYBLJnNZSLD5C9Zq5vA=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Salmon"
 author: "하루의 조각"
 profileName: "하루의 조각"

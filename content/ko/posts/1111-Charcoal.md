@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhjtmvd6XvE7wkZ7ay2q2yVKkDRokxhlKEfbBV3aEm5Mai_hmQsQ4YzrkG_1k_eonzxmVM91hKddrwSQcH8cgawG3rKepVzU3L3nyTPxzah5xdt_qLJ8ukH2HEMJs3hoVmGlPxI6B7Begxqk9UvCqx7QFYJ-N1gnJRdONCWpf-REzQVShZMswy1r3it4kDw=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "11월 11일, 오늘을 닮은 색: 차콜"
 date: "2026-11-11"
 updated: "2026-11-11"
@@ -9,10 +13,6 @@ tags:
   - "11월"
   - "373f57"
 description: "오늘의 탄생색, 차콜. '통찰력있는, 지혜로운, 깊이있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhjtmvd6XvE7wkZ7ay2q2yVKkDRokxhlKEfbBV3aEm5Mai_hmQsQ4YzrkG_1k_eonzxmVM91hKddrwSQcH8cgawG3rKepVzU3L3nyTPxzah5xdt_qLJ8ukH2HEMJs3hoVmGlPxI6B7Begxqk9UvCqx7QFYJ-N1gnJRdONCWpf-REzQVShZMswy1r3it4kDw=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Charcoal"
 author: "하루의 조각"
 profileName: "하루의 조각"

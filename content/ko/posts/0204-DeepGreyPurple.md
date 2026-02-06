@@ -1,20 +1,23 @@
 ---
-"title": "2월 4일, 오늘을 닮은 색: 딥 그레이퍼플"
-"date": "2026-02-04"
-"updated": "2026-02-04"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhnPScPGvUu_XWGVpTLxtuveUw-rPBlnJiMfLd91D8ZNkNFLmQX1Sc-0ECQzFlcZPfhULriR-1SnNGstJ1JO3Rcyac-GA3PFp317lz5fc2FBUT1DW172x_ZONSSojo2tj4bxuUHIz8bUN4TekzBoyKBJMyFxUfrlBcF_KgV16mtI1f28yk1YdW1FAqz10nH=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 4일, 오늘을 닮은 색: 딥 그레이퍼플"
+date: "2026-02-04"
+updated: "2026-02-04"
+tags:
 - "탄생색"
 - "딥 그레이퍼플"
 - "2월 4일"
 - "2월"
 - "524782"
-"description": "오늘의 탄생색, 딥 그레이퍼플. '통찰력, 사색적, 지혜로움'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhnPScPGvUu_XWGVpTLxtuveUw-rPBlnJiMfLd91D8ZNkNFLmQX1Sc-0ECQzFlcZPfhULriR-1SnNGstJ1JO3Rcyac-GA3PFp317lz5fc2FBUT1DW172x_ZONSSojo2tj4bxuUHIz8bUN4TekzBoyKBJMyFxUfrlBcF_KgV16mtI1f28yk1YdW1FAqz10nH=s1600"
-"en_name": "Deep Grey Purple"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "3389036020376632932"
-"postUrl": "https://the366days-ko.blogspot.com/2026/02/2-4-deep-grey-purple.html"
+description: "오늘의 탄생색, 딥 그레이퍼플. '통찰력, 사색적, 지혜로움'이라는 의미를 담고 있어요."
+en_name: "Deep Grey Purple"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "3389036020376632932"
+postUrl: "https://the366days-ko.blogspot.com/2026/02/2-4-deep-grey-purple.html"
 ---
 
 ## 2월 4일의 탄생색: 딥 그레이퍼플 (`#524782`)

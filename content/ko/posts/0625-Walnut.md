@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhdIBFN2WAvWBVILjvE6WuzKA_pic-2951iKCXyYZ_8GZdXJWVgb1xciwS0eEkryvjJPlteLZ2POa-NJj3jVgk74GKM_S_3q3q7qGxI1WHSwsds7KQfoTt4IH-A2u_IEkSDH1z-WJvpiYW96zB-xGWzfHTLirql2gRo_oemiJq2IL6f4_OvWrUON_51-i1y=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "6월 25일, 오늘을 닮은 색: 호두"
 date: "2026-06-25"
 updated: "2026-06-25"
@@ -9,10 +13,6 @@ tags:
   - "6월"
   - "a49376"
 description: "오늘의 탄생색, 호두. '성숙한, 지혜로운, 안정된'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhdIBFN2WAvWBVILjvE6WuzKA_pic-2951iKCXyYZ_8GZdXJWVgb1xciwS0eEkryvjJPlteLZ2POa-NJj3jVgk74GKM_S_3q3q7qGxI1WHSwsds7KQfoTt4IH-A2u_IEkSDH1z-WJvpiYW96zB-xGWzfHTLirql2gRo_oemiJq2IL6f4_OvWrUON_51-i1y=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Walnut"
 author: "하루의 조각"
 profileName: "하루의 조각"

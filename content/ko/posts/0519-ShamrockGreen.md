@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgvzq0Wd7rAsIoBWFwiDj5QW4YNPKy0rMidGAW5XPPaFM704fLCdIGBir7STWs1GZTY4nHUyPlOPDWSQbjShkOy6AKbI0WyPKxK-O5qWYy_SwxYC6VmR0_cgdssBOYpaoJA3CXjjUw7FrlB9rackr45DT4n8D-KVzjodUFeFPTJ_raiSAxOG5va5bui03Ph=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 19일, 오늘을 닮은 색: 샴록 그린"
 date: "2026-05-19"
 updated: "2026-05-19"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "009966"
 description: "오늘의 탄생색, 샴록 그린. '성공운, 행운, 번영'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgvzq0Wd7rAsIoBWFwiDj5QW4YNPKy0rMidGAW5XPPaFM704fLCdIGBir7STWs1GZTY4nHUyPlOPDWSQbjShkOy6AKbI0WyPKxK-O5qWYy_SwxYC6VmR0_cgdssBOYpaoJA3CXjjUw7FrlB9rackr45DT4n8D-KVzjodUFeFPTJ_raiSAxOG5va5bui03Ph=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Shamrock Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

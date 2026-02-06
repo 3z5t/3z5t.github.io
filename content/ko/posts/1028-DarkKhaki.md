@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiwnXGrzwZY2U_FBjnjtpiEmsiZJZd5I4Sn51rgVQ6Nydiq7TGLlEMhv3w-b7KeQ7KA0GHB8BPcTNd15Bc7M_jcKC-YfEF9xg7nOirGVeE715fdxjFAmDEhaRxfW424e8fH-dfg37gRINmKn_Dew7sH0QQc3f0ENvfHLBLfFNLLGxK_b2spro-wngTV8_aO=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 28일, 오늘을 닮은 색: 다크 카키"
 date: "2026-10-28"
 updated: "2026-10-28"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "bdb76b"
 description: "오늘의 탄생색, 다크 카키. '대지같은, 안정된, 평화로운'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEiwnXGrzwZY2U_FBjnjtpiEmsiZJZd5I4Sn51rgVQ6Nydiq7TGLlEMhv3w-b7KeQ7KA0GHB8BPcTNd15Bc7M_jcKC-YfEF9xg7nOirGVeE715fdxjFAmDEhaRxfW424e8fH-dfg37gRINmKn_Dew7sH0QQc3f0ENvfHLBLfFNLLGxK_b2spro-wngTV8_aO=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Dark Khaki"
 author: "하루의 조각"
 profileName: "하루의 조각"

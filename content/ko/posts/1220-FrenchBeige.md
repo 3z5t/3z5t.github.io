@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgtV9hxzsDYc0Wctj5VNfIP2gm8nxJVBUx4FxIGgkt6g9BAEYQB9_VbUAuOAm7nKmEO3yQam8XuFTMwm5KrrLy0f61qg5AZBcp1DWg0ZmaYI86EngIaNfagp62UuUB0SB0BzKrmR7Kh65fHHv1XQI31C3ETox_4eTQV4cAVbi1URoLZpI8x2Jrf9BDq55kZ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "12월 20일, 오늘을 닮은 색: 프렌치 베이지"
 date: "2026-12-20"
 updated: "2026-12-20"
@@ -9,10 +13,6 @@ tags:
   - "12월"
   - "d6a680"
 description: "오늘의 탄생색, 프렌치 베이지. '따뜻한품성, 포근한, 정감있는'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgtV9hxzsDYc0Wctj5VNfIP2gm8nxJVBUx4FxIGgkt6g9BAEYQB9_VbUAuOAm7nKmEO3yQam8XuFTMwm5KrrLy0f61qg5AZBcp1DWg0ZmaYI86EngIaNfagp62UuUB0SB0BzKrmR7Kh65fHHv1XQI31C3ETox_4eTQV4cAVbi1URoLZpI8x2Jrf9BDq55kZ=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "French Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"

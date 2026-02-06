@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjWmM7osavG1v4JO5RkSrA7Fe9pPp4gw8xZCIqo3JsQgdpsGXTIwNgnd6Y3Fxpgm0zBa9iU54rv6qOOCkKh7XLzogzSm3JPlqglj_PbPkl_EOgMkFotrKfAbB11lK8jGvLLVqrJea8-QlEureRHrmeowX93Oq2OXsJ6D-BYg25tYd6RlT4RQrwgtjd4RjlT=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "10월 20일, 오늘을 닮은 색: 황토"
 date: "2026-10-20"
 updated: "2026-10-20"
@@ -9,10 +13,6 @@ tags:
   - "10월"
   - "b28e58"
 description: "오늘의 탄생색, 황토. '풍요로운, 감사할줄아는, 넉넉한'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEjWmM7osavG1v4JO5RkSrA7Fe9pPp4gw8xZCIqo3JsQgdpsGXTIwNgnd6Y3Fxpgm0zBa9iU54rv6qOOCkKh7XLzogzSm3JPlqglj_PbPkl_EOgMkFotrKfAbB11lK8jGvLLVqrJea8-QlEureRHrmeowX93Oq2OXsJ6D-BYg25tYd6RlT4RQrwgtjd4RjlT=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Yellow Ochre"
 author: "하루의 조각"
 profileName: "하루의 조각"

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg2f_dWJyUvlMRFLGTkaBrEXEdpH_K7KaLQkhovculLyY30y5IhPxccFuCmWKFMg3Qeg7oiWEI5qKuXYmz7PrBlIV68mGvGTrmGL7vDJkzPblebbuNntetynwYO9E1GuGYDmpeGAdIRsTKTBijER1tIRxCq5YBfgRK48JkNwYfkrnLFkZo4hQl8WSzXQZRA=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 4일, 오늘을 닮은 색: 앤티크 골드"
 date: "2026-05-04"
 updated: "2026-05-04"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "cfb53b"
 description: "오늘의 탄생색, 앤티크 골드. '지혜로움, 경험치, 통찰력'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEg2f_dWJyUvlMRFLGTkaBrEXEdpH_K7KaLQkhovculLyY30y5IhPxccFuCmWKFMg3Qeg7oiWEI5qKuXYmz7PrBlIV68mGvGTrmGL7vDJkzPblebbuNntetynwYO9E1GuGYDmpeGAdIRsTKTBijER1tIRxCq5YBfgRK48JkNwYfkrnLFkZo4hQl8WSzXQZRA=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Antique Gold"
 author: "하루의 조각"
 profileName: "하루의 조각"

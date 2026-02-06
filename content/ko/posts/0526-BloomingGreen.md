@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj_yoe0HGH5EhaaktqkSh-zX9pJaz0q5mNTVJCmMpYIplzlBzvCdvVvjsmb1AF5DkC7YJ88Qpl8gLQ-iatf8kGYMltuhRs-tUEBUgD18CveQO4pvHZG1GsV75o0KUP9gEFRnUE0SdL1_qf0TW--SzJQ-RD8cZfemnnSJxEBnNJLi2MC9KIaJnn9erXAjuIZ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "5월 26일, 오늘을 닮은 색: 블루밍 그린"
 date: "2026-05-26"
 updated: "2026-05-26"
@@ -9,10 +13,6 @@ tags:
   - "5월"
   - "336666"
 description: "오늘의 탄생색, 블루밍 그린. '성장력, 번영, 풍요로움'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEj_yoe0HGH5EhaaktqkSh-zX9pJaz0q5mNTVJCmMpYIplzlBzvCdvVvjsmb1AF5DkC7YJ88Qpl8gLQ-iatf8kGYMltuhRs-tUEBUgD18CveQO4pvHZG1GsV75o0KUP9gEFRnUE0SdL1_qf0TW--SzJQ-RD8cZfemnnSJxEBnNJLi2MC9KIaJnn9erXAjuIZ=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Blooming Green"
 author: "하루의 조각"
 profileName: "하루의 조각"

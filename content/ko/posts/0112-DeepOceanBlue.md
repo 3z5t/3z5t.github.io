@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhzStk0v8D0giUVcyVo2lAms2RsGcnA07ihm0H2bQ-po2BD_OCuE-iAdjrq1WKERAPZtt8rjZKg7oBEj7tV3BfZU5NKYLrpYmM-I8wOfE04oh5fjBdbIz6lmygLtHCRo3wnBliNmSdkdEo20SGQ0ZIpZqOWdYkOXYvAl_uQIFjY-8In7VBH9OTKyfKrzEMb=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "1월 12일, 오늘을 닮은 색: 심해의 푸른빛"
 date: 2026-01-12
 updated: 2026-01-12
@@ -11,10 +15,6 @@ tags:
   - 465c83
   - 1월
 description: 오늘의 탄생색, 심해의 푸른빛. '포용력, 관용, 넓은마음'이라는 의미를 담고 있어요.
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEhzStk0v8D0giUVcyVo2lAms2RsGcnA07ihm0H2bQ-po2BD_OCuE-iAdjrq1WKERAPZtt8rjZKg7oBEj7tV3BfZU5NKYLrpYmM-I8wOfE04oh5fjBdbIz6lmygLtHCRo3wnBliNmSdkdEo20SGQ0ZIpZqOWdYkOXYvAl_uQIFjY-8In7VBH9OTKyfKrzEMb=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: Deep Ocean Blue
 author: 하루의 조각
 profileName: 하루의 조각

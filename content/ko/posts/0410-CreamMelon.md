@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh1Lper5Mc8U8PaXlYWyoUTt8HVaHwBjPCbEifXe7Rn5phfzVPD_5QsexMVJU58EaPTmACoUKisoLvlhM19akz4UK29KkrcRL2BL9QIMyTpMbCsW-45LECZGbyFADDkOb1mkNk384-aORmtxmiY7i-MbhCMcT5Q_UGJfPdCgPZHasunHRSk_cK6rn4Eh9WD=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 10일, 오늘을 닮은 색: 크림 멜론"
 date: "2026-04-10"
 updated: "2026-04-10"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "dcf8e4"
 description: "오늘의 탄생색, 크림 멜론. '부드러움, 온화함, 상쾌함'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEh1Lper5Mc8U8PaXlYWyoUTt8HVaHwBjPCbEifXe7Rn5phfzVPD_5QsexMVJU58EaPTmACoUKisoLvlhM19akz4UK29KkrcRL2BL9QIMyTpMbCsW-45LECZGbyFADDkOb1mkNk384-aORmtxmiY7i-MbhCMcT5Q_UGJfPdCgPZHasunHRSk_cK6rn4Eh9WD=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Cream Melon"
 author: "하루의 조각"
 profileName: "하루의 조각"

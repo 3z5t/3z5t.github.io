@@ -1,20 +1,23 @@
 ---
-"title": "2월 13일, 오늘을 닮은 색: 페일 마젠타"
-"date": "2026-02-13"
-"updated": "2026-02-13"
-"labels":
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjHEpzokHv-GK_Ef6Dyce4qfRNruJV3NUJAUfAJzinEKYHeDZRW8YiznnWl5KaHta47MqZtDnTOCwEMF9jnmsLosdbAVB4_S_qDLBfLmWdAq2L_FWtCDLLBB_PVbeWQA_Bt2fMeZoh68ZrUyDFrC9Bb8NzAKCJ5usQqHVOdhZ-SpUN9uceH3RbCw9ndOI57=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "2월 13일, 오늘을 닮은 색: 페일 마젠타"
+date: "2026-02-13"
+updated: "2026-02-13"
+tags:
 - "탄생색"
 - "페일 마젠타"
 - "2월 13일"
 - "2월"
 - "61368d"
-"description": "오늘의 탄생색, 페일 마젠타. '낭만적, 감성적, 예술성'이라는 의미를 담고 있어요."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjHEpzokHv-GK_Ef6Dyce4qfRNruJV3NUJAUfAJzinEKYHeDZRW8YiznnWl5KaHta47MqZtDnTOCwEMF9jnmsLosdbAVB4_S_qDLBfLmWdAq2L_FWtCDLLBB_PVbeWQA_Bt2fMeZoh68ZrUyDFrC9Bb8NzAKCJ5usQqHVOdhZ-SpUN9uceH3RbCw9ndOI57=s1600"
-"en_name": "Pale Magenta"
-"author": "하루의 조각"
-"profileName": "하루의 조각"
-"postId": "462722384260453177"
-"postUrl": "https://the366days-ko.blogspot.com/2026/02/2-13-pale-magenta.html"
+description: "오늘의 탄생색, 페일 마젠타. '낭만적, 감성적, 예술성'이라는 의미를 담고 있어요."
+en_name: "Pale Magenta"
+author: "하루의 조각"
+profileName: "하루의 조각"
+postId: "462722384260453177"
+postUrl: "https://the366days-ko.blogspot.com/2026/02/2-13-pale-magenta.html"
 ---
 
 ## 2월 13일의 탄생색: 페일 마젠타 (`#61368D`)

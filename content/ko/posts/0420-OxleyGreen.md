@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgDMNDdSsA5xIgFdwGvgF_PsQ-eCzF-QvecgyuIJS8BuYiFoiw6dvlUlWJlZa5HoGbW0vafE_4A-Afj-eMCwdAC9DhCfOFulc8OTgYFHrV59xUEYBbRVSSTEUQ7aqfNEGmKAsAk9kLupvkg9eGAqhBOFPW1zdKxmPWfr7pi38axcd0J2x75p5dmNbEcWbWI=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "4월 20일, 오늘을 닮은 색: 옥슬리 그린"
 date: "2026-04-20"
 updated: "2026-04-20"
@@ -9,10 +13,6 @@ tags:
   - "4월"
   - "669966"
 description: "오늘의 탄생색, 옥슬리 그린. '안정감, 성숙함, 평화로움'이라는 의미를 담고 있어요."
-cover:
-  image: "https://blogger.googleusercontent.com/img/a/AVvXsEgDMNDdSsA5xIgFdwGvgF_PsQ-eCzF-QvecgyuIJS8BuYiFoiw6dvlUlWJlZa5HoGbW0vafE_4A-Afj-eMCwdAC9DhCfOFulc8OTgYFHrV59xUEYBbRVSSTEUQ7aqfNEGmKAsAk9kLupvkg9eGAqhBOFPW1zdKxmPWfr7pi38axcd0J2x75p5dmNbEcWbWI=s1600"
-  alt: "오늘의 색"
-  relative: false
 en_name: "Oxley Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
