@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 딸기우유. '달콤함, 행복감, 즐거�
 en_name: "Strawberry Milk"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 19일의 탄생색: 딸기우유 (`#FF81D3`)
 

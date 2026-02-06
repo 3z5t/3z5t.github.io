@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 미드나잇 네이비. '신비로운, 깊이
 en_name: "Midnight Navy"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 21일의 탄생색: 미드나잇 네이비 (`#000033`)
 

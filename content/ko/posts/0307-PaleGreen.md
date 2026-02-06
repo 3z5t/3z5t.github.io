@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 페일 그린. '섬세함, 온화함, 조화�
 en_name: "Pale Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 7일의 탄생색: 페일 그린 (`#98FB98`)
 

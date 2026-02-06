@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 비비드 레드. '축제를즐기는, 기쁨
 en_name: "Vivid Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 5일의 탄생색: 비비드 레드 (`#D93232`)
 

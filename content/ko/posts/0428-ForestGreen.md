@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 숲 그린. '자연친화, 생명력, 평화�
 en_name: "Forest Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 28일의 탄생색: 숲 그린 (`#228B22`)
 

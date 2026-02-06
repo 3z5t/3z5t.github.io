@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 딥 오렌지. '열정적, 도전적, 창의�
 en_name: "Deep Orange"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 17일의 탄생색: 딥 오렌지 (`#FD731C`)
 

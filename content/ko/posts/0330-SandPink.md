@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 샌드 핑크. '따뜻함, 포용력, 온화�
 en_name: "Sand Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 30일의 탄생색: 샌드 핑크 (`#F5C4AC`)
 

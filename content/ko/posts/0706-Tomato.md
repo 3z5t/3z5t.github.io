@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 토마토. '건강한정신, 신선함, 활�
 en_name: "Tomato"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 6일의 탄생색: 토마토 (`#FF6347`)
 

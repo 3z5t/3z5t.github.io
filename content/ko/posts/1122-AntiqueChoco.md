@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 앤티크 초코. '깊이있는, 성숙한, �
 en_name: "Antique Choco"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 22일의 탄생색: 앤티크 초코 (`#1F070C`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 로얄 베이지. '고귀한품성, 우아함
 en_name: "Royal Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 18일의 탄생색: 로얄 베이지 (`#AB9170`)
 

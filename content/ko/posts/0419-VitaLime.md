@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 비타 라임. '도전정신, 활력적, 열�
 en_name: "Vita Lime"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 19일의 탄생색: 비타 라임 (`#D1D734`)
 

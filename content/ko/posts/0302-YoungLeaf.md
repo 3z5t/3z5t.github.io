@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 어린 잎. '성장력, 가능성, 새로움'
 en_name: "Young Leaf"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 2일의 탄생색: 어린 잎 (`#93AC8B`)
 

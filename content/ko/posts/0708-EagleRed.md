@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 이글 레드. '용기있는, 도전적, 선�
 en_name: "Eagle Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 8일의 탄생색: 이글 레드 (`#FF2D2D`)
 

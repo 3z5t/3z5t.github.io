@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 노블 스카이블루. '깨끗한마음, 희
 en_name: "Noble Sky Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 18일의 탄생색: 노블 스카이블루 (`#1FBEE3`)
 

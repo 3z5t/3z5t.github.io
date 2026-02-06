@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 라이트 살몬. '밝은마음, 상큼함, �
 en_name: "Light Salmon"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 2일의 탄생색: 라이트 살몬 (`#FFA07A`)
 

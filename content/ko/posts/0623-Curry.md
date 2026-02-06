@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 카레. '활력있는, 에너지풍부, 창�
 en_name: "Curry"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 23일의 탄생색: 카레 (`#D6A620`)
 

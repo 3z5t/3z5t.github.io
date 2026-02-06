@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 살구. '부드러움, 풍요로움, 성숙�
 en_name: "Apricot"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 7일의 탄생색: 살구 (`#EA9E71`)
 

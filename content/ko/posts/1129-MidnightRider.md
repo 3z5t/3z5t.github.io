@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 미드나잇 라이더. '결단력있는, 의
 en_name: "Midnight Rider"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 29일의 탄생색: 미드나잇 라이더 (`#333333`)
 

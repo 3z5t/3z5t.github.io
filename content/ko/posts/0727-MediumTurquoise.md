@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 미디움 터콰이즈. '깊이있는, 안정
 en_name: "Medium Turquoise"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 27일의 탄생색: 미디움 터콰이즈 (`#33CCCC`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 아이리쉬 핑크. '생기발랄, 활력적
 en_name: "Irish Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 26일의 탄생색: 아이리쉬 핑크 (`#DFAEA7`)
 

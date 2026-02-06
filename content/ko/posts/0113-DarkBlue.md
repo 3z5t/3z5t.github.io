@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "1월 13일, 오늘을 닮은 색: 다크 블루"
-date: 2026-01-13
-updated: 2026-01-13
+date: "2026-01-13"
+updated: "2026-01-13"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 다크 블루
-  - 1월 13일
-  - 00008b
-  - 1월
-description: 오늘의 탄생색, 다크 블루. '통찰력, 사색적, 지혜로움'이라는 의미를 담고 있어요.
-en_name: Dark Blue
-author: 하루의 조각
-profileName: 하루의 조각
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "다크 블루"
+  - "1월 13일"
+  - "00008b"
+  - "1월"
+description: "오늘의 탄생색, 다크 블루. '통찰력, 사색적, 지혜로움'이라는 의미를 담고 있어요."
+en_name: "Dark Blue"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "5575116832046658194"
 postUrl: ""
 ---

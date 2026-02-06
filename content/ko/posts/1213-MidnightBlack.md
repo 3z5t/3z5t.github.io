@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 미드나잇 블랙. '심오한영혼, 명상
 en_name: "Midnight Black"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 13일의 탄생색: 미드나잇 블랙 (`#141618`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 노블 아이보리. '고귀한영혼, 우아
 en_name: "Noble Ivory"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 11일의 탄생색: 노블 아이보리 (`#F4EBE7`)
 

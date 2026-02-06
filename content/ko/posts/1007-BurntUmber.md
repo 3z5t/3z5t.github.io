@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 번트 엄버. '단단한의지, 강인한, �
 en_name: "Burnt Umber"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 7일의 탄생색: 번트 엄버 (`#8D3131`)
 

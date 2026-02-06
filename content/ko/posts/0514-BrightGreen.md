@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 브라이트 그린. '생명력, 창조성, �
 en_name: "Bright Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 14일의 탄생색: 브라이트 그린 (`#66FF00`)
 

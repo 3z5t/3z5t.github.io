@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 강렬한 석양. '열정적인, 강렬한, �
 en_name: "Intense Sunset"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 1일의 탄생색: 강렬한 석양 (`#BC5445`)
 

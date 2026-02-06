@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 소프트 베이지. '따스한마음, 포근
 en_name: "Soft Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 22일의 탄생색: 소프트 베이지 (`#ECBDA4`)
 

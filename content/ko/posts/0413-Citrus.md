@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 시트러스. '상쾌함, 활력적, 도전�
 en_name: "Citrus"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 13일의 탄생색: 시트러스 (`#99CC00`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 깊은 솔숲. '영속성, 전통성, 신뢰�
 en_name: "Deep Pine Forest"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 11일의 탄생색: 깊은 솔숲 (`#006400`)
 

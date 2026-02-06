@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 피치 퍼프. '부드러운성격, 달콤함
 en_name: "Peach Puff"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 3일의 탄생색: 피치 퍼프 (`#FFD7B5`)
 

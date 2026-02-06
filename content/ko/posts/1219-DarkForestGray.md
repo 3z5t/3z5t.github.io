@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 다크 포레스트 그레이. '깊이있는,
 en_name: "Dark Forest Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 19일의 탄생색: 다크 포레스트 그레이 (`#2A3A2F`)
 

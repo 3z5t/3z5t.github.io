@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 캐리비안 그린. '모험심, 자유로움
 en_name: "Caribbean Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 4일의 탄생색: 캐리비안 그린 (`#00CC99`)
 

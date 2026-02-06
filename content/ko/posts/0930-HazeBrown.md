@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 헤이즈 브라운. '은은한매력, 그리
 en_name: "Haze Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 30일의 탄생색: 헤이즈 브라운 (`#9D8C7A`)
 

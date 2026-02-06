@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 터콰이즈. '치유력, 회복력, 창조�
 en_name: "Turquoise"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 7일의 탄생색: 터콰이즈 (`#40E0D0`)
 

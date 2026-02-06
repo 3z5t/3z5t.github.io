@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 소닉 실버. '단단한의지, 견고한, �
 en_name: "Sonic Silver"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 9일의 탄생색: 소닉 실버 (`#767272`)
 

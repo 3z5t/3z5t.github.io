@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 가을 호수. '깊이있는, 성숙한, 지�
 en_name: "Autumn Lake"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 2일의 탄생색: 가을 호수 (`#55779B`)
 

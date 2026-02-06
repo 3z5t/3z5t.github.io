@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 로얄 블루. '깊이있는, 품격있는, �
 en_name: "Royal Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 16일의 탄생색: 로얄 블루 (`#1B76D8`)
 

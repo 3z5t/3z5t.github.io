@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 셸 핑크. '우아함, 고귀함, 세련됨'
 en_name: "Shell Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 23일의 탄생색: 셸 핑크 (`#E9CCC8`)
 

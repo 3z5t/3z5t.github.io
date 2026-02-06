@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "1월 10일, 오늘을 닮은 색: 단아한 군청"
-date: 2026-01-10
-updated: 2026-01-10
+date: "2026-01-10"
+updated: "2026-01-10"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 단아한 군청
-  - 1월 10일
-  - 445b97
-  - 1월
-description: 오늘의 탄생색, 단아한 군청. '신뢰성, 충성심, 정직함'이라는 의미를 담고 있어요.
-en_name: Elegant Ultramarine
-author: 하루의 조각
-profileName: 하루의 조각
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "단아한 군청"
+  - "1월 10일"
+  - "445b97"
+  - "1월"
+description: "오늘의 탄생색, 단아한 군청. '신뢰성, 충성심, 정직함'이라는 의미를 담고 있어요."
+en_name: "Elegant Ultramarine"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "1004"
 postUrl: ""
 ---

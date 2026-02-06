@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 캔디 코랄. '달콤한성격, 사교성, �
 en_name: "Candy Coral"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 2일의 탄생색: 캔디 코랄 (`#F18372`)
 

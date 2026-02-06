@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 라임 그린. '건강함, 활력적, 균형�
 en_name: "Lime Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 15일의 탄생색: 라임 그린 (`#6EAD5C`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 스웨이드 골드. '풍요로운, 희망찬
 en_name: "Suede Gold"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 22일의 탄생색: 스웨이드 골드 (`#F9EBDA`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 라임 올리브. '생동감, 희망적, 창�
 en_name: "Lime Olive"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 15일의 탄생색: 라임 올리브 (`#B8C249`)
 

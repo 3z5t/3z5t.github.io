@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 선셋 오렌지. '신중함, 통찰력, 보�
 en_name: "Sunset Orange"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 11일의 탄생색: 선셋 오렌지 (`#FF6600`)
 

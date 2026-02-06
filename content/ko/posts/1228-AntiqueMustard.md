@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 앤티크 머스타드. '차분한성격, 풍
 en_name: "Antique Mustard"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 28일의 탄생색: 앤티크 머스타드 (`#BB8F3D`)
 

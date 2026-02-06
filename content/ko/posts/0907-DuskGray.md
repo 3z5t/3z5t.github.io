@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 더스크 그레이. '안정감있는, 성찰
 en_name: "Dusk Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 7일의 탄생색: 더스크 그레이 (`#313035`)
 

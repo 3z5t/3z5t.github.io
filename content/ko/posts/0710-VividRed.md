@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 비비드 레드. '돋보이는, 활기찬, �
 en_name: "Vivid Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 10일의 탄생색: 비비드 레드 (`#FF1414`)
 

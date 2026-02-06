@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 오이스터 핑크. '평화로움, 안정감
 en_name: "Oyster Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 24일의 탄생색: 오이스터 핑크 (`#CEAAAD`)
 

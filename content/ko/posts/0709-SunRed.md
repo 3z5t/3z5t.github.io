@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 썬 레드. '에너지충만, 밝은빛, 리�
 en_name: "Sun Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 9일의 탄생색: 썬 레드 (`#F01313`)
 

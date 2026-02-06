@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 크림 모카. '여유로움, 평화로움, �
 en_name: "Cream Mocha"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 21일의 탄생색: 크림 모카 (`#D19A71`)
 

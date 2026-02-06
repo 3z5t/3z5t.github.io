@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 에메랄드 그린. '젊은 정신, 성장�
 en_name: "Emerald Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 3일의 탄생색: 에메랄드 그린 (`#00CC66`)
 

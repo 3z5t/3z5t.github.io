@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 매트 골드. '풍요로움, 안정감, 깊�
 en_name: "Matte Gold"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 19일의 탄생색: 매트 골드 (`#DD9330`)
 

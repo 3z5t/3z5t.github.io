@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 그레이 민트. '차분한성격, 안정감
 en_name: "Gray Mint"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 28일의 탄생색: 그레이 민트 (`#ADCECE`)
 

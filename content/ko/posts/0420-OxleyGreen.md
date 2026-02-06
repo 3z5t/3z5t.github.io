@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 옥슬리 그린. '안정감, 성숙함, 평�
 en_name: "Oxley Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 20일의 탄생색: 옥슬리 그린 (`#669966`)
 

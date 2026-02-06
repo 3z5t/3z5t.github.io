@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 소프트 레몬. '포용력, 배려심, 이�
 en_name: "Soft Lemon"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 8일의 탄생색: 소프트 레몬 (`#D5D679`)
 

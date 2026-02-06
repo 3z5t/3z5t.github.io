@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 소프트 올리브. '차분한, 안정된, �
 en_name: "Soft Olive"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 30일의 탄생색: 소프트 올리브 (`#7E9682`)
 

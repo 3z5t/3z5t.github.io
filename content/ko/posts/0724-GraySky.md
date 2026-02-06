@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 그레이 스카이. '여유로운, 평화로
 en_name: "Gray Sky"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 24일의 탄생색: 그레이 스카이 (`#BDE0F4`)
 

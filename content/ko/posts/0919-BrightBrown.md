@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 브라이트 브라운. '대지같은, 안정
 en_name: "Bright Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 19일의 탄생색: 브라이트 브라운 (`#887865`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 소프트 다우니. '부드러움, 포용력
 en_name: "Soft Downy"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 29일의 탄생색: 소프트 다우니 (`#66CCCC`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 에이션트 그린. '지혜로움, 고요함
 en_name: "Ancient Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 26일의 탄생색: 에이션트 그린 (`#476664`)
 

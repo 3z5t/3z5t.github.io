@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 번트 우드. '깊이있는, 성숙한, 안�
 en_name: "Burnt Wood"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 25일의 탄생색: 번트 우드 (`#3F242D`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 연녹차. '은은한매력, 차분한, 평�
 en_name: "Light Green Tea"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 16일의 탄생색: 연녹차 (`#ABA88A`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 문라이트 와인. '깊이있는, 신비로
 en_name: "Moonlight Wine"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 15일의 탄생색: 문라이트 와인 (`#610928`)
 

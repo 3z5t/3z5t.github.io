@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 소프트 카멜. '고급스러운, 세련된
 en_name: "Soft Camel"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 16일의 탄생색: 소프트 카멜 (`#ECC586`)
 

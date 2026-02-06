@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 앤티크 베이지. '고전적인, 지혜로
 en_name: "Antique Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 19일의 탄생색: 앤티크 베이지 (`#A19475`)
 

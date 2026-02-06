@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 나이트 그린. '평화로움, 안정감, �
 en_name: "Knight Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 17일의 탄생색: 나이트 그린 (`#5C9432`)
 

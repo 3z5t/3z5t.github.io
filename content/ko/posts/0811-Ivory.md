@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 아이보리. '지혜로운, 고전적, 품�
 en_name: "Ivory"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 11일의 탄생색: 아이보리 (`#FFF3D4`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 다람쥐 브라운. '준비성있는, 부지
 en_name: "Squirrel Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 22일의 탄생색: 다람쥐 브라운 (`#996A52`)
 

@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "1월 19일, 오늘을 닮은 색: 진소라"
-date: 2026-01-19
-updated: 2026-01-19
+date: "2026-01-19"
+updated: "2026-01-19"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 진소라
-  - 1월 19일
-  - 667cb8
-  - 1월
-description: 오늘의 탄생색, 진소라. '성실함, 근면성, 책임감'이라는 의미를 담고 있어요.
-en_name: Deep Sora
-author: 하루의 조각
-profileName: 하루의 조각
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "진소라"
+  - "1월 19일"
+  - "667cb8"
+  - "1월"
+description: "오늘의 탄생색, 진소라. '성실함, 근면성, 책임감'이라는 의미를 담고 있어요."
+en_name: "Deep Sora"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "1155373294349884786"
 postUrl: ""
 ---

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 겨울 낙엽. '그리움을아는, 감성적
 en_name: "Winter Leaves"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 12일의 탄생색: 겨울 낙엽 (`#706863`)
 

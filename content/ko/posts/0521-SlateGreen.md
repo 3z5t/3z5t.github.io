@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 슬레이트 그린. '지성적, 학구열, �
 en_name: "Slate Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 21일의 탄생색: 슬레이트 그린 (`#557A7C`)
 

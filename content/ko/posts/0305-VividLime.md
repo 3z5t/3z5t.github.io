@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 비비드 라임. '도전정신, 활력, 혁�
 en_name: "Vivid Lime"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 5일의 탄생색: 비비드 라임 (`#00FF00`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 앤티크 골드. '지혜로움, 경험치, �
 en_name: "Antique Gold"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 4일의 탄생색: 앤티크 골드 (`#CFB53B`)
 

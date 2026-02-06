@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 빈티지 튤립. '깊이있는, 신비로운
 en_name: "Vintage Tulip"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 4일의 탄생색: 빈티지 튤립 (`#B80C03`)
 

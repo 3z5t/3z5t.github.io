@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 소프트 시안. '상쾌한성격, 청량감
 en_name: "Soft Cyan"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 30일의 탄생색: 소프트 시안 (`#6EC5EF`)
 

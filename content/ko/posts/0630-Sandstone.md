@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 샌드 스톤. '균형잡힌, 안정된, 조�
 en_name: "Sandstone"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 30일의 탄생색: 샌드 스톤 (`#7B6D6D`)
 

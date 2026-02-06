@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 샴록 그린. '성공운, 행운, 번영'이
 en_name: "Shamrock Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 19일의 탄생색: 샴록 그린 (`#009966`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 복숭아 요거트. '상큼함, 순수함, �
 en_name: "Peach Yogurt"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 4일의 탄생색: 복숭아 요거트 (`#FFC1B5`)
 

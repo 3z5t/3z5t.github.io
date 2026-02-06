@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 애프터눈 베이지. '회상을즐기는, 
 en_name: "Afternoon Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 31일의 탄생색: 애프터눈 베이지 (`#F5F5F5`)
 

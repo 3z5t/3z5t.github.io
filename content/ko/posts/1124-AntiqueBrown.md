@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 앤티크 브라운. '전통적인, 안정된
 en_name: "Antique Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 24일의 탄생색: 앤티크 브라운 (`#35292A`)
 

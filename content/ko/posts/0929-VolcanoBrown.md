@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 볼케이노 브라운. '강인한의지, 단
 en_name: "Volcano Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 29일의 탄생색: 볼케이노 브라운 (`#675853`)
 

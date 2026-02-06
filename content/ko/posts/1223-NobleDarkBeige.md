@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 노블 다크베이지. '깊이있는, 성숙
 en_name: "Noble Dark Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 23일의 탄생색: 노블 다크베이지 (`#D5A66B`)
 

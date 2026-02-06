@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 새틴 그레이. '세련된, 우아한, 품�
 en_name: "Satin Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 10일의 탄생색: 새틴 그레이 (`#B3A6A4`)
 

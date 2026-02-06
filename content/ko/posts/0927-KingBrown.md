@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 킹 브라운. '위엄있는, 품격있는, �
 en_name: "King Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 27일의 탄생색: 킹 브라운 (`#A86248`)
 

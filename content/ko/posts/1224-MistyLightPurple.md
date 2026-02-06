@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 미스티 연보라. '신비로운, 은은한
 en_name: "Misty Light Purple"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 24일의 탄생색: 미스티 연보라 (`#7F7F9B`)
 

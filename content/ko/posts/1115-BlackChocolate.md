@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 블랙 초콜릿. '성숙한, 깊이있는, �
 en_name: "Black Chocolate"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 15일의 탄생색: 블랙 초콜릿 (`#191616`)
 

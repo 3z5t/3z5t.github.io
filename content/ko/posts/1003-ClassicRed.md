@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 클래식 레드. '자부심강한, 긍지높
 en_name: "Classic Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 3일의 탄생색: 클래식 레드 (`#C61400`)
 

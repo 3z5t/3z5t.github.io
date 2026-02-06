@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 크림. '부드러움, 따뜻함, 순수함'�
 en_name: "Cream"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 9일의 탄생색: 크림 (`#FFFFCC`)
 

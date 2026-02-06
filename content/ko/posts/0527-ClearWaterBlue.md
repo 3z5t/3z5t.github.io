@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 맑은 물빛. '맑은정신, 순수함, 평�
 en_name: "Clear Water Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 27일의 탄생색: 맑은 물빛 (`#3A8299`)
 

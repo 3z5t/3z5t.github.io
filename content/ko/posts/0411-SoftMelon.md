@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 소프트 멜론. '안정감, 성숙함, 균�
 en_name: "Soft Melon"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 11일의 탄생색: 소프트 멜론 (`#84C07A`)
 

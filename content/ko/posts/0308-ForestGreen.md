@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 포레스트 그린. '성장력, 지도력, �
 en_name: "Forest Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 8일의 탄생색: 포레스트 그린 (`#006600`)
 

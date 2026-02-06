@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 자정. '고요한, 평화로운, 휴식을�
 en_name: "Midnight"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 18일의 탄생색: 자정 (`#242228`)
 
@@ -57,6 +57,10 @@ postUrl: ""
 이 두 색의 만남은 마치 **'자정의 짙은 밤하늘(Midnight) 위에 몽글몽글 떠오른 순백의 구름(Fresh Cream)'** 혹은 **'진한 다크 초콜릿 위에 얹어진 부드러운 생크림'**과 같은 환상적인 시각적 조화를 이룹니다. '자정'이 모든 것을 품어 안는 거대한 어머니의 품이자 묵직한 이성이라면, '생크림'은 그 안에서 피어나는 순수한 동심이자 부드러운 감성입니다. 생크림의 깨끗하고 밝은 에너지는 자정의 자칫 무거워질 수 있는 분위기를 정화해 주고, 자정은 생크림의 빛이 더욱 맑게 돋보이도록 가장 완벽한 무대가 되어줍니다. 두 색을 함께 배치하면 **'안정 속의 순수함'**이라는 강력한 심리적 시너지를 경험하게 될 것입니다.
 
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiYFVddfcCYzyuWIYHEFKOQBdhApl-UPgU5Hk81SHNIAcBwD06s9un3vm7-VAb_SjpSmGnjhfm8XZF6X47eCy0zNC_l3KYiwKe34B49dE8aGe6f8-NKjEttEwN6QOvUajffL3HIShKJNq9MOZpkVmRF-XPGwKW5YZy27feefpWwN9rtza5WGFyrKbnSGoXv=s1600"
+    alt: "오늘의 색"
+    relative: false
 
 ### 5. 마무리 (치유의 시)
 

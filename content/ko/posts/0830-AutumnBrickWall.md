@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 가을의 벽돌담. '단단한의지, 안정
 en_name: "Autumn Brick Wall"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 30일의 탄생색: 가을의 벽돌담 (`#AA837E`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 퓨어 그린. '순수함, 자연스러움, �
 en_name: "Pure Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 16일의 탄생색: 퓨어 그린 (`#2FBA10`)
 

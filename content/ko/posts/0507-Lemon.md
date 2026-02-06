@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 레몬. '상큼함, 지성, 영감'이라는 
 en_name: "Lemon"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 7일의 탄생색: 레몬 (`#EFDA00`)
 

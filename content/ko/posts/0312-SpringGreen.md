@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 스프링 그린. '희망적, 낙관적, 창�
 en_name: "Spring Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 12일의 탄생색: 스프링 그린 (`#00FF66`)
 

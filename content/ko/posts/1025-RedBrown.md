@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 레드 브라운. '강인한의지, 단단한
 en_name: "Red Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 25일의 탄생색: 레드 브라운 (`#6C1818`)
 

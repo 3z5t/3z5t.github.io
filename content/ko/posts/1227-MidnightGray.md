@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 미드나잇 그레이. '차분한성격, 성
 en_name: "Midnight Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 27일의 탄생색: 미드나잇 그레이 (`#565269`)
 

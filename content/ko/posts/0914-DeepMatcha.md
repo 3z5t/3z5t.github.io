@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 딥 말차. '깊이있는, 지혜로운, 성�
 en_name: "Deep Matcha"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 14일의 탄생색: 딥 말차 (`#74703F`)
 

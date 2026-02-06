@@ -3,23 +3,23 @@ cover:
     image: "https://blogger.googleusercontent.com/img/a/AVvXsEgD1wLll5IzVDVZAbugiz2zQ8lyw-Cs3SFe1EsnveDVqEsu5qc2PxYeh2EzAgCb2ttBGhOHaRBfoGcnl4FB9d0PvtwG69wX0OXjFryeriz0s3RCt068gHwsvAk15-WNDDVa7CwNUocaAbL4GOIZAkb5eq5kprTXk1Uu-6Vium-z4pxGVoWgUn15K36Jh24Z=s1600"
     alt: "오늘의 색"
     relative: false
-author: 하루의 조각
-date: '2026-01-28'
-description: 오늘의 탄생색, 브라이트 블루. '긍정적, 밝은에너지, 희망적'이라는 의미를 담고 있어요.
-en_name: Bright Blue
+author: "하루의 조각"
+date: "2026-01-28"
+description: "오늘의 탄생색, 브라이트 블루. '긍정적, 밝은에너지, 희망적'이라는 의미를 담고 있어요."
+en_name: "Bright Blue"
 tags:
-- 탄생색
-- 오늘의 색
-- 퍼스널 컬러
-- 브라이트 블루
-- 1월 28일
-- 9cb0d3
-- 1월
-postId: '6026377815988116342'
-postUrl: https://the366days-ko.blogspot.com/2026/01/1-28-bright-blue.html
-profileName: 하루의 조각
-title: '1월 28일, 오늘을 닮은 색: 브라이트 블루'
-updated: '2026-01-28'
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "브라이트 블루"
+  - "1월 28일"
+  - "9cb0d3"
+  - "1월"
+postId: "6026377815988116342"
+postUrl: "https://the366days-ko.blogspot.com/2026/01/1-28-bright-blue.html"
+profileName: "하루의 조각"
+title: "1월 28일, 오늘을 닮은 색: 브라이트 블루"
+updated: "2026-01-28"
 ---
 
 **1월 28일의 탄생색: 브라이트 블루 (#9CB0D3)**

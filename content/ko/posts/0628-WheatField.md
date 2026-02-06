@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 밀밭. '풍요로움, 감사함, 번영'이�
 en_name: "Wheat Field"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 28일의 탄생색: 밀밭 (`#B89A6D`)
 

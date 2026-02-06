@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 실버 앤틱. '고전적인, 품격있는, �
 en_name: "Silver Antique"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 6일의 탄생색: 실버 앤틱 (`#C6C3C6`)
 

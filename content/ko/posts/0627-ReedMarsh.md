@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 갈대숲. '자연스러움, 평화로움, �
 en_name: "Reed Marsh"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 27일의 탄생색: 갈대숲 (`#B09A82`)
 

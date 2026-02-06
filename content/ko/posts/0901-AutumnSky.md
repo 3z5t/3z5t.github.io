@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 가을 하늘. '청명한정신, 이상적, �
 en_name: "Autumn Sky"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 1일의 탄생색: 가을 하늘 (`#59819A`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 딥 민트. '치유력, 회복력, 강인함'
 en_name: "Deep Mint"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 4일의 탄생색: 딥 민트 (`#3ABAB5`)
 

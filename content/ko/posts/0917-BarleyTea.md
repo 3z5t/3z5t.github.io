@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 보리차. '전통적인, 익숙한듯새로�
 en_name: "Barley Tea"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 17일의 탄생색: 보리차 (`#BD844B`)
 

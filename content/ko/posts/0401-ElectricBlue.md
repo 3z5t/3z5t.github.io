@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 일렉트릭 블루. '활기찬, 유쾌함, �
 en_name: "Electric Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 1일의 탄생색: 일렉트릭 블루 (`#99FFFF`)
 

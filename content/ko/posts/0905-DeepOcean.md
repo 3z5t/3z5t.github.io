@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 심해. '신비로운, 깊이있는, 철학�
 en_name: "Deep Ocean"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 5일의 탄생색: 심해 (`#5A6078`)
 

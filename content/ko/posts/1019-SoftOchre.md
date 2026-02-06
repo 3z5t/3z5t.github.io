@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 소프트 오커. '대지같은, 풍요로운
 en_name: "Soft Ochre"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 19일의 탄생색: 소프트 오커 (`#926630`)
 

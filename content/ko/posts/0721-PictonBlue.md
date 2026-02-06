@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 픽톤 블루. '시원한마음, 청량감, �
 en_name: "Picton Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 21일의 탄생색: 픽톤 블루 (`#6699CC`)
 

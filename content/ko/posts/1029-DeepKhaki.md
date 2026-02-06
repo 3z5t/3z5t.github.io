@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 진한 카키. '자연스러운, 안정된, �
 en_name: "Deep Khaki"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 29일의 탄생색: 진한 카키 (`#525C3E`)
 

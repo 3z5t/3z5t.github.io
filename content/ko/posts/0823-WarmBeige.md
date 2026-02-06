@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 웜 베이지. '따뜻한마음, 포용력, �
 en_name: "Warm Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 23일의 탄생색: 웜 베이지 (`#B69174`)
 

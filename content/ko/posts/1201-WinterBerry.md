@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 윈터 베리. '희망을주는, 기대감있
 en_name: "Winter Berry"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 1일의 탄생색: 윈터 베리 (`#AF2A24`)
 

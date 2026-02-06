@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 씨 그린. '신비로움, 깊이있는, 통�
 en_name: "Sea Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 29일의 탄생색: 씨 그린 (`#19776B`)
 

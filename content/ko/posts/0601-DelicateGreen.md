@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 델리케이트 그린. '섬세함, 순수함
 en_name: "Delicate Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 1일의 탄생색: 델리케이트 그린 (`#7DDCC4`)
 

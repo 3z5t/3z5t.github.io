@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 치녹 그린. '조화로움, 평화로움, �
 en_name: "Chinook Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 18일의 탄생색: 치녹 그린 (`#99CC99`)
 

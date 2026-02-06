@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 피치 오렌지. '달콤한성격, 사교성
 en_name: "Peach Orange"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 3일의 탄생색: 피치 오렌지 (`#FFCC99`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 라일락. '우아한, 품위있는, 세련�
 en_name: "Lilac"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 18일의 탄생색: 라일락 (`#CC99CC`)
 

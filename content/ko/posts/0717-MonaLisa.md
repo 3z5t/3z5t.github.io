@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 모나리자. '예술적, 아름다운, 균�
 en_name: "Mona Lisa"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 17일의 탄생색: 모나리자 (`#FF9999`)
 

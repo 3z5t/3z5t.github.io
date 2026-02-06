@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 오션 스쿠터. '모험심, 도전정신, �
 en_name: "Ocean Scooter"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 28일의 탄생색: 오션 스쿠터 (`#339999`)
 

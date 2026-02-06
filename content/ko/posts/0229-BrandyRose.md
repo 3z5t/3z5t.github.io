@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "2월 29일, 오늘을 닮은 색: 브랜디 로즈"
-date: 2026-02-28
-updated: 2026-02-28
+date: "2026-02-28"
+updated: "2026-02-28"
 tags:
-  - 탄생색
-  - 브랜디 로즈
-  - 2월 29일
-  - 2월
-  - b58a7b
-description: 오늘의 탄생색, 브랜디 로즈. '독특함, 창의성, 개성'이라는 의미를 담고 있어요.
-en_name: Brandy Rose
-author: 하루의 조각
-profileName: 하루의 조각
+  - "탄생색"
+  - "브랜디 로즈"
+  - "2월 29일"
+  - "2월"
+  - "b58a7b"
+description: "오늘의 탄생색, 브랜디 로즈. '독특함, 창의성, 개성'이라는 의미를 담고 있어요."
+en_name: "Brandy Rose"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "6443676090545741573"
-postUrl: https://the366days-ko.blogspot.com
+postUrl: "https://the366days-ko.blogspot.com"
 ---
 
 ## 2월 29일의 탄생색: 브랜디 로즈 (`#B58A7B`)

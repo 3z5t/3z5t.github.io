@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 그린 옐로우. '도전정신, 활력, 창�
 en_name: "Green Yellow"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 12일의 탄생색: 그린 옐로우 (`#99FF33`)
 

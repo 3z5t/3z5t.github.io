@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 황토. '풍요로운, 감사할줄아는, �
 en_name: "Yellow Ochre"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 20일의 탄생색: 황토 (`#B28E58`)
 

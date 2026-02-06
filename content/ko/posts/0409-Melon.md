@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 멜론. '달콤함, 긍정성, 행복감'이�
 en_name: "Melon"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 9일의 탄생색: 멜론 (`#98E294`)
 

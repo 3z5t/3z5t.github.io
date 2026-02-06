@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 무스 그레이. '중용을지키는, 균형
 en_name: "Moose Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 7일의 탄생색: 무스 그레이 (`#999999`)
 

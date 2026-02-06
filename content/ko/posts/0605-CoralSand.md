@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 코랄 샌드. '조화로움, 균형감, 포�
 en_name: "Coral Sand"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 5일의 탄생색: 코랄 샌드 (`#FFD0A1`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 진한 딸기우유. '열정적, 활기참, �
 en_name: "Deep Strawberry Milk"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 20일의 탄생색: 진한 딸기우유 (`#FF6FBD`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 앤티크 아이보리. '순수한마음, 청
 en_name: "Antique Ivory"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 12일의 탄생색: 앤티크 아이보리 (`#E9E1D8`)
 

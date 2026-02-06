@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "1월 12일, 오늘을 닮은 색: 심해의 푸른빛"
-date: 2026-01-12
-updated: 2026-01-12
+date: "2026-01-12"
+updated: "2026-01-12"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 심해의 푸른빛
-  - 1월 12일
-  - 465c83
-  - 1월
-description: 오늘의 탄생색, 심해의 푸른빛. '포용력, 관용, 넓은마음'이라는 의미를 담고 있어요.
-en_name: Deep Ocean Blue
-author: 하루의 조각
-profileName: 하루의 조각
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "심해의 푸른빛"
+  - "1월 12일"
+  - "465c83"
+  - "1월"
+description: "오늘의 탄생색, 심해의 푸른빛. '포용력, 관용, 넓은마음'이라는 의미를 담고 있어요."
+en_name: "Deep Ocean Blue"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "435890863533691744"
 postUrl: ""
 ---

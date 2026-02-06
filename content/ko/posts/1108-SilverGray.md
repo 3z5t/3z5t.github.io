@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 실버 그레이. '세련된, 우아한, 품�
 en_name: "Silver Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 8일의 탄생색: 실버 그레이 (`#E2DFE5`)
 

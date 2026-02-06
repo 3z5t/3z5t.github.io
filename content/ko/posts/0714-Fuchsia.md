@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 푸크시아. '매력있는, 화려한, 독�
 en_name: "Fuchsia"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 14일의 탄생색: 푸크시아 (`#CC33CC`)
 

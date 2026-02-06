@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 차콜. '통찰력있는, 지혜로운, 깊�
 en_name: "Charcoal"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 11일의 탄생색: 차콜 (`#373F57`)
 

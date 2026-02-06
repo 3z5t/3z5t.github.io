@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 감귤. '달콤한성격, 신선함, 밝은�
 en_name: "Tangerine"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 15일의 탄생색: 감귤 (`#EE934F`)
 

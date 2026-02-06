@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 미드나잇 바이올렛. '신비로운, 우
 en_name: "Midnight Violet"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 28일의 탄생색: 미드나잇 바이올렛 (`#20202E`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 루돌프 브라운. '따뜻한마음, 포근
 en_name: "Rudolph Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 3일의 탄생색: 루돌프 브라운 (`#6C4D32`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 애쉬 블랙. '변화를수용하는, 순환
 en_name: "Ash Black"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 2일의 탄생색: 애쉬 블랙 (`#282221`)
 

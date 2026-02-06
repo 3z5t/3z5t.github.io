@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 새싹 연두. '자유로움, 독립심, 개�
 en_name: "Sprout Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 1일의 탄생색: 새싹 연두 (`#5FD059`)
 

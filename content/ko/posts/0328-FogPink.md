@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 포그 핑크. '부드러움, 은은함, 신�
 en_name: "Fog Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 28일의 탄생색: 포그 핑크 (`#E0CECE`)
 

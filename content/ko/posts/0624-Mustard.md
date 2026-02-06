@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 머스타드. '깊이있는, 독특한, 개�
 en_name: "Mustard"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 24일의 탄생색: 머스타드 (`#C29943`)
 

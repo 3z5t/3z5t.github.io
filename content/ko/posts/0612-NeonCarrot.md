@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 네온 캐럿. '생동감, 활력적, 열정�
 en_name: "Neon Carrot"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 12일의 탄생색: 네온 캐럿 (`#FF9933`)
 

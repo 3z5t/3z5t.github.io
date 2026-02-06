@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 장미 레드. '열정적인, 의지력강한
 en_name: "Rose Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 2일의 탄생색: 장미 레드 (`#8D1C1C`)
 

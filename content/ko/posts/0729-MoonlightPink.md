@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 문라이트 핑크. '부드러운, 순수한
 en_name: "Moonlight Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 29일의 탄생색: 문라이트 핑크 (`#E0C8C0`)
 

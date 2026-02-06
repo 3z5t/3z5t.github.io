@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 여름빛 모래사장. '따스한마음, 그
 en_name: "Summer Sand Beach"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 13일의 탄생색: 여름빛 모래사장 (`#BF9F87`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 엔틱 브론즈. '고전적인, 견고한, �
 en_name: "Antique Bronze"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 6일의 탄생색: 엔틱 브론즈 (`#9B6066`)
 

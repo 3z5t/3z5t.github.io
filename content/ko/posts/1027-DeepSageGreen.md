@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 딥 세이지 그린. '지혜로운, 고요�
 en_name: "Deep Sage Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 27일의 탄생색: 딥 세이지 그린 (`#055F5F`)
 

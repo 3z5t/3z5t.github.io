@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 당근 주스. '영양가있는, 건강한, �
 en_name: "Carrot Juice"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 14일의 탄생색: 당근 주스 (`#E8742D`)
 

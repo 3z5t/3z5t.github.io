@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 올리브. '지혜로움, 평화로움, 통�
 en_name: "Olive"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 14일의 탄생색: 올리브 (`#666600`)
 

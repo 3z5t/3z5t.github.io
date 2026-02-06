@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 스파이시 레드. '정열적인, 의지력
 en_name: "Spicy Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 10일의 탄생색: 스파이시 레드 (`#990033`)
 

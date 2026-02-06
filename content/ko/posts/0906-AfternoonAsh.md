@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 애프터눈 잿빛. '사색적인, 관조적
 en_name: "Afternoon Ash"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 6일의 탄생색: 애프터눈 잿빛 (`#191B28`)
 

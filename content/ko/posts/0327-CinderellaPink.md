@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 신데렐라 핑크. '동화같은, 꿈많은
 en_name: "Cinderella Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 27일의 탄생색: 신데렐라 핑크 (`#FFC7C6`)
 

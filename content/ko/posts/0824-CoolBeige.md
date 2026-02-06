@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 쿨 베이지. '차분한성격, 지적인, �
 en_name: "Cool Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 24일의 탄생색: 쿨 베이지 (`#AF8E8A`)
 

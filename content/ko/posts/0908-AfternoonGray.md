@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 애프터눈 그레이. '성숙한, 지혜로
 en_name: "Afternoon Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 8일의 탄생색: 애프터눈 그레이 (`#75787B`)
 

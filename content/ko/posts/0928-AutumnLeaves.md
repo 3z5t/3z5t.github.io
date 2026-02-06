@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 가을의 낙엽. '순환을아는, 이별을
 en_name: "Autumn Leaves"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 28일의 탄생색: 가을의 낙엽 (`#362925`)
 

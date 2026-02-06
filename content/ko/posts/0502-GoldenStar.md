@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 골든 스타. '성취력, 빛나는, 영향�
 en_name: "Golden Star"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 2일의 탄생색: 골든 스타 (`#E5A859`)
 

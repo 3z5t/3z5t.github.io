@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 진주. '가치있는, 품격있는, 고결�
 en_name: "Pearl"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 10일의 탄생색: 진주 (`#EAE1DD`)
 

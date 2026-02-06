@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 물렁한 복숭아. '포용력, 이해심, �
 en_name: "Ripe Peach"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 8일의 탄생색: 물렁한 복숭아 (`#F8F3EA`)
 

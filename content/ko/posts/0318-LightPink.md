@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 라이트 핑크. '순수함, 희망적, 긍�
 en_name: "Light Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 18일의 탄생색: 라이트 핑크 (`#FFB6C1`)
 

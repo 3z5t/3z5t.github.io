@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 미드나잇 모던블랙. '현대적인, 세
 en_name: "Midnight Modern Black"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 26일의 탄생색: 미드나잇 모던블랙 (`#1A1A1B`)
 

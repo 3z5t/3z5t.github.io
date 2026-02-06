@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "1월 9일, 오늘을 닮은 색: 딥 포레스트"
-date: 2026-01-09
-updated: 2026-01-09
+date: "2026-01-09"
+updated: "2026-01-09"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 딥 포레스트
-  - 1월 9일
-  - 13191a
-  - 1월
-description: 오늘의 탄생색, 딥 포레스트. '성장력, 발전성, 혁신성'이라는 의미를 담고 있어요.
-en_name: Deep Forest
-author: 하루의 조각
-profileName: 하루의 조각
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "딥 포레스트"
+  - "1월 9일"
+  - "13191a"
+  - "1월"
+description: "오늘의 탄생색, 딥 포레스트. '성장력, 발전성, 혁신성'이라는 의미를 담고 있어요."
+en_name: "Deep Forest"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "1004"
 postUrl: ""
 ---

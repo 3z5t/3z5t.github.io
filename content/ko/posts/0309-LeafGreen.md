@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 풀잎 초록. '자연친화, 균형감, 포�
 en_name: "Leaf Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 9일의 탄생색: 풀잎 초록 (`#587D4A`)
 

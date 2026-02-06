@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 다크 마룬. '신비로운, 깊이있는, �
 en_name: "Dark Maroon"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 13일의 탄생색: 다크 마룬 (`#3A0000`)
 

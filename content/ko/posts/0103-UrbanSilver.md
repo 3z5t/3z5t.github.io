@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "1월 3일, 오늘을 닮은 색: 어반 실버"
-date: 2026-01-03
-updated: 2026-01-03
+date: "2026-01-03"
+updated: "2026-01-03"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 어반 실버
-  - 1월 3일
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "어반 실버"
+  - "1월 3일"
   - "808080"
-  - 1월
-description: 오늘의 탄생색, 어반 실버. '중재력, 균형감, 통찰력'이라는 의미를 담고 있어요.
-en_name: Urban Silver
-author: 하루의 조각
-profileName: 하루의 조각
+  - "1월"
+description: "오늘의 탄생색, 어반 실버. '중재력, 균형감, 통찰력'이라는 의미를 담고 있어요."
+en_name: "Urban Silver"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "1004"
 postUrl: ""
 ---

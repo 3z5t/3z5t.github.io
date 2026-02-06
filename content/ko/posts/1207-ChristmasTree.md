@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 크리스마스 트리. '소망이루는, 희
 en_name: "Christmas Tree"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 7일의 탄생색: 크리스마스 트리 (`#506850`)
 

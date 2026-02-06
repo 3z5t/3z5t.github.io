@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 올드 그린. '고전적인, 지혜로운, �
 en_name: "Old Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 20일의 탄생색: 올드 그린 (`#726D46`)
 

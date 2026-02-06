@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 크림 멜론. '부드러움, 온화함, 상�
 en_name: "Cream Melon"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 10일의 탄생색: 크림 멜론 (`#DCF8E4`)
 

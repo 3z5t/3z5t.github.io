@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "1월 16일, 오늘을 닮은 색: 소라"
-date: 2026-01-16
-updated: 2026-01-16
+date: "2026-01-16"
+updated: "2026-01-16"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 소라
-  - 1월 16일
-  - 7f9bb9
-  - 1월
-description: 오늘의 탄생색, 소라. '조화로움, 평화로움, 친화력'이라는 의미를 담고 있어요.
-en_name: Sora Blue
-author: 하루의 조각
-profileName: 하루의 조각
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "소라"
+  - "1월 16일"
+  - "7f9bb9"
+  - "1월"
+description: "오늘의 탄생색, 소라. '조화로움, 평화로움, 친화력'이라는 의미를 담고 있어요."
+en_name: "Sora Blue"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "855543006883986738"
 postUrl: ""
 ---

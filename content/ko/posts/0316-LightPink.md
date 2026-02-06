@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 연분홍. '다정함, 친근감, 애정'이�
 en_name: "Light Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 16일의 탄생색: 연분홍 (`#FFAAAA`)
 

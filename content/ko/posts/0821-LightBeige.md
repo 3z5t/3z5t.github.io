@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 라이트 베이지. '부드러운성격, 온
 en_name: "Light Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 21일의 탄생색: 라이트 베이지 (`#C1A99B`)
 

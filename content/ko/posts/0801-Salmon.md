@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 살몬. '활기찬성격, 생동감, 긍정�
 en_name: "Salmon"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 1일의 탄생색: 살몬 (`#FA8072`)
 

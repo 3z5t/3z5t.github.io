@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 가넷 레드. '단단한의지, 열정적인
 en_name: "Garnet Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 12일의 탄생색: 가넷 레드 (`#AA0000`)
 

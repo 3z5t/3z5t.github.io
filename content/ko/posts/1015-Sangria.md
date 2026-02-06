@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 상그리아. '깊이있는, 풍부한감성,
 en_name: "Sangria"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 15일의 탄생색: 상그리아 (`#990000`)
 

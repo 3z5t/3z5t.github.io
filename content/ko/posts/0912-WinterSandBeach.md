@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 겨울빛 모래사장. '포근한, 안정감
 en_name: "Winter Sand Beach"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 12일의 탄생색: 겨울빛 모래사장 (`#CEB9AB`)
 

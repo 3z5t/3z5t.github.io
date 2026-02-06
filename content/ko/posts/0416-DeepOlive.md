@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 딥 올리브. '성숙함, 안정감, 신중�
 en_name: "Deep Olive"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 16일의 탄생색: 딥 올리브 (`#6B8E23`)
 

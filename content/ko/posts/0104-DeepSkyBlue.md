@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "1월 4일, 오늘을 닮은 색: 딥 스카이블루"
-date: 2026-01-04
-updated: 2026-01-04
+date: "2026-01-04"
+updated: "2026-01-04"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 딥 스카이블루
-  - 1월 4일
-  - 00ccff
-  - 1월
-description: 오늘의 탄생색, 딥 스카이블루. '무한한 가능성, 진취성, 열정'이라는 의미를 담고 있어요.
-en_name: Deep Sky Blue
-author: 하루의 조각
-profileName: 하루의 조각
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "딥 스카이블루"
+  - "1월 4일"
+  - "00ccff"
+  - "1월"
+description: "오늘의 탄생색, 딥 스카이블루. '무한한 가능성, 진취성, 열정'이라는 의미를 담고 있어요."
+en_name: "Deep Sky Blue"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "1004"
 postUrl: ""
 ---

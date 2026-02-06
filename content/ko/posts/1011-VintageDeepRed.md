@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 빈티지 딥 레드. '깊이있는, 진중�
 en_name: "Vintage Deep Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 11일의 탄생색: 빈티지 딥 레드 (`#8D192B`)
 

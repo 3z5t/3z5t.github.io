@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 라이트 스카이. '상쾌한성격, 밝은
 en_name: "Light Sky"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 22일의 탄생색: 라이트 스카이 (`#3DDAEE`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 카네이션 핑크. '평화로움, 사랑스
 en_name: "Carnation Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 6일의 탄생색: 카네이션 핑크 (`#FF99CC`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 블루밍 그린. '성장력, 번영, 풍요�
 en_name: "Blooming Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 26일의 탄생색: 블루밍 그린 (`#336666`)
 

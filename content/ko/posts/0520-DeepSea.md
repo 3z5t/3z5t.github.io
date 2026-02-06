@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 딥 씨 (Deep Sea). '통찰력, 사색적, �
 en_name: "Deep Sea"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 20일의 탄생색: 딥 씨 (Deep Sea) (`#2F4F4F`)
 

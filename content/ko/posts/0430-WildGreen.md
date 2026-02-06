@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 와일드 그린. '강인함, 생명력, 번�
 en_name: "Wild Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 30일의 탄생색: 와일드 그린 (`#387146`)
 

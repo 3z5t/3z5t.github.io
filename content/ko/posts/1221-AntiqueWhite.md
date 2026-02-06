@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 앤티크 화이트. '순수한영혼, 온화
 en_name: "Antique White"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 21일의 탄생색: 앤티크 화이트 (`#EBE2CE`)
 

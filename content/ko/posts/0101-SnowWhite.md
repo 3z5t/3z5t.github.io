@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "1월 1일, 오늘을 닮은 색: 스노우 화이트"
-date: 2026-01-01
-updated: 2026-01-01
+date: "2026-01-01"
+updated: "2026-01-01"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 스노우 화이트
-  - 1월 1일
-  - f2f1f1
-  - 1월
-description: 오늘의 탄생색, 스노우 화이트. '창조적, 순수함, 새로움'이라는 의미를 담고 있어요.
-en_name: Snow White
-author: 하루의 조각
-profileName: 하루의 조각
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "스노우 화이트"
+  - "1월 1일"
+  - "f2f1f1"
+  - "1월"
+description: "오늘의 탄생색, 스노우 화이트. '창조적, 순수함, 새로움'이라는 의미를 담고 있어요."
+en_name: "Snow White"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "4472952606261953637"
 postUrl: ""
 ---

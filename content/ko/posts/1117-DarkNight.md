@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 어두운 밤. '명상적인, 사색하는, �
 en_name: "Dark Night"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 17일의 탄생색: 어두운 밤 (`#2A2333`)
 

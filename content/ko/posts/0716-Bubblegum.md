@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 버블껌. '즐거운성격, 사랑스러운,
 en_name: "Bubblegum"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 16일의 탄생색: 버블껌 (`#FBC9CB`)
 

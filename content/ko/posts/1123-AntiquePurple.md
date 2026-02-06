@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 앤티크 보라. '고풍스러운, 신비로
 en_name: "Antique Purple"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 23일의 탄생색: 앤티크 보라 (`#5E162D`)
 

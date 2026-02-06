@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 골든 로드. '긍정성, 성공운, 리더�
 en_name: "Golden Rod"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 3일의 탄생색: 골든 로드 (`#DAA520`)
 

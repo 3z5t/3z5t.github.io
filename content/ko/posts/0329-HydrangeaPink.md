@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 수국 핑크. '풍요로움, 아름다움, �
 en_name: "Hydrangea Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 29일의 탄생색: 수국 핑크 (`#FFBFCA`)
 

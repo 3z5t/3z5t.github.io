@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 벌리우드. '성숙한, 안정된, 차분�
 en_name: "Burlywood"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 17일의 탄생색: 벌리우드 (`#DCBF97`)
 

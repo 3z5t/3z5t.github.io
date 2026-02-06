@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 미스틱 퍼플. '신비로운, 매력적, �
 en_name: "Mystic Purple"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 12일의 탄생색: 미스틱 퍼플 (`#9900FF`)
 

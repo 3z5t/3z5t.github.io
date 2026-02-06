@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 미숫가루. '건강한정신, 영양가있�
 en_name: "Roasted Grain"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 18일의 탄생색: 미숫가루 (`#A09588`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 블루 라군. '평화로움, 치유력, 안�
 en_name: "Blue Lagoon"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 22일의 탄생색: 블루 라군 (`#006666`)
 

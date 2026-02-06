@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 시안 블루. '깊이있는, 시원한, 지�
 en_name: "Cyan Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 31일의 탄생색: 시안 블루 (`#0B93CE`)
 

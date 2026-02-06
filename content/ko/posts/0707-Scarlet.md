@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 스칼렛. '열정적, 낭만적, 예술성'�
 en_name: "Scarlet"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 7일의 탄생색: 스칼렛 (`#FF3300`)
 

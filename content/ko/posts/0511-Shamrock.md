@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 샴록. '행운, 영감, 창의성'이라는 
 en_name: "Shamrock"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 11일의 탄생색: 샴록 (`#33CC99`)
 

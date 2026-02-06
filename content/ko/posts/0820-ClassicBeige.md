@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 클래식 베이지. '안정감있는, 편안
 en_name: "Classic Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 20일의 탄생색: 클래식 베이지 (`#D7C095`)
 

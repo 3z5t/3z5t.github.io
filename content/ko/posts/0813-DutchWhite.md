@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 더치 화이트. '전통적, 품격있는, �
 en_name: "Dutch White"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 13일의 탄생색: 더치 화이트 (`#EFE3B5`)
 

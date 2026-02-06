@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 딥 시안. '신비로움, 직관력, 통찰�
 en_name: "Deep Cyan"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 23일의 탄생색: 딥 시안 (`#347691`)
 

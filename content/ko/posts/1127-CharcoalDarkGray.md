@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 차콜 다크그레이. '차분한, 균형잡
 en_name: "Charcoal Dark Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 27일의 탄생색: 차콜 다크그레이 (`#2F2C2C`)
 

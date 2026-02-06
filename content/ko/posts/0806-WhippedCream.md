@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 생크림. '순수함, 부드러움, 깨끗�
 en_name: "Whipped Cream"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 6일의 탄생색: 생크림 (`#DFDCDD`)
 

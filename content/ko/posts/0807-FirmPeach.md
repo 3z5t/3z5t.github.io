@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 딱딱한 복숭아. '단단한의지, 결단
 en_name: "Firm Peach"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 7일의 탄생색: 딱딱한 복숭아 (`#F5EAE6`)
 

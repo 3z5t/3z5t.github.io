@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 진베이지. '풍부한감성, 깊이있는,
 en_name: "Deep Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 27일의 탄생색: 진베이지 (`#D29E5C`)
 

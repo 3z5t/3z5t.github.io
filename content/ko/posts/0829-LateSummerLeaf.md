@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 늦여름의 잎사귀. '성숙한, 깊이있
 en_name: "Late Summer Leaf"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 29일의 탄생색: 늦여름의 잎사귀 (`#566353`)
 

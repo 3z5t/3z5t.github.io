@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 밀라노 레드. '고전적인, 우아한, �
 en_name: "Milano Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 9일의 탄생색: 밀라노 레드 (`#993333`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 크리스마스 소라. '꿈많은, 희망찬
 en_name: "Christmas Sora"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 14일의 탄생색: 크리스마스 소라 (`#9AB4E0`)
 

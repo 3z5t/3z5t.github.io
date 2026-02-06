@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 겨울 밀크티. '따뜻한마음, 포근한
 en_name: "Winter Milk Tea"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 10일의 탄생색: 겨울 밀크티 (`#F2EDF3`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 가을빛 밤하늘. '사색적인, 명상적
 en_name: "Autumn Night Sky"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 1일의 탄생색: 가을빛 밤하늘 (`#3C3232`)
 

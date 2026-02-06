@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 깊은 밤. '고요한영혼, 평화로운, �
 en_name: "Deep Night"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 16일의 탄생색: 깊은 밤 (`#1A161F`)
 
@@ -57,6 +57,10 @@ postUrl: ""
 이 두 색의 만남은 마치 **'칠흑 같은 밤하늘 위에 수놓아진 맑은 은하수'** 혹은 **'깊은 바다 위로 부서지는 차가운 달빛'**과 같은 환상적인 시각적 조화를 이룹니다. '깊은 밤'이 모든 것을 품어 안는 거대한 어머니의 품이라면, '퓨어 실버'는 그 안에서 반짝이는 순수한 영혼의 빛입니다. 퓨어 실버의 청정한 에너지는 깊은 밤의 자칫 무거워질 수 있는 분위기를 정화해 주고, 깊은 밤은 퓨어 실버의 빛이 더욱 영롱하게 돋보이도록 가장 완벽한 무대가 되어줍니다. 두 색을 함께 배치하면 **'안정 속의 희망'**이라는 강력한 심리적 시너지를 경험하게 될 것입니다.
 
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjefr8b-KiMo2_TAOZBxnb3VGxGLL-H5YqH-6LlmjOq_JMVRuIE209ourj0vSDVPEONMwZiGuKNNXIDfULzJPaIr0vVnz5yMKo47VW0jlaqqSxhbgkdSEykpq5vnX6_Why8IAOs2Ol_nk8_XtVvLPbeblEIQEpSk0pXrKJEnQMWEk9h8qGWtMKch77z-fd-=s1600"
+    alt: "오늘의 색"
+    relative: false
 
 ### 5. 마무리 (치유의 시)
 

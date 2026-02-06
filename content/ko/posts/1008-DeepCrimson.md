@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 딥 크림슨. '진실된마음, 순수한열
 en_name: "Deep Crimson"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 8일의 탄생색: 딥 크림슨 (`#BA0046`)
 

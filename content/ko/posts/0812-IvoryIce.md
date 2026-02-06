@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 아이보리 아이스. '시원한성격, 차
 en_name: "Ivory Ice"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 12일의 탄생색: 아이보리 아이스 (`#DEBA86`)
 

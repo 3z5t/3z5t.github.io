@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 딥 포레스트 틸. '청명한영혼, 차�
 en_name: "Deep Forest Teal"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 8일의 탄생색: 딥 포레스트 틸 (`#17896E`)
 

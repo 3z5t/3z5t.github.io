@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 자몽. '상큼한매력, 생기발랄, 활�
 en_name: "Grapefruit"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 16일의 탄생색: 자몽 (`#FE7B84`)
 

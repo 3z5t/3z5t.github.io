@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 완두콩. '강건함, 생명력, 성장성'�
 en_name: "Pea Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 12일의 탄생색: 완두콩 (`#8C9E58`)
 

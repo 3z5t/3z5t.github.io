@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 프레쉬 민트. '창의성, 청량감, 긍�
 en_name: "Fresh Mint"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 3일의 탄생색: 프레쉬 민트 (`#64D1C3`)
 

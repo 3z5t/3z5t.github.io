@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 당근. '건강한정신, 활력, 긍정성'�
 en_name: "Carrot"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 13일의 탄생색: 당근 (`#EB731C`)
 

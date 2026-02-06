@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 클라우드 그레이. '포용력있는, 평
 en_name: "Cloud Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 21일의 탄생색: 클라우드 그레이 (`#D8D3CD`)
 

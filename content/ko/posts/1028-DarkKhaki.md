@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 다크 카키. '대지같은, 안정된, 평�
 en_name: "Dark Khaki"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 28일의 탄생색: 다크 카키 (`#BDB76B`)
 

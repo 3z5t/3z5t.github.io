@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 빈티지 네이비. '깊이있는, 안정된
 en_name: "Vintage Navy"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 26일의 탄생색: 빈티지 네이비 (`#494960`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 저녁 밤하늘. '명상적인, 차분한, �
 en_name: "Evening Sky"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 4일의 탄생색: 저녁 밤하늘 (`#071734`)
 

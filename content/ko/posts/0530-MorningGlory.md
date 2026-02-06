@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 모닝글로리. '희망적, 시작의힘, �
 en_name: "Morning Glory"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 30일의 탄생색: 모닝글로리 (`#99CCCC`)
 

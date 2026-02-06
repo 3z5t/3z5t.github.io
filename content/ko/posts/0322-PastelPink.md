@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 파스텔 핑크. '부드러움, 따뜻함, �
 en_name: "Pastel Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 22일의 탄생색: 파스텔 핑크 (`#FFD1DC`)
 

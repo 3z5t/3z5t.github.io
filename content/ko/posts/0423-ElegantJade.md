@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 단아한 옥색. '평화로움, 조화로움
 en_name: "Elegant Jade"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 23일의 탄생색: 단아한 옥색 (`#79B49F`)
 

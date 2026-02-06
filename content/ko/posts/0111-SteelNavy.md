@@ -3,23 +3,23 @@ cover:
     image: "https://blogger.googleusercontent.com/img/a/AVvXsEj6ZRDcJc1cHAgI16z0_QanLZ_qrZX39QrJDdavWtB2b0MRg8WooYa63jbLwojL4bpNsjjROTn6fOIiuKG_lrGi5JCKikn9y33KMsJ0Evqf3mBt7rOHe1dYzVVthH-0-9L9V42aE-IPGt1R3iALgLOf27dtE_tpMYJfCQ9mrPFyG5DuRVj_ycS0tbSA56R7=s1600"
     alt: "오늘의 색"
     relative: false
-author: 하루의 조각
-date: 2026-01-11
-description: 오늘의 탄생색, 스틸 네이비. '단단함, 신뢰감, 안정감'이라는 의미를 담고 있어요.
-en_name: Steel Navy
+author: "하루의 조각"
+date: "2026-01-11"
+description: "오늘의 탄생색, 스틸 네이비. '단단함, 신뢰감, 안정감'이라는 의미를 담고 있어요."
+en_name: "Steel Navy"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 스틸 네이비
-  - 1월 11일
-  - 1a3855
-  - 1월
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "스틸 네이비"
+  - "1월 11일"
+  - "1a3855"
+  - "1월"
 postId: "2966704532723182057"
-postUrl: https://the366days-ko.blogspot.com/2026/01/1-11-steel-navy_01421601772.html
-profileName: 하루의 조각
+postUrl: "https://the366days-ko.blogspot.com/2026/01/1-11-steel-navy_01421601772.html"
+profileName: "하루의 조각"
 title: "1월 11일, 오늘을 닮은 색: 스틸 네이비"
-updated: 2026-01-11
+updated: "2026-01-11"
 ---
 
 ![1월 11일, 오늘을 닮은 색: 스틸 네이비 (Steel Navy)](https://blogger.googleusercontent.com/img/a/AVvXsEj6ZRDcJc1cHAgI16z0_QanLZ_qrZX39QrJDdavWtB2b0MRg8WooYa63jbLwojL4bpNsjjROTn6fOIiuKG_lrGi5JCKikn9y33KMsJ0Evqf3mBt7rOHe1dYzVVthH-0-9L9V42aE-IPGt1R3iALgLOf27dtE_tpMYJfCQ9mrPFyG5DuRVj_ycS0tbSA56R7=s1600)

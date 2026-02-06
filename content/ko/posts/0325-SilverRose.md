@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 실버 로즈. '품위있음, 고급스러움
 en_name: "Silver Rose"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 25일의 탄생색: 실버 로즈 (`#BE8C92`)
 

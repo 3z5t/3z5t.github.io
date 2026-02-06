@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 호두. '성숙한, 지혜로운, 안정된'�
 en_name: "Walnut"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 25일의 탄생색: 호두 (`#A49376`)
 

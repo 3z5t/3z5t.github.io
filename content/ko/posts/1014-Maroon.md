@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 마룬. '안정된, 성숙한, 지혜로운'�
 en_name: "Maroon"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 14일의 탄생색: 마룬 (`#800000`)
 

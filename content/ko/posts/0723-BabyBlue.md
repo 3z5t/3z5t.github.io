@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 베이비 블루. '순수한마음, 평화로
 en_name: "Baby Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 23일의 탄생색: 베이비 블루 (`#66FFFF`)
 

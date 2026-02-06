@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 소프트 모브. '부드러운마음, 온화
 en_name: "Soft Mauve"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 5일의 탄생색: 소프트 모브 (`#887A7C`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 요구르트. '순수한마음, 신선함, �
 en_name: "Yogurt"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 5일의 탄생색: 요구르트 (`#FFDCB8`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 아쿠아마린. '청량감, 순수함, 창�
 en_name: "Aquamarine"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 6일의 탄생색: 아쿠아마린 (`#99FFCC`)
 

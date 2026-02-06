@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 깊은 밤하늘. '통찰력있는, 신비로
 en_name: "Deep Night Sky"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 3일의 탄생색: 깊은 밤하늘 (`#142029`)
 

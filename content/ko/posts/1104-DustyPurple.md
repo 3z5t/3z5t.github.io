@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 더스티 퍼플. '품위있는, 우아한, �
 en_name: "Dusty Purple"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 4일의 탄생색: 더스티 퍼플 (`#746B7A`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 버밀리온. '생명력있는, 활기찬, �
 en_name: "Vermilion"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 22일의 탄생색: 버밀리온 (`#E34234`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 토프 (Taupe). '차분한성격, 안정된, 
 en_name: "Taupe"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 18일의 탄생색: 토프 (Taupe) (`#805454`)
 

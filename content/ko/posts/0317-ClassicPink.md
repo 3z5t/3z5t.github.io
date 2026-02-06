@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 클래식 핑크. '사랑스러움, 낭만성
 en_name: "Classic Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 17일의 탄생색: 클래식 핑크 (`#FFC0CB`)
 

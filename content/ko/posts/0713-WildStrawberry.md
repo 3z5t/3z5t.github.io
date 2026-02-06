@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 와일드 스트로베리. '달콤한매력, 
 en_name: "Wild Strawberry"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 13일의 탄생색: 와일드 스트로베리 (`#FF3399`)
 

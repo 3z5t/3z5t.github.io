@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 풋사과. '젊은정신, 희망적, 생동�
 en_name: "Green Apple"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 18일의 탄생색: 풋사과 (`#5CE546`)
 

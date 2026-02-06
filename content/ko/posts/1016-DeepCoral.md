@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 딥 코랄. '차분한, 균형잡힌, 안정�
 en_name: "Deep Coral"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 16일의 탄생색: 딥 코랄 (`#743636`)
 

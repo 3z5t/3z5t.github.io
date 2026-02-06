@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 파인 그린. '순수한영혼, 신비로운
 en_name: "Pine Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 9일의 탄생색: 파인 그린 (`#207670`)
 

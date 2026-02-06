@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 다크 베이지. '깊이있는, 무게감있
 en_name: "Dark Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 26일의 탄생색: 다크 베이지 (`#DEB887`)
 

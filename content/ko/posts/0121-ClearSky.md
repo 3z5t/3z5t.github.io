@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "1월 21일, 오늘을 닮은 색: 맑은 하늘"
-date: 2026-01-21
-updated: 2026-01-21
+date: "2026-01-21"
+updated: "2026-01-21"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 맑은 하늘
-  - 1월 21일
-  - 99dbe9
-  - 1월
-description: 오늘의 탄생색, 맑은 하늘. '이상주의, 꿈꾸는, 낭만적'이라는 의미를 담고 있어요.
-en_name: Clear Sky
-author: 하루의 조각
-profileName: 하루의 조각
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "맑은 하늘"
+  - "1월 21일"
+  - "99dbe9"
+  - "1월"
+description: "오늘의 탄생색, 맑은 하늘. '이상주의, 꿈꾸는, 낭만적'이라는 의미를 담고 있어요."
+en_name: "Clear Sky"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "6614166500375809916"
 postUrl: ""
 ---

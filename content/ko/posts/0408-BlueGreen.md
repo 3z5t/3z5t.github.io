@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 블루 그린. '조화로움, 균형감, 안�
 en_name: "Blue Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 8일의 탄생색: 블루 그린 (`#30BA8F`)
 

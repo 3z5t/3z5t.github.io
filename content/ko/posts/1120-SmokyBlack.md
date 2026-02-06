@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 스모키 블랙. '은은한매력, 그윽한
 en_name: "Smoky Black"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 20일의 탄생색: 스모키 블랙 (`#100F0F`)
 

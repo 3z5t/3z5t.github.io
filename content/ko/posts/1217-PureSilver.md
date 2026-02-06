@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 퓨어 실버. '겨울처럼맑은, 순수한
 en_name: "Pure Silver"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 17일의 탄생색: 퓨어 실버 (`#E5E5E5`)
 

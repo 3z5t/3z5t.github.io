@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 진한 고동빛. '깊이있는, 안정된, �
 en_name: "Dark Espresso"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 26일의 탄생색: 진한 고동빛 (`#504644`)
 

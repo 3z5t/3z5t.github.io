@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "1월 20일, 오늘을 닮은 색: 비비드 스카이"
-date: 2026-01-20
-updated: 2026-01-20
+date: "2026-01-20"
+updated: "2026-01-20"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 비비드 스카이
-  - 1월 20일
-  - 00bfff
-  - 1월
-description: 오늘의 탄생색, 비비드 스카이. '자유로움, 개방적, 창의성'이라는 의미를 담고 있어요.
-en_name: Vivid Sky
-author: 하루의 조각
-profileName: 하루의 조각
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "비비드 스카이"
+  - "1월 20일"
+  - "00bfff"
+  - "1월"
+description: "오늘의 탄생색, 비비드 스카이. '자유로움, 개방적, 창의성'이라는 의미를 담고 있어요."
+en_name: "Vivid Sky"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "8654854168350782977"
 postUrl: ""
 ---

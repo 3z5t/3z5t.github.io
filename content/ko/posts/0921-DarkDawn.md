@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 짙은 새벽. '새로운시작의, 희망적
 en_name: "Dark Dawn"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 21일의 탄생색: 짙은 새벽 (`#3D4247`)
 

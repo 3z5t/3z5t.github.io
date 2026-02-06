@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 스노우 클라우드. '깊이있는, 고요
 en_name: "Snow Cloud"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 30일의 탄생색: 스노우 클라우드 (`#F1F5F7`)
 

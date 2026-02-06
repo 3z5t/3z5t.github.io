@@ -3,23 +3,23 @@ cover:
     image: "https://blogger.googleusercontent.com/img/a/AVvXsEikQzwwJb740Z8IXcMo_PIZVYn6BiQTKUMiyZ_XnYx0HFRmA9af4CLojUQxNmU22dywLsazcpFPEGgYaYfbsCi9VpK73ayXBhQqBpQkRZuxkTNEtBmvcZRoNjUaSQETAAnqSniZ9MGHnnuV4wgUdTDndcnrKRIeqq1Sb0tv8Exz21P9MMDh0XPLcUdqrYAH=s1600"
     alt: "오늘의 색"
     relative: false
-author: 하루의 조각
-date: '2026-01-29'
-description: 오늘의 탄생색, 마야 블루. '이상주의, 순수성, 창조성'이라는 의미를 담고 있어요.
-en_name: Maya Blue
+author: "하루의 조각"
+date: "2026-01-29"
+description: "오늘의 탄생색, 마야 블루. '이상주의, 순수성, 창조성'이라는 의미를 담고 있어요."
+en_name: "Maya Blue"
 tags:
-- 탄생색
-- 오늘의 색
-- 퍼스널 컬러
-- 마야 블루
-- 1월 29일
-- 6699ff
-- 1월
-postId: '7333173124477001153'
-postUrl: https://the366days-ko.blogspot.com/2026/01/1-29-maya-blue.html
-profileName: 하루의 조각
-title: '1월 29일, 오늘을 닮은 색: 마야 블루'
-updated: '2026-01-29'
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "마야 블루"
+  - "1월 29일"
+  - "6699ff"
+  - "1월"
+postId: "7333173124477001153"
+postUrl: "https://the366days-ko.blogspot.com/2026/01/1-29-maya-blue.html"
+profileName: "하루의 조각"
+title: "1월 29일, 오늘을 닮은 색: 마야 블루"
+updated: "2026-01-29"
 ---
 
 **1월 29일의 탄생색: 마야 블루 (#6699FF)**

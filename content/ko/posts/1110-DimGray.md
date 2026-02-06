@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 딤 그레이. '깊이있는, 차분한, 성�
 en_name: "Dim Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 10일의 탄생색: 딤 그레이 (`#666666`)
 

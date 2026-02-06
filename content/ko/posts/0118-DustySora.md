@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "1월 18일, 오늘을 닮은 색: 더스티 소라"
-date: 2026-01-18
-updated: 2026-01-18
+date: "2026-01-18"
+updated: "2026-01-18"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 더스티 소라
-  - 1월 18일
-  - a4b0cc
-  - 1월
-description: 오늘의 탄생색, 더스티 소라. '이성적, 논리적, 분석력'이라는 의미를 담고 있어요.
-en_name: Dusty Sora
-author: 하루의 조각
-profileName: 하루의 조각
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "더스티 소라"
+  - "1월 18일"
+  - "a4b0cc"
+  - "1월"
+description: "오늘의 탄생색, 더스티 소라. '이성적, 논리적, 분석력'이라는 의미를 담고 있어요."
+en_name: "Dusty Sora"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "7271988299413128698"
 postUrl: ""
 ---

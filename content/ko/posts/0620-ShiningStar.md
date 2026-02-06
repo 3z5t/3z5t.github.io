@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 샤이닝 스타. '빛나는재능, 희망적
 en_name: "Shining Star"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 20일의 탄생색: 샤이닝 스타 (`#EAAB5B`)
 

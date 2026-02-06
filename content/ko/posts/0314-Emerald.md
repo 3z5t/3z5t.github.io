@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 에메랄드. '생동감, 젊음, 창조성'�
 en_name: "Emerald"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 14일의 탄생색: 에메랄드 (`#66CC66`)
 

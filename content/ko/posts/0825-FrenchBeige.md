@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 프렌치 베이지. '세련된, 고급스러
 en_name: "French Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 25일의 탄생색: 프렌치 베이지 (`#A67B5B`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 앤티크 크리스마스 골드. '축복받�
 en_name: "Antique Christmas Gold"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 25일의 탄생색: 앤티크 크리스마스 골드 (`#947E4C`)
 

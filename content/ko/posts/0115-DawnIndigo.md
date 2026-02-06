@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "1월 15일, 오늘을 닮은 색: 새벽 쪽빛"
-date: 2026-01-15
-updated: 2026-01-15
+date: "2026-01-15"
+updated: "2026-01-15"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 새벽 쪽빛
-  - 1월 15일
-  - 2c3c57
-  - 1월
-description: 오늘의 탄생색, 새벽 쪽빛. '예술성, 문화적, 창의성'이라는 의미를 담고 있어요.
-en_name: Dawn Indigo
-author: 하루의 조각
-profileName: 하루의 조각
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "새벽 쪽빛"
+  - "1월 15일"
+  - "2c3c57"
+  - "1월"
+description: "오늘의 탄생색, 새벽 쪽빛. '예술성, 문화적, 창의성'이라는 의미를 담고 있어요."
+en_name: "Dawn Indigo"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "7097829914813912120"
 postUrl: ""
 ---

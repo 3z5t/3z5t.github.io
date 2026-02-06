@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 깊은 심연. '무한한, 신비로운, 심�
 en_name: "Deep Abyss"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 19일의 탄생색: 깊은 심연 (`#0D0D10`)
 
@@ -59,6 +59,10 @@ postUrl: ""
 백합 화이트의 고귀한 성품은 깊은 심연의 자칫 무거워지거나 고립될 수 있는 분위기를 정화해 주며, 깊은 심연은 백합 화이트의 빛이 세상에서 가장 눈부시게 돋보일 수 있도록 가장 완벽한 무대가 되어줍니다. 이 두 색을 함께 배치하면 **'심오한 지혜와 순수한 인격'**이라는 완벽한 인격적 균형과 시너지를 경험하게 될 것입니다.
 
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiL_YftLhN588x3Tr3dulr7Eu0EzEeWp47MXB5879dNdTXx2NBILrnwRJAiMzC22v6JEH7yV4C9ob41r2hbVAfySbOj_n_OuVz0AP4DbbuZLsAU1CxdmYEpJzspDo_jSARzVcGcO4b18b929GDe3usIUKo8mORMq2EIRehdzass5zIyInjiOp3ZiKT15GB5=s1600"
+    alt: "오늘의 색"
+    relative: false
 
 ### 5. 마무리 (치유의 시)
 

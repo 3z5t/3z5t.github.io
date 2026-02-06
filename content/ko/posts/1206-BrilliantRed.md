@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 브릴리언트 레드. '깊이있는, 신비
 en_name: "Brilliant Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 6일의 탄생색: 브릴리언트 레드 (`#F60100`)
 

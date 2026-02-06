@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 애쉬 베이지. '절제력있는, 균형잡
 en_name: "Ash Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 28일의 탄생색: 애쉬 베이지 (`#978B88`)
 

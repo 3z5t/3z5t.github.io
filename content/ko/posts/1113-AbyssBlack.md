@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 어비스 블랙. '무한한가능성, 신비
 en_name: "Abyss Black"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 11월 13일의 탄생색: 어비스 블랙 (`#1A1A1A`)
 

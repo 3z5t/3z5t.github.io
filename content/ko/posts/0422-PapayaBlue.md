@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 파파야 블루. '활력적, 건강함, 생�
 en_name: "Papaya Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 22일의 탄생색: 파파야 블루 (`#37B5BE`)
 

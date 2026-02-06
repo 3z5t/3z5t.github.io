@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 라이트 코랄. '부드러운마음, 상냥
 en_name: "Light Coral"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 3일의 탄생색: 라이트 코랄 (`#F19292`)
 

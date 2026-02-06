@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 핑크 그레이. '성숙함, 균형감, 지�
 en_name: "Pink Gray"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 31일의 탄생색: 핑크 그레이 (`#E5D7CD`)
 

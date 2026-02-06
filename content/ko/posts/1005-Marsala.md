@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 마르살라. '세련된, 품격있는, 우�
 en_name: "Marsala"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 5일의 탄생색: 마르살라 (`#E9AEA7`)
 

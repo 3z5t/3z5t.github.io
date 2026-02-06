@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 바나나. '쾌활함, 즐거움, 낙천적'�
 en_name: "Banana"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 6일의 탄생색: 바나나 (`#FFF462`)
 

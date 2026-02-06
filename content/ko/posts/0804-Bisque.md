@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 비스크. '포근한마음, 따스함, 안�
 en_name: "Bisque"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 4일의 탄생색: 비스크 (`#FFE4C4`)
 

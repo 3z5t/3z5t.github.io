@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 유칼립투스. '치유력, 회복력, 생�
 en_name: "Eucalyptus"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 24일의 탄생색: 유칼립투스 (`#339966`)
 

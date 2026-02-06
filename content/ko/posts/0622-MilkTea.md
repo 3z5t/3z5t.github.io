@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 밀크티. '부드러운성격, 달콤함, �
 en_name: "Milk Tea"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 22일의 탄생색: 밀크티 (`#E4B982`)
 

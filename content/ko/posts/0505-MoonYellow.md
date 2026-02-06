@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 문 옐로우. '밝은마음, 순수함, 창�
 en_name: "Moon Yellow"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 5일의 탄생색: 문 옐로우 (`#FEB721`)
 

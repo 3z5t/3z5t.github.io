@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 브랜디 펀치. '깊이있는, 안정된, �
 en_name: "Brandy Punch"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 18일의 탄생색: 브랜디 펀치 (`#C6794A`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 올리브 오일. '풍요로운, 안정된, �
 en_name: "Olive Oil"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 31일의 탄생색: 올리브 오일 (`#999900`)
 

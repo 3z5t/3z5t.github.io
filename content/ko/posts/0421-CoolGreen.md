@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 쿨 그린. '청량감, 차분함, 균형감'
 en_name: "Cool Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 21일의 탄생색: 쿨 그린 (`#78BAAD`)
 

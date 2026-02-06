@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 페일 오렌지. '따뜻한마음, 친화력
 en_name: "Pale Orange"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 2일의 탄생색: 페일 오렌지 (`#FFEBB0`)
 

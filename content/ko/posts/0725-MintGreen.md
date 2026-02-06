@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 민트 그린. '청량한성격, 상쾌한, �
 en_name: "Mint Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 25일의 탄생색: 민트 그린 (`#99FF99`)
 

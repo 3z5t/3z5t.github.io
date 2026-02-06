@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 일렉트릭 라임. '열정적, 혁신적, �
 en_name: "Electric Lime"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 13일의 탄생색: 일렉트릭 라임 (`#CCFF00`)
 

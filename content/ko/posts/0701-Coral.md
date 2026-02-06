@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 코랄. '생기발랄, 매력적, 낙천적'�
 en_name: "Coral"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 1일의 탄생색: 코랄 (`#FF7F50`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 황금 모래. '인내심, 지구력, 지속�
 en_name: "Golden Sand"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 29일의 탄생색: 황금 모래 (`#CBA135`)
 

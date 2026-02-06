@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 딥 그린. '통찰력, 지혜, 성숙함'이
 en_name: "Deep Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 13일의 탄생색: 딥 그린 (`#3D5E40`)
 

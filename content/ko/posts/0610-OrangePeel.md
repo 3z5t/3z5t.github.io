@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 오렌지 필. '밝은에너지, 즐거움, �
 en_name: "Orange Peel"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 6월 10일의 탄생색: 오렌지 필 (`#FF9900`)
 

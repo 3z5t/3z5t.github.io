@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 브라이트 핑크. '밝음, 새로움, 희�
 en_name: "Bright Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 21일의 탄생색: 브라이트 핑크 (`#FFEAF3`)
 

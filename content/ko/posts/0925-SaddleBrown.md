@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 새들 브라운. '견고한, 안정된, 신�
 en_name: "Saddle Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 25일의 탄생색: 새들 브라운 (`#4A2F29`)
 

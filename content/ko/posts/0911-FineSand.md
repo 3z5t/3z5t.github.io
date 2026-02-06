@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 고운 모래. '순수한마음, 자연스러
 en_name: "Fine Sand"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 11일의 탄생색: 고운 모래 (`#EEE9E2`)
 

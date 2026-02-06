@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 크리스마스 화이트. '깨끗한마음, 
 en_name: "Christmas White"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 29일의 탄생색: 크리스마스 화이트 (`#E2E1EE`)
 

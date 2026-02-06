@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 프러시안 레드. '의지력강한, 결단
 en_name: "Prussian Red"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 23일의 탄생색: 프러시안 레드 (`#CC3333`)
 

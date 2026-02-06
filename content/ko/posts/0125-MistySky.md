@@ -3,23 +3,23 @@ cover:
     image: "https://blogger.googleusercontent.com/img/a/AVvXsEieGN9bWz80toBsoro4-_C1FJdTp1d4mfB2Kc9Ij9fWwea-skNAUNpk1au4ITxNNPj5LyAQrBly4MD766qJewulPAywwn4nrEuMZ0AEFNiMxk9yOG8h5cKO_TCOoaK5FZ-71yWXroO8eVUt16QXjMXa_rOfjmn9VtuymiT0v4OWPFmrsChJZ-Xme1STpp1r=s1600"
     alt: "오늘의 색"
     relative: false
-author: 하루의 조각
-date: '2026-01-25'
-description: 오늘의 탄생색, 미스티 스카이. '신비로움, 직관력, 예민함'이라는 의미를 담고 있어요.
-en_name: Misty Sky
+author: "하루의 조각"
+date: "2026-01-25"
+description: "오늘의 탄생색, 미스티 스카이. '신비로움, 직관력, 예민함'이라는 의미를 담고 있어요."
+en_name: "Misty Sky"
 tags:
-- 탄생색
-- 오늘의 색
-- 퍼스널 컬러
-- 미스티 스카이
-- 1월 25일
-- c2bec5
-- 1월
-postId: '3862823635411907555'
-postUrl: https://the366days-ko.blogspot.com/2026/01/1-25-misty-sky.html
-profileName: 하루의 조각
-title: '1월 25일, 오늘을 닮은 색: 미스티 스카이'
-updated: '2026-01-25'
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "미스티 스카이"
+  - "1월 25일"
+  - "c2bec5"
+  - "1월"
+postId: "3862823635411907555"
+postUrl: "https://the366days-ko.blogspot.com/2026/01/1-25-misty-sky.html"
+profileName: "하루의 조각"
+title: "1월 25일, 오늘을 닮은 색: 미스티 스카이"
+updated: "2026-01-25"
 ---
 
 **1월 25일의 탄생색: 미스티 스카이 (#C2BEC5)**

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 아주르 블루. '시원한성격, 명쾌한
 en_name: "Azure Blue"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 7월 19일의 탄생색: 아주르 블루 (`#1E90FF`)
 

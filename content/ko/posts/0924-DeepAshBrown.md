@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 딥 애쉬브라운. '지혜로운, 깊이있
 en_name: "Deep Ash Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 24일의 탄생색: 딥 애쉬브라운 (`#49423E`)
 

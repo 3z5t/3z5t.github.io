@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 가을빛 분홍. '감성적인, 서정적인
 en_name: "Autumn Pink"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 31일의 탄생색: 가을빛 분홍 (`#CC8F8A`)
 

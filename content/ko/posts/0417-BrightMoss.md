@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 브라이트 모스. '생명력, 번영, 창�
 en_name: "Bright Moss"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 17일의 탄생색: 브라이트 모스 (`#ADC12D`)
 

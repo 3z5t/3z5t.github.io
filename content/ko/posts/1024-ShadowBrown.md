@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 섀도우 브라운. '신비로운, 깊이있
 en_name: "Shadow Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 24일의 탄생색: 섀도우 브라운 (`#503D3E`)
 

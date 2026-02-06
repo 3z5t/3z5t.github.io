@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 프러시안 그린. '균형잡힌, 안정된
 en_name: "Prussian Green"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 25일의 탄생색: 프러시안 그린 (`#009999`)
 

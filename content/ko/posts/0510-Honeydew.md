@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 허니듀. '달콤함, 싱그러움, 감성�
 en_name: "Honeydew"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 5월 10일의 탄생색: 허니듀 (`#CCFFCC`)
 

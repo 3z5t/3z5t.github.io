@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "1월 17일, 오늘을 닮은 색: 파스텔 소라"
-date: 2026-01-17
-updated: 2026-01-17
+date: "2026-01-17"
+updated: "2026-01-17"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 파스텔 소라
-  - 1월 17일
-  - b0c4de
-  - 1월
-description: 오늘의 탄생색, 파스텔 소라. '희망적, 낙관적, 밝은성격'이라는 의미를 담고 있어요.
-en_name: Pastel Sora
-author: 하루의 조각
-profileName: 하루의 조각
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "파스텔 소라"
+  - "1월 17일"
+  - "b0c4de"
+  - "1월"
+description: "오늘의 탄생색, 파스텔 소라. '희망적, 낙관적, 밝은성격'이라는 의미를 담고 있어요."
+en_name: "Pastel Sora"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "6686465174256583752"
 postUrl: ""
 ---

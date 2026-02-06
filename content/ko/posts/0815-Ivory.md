@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 상아 (Ivory). '자유로운영혼, 평화�
 en_name: "Ivory"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 15일의 탄생색: 상아 (Ivory) (`#FFFFE0`)
 

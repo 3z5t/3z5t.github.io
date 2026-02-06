@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 포레스트 가든. '건강함, 활력적, �
 en_name: "Forest Garden"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 4월 25일의 탄생색: 포레스트 가든 (`#317D61`)
 

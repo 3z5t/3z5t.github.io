@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 애쉬 브라운. '안정감있는, 균형잡
 en_name: "Ash Brown"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 9월 23일의 탄생색: 애쉬 브라운 (`#534E4B`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 레드 오렌지. '생동감있는, 활력넘
 en_name: "Red Orange"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 10월 2일의 탄생색: 레드 오렌지 (`#FF3333`)
 

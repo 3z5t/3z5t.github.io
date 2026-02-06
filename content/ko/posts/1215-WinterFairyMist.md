@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 윈터 페어리 미스트. '따뜻한마음,
 en_name: "Winter Fairy Mist"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 15일의 탄생색: 윈터 페어리 미스트 (`#B3C4E5`)
 

@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 프렌치 베이지. '따뜻한품성, 포근
 en_name: "French Beige"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 12월 20일의 탄생색: 프렌치 베이지 (`#D6A680`)
 

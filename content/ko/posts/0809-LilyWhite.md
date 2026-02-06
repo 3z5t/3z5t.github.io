@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 백합 화이트. '고귀한성품, 우아함
 en_name: "Lily White"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 8월 9일의 탄생색: 백합 화이트 (`#F3F1EF`)
 

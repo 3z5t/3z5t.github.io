@@ -4,20 +4,20 @@ cover:
     alt: "오늘의 색"
     relative: false
 title: "1월 2일, 오늘을 닮은 색: 눈꽃 화이트"
-date: 2026-01-02
-updated: 2026-01-02
+date: "2026-01-02"
+updated: "2026-01-02"
 tags:
-  - 탄생색
-  - 오늘의 색
-  - 퍼스널 컬러
-  - 눈꽃 화이트
-  - 1월 2일
-  - f2edf3
-  - 1월
-description: 오늘의 탄생색, 눈꽃 화이트. '청렴함, 이상적, 온순함'이라는 의미를 담고 있어요.
-en_name: Snowflake White
-author: 하루의 조각
-profileName: 하루의 조각
+  - "탄생색"
+  - "오늘의 색"
+  - "퍼스널 컬러"
+  - "눈꽃 화이트"
+  - "1월 2일"
+  - "f2edf3"
+  - "1월"
+description: "오늘의 탄생색, 눈꽃 화이트. '청렴함, 이상적, 온순함'이라는 의미를 담고 있어요."
+en_name: "Snowflake White"
+author: "하루의 조각"
+profileName: "하루의 조각"
 postId: "1004"
 postUrl: ""
 ---

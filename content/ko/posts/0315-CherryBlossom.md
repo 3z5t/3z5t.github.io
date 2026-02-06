@@ -16,8 +16,8 @@ description: "오늘의 탄생색, 벚꽃. '감성적, 사랑스러움, 낭만�
 en_name: "Cherry Blossom"
 author: "하루의 조각"
 profileName: "하루의 조각"
-postId: "" 
-postUrl: "" 
+postId: ""
+postUrl: ""
 ---
 ## 3월 15일의 탄생색: 벚꽃 (`#F0ADCA`)
 
