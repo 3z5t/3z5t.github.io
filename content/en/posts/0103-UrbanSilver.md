@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-03"
-description: "The birthday color for January 3 is Urban Silver (808080). Its meaning"
-  is Mediation, Balanced, Insightful.
+description: "The birthday color for January 3 is Urban Silver (808080). Its meaning is Mediation, Balanced, Insightful."
 en_name: "UrbanSilver"
 tags:
   - "urban silver"

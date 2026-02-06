@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-19"
-description: "The birthday color for January 19 is Deep Sora (667CB8). Its meaning"
-  is Sincerity, Diligence, Responsibility.
+description: "The birthday color for January 19 is Deep Sora (667CB8). Its meaning is Sincerity, Diligence, Responsibility."
 en_name: "DeepSora"
 tags:
   - "deep sora"

@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-30"
-description: "Il colore di nascita del 30 gennaio è Blu Tenue (99CCFF). Significato:"
-  Spirito libero, Apertura, Pace.'
+description: "Il colore di nascita del 30 gennaio è Blu Tenue (99CCFF). Significato: Spirito libero, Apertura, Pace."
 en_name: "Soft Blue"
 tags:
   - "marrone"

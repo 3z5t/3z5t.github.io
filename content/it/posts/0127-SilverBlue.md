@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-27"
-description: "Il colore di nascita del 27 gennaio è Blu Argentato (ABB5C1). Significato:"
-  Dignità, Eleganza, Nobiltà.'
+description: "Il colore di nascita del 27 gennaio è Blu Argentato (ABB5C1). Significato: Dignità, Eleganza, Nobiltà."
 en_name: "Silver Blue"
 tags:
   - "abb5c1"

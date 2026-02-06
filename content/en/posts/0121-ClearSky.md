@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-21"
-description: "The birthday color for January 21 is Clear Sky (99DBE9). Its meaning"
-  is Idealistic, Dreaming, Romantic.
+description: "The birthday color for January 21 is Clear Sky (99DBE9). Its meaning is Idealistic, Dreaming, Romantic."
 en_name: "ClearSky"
 tags:
   - "clear sky"

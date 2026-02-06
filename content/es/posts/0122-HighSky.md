@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Fragmentos del Día"
 date: "2026-01-22"
-description: "El color de nacimiento para el 22 de enero es Cielo Alto (0B8AC3). Significado:"
-  Espíritu Desafiante, Pionero, Innovador.'
+description: "El color de nacimiento para el 22 de enero es Cielo Alto (0B8AC3). Significado: Espíritu Desafiante, Pionero, Innovador."
 en_name: "High Sky"
 tags:
   - "cielo alto"

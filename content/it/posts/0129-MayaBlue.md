@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-29"
-description: "Il colore di nascita del 29 gennaio è Blu Maya (6699FF). Significato:"
-  Idealismo, Purezza, Creatività.'
+description: "Il colore di nascita del 29 gennaio è Blu Maya (6699FF). Significato: Idealismo, Purezza, Creatività."
 en_name: "Maya Blue"
 tags:
   - "blu maya"

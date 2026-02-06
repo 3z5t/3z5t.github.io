@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-25"
-description: "Il colore di nascita del 25 gennaio è Cielo Brumoso (C2BEC5). Significato:"
-  Mistero, Intuizione, Sensibilità.'
+description: "Il colore di nascita del 25 gennaio è Cielo Brumoso (C2BEC5). Significato: Mistero, Intuizione, Sensibilità."
 en_name: "Misty Sky"
 tags:
   - "gennaio"

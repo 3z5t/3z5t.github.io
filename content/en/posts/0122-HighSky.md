@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-22"
-description: "The birthday color for January 22 is High Sky (0B8AC3). Its meaning is"
-  Challenging Spirit, Pioneering, Innovative.
+description: "The birthday color for January 22 is High Sky (0B8AC3). Its meaning is Challenging Spirit, Pioneering, Innovative."
 en_name: "HighSky"
 tags:
   - "high sky"

@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-17"
-description: "Il colore di nascita del 17 gennaio è Cielo Pastello (B0C4DE). Significato:"
-  Speranza, Ottimismo, Solarità.'
+description: "Il colore di nascita del 17 gennaio è Cielo Pastello (B0C4DE). Significato: Speranza, Ottimismo, Solarità."
 en_name: "Pastel Sora"
 tags:
   - "b0c4de"

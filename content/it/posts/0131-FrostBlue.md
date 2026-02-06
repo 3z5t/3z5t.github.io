@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-31"
-description: "Il colore di nascita del 31 gennaio è Blu Ghiaccio (9999CC). Significato:"
-  Realizzazione, Perfezionismo, Leadership.'
+description: "Il colore di nascita del 31 gennaio è Blu Ghiaccio (9999CC). Significato: Realizzazione, Perfezionismo, Leadership."
 en_name: "Frost Blue"
 tags:
   - "gennaio"

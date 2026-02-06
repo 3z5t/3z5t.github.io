@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-22"
-description: "Il colore di nascita del 22 gennaio è Cielo Alto (0B8AC3). Significato:"
-  Spirito di sfida, Pionierismo, Innovazione.'
+description: "Il colore di nascita del 22 gennaio è Cielo Alto (0B8AC3). Significato: Spirito di sfida, Pionierismo, Innovazione."
 en_name: "High Sky"
 tags:
   - "cielo alto"

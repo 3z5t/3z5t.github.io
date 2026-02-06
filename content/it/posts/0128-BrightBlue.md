@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-28"
-description: "Il colore di nascita del 28 gennaio è Blu Brillante (9CB0D3). Significato:"
-  Positività, Energia luminosa, Speranza.'
+description: "Il colore di nascita del 28 gennaio è Blu Brillante (9CB0D3). Significato: Positività, Energia luminosa, Speranza."
 en_name: "Bright Blue"
 tags:
   - "28 gennaio"

@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-05"
-description: "The birthday color for January 5 is Royal Cobalt (00009B). Its meaning"
-  is Pioneering, Leadership, Challenging Spirit.
+description: "The birthday color for January 5 is Royal Cobalt (00009B). Its meaning is Pioneering, Leadership, Challenging Spirit."
 en_name: "RoyalCobalt"
 tags:
   - "royal cobalt"

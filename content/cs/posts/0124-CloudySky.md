@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-24"
-description: "Barva narození pro 24. ledna je Zatažená obloha (C3CFE0). Význam: Vstřícnost,"
-  Pochopení, Ohleduplnost.'
+description: "Barva narození pro 24. ledna je Zatažená obloha (C3CFE0). Význam: Vstřícnost, Pochopení, Ohleduplnost."
 en_name: "Cloudy Sky"
 tags:
   - "podzimní listí"

@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-18"
-description: "Barva narození pro 18. ledna je Zaprášená nebeská (A4B0CC). Význam:"
-  Racionalita, Logika, Analytika.'
+description: "Barva narození pro 18. ledna je Zaprášená nebeská (A4B0CC). Význam: Racionalita, Logika, Analytika."
 en_name: "Dusty Sora"
 tags:
   - "18. ledna"

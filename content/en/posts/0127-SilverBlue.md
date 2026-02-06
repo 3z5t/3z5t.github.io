@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-27"
-description: "The birthday color for January 27 is Silver Blue (ABB5C1). Its meaning"
-  is Dignified, Elegant, Noble.
+description: "The birthday color for January 27 is Silver Blue (ABB5C1). Its meaning is Dignified, Elegant, Noble."
 en_name: "SilverBlue"
 tags:
   - "silver blue"

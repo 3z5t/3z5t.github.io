@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-20"
-description: "Il colore di nascita del 20 gennaio è Cielo Vivido (00BFFF). Significato:"
-  Libertà, Apertura mentale, Creatività.'
+description: "Il colore di nascita del 20 gennaio è Cielo Vivido (00BFFF). Significato: Libertà, Apertura mentale, Creatività."
 en_name: "Vivid Sky"
 tags:
   - "cielo vivido"

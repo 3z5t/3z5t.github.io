@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-12"
-description: "Barva narození pro 12. ledna je Hluboká oceánská modř (465C83). Význam:"
-  Vstřícnost, Velkorysost, Rozhled.'
+description: "Barva narození pro 12. ledna je Hluboká oceánská modř (465C83). Význam: Vstřícnost, Velkorysost, Rozhled."
 en_name: "Deep Ocean Blue"
 tags:
   - "hluboká oceánská modř"

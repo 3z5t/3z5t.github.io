@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-14"
-description: "Il colore di nascita del 14 gennaio è Blu Marino Vero (313C75). Significato:"
-  Sincerità, Veridicità, Dedizione.'
+description: "Il colore di nascita del 14 gennaio è Blu Marino Vero (313C75). Significato: Sincerità, Veridicità, Dedizione."
 en_name: "True Navy"
 tags:
   - "gennaio"

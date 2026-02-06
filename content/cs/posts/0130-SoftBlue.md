@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-30"
-description: "Barva narození pro 30. ledna je Jemná modrá (99CCFF). Význam: Svobodomyslnost,"
-  Otevřenost, Mír.'
+description: "Barva narození pro 30. ledna je Jemná modrá (99CCFF). Význam: Svobodomyslnost, Otevřenost, Mír."
 en_name: "Soft Blue"
 tags:
   - "99ccff"

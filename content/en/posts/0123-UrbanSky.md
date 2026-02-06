@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-23"
-description: "The birthday color for January 23 is Urban Sky (BBC1CA). Its meaning"
-  is Modern, Sophisticated, Progressive.
+description: "The birthday color for January 23 is Urban Sky (BBC1CA). Its meaning is Modern, Sophisticated, Progressive."
 en_name: "UrbanSky"
 tags:
   - "urban sky"

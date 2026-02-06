@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-02"
-description: "The birthday color for January 2 is Snowflake White (F2EDF3). Its meaning"
-  is Integrity, Idealistic, Gentle.
+description: "The birthday color for January 2 is Snowflake White (F2EDF3). Its meaning is Integrity, Idealistic, Gentle."
 en_name: "SnowflakeWhite"
 tags:
   - "snowflake white"

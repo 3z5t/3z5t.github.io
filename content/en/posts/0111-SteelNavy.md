@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-11"
-description: "The birthday color for January 11 is Steel Navy (1A3855). Its meaning"
-  is Sturdiness, Trustworthiness, Stability.
+description: "The birthday color for January 11 is Steel Navy (1A3855). Its meaning is Sturdiness, Trustworthiness, Stability."
 en_name: "SteelNavy"
 tags:
   - "steel navy"

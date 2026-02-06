@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-01"
-description: "The birthday color for January 1 is Snow White (F2F1F1). Its meaning"
-  is Creative, Pure, Newness.
+description: "The birthday color for January 1 is Snow White (F2F1F1). Its meaning is Creative, Pure, Newness."
 en_name: "SnowWhite"
 tags:
   - "snow white"

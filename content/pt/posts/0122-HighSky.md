@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Fragmentos do Dia"
 date: "2026-01-22"
-description: "A cor de nascimento para o dia 22 de janeiro é Céu Alto (0B8AC3). Significado:"
-  Espírito Desafiador, Pioneiro, Inovador.'
+description: "A cor de nascimento para o dia 22 de janeiro é Céu Alto (0B8AC3). Significado: Espírito Desafiador, Pioneiro, Inovador."
 en_name: "High Sky"
 tags:
   - "céu alto"

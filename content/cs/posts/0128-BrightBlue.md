@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-28"
-description: "Barva narození pro 28. ledna je Jasně modrá (9CB0D3). Význam: Pozitivita,"
-  Jasná energie, Naděje.'
+description: "Barva narození pro 28. ledna je Jasně modrá (9CB0D3). Význam: Pozitivita, Jasná energie, Naděje."
 en_name: "Bright Blue"
 tags:
   - "jasně modrá"

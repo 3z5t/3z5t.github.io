@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-16"
-description: "The birthday color for January 16 is Sora Blue (7F9BB9). Its meaning"
-  is Harmonious, Peaceful, Friendly.
+description: "The birthday color for January 16 is Sora Blue (7F9BB9). Its meaning is Harmonious, Peaceful, Friendly."
 en_name: "SoraBlue"
 tags:
   - "sora blue"

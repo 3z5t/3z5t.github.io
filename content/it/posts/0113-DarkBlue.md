@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-13"
-description: "Il colore di nascita del 13 gennaio è Blu Scuro (00008B). Significato:"
-  Perspicacia, Contemplazione, Saggezza.'
+description: "Il colore di nascita del 13 gennaio è Blu Scuro (00008B). Significato: Perspicacia, Contemplazione, Saggezza."
 en_name: "Dark Blue"
 tags:
   - "00008b"

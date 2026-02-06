@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-11"
-description: "Il colore di nascita del 11 gennaio è Blu Acciaio (1A3855). Significato:"
-  Robustezza, Fiducia, Stabilità.'
+description: "Il colore di nascita del 11 gennaio è Blu Acciaio (1A3855). Significato: Robustezza, Fiducia, Stabilità."
 en_name: "Steel Navy"
 tags:
   - "gennaio"

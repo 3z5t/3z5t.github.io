@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-17"
-description: "Barva narození pro 17. ledna je Pastelová nebeská (B0C4DE). Význam:"
-  Naděje, Optimismus, Jasná osobnost.'
+description: "Barva narození pro 17. ledna je Pastelová nebeská (B0C4DE). Význam: Naděje, Optimismus, Jasná osobnost."
 en_name: "Pastel Sora"
 tags:
   - "pastelová nebeská"

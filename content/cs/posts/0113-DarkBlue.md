@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-13"
-description: "Barva narození pro 13. ledna je Tmavě modrá (00008B). Význam: Vhled,"
-  Rozjímání, Moudrost.'
+description: "Barva narození pro 13. ledna je Tmavě modrá (00008B). Význam: Vhled, Rozjímání, Moudrost."
 en_name: "Dark Blue"
 tags:
   - "tmavě modrá"

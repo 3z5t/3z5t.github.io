@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-07"
-description: "The birthday color for January 7 is Deep Black (1A1A1F). Its meaning"
-  is Determination, Willpower, Originality.
+description: "The birthday color for January 7 is Deep Black (1A1A1F). Its meaning is Determination, Willpower, Originality."
 en_name: "DeepBlack"
 tags:
   - "deep black"

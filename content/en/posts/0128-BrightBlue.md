@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-28"
-description: "The birthday color for January 28 is Bright Blue (9CB0D3). Its meaning"
-  is Positive, Bright Energy, Hopeful.
+description: "The birthday color for January 28 is Bright Blue (9CB0D3). Its meaning is Positive, Bright Energy, Hopeful."
 en_name: "BrightBlue"
 tags:
   - "bright blue"

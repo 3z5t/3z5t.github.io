@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-21"
-description: "Barva narození pro 21. ledna je Jasná obloha (99DBE9). Význam: Idealismus,"
-  Snění, Romantika.'
+description: "Barva narození pro 21. ledna je Jasná obloha (99DBE9). Význam: Idealismus, Snění, Romantika."
 en_name: "Clear Sky"
 tags:
   - "červenohnědá"

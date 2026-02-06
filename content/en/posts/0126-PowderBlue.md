@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-26"
-description: "The birthday color for January 26 is Powder Blue (C4E8E6). Its meaning"
-  is Gentle, Delicate, Empathetic.
+description: "The birthday color for January 26 is Powder Blue (C4E8E6). Its meaning is Gentle, Delicate, Empathetic."
 en_name: "PowderBlue"
 tags:
   - "powder blue"

@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-19"
-description: "Il colore di nascita del 19 gennaio è Cielo Profondo (667CB8). Significato:"
-  Sincerità, Diligenza, Responsabilità.'
+description: "Il colore di nascita del 19 gennaio è Cielo Profondo (667CB8). Significato: Sincerità, Diligenza, Responsabilità."
 en_name: "Deep Sora"
 tags:
   - "cielo profondo"

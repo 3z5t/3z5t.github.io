@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-25"
-description: "Barva narození pro 25. ledna je Mlhavé nebe (C2BEC5). Význam: Tajemno,"
-  Intuice, Citlivost.'
+description: "Barva narození pro 25. ledna je Mlhavé nebe (C2BEC5). Význam: Tajemno, Intuice, Citlivost."
 en_name: "Misty Sky"
 tags:
   - "c2bec5"

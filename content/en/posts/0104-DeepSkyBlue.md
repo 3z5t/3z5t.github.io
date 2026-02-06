@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-04"
-description: "The birthday color for January 4 is Deep Sky Blue (00CCFF). Its meaning"
-  is Infinite Possibility, Progressive, Passionate.
+description: "The birthday color for January 4 is Deep Sky Blue (00CCFF). Its meaning is Infinite Possibility, Progressive, Passionate."
 en_name: "DeepSkyBlue"
 tags:
   - "deep sky blue"

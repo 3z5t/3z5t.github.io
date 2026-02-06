@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-18"
-description: "The birthday color for January 18 is Dusty Sora (A4B0CC). Its meaning"
-  is Rational, Logical, Analytical.
+description: "The birthday color for January 18 is Dusty Sora (A4B0CC). Its meaning is Rational, Logical, Analytical."
 en_name: "DustySora"
 tags:
   - "dusty sora"

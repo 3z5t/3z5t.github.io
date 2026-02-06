@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-20"
-description: "Barva narození pro 20. ledna je Živá obloha (00BFFF). Význam: Svoboda,"
-  Otevřenost, Kreativita.'
+description: "Barva narození pro 20. ledna je Živá obloha (00BFFF). Význam: Svoboda, Otevřenost, Kreativita."
 en_name: "Vivid Sky"
 tags:
   - "šarlatová"

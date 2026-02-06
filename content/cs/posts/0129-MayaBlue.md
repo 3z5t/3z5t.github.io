@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-29"
-description: "Barva narození pro 29. ledna je Mayská modrá (6699FF). Význam: Idealismus,"
-  Čistota, Kreativita.'
+description: "Barva narození pro 29. ledna je Mayská modrá (6699FF). Význam: Idealismus, Čistota, Kreativita."
 en_name: "Maya Blue"
 tags:
   - "mayská modrá"

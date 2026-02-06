@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-17"
-description: "The birthday color for January 17 is Pastel Sora (B0C4DE). Its meaning"
-  is Hopeful, Optimistic, Bright Personality.
+description: "The birthday color for January 17 is Pastel Sora (B0C4DE). Its meaning is Hopeful, Optimistic, Bright Personality."
 en_name: "PastelSora"
 tags:
   - "pastel sora"

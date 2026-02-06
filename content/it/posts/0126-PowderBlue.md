@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-26"
-description: "Il colore di nascita del 26 gennaio è Celeste Polvere (C4E8E6). Significato:"
-  Gentilezza, Delicatezza, Empatia.'
+description: "Il colore di nascita del 26 gennaio è Celeste Polvere (C4E8E6). Significato: Gentilezza, Delicatezza, Empatia."
 en_name: "Powder Blue"
 tags:
   - "celeste polvere"

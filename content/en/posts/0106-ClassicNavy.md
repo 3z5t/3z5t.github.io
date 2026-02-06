@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-06"
-description: "The birthday color for January 6 is Classic Navy (000066). Its meaning"
-  is Conviction, Responsibility, Leadership.
+description: "The birthday color for January 6 is Classic Navy (000066). Its meaning is Conviction, Responsibility, Leadership."
 en_name: "ClassicNavy"
 tags:
   - "classic navy"

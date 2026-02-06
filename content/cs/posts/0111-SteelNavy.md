@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-11"
-description: "Barva narození pro 11. ledna je Ocelová námořní modrá (1A3855). Význam:"
-  Pevnost, Důvěryhodnost, Stabilita.'
+description: "Barva narození pro 11. ledna je Ocelová námořní modrá (1A3855). Význam: Pevnost, Důvěryhodnost, Stabilita."
 en_name: "Steel Navy"
 tags:
   - "jemná béžová"

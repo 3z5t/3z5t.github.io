@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-15"
-description: "The birthday color for January 15 is Dawn Indigo (2C3C57). Its meaning"
-  is Artistic, Cultural, Creative.
+description: "The birthday color for January 15 is Dawn Indigo (2C3C57). Its meaning is Artistic, Cultural, Creative."
 en_name: "DawnIndigo"
 tags:
   - "dawn indigo"

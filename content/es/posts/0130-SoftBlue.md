@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Fragmentos del Día"
 date: "2026-01-30"
-description: "El color de nacimiento para el 30 de enero es Azul Suave (99CCFF). Significado:"
-  Espíritu Libre, Mente Abierta, Pacífico.'
+description: "El color de nacimiento para el 30 de enero es Azul Suave (99CCFF). Significado: Espíritu Libre, Mente Abierta, Pacífico."
 en_name: "Soft Blue"
 tags:
   - "azul suave"

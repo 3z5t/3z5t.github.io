@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-29"
-description: "The birthday color for January 29 is Maya Blue (6699FF). Its meaning"
-  is Idealistic, Purity, Creativity.
+description: "The birthday color for January 29 is Maya Blue (6699FF). Its meaning is Idealistic, Purity, Creativity."
 en_name: "MayaBlue"
 tags:
   - "maya blue"

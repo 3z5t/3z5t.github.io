@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-08"
-description: "The birthday color for January 8 is Midnight Blue (191970). Its meaning"
-  is Wisdom, Insight, Creativity.
+description: "The birthday color for January 8 is Midnight Blue (191970). Its meaning is Wisdom, Insight, Creativity."
 en_name: "MidnightBlue"
 tags:
   - "midnight blue"

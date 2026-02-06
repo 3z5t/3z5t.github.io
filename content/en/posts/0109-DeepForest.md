@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-09"
-description: "The birthday color for January 9 is Deep Forest (13191A). Its meaning"
-  is Growth, Development, Innovation.
+description: "The birthday color for January 9 is Deep Forest (13191A). Its meaning is Growth, Development, Innovation."
 en_name: "DeepForest"
 tags:
   - "deep forest"

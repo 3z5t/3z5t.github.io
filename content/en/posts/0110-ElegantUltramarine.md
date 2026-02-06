@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-10"
-description: "The birthday color for January 10 is Elegant Ultramarine (445B97). Its"
-  meaning is Reliability, Loyalty, Honesty.
+description: "The birthday color for January 10 is Elegant Ultramarine (445B97). Its meaning is Reliability, Loyalty, Honesty."
 en_name: "ElegantUltramarine"
 tags:
   - "elegant ultramarine"

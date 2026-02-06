@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-16"
-description: "Il colore di nascita del 16 gennaio è Azzurro Cielo (7F9BB9). Significato:"
-  Armonia, Pace, Cordialità.'
+description: "Il colore di nascita del 16 gennaio è Azzurro Cielo (7F9BB9). Significato: Armonia, Pace, Cordialità."
 en_name: "Sora Blue"
 tags:
   - "gennaio"

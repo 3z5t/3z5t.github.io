@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-12"
-description: "The birthday color for January 12 is Deep Ocean Blue (465C83). Its meaning"
-  is Inclusiveness, Generosity, Broad-minded.
+description: "The birthday color for January 12 is Deep Ocean Blue (465C83). Its meaning is Inclusiveness, Generosity, Broad-minded."
 en_name: "DeepOceanBlue"
 tags:
   - "deep ocean blue"

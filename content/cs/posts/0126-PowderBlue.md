@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-26"
-description: "Barva narození pro 26. ledna je Pudrově modrá (C4E8E6). Význam: Jemnost,"
-  Citlivost, Empatie.'
+description: "Barva narození pro 26. ledna je Pudrově modrá (C4E8E6). Význam: Jemnost, Citlivost, Empatie."
 en_name: "Powder Blue"
 tags:
   - "26. ledna"

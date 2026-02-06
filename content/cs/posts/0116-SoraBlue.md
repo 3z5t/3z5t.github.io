@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-16"
-description: "Barva narození pro 16. ledna je Nebeská modrá (7F9BB9). Význam: Harmonie,"
-  Mírumilovnost, Přátelskost.'
+description: "Barva narození pro 16. ledna je Nebeská modrá (7F9BB9). Význam: Harmonie, Mírumilovnost, Přátelskost."
 en_name: "Sora Blue"
 tags:
   - "nebeská modrá"

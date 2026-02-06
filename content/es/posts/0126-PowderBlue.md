@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Fragmentos del Día"
 date: "2026-01-26"
-description: "El color de nacimiento para el 26 de enero es Azul Talco (C4E8E6). Significado:"
-  Gentil, Delicado, Empático.'
+description: "El color de nacimiento para el 26 de enero es Azul Talco (C4E8E6). Significado: Gentil, Delicado, Empático."
 en_name: "Powder Blue"
 tags:
   - "azul talco"

@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-23"
-description: "Il colore di nascita del 23 gennaio è Cielo Urbano (BBC1CA). Significato:"
-  Modernità, Raffinatezza, Progressismo.'
+description: "Il colore di nascita del 23 gennaio è Cielo Urbano (BBC1CA). Significato: Modernità, Raffinatezza, Progressismo."
 en_name: "Urban Sky"
 tags:
   - "gennaio"

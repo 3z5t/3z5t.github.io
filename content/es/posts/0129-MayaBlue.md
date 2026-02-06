@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Fragmentos del Día"
 date: "2026-01-29"
-description: "El color de nacimiento para el 29 de enero es Azul Maya (6699FF). Significado:"
-  Idealista, Pureza, Creatividad.'
+description: "El color de nacimiento para el 29 de enero es Azul Maya (6699FF). Significado: Idealista, Pureza, Creatividad."
 en_name: "Maya Blue"
 tags:
   - "azul maya"

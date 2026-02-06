@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Fragmentos do Dia"
 date: "2026-01-29"
-description: "A cor de nascimento para o dia 29 de janeiro é Azul Maia (6699FF). Significado:"
-  Idealista, Pureza, Criatividade.'
+description: "A cor de nascimento para o dia 29 de janeiro é Azul Maia (6699FF). Significado: Idealista, Pureza, Criatividade."
 en_name: "Maya Blue"
 tags:
   - "azul maia"

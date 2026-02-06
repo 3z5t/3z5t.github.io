@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-14"
-description: "The birthday color for January 14 is True Navy (313C75). Its meaning"
-  is Sincerity, Truthfulness, Devoted.
+description: "The birthday color for January 14 is True Navy (313C75). Its meaning is Sincerity, Truthfulness, Devoted."
 en_name: "TrueNavy"
 tags:
   - "true navy"

@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Günün İzleri"
 date: "2026-01-11"
-description: "11 Ocak tarihinin doğum günü rengi Çelik Laciverti (1A3855). Anlamı:"
-  Sağlamlık, Güven, İstikrar'
+description: "11 Ocak tarihinin doğum günü rengi Çelik Laciverti (1A3855). Anlamı: Sağlamlık, Güven, İstikrar"
 en_name: "Steel Navy"
 tags:
   - "1a3855"

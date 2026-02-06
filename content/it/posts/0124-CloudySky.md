@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-24"
-description: "Il colore di nascita del 24 gennaio è Cielo Nuvoloso (C3CFE0). Significato:"
-  Inclusività, Comprensione, Premura.'
+description: "Il colore di nascita del 24 gennaio è Cielo Nuvoloso (C3CFE0). Significato: Inclusività, Comprensione, Premura."
 en_name: "Cloudy Sky"
 tags:
   - "24 gennaio"

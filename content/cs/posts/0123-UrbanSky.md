@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-23"
-description: "Barva narození pro 23. ledna je Městské nebe (BBC1CA). Význam: Modernost,"
-  Sofistikovanost, Progresivita.'
+description: "Barva narození pro 23. ledna je Městské nebe (BBC1CA). Význam: Modernost, Sofistikovanost, Progresivita."
 en_name: "Urban Sky"
 tags:
   - "městské nebe"

@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-27"
-description: "Barva narození pro 27. ledna je Stříbřitě modrá (ABB5C1). Význam: Důstojnost,"
-  Elegance, Ušlechtilost.'
+description: "Barva narození pro 27. ledna je Stříbřitě modrá (ABB5C1). Význam: Důstojnost, Elegance, Ušlechtilost."
 en_name: "Silver Blue"
 tags:
   - "tmavé espresso"

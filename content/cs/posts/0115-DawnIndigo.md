@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-15"
-description: "Barva narození pro 15. ledna je Úsvitová indigo (2C3C57). Význam: Uměleckost,"
-  Kultura, Kreativita.'
+description: "Barva narození pro 15. ledna je Úsvitová indigo (2C3C57). Význam: Uměleckost, Kultura, Kreativita."
 en_name: "Dawn Indigo"
 tags:
   - "15. ledna"

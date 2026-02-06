@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-15"
-description: "Il colore di nascita del 15 gennaio è Indaco dell''Alba (2C3C57). Significato:"
-  Senso artistico, Cultura, Creatività.'
+description: "Il colore di nascita del 15 gennaio è Indaco dell''Alba (2C3C57). Significato: Senso artistico, Cultura, Creatività."
 en_name: "Dawn Indigo"
 tags:
   - "spiaggia invernale"

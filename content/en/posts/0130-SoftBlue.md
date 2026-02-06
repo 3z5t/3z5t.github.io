@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-30"
-description: "The birthday color for January 30 is Soft Blue (99CCFF). Its meaning"
-  is Free-spirited, Open-minded, Peaceful.
+description: "The birthday color for January 30 is Soft Blue (99CCFF). Its meaning is Free-spirited, Open-minded, Peaceful."
 en_name: "SoftBlue"
 tags:
   - "soft blue"

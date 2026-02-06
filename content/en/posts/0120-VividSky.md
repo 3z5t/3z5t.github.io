@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-20"
-description: "The birthday color for January 20 is Vivid Sky (00BFFF). Its meaning"
-  is Free, Open-minded, Creativity.
+description: "The birthday color for January 20 is Vivid Sky (00BFFF). Its meaning is Free, Open-minded, Creativity."
 en_name: "VividSky"
 tags:
   - "vivid sky"

@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-19"
-description: "Barva narození pro 19. ledna je Hluboká nebeská (667CB8). Význam: Upřímnost,"
-  Píle, Odpovědnost.'
+description: "Barva narození pro 19. ledna je Hluboká nebeská (667CB8). Význam: Upřímnost, Píle, Odpovědnost."
 en_name: "Deep Sora"
 tags:
   - "19. ledna"

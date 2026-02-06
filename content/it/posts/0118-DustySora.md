@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-18"
-description: "Il colore di nascita del 18 gennaio è Cielo Polvere (A4B0CC). Significato:"
-  Razionalità, Logica, Analisi.'
+description: "Il colore di nascita del 18 gennaio è Cielo Polvere (A4B0CC). Significato: Razionalità, Logica, Analisi."
 en_name: "Dusty Sora"
 tags:
   - "gennaio"

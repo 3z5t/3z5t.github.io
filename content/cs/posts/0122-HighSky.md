@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-22"
-description: "Barva narození pro 22. ledna je Vysoké nebe (0B8AC3). Význam: Duch výzvy,"
-  Průkopnictví, Inovace.'
+description: "Barva narození pro 22. ledna je Vysoké nebe (0B8AC3). Význam: Duch výzvy, Průkopnictví, Inovace."
 en_name: "High Sky"
 tags:
   - "0b8ac3"

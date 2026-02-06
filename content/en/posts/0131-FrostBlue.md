@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-31"
-description: "The birthday color for January 31 is Frost Blue (9999CC). Its meaning"
-  is Achievement, Perfectionist, Leadership.
+description: "The birthday color for January 31 is Frost Blue (9999CC). Its meaning is Achievement, Perfectionist, Leadership."
 en_name: "FrostBlue"
 tags:
   - "frost blue"

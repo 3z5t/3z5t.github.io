@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Frammenti di un Giorno"
 date: "2026-01-21"
-description: "Il colore di nascita del 21 gennaio è Cielo Limpido (99DBE9). Significato:"
-  Idealismo, Sogno, Romanticismo.'
+description: "Il colore di nascita del 21 gennaio è Cielo Limpido (99DBE9). Significato: Idealismo, Sogno, Romanticismo."
 en_name: "Clear Sky"
 tags:
   - "gennaio"

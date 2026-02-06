@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-25"
-description: "The birthday color for January 25 is Misty Sky (C2BEC5). Its meaning"
-  is Mysterious, Intuitive, Sensitive.
+description: "The birthday color for January 25 is Misty Sky (C2BEC5). Its meaning is Mysterious, Intuitive, Sensitive."
 en_name: "MistySky"
 tags:
   - "misty sky"

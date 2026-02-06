@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-31"
-description: "Barva narození pro 31. ledna je Ledově modrá (9999CC). Význam: Úspěch,"
-  Perfekcionismus, Vůdcovství.'
+description: "Barva narození pro 31. ledna je Ledově modrá (9999CC). Význam: Úspěch, Perfekcionismus, Vůdcovství."
 en_name: "Frost Blue"
 tags:
   - "ledově modrá"

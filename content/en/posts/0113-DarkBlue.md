@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-13"
-description: "The birthday color for January 13 is Dark Blue (00008B). Its meaning"
-  is Insightful, Contemplative, Wise.
+description: "The birthday color for January 13 is Dark Blue (00008B). Its meaning is Insightful, Contemplative, Wise."
 en_name: "DarkBlue"
 tags:
   - "dark blue"

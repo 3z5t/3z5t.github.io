@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Pieces of a Day"
 date: "2026-01-24"
-description: "The birthday color for January 24 is Cloudy Sky (C3CFE0). Its meaning"
-  is Inclusiveness, Understanding, Consideration.
+description: "The birthday color for January 24 is Cloudy Sky (C3CFE0). Its meaning is Inclusiveness, Understanding, Consideration."
 en_name: "CloudySky"
 tags:
   - "cloudy sky"

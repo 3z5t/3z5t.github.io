@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Fragmentos do Dia"
 date: "2026-01-21"
-description: "A cor de nascimento para o dia 21 de janeiro é Céu Claro (99DBE9). Significado:"
-  Idealista, Sonhador, Romântico.'
+description: "A cor de nascimento para o dia 21 de janeiro é Céu Claro (99DBE9). Significado: Idealista, Sonhador, Romântico."
 en_name: "Clear Sky"
 tags:
   - "céu claro"

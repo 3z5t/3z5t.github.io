@@ -5,8 +5,7 @@ cover:
     relative: false
 author: "Střípky Dne"
 date: "2026-01-14"
-description: "Barva narození pro 14. ledna je Pravá námořní modrá (313C75). Význam:"
-  Upřímnost, Pravdomluvnost, Oddanost.'
+description: "Barva narození pro 14. ledna je Pravá námořní modrá (313C75). Význam: Upřímnost, Pravdomluvnost, Oddanost."
 en_name: "True Navy"
 tags:
   - "313c75"
