@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj5MB35JGWYs15j2Tf4mmOUTXPS0zWQbEJpDuOH8Q7CHXvvYnAGOL0pjrnk4qwMh1UAzYw7IAgwx-Qni6J7s_Ain7R3uNUbuLDg52s9GrZUJD3zF5piclyhH4b6tT30GVzgisRYavAzX_8cL1jUnC1r8ztvKi69Uft4d5vIn8gIzddWsFUdMD1lbjXv2IRQ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ブラックチョコレート、11月15日の誕生色"
 date: "2026-11-15"
 updated: "2026-11-15"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "ピュアシルバー"
 description: "11月15日の誕生色 ブラックチョコレート(191616)。色言葉は「成熟、深みのある、ほろ苦い」です。相性の良い色はピュアシルバーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj5MB35JGWYs15j2Tf4mmOUTXPS0zWQbEJpDuOH8Q7CHXvvYnAGOL0pjrnk4qwMh1UAzYw7IAgwx-Qni6J7s_Ain7R3uNUbuLDg52s9GrZUJD3zF5piclyhH4b6tT30GVzgisRYavAzX_8cL1jUnC1r8ztvKi69Uft4d5vIn8gIzddWsFUdMD1lbjXv2IRQ=s1600"
 en_name: "Black Chocolate"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj5MB35JGWYs15j2Tf4mmOUTXPS0zWQbEJpDuOH8Q7CHXvvYnAGOL0pjrnk4qwMh1UAzYw7IAgwx-Qni6J7s_Ain7R3uNUbuLDg52s9GrZUJD3zF5piclyhH4b6tT30GVzgisRYavAzX_8cL1jUnC1r8ztvKi69Uft4d5vIn8gIzddWsFUdMD1lbjXv2IRQ=s1600)
-
 
 ## 11月15日の誕生色: ブラックチョコレート (`#191616`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjoFAv2RtymwdLykOa9B2BgPWrDcbr76bmOpLrAMQd_PdRWTRou_3KZGjPWoSnsNOxp0ubi7e-_pPy9pmdotM4TUF8qv0N2Pl2rpZww42rLAJLf_Ge7MT4QSf6Zg0MF5FhBRdNAl7dFVk90MCb48qGu8WQ4TSN35n1dGC-LpInjHsVzWcqp27TOgch2ofLt=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "エレガントジェイド、4月23日の誕生色"
 date: "2026-04-23"
 updated: "2026-04-23"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "トープ"
 description: "4月23日の誕生色 エレガントジェイド(79B49F)。色言葉は「平和、調和、安定感」です。相性の良い色はトープです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjoFAv2RtymwdLykOa9B2BgPWrDcbr76bmOpLrAMQd_PdRWTRou_3KZGjPWoSnsNOxp0ubi7e-_pPy9pmdotM4TUF8qv0N2Pl2rpZww42rLAJLf_Ge7MT4QSf6Zg0MF5FhBRdNAl7dFVk90MCb48qGu8WQ4TSN35n1dGC-LpInjHsVzWcqp27TOgch2ofLt=s1600"
 en_name: "Elegant Jade"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjoFAv2RtymwdLykOa9B2BgPWrDcbr76bmOpLrAMQd_PdRWTRou_3KZGjPWoSnsNOxp0ubi7e-_pPy9pmdotM4TUF8qv0N2Pl2rpZww42rLAJLf_Ge7MT4QSf6Zg0MF5FhBRdNAl7dFVk90MCb48qGu8WQ4TSN35n1dGC-LpInjHsVzWcqp27TOgch2ofLt=s1600)
-
 
 ## 4月23日の誕生色: エレガントジェイド (`#79B49F`)
 

@@ -1,25 +1,25 @@
 ---
-title: クラシックネイビー、1月6日の誕生色
-date: 2026-01-06
-updated: 2026-01-06
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgh9zfXRCfjOk7nrqhm9mCwJN5qqItyW3fDcGwHGOMoD2eRbp9VZlVFVMMEB5EgrlL4fks5DHgdp9rrQZfR_gSJo8ixFqD8S0UPSCrGnhisg8AmsuyMwvRifvbOt-Kuqg3uc2W3GPdYiWqiJtzM1fj0T6vB0FNt5sGDRWBQn4QuX06ckO_jqa7Zn2mucc_2=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "クラシックネイビー、1月6日の誕生色"
+date: "2026-01-06"
+updated: "2026-01-06"
 tags:
-  - クラシックネイビー
-  - 誕生色
-  - 1月6日
+  - "クラシックネイビー"
+  - "誕生色"
+  - "1月6日"
   - "000066"
-  - 1月
-  - ペールオレンジ
-description: 1月6日の誕生色 クラシックネイビー(000066)。色言葉は「信念、責任感、統率力」です。相性の良い色はペールオレンジです。
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgh9zfXRCfjOk7nrqhm9mCwJN5qqItyW3fDcGwHGOMoD2eRbp9VZlVFVMMEB5EgrlL4fks5DHgdp9rrQZfR_gSJo8ixFqD8S0UPSCrGnhisg8AmsuyMwvRifvbOt-Kuqg3uc2W3GPdYiWqiJtzM1fj0T6vB0FNt5sGDRWBQn4QuX06ckO_jqa7Zn2mucc_2=s1600
-en_name: Classic Navy
-author: 日々のカケラ
-profileName: 日々のカケラ
+  - "1月"
+  - "ペールオレンジ"
+description: "1月6日の誕生色 クラシックネイビー(000066)。色言葉は「信念、責任感、統率力」です。相性の良い色はペールオレンジです。"
+en_name: "Classic Navy"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
 postId: "1004"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgh9zfXRCfjOk7nrqhm9mCwJN5qqItyW3fDcGwHGOMoD2eRbp9VZlVFVMMEB5EgrlL4fks5DHgdp9rrQZfR_gSJo8ixFqD8S0UPSCrGnhisg8AmsuyMwvRifvbOt-Kuqg3uc2W3GPdYiWqiJtzM1fj0T6vB0FNt5sGDRWBQn4QuX06ckO_jqa7Zn2mucc_2=s1600)
-
 
 ## 1月6日の誕生色: クラシックネイビー (`#000066`)
 

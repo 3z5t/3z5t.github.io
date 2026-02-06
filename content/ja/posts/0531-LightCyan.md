@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhOjuswPXGp1lAXNgk6wjN4UKlqNZmHo6dOUm_FxYGiGP-IDJsMkD2IcfQreMbz8WoyQDZxKGMNtu_hGGi5xsDqrh-tBIo5QlAIth4qE5u6hcgO8FUSLbOuFedsi2P9DrSiMBz0boLR85ye2Uw85ZfiKHUnCrgOx5VGwBcGqQRBnYvdbh5sRQ2PX7MbCQVT=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ライトシアン、5月31日の誕生色"
 date: "2026-05-31"
 updated: "2026-05-31"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "アンティークチョコ"
 description: "5月31日の誕生色 ライトシアン(E0FFFF)。色言葉は「清涼感、澄んだ精神、バランス感覚」です。相性の良い色はアンティークチョコです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhOjuswPXGp1lAXNgk6wjN4UKlqNZmHo6dOUm_FxYGiGP-IDJsMkD2IcfQreMbz8WoyQDZxKGMNtu_hGGi5xsDqrh-tBIo5QlAIth4qE5u6hcgO8FUSLbOuFedsi2P9DrSiMBz0boLR85ye2Uw85ZfiKHUnCrgOx5VGwBcGqQRBnYvdbh5sRQ2PX7MbCQVT=s1600"
 en_name: "Light Cyan"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhOjuswPXGp1lAXNgk6wjN4UKlqNZmHo6dOUm_FxYGiGP-IDJsMkD2IcfQreMbz8WoyQDZxKGMNtu_hGGi5xsDqrh-tBIo5QlAIth4qE5u6hcgO8FUSLbOuFedsi2P9DrSiMBz0boLR85ye2Uw85ZfiKHUnCrgOx5VGwBcGqQRBnYvdbh5sRQ2PX7MbCQVT=s1600)
-
 
 ## 5月31日の誕生色: ライトシアン (`#E0FFFF`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjyyUB5RAb9PcgQvMOoW1W-s9nyG4xkV3gvPUsRjv-dj4FRLA5wVYUMpuEaOdkmcXlq5I99bsTYH535XnSmY8jvW8FRDsSiyzsFZSftURdl2An38MuILAw0_sczTdE8a0_z8oAWCHZuXCuw5cw-Pqgypd_VxYKtiqY2GezjB_Y9aidu53sxlj8uyl8jofp0=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ライトピンク、3月16日の誕生色"
 date: "2026-03-16"
 updated: "2026-03-16"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ディープセージグリーン"
 description: "3月16日の誕生色 ライトピンク(FFAAAA)。色言葉は「愛情深い、親しみ、愛」です。相性の良い色はディープセージグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjyyUB5RAb9PcgQvMOoW1W-s9nyG4xkV3gvPUsRjv-dj4FRLA5wVYUMpuEaOdkmcXlq5I99bsTYH535XnSmY8jvW8FRDsSiyzsFZSftURdl2An38MuILAw0_sczTdE8a0_z8oAWCHZuXCuw5cw-Pqgypd_VxYKtiqY2GezjB_Y9aidu53sxlj8uyl8jofp0=s1600"
 en_name: "Light Pink"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjyyUB5RAb9PcgQvMOoW1W-s9nyG4xkV3gvPUsRjv-dj4FRLA5wVYUMpuEaOdkmcXlq5I99bsTYH535XnSmY8jvW8FRDsSiyzsFZSftURdl2An38MuILAw0_sczTdE8a0_z8oAWCHZuXCuw5cw-Pqgypd_VxYKtiqY2GezjB_Y9aidu53sxlj8uyl8jofp0=s1600)
-
 
 ## 3月16日の誕生色: ライトピンク (`#FFAAAA`)
 

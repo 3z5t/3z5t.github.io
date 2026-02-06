@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgyRjnRUTv8yaW2UPWRBEkxBdGuigNyo_VgW0S9cpQc7pa9VynRD7BCLHz3d82s57EHy6_ureXSY_1mjT27gboW9th3H4Cv6lf_Tiyhqon-Tp8uvX2Oen5oOZf1KO5Vf1vvKaLKSptHtii6-Kb09nK6Khj70JLZdCeemEXxvcxQXHpQPT3M4cgs1cfdlhIV=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ビスク、8月4日の誕生色"
 date: "2026-08-04"
 updated: "2026-08-04"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "イブニングスカイ"
 description: "8月4日の誕生色 ビスク(FFE4C4)。色言葉は「心地よい心、温かさ、安定感」です。相性の良い色はイブニングスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgyRjnRUTv8yaW2UPWRBEkxBdGuigNyo_VgW0S9cpQc7pa9VynRD7BCLHz3d82s57EHy6_ureXSY_1mjT27gboW9th3H4Cv6lf_Tiyhqon-Tp8uvX2Oen5oOZf1KO5Vf1vvKaLKSptHtii6-Kb09nK6Khj70JLZdCeemEXxvcxQXHpQPT3M4cgs1cfdlhIV=s1600"
 en_name: "Bisque"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgyRjnRUTv8yaW2UPWRBEkxBdGuigNyo_VgW0S9cpQc7pa9VynRD7BCLHz3d82s57EHy6_ureXSY_1mjT27gboW9th3H4Cv6lf_Tiyhqon-Tp8uvX2Oen5oOZf1KO5Vf1vvKaLKSptHtii6-Kb09nK6Khj70JLZdCeemEXxvcxQXHpQPT3M4cgs1cfdlhIV=s1600)
-
 
 ## 8月4日の誕生色: ビスク (`#FFE4C4`)
 

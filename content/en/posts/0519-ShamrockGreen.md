@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi9PUcSKSGUPdPdD7AiQY1hHLzfLOIE_M0KXQpHZc9oTpXXY_LO6UtTLqhYaZIIfdRe0l38njVHX4HtqlYHUrSWKak0W_Z-yHaLgZDKdw_UOu3JSTNyksDK66yphw97SDAamwOcwBmzFsCOqpwmwVrc2KFUOn-_Yb3TnkY7P7I9A1CE7QroRIwDvwghrZG8=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Shamrock Green, The Birthday Color of May 19"
 date: "2026-05-19"
 updated: "2026-05-19"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "brilliant rose"
 description: "The birthday color for May 19 is Shamrock Green (009966). Its meaning is Success Luck, Luck, Prosperity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi9PUcSKSGUPdPdD7AiQY1hHLzfLOIE_M0KXQpHZc9oTpXXY_LO6UtTLqhYaZIIfdRe0l38njVHX4HtqlYHUrSWKak0W_Z-yHaLgZDKdw_UOu3JSTNyksDK66yphw97SDAamwOcwBmzFsCOqpwmwVrc2KFUOn-_Yb3TnkY7P7I9A1CE7QroRIwDvwghrZG8=s1600"
 en_name: "ShamrockGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi9PUcSKSGUPdPdD7AiQY1hHLzfLOIE_M0KXQpHZc9oTpXXY_LO6UtTLqhYaZIIfdRe0l38njVHX4HtqlYHUrSWKak0W_Z-yHaLgZDKdw_UOu3JSTNyksDK66yphw97SDAamwOcwBmzFsCOqpwmwVrc2KFUOn-_Yb3TnkY7P7I9A1CE7QroRIwDvwghrZG8=s1600)
-
 
 ## Birthday Color for May 19: Shamrock Green (`#009966`)
 

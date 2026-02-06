@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhPt8f7jvDT71TFzge_Alvksz167TIwwCMmkoltkYNmoPwK7OZXsz2IMlaKbjmflfN3yOK84-wv9rl7ebT0fIXzJCFkqyqfsWExINiVZHlby02dvQM-9OMTSMTCZ00CNMpxQIsot9O0ccoxH21fhuujb10YxAzDI5C-mbJwE5vKXt2jqMKOLzGVT26sOawp=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Brilliant Red, The Birthday Color of December 6"
 date: "2026-12-06"
 updated: "2026-12-06"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "aqua"
 description: "The birthday color for December 6 is Brilliant Red (F60100). Its meaning is Profound, Mysterious, Peaceful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhPt8f7jvDT71TFzge_Alvksz167TIwwCMmkoltkYNmoPwK7OZXsz2IMlaKbjmflfN3yOK84-wv9rl7ebT0fIXzJCFkqyqfsWExINiVZHlby02dvQM-9OMTSMTCZ00CNMpxQIsot9O0ccoxH21fhuujb10YxAzDI5C-mbJwE5vKXt2jqMKOLzGVT26sOawp=s1600"
 en_name: "BrilliantRed"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhPt8f7jvDT71TFzge_Alvksz167TIwwCMmkoltkYNmoPwK7OZXsz2IMlaKbjmflfN3yOK84-wv9rl7ebT0fIXzJCFkqyqfsWExINiVZHlby02dvQM-9OMTSMTCZ00CNMpxQIsot9O0ccoxH21fhuujb10YxAzDI5C-mbJwE5vKXt2jqMKOLzGVT26sOawp=s1600)
-
 
 ## Birthday Color for December 6: Brilliant Red (`#F60100`)
 

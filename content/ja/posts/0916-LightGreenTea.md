@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEggx8i1OxGndXqFR0j5KAh46yNfgROhnC3kgQVdAuv5TUlKUDbPo5Bk968V9JYEAeyv57VfPJwj547NYNQsDkB4ZZ9d1853BZrGJdCxe6DpAoSIXKkkl6dgFKebREt8OGHLXmSgLklOGPeuNyoeeC71_CDSd8qjVW0o-_UPzKDq7vB200FxjyFF2xe4WipJ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ライトグリーンティー、9月16日の誕生色"
 date: "2026-09-16"
 updated: "2026-09-16"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ディープオーシャン"
 description: "9月16日の誕生色 ライトグリーンティー(ABA88A)。色言葉は「ほのかな魅力、落ち着き、平和」です。相性の良い色はディープオーシャンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEggx8i1OxGndXqFR0j5KAh46yNfgROhnC3kgQVdAuv5TUlKUDbPo5Bk968V9JYEAeyv57VfPJwj547NYNQsDkB4ZZ9d1853BZrGJdCxe6DpAoSIXKkkl6dgFKebREt8OGHLXmSgLklOGPeuNyoeeC71_CDSd8qjVW0o-_UPzKDq7vB200FxjyFF2xe4WipJ=s1600"
 en_name: "Light Green Tea"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEggx8i1OxGndXqFR0j5KAh46yNfgROhnC3kgQVdAuv5TUlKUDbPo5Bk968V9JYEAeyv57VfPJwj547NYNQsDkB4ZZ9d1853BZrGJdCxe6DpAoSIXKkkl6dgFKebREt8OGHLXmSgLklOGPeuNyoeeC71_CDSd8qjVW0o-_UPzKDq7vB200FxjyFF2xe4WipJ=s1600)
-
 
 ## 9月16日の誕生色: ライトグリーンティー (`#ABA88A`)
 

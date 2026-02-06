@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj-DfTSqEbC9rRJejUiAqBTHkkh0dHm1H1cHJWNUNYep0bKfpXRVOkfNn0ndBF-OE0FHOUd9orfU9wWNvQlDs1_Pju77X5OS5WTkr9yNuDZf6MEeppA-iQ8UyxHFtB0DUVfUNCJ48sD35yweFzYsGsPco-yWYDlBSj_5h-m4g143PaGr2dBqU7f3vb-J2cH=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "マスタード、6月24日の誕生色"
 date: "2026-06-24"
 updated: "2026-06-24"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "エレガントウルトラマリン"
 description: "6月24日の誕生色 マスタード(C29943)。色言葉は「深みのある、独特、個性的」です。相性の良い色はエレガントウルトラマリンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj-DfTSqEbC9rRJejUiAqBTHkkh0dHm1H1cHJWNUNYep0bKfpXRVOkfNn0ndBF-OE0FHOUd9orfU9wWNvQlDs1_Pju77X5OS5WTkr9yNuDZf6MEeppA-iQ8UyxHFtB0DUVfUNCJ48sD35yweFzYsGsPco-yWYDlBSj_5h-m4g143PaGr2dBqU7f3vb-J2cH=s1600"
 en_name: "Mustard"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj-DfTSqEbC9rRJejUiAqBTHkkh0dHm1H1cHJWNUNYep0bKfpXRVOkfNn0ndBF-OE0FHOUd9orfU9wWNvQlDs1_Pju77X5OS5WTkr9yNuDZf6MEeppA-iQ8UyxHFtB0DUVfUNCJ48sD35yweFzYsGsPco-yWYDlBSj_5h-m4g143PaGr2dBqU7f3vb-J2cH=s1600)
-
 
 ## 6月24日の誕生色: マスタード (`#C29943`)
 

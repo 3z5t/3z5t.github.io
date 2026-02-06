@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh8SmSwmvK_ChuINTTxePHvLpHewOZuue0vlv4SBBrBW4f5RI3zE4zdNeDGBFo6WJOM6REI7T1bcazhVH9-0PESEPdW1rhdpjMAvRinHTB44acwVMb3d7g3xZ8ft7K-1hXzNOI9X-tqGDKn8LIklsbv3JtvUNjTnwUZBnQXHy_No5Xh17LhOkpmnaquJtfe=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ムーンライトワイン、7月15日の誕生色"
 date: "2026-07-15"
 updated: "2026-07-15"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "アクアマリン"
 description: "7月15日の誕生色 ムーンライトワイン(610928)。色言葉は「深みのある、神秘的、高貴」です。相性の良い色はアクアマリンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh8SmSwmvK_ChuINTTxePHvLpHewOZuue0vlv4SBBrBW4f5RI3zE4zdNeDGBFo6WJOM6REI7T1bcazhVH9-0PESEPdW1rhdpjMAvRinHTB44acwVMb3d7g3xZ8ft7K-1hXzNOI9X-tqGDKn8LIklsbv3JtvUNjTnwUZBnQXHy_No5Xh17LhOkpmnaquJtfe=s1600"
 en_name: "Moonlight Wine"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh8SmSwmvK_ChuINTTxePHvLpHewOZuue0vlv4SBBrBW4f5RI3zE4zdNeDGBFo6WJOM6REI7T1bcazhVH9-0PESEPdW1rhdpjMAvRinHTB44acwVMb3d7g3xZ8ft7K-1hXzNOI9X-tqGDKn8LIklsbv3JtvUNjTnwUZBnQXHy_No5Xh17LhOkpmnaquJtfe=s1600)
-
 
 ## 7月15日の誕生色: ムーンライトワイン (`#610928`)
 

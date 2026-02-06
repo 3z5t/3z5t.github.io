@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi4z8L1x5z-5v0UGcug3-pyMMEpPeUhtsp8R6AiWs2xljOywTCVNGltojA4GAkycpFQr6kGBKhBLoVp3uQ92riYJ06s_dGyaF3HX9EikOZ6kcgF3NVpNHNciGul9q1mKmm8RsCC9xum8WoVh9rXN5kQzpF1fNNi5DMKH6o03Jtuv4ID0NFZTIv14y6XGpse=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "クールグリーン、4月21日の誕生色"
 date: "2026-04-21"
 updated: "2026-04-21"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "クラシックワイン"
 description: "4月21日の誕生色 クールグリーン(78BAAD)。色言葉は「清涼感、落ち着き、バランス感覚」です。相性の良い色はクラシックワインです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi4z8L1x5z-5v0UGcug3-pyMMEpPeUhtsp8R6AiWs2xljOywTCVNGltojA4GAkycpFQr6kGBKhBLoVp3uQ92riYJ06s_dGyaF3HX9EikOZ6kcgF3NVpNHNciGul9q1mKmm8RsCC9xum8WoVh9rXN5kQzpF1fNNi5DMKH6o03Jtuv4ID0NFZTIv14y6XGpse=s1600"
 en_name: "Cool Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi4z8L1x5z-5v0UGcug3-pyMMEpPeUhtsp8R6AiWs2xljOywTCVNGltojA4GAkycpFQr6kGBKhBLoVp3uQ92riYJ06s_dGyaF3HX9EikOZ6kcgF3NVpNHNciGul9q1mKmm8RsCC9xum8WoVh9rXN5kQzpF1fNNi5DMKH6o03Jtuv4ID0NFZTIv14y6XGpse=s1600)
-
 
 ## 4月21日の誕生色: クールグリーン (`#78BAAD`)
 

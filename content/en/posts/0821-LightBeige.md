@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgDEf25nNsJ8T256JZTx1-wPkyrwSYv1m9CE_y_CRhhekJNxAUIoDBjGO-KoXkkAlqaVc3LRnSmunV-fbNEKlho1hXCct6V2-0pUOkXMxkBZ7JvkPoNTVaMjUei8VTRH2Sm_x9ieCpUMxaBoOxVLoEMh4CmcBjDaY7sZu0xCj9cys6rP1YRFcH4GWa6ADbU=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Light Beige, The Birthday Color of August 21"
 date: "2026-08-21"
 updated: "2026-08-21"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "vintage navy"
 description: "The birthday color for August 21 is Light Beige (C1A99B). Its meaning is Soft Personality, Gentle, Sweet."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgDEf25nNsJ8T256JZTx1-wPkyrwSYv1m9CE_y_CRhhekJNxAUIoDBjGO-KoXkkAlqaVc3LRnSmunV-fbNEKlho1hXCct6V2-0pUOkXMxkBZ7JvkPoNTVaMjUei8VTRH2Sm_x9ieCpUMxaBoOxVLoEMh4CmcBjDaY7sZu0xCj9cys6rP1YRFcH4GWa6ADbU=s1600"
 en_name: "LightBeige"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgDEf25nNsJ8T256JZTx1-wPkyrwSYv1m9CE_y_CRhhekJNxAUIoDBjGO-KoXkkAlqaVc3LRnSmunV-fbNEKlho1hXCct6V2-0pUOkXMxkBZ7JvkPoNTVaMjUei8VTRH2Sm_x9ieCpUMxaBoOxVLoEMh4CmcBjDaY7sZu0xCj9cys6rP1YRFcH4GWa6ADbU=s1600)
-
 
 ## Birthday Color for August 21: Light Beige (`#C1A99B`)
 

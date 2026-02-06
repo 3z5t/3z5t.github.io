@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj6hJppLSbrejj6w7gT97ETgbrBKLVGFEKipbY4OyF4T9eVr0E1JINZOB4kmEzCJf8c9bwkfX3MKhOOKlma5O9WmIDQpvf-rgRP6v4EUSM6pOraG-ulWcZLbxyhBa-fA8Q0THchWHyodasAjts9vAwIt7DdfSDmcT7Jd2Blul7gMYJupEXzeaIj-8k5I5Kp=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Christmas Tree, The Birthday Color of December 7"
 date: "2026-12-07"
 updated: "2026-12-07"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "satin gray"
 description: "The birthday color for December 7 is Christmas Tree (506850). Its meaning is Fulfilling Wishes, Hopeful, Positive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj6hJppLSbrejj6w7gT97ETgbrBKLVGFEKipbY4OyF4T9eVr0E1JINZOB4kmEzCJf8c9bwkfX3MKhOOKlma5O9WmIDQpvf-rgRP6v4EUSM6pOraG-ulWcZLbxyhBa-fA8Q0THchWHyodasAjts9vAwIt7DdfSDmcT7Jd2Blul7gMYJupEXzeaIj-8k5I5Kp=s1600"
 en_name: "ChristmasTree"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj6hJppLSbrejj6w7gT97ETgbrBKLVGFEKipbY4OyF4T9eVr0E1JINZOB4kmEzCJf8c9bwkfX3MKhOOKlma5O9WmIDQpvf-rgRP6v4EUSM6pOraG-ulWcZLbxyhBa-fA8Q0THchWHyodasAjts9vAwIt7DdfSDmcT7Jd2Blul7gMYJupEXzeaIj-8k5I5Kp=s1600)
-
 
 ## Birthday Color for December 7: Christmas Tree (`#506850`)
 

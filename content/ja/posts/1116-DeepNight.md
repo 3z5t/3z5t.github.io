@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiVieDq0qK_C7usRl2x6aOPfK5S-4lG8BlmXU9-KUGVWHui_Cco3s7ZF2TpDCNIG95v5p5kf_pSRdpeuYHGz5UNJMpcVxA-xgEVd8I6LAyC75KdzIcYYuuGULAXkdKnb1WGAaQCygsf3Jz7MUfmQtXyvNZkYGwzZ_DjnPUZ0pUixtBheo-3rXOoKWYMSKEU=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープナイト、11月16日の誕生色"
 date: "2026-11-16"
 updated: "2026-11-16"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "ピュアシルバー"
 description: "11月16日の誕生色 ディープナイト(1A161F)。色言葉は「静寂な魂、平和、思索的」です。相性の良い色はピュアシルバーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiVieDq0qK_C7usRl2x6aOPfK5S-4lG8BlmXU9-KUGVWHui_Cco3s7ZF2TpDCNIG95v5p5kf_pSRdpeuYHGz5UNJMpcVxA-xgEVd8I6LAyC75KdzIcYYuuGULAXkdKnb1WGAaQCygsf3Jz7MUfmQtXyvNZkYGwzZ_DjnPUZ0pUixtBheo-3rXOoKWYMSKEU=s1600"
 en_name: "Deep Night"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiVieDq0qK_C7usRl2x6aOPfK5S-4lG8BlmXU9-KUGVWHui_Cco3s7ZF2TpDCNIG95v5p5kf_pSRdpeuYHGz5UNJMpcVxA-xgEVd8I6LAyC75KdzIcYYuuGULAXkdKnb1WGAaQCygsf3Jz7MUfmQtXyvNZkYGwzZ_DjnPUZ0pUixtBheo-3rXOoKWYMSKEU=s1600)
-
 
 ## 11月16日の誕生色: ディープナイト (`#1A161F`)
 

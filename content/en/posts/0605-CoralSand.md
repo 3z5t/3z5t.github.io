@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhj-Jv2PSL8hAK66sFqQAE99AWBhmO02mXNW9WfTHCFAG4zB8ZLGywNE2PPlKrO7CXLziPnJtC7PcyjIqUH6q4l2Ftguyi5CnvBbMcbHRN_Hu0BRO1HWGJphB05ysj4F4j5-rkz9H8ZDtx1lg115elh_x82UHFF7SAr9b0xcwTFsrtD784Q1EGzHJpchv47=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Coral Sand, The Birthday Color of June 5"
 date: "2026-06-05"
 updated: "2026-06-05"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "steel navy"
 description: "The birthday color for June 5 is Coral Sand (FFD0A1). Its meaning is Harmonious, Balanced, Inclusive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhj-Jv2PSL8hAK66sFqQAE99AWBhmO02mXNW9WfTHCFAG4zB8ZLGywNE2PPlKrO7CXLziPnJtC7PcyjIqUH6q4l2Ftguyi5CnvBbMcbHRN_Hu0BRO1HWGJphB05ysj4F4j5-rkz9H8ZDtx1lg115elh_x82UHFF7SAr9b0xcwTFsrtD784Q1EGzHJpchv47=s1600"
 en_name: "CoralSand"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhj-Jv2PSL8hAK66sFqQAE99AWBhmO02mXNW9WfTHCFAG4zB8ZLGywNE2PPlKrO7CXLziPnJtC7PcyjIqUH6q4l2Ftguyi5CnvBbMcbHRN_Hu0BRO1HWGJphB05ysj4F4j5-rkz9H8ZDtx1lg115elh_x82UHFF7SAr9b0xcwTFsrtD784Q1EGzHJpchv47=s1600)
-
 
 ## Birthday Color for June 5: Coral Sand (`#FFD0A1`)
 

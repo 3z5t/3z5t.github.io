@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhoAgfLwaNKaayt4CCEgLoJAgof0Sp5E4KAGDd0XjVN196hirJEOxmkQ9OzVlY-4VeHpL0NclLzvtkX5lDt09UzmG4kl4ok35qR6m9HSNjC9-3Q51GlQzJGHHGnndZifVrGCovhXMAZkcz_oJ2LXjAUDyEmh6ugAhYYwyj8BaIyY4x-Sy8Njfq8s3gDPCNi=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Antique White, The Birthday Color of December 21"
 date: "2026-12-21"
 updated: "2026-12-21"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "deep night sky"
 description: "The birthday color for December 21 is Antique White (EBE2CE). Its meaning is Pure Soul, Gentle, Peaceful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhoAgfLwaNKaayt4CCEgLoJAgof0Sp5E4KAGDd0XjVN196hirJEOxmkQ9OzVlY-4VeHpL0NclLzvtkX5lDt09UzmG4kl4ok35qR6m9HSNjC9-3Q51GlQzJGHHGnndZifVrGCovhXMAZkcz_oJ2LXjAUDyEmh6ugAhYYwyj8BaIyY4x-Sy8Njfq8s3gDPCNi=s1600"
 en_name: "AntiqueWhite"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhoAgfLwaNKaayt4CCEgLoJAgof0Sp5E4KAGDd0XjVN196hirJEOxmkQ9OzVlY-4VeHpL0NclLzvtkX5lDt09UzmG4kl4ok35qR6m9HSNjC9-3Q51GlQzJGHHGnndZifVrGCovhXMAZkcz_oJ2LXjAUDyEmh6ugAhYYwyj8BaIyY4x-Sy8Njfq8s3gDPCNi=s1600)
-
 
 ## Birthday Color for December 21: Antique White (`#EBE2CE`)
 

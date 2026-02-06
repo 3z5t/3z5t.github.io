@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg1_t5TunGYOpKV50E6spQOW5ciUi1HusmR70LLfOF6xjaSe3tSGr15IyPJpjbBM79pORWOwd2pgWjoyXiaLoORa_7yv677vcfzX0FWRLmIniwo5gcZxBou5E7SyAvfttF3yjE2g1crifNSmbgwnjDzJ_ABP6rz7ezI0y3T0bAokFwOffFk9LMVEoOxUUf3=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Roasted Grain, The Birthday Color of September 18"
 date: "2026-09-18"
 updated: "2026-09-18"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "deep ocean"
 description: "The birthday color for September 18 is Roasted Grain (A09588). Its meaning is Healthy Mind, Nutritious, Abundant."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg1_t5TunGYOpKV50E6spQOW5ciUi1HusmR70LLfOF6xjaSe3tSGr15IyPJpjbBM79pORWOwd2pgWjoyXiaLoORa_7yv677vcfzX0FWRLmIniwo5gcZxBou5E7SyAvfttF3yjE2g1crifNSmbgwnjDzJ_ABP6rz7ezI0y3T0bAokFwOffFk9LMVEoOxUUf3=s1600"
 en_name: "RoastedGrain"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg1_t5TunGYOpKV50E6spQOW5ciUi1HusmR70LLfOF6xjaSe3tSGr15IyPJpjbBM79pORWOwd2pgWjoyXiaLoORa_7yv677vcfzX0FWRLmIniwo5gcZxBou5E7SyAvfttF3yjE2g1crifNSmbgwnjDzJ_ABP6rz7ezI0y3T0bAokFwOffFk9LMVEoOxUUf3=s1600)
-
 
 ## Birthday Color for September 18: Roasted Grain (`#A09588`)
 

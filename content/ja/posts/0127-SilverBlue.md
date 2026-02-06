@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-27'
-description: 1月27日の誕生色 シルバーブルー(ABB5C1)。色言葉は「品位、優雅、高貴」です。相性の良い色はダークエスプレッソです。
-en_name: Silver Blue
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhajK4zQpqLg9TgKONvVwYM253Ud60q95yHVo2Q6eoMqhRWBeu7FfU7rnsDF2g9PJr4vmNq8VWuFp_a15uzNo80q_H3r1vaSyxL-MQsUJ-7UJGQ5M400HXd8VqipBylzDhpy-6TSP5E-kdyoBsoQBvo5LnoN_WuzzintiXb-S5Onl0zjKy-P8rleuQSHi8N=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-27"
+description: "1月27日の誕生色 シルバーブルー(ABB5C1)。色言葉は「品位、優雅、高貴」です。相性の良い色はダークエスプレッソです。"
+en_name: "Silver Blue"
 tags:
-- シルバーブルー
-- 誕生色
-- 1月27日
-- ABB5C1
-- 1月
-- ダークエスプレッソ
-postId: '5719888134148686707'
-postUrl: https://the366days-ja.blogspot.com/2026/01/127-silver-blue.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhajK4zQpqLg9TgKONvVwYM253Ud60q95yHVo2Q6eoMqhRWBeu7FfU7rnsDF2g9PJr4vmNq8VWuFp_a15uzNo80q_H3r1vaSyxL-MQsUJ-7UJGQ5M400HXd8VqipBylzDhpy-6TSP5E-kdyoBsoQBvo5LnoN_WuzzintiXb-S5Onl0zjKy-P8rleuQSHi8N=s1600
-title: シルバーブルー、1月27日の誕生色
-updated: '2026-01-27'
+  - "シルバーブルー"
+  - "誕生色"
+  - "1月27日"
+  - "ABB5C1"
+  - "1月"
+  - "ダークエスプレッソ"
+postId: "5719888134148686707"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/127-silver-blue.html"
+profileName: "日々のカケラ"
+title: "シルバーブルー、1月27日の誕生色"
+updated: "2026-01-27"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhajK4zQpqLg9TgKONvVwYM253Ud60q95yHVo2Q6eoMqhRWBeu7FfU7rnsDF2g9PJr4vmNq8VWuFp_a15uzNo80q_H3r1vaSyxL-MQsUJ-7UJGQ5M400HXd8VqipBylzDhpy-6TSP5E-kdyoBsoQBvo5LnoN_WuzzintiXb-S5Onl0zjKy-P8rleuQSHi8N=s1600)
-
 
 ## 1月27日の誕生色: シルバーブルー (`#ABB5C1`)
 

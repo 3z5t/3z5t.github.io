@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj4mG3Zy74QotIqy4faUaCK7i_JKA6N3ALOdbVZz4khSfAKWeaqP-d2eHaK5btyh2KKiiP_-QPnn603FUyiueYbCqO_GoL5cOa5qJTyuIfnn1TQa5pf3YwzC_7r4R0-oqnt-nfPZidj02GaU9RRnkAu7VA6wz7hv3A8pKfQ5MaIFKwLwq8c5v_8siluABNi=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "トープ、10月18日の誕生色"
 date: "2026-10-18"
 updated: "2026-10-18"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "エレガントジェイド"
 description: "10月18日の誕生色 トープ(805454)。色言葉は「落ち着いた性格、安定、バランスの取れた」です。相性の良い色はエレガントジェイドです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj4mG3Zy74QotIqy4faUaCK7i_JKA6N3ALOdbVZz4khSfAKWeaqP-d2eHaK5btyh2KKiiP_-QPnn603FUyiueYbCqO_GoL5cOa5qJTyuIfnn1TQa5pf3YwzC_7r4R0-oqnt-nfPZidj02GaU9RRnkAu7VA6wz7hv3A8pKfQ5MaIFKwLwq8c5v_8siluABNi=s1600"
 en_name: "Taupe"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj4mG3Zy74QotIqy4faUaCK7i_JKA6N3ALOdbVZz4khSfAKWeaqP-d2eHaK5btyh2KKiiP_-QPnn603FUyiueYbCqO_GoL5cOa5qJTyuIfnn1TQa5pf3YwzC_7r4R0-oqnt-nfPZidj02GaU9RRnkAu7VA6wz7hv3A8pKfQ5MaIFKwLwq8c5v_8siluABNi=s1600)
-
 
 ## 10月18日の誕生色: トープ (`#805454`)
 

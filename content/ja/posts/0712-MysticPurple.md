@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhV4eGhRChiD0dhj_jbZwdESNsMrtA_tjqRLksiOXz_zxWPfUDqdjU7YAl5D38vAE8t_sPwLQAfO9pDknOUwrvUf-PGS5TS1b63pyWk3ZX9MjwHNShNSwu6qDG7W1PE-dR4QsNrFl1IN3JwFHB143cRxo3AgOUOXqfYUSFR8_nKa-oTyYdeR2tWZRDDvLQr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ミスティックパープル、7月12日の誕生色"
 date: "2026-07-12"
 updated: "2026-07-12"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "ブライトグリーン"
 description: "7月12日の誕生色 ミスティックパープル(9900FF)。色言葉は「神秘的、魅力的、芸術性」です。相性の良い色はブライトグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhV4eGhRChiD0dhj_jbZwdESNsMrtA_tjqRLksiOXz_zxWPfUDqdjU7YAl5D38vAE8t_sPwLQAfO9pDknOUwrvUf-PGS5TS1b63pyWk3ZX9MjwHNShNSwu6qDG7W1PE-dR4QsNrFl1IN3JwFHB143cRxo3AgOUOXqfYUSFR8_nKa-oTyYdeR2tWZRDDvLQr=s1600"
 en_name: "Mystic Purple"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhV4eGhRChiD0dhj_jbZwdESNsMrtA_tjqRLksiOXz_zxWPfUDqdjU7YAl5D38vAE8t_sPwLQAfO9pDknOUwrvUf-PGS5TS1b63pyWk3ZX9MjwHNShNSwu6qDG7W1PE-dR4QsNrFl1IN3JwFHB143cRxo3AgOUOXqfYUSFR8_nKa-oTyYdeR2tWZRDDvLQr=s1600)
-
 
 ## 7月12日の誕生色: ミスティックパープル (`#9900FF`)
 

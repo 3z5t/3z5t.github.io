@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiOTodLJs-TbUQnRNtMi5AKbpypKvUUVn4LiFGMllQNHWe0ZgYoWpjTNNZVZypAYjzrm3-ULNxCXJAuJp4rXZwwWhoOEsSv7HkI2niqQhNpExzLVm5VTYbNmdkJn5RRpfTHclJgs_CQ6vMGPmTmdI3V039eQmDnEjuvZ5ddfucxXDmtOb9OVInTDl2etWIm=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Antique Purple, The Birthday Color of November 23"
 date: "2026-11-23"
 updated: "2026-11-23"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "aquamarine"
 description: "The birthday color for November 23 is Antique Purple (5E162D). Its meaning is Antique, Mysterious, Profound."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiOTodLJs-TbUQnRNtMi5AKbpypKvUUVn4LiFGMllQNHWe0ZgYoWpjTNNZVZypAYjzrm3-ULNxCXJAuJp4rXZwwWhoOEsSv7HkI2niqQhNpExzLVm5VTYbNmdkJn5RRpfTHclJgs_CQ6vMGPmTmdI3V039eQmDnEjuvZ5ddfucxXDmtOb9OVInTDl2etWIm=s1600"
 en_name: "AntiquePurple"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiOTodLJs-TbUQnRNtMi5AKbpypKvUUVn4LiFGMllQNHWe0ZgYoWpjTNNZVZypAYjzrm3-ULNxCXJAuJp4rXZwwWhoOEsSv7HkI2niqQhNpExzLVm5VTYbNmdkJn5RRpfTHclJgs_CQ6vMGPmTmdI3V039eQmDnEjuvZ5ddfucxXDmtOb9OVInTDl2etWIm=s1600)
-
 
 ## Birthday Color for November 23: Antique Purple (`#5E162D`)
 

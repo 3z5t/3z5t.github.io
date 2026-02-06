@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgJRcl9mTlFeFOUx5RFjDHNewEi7S36CsC23Pcc1rGUbbq_z9lE0V7mmQM8CS99_B9psZpVdOp8oXsAXLO52CHFU7pTaw88mTqST0tFTLMDrUywjIa5CPxmrpkEtnRqD05n9SJgllUoofXwGdljtBuLq-yPsVN9sS_hhWm_8fjDmEi9dJUTm1LhcdtdhhEA=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Dark Dawn, The Birthday Color of September 21"
 date: "2026-09-21"
 updated: "2026-09-21"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "misty sky"
 description: "The birthday color for September 21 is Dark Dawn (3D4247). Its meaning is New Beginning, Hopeful, Challenging."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgJRcl9mTlFeFOUx5RFjDHNewEi7S36CsC23Pcc1rGUbbq_z9lE0V7mmQM8CS99_B9psZpVdOp8oXsAXLO52CHFU7pTaw88mTqST0tFTLMDrUywjIa5CPxmrpkEtnRqD05n9SJgllUoofXwGdljtBuLq-yPsVN9sS_hhWm_8fjDmEi9dJUTm1LhcdtdhhEA=s1600"
 en_name: "DarkDawn"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgJRcl9mTlFeFOUx5RFjDHNewEi7S36CsC23Pcc1rGUbbq_z9lE0V7mmQM8CS99_B9psZpVdOp8oXsAXLO52CHFU7pTaw88mTqST0tFTLMDrUywjIa5CPxmrpkEtnRqD05n9SJgllUoofXwGdljtBuLq-yPsVN9sS_hhWm_8fjDmEi9dJUTm1LhcdtdhhEA=s1600)
-
 
 ## Birthday Color for September 21: Dark Dawn (`#3D4247`)
 

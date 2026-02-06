@@ -1,21 +1,24 @@
 ---
-"title": "ペールマゼンタ、2月13日の誕生色"
-"date": "2026-02-13"
-"updated": "2026-02-13"
-"labels":
-- "ペールマゼンタ"
-- "誕生色"
-- "2月13日"
-- "61368D"
-- "2月"
-- "ソフトメロン"
-"description": "2月13日の誕生色 ペールマゼンタ(61368D)。色言葉は「ロマンチック、情緒的、芸術的」です。相性の良い色はソフトメロンです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhljeHwzbH43cgw3SQFtDpPgjXRgEAoVpg8zGgsES9I2NEL5nN57Flr9XtWVQU55VlST0GMToGXAg4K6z0qQsn2UpAEv4V3R-7AB9c-4WDSPfXPB_QFGFR-a-X62mGE8cjcKyFneMeD2UxvB74hUH_R5Eu_yVGAG3UuT4H61_PRdACMHSs3EsYUZDMi-D2T=s1600"
-"en_name": "Pale Magenta"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "7331119789668862827"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/213-pale-magenta.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhljeHwzbH43cgw3SQFtDpPgjXRgEAoVpg8zGgsES9I2NEL5nN57Flr9XtWVQU55VlST0GMToGXAg4K6z0qQsn2UpAEv4V3R-7AB9c-4WDSPfXPB_QFGFR-a-X62mGE8cjcKyFneMeD2UxvB74hUH_R5Eu_yVGAG3UuT4H61_PRdACMHSs3EsYUZDMi-D2T=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ペールマゼンタ、2月13日の誕生色"
+date: "2026-02-13"
+updated: "2026-02-13"
+tags:
+  - "ペールマゼンタ"
+  - "誕生色"
+  - "2月13日"
+  - "61368D"
+  - "2月"
+  - "ソフトメロン"
+description: "2月13日の誕生色 ペールマゼンタ(61368D)。色言葉は「ロマンチック、情緒的、芸術的」です。相性の良い色はソフトメロンです。"
+en_name: "Pale Magenta"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "7331119789668862827"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/213-pale-magenta.html"
 ---
 
 ## 2月13日の誕生色: ペールマゼンタ (`#61368D`)

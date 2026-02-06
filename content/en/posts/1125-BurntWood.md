@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhjb4DDEGW_kPRgA9KN0LaR-tYNKEPyW5VLYDd1JYpbIJGApUVE93wjg2TH1KYDxKtKapCIQYSXLB2NKlInFoGxAJnLe_ddhed9TtpC3SmXWvCrJ2s2-TV3uRIF6y4w0LhTkb4baXlVoojN835PLR1mA0vW1rPAJNyhcfiSPoHcIRJvjaopkAXaz4JdnBia=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Burnt Wood, The Birthday Color of November 25"
 date: "2026-11-25"
 updated: "2026-11-25"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "cloudy sky"
 description: "The birthday color for November 25 is Burnt Wood (3F242D). Its meaning is Profound, Mature, Stable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhjb4DDEGW_kPRgA9KN0LaR-tYNKEPyW5VLYDd1JYpbIJGApUVE93wjg2TH1KYDxKtKapCIQYSXLB2NKlInFoGxAJnLe_ddhed9TtpC3SmXWvCrJ2s2-TV3uRIF6y4w0LhTkb4baXlVoojN835PLR1mA0vW1rPAJNyhcfiSPoHcIRJvjaopkAXaz4JdnBia=s1600"
 en_name: "BurntWood"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhjb4DDEGW_kPRgA9KN0LaR-tYNKEPyW5VLYDd1JYpbIJGApUVE93wjg2TH1KYDxKtKapCIQYSXLB2NKlInFoGxAJnLe_ddhed9TtpC3SmXWvCrJ2s2-TV3uRIF6y4w0LhTkb4baXlVoojN835PLR1mA0vW1rPAJNyhcfiSPoHcIRJvjaopkAXaz4JdnBia=s1600)
-
 
 ## Birthday Color for November 25: Burnt Wood (`#3F242D`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh6UZMbp9Tx2gEsVJuC-1oZKENerpx0zwfxD29rQEX1nwwdfbIUWYsyvLQs3Qb3QjpYgibyA-hzHKelA_0JLU-Q5JyThQwXJnvIKzuUjJdfzR1DlAQFPJ117Fj5JyZvNZedvGUQbX-q_Tp4VFeogQ-bkbPXwNCi56U84QcMEb1IdWNjuAkTFmFZlzC6Q8Pr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープオレンジ、6月17日の誕生色"
 date: "2026-06-17"
 updated: "2026-06-17"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "シアンブルー"
 description: "6月17日の誕生色 ディープオレンジ(FD731C)。色言葉は「情熱的、野心的、創造的」です。相性の良い色はシアンブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh6UZMbp9Tx2gEsVJuC-1oZKENerpx0zwfxD29rQEX1nwwdfbIUWYsyvLQs3Qb3QjpYgibyA-hzHKelA_0JLU-Q5JyThQwXJnvIKzuUjJdfzR1DlAQFPJ117Fj5JyZvNZedvGUQbX-q_Tp4VFeogQ-bkbPXwNCi56U84QcMEb1IdWNjuAkTFmFZlzC6Q8Pr=s1600"
 en_name: "Deep Orange"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh6UZMbp9Tx2gEsVJuC-1oZKENerpx0zwfxD29rQEX1nwwdfbIUWYsyvLQs3Qb3QjpYgibyA-hzHKelA_0JLU-Q5JyThQwXJnvIKzuUjJdfzR1DlAQFPJ117Fj5JyZvNZedvGUQbX-q_Tp4VFeogQ-bkbPXwNCi56U84QcMEb1IdWNjuAkTFmFZlzC6Q8Pr=s1600)
-
 
 ## 6月17日の誕生色: ディープオレンジ (`#FD731C`)
 

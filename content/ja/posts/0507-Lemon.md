@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgvvtSkAIBTauh5f0ziMfq5549APbCywcjh9apseuZD4zvkb838Ej5sGfRde7S0xzd9GwW291PuSXYDtLPUAT-UQqB9BCOnfP6x2FstVt7lmYcc7vF_aMXgqweMHTuHXEcu-Bza9fpM3uZ_AYvCHhRTnCy3Rw-rwfJyUk8vzEzs582_-PFXO3AJfyhjEo1H=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "レモン、5月7日の誕生色"
 date: "2026-05-07"
 updated: "2026-05-07"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "ピュアブルー"
 description: "5月7日の誕生色 レモン(EFDA00)。色言葉は「爽やか、知性、インスピレーション」です。相性の良い色はピュアブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgvvtSkAIBTauh5f0ziMfq5549APbCywcjh9apseuZD4zvkb838Ej5sGfRde7S0xzd9GwW291PuSXYDtLPUAT-UQqB9BCOnfP6x2FstVt7lmYcc7vF_aMXgqweMHTuHXEcu-Bza9fpM3uZ_AYvCHhRTnCy3Rw-rwfJyUk8vzEzs582_-PFXO3AJfyhjEo1H=s1600"
 en_name: "Lemon"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgvvtSkAIBTauh5f0ziMfq5549APbCywcjh9apseuZD4zvkb838Ej5sGfRde7S0xzd9GwW291PuSXYDtLPUAT-UQqB9BCOnfP6x2FstVt7lmYcc7vF_aMXgqweMHTuHXEcu-Bza9fpM3uZ_AYvCHhRTnCy3Rw-rwfJyUk8vzEzs582_-PFXO3AJfyhjEo1H=s1600)
-
 
 ## 5月7日の誕生色: レモン (`#EFDA00`)
 

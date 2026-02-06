@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjVeF7GR0vBR5DOZYrI43IULocICqGyKTBQ5YQU_3UwoGtQx7kaBq4mxB2W1r3hgP7UrukxR8XR7GWMAsPaGAh8LxhKclRRJg2F-BT0yaKo7UK1qp7D-0GPEOmXqgkpalwb8em0Y9fN_X-2zArNNiVwVEBJPPsOya84LIPw19qCqMUxaAFg3LVscyQz0m1o=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Antique Brown, The Birthday Color of November 24"
 date: "2026-11-24"
 updated: "2026-11-24"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "cloudy sky"
 description: "The birthday color for November 24 is Antique Brown (35292A). Its meaning is Traditional, Stable, Profound."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjVeF7GR0vBR5DOZYrI43IULocICqGyKTBQ5YQU_3UwoGtQx7kaBq4mxB2W1r3hgP7UrukxR8XR7GWMAsPaGAh8LxhKclRRJg2F-BT0yaKo7UK1qp7D-0GPEOmXqgkpalwb8em0Y9fN_X-2zArNNiVwVEBJPPsOya84LIPw19qCqMUxaAFg3LVscyQz0m1o=s1600"
 en_name: "AntiqueBrown"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjVeF7GR0vBR5DOZYrI43IULocICqGyKTBQ5YQU_3UwoGtQx7kaBq4mxB2W1r3hgP7UrukxR8XR7GWMAsPaGAh8LxhKclRRJg2F-BT0yaKo7UK1qp7D-0GPEOmXqgkpalwb8em0Y9fN_X-2zArNNiVwVEBJPPsOya84LIPw19qCqMUxaAFg3LVscyQz0m1o=s1600)
-
 
 ## Birthday Color for November 24: Antique Brown (`#35292A`)
 

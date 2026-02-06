@@ -1,21 +1,24 @@
 ---
-"title": "ピュアクリムゾン、2月23日の誕生色"
-"date": "2026-02-23"
-"updated": "2026-02-23"
-"labels":
-- "ピュアクリムゾン"
-- "誕生色"
-- "2月23日"
-- "BA0046"
-- "2月"
-- "ターコイズ"
-"description": "2月23日の誕生色 ピュアクリムゾン(BA0046)。色言葉は「真正、純粋、情熱」です。相性の良い色はターコイズです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjMJ4Bk44mNOXzClpWZjwbpwG-Qo8jcryYfAzCts3riPjbst5h4I2kkMhlRnd3hWcJY_JxKbN-ceniO6fKeD7Mrh4L2BwXpYwinFxY6Gb0UQ-cwS-nDxjdK5doTARSPg6FuHS6n4RStucacHXszGvOU0llh-hs3v6wbXrMNka9zeJ2MH_I8oBAcIObfEF_4=s1600"
-"en_name": "Pure Crimson"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "3768204373688446179"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/223-pure-crimson.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjMJ4Bk44mNOXzClpWZjwbpwG-Qo8jcryYfAzCts3riPjbst5h4I2kkMhlRnd3hWcJY_JxKbN-ceniO6fKeD7Mrh4L2BwXpYwinFxY6Gb0UQ-cwS-nDxjdK5doTARSPg6FuHS6n4RStucacHXszGvOU0llh-hs3v6wbXrMNka9zeJ2MH_I8oBAcIObfEF_4=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ピュアクリムゾン、2月23日の誕生色"
+date: "2026-02-23"
+updated: "2026-02-23"
+tags:
+  - "ピュアクリムゾン"
+  - "誕生色"
+  - "2月23日"
+  - "BA0046"
+  - "2月"
+  - "ターコイズ"
+description: "2月23日の誕生色 ピュアクリムゾン(BA0046)。色言葉は「真正、純粋、情熱」です。相性の良い色はターコイズです。"
+en_name: "Pure Crimson"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "3768204373688446179"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/223-pure-crimson.html"
 ---
 
 ## 2月23日の誕生色: ピュアクリムゾン (`#BA0046`)

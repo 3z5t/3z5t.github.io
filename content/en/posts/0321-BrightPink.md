@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhjSMlAmkqtlJwsleWR5g--k5o7z0lEp1fb8UdDQ1bzK6ltFbtgZpoY59OLdEIFZTA4M6AwOUDG1lt4I-glZCkK6JgLQyzLBswZ3EcvGv8Vq7efOYlvuRgygmKvr6-1U9I0YI-Uyq8c3MpPjTyG7M75uL9euKYORQF68FJIJy1KGHPAG7S113IDtzCu93LO=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Bright Pink, The Birthday Color of March 21"
 date: "2026-03-21"
 updated: "2026-03-21"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "deep abyss"
 description: "The birthday color for March 21 is Bright Pink (FFEAF3). Its meaning is Bright, Newness, Hopeful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhjSMlAmkqtlJwsleWR5g--k5o7z0lEp1fb8UdDQ1bzK6ltFbtgZpoY59OLdEIFZTA4M6AwOUDG1lt4I-glZCkK6JgLQyzLBswZ3EcvGv8Vq7efOYlvuRgygmKvr6-1U9I0YI-Uyq8c3MpPjTyG7M75uL9euKYORQF68FJIJy1KGHPAG7S113IDtzCu93LO=s1600"
 en_name: "BrightPink"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhjSMlAmkqtlJwsleWR5g--k5o7z0lEp1fb8UdDQ1bzK6ltFbtgZpoY59OLdEIFZTA4M6AwOUDG1lt4I-glZCkK6JgLQyzLBswZ3EcvGv8Vq7efOYlvuRgygmKvr6-1U9I0YI-Uyq8c3MpPjTyG7M75uL9euKYORQF68FJIJy1KGHPAG7S113IDtzCu93LO=s1600)
-
 
 ## Birthday Color for March 21: Bright Pink (`#FFEAF3`)
 

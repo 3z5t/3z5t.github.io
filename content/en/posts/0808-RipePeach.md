@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhAPcqQG4yeilPsNx0KFcqUobbNqjWV3zN0B1HR2oyfbVX-frxVRmAnSFDSZ7ClbQMaB7dIfZbciZbUHA-I76Qc1-KFLMfI9YpPn9pIzxb6GVy_PH2WFZKEgZ5tu6n-pHyJMQr0sAD0h7E9XL-DQgUQVdlTU5FWNLlCBedu-rGS4d5yrXOHhj_o6-XNn-mQ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Ripe Peach, The Birthday Color of August 8"
 date: "2026-08-08"
 updated: "2026-08-08"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "deep abyss"
 description: "The birthday color for August 8 is Ripe Peach (F8F3EA). Its meaning is Inclusiveness, Understanding, Consideration."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhAPcqQG4yeilPsNx0KFcqUobbNqjWV3zN0B1HR2oyfbVX-frxVRmAnSFDSZ7ClbQMaB7dIfZbciZbUHA-I76Qc1-KFLMfI9YpPn9pIzxb6GVy_PH2WFZKEgZ5tu6n-pHyJMQr0sAD0h7E9XL-DQgUQVdlTU5FWNLlCBedu-rGS4d5yrXOHhj_o6-XNn-mQ=s1600"
 en_name: "RipePeach"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhAPcqQG4yeilPsNx0KFcqUobbNqjWV3zN0B1HR2oyfbVX-frxVRmAnSFDSZ7ClbQMaB7dIfZbciZbUHA-I76Qc1-KFLMfI9YpPn9pIzxb6GVy_PH2WFZKEgZ5tu6n-pHyJMQr0sAD0h7E9XL-DQgUQVdlTU5FWNLlCBedu-rGS4d5yrXOHhj_o6-XNn-mQ=s1600)
-
 
 ## Birthday Color for August 8: Ripe Peach (`#F8F3EA`)
 

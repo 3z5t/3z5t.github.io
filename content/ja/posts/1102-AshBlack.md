@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjC66B_NMdL5Hh-V9zfZl0gQVRxoquYCyjdWP4RAvCK_GIgZIzo23DB7LGdU-jBX2z_Otm7dlNbgwGTF2oVNbm_kl1voe7Arcg71ytezOmu_Btw0B2SMyAUqff1_ygf4IaEcdt47dFZigiUvEJJqH96AgTY880Ebl0H5x2v4VNpqN-JHWXIj9dLn9n71f7e=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アッシュブラック、11月2日の誕生色"
 date: "2026-11-02"
 updated: "2026-11-02"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "ホイップクリーム"
 description: "11月2日の誕生色 アッシュブラック(282221)。色言葉は「変化を受け入れる、循環を知る、革新的」です。相性の良い色はホイップクリームです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjC66B_NMdL5Hh-V9zfZl0gQVRxoquYCyjdWP4RAvCK_GIgZIzo23DB7LGdU-jBX2z_Otm7dlNbgwGTF2oVNbm_kl1voe7Arcg71ytezOmu_Btw0B2SMyAUqff1_ygf4IaEcdt47dFZigiUvEJJqH96AgTY880Ebl0H5x2v4VNpqN-JHWXIj9dLn9n71f7e=s1600"
 en_name: "Ash Black"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjC66B_NMdL5Hh-V9zfZl0gQVRxoquYCyjdWP4RAvCK_GIgZIzo23DB7LGdU-jBX2z_Otm7dlNbgwGTF2oVNbm_kl1voe7Arcg71ytezOmu_Btw0B2SMyAUqff1_ygf4IaEcdt47dFZigiUvEJJqH96AgTY880Ebl0H5x2v4VNpqN-JHWXIj9dLn9n71f7e=s1600)
-
 
 ## 11月2日の誕生色: アッシュブラック (`#282221`)
 

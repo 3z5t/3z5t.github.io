@@ -1,21 +1,24 @@
 ---
-"title": "ディープグレーパープル、2月4日の誕生色"
-"date": "2026-02-04"
-"updated": "2026-02-04"
-"labels":
-- "ディープグレーパープル"
-- "誕生色"
-- "2月4日"
-- "524782"
-- "2月"
-- "ライトグリーンティー"
-"description": "2月4日の誕生色 ディープグレーパープル(524782)。色言葉は「洞察力、思索的、賢明」です。相性の良い色はライトグリーンティーです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgMaM7TqGGLtPYCQg6repTI-RG_lxMzj0DzSCzrdLmuOMLRDBpl5E4jB8WcYZDvn0Bfr9VO5LvY8kzdnSJQAR-BjDA6BWeZOoN4eIo6QWhm0RWp6KTYk1UndIAJcC2sFYJRVe22HISBDkTT7SS4HnkoeeZk813DODJKbeIvVkl_DYGW4k0ozqaq9EmoEQK4=s1600"
-"en_name": "Deep Grey Purple"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "6409925073407434479"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/24-deep-grey-purple.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgMaM7TqGGLtPYCQg6repTI-RG_lxMzj0DzSCzrdLmuOMLRDBpl5E4jB8WcYZDvn0Bfr9VO5LvY8kzdnSJQAR-BjDA6BWeZOoN4eIo6QWhm0RWp6KTYk1UndIAJcC2sFYJRVe22HISBDkTT7SS4HnkoeeZk813DODJKbeIvVkl_DYGW4k0ozqaq9EmoEQK4=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ディープグレーパープル、2月4日の誕生色"
+date: "2026-02-04"
+updated: "2026-02-04"
+tags:
+  - "ディープグレーパープル"
+  - "誕生色"
+  - "2月4日"
+  - "524782"
+  - "2月"
+  - "ライトグリーンティー"
+description: "2月4日の誕生色 ディープグレーパープル(524782)。色言葉は「洞察力、思索的、賢明」です。相性の良い色はライトグリーンティーです。"
+en_name: "Deep Grey Purple"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "6409925073407434479"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/24-deep-grey-purple.html"
 ---
 
 ## 2月4日の誕生色: ディープグレーパープル (`#524782`)

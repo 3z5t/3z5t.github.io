@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjytbG7iWDE0TacRlaP7PF4kMsPJoyaVFNr9hhjtVR3-Tr_7HIkygwvJCp8rciXzy-uEYSWHGhrgGM9iq_wqGqZXBCoW40IRb83RRmpr4ERfIgojmAbu02AlnCGk6ngKtXK9JOr93t8FRQ5Miz-tlfbHKBXOAtlUYurRp-6C5rPfgwLrPYcgsMxv3mGdTSQ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ノーブルダークベージュ、12月23日の誕生色"
 date: "2026-12-23"
 updated: "2026-12-23"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "エレガントウルトラマリン"
 description: "12月23日の誕生色 ノーブルダークベージュ(D5A66B)。色言葉は「深みのある、成熟、安定」です。相性の良い色はエレガントウルトラマリンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjytbG7iWDE0TacRlaP7PF4kMsPJoyaVFNr9hhjtVR3-Tr_7HIkygwvJCp8rciXzy-uEYSWHGhrgGM9iq_wqGqZXBCoW40IRb83RRmpr4ERfIgojmAbu02AlnCGk6ngKtXK9JOr93t8FRQ5Miz-tlfbHKBXOAtlUYurRp-6C5rPfgwLrPYcgsMxv3mGdTSQ=s1600"
 en_name: "Noble Dark Beige"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjytbG7iWDE0TacRlaP7PF4kMsPJoyaVFNr9hhjtVR3-Tr_7HIkygwvJCp8rciXzy-uEYSWHGhrgGM9iq_wqGqZXBCoW40IRb83RRmpr4ERfIgojmAbu02AlnCGk6ngKtXK9JOr93t8FRQ5Miz-tlfbHKBXOAtlUYurRp-6C5rPfgwLrPYcgsMxv3mGdTSQ=s1600)
-
 
 ## 12月23日の誕生色: ノーブルダークベージュ (`#D5A66B`)
 

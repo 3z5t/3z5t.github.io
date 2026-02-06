@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhfYC8bUSqtnp0ob947io3aw4tBkBi-WDdYbU4VRVORmoTSzgJEwEZskW_5f3hhu8ON67YjistAthgjnPQGSAydG4GEkCyu9l0YdqCaouQvdvAkwdFgKVo9Cs4Qevj9y1VFR6dVtIIz8ew7qAJC8RnopWhV8C9WJDjNV9mecg9oYc5SzW076oAGD_P19w7T=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "エレクトリックブルー、4月1日の誕生色"
 date: "2026-04-01"
 updated: "2026-04-01"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "マルーン"
 description: "4月1日の誕生色 エレクトリックブルー(99FFFF)。色言葉は「活気ある、愉快、創造性」です。相性の良い色はマルーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhfYC8bUSqtnp0ob947io3aw4tBkBi-WDdYbU4VRVORmoTSzgJEwEZskW_5f3hhu8ON67YjistAthgjnPQGSAydG4GEkCyu9l0YdqCaouQvdvAkwdFgKVo9Cs4Qevj9y1VFR6dVtIIz8ew7qAJC8RnopWhV8C9WJDjNV9mecg9oYc5SzW076oAGD_P19w7T=s1600"
 en_name: "Electric Blue"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhfYC8bUSqtnp0ob947io3aw4tBkBi-WDdYbU4VRVORmoTSzgJEwEZskW_5f3hhu8ON67YjistAthgjnPQGSAydG4GEkCyu9l0YdqCaouQvdvAkwdFgKVo9Cs4Qevj9y1VFR6dVtIIz8ew7qAJC8RnopWhV8C9WJDjNV9mecg9oYc5SzW076oAGD_P19w7T=s1600)
-
 
 ## 4月1日の誕生色: エレクトリックブルー (`#99FFFF`)
 

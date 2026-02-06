@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjW4ERvwutkzyMX3awz3rIUKIJ4m83b65-F7vsofHsozePSMOPwe-9Kz-RYRggwjJq8e3H8t6c_gqi5kpAdhO1Z9p0ndiDJKmrHe7izIyiao0rVfmIpVy8acWEAZyfw53u90hLbAAObytWwkWiEgcaJ5qaEfEz13NgToqcM7BIYK-ZmNy_wtD4w3dOlpY9I=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Red Orange, The Birthday Color of October 2"
 date: "2026-10-02"
 updated: "2026-10-02"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "noble sky blue"
 description: "The birthday color for October 2 is Red Orange (FF3333). Its meaning is Vibrant, Energetic, Dynamic."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjW4ERvwutkzyMX3awz3rIUKIJ4m83b65-F7vsofHsozePSMOPwe-9Kz-RYRggwjJq8e3H8t6c_gqi5kpAdhO1Z9p0ndiDJKmrHe7izIyiao0rVfmIpVy8acWEAZyfw53u90hLbAAObytWwkWiEgcaJ5qaEfEz13NgToqcM7BIYK-ZmNy_wtD4w3dOlpY9I=s1600"
 en_name: "RedOrange"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjW4ERvwutkzyMX3awz3rIUKIJ4m83b65-F7vsofHsozePSMOPwe-9Kz-RYRggwjJq8e3H8t6c_gqi5kpAdhO1Z9p0ndiDJKmrHe7izIyiao0rVfmIpVy8acWEAZyfw53u90hLbAAObytWwkWiEgcaJ5qaEfEz13NgToqcM7BIYK-ZmNy_wtD4w3dOlpY9I=s1600)
-
 
 ## Birthday Color for October 2: Red Orange (`#FF3333`)
 

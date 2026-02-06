@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgqDiJq0XyQKCl4r5vOPMGi36jl2AhaRw2uaMiZ7TrdtNGpA-7qrM2XJNtAnrgV_sLtKtaeAtby87764inFgB8jzgQpny8Iyp2R_-TPfWDWuXFSGx-RclntED3x2MFx6S98VcPiej6_uga8764nD1BAEGGoLqChGHFOgy5cFJb44hrtjO6PbtEiyAyDIJq7=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アンティークゴールド、5月4日の誕生色"
 date: "2026-05-04"
 updated: "2026-05-04"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "エレガントウルトラマリン"
 description: "5月4日の誕生色 アンティークゴールド(CFB53B)。色言葉は「賢明、経験豊富、洞察力」です。相性の良い色はエレガントウルトラマリンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgqDiJq0XyQKCl4r5vOPMGi36jl2AhaRw2uaMiZ7TrdtNGpA-7qrM2XJNtAnrgV_sLtKtaeAtby87764inFgB8jzgQpny8Iyp2R_-TPfWDWuXFSGx-RclntED3x2MFx6S98VcPiej6_uga8764nD1BAEGGoLqChGHFOgy5cFJb44hrtjO6PbtEiyAyDIJq7=s1600"
 en_name: "Antique Gold"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgqDiJq0XyQKCl4r5vOPMGi36jl2AhaRw2uaMiZ7TrdtNGpA-7qrM2XJNtAnrgV_sLtKtaeAtby87764inFgB8jzgQpny8Iyp2R_-TPfWDWuXFSGx-RclntED3x2MFx6S98VcPiej6_uga8764nD1BAEGGoLqChGHFOgy5cFJb44hrtjO6PbtEiyAyDIJq7=s1600)
-
 
 ## 5月4日の誕生色: アンティークゴールド (`#CFB53B`)
 

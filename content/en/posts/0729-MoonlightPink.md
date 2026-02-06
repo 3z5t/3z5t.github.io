@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhf4sbi3xXGC_OrUmgSZ8C9XHIS9BSSH826tsId1wus-KlPZl4WRoRevGjKP9JY_mFhBC0v8ZBUxW_zD7Bmuf783wYL2VxXedC6iR1HTQBWNVCPWgdByhWDkK6AW70k-iYBnz-QfkNLpzMvZ8ojhXwyIYHooLLfRuxoEzJJ2kUhJi4AgiF6OnXSrZZBWHDo=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Moonlight Pink, The Birthday Color of July 29"
 date: "2026-07-29"
 updated: "2026-07-29"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "dark forest gray"
 description: "The birthday color for July 29 is Moonlight Pink (E0C8C0). Its meaning is Soft, Pure, Elegant."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhf4sbi3xXGC_OrUmgSZ8C9XHIS9BSSH826tsId1wus-KlPZl4WRoRevGjKP9JY_mFhBC0v8ZBUxW_zD7Bmuf783wYL2VxXedC6iR1HTQBWNVCPWgdByhWDkK6AW70k-iYBnz-QfkNLpzMvZ8ojhXwyIYHooLLfRuxoEzJJ2kUhJi4AgiF6OnXSrZZBWHDo=s1600"
 en_name: "MoonlightPink"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhf4sbi3xXGC_OrUmgSZ8C9XHIS9BSSH826tsId1wus-KlPZl4WRoRevGjKP9JY_mFhBC0v8ZBUxW_zD7Bmuf783wYL2VxXedC6iR1HTQBWNVCPWgdByhWDkK6AW70k-iYBnz-QfkNLpzMvZ8ojhXwyIYHooLLfRuxoEzJJ2kUhJi4AgiF6OnXSrZZBWHDo=s1600)
-
 
 ## Birthday Color for July 29: Moonlight Pink (`#E0C8C0`)
 

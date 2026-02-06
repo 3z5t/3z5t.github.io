@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgE-e-MgtnfZ2SQbe2mbscslsu5aI2MvWrnqfIlncx-7CUXKXZl4UBjAfFh0HDSABlSsFtZuwBRr8eShnYct19rg4AQnpcZElDI6-6DxJJHTJnYYAdeLEzQYaX_I73NurBwgVg01B3pS2qM5rIUIyAilBKzgoCoeSbjE39P2xFf23N1CYQC8mHFJhB8N1mk=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Dusk Gray, The Birthday Color of September 7"
 date: "2026-09-07"
 updated: "2026-09-07"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "cloud gray"
 description: "The birthday color for September 7 is Dusk Gray (313035). Its meaning is Stable, Reflective, Prudent."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgE-e-MgtnfZ2SQbe2mbscslsu5aI2MvWrnqfIlncx-7CUXKXZl4UBjAfFh0HDSABlSsFtZuwBRr8eShnYct19rg4AQnpcZElDI6-6DxJJHTJnYYAdeLEzQYaX_I73NurBwgVg01B3pS2qM5rIUIyAilBKzgoCoeSbjE39P2xFf23N1CYQC8mHFJhB8N1mk=s1600"
 en_name: "DuskGray"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgE-e-MgtnfZ2SQbe2mbscslsu5aI2MvWrnqfIlncx-7CUXKXZl4UBjAfFh0HDSABlSsFtZuwBRr8eShnYct19rg4AQnpcZElDI6-6DxJJHTJnYYAdeLEzQYaX_I73NurBwgVg01B3pS2qM5rIUIyAilBKzgoCoeSbjE39P2xFf23N1CYQC8mHFJhB8N1mk=s1600)
-
 
 ## Birthday Color for September 7: Dusk Gray (`#313035`)
 

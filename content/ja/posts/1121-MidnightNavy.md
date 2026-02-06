@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEilT7q6FKzRmX3Bww9UfmV2O6oxMKeUnCWDoDCgEeFGWrxX2VryEXdfpWeAqKENPn4-1bfCsL37ogOlgBqjCw_NSgiSSNHMnNCwZOpnX-zUT46WYapYI1njqoOMLyfaTdp-oB_1DRboYSlwRI6JSuXrtHhJbwrh23X8pXlQmv4J2x66jCEsNvatY1at3TiU=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ミッドナイトネイビー、11月21日の誕生色"
 date: "2026-11-21"
 updated: "2026-11-21"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "クリーム"
 description: "11月21日の誕生色 ミッドナイトネイビー(000033)。色言葉は「神秘的、深みのある、静寂」です。相性の良い色はクリームです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEilT7q6FKzRmX3Bww9UfmV2O6oxMKeUnCWDoDCgEeFGWrxX2VryEXdfpWeAqKENPn4-1bfCsL37ogOlgBqjCw_NSgiSSNHMnNCwZOpnX-zUT46WYapYI1njqoOMLyfaTdp-oB_1DRboYSlwRI6JSuXrtHhJbwrh23X8pXlQmv4J2x66jCEsNvatY1at3TiU=s1600"
 en_name: "Midnight Navy"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEilT7q6FKzRmX3Bww9UfmV2O6oxMKeUnCWDoDCgEeFGWrxX2VryEXdfpWeAqKENPn4-1bfCsL37ogOlgBqjCw_NSgiSSNHMnNCwZOpnX-zUT46WYapYI1njqoOMLyfaTdp-oB_1DRboYSlwRI6JSuXrtHhJbwrh23X8pXlQmv4J2x66jCEsNvatY1at3TiU=s1600)
-
 
 ## 11月21日の誕生色: ミッドナイトネイビー (`#000033`)
 

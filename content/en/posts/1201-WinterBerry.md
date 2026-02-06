@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjNXeG8mE5VRZRPv5zcFXnCcH_zPwqp-1OC3YMJMgXJDgHa3mOX0nvlS-efkkXjOL6LcVSbyr6FeajLv71jP0laZ0CTci86n34qHHM-6j6nmsKQQbALVBzb2FpDzV5iWxnSxVdBKb66QkTnftx46FZOm0_ADXS3lzHJaeBxkNTAZvJfYi9bXHKBJR16LbsI=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Winter Berry, The Birthday Color of December 1"
 date: "2026-12-01"
 updated: "2026-12-01"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "turquoise"
 description: "The birthday color for December 1 is Winter Berry (AF2A24). Its meaning is Giving Hope, Expectant, Mysterious."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjNXeG8mE5VRZRPv5zcFXnCcH_zPwqp-1OC3YMJMgXJDgHa3mOX0nvlS-efkkXjOL6LcVSbyr6FeajLv71jP0laZ0CTci86n34qHHM-6j6nmsKQQbALVBzb2FpDzV5iWxnSxVdBKb66QkTnftx46FZOm0_ADXS3lzHJaeBxkNTAZvJfYi9bXHKBJR16LbsI=s1600"
 en_name: "WinterBerry"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjNXeG8mE5VRZRPv5zcFXnCcH_zPwqp-1OC3YMJMgXJDgHa3mOX0nvlS-efkkXjOL6LcVSbyr6FeajLv71jP0laZ0CTci86n34qHHM-6j6nmsKQQbALVBzb2FpDzV5iWxnSxVdBKb66QkTnftx46FZOm0_ADXS3lzHJaeBxkNTAZvJfYi9bXHKBJR16LbsI=s1600)
-
 
 ## Birthday Color for December 1: Winter Berry (`#AF2A24`)
 

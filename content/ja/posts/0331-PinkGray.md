@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjMpR_OMr0OZMYzzvEkcip0Htzygxx5BY9M1CsYlpDZNd7GD7soo0euC0lyNwsD02-bP8R8RTDDEJ8yHqazwpFvKmhq6ZzbXFnKlkRmUZUSbFXYdV_zzzE7gt1maVD_rWcQrBZ8VuOiIWoHq2HBCtJwbcYLKGmblgpUNojQYCKevCFOoFAu0AlyBfZwAFQs=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ピンクグレー、3月31日の誕生色"
 date: "2026-03-31"
 updated: "2026-03-31"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ミッドナイトバイオレット"
 description: "3月31日の誕生色 ピンクグレー(E5D7CD)。色言葉は「成熟、バランス感覚、賢明」です。相性の良い色はミッドナイトバイオレットです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjMpR_OMr0OZMYzzvEkcip0Htzygxx5BY9M1CsYlpDZNd7GD7soo0euC0lyNwsD02-bP8R8RTDDEJ8yHqazwpFvKmhq6ZzbXFnKlkRmUZUSbFXYdV_zzzE7gt1maVD_rWcQrBZ8VuOiIWoHq2HBCtJwbcYLKGmblgpUNojQYCKevCFOoFAu0AlyBfZwAFQs=s1600"
 en_name: "Pink Gray"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjMpR_OMr0OZMYzzvEkcip0Htzygxx5BY9M1CsYlpDZNd7GD7soo0euC0lyNwsD02-bP8R8RTDDEJ8yHqazwpFvKmhq6ZzbXFnKlkRmUZUSbFXYdV_zzzE7gt1maVD_rWcQrBZ8VuOiIWoHq2HBCtJwbcYLKGmblgpUNojQYCKevCFOoFAu0AlyBfZwAFQs=s1600)
-
 
 ## 3月31日の誕生色: ピンクグレー (`#E5D7CD`)
 

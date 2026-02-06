@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi2fFxq1onBQrvcmxqh328SnnAo1ezudt3Ek5PXE6ui-OY8A4rM4-2lzbH9kOolMEmSSgTiqVoFCupg9oKFu2ZhNOSE4OW7nGEIKyazwegJ5rNV02nqxS3yaWZklvwyKjdsrJrZFSYwZC0mU_nCq-DYWd4xW1LSJ65NhqqVEWg-veb4JbJEwcThxY9F0tmk=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "グレーミント、7月28日の誕生色"
 date: "2026-07-28"
 updated: "2026-07-28"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "サドルブラウン"
 description: "7月28日の誕生色 グレーミント(ADCECE)。色言葉は「落ち着いた性格、安定感、バランス感覚」です。相性の良い色はサドルブラウンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi2fFxq1onBQrvcmxqh328SnnAo1ezudt3Ek5PXE6ui-OY8A4rM4-2lzbH9kOolMEmSSgTiqVoFCupg9oKFu2ZhNOSE4OW7nGEIKyazwegJ5rNV02nqxS3yaWZklvwyKjdsrJrZFSYwZC0mU_nCq-DYWd4xW1LSJ65NhqqVEWg-veb4JbJEwcThxY9F0tmk=s1600"
 en_name: "Gray Mint"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi2fFxq1onBQrvcmxqh328SnnAo1ezudt3Ek5PXE6ui-OY8A4rM4-2lzbH9kOolMEmSSgTiqVoFCupg9oKFu2ZhNOSE4OW7nGEIKyazwegJ5rNV02nqxS3yaWZklvwyKjdsrJrZFSYwZC0mU_nCq-DYWd4xW1LSJ65NhqqVEWg-veb4JbJEwcThxY9F0tmk=s1600)
-
 
 ## 7月28日の誕生色: グレーミント (`#ADCECE`)
 

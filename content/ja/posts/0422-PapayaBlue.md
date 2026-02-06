@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgyrxg0IMUPCMDnZtFs8s1oz_odbY1VEg0KTce4MqCBG5pkSqtrfbf587NczaRZ2sqSTIq9SCF-vtKSwqOdGaSZctCB2o7K6CUMEHVxQCqGLL1OMQPoBnRmDHZYhA02I0rXvDPyRaXCLD_CUqZjteXqVpm8-CQUVu5l4w1TsODxKSeGWunWOc66rDCg2M60=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "パパイヤブルー、4月22日の誕生色"
 date: "2026-04-22"
 updated: "2026-04-22"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "インテンスサンセット"
 description: "4月22日の誕生色 パパイヤブルー(37B5BE)。色言葉は「活力的、健康、躍動感」です。相性の良い色はインテンスサンセットです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgyrxg0IMUPCMDnZtFs8s1oz_odbY1VEg0KTce4MqCBG5pkSqtrfbf587NczaRZ2sqSTIq9SCF-vtKSwqOdGaSZctCB2o7K6CUMEHVxQCqGLL1OMQPoBnRmDHZYhA02I0rXvDPyRaXCLD_CUqZjteXqVpm8-CQUVu5l4w1TsODxKSeGWunWOc66rDCg2M60=s1600"
 en_name: "Papaya Blue"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgyrxg0IMUPCMDnZtFs8s1oz_odbY1VEg0KTce4MqCBG5pkSqtrfbf587NczaRZ2sqSTIq9SCF-vtKSwqOdGaSZctCB2o7K6CUMEHVxQCqGLL1OMQPoBnRmDHZYhA02I0rXvDPyRaXCLD_CUqZjteXqVpm8-CQUVu5l4w1TsODxKSeGWunWOc66rDCg2M60=s1600)
-
 
 ## 4月22日の誕生色: パパイヤブルー (`#37B5BE`)
 

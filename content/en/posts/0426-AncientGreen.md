@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgEuumEBi_xoYHFcLc4bGqgPRfWmiV8_YYKt8cLzMZ5ZORFz0JzZBJi_JLlnhx-bC6Ff2NIDH_v8aGcOTsroHrMbMs6WmR34IocKWKvr_261EwZLwPlKJeyA6r0J__qsDgemIRgeEyEy2TGEcKBSB4BWAZLf0iHAo3sDDcqvHZOPwEKyhDGuy3jnCeFT8tI=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Ancient Green, The Birthday Color of April 26"
 date: "2026-04-26"
 updated: "2026-04-26"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "satin gray"
 description: "The birthday color for April 26 is Ancient Green (476664). Its meaning is Wise, Serene, Traditional."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgEuumEBi_xoYHFcLc4bGqgPRfWmiV8_YYKt8cLzMZ5ZORFz0JzZBJi_JLlnhx-bC6Ff2NIDH_v8aGcOTsroHrMbMs6WmR34IocKWKvr_261EwZLwPlKJeyA6r0J__qsDgemIRgeEyEy2TGEcKBSB4BWAZLf0iHAo3sDDcqvHZOPwEKyhDGuy3jnCeFT8tI=s1600"
 en_name: "AncientGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgEuumEBi_xoYHFcLc4bGqgPRfWmiV8_YYKt8cLzMZ5ZORFz0JzZBJi_JLlnhx-bC6Ff2NIDH_v8aGcOTsroHrMbMs6WmR34IocKWKvr_261EwZLwPlKJeyA6r0J__qsDgemIRgeEyEy2TGEcKBSB4BWAZLf0iHAo3sDDcqvHZOPwEKyhDGuy3jnCeFT8tI=s1600)
-
 
 ## Birthday Color for April 26: Ancient Green (`#476664`)
 

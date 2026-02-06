@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi9DY24VMwOkvW-jrAUpiJnrSgDbe8efUFgJrEzJuY0Bhfu-5RYRmXTGsbvdv9npkt_XRaoR8REcM0hv6se7I9e5ImI8rntGU8Y501bYvIB1Fmpm4uWrZp9LyE4RKWhmO_ztHrn7KRDfzi42NcO4dJEuyhs7YoalskBOEZCYE7ONqFgy9CI9uSVwPXsTFB1=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Chinook Green, The Birthday Color of April 18"
 date: "2026-04-18"
 updated: "2026-04-18"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "deep wine"
 description: "The birthday color for April 18 is Chinook Green (99CC99). Its meaning is Harmonious, Peaceful, Healing."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi9DY24VMwOkvW-jrAUpiJnrSgDbe8efUFgJrEzJuY0Bhfu-5RYRmXTGsbvdv9npkt_XRaoR8REcM0hv6se7I9e5ImI8rntGU8Y501bYvIB1Fmpm4uWrZp9LyE4RKWhmO_ztHrn7KRDfzi42NcO4dJEuyhs7YoalskBOEZCYE7ONqFgy9CI9uSVwPXsTFB1=s1600"
 en_name: "ChinookGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi9DY24VMwOkvW-jrAUpiJnrSgDbe8efUFgJrEzJuY0Bhfu-5RYRmXTGsbvdv9npkt_XRaoR8REcM0hv6se7I9e5ImI8rntGU8Y501bYvIB1Fmpm4uWrZp9LyE4RKWhmO_ztHrn7KRDfzi42NcO4dJEuyhs7YoalskBOEZCYE7ONqFgy9CI9uSVwPXsTFB1=s1600)
-
 
 ## Birthday Color for April 18: Chinook Green (`#99CC99`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi8QS3hYA1MmS_G-JDkCV-PFqRbxeIkNhtJE7EPpm4wc_AKl8Lp5fW_08CMigwoMYmRlMCX6aIeJNL6oZw-WNaSM07PrtNGiOxWiqzHvqJBtJQJOAmiq4uZQEit9vNyA19ypZObAFlOmIJ0ZJtZGqxvojg6BhRRCSvKebhOWByuR7M-BHMTl0fFVlf_jreJ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ミッドナイトライダー、11月29日の誕生色"
 date: "2026-11-29"
 updated: "2026-11-29"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "シルバーアンティーク"
 description: "11月29日の誕生色 ミッドナイトライダー(333333)。色言葉は「決断力、意志力、堅固」です。相性の良い色はシルバーアンティークです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi8QS3hYA1MmS_G-JDkCV-PFqRbxeIkNhtJE7EPpm4wc_AKl8Lp5fW_08CMigwoMYmRlMCX6aIeJNL6oZw-WNaSM07PrtNGiOxWiqzHvqJBtJQJOAmiq4uZQEit9vNyA19ypZObAFlOmIJ0ZJtZGqxvojg6BhRRCSvKebhOWByuR7M-BHMTl0fFVlf_jreJ=s1600"
 en_name: "Midnight Rider"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi8QS3hYA1MmS_G-JDkCV-PFqRbxeIkNhtJE7EPpm4wc_AKl8Lp5fW_08CMigwoMYmRlMCX6aIeJNL6oZw-WNaSM07PrtNGiOxWiqzHvqJBtJQJOAmiq4uZQEit9vNyA19ypZObAFlOmIJ0ZJtZGqxvojg6BhRRCSvKebhOWByuR7M-BHMTl0fFVlf_jreJ=s1600)
-
 
 ## 11月29日の誕生色: ミッドナイトライダー (`#333333`)
 

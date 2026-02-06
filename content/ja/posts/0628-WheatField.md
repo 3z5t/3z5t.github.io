@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjYAzF1PXXsq0MMx3atxk7ZlwxtRFSoFH3WJwoA-ccYxuj98QVr5yoyQIjbuyqd1Eh0hYGLDWVJZavxn76K5nTFrbHTZh4DeXM76584bRAxhZiCv3wNRMNLGxv6d--fxW9Kg9OqWQWkf_ih9d21lShW2QecKUggpwDy6aRloLqO1CnoZoxuDH1yhbanrpUC=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ウィートフィールド（麦畑）、6月28日の誕生色"
 date: "2026-06-28"
 updated: "2026-06-28"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "エレガントウルトラマリン"
 description: "6月28日の誕生色 ウィートフィールド（麦畑）(B89A6D)。色言葉は「豊かさ、感謝、繁栄」です。相性の良い色はエレガントウルトラマリンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjYAzF1PXXsq0MMx3atxk7ZlwxtRFSoFH3WJwoA-ccYxuj98QVr5yoyQIjbuyqd1Eh0hYGLDWVJZavxn76K5nTFrbHTZh4DeXM76584bRAxhZiCv3wNRMNLGxv6d--fxW9Kg9OqWQWkf_ih9d21lShW2QecKUggpwDy6aRloLqO1CnoZoxuDH1yhbanrpUC=s1600"
 en_name: "Wheat Field"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjYAzF1PXXsq0MMx3atxk7ZlwxtRFSoFH3WJwoA-ccYxuj98QVr5yoyQIjbuyqd1Eh0hYGLDWVJZavxn76K5nTFrbHTZh4DeXM76584bRAxhZiCv3wNRMNLGxv6d--fxW9Kg9OqWQWkf_ih9d21lShW2QecKUggpwDy6aRloLqO1CnoZoxuDH1yhbanrpUC=s1600)
-
 
 ## 6月28日の誕生色: ウィートフィールド（麦畑） (`#B89A6D`)
 

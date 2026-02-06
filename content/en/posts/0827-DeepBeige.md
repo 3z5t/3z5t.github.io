@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhO_FsKNO7iaCwM3W8b5NevxfTXVr7Q111PpLehQgmIJvtI6kCAm02z_GTvB4uUaGvQp18YWyJkFnLERusxI8eZMA4Pj6Ai7xTFvomrh6VR5M6Rj5eV9TMjfQY89Wv7LIpzVy3xGhczsR2TgVnSPw8RizRSvhVdMQTxYSCto6wgktsOSuGsWxvofiCvF3KL=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Beige, The Birthday Color of August 27"
 date: "2026-08-27"
 updated: "2026-08-27"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "elegant ultramarine"
 description: "The birthday color for August 27 is Deep Beige (D29E5C). Its meaning is Rich Sensibility, Profound, Mature."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhO_FsKNO7iaCwM3W8b5NevxfTXVr7Q111PpLehQgmIJvtI6kCAm02z_GTvB4uUaGvQp18YWyJkFnLERusxI8eZMA4Pj6Ai7xTFvomrh6VR5M6Rj5eV9TMjfQY89Wv7LIpzVy3xGhczsR2TgVnSPw8RizRSvhVdMQTxYSCto6wgktsOSuGsWxvofiCvF3KL=s1600"
 en_name: "DeepBeige"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhO_FsKNO7iaCwM3W8b5NevxfTXVr7Q111PpLehQgmIJvtI6kCAm02z_GTvB4uUaGvQp18YWyJkFnLERusxI8eZMA4Pj6Ai7xTFvomrh6VR5M6Rj5eV9TMjfQY89Wv7LIpzVy3xGhczsR2TgVnSPw8RizRSvhVdMQTxYSCto6wgktsOSuGsWxvofiCvF3KL=s1600)
-
 
 ## Birthday Color for August 27: Deep Beige (`#D29E5C`)
 

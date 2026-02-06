@@ -1,21 +1,24 @@
 ---
-"title": "ブランディローズ、2月29日の誕生色"
-"date": "2026-02-28"
-"updated": "2026-02-28"
-"labels":
-- "ブランディローズ"
-- "誕生色"
-- "2月29日"
-- "B58A7B"
-- "2月"
-- "スレートグリーン"
-"description": "2月29日の誕生色 ブランディローズ(B58A7B)。色言葉は「独自性、創造性、個性」です。相性の良い色はスレートグリーンです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgwZXjW6_DvmPSXnIK0hcmWfUl45N-dkRLHqTAaRWyOg6MoKQyuf1Nagwh1L0mTWZSgwwk6dDV06_08weOEzBEowQSf9zdxZxf9wf2D61tB4aKa1QQMq2uu_j57NMRZd9CvWR9-vQvQCSzY9qH98As8pCH1VOjlC9eDNtNeHjQusD9JU2sf6fjUGEf_uYri=s1600"
-"en_name": "Brandy Rose"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "877552170963623904"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/229-brandy-rose.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgwZXjW6_DvmPSXnIK0hcmWfUl45N-dkRLHqTAaRWyOg6MoKQyuf1Nagwh1L0mTWZSgwwk6dDV06_08weOEzBEowQSf9zdxZxf9wf2D61tB4aKa1QQMq2uu_j57NMRZd9CvWR9-vQvQCSzY9qH98As8pCH1VOjlC9eDNtNeHjQusD9JU2sf6fjUGEf_uYri=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ブランディローズ、2月29日の誕生色"
+date: "2026-02-28"
+updated: "2026-02-28"
+tags:
+  - "ブランディローズ"
+  - "誕生色"
+  - "2月29日"
+  - "B58A7B"
+  - "2月"
+  - "スレートグリーン"
+description: "2月29日の誕生色 ブランディローズ(B58A7B)。色言葉は「独自性、創造性、個性」です。相性の良い色はスレートグリーンです。"
+en_name: "Brandy Rose"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "877552170963623904"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/229-brandy-rose.html"
 ---
 
 ## 2月29日の誕生色: ブランディローズ (`#B58A7B`)

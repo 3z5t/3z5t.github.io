@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjdlB5XdS2x_s30X0N5mrtxSKCtO6l4J1KSUWBL0e38j80XI4h9-4hsmNnooRZ0N2tNXx8kXkx3NclVDyJ9fPViUFKYIW4Yc03vV9w_YOz0kgHLfV9-3-e2hPazlJaxwkYjCpxsXxyNRPwr9DW5b0kAwtRibryQaxnGI6Pwg4rHt_z_7TzDUUO_GIUyKa4v=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Noble Ivory, The Birthday Color of December 11"
 date: "2026-12-11"
 updated: "2026-12-11"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "midnight black"
 description: "The birthday color for December 11 is Noble Ivory (F4EBE7). Its meaning is Noble Soul, Elegant, Classy."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjdlB5XdS2x_s30X0N5mrtxSKCtO6l4J1KSUWBL0e38j80XI4h9-4hsmNnooRZ0N2tNXx8kXkx3NclVDyJ9fPViUFKYIW4Yc03vV9w_YOz0kgHLfV9-3-e2hPazlJaxwkYjCpxsXxyNRPwr9DW5b0kAwtRibryQaxnGI6Pwg4rHt_z_7TzDUUO_GIUyKa4v=s1600"
 en_name: "NobleIvory"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjdlB5XdS2x_s30X0N5mrtxSKCtO6l4J1KSUWBL0e38j80XI4h9-4hsmNnooRZ0N2tNXx8kXkx3NclVDyJ9fPViUFKYIW4Yc03vV9w_YOz0kgHLfV9-3-e2hPazlJaxwkYjCpxsXxyNRPwr9DW5b0kAwtRibryQaxnGI6Pwg4rHt_z_7TzDUUO_GIUyKa4v=s1600)
-
 
 ## Birthday Color for December 11: Noble Ivory (`#F4EBE7`)
 

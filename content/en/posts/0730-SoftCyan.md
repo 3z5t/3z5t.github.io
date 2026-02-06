@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiC6hpu9WZ7WqeUiG_qMUq-QMtgBNoGbil-oSWcIxcdfsgYu4c1ypK9cjq5a501uZ6yk8pgITBHTTH8Cqz9Vmyr0ruLWzsy4xozAfAge6rjcVydonMSwtDaElhYYJaJSOOkaUy4s9Y8LlLmUTKjRXnqtyoUlRL1rg3_T_B5Uan4fPh0ybsQXlYABUTeZL01=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Soft Cyan, The Birthday Color of July 30"
 date: "2026-07-30"
 updated: "2026-07-30"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "brown"
 description: "The birthday color for July 30 is Soft Cyan (6EC5EF). Its meaning is Refreshing Personality, Cool, Bright Mind."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiC6hpu9WZ7WqeUiG_qMUq-QMtgBNoGbil-oSWcIxcdfsgYu4c1ypK9cjq5a501uZ6yk8pgITBHTTH8Cqz9Vmyr0ruLWzsy4xozAfAge6rjcVydonMSwtDaElhYYJaJSOOkaUy4s9Y8LlLmUTKjRXnqtyoUlRL1rg3_T_B5Uan4fPh0ybsQXlYABUTeZL01=s1600"
 en_name: "SoftCyan"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiC6hpu9WZ7WqeUiG_qMUq-QMtgBNoGbil-oSWcIxcdfsgYu4c1ypK9cjq5a501uZ6yk8pgITBHTTH8Cqz9Vmyr0ruLWzsy4xozAfAge6rjcVydonMSwtDaElhYYJaJSOOkaUy4s9Y8LlLmUTKjRXnqtyoUlRL1rg3_T_B5Uan4fPh0ybsQXlYABUTeZL01=s1600)
-
 
 ## Birthday Color for July 30: Soft Cyan (`#6EC5EF`)
 

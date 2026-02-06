@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgNLRMMONmT8C-PQPLTP-4yImNMbR-9hmpFvByAfZ3iyV2OANM_z1KRSIJsCIf99u6ZY2dRlVaZsGwfjH_5MukQ_rHqJMbu0AcEWRVewHMoEqW6LO0d8owAEh_wH0K-newyf5quJes4JwDCacPf1bJWXQFPvhpSpxIWIITKDe9KAK1GZqruvh__XvMNLiGE=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ウィンターミルクティー、12月10日の誕生色"
 date: "2026-12-10"
 updated: "2026-12-10"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "スモーキーブラック"
 description: "12月10日の誕生色 ウィンターミルクティー(F2EDF3)。色言葉は「温かい心、心地よい、平和」です。相性の良い色はスモーキーブラックです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgNLRMMONmT8C-PQPLTP-4yImNMbR-9hmpFvByAfZ3iyV2OANM_z1KRSIJsCIf99u6ZY2dRlVaZsGwfjH_5MukQ_rHqJMbu0AcEWRVewHMoEqW6LO0d8owAEh_wH0K-newyf5quJes4JwDCacPf1bJWXQFPvhpSpxIWIITKDe9KAK1GZqruvh__XvMNLiGE=s1600"
 en_name: "Winter Milk Tea"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgNLRMMONmT8C-PQPLTP-4yImNMbR-9hmpFvByAfZ3iyV2OANM_z1KRSIJsCIf99u6ZY2dRlVaZsGwfjH_5MukQ_rHqJMbu0AcEWRVewHMoEqW6LO0d8owAEh_wH0K-newyf5quJes4JwDCacPf1bJWXQFPvhpSpxIWIITKDe9KAK1GZqruvh__XvMNLiGE=s1600)
-
 
 ## 12月10日の誕生色: ウィンターミルクティー (`#F2EDF3`)
 

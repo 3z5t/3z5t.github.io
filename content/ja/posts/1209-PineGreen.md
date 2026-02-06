@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhh9RIp893U1-B47sj-_IJY154USa8j_2knzJlwPZWvAYe9AThw_2ZrchIMlm1NbZXnjRIbvRLm1_f3M7rwKCaWh3NRaT2iJxp2-kXBw2S-NybsV5LO3Z3Mf0oTw109MCOr6Z-weSK0UwdAJE7E81n7KW7rEkj3KSC-4DwjNx1Mexhz4WA_vyI_OWUJxIys=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "パイングリーン、12月9日の誕生色"
 date: "2026-12-09"
 updated: "2026-12-09"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ライトコーラル"
 description: "12月9日の誕生色 パイングリーン(207670)。色言葉は「純粋な魂、神秘的、冷静」です。相性の良い色はライトコーラルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhh9RIp893U1-B47sj-_IJY154USa8j_2knzJlwPZWvAYe9AThw_2ZrchIMlm1NbZXnjRIbvRLm1_f3M7rwKCaWh3NRaT2iJxp2-kXBw2S-NybsV5LO3Z3Mf0oTw109MCOr6Z-weSK0UwdAJE7E81n7KW7rEkj3KSC-4DwjNx1Mexhz4WA_vyI_OWUJxIys=s1600"
 en_name: "Pine Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhh9RIp893U1-B47sj-_IJY154USa8j_2knzJlwPZWvAYe9AThw_2ZrchIMlm1NbZXnjRIbvRLm1_f3M7rwKCaWh3NRaT2iJxp2-kXBw2S-NybsV5LO3Z3Mf0oTw109MCOr6Z-weSK0UwdAJE7E81n7KW7rEkj3KSC-4DwjNx1Mexhz4WA_vyI_OWUJxIys=s1600)
-
 
 ## 12月9日の誕生色: パイングリーン (`#207670`)
 

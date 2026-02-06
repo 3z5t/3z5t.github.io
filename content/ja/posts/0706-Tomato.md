@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjNNFzQz2vnan3XV6glhOPBgwfxx_h2oApl0dmZoevWbBSPklKbkKZJ1JsMMLEy-VbOwhkqqMJtSClU31Gzx5sADb0OgtYIlAVB7vdF95aHQ3jMOeXPYn4C9Qlm3kgPiPWoehwOEQ_izwnfu7v7qhTtud2h39kQ9o_ktZ3774FlZi4hi2m29CHGja1RLsij=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "トマト、7月6日の誕生色"
 date: "2026-07-06"
 updated: "2026-07-06"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "ハイスカイ"
 description: "7月6日の誕生色 トマト(FF6347)。色言葉は「健全な精神、新鮮、活力的」です。相性の良い色はハイスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjNNFzQz2vnan3XV6glhOPBgwfxx_h2oApl0dmZoevWbBSPklKbkKZJ1JsMMLEy-VbOwhkqqMJtSClU31Gzx5sADb0OgtYIlAVB7vdF95aHQ3jMOeXPYn4C9Qlm3kgPiPWoehwOEQ_izwnfu7v7qhTtud2h39kQ9o_ktZ3774FlZi4hi2m29CHGja1RLsij=s1600"
 en_name: "Tomato"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjNNFzQz2vnan3XV6glhOPBgwfxx_h2oApl0dmZoevWbBSPklKbkKZJ1JsMMLEy-VbOwhkqqMJtSClU31Gzx5sADb0OgtYIlAVB7vdF95aHQ3jMOeXPYn4C9Qlm3kgPiPWoehwOEQ_izwnfu7v7qhTtud2h39kQ9o_ktZ3774FlZi4hi2m29CHGja1RLsij=s1600)
-
 
 ## 7月6日の誕生色: トマト (`#FF6347`)
 

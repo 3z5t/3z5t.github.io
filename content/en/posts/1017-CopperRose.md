@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjl7ahXxgfICvXptCVplzEqXxccY6v9CJ7CdbL9Lp_0u_k1RbLLaLMd2YBSwFZ6Ahho95GOGeCwdLyFxr8PCkGMAPl_LrKNm-Qq8SK0SPoclZ4LSyZa2FELa2qOKY0Nu023A7YB9Q-rtf-78HY7G6IyKkF2ihECtd20Of7YZwZQwsXRTDYu5BxHmW5OiPI4=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Copper Rose, The Birthday Color of October 17"
 date: "2026-10-17"
 updated: "2026-10-17"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "autumn sky"
 description: "The birthday color for October 17 is Copper Rose (996666). Its meaning is Comfortable, Stable, Mature."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjl7ahXxgfICvXptCVplzEqXxccY6v9CJ7CdbL9Lp_0u_k1RbLLaLMd2YBSwFZ6Ahho95GOGeCwdLyFxr8PCkGMAPl_LrKNm-Qq8SK0SPoclZ4LSyZa2FELa2qOKY0Nu023A7YB9Q-rtf-78HY7G6IyKkF2ihECtd20Of7YZwZQwsXRTDYu5BxHmW5OiPI4=s1600"
 en_name: "CopperRose"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjl7ahXxgfICvXptCVplzEqXxccY6v9CJ7CdbL9Lp_0u_k1RbLLaLMd2YBSwFZ6Ahho95GOGeCwdLyFxr8PCkGMAPl_LrKNm-Qq8SK0SPoclZ4LSyZa2FELa2qOKY0Nu023A7YB9Q-rtf-78HY7G6IyKkF2ihECtd20Of7YZwZQwsXRTDYu5BxHmW5OiPI4=s1600)
-
 
 ## Birthday Color for October 17: Copper Rose (`#996666`)
 

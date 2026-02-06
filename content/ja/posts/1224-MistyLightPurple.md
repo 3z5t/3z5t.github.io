@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgY6flfEX6g_1fqAnsoZCLKh0qCHm8bkuublep9zYT1DmXoB9-CoTe1_kYc9MBydpFVpKXjMKl888N3F5he3Cb8IeFLoNP1zIr_nxDOj5ahwe-Ew4EXRIsd5M2Jf-f-Mp-ArAmVSzdX0-PWJWdiL5qTirPZH9XPWUTjPR3XGXuEQIBd7sKQTfZcY2htE32L=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ミスティライトパープル、12月24日の誕生色"
 date: "2026-12-24"
 updated: "2026-12-24"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ブライトブラウン"
 description: "12月24日の誕生色 ミスティライトパープル(7F7F9B)。色言葉は「神秘的、ほのかな、期待感」です。相性の良い色はブライトブラウンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgY6flfEX6g_1fqAnsoZCLKh0qCHm8bkuublep9zYT1DmXoB9-CoTe1_kYc9MBydpFVpKXjMKl888N3F5he3Cb8IeFLoNP1zIr_nxDOj5ahwe-Ew4EXRIsd5M2Jf-f-Mp-ArAmVSzdX0-PWJWdiL5qTirPZH9XPWUTjPR3XGXuEQIBd7sKQTfZcY2htE32L=s1600"
 en_name: "Misty Light Purple"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgY6flfEX6g_1fqAnsoZCLKh0qCHm8bkuublep9zYT1DmXoB9-CoTe1_kYc9MBydpFVpKXjMKl888N3F5he3Cb8IeFLoNP1zIr_nxDOj5ahwe-Ew4EXRIsd5M2Jf-f-Mp-ArAmVSzdX0-PWJWdiL5qTirPZH9XPWUTjPR3XGXuEQIBd7sKQTfZcY2htE32L=s1600)
-
 
 ## 12月24日の誕生色: ミスティライトパープル (`#7F7F9B`)
 

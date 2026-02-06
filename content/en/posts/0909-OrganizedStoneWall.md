@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj1jCzG80bYxOi7HL8ZsVnTuFmzEA7glBk2W9hljXFmiSfHYLJWpahW_1wmUNTu5AFxxnz1XkgDXnN5hCfNFmMQKja68lW_m8VnXE-EtZlV6z9ky-7bp0SLLKaOoxODhJwtGJ7ZopzIFeAmHM9undo9IoPqoKBjYLB6Jrd0qEjhCgST03jOiT0Ez0Ig9OKe=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Organized Stone Wall, The Birthday Color of September 9"
 date: "2026-09-09"
 updated: "2026-09-09"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "moose gray"
 description: "The birthday color for September 9 is Organized Stone Wall (665E5F). Its meaning is Stable, Keeping Tradition, Trustworthy."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj1jCzG80bYxOi7HL8ZsVnTuFmzEA7glBk2W9hljXFmiSfHYLJWpahW_1wmUNTu5AFxxnz1XkgDXnN5hCfNFmMQKja68lW_m8VnXE-EtZlV6z9ky-7bp0SLLKaOoxODhJwtGJ7ZopzIFeAmHM9undo9IoPqoKBjYLB6Jrd0qEjhCgST03jOiT0Ez0Ig9OKe=s1600"
 en_name: "OrganizedStoneWall"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj1jCzG80bYxOi7HL8ZsVnTuFmzEA7glBk2W9hljXFmiSfHYLJWpahW_1wmUNTu5AFxxnz1XkgDXnN5hCfNFmMQKja68lW_m8VnXE-EtZlV6z9ky-7bp0SLLKaOoxODhJwtGJ7ZopzIFeAmHM9undo9IoPqoKBjYLB6Jrd0qEjhCgST03jOiT0Ez0Ig9OKe=s1600)
-
 
 ## Birthday Color for September 9: Organized Stone Wall (`#665E5F`)
 

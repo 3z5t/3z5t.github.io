@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh1zOz_3WYcUFAIkuWoIWtwapoDzMeMG68Q5Aa9URbeKXnSGwkRpuxVh5dPkT0EK-L_mtlPid7-kyoLUYx1CXzNrqelpR7EMV2tO5IeOuU7qUa5pvAtd_pEeYhmKXduGevxDsWuwwA-5UNPv4GPBIOyOkxhFAbj4QACvfPYXh-EnItSiluDFSxi8f9MOTzk=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ペールグリーン、3月7日の誕生色"
 date: "2026-03-07"
 updated: "2026-03-07"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ミスティックパープル"
 description: "3月7日の誕生色 ペールグリーン(98FB98)。色言葉は「繊細、温和、調和」です。相性の良い色はミスティックパープルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh1zOz_3WYcUFAIkuWoIWtwapoDzMeMG68Q5Aa9URbeKXnSGwkRpuxVh5dPkT0EK-L_mtlPid7-kyoLUYx1CXzNrqelpR7EMV2tO5IeOuU7qUa5pvAtd_pEeYhmKXduGevxDsWuwwA-5UNPv4GPBIOyOkxhFAbj4QACvfPYXh-EnItSiluDFSxi8f9MOTzk=s1600"
 en_name: "Pale Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh1zOz_3WYcUFAIkuWoIWtwapoDzMeMG68Q5Aa9URbeKXnSGwkRpuxVh5dPkT0EK-L_mtlPid7-kyoLUYx1CXzNrqelpR7EMV2tO5IeOuU7qUa5pvAtd_pEeYhmKXduGevxDsWuwwA-5UNPv4GPBIOyOkxhFAbj4QACvfPYXh-EnItSiluDFSxi8f9MOTzk=s1600)
-
 
 ## 3月7日の誕生色: ペールグリーン (`#98FB98`)
 

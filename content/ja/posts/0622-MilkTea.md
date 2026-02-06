@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhTbd2y_Ay0AwWTUd34Cb508916wFwl1M7cBnuxVH67f2P786Vz_30SQQ5RVqHTUg7ezx3k6eXnoqk0omtv_rpXo03ze8rIm6KibhOZu9I01GMKLw0e2j8dkZWPLQeRoPIdgXovN8-lQgL46K26rv9NsPsfF8dqgBo-FtkbCHp8r8v_-NtIrVMXif3MzObY=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ミルクティー、6月22日の誕生色"
 date: "2026-06-22"
 updated: "2026-06-22"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "トゥルーネイビー"
 description: "6月22日の誕生色 ミルクティー(E4B982)。色言葉は「柔らかい性格、甘さ、温和」です。相性の良い色はトゥルーネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhTbd2y_Ay0AwWTUd34Cb508916wFwl1M7cBnuxVH67f2P786Vz_30SQQ5RVqHTUg7ezx3k6eXnoqk0omtv_rpXo03ze8rIm6KibhOZu9I01GMKLw0e2j8dkZWPLQeRoPIdgXovN8-lQgL46K26rv9NsPsfF8dqgBo-FtkbCHp8r8v_-NtIrVMXif3MzObY=s1600"
 en_name: "Milk Tea"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhTbd2y_Ay0AwWTUd34Cb508916wFwl1M7cBnuxVH67f2P786Vz_30SQQ5RVqHTUg7ezx3k6eXnoqk0omtv_rpXo03ze8rIm6KibhOZu9I01GMKLw0e2j8dkZWPLQeRoPIdgXovN8-lQgL46K26rv9NsPsfF8dqgBo-FtkbCHp8r8v_-NtIrVMXif3MzObY=s1600)
-
 
 ## 6月22日の誕生色: ミルクティー (`#E4B982`)
 

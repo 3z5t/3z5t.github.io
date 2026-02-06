@@ -1,21 +1,24 @@
 ---
-"title": "Blue Violet, The Birthday Color of February 7"
-"date": "2026-02-07"
-"updated": "2026-02-07"
-"labels":
-- "blue violet"
-- "birthday color"
-- "february 7"
-- "8673c4"
-- "february"
-- "deep olive"
-"description": "The birthday color for February 7 is Blue Violet (8673C4). Its meaning is Artistic, Inspirational, Creative."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgr4NF4chsfQNj9XN_V7wOQmZtyznCzgKSw0LkUI-d1hsOfNGL4eUTN9BqSaS3_ZfYBp9UxFd65l-z_UrA84MQLot5eAA8MieEY1IFDvOGQO0vLFFez3mkpI5vO_keS6xqPxSX4V6nIz7uQL9PJMI04TijzVnboWCKjonTWno-qFyH2fyBunwRB3p-2xVYJ=s1600"
-"en_name": "BlueViolet"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "4946030663663814778"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/blue-violet-birthday-color-of-february-7.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgr4NF4chsfQNj9XN_V7wOQmZtyznCzgKSw0LkUI-d1hsOfNGL4eUTN9BqSaS3_ZfYBp9UxFd65l-z_UrA84MQLot5eAA8MieEY1IFDvOGQO0vLFFez3mkpI5vO_keS6xqPxSX4V6nIz7uQL9PJMI04TijzVnboWCKjonTWno-qFyH2fyBunwRB3p-2xVYJ=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Blue Violet, The Birthday Color of February 7"
+date: "2026-02-07"
+updated: "2026-02-07"
+tags:
+  - "blue violet"
+  - "birthday color"
+  - "february 7"
+  - "8673c4"
+  - "february"
+  - "deep olive"
+description: "The birthday color for February 7 is Blue Violet (8673C4). Its meaning is Artistic, Inspirational, Creative."
+en_name: "BlueViolet"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "4946030663663814778"
+postUrl: "https://the366days-en.blogspot.com/2026/02/blue-violet-birthday-color-of-february-7.html"
 ---
 
 ## Birthday Color for February 7: Blue Violet (`#8673C4`)

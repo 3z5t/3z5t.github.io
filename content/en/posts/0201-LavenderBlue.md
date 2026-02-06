@@ -1,21 +1,24 @@
 ---
-"title": "Lavender Blue, The Birthday Color of February 1"
-"date": "2026-02-01"
-"updated": "2026-02-01"
-"labels":
-- "lavender blue"
-- "birthday color"
-- "february 1"
-- "ccccff"
-- "february"
-- "autumn leaves"
-"description": "The birthday color for February 1 is Lavender Blue (CCCCFF). Its meaning is Sensibility, Intuition, Inspiration."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEiz3ZsAFohmuQ5Kjzx0GO0_dgImEkB-0nd60YW5t-ydVmUMb-dfgOhVskAtANQJ8GXghnS6R0VEt8ZVuWBaD0fU08O5DTsPjaUjzpMtmWExE6EsncIUS4AIgoejus8p95yi9ZHb6ws3pi4sqMzcmWa2MGzaEFuH8qNsG3aeDxaUEP_odEe617F9CuputCu1=s1600"
-"en_name": "LavenderBlue"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "8609379455573959678"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/lavender-blue-birthday-color-of.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiz3ZsAFohmuQ5Kjzx0GO0_dgImEkB-0nd60YW5t-ydVmUMb-dfgOhVskAtANQJ8GXghnS6R0VEt8ZVuWBaD0fU08O5DTsPjaUjzpMtmWExE6EsncIUS4AIgoejus8p95yi9ZHb6ws3pi4sqMzcmWa2MGzaEFuH8qNsG3aeDxaUEP_odEe617F9CuputCu1=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Lavender Blue, The Birthday Color of February 1"
+date: "2026-02-01"
+updated: "2026-02-01"
+tags:
+  - "lavender blue"
+  - "birthday color"
+  - "february 1"
+  - "ccccff"
+  - "february"
+  - "autumn leaves"
+description: "The birthday color for February 1 is Lavender Blue (CCCCFF). Its meaning is Sensibility, Intuition, Inspiration."
+en_name: "LavenderBlue"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "8609379455573959678"
+postUrl: "https://the366days-en.blogspot.com/2026/02/lavender-blue-birthday-color-of.html"
 ---
 
 ## Birthday Color for February 1: Lavender Blue (`#CCCCFF`)

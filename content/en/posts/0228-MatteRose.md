@@ -1,21 +1,24 @@
 ---
-"title": "Matte Rose, The Birthday Color of February 28"
-"date": "2026-02-28"
-"updated": "2026-02-28"
-"labels":
-- "matte rose"
-- "birthday color"
-- "february 28"
-- "ae675f"
-- "february"
-- "dark turquoise"
-"description": "The birthday color for February 28 is Matte Rose (AE675F). Its meaning is Stability, Maturity, Reliability."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhG1cZFmjpRHnbX4R_tzzF-2fAm2l0TKpZ73JkB-6vFG2yXLm-HD8lsjhi6nE8U6IHv3Yrln9PF9-pOI0etB0BNjQG92qMovFOSyOS9wcyMslIrIdDakvxmLpUl93BO8TQtuy93CNF1fw9ACFneQGYDsUVRtlTwrxKMToB5o8DjYcIjcvRr-91QeQmRlHjg=s1600"
-"en_name": "MatteRose"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "3962568500563005531"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/matte-rose-birthday-color-of-february-28.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhG1cZFmjpRHnbX4R_tzzF-2fAm2l0TKpZ73JkB-6vFG2yXLm-HD8lsjhi6nE8U6IHv3Yrln9PF9-pOI0etB0BNjQG92qMovFOSyOS9wcyMslIrIdDakvxmLpUl93BO8TQtuy93CNF1fw9ACFneQGYDsUVRtlTwrxKMToB5o8DjYcIjcvRr-91QeQmRlHjg=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Matte Rose, The Birthday Color of February 28"
+date: "2026-02-28"
+updated: "2026-02-28"
+tags:
+  - "matte rose"
+  - "birthday color"
+  - "february 28"
+  - "ae675f"
+  - "february"
+  - "dark turquoise"
+description: "The birthday color for February 28 is Matte Rose (AE675F). Its meaning is Stability, Maturity, Reliability."
+en_name: "MatteRose"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "3962568500563005531"
+postUrl: "https://the366days-en.blogspot.com/2026/02/matte-rose-birthday-color-of-february-28.html"
 ---
 
 ## Birthday Color for February 28: Matte Rose (`#AE675F`)

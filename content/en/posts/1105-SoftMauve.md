@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiQ-fdUaeEBJYNvL8n_ZKzzJNKs1ohk8qL_4j4lDxCCSouggRyQcAIMnLPyc2Heef7T0WUmpxFFXVGge_PyXrWKVNVdEL2Ss3Uq-6k9Ds0JC-t-oPA5rJAFE2JeGwJ2r7G4n8NfNhKFZspXVv3dDbO87GETXuXD5V9R6XMJNyvb6HhR1lMHscGCZrN7e3HF=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Soft Mauve, The Birthday Color of November 5"
 date: "2026-11-05"
 updated: "2026-11-05"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "urban silver"
 description: "The birthday color for November 5 is Soft Mauve (887A7C). Its meaning is Soft Heart, Gentle, Inclusive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiQ-fdUaeEBJYNvL8n_ZKzzJNKs1ohk8qL_4j4lDxCCSouggRyQcAIMnLPyc2Heef7T0WUmpxFFXVGge_PyXrWKVNVdEL2Ss3Uq-6k9Ds0JC-t-oPA5rJAFE2JeGwJ2r7G4n8NfNhKFZspXVv3dDbO87GETXuXD5V9R6XMJNyvb6HhR1lMHscGCZrN7e3HF=s1600"
 en_name: "SoftMauve"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiQ-fdUaeEBJYNvL8n_ZKzzJNKs1ohk8qL_4j4lDxCCSouggRyQcAIMnLPyc2Heef7T0WUmpxFFXVGge_PyXrWKVNVdEL2Ss3Uq-6k9Ds0JC-t-oPA5rJAFE2JeGwJ2r7G4n8NfNhKFZspXVv3dDbO87GETXuXD5V9R6XMJNyvb6HhR1lMHscGCZrN7e3HF=s1600)
-
 
 ## Birthday Color for November 5: Soft Mauve (`#887A7C`)
 

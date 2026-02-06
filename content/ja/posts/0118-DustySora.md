@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-18'
-description: 1月18日の誕生色 ダスティソラ(A4B0CC)。色言葉は「理性的、論理的、分析力」です。相性の良い色はルドルフブラウンです。
-en_name: Dusty Sora
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiJkdKxQeZRmZ5ywSRc_vM69r56Lx46JE0EVPQ-27VGw-ZuD6f4BNs2dC3v0HhXLwJ3kY99NakFMG5-pXv9zZipIlApzkFjDFAn3o_AAtVPO_56VgthhlB73Ob55GEFb_LkI1URJEfoD4JuMMKnpzsKqUIBANtxXtLTRkv9oAAlf-TLLt4Oq71bKbNz-ZHz=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-18"
+description: "1月18日の誕生色 ダスティソラ(A4B0CC)。色言葉は「理性的、論理的、分析力」です。相性の良い色はルドルフブラウンです。"
+en_name: "Dusty Sora"
 tags:
-- ダスティソラ
-- 誕生色
-- 1月18日
-- A4B0CC
-- 1月
-- ルドルフブラウン
-postId: '1855968965891510287'
-postUrl: https://the366days-ja.blogspot.com/2026/01/118-dusty-sora.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiJkdKxQeZRmZ5ywSRc_vM69r56Lx46JE0EVPQ-27VGw-ZuD6f4BNs2dC3v0HhXLwJ3kY99NakFMG5-pXv9zZipIlApzkFjDFAn3o_AAtVPO_56VgthhlB73Ob55GEFb_LkI1URJEfoD4JuMMKnpzsKqUIBANtxXtLTRkv9oAAlf-TLLt4Oq71bKbNz-ZHz=s1600
-title: ダスティソラ、1月18日の誕生色
-updated: '2026-01-18'
+  - "ダスティソラ"
+  - "誕生色"
+  - "1月18日"
+  - "A4B0CC"
+  - "1月"
+  - "ルドルフブラウン"
+postId: "1855968965891510287"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/118-dusty-sora.html"
+profileName: "日々のカケラ"
+title: "ダスティソラ、1月18日の誕生色"
+updated: "2026-01-18"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiJkdKxQeZRmZ5ywSRc_vM69r56Lx46JE0EVPQ-27VGw-ZuD6f4BNs2dC3v0HhXLwJ3kY99NakFMG5-pXv9zZipIlApzkFjDFAn3o_AAtVPO_56VgthhlB73Ob55GEFb_LkI1URJEfoD4JuMMKnpzsKqUIBANtxXtLTRkv9oAAlf-TLLt4Oq71bKbNz-ZHz=s1600)
-
 
 ## 1月18日の誕生色: ダスティソラ (`#A4B0CC`)
 

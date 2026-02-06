@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjs65wzsv4toNk3_AftzcA7smqgg5r04ZrjwwXXMSorUyYgmid0U94AaZj3jrq65LEBRctFRYcI9cZfrDum4BVGrwJAHRXbIuR4e683Q4OQyEx0oiDqVSETW3HpyvchwOjRv5O3o1CuKkYKP29HWIaZlqfpx0d-opromVUmyfnYrHZqltc6NQNsb2685OpC=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ダッチホワイト、8月13日の誕生色"
 date: "2026-08-13"
 updated: "2026-08-13"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "イブニングスカイ"
 description: "8月13日の誕生色 ダッチホワイト(EFE3B5)。色言葉は「伝統的、品格、優雅」です。相性の良い色はイブニングスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjs65wzsv4toNk3_AftzcA7smqgg5r04ZrjwwXXMSorUyYgmid0U94AaZj3jrq65LEBRctFRYcI9cZfrDum4BVGrwJAHRXbIuR4e683Q4OQyEx0oiDqVSETW3HpyvchwOjRv5O3o1CuKkYKP29HWIaZlqfpx0d-opromVUmyfnYrHZqltc6NQNsb2685OpC=s1600"
 en_name: "Dutch White"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjs65wzsv4toNk3_AftzcA7smqgg5r04ZrjwwXXMSorUyYgmid0U94AaZj3jrq65LEBRctFRYcI9cZfrDum4BVGrwJAHRXbIuR4e683Q4OQyEx0oiDqVSETW3HpyvchwOjRv5O3o1CuKkYKP29HWIaZlqfpx0d-opromVUmyfnYrHZqltc6NQNsb2685OpC=s1600)
-
 
 ## 8月13日の誕生色: ダッチホワイト (`#EFE3B5`)
 

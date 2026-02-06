@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi7gYSkY3iWM2L2-Z7h7pppMd6e_SyOGQMiSU1vu6CIckPGu59XCNmc_rPo9rAJpYmo6IeFeyUTGOlXstyhSsM9mXsOGVR9hMV-o-5GLpCCvRL0Bhntv2aOJq-bWh545OpCBU2FgNKZSGrLVzX8VjruYc0oVEwd6cU1aQ_fSQPsFJ829uWwa1hqrNuFT614=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "エメラルドグリーン、4月3日の誕生色"
 date: "2026-04-03"
 updated: "2026-04-03"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "ワイルドストロベリー"
 description: "4月3日の誕生色 エメラルドグリーン(00CC66)。色言葉は「若々しい精神、成長力、希望」です。相性の良い色はワイルドストロベリーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi7gYSkY3iWM2L2-Z7h7pppMd6e_SyOGQMiSU1vu6CIckPGu59XCNmc_rPo9rAJpYmo6IeFeyUTGOlXstyhSsM9mXsOGVR9hMV-o-5GLpCCvRL0Bhntv2aOJq-bWh545OpCBU2FgNKZSGrLVzX8VjruYc0oVEwd6cU1aQ_fSQPsFJ829uWwa1hqrNuFT614=s1600"
 en_name: "Emerald Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi7gYSkY3iWM2L2-Z7h7pppMd6e_SyOGQMiSU1vu6CIckPGu59XCNmc_rPo9rAJpYmo6IeFeyUTGOlXstyhSsM9mXsOGVR9hMV-o-5GLpCCvRL0Bhntv2aOJq-bWh545OpCBU2FgNKZSGrLVzX8VjruYc0oVEwd6cU1aQ_fSQPsFJ829uWwa1hqrNuFT614=s1600)
-
 
 ## 4月3日の誕生色: エメラルドグリーン (`#00CC66`)
 

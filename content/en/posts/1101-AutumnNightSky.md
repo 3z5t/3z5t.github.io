@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjF8wpmeG6q-YHIbrMiJEsLUwa0xE6d4iL-lJcQNRmB68PPNC4kbwc_iwawj0aBRF8UPkGS-00RyFYjYj0pwEvnsS0jsaKgV_oGmXoBhKzRGrctxx22uO4syZNQnIdjAR3oIv9hclnYddFFRIkONctbUmGYvtuZ8WNs4ZrZGS97iathTDq-VgLfC8wRsF7v=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Autumn Night Sky, The Birthday Color of November 1"
 date: "2026-11-01"
 updated: "2026-11-01"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "silver antique"
 description: "The birthday color for November 1 is Autumn Night Sky (3C3232). Its meaning is Contemplative, Meditative, Insightful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjF8wpmeG6q-YHIbrMiJEsLUwa0xE6d4iL-lJcQNRmB68PPNC4kbwc_iwawj0aBRF8UPkGS-00RyFYjYj0pwEvnsS0jsaKgV_oGmXoBhKzRGrctxx22uO4syZNQnIdjAR3oIv9hclnYddFFRIkONctbUmGYvtuZ8WNs4ZrZGS97iathTDq-VgLfC8wRsF7v=s1600"
 en_name: "AutumnNightSky"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjF8wpmeG6q-YHIbrMiJEsLUwa0xE6d4iL-lJcQNRmB68PPNC4kbwc_iwawj0aBRF8UPkGS-00RyFYjYj0pwEvnsS0jsaKgV_oGmXoBhKzRGrctxx22uO4syZNQnIdjAR3oIv9hclnYddFFRIkONctbUmGYvtuZ8WNs4ZrZGS97iathTDq-VgLfC8wRsF7v=s1600)
-
 
 ## Birthday Color for November 1: Autumn Night Sky (`#3C3232`)
 

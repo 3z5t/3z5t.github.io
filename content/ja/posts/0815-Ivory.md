@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEji2G0ItuXA79T4tVHhps3DVGYInla3-OeqX3ZlpAlV9vi-H-U1Kc99C7bIWg5hZcayhSBaFgcNXkSKXeqcTTziaOb4092Hhb4sqj91hJQJrsDRM5GGW7uO8cKoPMWVnI-M-aw1D5GLVvtVrt5TxJfkjTjPsumXSiOKZBewcMsicbWVI9YsYxajKd3yLEZc=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アイボリー、8月15日の誕生色"
 date: "2026-08-15"
 updated: "2026-08-15"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "ミッドナイトネイビー"
 description: "8月15日の誕生色 アイボリー(FFFFE0)。色言葉は「自由な魂、平和、高貴」です。相性の良い色はミッドナイトネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEji2G0ItuXA79T4tVHhps3DVGYInla3-OeqX3ZlpAlV9vi-H-U1Kc99C7bIWg5hZcayhSBaFgcNXkSKXeqcTTziaOb4092Hhb4sqj91hJQJrsDRM5GGW7uO8cKoPMWVnI-M-aw1D5GLVvtVrt5TxJfkjTjPsumXSiOKZBewcMsicbWVI9YsYxajKd3yLEZc=s1600"
 en_name: "Ivory"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEji2G0ItuXA79T4tVHhps3DVGYInla3-OeqX3ZlpAlV9vi-H-U1Kc99C7bIWg5hZcayhSBaFgcNXkSKXeqcTTziaOb4092Hhb4sqj91hJQJrsDRM5GGW7uO8cKoPMWVnI-M-aw1D5GLVvtVrt5TxJfkjTjPsumXSiOKZBewcMsicbWVI9YsYxajKd3yLEZc=s1600)
-
 
 ## 8月15日の誕生色: アイボリー (`#FFFFE0`)
 

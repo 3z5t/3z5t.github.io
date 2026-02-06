@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-31'
-description: 1月31日の誕生色 フロストブルー(9999CC)。色言葉は「達成力、完璧主義、リーダーシップ」です。相性の良い色はディープ抹茶です。
-en_name: Frost Blue
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgXvehKKH3-1zC6P7VDUOqiWBEqN_zAj0guxjE65X-QFC6w6KrK6FkTLAG_OZsOCV-lYEWcfAsNlbS1feNLq49-Ln1EKWenmh1pnU663u2KO9hMuatGwzKmGCUtKOhruATjB6hhKCGk6hqrnvh-3DhWC_w_Sg4-jQA9pA2V_qqxmSzlExbzNdUyEj1qSSCd=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-31"
+description: "1月31日の誕生色 フロストブルー(9999CC)。色言葉は「達成力、完璧主義、リーダーシップ」です。相性の良い色はディープ抹茶です。"
+en_name: "Frost Blue"
 tags:
-- フロストブルー
-- 誕生色
-- 1月31日
-- 9999CC
-- 1月
-- ディープ抹茶
-postId: '6772846177024812912'
-postUrl: https://the366days-ja.blogspot.com/2026/01/131-frost-blue.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgXvehKKH3-1zC6P7VDUOqiWBEqN_zAj0guxjE65X-QFC6w6KrK6FkTLAG_OZsOCV-lYEWcfAsNlbS1feNLq49-Ln1EKWenmh1pnU663u2KO9hMuatGwzKmGCUtKOhruATjB6hhKCGk6hqrnvh-3DhWC_w_Sg4-jQA9pA2V_qqxmSzlExbzNdUyEj1qSSCd=s1600
-title: フロストブルー、1月31日の誕生色
-updated: '2026-01-31'
+  - "フロストブルー"
+  - "誕生色"
+  - "1月31日"
+  - "9999CC"
+  - "1月"
+  - "ディープ抹茶"
+postId: "6772846177024812912"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/131-frost-blue.html"
+profileName: "日々のカケラ"
+title: "フロストブルー、1月31日の誕生色"
+updated: "2026-01-31"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgXvehKKH3-1zC6P7VDUOqiWBEqN_zAj0guxjE65X-QFC6w6KrK6FkTLAG_OZsOCV-lYEWcfAsNlbS1feNLq49-Ln1EKWenmh1pnU663u2KO9hMuatGwzKmGCUtKOhruATjB6hhKCGk6hqrnvh-3DhWC_w_Sg4-jQA9pA2V_qqxmSzlExbzNdUyEj1qSSCd=s1600)
-
 
 ## 1月31日の誕生色: フロストブルー (`#9999CC`)
 

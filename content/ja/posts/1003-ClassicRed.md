@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh58EGDFGISiT0cKIMx-mg3pA8H1ltPgP9-NEJkiGCNFY2F5DGoaqm-wbdIrlVgtX4zrB3gNHKcWvNb5cjnpe2EmvyuEeg3xnuOeRtdm6nPm9AGOEcJaQrCIOjXSIs6FEfZ8VfZTyPERWvByQg67eCquBmDvv4urXyi99wVKcAs9C4g-nYGgpCzBY06qDEz=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "クラシックレッド、10月3日の誕生色"
 date: "2026-10-03"
 updated: "2026-10-03"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "ライトスカイ"
 description: "10月3日の誕生色 クラシックレッド(C61400)。色言葉は「誇り高い、自尊心、リーダーシップ」です。相性の良い色はライトスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh58EGDFGISiT0cKIMx-mg3pA8H1ltPgP9-NEJkiGCNFY2F5DGoaqm-wbdIrlVgtX4zrB3gNHKcWvNb5cjnpe2EmvyuEeg3xnuOeRtdm6nPm9AGOEcJaQrCIOjXSIs6FEfZ8VfZTyPERWvByQg67eCquBmDvv4urXyi99wVKcAs9C4g-nYGgpCzBY06qDEz=s1600"
 en_name: "Classic Red"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh58EGDFGISiT0cKIMx-mg3pA8H1ltPgP9-NEJkiGCNFY2F5DGoaqm-wbdIrlVgtX4zrB3gNHKcWvNb5cjnpe2EmvyuEeg3xnuOeRtdm6nPm9AGOEcJaQrCIOjXSIs6FEfZ8VfZTyPERWvByQg67eCquBmDvv4urXyi99wVKcAs9C4g-nYGgpCzBY06qDEz=s1600)
-
 
 ## 10月3日の誕生色: クラシックレッド (`#C61400`)
 

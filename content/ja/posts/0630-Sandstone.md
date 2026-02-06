@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhLZwZA-xiT_seU2YA-jfWLQ3dugiPabafWtfWNfwkhIPRkGccdPa2Mnb-DcrW8hINGt_XCTOzgNx8oYlvs-7KC9M7AEYLnSYON78F4i6sXYq2NSuqD-5Weox8A_odHAYfJ0aspR7AAwGZymiM-_iio6LTpGIH0gnM5MyHS4eDmSPi8ZODESE5Rvdo1229X=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "サンドストーン、6月30日の誕生色"
 date: "2026-06-30"
 updated: "2026-06-30"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "ソフトオリーブ"
 description: "6月30日の誕生色 サンドストーン(7B6D6D)。色言葉は「バランスの取れた、安定、調和」です。相性の良い色はソフトオリーブです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhLZwZA-xiT_seU2YA-jfWLQ3dugiPabafWtfWNfwkhIPRkGccdPa2Mnb-DcrW8hINGt_XCTOzgNx8oYlvs-7KC9M7AEYLnSYON78F4i6sXYq2NSuqD-5Weox8A_odHAYfJ0aspR7AAwGZymiM-_iio6LTpGIH0gnM5MyHS4eDmSPi8ZODESE5Rvdo1229X=s1600"
 en_name: "Sandstone"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhLZwZA-xiT_seU2YA-jfWLQ3dugiPabafWtfWNfwkhIPRkGccdPa2Mnb-DcrW8hINGt_XCTOzgNx8oYlvs-7KC9M7AEYLnSYON78F4i6sXYq2NSuqD-5Weox8A_odHAYfJ0aspR7AAwGZymiM-_iio6LTpGIH0gnM5MyHS4eDmSPi8ZODESE5Rvdo1229X=s1600)
-
 
 ## 6月30日の誕生色: サンドストーン (`#7B6D6D`)
 

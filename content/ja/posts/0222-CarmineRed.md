@@ -1,21 +1,24 @@
 ---
-"title": "カーマインレッド、2月22日の誕生色"
-"date": "2026-02-22"
-"updated": "2026-02-22"
-"labels":
-- "カーマインレッド"
-- "誕生色"
-- "2月22日"
-- "B72F42"
-- "2月"
-- "ターコイズ"
-"description": "2月22日の誕生色 カーマインレッド(B72F42)。色言葉は「強靭さ、意志力、推進力」です。相性の良い色はターコイズです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEi7uf9wyaVIcsS3fz0ASunAZqRmJrX02Yko-qun_UklxWytPW2aDWfzLhEzKriIyQT4Yti-DJm5Nu_oEuge_0BBPOxpYhtVIKSYuQnmb4y7vNyg3GDErTOX7ItCGH_TItWfyGwKInem1O7mn7HG42fHy_BOeKyGlaaWmgC5WXmNTzlyj1K7oNekQAYODHMP=s1600"
-"en_name": "Carmine Red"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "5180518473979897765"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/222-carmine-red.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi7uf9wyaVIcsS3fz0ASunAZqRmJrX02Yko-qun_UklxWytPW2aDWfzLhEzKriIyQT4Yti-DJm5Nu_oEuge_0BBPOxpYhtVIKSYuQnmb4y7vNyg3GDErTOX7ItCGH_TItWfyGwKInem1O7mn7HG42fHy_BOeKyGlaaWmgC5WXmNTzlyj1K7oNekQAYODHMP=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "カーマインレッド、2月22日の誕生色"
+date: "2026-02-22"
+updated: "2026-02-22"
+tags:
+  - "カーマインレッド"
+  - "誕生色"
+  - "2月22日"
+  - "B72F42"
+  - "2月"
+  - "ターコイズ"
+description: "2月22日の誕生色 カーマインレッド(B72F42)。色言葉は「強靭さ、意志力、推進力」です。相性の良い色はターコイズです。"
+en_name: "Carmine Red"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "5180518473979897765"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/222-carmine-red.html"
 ---
 
 ## 2月22日の誕生色: カーマインレッド (`#B72F42`)

@@ -1,21 +1,24 @@
 ---
-"title": "Classic Wine, The Birthday Color of February 24"
-"date": "2026-02-24"
-"updated": "2026-02-24"
-"labels":
-- "classic wine"
-- "birthday color"
-- "february 24"
-- "893751"
-- "february"
-- "cool green"
-"description": "The birthday color for February 24 is Classic Wine (893751). Its meaning is Maturity, Intellect, Composure."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEizh_MLoSyhFIn1Sae0fEkaoJSM0HrNWegPqJ389IBl3WZSw490KwnUlQoh9rwGyJCEE0uwVOye-C7yIfgXYApoRAMm9noICreHMbTGzSkcZpVKJEXzw4iKAu9Hi6LFjWu85GOu2g8IEskGmOFQn2NBTwWHTw8SmzoYmDpkNJvMVqTIxYC9-fAD_xdpoS2S=s1600"
-"en_name": "ClassicWine"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "5528585957408075241"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/classic-wine-birthday-color-of-february.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEizh_MLoSyhFIn1Sae0fEkaoJSM0HrNWegPqJ389IBl3WZSw490KwnUlQoh9rwGyJCEE0uwVOye-C7yIfgXYApoRAMm9noICreHMbTGzSkcZpVKJEXzw4iKAu9Hi6LFjWu85GOu2g8IEskGmOFQn2NBTwWHTw8SmzoYmDpkNJvMVqTIxYC9-fAD_xdpoS2S=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Classic Wine, The Birthday Color of February 24"
+date: "2026-02-24"
+updated: "2026-02-24"
+tags:
+  - "classic wine"
+  - "birthday color"
+  - "february 24"
+  - "893751"
+  - "february"
+  - "cool green"
+description: "The birthday color for February 24 is Classic Wine (893751). Its meaning is Maturity, Intellect, Composure."
+en_name: "ClassicWine"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "5528585957408075241"
+postUrl: "https://the366days-en.blogspot.com/2026/02/classic-wine-birthday-color-of-february.html"
 ---
 
 ## Birthday Color for February 24: Classic Wine (`#893751`)

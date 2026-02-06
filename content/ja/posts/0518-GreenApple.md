@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgrlkw8jur5hSMZCTkbud0Cg3-ZqpbIiWNAtTZKin0aVNj8h7MTjG_JmSxva_O6T9DDaCVhRs-1NvWVY6zm0mSe09g2RI36RbHVYDKt6wamTUjZk_ogvqrixkMe9RLslTBxFMO4ICGM7JvAU_4t1j156Sn9Cs-O3wrvTGnwxQ5grXoX1ZYJatudLbre__Rf=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "グリーンアップル、5月18日の誕生色"
 date: "2026-05-18"
 updated: "2026-05-18"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "フューシャ"
 description: "5月18日の誕生色 グリーンアップル(5CE546)。色言葉は「若々しい精神、希望に満ちた、躍動感」です。相性の良い色はフューシャです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgrlkw8jur5hSMZCTkbud0Cg3-ZqpbIiWNAtTZKin0aVNj8h7MTjG_JmSxva_O6T9DDaCVhRs-1NvWVY6zm0mSe09g2RI36RbHVYDKt6wamTUjZk_ogvqrixkMe9RLslTBxFMO4ICGM7JvAU_4t1j156Sn9Cs-O3wrvTGnwxQ5grXoX1ZYJatudLbre__Rf=s1600"
 en_name: "Green Apple"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgrlkw8jur5hSMZCTkbud0Cg3-ZqpbIiWNAtTZKin0aVNj8h7MTjG_JmSxva_O6T9DDaCVhRs-1NvWVY6zm0mSe09g2RI36RbHVYDKt6wamTUjZk_ogvqrixkMe9RLslTBxFMO4ICGM7JvAU_4t1j156Sn9Cs-O3wrvTGnwxQ5grXoX1ZYJatudLbre__Rf=s1600)
-
 
 ## 5月18日の誕生色: グリーンアップル (`#5CE546`)
 

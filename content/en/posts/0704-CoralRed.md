@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjoc1Gbj-N_CH8u1vPgsQi_JniaR8b_hnivnznX7QpNVR__ovCsMLRLZn6jXQ5KzLjurDkUEkvwXUHOIBRSkFd4_d-f6gxa5QMiHo12_Rpj7njMI27Fho1ljLcFlkFWqaUJTvU8Dn6CGisaiaIjMIjsibvMGgFD0NaslPvD0sK12aLj-8Wz6sB7YlUqXefr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Coral Red, The Birthday Color of July 4"
 date: "2026-07-04"
 updated: "2026-07-04"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "prussian green"
 description: "The birthday color for July 4 is Coral Red (FE5955). Its meaning is Passionate, Lively, Positive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjoc1Gbj-N_CH8u1vPgsQi_JniaR8b_hnivnznX7QpNVR__ovCsMLRLZn6jXQ5KzLjurDkUEkvwXUHOIBRSkFd4_d-f6gxa5QMiHo12_Rpj7njMI27Fho1ljLcFlkFWqaUJTvU8Dn6CGisaiaIjMIjsibvMGgFD0NaslPvD0sK12aLj-8Wz6sB7YlUqXefr=s1600"
 en_name: "CoralRed"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjoc1Gbj-N_CH8u1vPgsQi_JniaR8b_hnivnznX7QpNVR__ovCsMLRLZn6jXQ5KzLjurDkUEkvwXUHOIBRSkFd4_d-f6gxa5QMiHo12_Rpj7njMI27Fho1ljLcFlkFWqaUJTvU8Dn6CGisaiaIjMIjsibvMGgFD0NaslPvD0sK12aLj-8Wz6sB7YlUqXefr=s1600)
-
 
 ## Birthday Color for July 4: Coral Red (`#FE5955`)
 

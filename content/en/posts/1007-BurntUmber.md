@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhJROkrYRHpf4JdFNUggi7WzJKMXvntT75Jsjgc_3kUvQUr5fwX5t7qiqfSexwjfsNto4jW7P9U1YCLw2eeEEXBQuOurkn2XM7OBYUa_TsvcWYQN7K7nxOyO0ARy8hBu8EHD0U-ex1iHSZ6iBxiv7T6re3ylcVIJ1_Rhdi2yxXNJgPW5Wtz9a63-kmQDN7Z=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Burnt Umber, The Birthday Color of October 7"
 date: "2026-10-07"
 updated: "2026-10-07"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "soft downy"
 description: "The birthday color for October 7 is Burnt Umber (8D3131). Its meaning is Solid Will, Strong, Decisive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhJROkrYRHpf4JdFNUggi7WzJKMXvntT75Jsjgc_3kUvQUr5fwX5t7qiqfSexwjfsNto4jW7P9U1YCLw2eeEEXBQuOurkn2XM7OBYUa_TsvcWYQN7K7nxOyO0ARy8hBu8EHD0U-ex1iHSZ6iBxiv7T6re3ylcVIJ1_Rhdi2yxXNJgPW5Wtz9a63-kmQDN7Z=s1600"
 en_name: "BurntUmber"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhJROkrYRHpf4JdFNUggi7WzJKMXvntT75Jsjgc_3kUvQUr5fwX5t7qiqfSexwjfsNto4jW7P9U1YCLw2eeEEXBQuOurkn2XM7OBYUa_TsvcWYQN7K7nxOyO0ARy8hBu8EHD0U-ex1iHSZ6iBxiv7T6re3ylcVIJ1_Rhdi2yxXNJgPW5Wtz9a63-kmQDN7Z=s1600)
-
 
 ## Birthday Color for October 7: Burnt Umber (`#8D3131`)
 

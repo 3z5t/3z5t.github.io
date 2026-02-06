@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg0wg_sCxQsSXgEzH5Bx5cUf9z-1PIFLLOcfAMdniGHVPrZc1D8e9r4xqSpwRy6xY7FqH0BWdXhj8TI_mIa6QQb6wspYEQAbInEUiALB8JrScTuHOsHFfC3NaeA9vUimVl_IM5CsXn2APOqhZs9eVWYm-iVlH_V5KZURNV1m338wBo8IztoHMFNBX9sxzEj=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Vintage Tulip, The Birthday Color of December 4"
 date: "2026-12-04"
 updated: "2026-12-04"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "light sky"
 description: "The birthday color for December 4 is Vintage Tulip (B80C03). Its meaning is Profound, Mysterious, Serene."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg0wg_sCxQsSXgEzH5Bx5cUf9z-1PIFLLOcfAMdniGHVPrZc1D8e9r4xqSpwRy6xY7FqH0BWdXhj8TI_mIa6QQb6wspYEQAbInEUiALB8JrScTuHOsHFfC3NaeA9vUimVl_IM5CsXn2APOqhZs9eVWYm-iVlH_V5KZURNV1m338wBo8IztoHMFNBX9sxzEj=s1600"
 en_name: "VintageTulip"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg0wg_sCxQsSXgEzH5Bx5cUf9z-1PIFLLOcfAMdniGHVPrZc1D8e9r4xqSpwRy6xY7FqH0BWdXhj8TI_mIa6QQb6wspYEQAbInEUiALB8JrScTuHOsHFfC3NaeA9vUimVl_IM5CsXn2APOqhZs9eVWYm-iVlH_V5KZURNV1m338wBo8IztoHMFNBX9sxzEj=s1600)
-
 
 ## Birthday Color for December 4: Vintage Tulip (`#B80C03`)
 

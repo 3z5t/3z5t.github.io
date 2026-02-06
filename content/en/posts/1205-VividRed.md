@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiTe_tGGknz_KWwurBlwl6YuAT9VCwMLJxXB6nbKoUli3Z_w11QLXj1wcv4vvwxk-j_DU_ApFVDhRv6U9iaH7OpZeSTvcV3HAGMfXn4J61DzjsINobdLLpZ9dPTkh_zxF8ZxmVPboIT8Br-IPhhVNA7SppeYhi7lPP3ZWhYZRS9WiXNE-TKCfX9TuV-ikwB=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Vivid Red, The Birthday Color of December 5"
 date: "2026-12-05"
 updated: "2026-12-05"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "medium turquoise"
 description: "The birthday color for December 5 is Vivid Red (D93232). Its meaning is Enjoying Festivals, Joyful, Vital."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiTe_tGGknz_KWwurBlwl6YuAT9VCwMLJxXB6nbKoUli3Z_w11QLXj1wcv4vvwxk-j_DU_ApFVDhRv6U9iaH7OpZeSTvcV3HAGMfXn4J61DzjsINobdLLpZ9dPTkh_zxF8ZxmVPboIT8Br-IPhhVNA7SppeYhi7lPP3ZWhYZRS9WiXNE-TKCfX9TuV-ikwB=s1600"
 en_name: "VividRed"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiTe_tGGknz_KWwurBlwl6YuAT9VCwMLJxXB6nbKoUli3Z_w11QLXj1wcv4vvwxk-j_DU_ApFVDhRv6U9iaH7OpZeSTvcV3HAGMfXn4J61DzjsINobdLLpZ9dPTkh_zxF8ZxmVPboIT8Br-IPhhVNA7SppeYhi7lPP3ZWhYZRS9WiXNE-TKCfX9TuV-ikwB=s1600)
-
 
 ## Birthday Color for December 5: Vivid Red (#D93232)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjNxJxFuJzdA57ikPL5UL02YLRX_E2dwUhK7isXvJamvFAZdEKvX0f7ud_3K3RATFz5-oWaH8_SIt4nhgOVCu43Pw7ag-gsnwAs8vah77hU2I8ChdfWhSodIsJsXZEnurFzzZp-f7CQuRYESzjbExE3M4BQFvJtbiwH033HCzeU737J0MZ_CldJMtcQiblK=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Antique Choco, The Birthday Color of November 22"
 date: "2026-11-22"
 updated: "2026-11-22"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "light cyan"
 description: "The birthday color for November 22 is Antique Choco (1F070C). Its meaning is Profound, Mature, Stable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjNxJxFuJzdA57ikPL5UL02YLRX_E2dwUhK7isXvJamvFAZdEKvX0f7ud_3K3RATFz5-oWaH8_SIt4nhgOVCu43Pw7ag-gsnwAs8vah77hU2I8ChdfWhSodIsJsXZEnurFzzZp-f7CQuRYESzjbExE3M4BQFvJtbiwH033HCzeU737J0MZ_CldJMtcQiblK=s1600"
 en_name: "AntiqueChoco"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjNxJxFuJzdA57ikPL5UL02YLRX_E2dwUhK7isXvJamvFAZdEKvX0f7ud_3K3RATFz5-oWaH8_SIt4nhgOVCu43Pw7ag-gsnwAs8vah77hU2I8ChdfWhSodIsJsXZEnurFzzZp-f7CQuRYESzjbExE3M4BQFvJtbiwH033HCzeU737J0MZ_CldJMtcQiblK=s1600)
-
 
 ## Birthday Color for November 22: Antique Choco (`#1F070C`)
 

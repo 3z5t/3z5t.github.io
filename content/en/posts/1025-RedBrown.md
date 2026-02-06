@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiHAe8CIC2siVkJArShDtqDnWl8MszZRqNcLPTkG4ccJQVxVbNqWbsC-OvACYSeeHIygBlueMXINKvwp67OEZ8vLWEPzL--2sBircnWup_spXA--iV7Qp34pfkuUOQm3YiZaB4rxPw1_fTZ14zD6Dj9HmWkcfme1H5eipqSi5jS0P_S7S06vufTrJjRcUXQ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Red Brown, The Birthday Color of October 25"
 date: "2026-10-25"
 updated: "2026-10-25"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "clear sky"
 description: "The birthday color for October 25 is Red Brown (6C1818). Its meaning is Strong Will, Solid, Decisive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiHAe8CIC2siVkJArShDtqDnWl8MszZRqNcLPTkG4ccJQVxVbNqWbsC-OvACYSeeHIygBlueMXINKvwp67OEZ8vLWEPzL--2sBircnWup_spXA--iV7Qp34pfkuUOQm3YiZaB4rxPw1_fTZ14zD6Dj9HmWkcfme1H5eipqSi5jS0P_S7S06vufTrJjRcUXQ=s1600"
 en_name: "RedBrown"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiHAe8CIC2siVkJArShDtqDnWl8MszZRqNcLPTkG4ccJQVxVbNqWbsC-OvACYSeeHIygBlueMXINKvwp67OEZ8vLWEPzL--2sBircnWup_spXA--iV7Qp34pfkuUOQm3YiZaB4rxPw1_fTZ14zD6Dj9HmWkcfme1H5eipqSi5jS0P_S7S06vufTrJjRcUXQ=s1600)
-
 
 ## Birthday Color for October 25: Red Brown (`#6C1818`)
 

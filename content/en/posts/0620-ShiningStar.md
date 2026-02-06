@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgalSwon2qWUb5sQPewg173tekq4n2_L2y--OT4VTkH9kAa6kkV9XyGfpftrJD_JG89N-oH4glw-2rLKpNostr2SCDVFl-gtEGxWmpDXXb4EO7FMrI3_KjNz4Q8XThSblAT_-87ZWE_V1KurzLJTpVOonf52pdp43IlRvKZjJqxLKNabqU2PHyutHlbLRmY=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Shining Star, The Birthday Color of June 20"
 date: "2026-06-20"
 updated: "2026-06-20"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "elegant ultramarine"
 description: "The birthday color for June 20 is Shining Star (EAAB5B). Its meaning is Shining Talent, Hopeful, Influence."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgalSwon2qWUb5sQPewg173tekq4n2_L2y--OT4VTkH9kAa6kkV9XyGfpftrJD_JG89N-oH4glw-2rLKpNostr2SCDVFl-gtEGxWmpDXXb4EO7FMrI3_KjNz4Q8XThSblAT_-87ZWE_V1KurzLJTpVOonf52pdp43IlRvKZjJqxLKNabqU2PHyutHlbLRmY=s1600"
 en_name: "ShiningStar"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgalSwon2qWUb5sQPewg173tekq4n2_L2y--OT4VTkH9kAa6kkV9XyGfpftrJD_JG89N-oH4glw-2rLKpNostr2SCDVFl-gtEGxWmpDXXb4EO7FMrI3_KjNz4Q8XThSblAT_-87ZWE_V1KurzLJTpVOonf52pdp43IlRvKZjJqxLKNabqU2PHyutHlbLRmY=s1600)
-
 
 ## Birthday Color for June 20: Shining Star (`#EAAB5B`)
 

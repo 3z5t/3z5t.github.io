@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjcOe6BLj5BTTIajmEpPO6wSXDPquONpa7DQPmYhlAfkzjq8smEweO0ktZo-lQNDrPllQwzF5anwCpnbXmwZe9vz3B4SGuK_KkksYdg20Uzc31mfUCTXZelD3r2qQexFT9PQqoqPGA-b9v2An5tkmdrzwuvSTw2AI5VK2F7cfRnLOt2EZtustZ_leI5YqHw=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ウォームベージュ、8月23日の誕生色"
 date: "2026-08-23"
 updated: "2026-08-23"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "ディープオーシャンブルー"
 description: "8月23日の誕生色 ウォームベージュ(B69174)。色言葉は「温かい心、包容力、理解心」です。相性の良い色はディープオーシャンブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjcOe6BLj5BTTIajmEpPO6wSXDPquONpa7DQPmYhlAfkzjq8smEweO0ktZo-lQNDrPllQwzF5anwCpnbXmwZe9vz3B4SGuK_KkksYdg20Uzc31mfUCTXZelD3r2qQexFT9PQqoqPGA-b9v2An5tkmdrzwuvSTw2AI5VK2F7cfRnLOt2EZtustZ_leI5YqHw=s1600"
 en_name: "Warm Beige"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjcOe6BLj5BTTIajmEpPO6wSXDPquONpa7DQPmYhlAfkzjq8smEweO0ktZo-lQNDrPllQwzF5anwCpnbXmwZe9vz3B4SGuK_KkksYdg20Uzc31mfUCTXZelD3r2qQexFT9PQqoqPGA-b9v2An5tkmdrzwuvSTw2AI5VK2F7cfRnLOt2EZtustZ_leI5YqHw=s1600)
-
 
 ## 8月23日の誕生色: ウォームベージュ (`#B69174`)
 

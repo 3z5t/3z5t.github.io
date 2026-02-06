@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjiYlyRQz6vyBEA20Z8kPp6lsIGHKvrpY-UpsXrQPZGduUxu9YBZr4wJUuVysgXUB_0K1VPqbjuql8WQ95eXfl4DEx7MPaiQTwZVOBlbHMRB4JatgvmnfGFDHO2ebt0f6UD5R0zjSqFxmUhlZsLyUNhdJPpkZijoZlG8u8Rc9mgnLBWJUtYRtorU7kulBD9=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディムグレー、11月10日の誕生色"
 date: "2026-11-10"
 updated: "2026-11-10"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "ムースグレー"
 description: "11月10日の誕生色 ディムグレー(666666)。色言葉は「深みのある、落ち着き、成熟」です。相性の良い色はムースグレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjiYlyRQz6vyBEA20Z8kPp6lsIGHKvrpY-UpsXrQPZGduUxu9YBZr4wJUuVysgXUB_0K1VPqbjuql8WQ95eXfl4DEx7MPaiQTwZVOBlbHMRB4JatgvmnfGFDHO2ebt0f6UD5R0zjSqFxmUhlZsLyUNhdJPpkZijoZlG8u8Rc9mgnLBWJUtYRtorU7kulBD9=s1600"
 en_name: "Dim Gray"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjiYlyRQz6vyBEA20Z8kPp6lsIGHKvrpY-UpsXrQPZGduUxu9YBZr4wJUuVysgXUB_0K1VPqbjuql8WQ95eXfl4DEx7MPaiQTwZVOBlbHMRB4JatgvmnfGFDHO2ebt0f6UD5R0zjSqFxmUhlZsLyUNhdJPpkZijoZlG8u8Rc9mgnLBWJUtYRtorU7kulBD9=s1600)
-
 
 ## 11月10日の誕生色: ディムグレー (`#666666`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiezmLBrOKIbYfmvNwBIiDVBnyXUmm9O_gazmHHf_pWnjJySm3eA9x025tQH9jGH3gA_908lQ8N1ERIznej8VSHZtl3vrapbUUYz1CF_L_r9xjIkKEQ_jQKLgKwkP1jc1ehKL8w76IHh1JdT0xDT0nVCiDZM40v86tHrwu5dvjsXcvGNnipFb0JtPBDSQkh=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Cinderella Pink, The Birthday Color of March 27"
 date: "2026-03-27"
 updated: "2026-03-27"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "evening sky"
 description: "The birthday color for March 27 is Cinderella Pink (FFC7C6). Its meaning is Fairy-tale like, Dreamy, Romantic."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiezmLBrOKIbYfmvNwBIiDVBnyXUmm9O_gazmHHf_pWnjJySm3eA9x025tQH9jGH3gA_908lQ8N1ERIznej8VSHZtl3vrapbUUYz1CF_L_r9xjIkKEQ_jQKLgKwkP1jc1ehKL8w76IHh1JdT0xDT0nVCiDZM40v86tHrwu5dvjsXcvGNnipFb0JtPBDSQkh=s1600"
 en_name: "CinderellaPink"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiezmLBrOKIbYfmvNwBIiDVBnyXUmm9O_gazmHHf_pWnjJySm3eA9x025tQH9jGH3gA_908lQ8N1ERIznej8VSHZtl3vrapbUUYz1CF_L_r9xjIkKEQ_jQKLgKwkP1jc1ehKL8w76IHh1JdT0xDT0nVCiDZM40v86tHrwu5dvjsXcvGNnipFb0JtPBDSQkh=s1600)
-
 
 ## Birthday Color for March 27: Cinderella Pink (`#FFC7C6`)
 

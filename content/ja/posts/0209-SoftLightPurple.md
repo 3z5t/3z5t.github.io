@@ -1,21 +1,24 @@
 ---
-"title": "ソフトライトパープル、2月9日の誕生色"
-"date": "2026-02-09"
-"updated": "2026-02-09"
-"labels":
-- "ソフトライトパープル"
-- "誕生色"
-- "2月9日"
-- "AC79AE"
-- "2月"
-- "リーフグリーン"
-"description": "2月9日の誕生色 ソフトライトパープル(AC79AE)。色言葉は「情緒的、共感能力、包容力」です。相性の良い色はリーフグリーンです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhzRoPLsjhCrxSCqFhC3-E0olmhGUu-dLC-EOhecajV5oTvfpk7IkMPZ6EmGH4SMjbEHRuygav291bxtaVhI_JQGWhPZZoUQBybzVyF99uB9r_618yURO_gx3e487czCVTM4dP2HaKA6aDgDrThiISFHGvrqPVvpeopdkLWvQEpyxNrixSV9D4yi3N3V7am=s1600"
-"en_name": "Soft Light Purple"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "2723646842853408116"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/29-soft-light-purple.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhzRoPLsjhCrxSCqFhC3-E0olmhGUu-dLC-EOhecajV5oTvfpk7IkMPZ6EmGH4SMjbEHRuygav291bxtaVhI_JQGWhPZZoUQBybzVyF99uB9r_618yURO_gx3e487czCVTM4dP2HaKA6aDgDrThiISFHGvrqPVvpeopdkLWvQEpyxNrixSV9D4yi3N3V7am=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ソフトライトパープル、2月9日の誕生色"
+date: "2026-02-09"
+updated: "2026-02-09"
+tags:
+  - "ソフトライトパープル"
+  - "誕生色"
+  - "2月9日"
+  - "AC79AE"
+  - "2月"
+  - "リーフグリーン"
+description: "2月9日の誕生色 ソフトライトパープル(AC79AE)。色言葉は「情緒的、共感能力、包容力」です。相性の良い色はリーフグリーンです。"
+en_name: "Soft Light Purple"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "2723646842853408116"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/29-soft-light-purple.html"
 ---
 
 ## 2月9日の誕生色: ソフトライトパープル (`#AC79AE`)

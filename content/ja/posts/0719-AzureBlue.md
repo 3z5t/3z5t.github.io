@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh7UtbJQ2wgFd5EPHC9XYfPwVkG57UrVnhCPsC7BhoOn-GyfKo6OXCB6qAwy6tbD3pGzzA6dmVb8pvYj6pUltQZ5xb_op296x0C0jlMa-kakOfaGGv7UGkDfMDGfagTQY2GFyRtZ6LWIB0793JDIONsH5TwyKM-Z7RzmoyBtow6YOKss_O191ph-M5n3_e3=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アジュールブルー、7月19日の誕生色"
 date: "2026-07-19"
 updated: "2026-07-19"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "キャロット"
 description: "7月19日の誕生色 アジュールブルー(1E90FF)。色言葉は「涼しげな性格、明快、活気ある」です。相性の良い色はキャロットです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh7UtbJQ2wgFd5EPHC9XYfPwVkG57UrVnhCPsC7BhoOn-GyfKo6OXCB6qAwy6tbD3pGzzA6dmVb8pvYj6pUltQZ5xb_op296x0C0jlMa-kakOfaGGv7UGkDfMDGfagTQY2GFyRtZ6LWIB0793JDIONsH5TwyKM-Z7RzmoyBtow6YOKss_O191ph-M5n3_e3=s1600"
 en_name: "Azure Blue"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh7UtbJQ2wgFd5EPHC9XYfPwVkG57UrVnhCPsC7BhoOn-GyfKo6OXCB6qAwy6tbD3pGzzA6dmVb8pvYj6pUltQZ5xb_op296x0C0jlMa-kakOfaGGv7UGkDfMDGfagTQY2GFyRtZ6LWIB0793JDIONsH5TwyKM-Z7RzmoyBtow6YOKss_O191ph-M5n3_e3=s1600)
-
 
 ## 7月19日の誕生色: アジュールブルー (`#1E90FF`)
 

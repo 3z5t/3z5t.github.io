@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEic1Xv-je6E7s3gVH4dKUND4NXpZK9rSzH4LX25lfb4cNGzxE-MBg-8wmZg1UY0mGbPlkCpFN0wH8Q85f5n5kOzpuLcNPpb3sEuLdzti-5syo35KoWzhisvtiRMxV0V6AqFC3tBdlktmq2HKc78y4ZT1YCtP4fQr0flzqkhZ4nhpEgy84stz6Skf4ue-2eh=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "カーネーションピンク、6月6日の誕生色"
 date: "2026-06-06"
 updated: "2026-06-06"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "ジェイド"
 description: "6月6日の誕生色 カーネーションピンク(FF99CC)。色言葉は「平和、愛らしさ、情緒的」です。相性の良い色はジェイドです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEic1Xv-je6E7s3gVH4dKUND4NXpZK9rSzH4LX25lfb4cNGzxE-MBg-8wmZg1UY0mGbPlkCpFN0wH8Q85f5n5kOzpuLcNPpb3sEuLdzti-5syo35KoWzhisvtiRMxV0V6AqFC3tBdlktmq2HKc78y4ZT1YCtP4fQr0flzqkhZ4nhpEgy84stz6Skf4ue-2eh=s1600"
 en_name: "Carnation Pink"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEic1Xv-je6E7s3gVH4dKUND4NXpZK9rSzH4LX25lfb4cNGzxE-MBg-8wmZg1UY0mGbPlkCpFN0wH8Q85f5n5kOzpuLcNPpb3sEuLdzti-5syo35KoWzhisvtiRMxV0V6AqFC3tBdlktmq2HKc78y4ZT1YCtP4fQr0flzqkhZ4nhpEgy84stz6Skf4ue-2eh=s1600)
-
 
 ## 6月6日の誕生色: カーネーションピンク (`#FF99CC`)
 

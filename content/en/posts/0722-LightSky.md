@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg6-zJ3kA0CcjVBBA7LkOSbo6jhFFUHT5HJc46x8XQnAgRDpHgAeHd7TDSueYVx60O0RTaqR0E9zlJRhBaRoHZQIgV8lCjoZiicIoH7DuRC9JrC0I9HOcsI2HKaAlRbUESR51W2Umg1ecVInWNpaRKoeV87FsUdrWgGTuZA9A-CZXSsC5_oMK4yUj0wdEmY=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Light Sky, The Birthday Color of July 22"
 date: "2026-07-22"
 updated: "2026-07-22"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "real red"
 description: "The birthday color for July 22 is Light Sky (3DDAEE). Its meaning is Refreshing Personality, Bright Mind, Clean."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg6-zJ3kA0CcjVBBA7LkOSbo6jhFFUHT5HJc46x8XQnAgRDpHgAeHd7TDSueYVx60O0RTaqR0E9zlJRhBaRoHZQIgV8lCjoZiicIoH7DuRC9JrC0I9HOcsI2HKaAlRbUESR51W2Umg1ecVInWNpaRKoeV87FsUdrWgGTuZA9A-CZXSsC5_oMK4yUj0wdEmY=s1600"
 en_name: "LightSky"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg6-zJ3kA0CcjVBBA7LkOSbo6jhFFUHT5HJc46x8XQnAgRDpHgAeHd7TDSueYVx60O0RTaqR0E9zlJRhBaRoHZQIgV8lCjoZiicIoH7DuRC9JrC0I9HOcsI2HKaAlRbUESR51W2Umg1ecVInWNpaRKoeV87FsUdrWgGTuZA9A-CZXSsC5_oMK4yUj0wdEmY=s1600)
-
 
 ## Birthday Color for July 22: Light Sky (`#3DDAEE`)
 

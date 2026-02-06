@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg35vRv3NW3YsrpRHZ2tU-4jJoJ11C7cew8LXi0NxJ2jhwkNE7Lyziw3Z-neyYiX76V2D3hURKDbkn1EW4-KWz0gwfIVdwdzrPTbJVbDOFd0Hgf_L7GSEEgdsEtkIziQDG1iREfyEjjqoX89HKVFOUgNCCtVFlnvdn_SnQfA1YtjQFI86_9_xrsB6bNJ59J=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "クリーム、5月9日の誕生色"
 date: "2026-05-09"
 updated: "2026-05-09"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "ミッドナイトネイビー"
 description: "5月9日の誕生色 クリーム(FFFFCC)。色言葉は「柔らかさ、温かさ、純粋」です。相性の良い色はミッドナイトネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg35vRv3NW3YsrpRHZ2tU-4jJoJ11C7cew8LXi0NxJ2jhwkNE7Lyziw3Z-neyYiX76V2D3hURKDbkn1EW4-KWz0gwfIVdwdzrPTbJVbDOFd0Hgf_L7GSEEgdsEtkIziQDG1iREfyEjjqoX89HKVFOUgNCCtVFlnvdn_SnQfA1YtjQFI86_9_xrsB6bNJ59J=s1600"
 en_name: "Cream"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg35vRv3NW3YsrpRHZ2tU-4jJoJ11C7cew8LXi0NxJ2jhwkNE7Lyziw3Z-neyYiX76V2D3hURKDbkn1EW4-KWz0gwfIVdwdzrPTbJVbDOFd0Hgf_L7GSEEgdsEtkIziQDG1iREfyEjjqoX89HKVFOUgNCCtVFlnvdn_SnQfA1YtjQFI86_9_xrsB6bNJ59J=s1600)
-
 
 ## 5月9日の誕生色: クリーム (`#FFFFCC`)
 

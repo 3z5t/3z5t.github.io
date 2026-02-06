@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-27'
-description: The birthday color for January 27 is Silver Blue (ABB5C1). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiAA19n4cHsFl4NJD0WJ9DNmxF23Hh1qVzisFNLq2t0MoHBEZ00ArTEdy8e_AtWuMtgW-dy4ShuUbOX5fEMMF_oa5-04AF-WE1HXrz26z2OHOOcXBGOYXpR0TqiqbRuX7q1NIx_BG0k0DD-aS2tQyhMtYjc4fxmea4ZalD9NqYUIw-dxnxfTIZkzb6WtVuI=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-27"
+description: "The birthday color for January 27 is Silver Blue (ABB5C1). Its meaning"
   is Dignified, Elegant, Noble.
-en_name: SilverBlue
+en_name: "SilverBlue"
 tags:
-- silver blue
-- birthday color
-- january 27
-- abb5c1
-- january
-- dark espresso
-postId: '5145923619710041588'
-postUrl: https://the366days-en.blogspot.com/2026/01/silver-blue-birthday-color-of-january-27.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiAA19n4cHsFl4NJD0WJ9DNmxF23Hh1qVzisFNLq2t0MoHBEZ00ArTEdy8e_AtWuMtgW-dy4ShuUbOX5fEMMF_oa5-04AF-WE1HXrz26z2OHOOcXBGOYXpR0TqiqbRuX7q1NIx_BG0k0DD-aS2tQyhMtYjc4fxmea4ZalD9NqYUIw-dxnxfTIZkzb6WtVuI=s1600
-title: Silver Blue, The Birthday Color of January 27
-updated: '2026-01-27'
+  - "silver blue"
+  - "birthday color"
+  - "january 27"
+  - "abb5c1"
+  - "january"
+  - "dark espresso"
+postId: "5145923619710041588"
+postUrl: "https://the366days-en.blogspot.com/2026/01/silver-blue-birthday-color-of-january-27.html"
+profileName: "Pieces of a Day"
+title: "Silver Blue, The Birthday Color of January 27"
+updated: "2026-01-27"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiAA19n4cHsFl4NJD0WJ9DNmxF23Hh1qVzisFNLq2t0MoHBEZ00ArTEdy8e_AtWuMtgW-dy4ShuUbOX5fEMMF_oa5-04AF-WE1HXrz26z2OHOOcXBGOYXpR0TqiqbRuX7q1NIx_BG0k0DD-aS2tQyhMtYjc4fxmea4ZalD9NqYUIw-dxnxfTIZkzb6WtVuI=s1600)
-
 
 ![Silver Blue, The Birthday Color of January 27](https://blogger.googleusercontent.com/img/a/AVvXsEiAA19n4cHsFl4NJD0WJ9DNmxF23Hh1qVzisFNLq2t0MoHBEZ00ArTEdy8e_AtWuMtgW-dy4ShuUbOX5fEMMF_oa5-04AF-WE1HXrz26z2OHOOcXBGOYXpR0TqiqbRuX7q1NIx_BG0k0DD-aS2tQyhMtYjc4fxmea4ZalD9NqYUIw-dxnxfTIZkzb6WtVuI=s1600)
 

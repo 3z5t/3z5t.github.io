@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg9XzjPjAU4HjiLigpx-kml9PnGTDElgTf_5B_IVB44GPUGRvKOYpatULXiWykPeHAp9rx8m6z0bQQyfofXT30boDwpb25tU4Sq0oXh9E05wSWbWtkv2a1IbblWCdMdSuWwoUiURxsiFNThxQYzHj4tU9Y1PGR98wuNr0ShbJB16m6rC31-1sQB_fZjmOC1=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Ash Beige, The Birthday Color of August 28"
 date: "2026-08-28"
 updated: "2026-08-28"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "afternoon gray"
 description: "The birthday color for August 28 is Ash Beige (978B88). Its meaning is Self-controlled, Balanced, Calm."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg9XzjPjAU4HjiLigpx-kml9PnGTDElgTf_5B_IVB44GPUGRvKOYpatULXiWykPeHAp9rx8m6z0bQQyfofXT30boDwpb25tU4Sq0oXh9E05wSWbWtkv2a1IbblWCdMdSuWwoUiURxsiFNThxQYzHj4tU9Y1PGR98wuNr0ShbJB16m6rC31-1sQB_fZjmOC1=s1600"
 en_name: "AshBeige"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg9XzjPjAU4HjiLigpx-kml9PnGTDElgTf_5B_IVB44GPUGRvKOYpatULXiWykPeHAp9rx8m6z0bQQyfofXT30boDwpb25tU4Sq0oXh9E05wSWbWtkv2a1IbblWCdMdSuWwoUiURxsiFNThxQYzHj4tU9Y1PGR98wuNr0ShbJB16m6rC31-1sQB_fZjmOC1=s1600)
-
 
 ## Birthday Color for August 28: Ash Beige (`#978B88`)
 

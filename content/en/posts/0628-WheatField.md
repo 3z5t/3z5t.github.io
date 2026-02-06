@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjZRFl8rEBka3SiQN1NoRIk9jVP98v5X6J8DxOPzXmiUDrnHnRPbGbTKcdNosxxbLbRl8GWjUoMvz0NKUhvYsWQEUMAh_sdsC0JsyUchpVNehi9dpy_Aney7uQSALHUF4_tlxjdeRcMzJCN8WnK4K4GdRdpbY-dag5DG-OSL8WWqDqFj79CgiWFKb6j8Yoz=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Wheat Field, The Birthday Color of June 28"
 date: "2026-06-28"
 updated: "2026-06-28"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "elegant ultramarine"
 description: "The birthday color for June 28 is Wheat Field (B89A6D). Its meaning is Abundance, Gratitude, Prosperity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjZRFl8rEBka3SiQN1NoRIk9jVP98v5X6J8DxOPzXmiUDrnHnRPbGbTKcdNosxxbLbRl8GWjUoMvz0NKUhvYsWQEUMAh_sdsC0JsyUchpVNehi9dpy_Aney7uQSALHUF4_tlxjdeRcMzJCN8WnK4K4GdRdpbY-dag5DG-OSL8WWqDqFj79CgiWFKb6j8Yoz=s1600"
 en_name: "WheatField"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjZRFl8rEBka3SiQN1NoRIk9jVP98v5X6J8DxOPzXmiUDrnHnRPbGbTKcdNosxxbLbRl8GWjUoMvz0NKUhvYsWQEUMAh_sdsC0JsyUchpVNehi9dpy_Aney7uQSALHUF4_tlxjdeRcMzJCN8WnK4K4GdRdpbY-dag5DG-OSL8WWqDqFj79CgiWFKb6j8Yoz=s1600)
-
 
 ## Birthday Color for June 28: Wheat Field (`#B89A6D`)
 

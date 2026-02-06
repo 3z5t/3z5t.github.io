@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-01'
-description: The birthday color for January 1 is Snow White (F2F1F1). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEju9M0wQI-8DxN_fjMWnZcIPushm-qgLSiA_Vo3nrlrHYmjUWQ9G8fXZfDWultXuwW4qcKSXb9rKT6CTfTN47uWw716a6Ab--9DYMS5BQX_UYagARk_k7HFWT9oHN5Q-5gt2Ss5iegJvEp5w9hOUvVU7u9ocHI4w8FPf1AAdfOJAnB-Xf99dmD1f7V1DiaX=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-01"
+description: "The birthday color for January 1 is Snow White (F2F1F1). Its meaning"
   is Creative, Pure, Newness.
-en_name: SnowWhite
+en_name: "SnowWhite"
 tags:
-- snow white
-- birthday color
-- january 1
-- f2f1f1
-- january
-- deep abyss
-postId: '5791182525208038711'
-postUrl: https://the366days-en.blogspot.com/2025/12/snow-white-birthday-color-of-january-1.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEju9M0wQI-8DxN_fjMWnZcIPushm-qgLSiA_Vo3nrlrHYmjUWQ9G8fXZfDWultXuwW4qcKSXb9rKT6CTfTN47uWw716a6Ab--9DYMS5BQX_UYagARk_k7HFWT9oHN5Q-5gt2Ss5iegJvEp5w9hOUvVU7u9ocHI4w8FPf1AAdfOJAnB-Xf99dmD1f7V1DiaX=s1600
-title: Snow White, The Birthday Color of January 1
-updated: '2026-01-01'
+  - "snow white"
+  - "birthday color"
+  - "january 1"
+  - "f2f1f1"
+  - "january"
+  - "deep abyss"
+postId: "5791182525208038711"
+postUrl: "https://the366days-en.blogspot.com/2025/12/snow-white-birthday-color-of-january-1.html"
+profileName: "Pieces of a Day"
+title: "Snow White, The Birthday Color of January 1"
+updated: "2026-01-01"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEju9M0wQI-8DxN_fjMWnZcIPushm-qgLSiA_Vo3nrlrHYmjUWQ9G8fXZfDWultXuwW4qcKSXb9rKT6CTfTN47uWw716a6Ab--9DYMS5BQX_UYagARk_k7HFWT9oHN5Q-5gt2Ss5iegJvEp5w9hOUvVU7u9ocHI4w8FPf1AAdfOJAnB-Xf99dmD1f7V1DiaX=s1600)
-
 
 ## Birthday Color for January 1: Snow White (`#F2F1F1`)
 

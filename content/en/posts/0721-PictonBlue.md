@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgDCnLX9VqW2snEimwWmstTftQ1aninAQI8rBv9DxBvr7GlaicHipSi3VvOqKXdECUE6PMyr3PgTQAM9pfnaIuSNHwskga3v1HMv8tzzBbfX3pg4BRmnjOuUhXvl0ua1dxwHEPej7UI-njwW08Rub1CcL1TTPJhErId9CIY_SQAQkA56Zio2QAKkAgLF1rU=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Picton Blue, The Birthday Color of July 21"
 date: "2026-07-21"
 updated: "2026-07-21"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "soft ochre"
 description: "The birthday color for July 21 is Picton Blue (6699CC). Its meaning is Cool Mind, Refreshing, Peaceful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgDCnLX9VqW2snEimwWmstTftQ1aninAQI8rBv9DxBvr7GlaicHipSi3VvOqKXdECUE6PMyr3PgTQAM9pfnaIuSNHwskga3v1HMv8tzzBbfX3pg4BRmnjOuUhXvl0ua1dxwHEPej7UI-njwW08Rub1CcL1TTPJhErId9CIY_SQAQkA56Zio2QAKkAgLF1rU=s1600"
 en_name: "PictonBlue"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgDCnLX9VqW2snEimwWmstTftQ1aninAQI8rBv9DxBvr7GlaicHipSi3VvOqKXdECUE6PMyr3PgTQAM9pfnaIuSNHwskga3v1HMv8tzzBbfX3pg4BRmnjOuUhXvl0ua1dxwHEPej7UI-njwW08Rub1CcL1TTPJhErId9CIY_SQAQkA56Zio2QAKkAgLF1rU=s1600)
-
 
 ## Birthday Color for July 21: Picton Blue (`#6699CC`)
 

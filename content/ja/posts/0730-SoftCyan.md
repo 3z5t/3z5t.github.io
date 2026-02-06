@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEib67qj94V5Ja2SZqs2P8axIxOH3TJzC3ry20FnYtc74GJPDMwOONBAHM0LQWBAVH25yosr_c3LSc_rQhLsIqA2muSu1n8_aPCKp19pnkTjiDIYvcfm0HDdMx-RRdcJfc14XOja6E9Q2v-Tp8bNsQmQJxGTJrd4S1Aj0KOXFZ9JKsbVT7jOps6EfWJSBLef=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ソフトシアン、7月30日の誕生色"
 date: "2026-07-30"
 updated: "2026-07-30"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "ブラウン"
 description: "7月30日の誕生色 ソフトシアン(6EC5EF)。色言葉は「爽やかな性格、清涼感、明るい心」です。相性の良い色はブラウンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEib67qj94V5Ja2SZqs2P8axIxOH3TJzC3ry20FnYtc74GJPDMwOONBAHM0LQWBAVH25yosr_c3LSc_rQhLsIqA2muSu1n8_aPCKp19pnkTjiDIYvcfm0HDdMx-RRdcJfc14XOja6E9Q2v-Tp8bNsQmQJxGTJrd4S1Aj0KOXFZ9JKsbVT7jOps6EfWJSBLef=s1600"
 en_name: "Soft Cyan"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEib67qj94V5Ja2SZqs2P8axIxOH3TJzC3ry20FnYtc74GJPDMwOONBAHM0LQWBAVH25yosr_c3LSc_rQhLsIqA2muSu1n8_aPCKp19pnkTjiDIYvcfm0HDdMx-RRdcJfc14XOja6E9Q2v-Tp8bNsQmQJxGTJrd4S1Aj0KOXFZ9JKsbVT7jOps6EfWJSBLef=s1600)
-
 
 ## 7月30日の誕生色: ソフトシアン (`#6EC5EF`)
 

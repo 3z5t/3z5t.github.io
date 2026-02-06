@@ -1,21 +1,24 @@
 ---
-"title": "バーミリオン、2月21日の誕生色"
-"date": "2026-02-21"
-"updated": "2026-02-21"
-"labels":
-- "バーミリオン"
-- "誕生色"
-- "2月21日"
-- "E34234"
-- "2月"
-- "ノーブルスカイブルー"
-"description": "2月21日の誕生色 バーミリオン(E34234)。色言葉は「活力、肯定性、楽観主義」です。相性の良い色はノーブルスカイブルーです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEj2o7ilIMZ_wcPt44eza2AlfBBrG-fZE-4BeKCoWB1lGQNPa5bvH3Ee9DYnkfqyZYQL7bFITxo0sKM_1GYvlJnPEitl9sYJsD9O8B0q-t_TyB7gYNcsKmcF2YFtLPqZVML4ZBXby-c3Te7CFXojhplAM-GquQ7l2x_SYrXLbB8f4Nouzzl8EBZM6Y7t_1Nc=s1600"
-"en_name": "Vermilion"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "6311543606590823972"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/221-vermilion.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj2o7ilIMZ_wcPt44eza2AlfBBrG-fZE-4BeKCoWB1lGQNPa5bvH3Ee9DYnkfqyZYQL7bFITxo0sKM_1GYvlJnPEitl9sYJsD9O8B0q-t_TyB7gYNcsKmcF2YFtLPqZVML4ZBXby-c3Te7CFXojhplAM-GquQ7l2x_SYrXLbB8f4Nouzzl8EBZM6Y7t_1Nc=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "バーミリオン、2月21日の誕生色"
+date: "2026-02-21"
+updated: "2026-02-21"
+tags:
+  - "バーミリオン"
+  - "誕生色"
+  - "2月21日"
+  - "E34234"
+  - "2月"
+  - "ノーブルスカイブルー"
+description: "2月21日の誕生色 バーミリオン(E34234)。色言葉は「活力、肯定性、楽観主義」です。相性の良い色はノーブルスカイブルーです。"
+en_name: "Vermilion"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "6311543606590823972"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/221-vermilion.html"
 ---
 
 ## 2月21日の誕生色: バーミリオン (`#E34234`)

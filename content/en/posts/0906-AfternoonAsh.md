@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhmMfzdNB8Cr_ftDvOHJGgIsMj6fdshEXTctsktyL83R6WxZSN-j6RBPMiz5sjcQh-Fi4rpJq-RiYHQ8CsImwhKOV0G0GQKISjF_pQGphMgr5Ztm3EZpPOVeVTfuiQsNC9G2h5W-wiwv7-e2QF4m3Lc0VnybIGV5fciDBdog-QQ8AylHNuhyJBZnLl5tvbj=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Afternoon Ash, The Birthday Color of September 6"
 date: "2026-09-06"
 updated: "2026-09-06"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "antique ivory"
 description: "The birthday color for September 6 is Afternoon Ash (191B28). Its meaning is Contemplative, Observant, Intellectual."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhmMfzdNB8Cr_ftDvOHJGgIsMj6fdshEXTctsktyL83R6WxZSN-j6RBPMiz5sjcQh-Fi4rpJq-RiYHQ8CsImwhKOV0G0GQKISjF_pQGphMgr5Ztm3EZpPOVeVTfuiQsNC9G2h5W-wiwv7-e2QF4m3Lc0VnybIGV5fciDBdog-QQ8AylHNuhyJBZnLl5tvbj=s1600"
 en_name: "AfternoonAsh"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhmMfzdNB8Cr_ftDvOHJGgIsMj6fdshEXTctsktyL83R6WxZSN-j6RBPMiz5sjcQh-Fi4rpJq-RiYHQ8CsImwhKOV0G0GQKISjF_pQGphMgr5Ztm3EZpPOVeVTfuiQsNC9G2h5W-wiwv7-e2QF4m3Lc0VnybIGV5fciDBdog-QQ8AylHNuhyJBZnLl5tvbj=s1600)
-
 
 ## Birthday Color for September 6: Afternoon Ash (`#191B28`)
 

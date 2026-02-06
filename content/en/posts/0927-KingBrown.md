@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgNHVzAnvQf0YWcyHMu4navLeHqzsr6vxf44LhXGceAkd1a6u5bPaR-I8-BvkrsI9WxYGXce8-rF9eeCZi4_xyHkg-rDhUMV8oQRWjZFochcNyOFEF0a4JzLqaQoEuzxKXfiy2h0pS3-bfxF2XvFjXQCEjPLz30Qsh-y1bWWOf7QlxcGE6AwF3UR8lLPbBo=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "King Brown, The Birthday Color of September 27"
 date: "2026-09-27"
 updated: "2026-09-27"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "dark turquoise"
 description: "The birthday color for September 27 is King Brown (A86248). Its meaning is Dignified, Classy, Leadership."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgNHVzAnvQf0YWcyHMu4navLeHqzsr6vxf44LhXGceAkd1a6u5bPaR-I8-BvkrsI9WxYGXce8-rF9eeCZi4_xyHkg-rDhUMV8oQRWjZFochcNyOFEF0a4JzLqaQoEuzxKXfiy2h0pS3-bfxF2XvFjXQCEjPLz30Qsh-y1bWWOf7QlxcGE6AwF3UR8lLPbBo=s1600"
 en_name: "KingBrown"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgNHVzAnvQf0YWcyHMu4navLeHqzsr6vxf44LhXGceAkd1a6u5bPaR-I8-BvkrsI9WxYGXce8-rF9eeCZi4_xyHkg-rDhUMV8oQRWjZFochcNyOFEF0a4JzLqaQoEuzxKXfiy2h0pS3-bfxF2XvFjXQCEjPLz30Qsh-y1bWWOf7QlxcGE6AwF3UR8lLPbBo=s1600)
-
 
 ## Birthday Color for September 27: King Brown (`#A86248`)
 

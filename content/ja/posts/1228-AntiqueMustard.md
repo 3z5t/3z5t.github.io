@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi9sBQTB21LwSdU-2fy58fkYlmY7yj_M8gC5lZFAu0lvyfZorkQ75dNCrjwwpsoeUTKk9ncb8eItcIOmY8OxS0dKUU9RvnMzTlpb5XDvjQBRDLyrNK8mx3QWsFix9oJf98kcU_VbGBT8Uqlb5-YS3x4cEVaxvPbAzC9dRnqje7tYTLv-9KUTB3-1wggty-l=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アンティークマスタード、12月28日の誕生色"
 date: "2026-12-28"
 updated: "2026-12-28"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ディープソラ"
 description: "12月28日の誕生色 アンティークマスタード(BB8F3D)。色言葉は「落ち着いた性格、豊かさ、深みのある」です。相性の良い色はディープソラです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi9sBQTB21LwSdU-2fy58fkYlmY7yj_M8gC5lZFAu0lvyfZorkQ75dNCrjwwpsoeUTKk9ncb8eItcIOmY8OxS0dKUU9RvnMzTlpb5XDvjQBRDLyrNK8mx3QWsFix9oJf98kcU_VbGBT8Uqlb5-YS3x4cEVaxvPbAzC9dRnqje7tYTLv-9KUTB3-1wggty-l=s1600"
 en_name: "Antique Mustard"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi9sBQTB21LwSdU-2fy58fkYlmY7yj_M8gC5lZFAu0lvyfZorkQ75dNCrjwwpsoeUTKk9ncb8eItcIOmY8OxS0dKUU9RvnMzTlpb5XDvjQBRDLyrNK8mx3QWsFix9oJf98kcU_VbGBT8Uqlb5-YS3x4cEVaxvPbAzC9dRnqje7tYTLv-9KUTB3-1wggty-l=s1600)
-
 
 ## 12月28日の誕生色: アンティークマスタード (`#BB8F3D`)
 

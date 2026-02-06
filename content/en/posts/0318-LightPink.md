@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh1JfuqdILcGnMCPo5oduyrcYhdXqAj8hEgZ2p9tF88cbL7idhJUtUoowl2fIvwj0AjTauNnAutoCWyDshoCEgjoGpCUbX55cBZwRim5jaazDFfhrVNPou6ks3T0pibzxmKz787myCwGAc8nj8gVHolhtTPP2svpC153Bl3jXlGp72cF3pAmjTqDlxrcD2c=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Light Pink, The Birthday Color of March 18"
 date: "2026-03-18"
 updated: "2026-03-18"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "steel navy"
 description: "The birthday color for March 18 is Light Pink (FFB6C1). Its meaning is Pure, Hopeful, Positive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh1JfuqdILcGnMCPo5oduyrcYhdXqAj8hEgZ2p9tF88cbL7idhJUtUoowl2fIvwj0AjTauNnAutoCWyDshoCEgjoGpCUbX55cBZwRim5jaazDFfhrVNPou6ks3T0pibzxmKz787myCwGAc8nj8gVHolhtTPP2svpC153Bl3jXlGp72cF3pAmjTqDlxrcD2c=s1600"
 en_name: "LightPink"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh1JfuqdILcGnMCPo5oduyrcYhdXqAj8hEgZ2p9tF88cbL7idhJUtUoowl2fIvwj0AjTauNnAutoCWyDshoCEgjoGpCUbX55cBZwRim5jaazDFfhrVNPou6ks3T0pibzxmKz787myCwGAc8nj8gVHolhtTPP2svpC153Bl3jXlGp72cF3pAmjTqDlxrcD2c=s1600)
-
 
 ## Birthday Color for March 18: Light Pink (`#FFB6C1`)
 

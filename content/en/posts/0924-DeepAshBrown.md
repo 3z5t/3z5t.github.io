@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgsH-ovXGUVUSe7N6S7leqmAAmCu_MKeUPzvmC1J3CoMCflct0wX-9SegzF7q9FRH29Pga606u3AO-egnPLgX5-jsqM5QiWNXQJKsgnxcS6WX9I5GFbs76Xu7l1hVs8Irhd3erO5Qlh8lH9PcEpJp7gYDwO8h--6PrDkMbaCxH0SuZUrudenH9KiyR7sABI=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Ash Brown, The Birthday Color of September 24"
 date: "2026-09-24"
 updated: "2026-09-24"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "urban sky"
 description: "The birthday color for September 24 is Deep Ash Brown (49423E). Its meaning is Wise, Profound, Mature."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgsH-ovXGUVUSe7N6S7leqmAAmCu_MKeUPzvmC1J3CoMCflct0wX-9SegzF7q9FRH29Pga606u3AO-egnPLgX5-jsqM5QiWNXQJKsgnxcS6WX9I5GFbs76Xu7l1hVs8Irhd3erO5Qlh8lH9PcEpJp7gYDwO8h--6PrDkMbaCxH0SuZUrudenH9KiyR7sABI=s1600"
 en_name: "DeepAshBrown"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgsH-ovXGUVUSe7N6S7leqmAAmCu_MKeUPzvmC1J3CoMCflct0wX-9SegzF7q9FRH29Pga606u3AO-egnPLgX5-jsqM5QiWNXQJKsgnxcS6WX9I5GFbs76Xu7l1hVs8Irhd3erO5Qlh8lH9PcEpJp7gYDwO8h--6PrDkMbaCxH0SuZUrudenH9KiyR7sABI=s1600)
-
 
 ## Birthday Color for September 24: Deep Ash Brown (`#49423E`)
 

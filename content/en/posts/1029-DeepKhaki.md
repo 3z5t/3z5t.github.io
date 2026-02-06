@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgoitp7HzyZ4eBdrgIiRp5Lm_9axu8ZH4y0E_M-51uu_YQ_Fjh8nS5paOY33vd_bZvANff5B0fG-Ogzn7vpT8MtcCFMSlWhi4UE4l4uWxX-aoTpn3kDe2zrHrSWD-RYkwjAjxLdBNu1R3tm-3PtdHp3Pt5-cU4vOptehyseYgXjP28NMPj47dOtNPY3V2LE=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Khaki, The Birthday Color of October 29"
 date: "2026-10-29"
 updated: "2026-10-29"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "silver lilac"
 description: "The birthday color for October 29 is Deep Khaki (525C3E). Its meaning is Natural, Stable, Peaceful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgoitp7HzyZ4eBdrgIiRp5Lm_9axu8ZH4y0E_M-51uu_YQ_Fjh8nS5paOY33vd_bZvANff5B0fG-Ogzn7vpT8MtcCFMSlWhi4UE4l4uWxX-aoTpn3kDe2zrHrSWD-RYkwjAjxLdBNu1R3tm-3PtdHp3Pt5-cU4vOptehyseYgXjP28NMPj47dOtNPY3V2LE=s1600"
 en_name: "DeepKhaki"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgoitp7HzyZ4eBdrgIiRp5Lm_9axu8ZH4y0E_M-51uu_YQ_Fjh8nS5paOY33vd_bZvANff5B0fG-Ogzn7vpT8MtcCFMSlWhi4UE4l4uWxX-aoTpn3kDe2zrHrSWD-RYkwjAjxLdBNu1R3tm-3PtdHp3Pt5-cU4vOptehyseYgXjP28NMPj47dOtNPY3V2LE=s1600)
-
 
 ## Birthday Color for October 29: Deep Khaki (`#525C3E`)
 

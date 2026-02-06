@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi29a2MTSyTVfrAYe4Yl2cYJZB4r8XWuBmvRoWkKRJF_w5tMf5mEiaNsiQf5ND3P-X7YjFBgBbNmNqIpZI_JomuohErLXNHcv2Iup2IFSdSF5NQ5HsAZtUNpQ1b9QmtPt9luiipqtLKxSO2KqPmRKoxlHmEfOjJQhcJNqARYrrcSdkIg_ykWj4haCmC2MNl=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "チェリーブロッサム、3月15日の誕生色"
 date: "2026-03-15"
 updated: "2026-03-15"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ディープフォレスト"
 description: "3月15日の誕生色 チェリーブロッサム(F0ADCA)。色言葉は「情緒的、愛らしさ、ロマンチック」です。相性の良い色はディープフォレストです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi29a2MTSyTVfrAYe4Yl2cYJZB4r8XWuBmvRoWkKRJF_w5tMf5mEiaNsiQf5ND3P-X7YjFBgBbNmNqIpZI_JomuohErLXNHcv2Iup2IFSdSF5NQ5HsAZtUNpQ1b9QmtPt9luiipqtLKxSO2KqPmRKoxlHmEfOjJQhcJNqARYrrcSdkIg_ykWj4haCmC2MNl=s1600"
 en_name: "Cherry Blossom"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi29a2MTSyTVfrAYe4Yl2cYJZB4r8XWuBmvRoWkKRJF_w5tMf5mEiaNsiQf5ND3P-X7YjFBgBbNmNqIpZI_JomuohErLXNHcv2Iup2IFSdSF5NQ5HsAZtUNpQ1b9QmtPt9luiipqtLKxSO2KqPmRKoxlHmEfOjJQhcJNqARYrrcSdkIg_ykWj4haCmC2MNl=s1600)
-
 
 ## 3月15日の誕生色: チェリーブロッサム (`#F0ADCA`)
 

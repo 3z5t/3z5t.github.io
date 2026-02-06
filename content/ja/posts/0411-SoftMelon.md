@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhcuyD6Ri75XplNY0AQCxyx0hoQmVPBu0113jlVfGbBYyjsxvsGH4-StjkjD4SVKVxK02iaEPwl2gh7UfMKlrwg8lrAXVBF7wo6CT19h53SSWJqXKIkGJ8lHPJLLquM9scBCB-oRcdo2T9zqZZiBVGrWD6x7pg5GELVf1r7vcoxG_zeiF0i8rSQfgLduBsH=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ソフトメロン、4月11日の誕生色"
 date: "2026-04-11"
 updated: "2026-04-11"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "ペールマゼンタ"
 description: "4月11日の誕生色 ソフトメロン(84C07A)。色言葉は「安定感、成熟、バランス感覚」です。相性の良い色はペールマゼンタです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhcuyD6Ri75XplNY0AQCxyx0hoQmVPBu0113jlVfGbBYyjsxvsGH4-StjkjD4SVKVxK02iaEPwl2gh7UfMKlrwg8lrAXVBF7wo6CT19h53SSWJqXKIkGJ8lHPJLLquM9scBCB-oRcdo2T9zqZZiBVGrWD6x7pg5GELVf1r7vcoxG_zeiF0i8rSQfgLduBsH=s1600"
 en_name: "Soft Melon"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhcuyD6Ri75XplNY0AQCxyx0hoQmVPBu0113jlVfGbBYyjsxvsGH4-StjkjD4SVKVxK02iaEPwl2gh7UfMKlrwg8lrAXVBF7wo6CT19h53SSWJqXKIkGJ8lHPJLLquM9scBCB-oRcdo2T9zqZZiBVGrWD6x7pg5GELVf1r7vcoxG_zeiF0i8rSQfgLduBsH=s1600)
-
 
 ## 4月11日の誕生色: ソフトメロン (`#84C07A`)
 

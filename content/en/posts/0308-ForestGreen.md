@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhJPB6ZldzxzEf9StNIhCnjpyQ87t2cLUc_sOB8WfN-nwy-BRUe4Xl9tSjwS-7V4wrJroWjUn41ydCdZpSuOjOPSUNroGnl04Qkzq7hsBt8LWjZewHlujEqS1zqXka4rlZtAUjkXe1PuLKs9hS8aNePHjbJWas1qsQjbZcgEq4kkw_I6JhbM9Xx0J-tXXkr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Forest Green, The Birthday Color of March 8"
 date: "2026-03-08"
 updated: "2026-03-08"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "magenta violet"
 description: "The birthday color for March 8 is Forest Green (006600). Its meaning is Growth, Leadership, Stability."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhJPB6ZldzxzEf9StNIhCnjpyQ87t2cLUc_sOB8WfN-nwy-BRUe4Xl9tSjwS-7V4wrJroWjUn41ydCdZpSuOjOPSUNroGnl04Qkzq7hsBt8LWjZewHlujEqS1zqXka4rlZtAUjkXe1PuLKs9hS8aNePHjbJWas1qsQjbZcgEq4kkw_I6JhbM9Xx0J-tXXkr=s1600"
 en_name: "ForestGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhJPB6ZldzxzEf9StNIhCnjpyQ87t2cLUc_sOB8WfN-nwy-BRUe4Xl9tSjwS-7V4wrJroWjUn41ydCdZpSuOjOPSUNroGnl04Qkzq7hsBt8LWjZewHlujEqS1zqXka4rlZtAUjkXe1PuLKs9hS8aNePHjbJWas1qsQjbZcgEq4kkw_I6JhbM9Xx0J-tXXkr=s1600)
-
 
 ## Birthday Color for March 8: Forest Green (`#006600`)
 

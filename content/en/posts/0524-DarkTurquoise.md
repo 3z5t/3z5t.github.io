@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiseBxbtbsHLoA8u-9HOx2avaAel2ypzPXJAsyUDx1R_TTAo8flv7JRfvFvFu0dVMrotlZ1pFQphfPkER7MYiH6OmdtLZuB_ichWI_lbBH0HS7YR01vDlQIM-PtAXp7cuClys0kc9_op-d1eFgZi5UXTaqaD9R1l54x0zSyH5bNF5QcG77mzmQtwl0zK3Xy=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Dark Turquoise, The Birthday Color of May 24"
 date: "2026-05-24"
 updated: "2026-05-24"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "brandy punch"
 description: "The birthday color for May 24 is Dark Turquoise (3F97AF). Its meaning is Profound, Mysterious, Creative."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiseBxbtbsHLoA8u-9HOx2avaAel2ypzPXJAsyUDx1R_TTAo8flv7JRfvFvFu0dVMrotlZ1pFQphfPkER7MYiH6OmdtLZuB_ichWI_lbBH0HS7YR01vDlQIM-PtAXp7cuClys0kc9_op-d1eFgZi5UXTaqaD9R1l54x0zSyH5bNF5QcG77mzmQtwl0zK3Xy=s1600"
 en_name: "DarkTurquoise"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiseBxbtbsHLoA8u-9HOx2avaAel2ypzPXJAsyUDx1R_TTAo8flv7JRfvFvFu0dVMrotlZ1pFQphfPkER7MYiH6OmdtLZuB_ichWI_lbBH0HS7YR01vDlQIM-PtAXp7cuClys0kc9_op-d1eFgZi5UXTaqaD9R1l54x0zSyH5bNF5QcG77mzmQtwl0zK3Xy=s1600)
-
 
 ## Birthday Color for May 24: Dark Turquoise (`#3F97AF`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhCT0vOg3A4nAkLdgTg76GtOpvM_bxycG63hmeHMN9Yz6AMevl2H7cIUlGnBAB6rJdS_9vMOLJbuu3ZbSOnfyIUXwoaGXIlBPKmavrR_204Re32PjtsbfhNPRi684ymlT8oZtpE737exCoJhhJPbFcx-xIK3rsCUt_jUcZSI1_kWC8D7NyEm4XzptVJcKka=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープストロベリーミルク、3月20日の誕生色"
 date: "2026-03-20"
 updated: "2026-03-20"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "シャムロックグリーン"
 description: "3月20日の誕生色 ディープストロベリーミルク(FF6FBD)。色言葉は「情熱的、活気、魅力的」です。相性の良い色はシャムロックグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhCT0vOg3A4nAkLdgTg76GtOpvM_bxycG63hmeHMN9Yz6AMevl2H7cIUlGnBAB6rJdS_9vMOLJbuu3ZbSOnfyIUXwoaGXIlBPKmavrR_204Re32PjtsbfhNPRi684ymlT8oZtpE737exCoJhhJPbFcx-xIK3rsCUt_jUcZSI1_kWC8D7NyEm4XzptVJcKka=s1600"
 en_name: "Deep Strawberry Milk"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhCT0vOg3A4nAkLdgTg76GtOpvM_bxycG63hmeHMN9Yz6AMevl2H7cIUlGnBAB6rJdS_9vMOLJbuu3ZbSOnfyIUXwoaGXIlBPKmavrR_204Re32PjtsbfhNPRi684ymlT8oZtpE737exCoJhhJPbFcx-xIK3rsCUt_jUcZSI1_kWC8D7NyEm4XzptVJcKka=s1600)
-
 
 ## 3月20日の誕生色: ディープストロベリーミルク (`#FF6FBD`)
 

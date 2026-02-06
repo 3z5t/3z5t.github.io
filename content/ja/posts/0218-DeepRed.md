@@ -1,21 +1,24 @@
 ---
-"title": "ディープレッド、2月18日の誕生色"
-"date": "2026-02-18"
-"updated": "2026-02-18"
-"labels":
-- "ディープレッド"
-- "誕生色"
-- "2月18日"
-- "F3392C"
-- "2月"
-- "ノーブルスカイブルー"
-"description": "2月18日の誕生色 ディープレッド(F3392C)。色言葉は「チャレンジ精神、勇気、決断力」です。相性の良い色はノーブルスカイブルーです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEi4sHqhw7eDs0S7BzlGWREWVwx3Lm7o9TxuXI1Z5AKr45VLbWZtGBWZOcVcg0ObIS7M4OrkffuTsN2XUU_BTzFPR_weMOHYZ93wPhePhCN_t15Hh6IutN_aCYt2U7V8kSoFtVK0ZDAz4yAaw5pe-5ReQPl6b4fGWdpxkcdBangIBe7StmmoyMBKsY-bvlPy=s1600"
-"en_name": "Deep Red"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "5496707049048509900"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/218-deep-red.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi4sHqhw7eDs0S7BzlGWREWVwx3Lm7o9TxuXI1Z5AKr45VLbWZtGBWZOcVcg0ObIS7M4OrkffuTsN2XUU_BTzFPR_weMOHYZ93wPhePhCN_t15Hh6IutN_aCYt2U7V8kSoFtVK0ZDAz4yAaw5pe-5ReQPl6b4fGWdpxkcdBangIBe7StmmoyMBKsY-bvlPy=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ディープレッド、2月18日の誕生色"
+date: "2026-02-18"
+updated: "2026-02-18"
+tags:
+  - "ディープレッド"
+  - "誕生色"
+  - "2月18日"
+  - "F3392C"
+  - "2月"
+  - "ノーブルスカイブルー"
+description: "2月18日の誕生色 ディープレッド(F3392C)。色言葉は「チャレンジ精神、勇気、決断力」です。相性の良い色はノーブルスカイブルーです。"
+en_name: "Deep Red"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "5496707049048509900"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/218-deep-red.html"
 ---
 
 ## 2月18日の誕生色: ディープレッド (`#F3392C`)

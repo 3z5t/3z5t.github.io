@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhMlUCD3PHlXCEh-MAPU4xBNrj9D65GYM1_-YRUuDCmz_dUaAIsW_05kr_ObyetknIi9QtrrIMlScAR6qjgPerJbkH5btsdwDUz-4trt55nWkL2jdef8QLDdYcxsW5-ix9Z-teZ6O6aiFRQJQTmE-vVWSkl3fjPtKGrfqgl2n5XXv9EdwRwGFwYOHsws1Ab=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ウィンターリーブス、11月12日の誕生色"
 date: "2026-11-12"
 updated: "2026-11-12"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "ムースグレー"
 description: "11月12日の誕生色 ウィンターリーブス(706863)。色言葉は「郷愁、感性的、叙情的」です。相性の良い色はムースグレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhMlUCD3PHlXCEh-MAPU4xBNrj9D65GYM1_-YRUuDCmz_dUaAIsW_05kr_ObyetknIi9QtrrIMlScAR6qjgPerJbkH5btsdwDUz-4trt55nWkL2jdef8QLDdYcxsW5-ix9Z-teZ6O6aiFRQJQTmE-vVWSkl3fjPtKGrfqgl2n5XXv9EdwRwGFwYOHsws1Ab=s1600"
 en_name: "Winter Leaves"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhMlUCD3PHlXCEh-MAPU4xBNrj9D65GYM1_-YRUuDCmz_dUaAIsW_05kr_ObyetknIi9QtrrIMlScAR6qjgPerJbkH5btsdwDUz-4trt55nWkL2jdef8QLDdYcxsW5-ix9Z-teZ6O6aiFRQJQTmE-vVWSkl3fjPtKGrfqgl2n5XXv9EdwRwGFwYOHsws1Ab=s1600)
-
 
 ## 11月12日の誕生色: ウィンターリーブス (`#706863`)
 

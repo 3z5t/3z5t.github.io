@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh6aImBElyYklyufsjTzAWD0bj4cG15-oLERKyGdgqhj7YIJBXpevL5rst1trSFbtnuGHQPvJWfdII9yGBfzdQXHyZj9Pxt5nlVRBfyll1xkkde8UplketovGZQAWmmca_9-hW25j1cv7KSFIjFGQRGNSXydY1lSD6eGOqGaYicXJk5usYh_dc-ti54-_Jg=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "レッドブラウン、10月25日の誕生色"
 date: "2026-10-25"
 updated: "2026-10-25"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "クリアスカイ"
 description: "10月25日の誕生色 レッドブラウン(6C1818)。色言葉は「強靭な意志、堅固、決断力」です。相性の良い色はクリアスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh6aImBElyYklyufsjTzAWD0bj4cG15-oLERKyGdgqhj7YIJBXpevL5rst1trSFbtnuGHQPvJWfdII9yGBfzdQXHyZj9Pxt5nlVRBfyll1xkkde8UplketovGZQAWmmca_9-hW25j1cv7KSFIjFGQRGNSXydY1lSD6eGOqGaYicXJk5usYh_dc-ti54-_Jg=s1600"
 en_name: "Red Brown"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh6aImBElyYklyufsjTzAWD0bj4cG15-oLERKyGdgqhj7YIJBXpevL5rst1trSFbtnuGHQPvJWfdII9yGBfzdQXHyZj9Pxt5nlVRBfyll1xkkde8UplketovGZQAWmmca_9-hW25j1cv7KSFIjFGQRGNSXydY1lSD6eGOqGaYicXJk5usYh_dc-ti54-_Jg=s1600)
-
 
 ## 10月25日の誕生色: レッドブラウン (`#6C1818`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjg018ss3FF21HFyd0Jcp4Ba9iCNhFTfM_wrVuFdJnvSaHlXLojCw5X4Er4dOL-gjCrgixOYQfV9HjIFMsuDlVV1JKLmhRb88Bv1htsMJkfogSTYJm_Pmj0NGuKqK4z3pmouFSNfzHupXyI7CRCzvVvQSqoWcBspo5Ahra6ixLGLWrS5IMW98k44yJi87h1=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Leaf Green, The Birthday Color of March 9"
 date: "2026-03-09"
 updated: "2026-03-09"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "soft light purple"
 description: "The birthday color for March 9 is Leaf Green (587D4A). Its meaning is Nature-friendly, Balanced, Inclusive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjg018ss3FF21HFyd0Jcp4Ba9iCNhFTfM_wrVuFdJnvSaHlXLojCw5X4Er4dOL-gjCrgixOYQfV9HjIFMsuDlVV1JKLmhRb88Bv1htsMJkfogSTYJm_Pmj0NGuKqK4z3pmouFSNfzHupXyI7CRCzvVvQSqoWcBspo5Ahra6ixLGLWrS5IMW98k44yJi87h1=s1600"
 en_name: "LeafGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjg018ss3FF21HFyd0Jcp4Ba9iCNhFTfM_wrVuFdJnvSaHlXLojCw5X4Er4dOL-gjCrgixOYQfV9HjIFMsuDlVV1JKLmhRb88Bv1htsMJkfogSTYJm_Pmj0NGuKqK4z3pmouFSNfzHupXyI7CRCzvVvQSqoWcBspo5Ahra6ixLGLWrS5IMW98k44yJi87h1=s1600)
-
 
 ## Birthday Color for March 9: Leaf Green (`#587D4A`)
 

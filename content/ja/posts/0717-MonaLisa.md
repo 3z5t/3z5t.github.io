@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj_i_oZ9UWxlLpA7OkhJwZhpiDJGxqUqfQDUHk11hyeo71z390spdaSHgak-ro1mGCwDyoGy5rr6Xh0CLsZ5rY_RRNq8csmAQlfRw8V6Jny_pMRkaIASixUB3sjN_5ZN8i8ON1kYMKMGRhI3ECCJx6T3mUSpvekPmlFMrYGiLM10VJ2jR-yFaOepO4ynqOn=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "モナリザ、7月17日の誕生色"
 date: "2026-07-17"
 updated: "2026-07-17"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "ブルーラグーン"
 description: "7月17日の誕生色 モナリザ(FF9999)。色言葉は「芸術的、美しい、バランスの取れた」です。相性の良い色はブルーラグーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj_i_oZ9UWxlLpA7OkhJwZhpiDJGxqUqfQDUHk11hyeo71z390spdaSHgak-ro1mGCwDyoGy5rr6Xh0CLsZ5rY_RRNq8csmAQlfRw8V6Jny_pMRkaIASixUB3sjN_5ZN8i8ON1kYMKMGRhI3ECCJx6T3mUSpvekPmlFMrYGiLM10VJ2jR-yFaOepO4ynqOn=s1600"
 en_name: "Mona Lisa"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj_i_oZ9UWxlLpA7OkhJwZhpiDJGxqUqfQDUHk11hyeo71z390spdaSHgak-ro1mGCwDyoGy5rr6Xh0CLsZ5rY_RRNq8csmAQlfRw8V6Jny_pMRkaIASixUB3sjN_5ZN8i8ON1kYMKMGRhI3ECCJx6T3mUSpvekPmlFMrYGiLM10VJ2jR-yFaOepO4ynqOn=s1600)
-
 
 ## 7月17日の誕生色: モナリザ (`#FF9999`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi6q2l5ufroFH7mZjvyBszDbk6dFEb9lgedr3-gEoBvOrhQa7TsK6xtEeDbpvjsqoiqaS4plBcIF6AVJb7naF-GAcj20-8obQgttdxxZtM9SKK1B7nk5tQHlO3Gor3gQbSTNMDfAvy5dj3yBkrU4e8xzkjVPyDV9u5bA3Qcx5bx2qtX7zIBYiQ7_30_3eIY=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Ivory, The Birthday Color of August 11"
 date: "2026-08-11"
 updated: "2026-08-11"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "midnight navy"
 description: "The birthday color for August 11 is Ivory (FFF3D4). Its meaning is Wise, Classical, Dignified."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi6q2l5ufroFH7mZjvyBszDbk6dFEb9lgedr3-gEoBvOrhQa7TsK6xtEeDbpvjsqoiqaS4plBcIF6AVJb7naF-GAcj20-8obQgttdxxZtM9SKK1B7nk5tQHlO3Gor3gQbSTNMDfAvy5dj3yBkrU4e8xzkjVPyDV9u5bA3Qcx5bx2qtX7zIBYiQ7_30_3eIY=s1600"
 en_name: "Ivory"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi6q2l5ufroFH7mZjvyBszDbk6dFEb9lgedr3-gEoBvOrhQa7TsK6xtEeDbpvjsqoiqaS4plBcIF6AVJb7naF-GAcj20-8obQgttdxxZtM9SKK1B7nk5tQHlO3Gor3gQbSTNMDfAvy5dj3yBkrU4e8xzkjVPyDV9u5bA3Qcx5bx2qtX7zIBYiQ7_30_3eIY=s1600)
-
 
 ## Birthday Color for August 11: Ivory (`#FFF3D4`)
 

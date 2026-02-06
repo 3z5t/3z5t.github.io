@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEibyv3l6d-MMJhx2M3VK99t9nOqZ-GKUJ84qxvn2p1XjaYLINmqW-ebqIYSCE8svOEEvK6kz5RZ5eG0KNvY4dOFfvcGpFhnvL6cVWJ8GB0eaw7kJw1yae6yVme74wuZoVK6QSa5jrOG-Y3Afe6WH1KAjNEhm-Cn6-e9I1sQxKjAoKdmY0TKpkMCYQXyTffI=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Soft Ochre, The Birthday Color of October 19"
 date: "2026-10-19"
 updated: "2026-10-19"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "picton blue"
 description: "The birthday color for October 19 is Soft Ochre (926630). Its meaning is Earth-like, Abundant, Stable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEibyv3l6d-MMJhx2M3VK99t9nOqZ-GKUJ84qxvn2p1XjaYLINmqW-ebqIYSCE8svOEEvK6kz5RZ5eG0KNvY4dOFfvcGpFhnvL6cVWJ8GB0eaw7kJw1yae6yVme74wuZoVK6QSa5jrOG-Y3Afe6WH1KAjNEhm-Cn6-e9I1sQxKjAoKdmY0TKpkMCYQXyTffI=s1600"
 en_name: "SoftOchre"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEibyv3l6d-MMJhx2M3VK99t9nOqZ-GKUJ84qxvn2p1XjaYLINmqW-ebqIYSCE8svOEEvK6kz5RZ5eG0KNvY4dOFfvcGpFhnvL6cVWJ8GB0eaw7kJw1yae6yVme74wuZoVK6QSa5jrOG-Y3Afe6WH1KAjNEhm-Cn6-e9I1sQxKjAoKdmY0TKpkMCYQXyTffI=s1600)
-
 
 ## Birthday Color for October 19: Soft Ochre (`#926630`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiIn4WBbRi_AvIpqPnsPKtMb5_sA9O0xzAsUk7ghbYnly6v93V9qBg8RRWOTL7vK3w6qLmAtLAd-3AeYp6kNJb72fF9Sr8XcohrKdbWD5dJwpzEFA1pg0VqGFMDY83cgSaK68WGtJ_8xAOLB2xBYDCD5lU1owutWymQOpz0OI7_kchO8wbLt2gWXRh34u4D=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "オータムピンク、8月31日の誕生色"
 date: "2026-08-31"
 updated: "2026-08-31"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "ブルーミンググリーン"
 description: "8月31日の誕生色 オータムピンク(CC8F8A)。色言葉は「感性的、叙情的、ロマンチック」です。相性の良い色はブルーミンググリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiIn4WBbRi_AvIpqPnsPKtMb5_sA9O0xzAsUk7ghbYnly6v93V9qBg8RRWOTL7vK3w6qLmAtLAd-3AeYp6kNJb72fF9Sr8XcohrKdbWD5dJwpzEFA1pg0VqGFMDY83cgSaK68WGtJ_8xAOLB2xBYDCD5lU1owutWymQOpz0OI7_kchO8wbLt2gWXRh34u4D=s1600"
 en_name: "Autumn Pink"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiIn4WBbRi_AvIpqPnsPKtMb5_sA9O0xzAsUk7ghbYnly6v93V9qBg8RRWOTL7vK3w6qLmAtLAd-3AeYp6kNJb72fF9Sr8XcohrKdbWD5dJwpzEFA1pg0VqGFMDY83cgSaK68WGtJ_8xAOLB2xBYDCD5lU1owutWymQOpz0OI7_kchO8wbLt2gWXRh34u4D=s1600)
-
 
 ## 8月31日の誕生色: オータムピンク (`#CC8F8A`)
 

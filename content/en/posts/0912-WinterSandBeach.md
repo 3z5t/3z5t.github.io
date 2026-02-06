@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhR3-lcGRUXl_q8ywXOadpozQmwN3YAqYqS1FjA1RO5OBx7xoP3VDfu7vW0gZ5aRwv3frd4h-sdEqccY4kGAPO_hjyQTE_WnslsF9Enn3nfpeVGBsKfeaC8DcqStw1OJnC0UspyLxNb66UeXXx0k9I9K0ac0J5FrfhwxRvCj1NGd0jhclgzpPcjFL0z-dAt=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Winter Sand Beach, The Birthday Color of September 12"
 date: "2026-09-12"
 updated: "2026-09-12"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "charcoal"
 description: "The birthday color for September 12 is Winter Sand Beach (CEB9AB). Its meaning is Cozy, Stable, Warm."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhR3-lcGRUXl_q8ywXOadpozQmwN3YAqYqS1FjA1RO5OBx7xoP3VDfu7vW0gZ5aRwv3frd4h-sdEqccY4kGAPO_hjyQTE_WnslsF9Enn3nfpeVGBsKfeaC8DcqStw1OJnC0UspyLxNb66UeXXx0k9I9K0ac0J5FrfhwxRvCj1NGd0jhclgzpPcjFL0z-dAt=s1600"
 en_name: "WinterSandBeach"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhR3-lcGRUXl_q8ywXOadpozQmwN3YAqYqS1FjA1RO5OBx7xoP3VDfu7vW0gZ5aRwv3frd4h-sdEqccY4kGAPO_hjyQTE_WnslsF9Enn3nfpeVGBsKfeaC8DcqStw1OJnC0UspyLxNb66UeXXx0k9I9K0ac0J5FrfhwxRvCj1NGd0jhclgzpPcjFL0z-dAt=s1600)
-
 
 ## Birthday Color for September 12: Winter Sand Beach (`#CEB9AB`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgiAXyQFCVhItn_CIcANph2-HPhCWNR6AkFgzntaCCbJ-BJk6j-vk76AkitvfwOCoyzKdwFKSANQXgtApkt88utU4eGEpRYc_2TMGDJNSm62vZMTOdfUV8oLeQ2-30TAFvOlgAJ8Mp-ObeFEUZ_GwO5wIQof2S4nQ20eRil8VZfasrXo7-Nmci5I_EoYVNZ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ダークカーキ、10月28日の誕生色"
 date: "2026-10-28"
 updated: "2026-10-28"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "エレガントウルトラマリン"
 description: "10月28日の誕生色 ダークカーキ(BDB76B)。色言葉は「大地のような、安定、平和」です。相性の良い色はエレガントウルトラマリンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgiAXyQFCVhItn_CIcANph2-HPhCWNR6AkFgzntaCCbJ-BJk6j-vk76AkitvfwOCoyzKdwFKSANQXgtApkt88utU4eGEpRYc_2TMGDJNSm62vZMTOdfUV8oLeQ2-30TAFvOlgAJ8Mp-ObeFEUZ_GwO5wIQof2S4nQ20eRil8VZfasrXo7-Nmci5I_EoYVNZ=s1600"
 en_name: "Dark Khaki"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgiAXyQFCVhItn_CIcANph2-HPhCWNR6AkFgzntaCCbJ-BJk6j-vk76AkitvfwOCoyzKdwFKSANQXgtApkt88utU4eGEpRYc_2TMGDJNSm62vZMTOdfUV8oLeQ2-30TAFvOlgAJ8Mp-ObeFEUZ_GwO5wIQof2S4nQ20eRil8VZfasrXo7-Nmci5I_EoYVNZ=s1600)
-
 
 ## 10月28日の誕生色: ダークカーキ (`#BDB76B`)
 

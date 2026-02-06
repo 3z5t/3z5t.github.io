@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEifiXKkmsAUolnQqs6atYBeiuzySpEWj22jyKItAldOaQAkgWnx5oNF-GGDMRCvq-YDi520gz7I0LpwkyBNdqUebNk61lBEaqMEwcznYHAPs_mJloaDWzGmmY36Y73YBnhwMAnoi1Tcorl2nq4Ne2ykkCiOGbLdr_vluAPKMORDbU1trVht5iUDvNk_cwO0=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ピーチヨーグルト、6月4日の誕生色"
 date: "2026-06-04"
 updated: "2026-06-04"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "スチールネイビー"
 description: "6月4日の誕生色 ピーチヨーグルト(FFC1B5)。色言葉は「爽やか、純粋、親しみ」です。相性の良い色はスチールネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEifiXKkmsAUolnQqs6atYBeiuzySpEWj22jyKItAldOaQAkgWnx5oNF-GGDMRCvq-YDi520gz7I0LpwkyBNdqUebNk61lBEaqMEwcznYHAPs_mJloaDWzGmmY36Y73YBnhwMAnoi1Tcorl2nq4Ne2ykkCiOGbLdr_vluAPKMORDbU1trVht5iUDvNk_cwO0=s1600"
 en_name: "Peach Yogurt"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEifiXKkmsAUolnQqs6atYBeiuzySpEWj22jyKItAldOaQAkgWnx5oNF-GGDMRCvq-YDi520gz7I0LpwkyBNdqUebNk61lBEaqMEwcznYHAPs_mJloaDWzGmmY36Y73YBnhwMAnoi1Tcorl2nq4Ne2ykkCiOGbLdr_vluAPKMORDbU1trVht5iUDvNk_cwO0=s1600)
-
 
 ## 6月4日の誕生色: ピーチヨーグルト (`#FFC1B5`)
 

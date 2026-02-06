@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjJKxl-0h9PQQyOObTmi24-IBJYix1VSyHhikpZuK-YJuOKyyzk8F7XCZjREVSVAMor1BJmg7FC5hgxM3yDb907VFn1xk4orgh5InuBozeQJprc4qywz6DaMdek0KBjAlstpjh60JLNmqTp86CRALoG0oYeyNqQiLKPrfoBd6pj01JXFtViWXo_0Ro1pDfe=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "プルシアングリーン、5月25日の誕生色"
 date: "2026-05-25"
 updated: "2026-05-25"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "コーラルレッド"
 description: "5月25日の誕生色 プルシアングリーン(009999)。色言葉は「バランスの取れた、安定、調和」です。相性の良い色はコーラルレッドです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjJKxl-0h9PQQyOObTmi24-IBJYix1VSyHhikpZuK-YJuOKyyzk8F7XCZjREVSVAMor1BJmg7FC5hgxM3yDb907VFn1xk4orgh5InuBozeQJprc4qywz6DaMdek0KBjAlstpjh60JLNmqTp86CRALoG0oYeyNqQiLKPrfoBd6pj01JXFtViWXo_0Ro1pDfe=s1600"
 en_name: "Prussian Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjJKxl-0h9PQQyOObTmi24-IBJYix1VSyHhikpZuK-YJuOKyyzk8F7XCZjREVSVAMor1BJmg7FC5hgxM3yDb907VFn1xk4orgh5InuBozeQJprc4qywz6DaMdek0KBjAlstpjh60JLNmqTp86CRALoG0oYeyNqQiLKPrfoBd6pj01JXFtViWXo_0Ro1pDfe=s1600)
-
 
 ## 5月25日の誕生色: プルシアングリーン (`#009999`)
 

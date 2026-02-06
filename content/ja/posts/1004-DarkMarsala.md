@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi-dbb6gRKaXdcW9onjIIYKvZaFNAQ-otUvyJktgpQEWAvxwS7oXaJtfBY8mMea9IY2odlnl_lbsZGF4WQyhrCGHT0k0-9eRQo5hPjOJRI7N8MHdMYrSr208X0bK4TpXLVyHv9FMBzs45tvPMamFIGcOtrofKnuem6OAfWYuWmNvspAoHcvPwgCqlScqjMn=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ダークマルサラ、10月4日の誕生色"
 date: "2026-10-04"
 updated: "2026-10-04"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "オータムスカイ"
 description: "10月4日の誕生色 ダークマルサラ(A4665D)。色言葉は「深みのある、豊かさ、安定」です。相性の良い色はオータムスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi-dbb6gRKaXdcW9onjIIYKvZaFNAQ-otUvyJktgpQEWAvxwS7oXaJtfBY8mMea9IY2odlnl_lbsZGF4WQyhrCGHT0k0-9eRQo5hPjOJRI7N8MHdMYrSr208X0bK4TpXLVyHv9FMBzs45tvPMamFIGcOtrofKnuem6OAfWYuWmNvspAoHcvPwgCqlScqjMn=s1600"
 en_name: "Dark Marsala"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi-dbb6gRKaXdcW9onjIIYKvZaFNAQ-otUvyJktgpQEWAvxwS7oXaJtfBY8mMea9IY2odlnl_lbsZGF4WQyhrCGHT0k0-9eRQo5hPjOJRI7N8MHdMYrSr208X0bK4TpXLVyHv9FMBzs45tvPMamFIGcOtrofKnuem6OAfWYuWmNvspAoHcvPwgCqlScqjMn=s1600)
-
 
 ## 10月3日の誕生色: クラシックレッド (`#C61400`)
 

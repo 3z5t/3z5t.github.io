@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgvCKxjxLKdp62B9QOUfT_sKe0fbCaxrytWaMKnYm4jS620-oMdhSh49KpQ8WhFYY_fFWLeaLbKBw-8E4cnBwlqMa7IRJqyJybqNuHbJppz1Hav8GUAypGfEdmvWbdcGJ9S6amI6m3I8UTBPWkv1jsC53DwYeN7W573rhETk2VdK_TDSqmNeHxdDolx2sqq=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Volcano Brown, The Birthday Color of September 29"
 date: "2026-09-29"
 updated: "2026-09-29"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "moose gray"
 description: "The birthday color for September 29 is Volcano Brown (675853). Its meaning is Strong Will, Solid Heart, Decisive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgvCKxjxLKdp62B9QOUfT_sKe0fbCaxrytWaMKnYm4jS620-oMdhSh49KpQ8WhFYY_fFWLeaLbKBw-8E4cnBwlqMa7IRJqyJybqNuHbJppz1Hav8GUAypGfEdmvWbdcGJ9S6amI6m3I8UTBPWkv1jsC53DwYeN7W573rhETk2VdK_TDSqmNeHxdDolx2sqq=s1600"
 en_name: "VolcanoBrown"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgvCKxjxLKdp62B9QOUfT_sKe0fbCaxrytWaMKnYm4jS620-oMdhSh49KpQ8WhFYY_fFWLeaLbKBw-8E4cnBwlqMa7IRJqyJybqNuHbJppz1Hav8GUAypGfEdmvWbdcGJ9S6amI6m3I8UTBPWkv1jsC53DwYeN7W573rhETk2VdK_TDSqmNeHxdDolx2sqq=s1600)
-
 
 ## Birthday Color for September 29: Volcano Brown (`#675853`)
 

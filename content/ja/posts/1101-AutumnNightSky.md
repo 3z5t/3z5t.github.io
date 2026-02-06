@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhFc4A_swxPRBwTJK_5OuLdbZNyfX3BApd_M4bbeRsjdjvH_RX2KkCsxB97vVDZhc0Nr7nhpAESMu8JJ5ZYCSg23K85Gh2znpy1EOU8N0iTDTLwONuR2k8I66fi8h6vMzQqnwxZGl7j0scyRgPYcBeKVxlBUQOBIDxi6F6-NF6nd3YDnhShN0-zHb1FcMO0=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "オータムナイトスカイ、11月1日の誕生色"
 date: "2026-11-01"
 updated: "2026-11-01"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "シルバーアンティーク"
 description: "11月1日の誕生色 オータムナイトスカイ(3C3232)。色言葉は「思索的、瞑想的、洞察力」です。相性の良い色はシルバーアンティークです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhFc4A_swxPRBwTJK_5OuLdbZNyfX3BApd_M4bbeRsjdjvH_RX2KkCsxB97vVDZhc0Nr7nhpAESMu8JJ5ZYCSg23K85Gh2znpy1EOU8N0iTDTLwONuR2k8I66fi8h6vMzQqnwxZGl7j0scyRgPYcBeKVxlBUQOBIDxi6F6-NF6nd3YDnhShN0-zHb1FcMO0=s1600"
 en_name: "Autumn Night Sky"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhFc4A_swxPRBwTJK_5OuLdbZNyfX3BApd_M4bbeRsjdjvH_RX2KkCsxB97vVDZhc0Nr7nhpAESMu8JJ5ZYCSg23K85Gh2znpy1EOU8N0iTDTLwONuR2k8I66fi8h6vMzQqnwxZGl7j0scyRgPYcBeKVxlBUQOBIDxi6F6-NF6nd3YDnhShN0-zHb1FcMO0=s1600)
-
 
 ## 11月1日の誕生色: オータムナイトスカイ (`#3C3232`)
 

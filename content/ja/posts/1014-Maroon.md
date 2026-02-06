@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhCUCKD_OgNOOw2_wNA5UPPXYYSKLJjcIMLIeZ3rnnSWEeWv1z3wciADfS8Ua3A1oIt35jeXrf9NEOrjybjuiHRAAKEIVWMcTY4sY9hacbilFM0ZZaQSciqVQC_qV_lCX2da4hOOncJaoxCe21Wak_kfvGob360VVoE-AR7N0PvD52RXsz0fMa687kqgMBB=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "マルーン、10月14日の誕生色"
 date: "2026-10-14"
 updated: "2026-10-14"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "ベビーブルー"
 description: "10月14日の誕生色 マルーン(800000)。色言葉は「安定、成熟、賢明」です。相性の良い色はベビーブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhCUCKD_OgNOOw2_wNA5UPPXYYSKLJjcIMLIeZ3rnnSWEeWv1z3wciADfS8Ua3A1oIt35jeXrf9NEOrjybjuiHRAAKEIVWMcTY4sY9hacbilFM0ZZaQSciqVQC_qV_lCX2da4hOOncJaoxCe21Wak_kfvGob360VVoE-AR7N0PvD52RXsz0fMa687kqgMBB=s1600"
 en_name: "Maroon"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhCUCKD_OgNOOw2_wNA5UPPXYYSKLJjcIMLIeZ3rnnSWEeWv1z3wciADfS8Ua3A1oIt35jeXrf9NEOrjybjuiHRAAKEIVWMcTY4sY9hacbilFM0ZZaQSciqVQC_qV_lCX2da4hOOncJaoxCe21Wak_kfvGob360VVoE-AR7N0PvD52RXsz0fMa687kqgMBB=s1600)
-
 
 ## 10月14日の誕生色: マルーン (`#800000`)
 

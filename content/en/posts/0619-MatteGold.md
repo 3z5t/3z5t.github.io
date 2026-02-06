@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj7psr7rPagtYfXbWikwenz_jXAoyAzD9-HVGGfLvrqhMko5QXyRDzcuPCYPqIm6ACmONItKbL_YSz8HcFlRVxwsZAlqdycNxPHAVrzglL7zzPuasYYMWjPhsKg71iZpQ_iYmhDNoW6in62Biu6TC6ZxIi9SVlpFkaGErfBbGNt8n49ng3DUuhfk0942DTD=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Matte Gold, The Birthday Color of June 19"
 date: "2026-06-19"
 updated: "2026-06-19"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "royal blue"
 description: "The birthday color for June 19 is Matte Gold (DD9330). Its meaning is Abundance, Stability, Depth."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj7psr7rPagtYfXbWikwenz_jXAoyAzD9-HVGGfLvrqhMko5QXyRDzcuPCYPqIm6ACmONItKbL_YSz8HcFlRVxwsZAlqdycNxPHAVrzglL7zzPuasYYMWjPhsKg71iZpQ_iYmhDNoW6in62Biu6TC6ZxIi9SVlpFkaGErfBbGNt8n49ng3DUuhfk0942DTD=s1600"
 en_name: "MatteGold"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj7psr7rPagtYfXbWikwenz_jXAoyAzD9-HVGGfLvrqhMko5QXyRDzcuPCYPqIm6ACmONItKbL_YSz8HcFlRVxwsZAlqdycNxPHAVrzglL7zzPuasYYMWjPhsKg71iZpQ_iYmhDNoW6in62Biu6TC6ZxIi9SVlpFkaGErfBbGNt8n49ng3DUuhfk0942DTD=s1600)
-
 
 ## Birthday Color for June 19: Matte Gold (`#DD9330`)
 

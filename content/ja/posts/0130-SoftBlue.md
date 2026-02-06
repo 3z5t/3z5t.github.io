@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-30'
-description: 1月30日の誕生色 ソフトブルー(99CCFF)。色言葉は「自由奔放、開放的、平和」です。相性の良い色はブラウンです。
-en_name: Soft Blue
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgsJPJOS1JhRkXcmNFgJFJ9RGrfunBQXcdggZlzw5i9oSyQEOG8RXFEdWvLbSp7pYFKEPEAA5YitWop0T1JqKbfu4NgDsarM9sX6gbS4M7iqscC4tqVqw0Y6tK7thrmO7B8oSf_lhc5HNmNlD_ASGSKmbsDCiUC8l9sti0OkuF-mARC3roSXUJ0nv4HD4rE=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-30"
+description: "1月30日の誕生色 ソフトブルー(99CCFF)。色言葉は「自由奔放、開放的、平和」です。相性の良い色はブラウンです。"
+en_name: "Soft Blue"
 tags:
-- ソフトブルー
-- 誕生色
-- 1月30日
-- 99CCFF
-- 1月
-- ブラウン
-postId: '243854934319250161'
-postUrl: https://the366days-ja.blogspot.com/2026/01/130-soft-blue.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgsJPJOS1JhRkXcmNFgJFJ9RGrfunBQXcdggZlzw5i9oSyQEOG8RXFEdWvLbSp7pYFKEPEAA5YitWop0T1JqKbfu4NgDsarM9sX6gbS4M7iqscC4tqVqw0Y6tK7thrmO7B8oSf_lhc5HNmNlD_ASGSKmbsDCiUC8l9sti0OkuF-mARC3roSXUJ0nv4HD4rE=s1600
-title: ソフトブルー、1月30日の誕生色
-updated: '2026-01-30'
+  - "ソフトブルー"
+  - "誕生色"
+  - "1月30日"
+  - "99CCFF"
+  - "1月"
+  - "ブラウン"
+postId: "243854934319250161"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/130-soft-blue.html"
+profileName: "日々のカケラ"
+title: "ソフトブルー、1月30日の誕生色"
+updated: "2026-01-30"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgsJPJOS1JhRkXcmNFgJFJ9RGrfunBQXcdggZlzw5i9oSyQEOG8RXFEdWvLbSp7pYFKEPEAA5YitWop0T1JqKbfu4NgDsarM9sX6gbS4M7iqscC4tqVqw0Y6tK7thrmO7B8oSf_lhc5HNmNlD_ASGSKmbsDCiUC8l9sti0OkuF-mARC3roSXUJ0nv4HD4rE=s1600)
-
 
 ## 1月30日の誕生色: ソフトブルー (`#99CCFF`)
 

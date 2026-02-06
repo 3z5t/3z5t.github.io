@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhWM3xhCsMSRUoXRxnhFzDyGjoeoPMETXHcXmqnYrl2PKqnptm2eR6m2jIb8sLyKRzCGkOdkYkj9e2EGzHpaxpd3lkPrEvKnlSG4V1oBBD_1QhqQ8HDsEYfLgvg8fbHQiTOdnbwfxlxM_VKY4cd8cnBpoLscuIqjZqshstofteTjsuJH4mFgQukRdE7S39I=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Vintage Navy, The Birthday Color of December 26"
 date: "2026-12-26"
 updated: "2026-12-26"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "satin gray"
 description: "The birthday color for December 26 is Vintage Navy (494960). Its meaning is Profound, Stable, Introspective."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhWM3xhCsMSRUoXRxnhFzDyGjoeoPMETXHcXmqnYrl2PKqnptm2eR6m2jIb8sLyKRzCGkOdkYkj9e2EGzHpaxpd3lkPrEvKnlSG4V1oBBD_1QhqQ8HDsEYfLgvg8fbHQiTOdnbwfxlxM_VKY4cd8cnBpoLscuIqjZqshstofteTjsuJH4mFgQukRdE7S39I=s1600"
 en_name: "VintageNavy"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhWM3xhCsMSRUoXRxnhFzDyGjoeoPMETXHcXmqnYrl2PKqnptm2eR6m2jIb8sLyKRzCGkOdkYkj9e2EGzHpaxpd3lkPrEvKnlSG4V1oBBD_1QhqQ8HDsEYfLgvg8fbHQiTOdnbwfxlxM_VKY4cd8cnBpoLscuIqjZqshstofteTjsuJH4mFgQukRdE7S39I=s1600)
-
 
 ## Birthday Color for December 26: Vintage Navy (`#494960`)
 

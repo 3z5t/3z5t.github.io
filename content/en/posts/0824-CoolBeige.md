@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi83A6gMUGHrlaFj23AaCcQ14TqKCYkXsIiM_b_s-fMgKKySKadFvxo_3JC4rSJs5PSzMiIS0nfcquGKm1pFfnuGn2fknpVOM_x05HwAmzlGyTgeXB4Ou69wj1QJdHk1qTNkhYHpve0QHueDH5UIxRlOHPvnzFwwzdZlnHo3oaR8V_EUoj7vmTdb4Tu51zn=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Cool Beige, The Birthday Color of August 24"
 date: "2026-08-24"
 updated: "2026-08-24"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "slate green"
 description: "The birthday color for August 24 is Cool Beige (AF8E8A). Its meaning is Calm Personality, Intellectual, Mature."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi83A6gMUGHrlaFj23AaCcQ14TqKCYkXsIiM_b_s-fMgKKySKadFvxo_3JC4rSJs5PSzMiIS0nfcquGKm1pFfnuGn2fknpVOM_x05HwAmzlGyTgeXB4Ou69wj1QJdHk1qTNkhYHpve0QHueDH5UIxRlOHPvnzFwwzdZlnHo3oaR8V_EUoj7vmTdb4Tu51zn=s1600"
 en_name: "CoolBeige"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi83A6gMUGHrlaFj23AaCcQ14TqKCYkXsIiM_b_s-fMgKKySKadFvxo_3JC4rSJs5PSzMiIS0nfcquGKm1pFfnuGn2fknpVOM_x05HwAmzlGyTgeXB4Ou69wj1QJdHk1qTNkhYHpve0QHueDH5UIxRlOHPvnzFwwzdZlnHo3oaR8V_EUoj7vmTdb4Tu51zn=s1600)
-
 
 ## Birthday Color for August 24: Cool Beige (`#AF8E8A`)
 

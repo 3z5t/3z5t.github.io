@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgQJT22Q7IxyOM-0thEoUcuWMDIEB9cZp03KjIMkvTyprJ4xZ0qpz2g4b4AxZQkisthHZVXiQGhUJOPM2S_fB9VKIL6ZAe1jsxp0EnbB1rxjuqRUqELDa8kYygzjtRuv9KJB_RXuWWB4EVpK0_GVMBW98uVtvq2SLNZqLIc0EBMXvZeAb7fw2Y7gDRYEhFv=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Citrus, The Birthday Color of April 13"
 date: "2026-04-13"
 updated: "2026-04-13"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "pure blue"
 description: "The birthday color for April 13 is Citrus (99CC00). Its meaning is Refreshing, Energetic, Challenging."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgQJT22Q7IxyOM-0thEoUcuWMDIEB9cZp03KjIMkvTyprJ4xZ0qpz2g4b4AxZQkisthHZVXiQGhUJOPM2S_fB9VKIL6ZAe1jsxp0EnbB1rxjuqRUqELDa8kYygzjtRuv9KJB_RXuWWB4EVpK0_GVMBW98uVtvq2SLNZqLIc0EBMXvZeAb7fw2Y7gDRYEhFv=s1600"
 en_name: "Citrus"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgQJT22Q7IxyOM-0thEoUcuWMDIEB9cZp03KjIMkvTyprJ4xZ0qpz2g4b4AxZQkisthHZVXiQGhUJOPM2S_fB9VKIL6ZAe1jsxp0EnbB1rxjuqRUqELDa8kYygzjtRuv9KJB_RXuWWB4EVpK0_GVMBW98uVtvq2SLNZqLIc0EBMXvZeAb7fw2Y7gDRYEhFv=s1600)
-
 
 ## Birthday Color for April 13: Citrus (`#99CC00`)
 

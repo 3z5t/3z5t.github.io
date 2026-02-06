@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiiyObxCoIv6qzZZWZts_15T1A1auXtqllAK-YlFbTeTJ40Q2PPDZ0ewZtWbqQfi94ok2AF1nAYPW4amaFTYKSZ3rlCBoUK6reHm2QiqZeToxcmH3p2gucgyE9I3p-3bvGKt69QPtQ1pzRe8Rw5OCqqXrllwNBOW_xIX66Y3OrPnAVGf9L9tiCpFWMMb2hi=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ブルーラグーン、5月22日の誕生色"
 date: "2026-05-22"
 updated: "2026-05-22"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "モナリザ"
 description: "5月22日の誕生色 ブルーラグーン(006666)。色言葉は「平和、治癒力、安定感」です。相性の良い色はモナリザです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiiyObxCoIv6qzZZWZts_15T1A1auXtqllAK-YlFbTeTJ40Q2PPDZ0ewZtWbqQfi94ok2AF1nAYPW4amaFTYKSZ3rlCBoUK6reHm2QiqZeToxcmH3p2gucgyE9I3p-3bvGKt69QPtQ1pzRe8Rw5OCqqXrllwNBOW_xIX66Y3OrPnAVGf9L9tiCpFWMMb2hi=s1600"
 en_name: "Blue Lagoon"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiiyObxCoIv6qzZZWZts_15T1A1auXtqllAK-YlFbTeTJ40Q2PPDZ0ewZtWbqQfi94ok2AF1nAYPW4amaFTYKSZ3rlCBoUK6reHm2QiqZeToxcmH3p2gucgyE9I3p-3bvGKt69QPtQ1pzRe8Rw5OCqqXrllwNBOW_xIX66Y3OrPnAVGf9L9tiCpFWMMb2hi=s1600)
-
 
 ## 5月22日の誕生色: ブルーラグーン (`#006666`)
 

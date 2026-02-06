@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgNEDcp9-u4YPY0GUjgYUQp5bPfGkmIN76Ui2YniVz6Cuos56J8n84kJRS0VqLkROytGVly5y5bTbF3bl6V1HeOK-SKUGkkuVI88FMUV-Tnf058lkHq4VtR7aVjqu96lxl5jRd5hiFMfBAJeImqDTfeaBaccqTCvRlMASXqmLuSvX-pgLr4ohqWMU6-bpLR=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "クラウドグレー、10月21日の誕生色"
 date: "2026-10-21"
 updated: "2026-10-21"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "リアルブラック"
 description: "10月21日の誕生色 クラウドグレー(D8D3CD)。色言葉は「包容力、平穏、成熟」です。相性の良い色はリアルブラックです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgNEDcp9-u4YPY0GUjgYUQp5bPfGkmIN76Ui2YniVz6Cuos56J8n84kJRS0VqLkROytGVly5y5bTbF3bl6V1HeOK-SKUGkkuVI88FMUV-Tnf058lkHq4VtR7aVjqu96lxl5jRd5hiFMfBAJeImqDTfeaBaccqTCvRlMASXqmLuSvX-pgLr4ohqWMU6-bpLR=s1600"
 en_name: "Cloud Gray"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgNEDcp9-u4YPY0GUjgYUQp5bPfGkmIN76Ui2YniVz6Cuos56J8n84kJRS0VqLkROytGVly5y5bTbF3bl6V1HeOK-SKUGkkuVI88FMUV-Tnf058lkHq4VtR7aVjqu96lxl5jRd5hiFMfBAJeImqDTfeaBaccqTCvRlMASXqmLuSvX-pgLr4ohqWMU6-bpLR=s1600)
-
 
 ## 10月21日の誕生色: クラウドグレー (`#D8D3CD`)
 

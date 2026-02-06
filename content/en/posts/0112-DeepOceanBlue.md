@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-12'
-description: The birthday color for January 12 is Deep Ocean Blue (465C83). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEifhawbPSmCo3cYuJgAy0x04KkFqQPd_UljLuz6XLuF0EJpVaW-Vn4jH6ffeSBLyDl4pM0Ax0iqQ7wfYWB6LIwFpH3iPztWwkmwIGVfgbna0sFOi1o4oevDyE6ggDYQR2sSXoC41AdwwupIjk6nPKou53Brdrd12h-6JAGC8EL6qQYA3cfBwmYl75V0ZZC_=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-12"
+description: "The birthday color for January 12 is Deep Ocean Blue (465C83). Its meaning"
   is Inclusiveness, Generosity, Broad-minded.
-en_name: DeepOceanBlue
+en_name: "DeepOceanBlue"
 tags:
-- deep ocean blue
-- birthday color
-- january 12
-- 465c83
-- january
-- summer sand beach
-postId: '3239867655531816835'
-postUrl: https://the366days-en.blogspot.com/2026/01/deep-ocean-blue-birthday-color-of.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEifhawbPSmCo3cYuJgAy0x04KkFqQPd_UljLuz6XLuF0EJpVaW-Vn4jH6ffeSBLyDl4pM0Ax0iqQ7wfYWB6LIwFpH3iPztWwkmwIGVfgbna0sFOi1o4oevDyE6ggDYQR2sSXoC41AdwwupIjk6nPKou53Brdrd12h-6JAGC8EL6qQYA3cfBwmYl75V0ZZC_=s1600
-title: Deep Ocean Blue, The Birthday Color of January 12
-updated: '2026-01-12'
+  - "deep ocean blue"
+  - "birthday color"
+  - "january 12"
+  - "465c83"
+  - "january"
+  - "summer sand beach"
+postId: "3239867655531816835"
+postUrl: "https://the366days-en.blogspot.com/2026/01/deep-ocean-blue-birthday-color-of.html"
+profileName: "Pieces of a Day"
+title: "Deep Ocean Blue, The Birthday Color of January 12"
+updated: "2026-01-12"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEifhawbPSmCo3cYuJgAy0x04KkFqQPd_UljLuz6XLuF0EJpVaW-Vn4jH6ffeSBLyDl4pM0Ax0iqQ7wfYWB6LIwFpH3iPztWwkmwIGVfgbna0sFOi1o4oevDyE6ggDYQR2sSXoC41AdwwupIjk6nPKou53Brdrd12h-6JAGC8EL6qQYA3cfBwmYl75V0ZZC_=s1600)
-
 
 ## Birthday Color for January 12: Deep Ocean Blue (`#465C83`)
 

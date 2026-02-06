@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiNa4o0rppFVWhiGFRh4kALpAJAnnooKxGbwZWC6MGJIevUP4lpnciz4FFc3Ch0glT6oiEYGj9Gxm7OL9lDVbURzarWeQOeXWaqmEbcsPMEI1GlIaWVYcD0iljE-yPvesklYDv6AAUrBBBSEj660b1g5tYLJrhNY-6CT_jltJ3CgLp36NrjFQyDSOYCpM1E=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Midnight, The Birthday Color of November 18"
 date: "2026-11-18"
 updated: "2026-11-18"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "whipped cream"
 description: "The birthday color for November 18 is Midnight (242228). Its meaning is Serene, Peaceful, Restful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiNa4o0rppFVWhiGFRh4kALpAJAnnooKxGbwZWC6MGJIevUP4lpnciz4FFc3Ch0glT6oiEYGj9Gxm7OL9lDVbURzarWeQOeXWaqmEbcsPMEI1GlIaWVYcD0iljE-yPvesklYDv6AAUrBBBSEj660b1g5tYLJrhNY-6CT_jltJ3CgLp36NrjFQyDSOYCpM1E=s1600"
 en_name: "Midnight"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiNa4o0rppFVWhiGFRh4kALpAJAnnooKxGbwZWC6MGJIevUP4lpnciz4FFc3Ch0glT6oiEYGj9Gxm7OL9lDVbURzarWeQOeXWaqmEbcsPMEI1GlIaWVYcD0iljE-yPvesklYDv6AAUrBBBSEj660b1g5tYLJrhNY-6CT_jltJ3CgLp36NrjFQyDSOYCpM1E=s1600)
-
 
 ## Birthday Color for November 18: Midnight (`#242228`)
 

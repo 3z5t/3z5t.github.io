@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-29'
-description: 1月29日の誕生色 マヤブルー(6699FF)。色言葉は「理想主義、純粋性、創造性」です。相性の良い色はソフトオーカーです。
-en_name: Maya Blue
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiB5ZLheHz1BJ2lZ4VFNf4TWedEG5fbC92jtHvMwq3nMW59_cbd2GkEk7EVHbDcm_QgvCCZUolz8tvnISv83jFILwxDVoqHOXqWihxV_GXrDWWE8ioTgPzi_AfuZwinyyMNiL0j0nY6-P5QUbCqGP_g0MI_fHkt8ul8gwqwwC7mW2q6I--YgiIqbBYN4kJA=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-29"
+description: "1月29日の誕生色 マヤブルー(6699FF)。色言葉は「理想主義、純粋性、創造性」です。相性の良い色はソフトオーカーです。"
+en_name: "Maya Blue"
 tags:
-- マヤブルー
-- 誕生色
-- 1月29日
-- 6699FF
-- 1月
-- ソフトオーカー
-postId: '5433873751738400236'
-postUrl: https://the366days-ja.blogspot.com/2026/01/129-maya-blue.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiB5ZLheHz1BJ2lZ4VFNf4TWedEG5fbC92jtHvMwq3nMW59_cbd2GkEk7EVHbDcm_QgvCCZUolz8tvnISv83jFILwxDVoqHOXqWihxV_GXrDWWE8ioTgPzi_AfuZwinyyMNiL0j0nY6-P5QUbCqGP_g0MI_fHkt8ul8gwqwwC7mW2q6I--YgiIqbBYN4kJA=s1600
-title: マヤブルー、1月29日の誕生色
-updated: '2026-01-29'
+  - "マヤブルー"
+  - "誕生色"
+  - "1月29日"
+  - "6699FF"
+  - "1月"
+  - "ソフトオーカー"
+postId: "5433873751738400236"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/129-maya-blue.html"
+profileName: "日々のカケラ"
+title: "マヤブルー、1月29日の誕生色"
+updated: "2026-01-29"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiB5ZLheHz1BJ2lZ4VFNf4TWedEG5fbC92jtHvMwq3nMW59_cbd2GkEk7EVHbDcm_QgvCCZUolz8tvnISv83jFILwxDVoqHOXqWihxV_GXrDWWE8ioTgPzi_AfuZwinyyMNiL0j0nY6-P5QUbCqGP_g0MI_fHkt8ul8gwqwwC7mW2q6I--YgiIqbBYN4kJA=s1600)
-
 
 ## 1月29日の誕生色: マヤブルー (`#6699FF`)
 

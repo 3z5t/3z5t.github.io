@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhFeWvEcUBiorNCA_yLZuh-tL49He05WEHApO1dl6iHYY4rFK-YREFGnwqrOoz9Sr37DRGiwsUOIQaArRP3MD89b2dMTlyz3aZiombiTe-jZbwH5h4L7WI1IHEvT3vhKfrs2NHNhJxLZbEi5Ye2K3N_cunsuOMu5w8jYzeCUYxBgDE71WxeAKo5bQMx1SCY=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ソフトオーカー、10月19日の誕生色"
 date: "2026-10-19"
 updated: "2026-10-19"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "ピクトンブルー"
 description: "10月19日の誕生色 ソフトオーカー(926630)。色言葉は「大地のような、豊かさ、安定」です。相性の良い色はピクトンブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhFeWvEcUBiorNCA_yLZuh-tL49He05WEHApO1dl6iHYY4rFK-YREFGnwqrOoz9Sr37DRGiwsUOIQaArRP3MD89b2dMTlyz3aZiombiTe-jZbwH5h4L7WI1IHEvT3vhKfrs2NHNhJxLZbEi5Ye2K3N_cunsuOMu5w8jYzeCUYxBgDE71WxeAKo5bQMx1SCY=s1600"
 en_name: "Soft Ochre"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhFeWvEcUBiorNCA_yLZuh-tL49He05WEHApO1dl6iHYY4rFK-YREFGnwqrOoz9Sr37DRGiwsUOIQaArRP3MD89b2dMTlyz3aZiombiTe-jZbwH5h4L7WI1IHEvT3vhKfrs2NHNhJxLZbEi5Ye2K3N_cunsuOMu5w8jYzeCUYxBgDE71WxeAKo5bQMx1SCY=s1600)
-
 
 ## 10月19日の誕生色: ソフトオーカー (`#926630`)
 

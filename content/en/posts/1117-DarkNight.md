@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj6-0R8R_I6t5qYfqUHPkaLw3Jp-ng6EhqmNheMt53FEaOHpkisKOFZzv5ztS4csVtnHAthXynBr0gGDQQ5clhG7IL_lxyPdrGKcJ-HbLyek9hukWjVTZg8L6hGhIc7F6yR2LECMydPZ84ydtApq-ovWn_HFeP8hRkKUETwkUWcXafNQIXJqPrZ4_7Cule7=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Dark Night, The Birthday Color of November 17"
 date: "2026-11-17"
 updated: "2026-11-17"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "cloud gray"
 description: "The birthday color for November 17 is Dark Night (2A2333). Its meaning is Meditative, Contemplating, Mysterious."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj6-0R8R_I6t5qYfqUHPkaLw3Jp-ng6EhqmNheMt53FEaOHpkisKOFZzv5ztS4csVtnHAthXynBr0gGDQQ5clhG7IL_lxyPdrGKcJ-HbLyek9hukWjVTZg8L6hGhIc7F6yR2LECMydPZ84ydtApq-ovWn_HFeP8hRkKUETwkUWcXafNQIXJqPrZ4_7Cule7=s1600"
 en_name: "DarkNight"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj6-0R8R_I6t5qYfqUHPkaLw3Jp-ng6EhqmNheMt53FEaOHpkisKOFZzv5ztS4csVtnHAthXynBr0gGDQQ5clhG7IL_lxyPdrGKcJ-HbLyek9hukWjVTZg8L6hGhIc7F6yR2LECMydPZ84ydtApq-ovWn_HFeP8hRkKUETwkUWcXafNQIXJqPrZ4_7Cule7=s1600)
-
 
 ## Birthday Color for November 17: Dark Night (`#2A2333`)
 

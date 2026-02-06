@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjXBnMfjRvryL-2RlcN0GsRgbVZcvRxvhHbaU1UnHF-7X_A850ilM0JoAu9s4R3NJ_hB6lOuTo1_ElcYRwv4uz-SLmrL7aPJcje0bKRQ60QvKsoAIhDCU1ic-kVHnl6Cju4Mk1DdGlhwf_a_hPzhzXb_BZJweYZXLLkvsAry8cukfVxxKGkmHLvyutOcmY7=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "モーニンググローリー、5月30日の誕生色"
 date: "2026-05-30"
 updated: "2026-05-30"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "ディープコーラル"
 description: "5月30日の誕生色 モーニンググローリー(99CCCC)。色言葉は「希望に満ちた、始まりの力、肯定的」です。相性の良い色はディープコーラルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjXBnMfjRvryL-2RlcN0GsRgbVZcvRxvhHbaU1UnHF-7X_A850ilM0JoAu9s4R3NJ_hB6lOuTo1_ElcYRwv4uz-SLmrL7aPJcje0bKRQ60QvKsoAIhDCU1ic-kVHnl6Cju4Mk1DdGlhwf_a_hPzhzXb_BZJweYZXLLkvsAry8cukfVxxKGkmHLvyutOcmY7=s1600"
 en_name: "Morning Glory"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjXBnMfjRvryL-2RlcN0GsRgbVZcvRxvhHbaU1UnHF-7X_A850ilM0JoAu9s4R3NJ_hB6lOuTo1_ElcYRwv4uz-SLmrL7aPJcje0bKRQ60QvKsoAIhDCU1ic-kVHnl6Cju4Mk1DdGlhwf_a_hPzhzXb_BZJweYZXLLkvsAry8cukfVxxKGkmHLvyutOcmY7=s1600)
-
 
 ## 5月30日の誕生色: モーニンググローリー (`#99CCCC`)
 

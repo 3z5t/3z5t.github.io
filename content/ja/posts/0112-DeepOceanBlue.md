@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-12'
-description: 1月12日の誕生色 ディープオーシャンブルー(465C83)。色言葉は「包容力、寛大さ、広い心」です。相性の良い色はサマーサンドビーチです。
-en_name: Deep Ocean Blue
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgQxNLWv8meFa1GCBihkUT2MGCzgUU7aZ8z78alsKVZVZuQ0CmdQHKRIE4biPDK2e76yyeumm8A7IsLlOLdmwBkznhMgCEHZGuz7Mv3aybsecAIJmcn1r_zX6_BYLzwQpu_IgS1AxTGhwgaFWXZK86hBnaSsi-QVlUAbp_O1jCllcHqxs9iP6r5nWohXeBa=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-12"
+description: "1月12日の誕生色 ディープオーシャンブルー(465C83)。色言葉は「包容力、寛大さ、広い心」です。相性の良い色はサマーサンドビーチです。"
+en_name: "Deep Ocean Blue"
 tags:
-- ディープオーシャンブルー
-- 誕生色
-- 1月12日
-- 465C83
-- 1月
-- サマーサンドビーチ
-postId: '2552615166945807874'
-postUrl: https://the366days-ja.blogspot.com/2026/01/112-deep-ocean-blue.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgQxNLWv8meFa1GCBihkUT2MGCzgUU7aZ8z78alsKVZVZuQ0CmdQHKRIE4biPDK2e76yyeumm8A7IsLlOLdmwBkznhMgCEHZGuz7Mv3aybsecAIJmcn1r_zX6_BYLzwQpu_IgS1AxTGhwgaFWXZK86hBnaSsi-QVlUAbp_O1jCllcHqxs9iP6r5nWohXeBa=s1600
-title: ディープオーシャンブルー、1月12日の誕生色
-updated: '2026-01-12'
+  - "ディープオーシャンブルー"
+  - "誕生色"
+  - "1月12日"
+  - "465C83"
+  - "1月"
+  - "サマーサンドビーチ"
+postId: "2552615166945807874"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/112-deep-ocean-blue.html"
+profileName: "日々のカケラ"
+title: "ディープオーシャンブルー、1月12日の誕生色"
+updated: "2026-01-12"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgQxNLWv8meFa1GCBihkUT2MGCzgUU7aZ8z78alsKVZVZuQ0CmdQHKRIE4biPDK2e76yyeumm8A7IsLlOLdmwBkznhMgCEHZGuz7Mv3aybsecAIJmcn1r_zX6_BYLzwQpu_IgS1AxTGhwgaFWXZK86hBnaSsi-QVlUAbp_O1jCllcHqxs9iP6r5nWohXeBa=s1600)
-
 
 ## 1月12日の誕生色: ディープオーシャンブルー (`#465C83`)
 

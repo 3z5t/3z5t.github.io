@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi-fdrdyn3HcNFyQ50RowH2OZl2EqYEvxxp3hCsEuOu0fbsz1qHgIjXvkTUfMYn5qQbtsrhvKGi20PWx0P-g4yEGL8ufijK8RxAg6ZN-JD0q0jZXHArHekGJWuG3DNBASu5SZ5x4VLCcQPr1JvGt8WpKA2EpvJv6q59aWM6qF1c4HTzw0oCji8jqgs-eSGd=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Light Pink, The Birthday Color of March 16"
 date: "2026-03-16"
 updated: "2026-03-16"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "deep sage green"
 description: "The birthday color for March 16 is Light Pink (FFAAAA). Its meaning is Affectionate, Friendly, Love."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi-fdrdyn3HcNFyQ50RowH2OZl2EqYEvxxp3hCsEuOu0fbsz1qHgIjXvkTUfMYn5qQbtsrhvKGi20PWx0P-g4yEGL8ufijK8RxAg6ZN-JD0q0jZXHArHekGJWuG3DNBASu5SZ5x4VLCcQPr1JvGt8WpKA2EpvJv6q59aWM6qF1c4HTzw0oCji8jqgs-eSGd=s1600"
 en_name: "LightPink"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi-fdrdyn3HcNFyQ50RowH2OZl2EqYEvxxp3hCsEuOu0fbsz1qHgIjXvkTUfMYn5qQbtsrhvKGi20PWx0P-g4yEGL8ufijK8RxAg6ZN-JD0q0jZXHArHekGJWuG3DNBASu5SZ5x4VLCcQPr1JvGt8WpKA2EpvJv6q59aWM6qF1c4HTzw0oCji8jqgs-eSGd=s1600)
-
 
 ## Birthday Color for March 16: Light Pink (`#FFAAAA`)
 

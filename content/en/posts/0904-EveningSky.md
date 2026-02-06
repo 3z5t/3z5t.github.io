@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEihCamCraIFpJ6wASXZSRqTsim5hfUkIjLHLiE_Q4Ez6HKs9kpYo8vU1utgdmxUDPzphtN0b5SISWO-6J1SBeiT48h8_oMQGm8Q2QEf1T3ZRSROR2dLwkybJ11MdpP7t9BP6CUv84dQGKnIIsR2Ivh4U9gi5QtbO3F-3RmV7x0R8VQEiZhp9UbDZxw_IoYf=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Evening Sky, The Birthday Color of September 4"
 date: "2026-09-04"
 updated: "2026-09-04"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "bisque"
 description: "The birthday color for September 4 is Evening Sky (071734). Its meaning is Meditative, Calm, Intuitive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEihCamCraIFpJ6wASXZSRqTsim5hfUkIjLHLiE_Q4Ez6HKs9kpYo8vU1utgdmxUDPzphtN0b5SISWO-6J1SBeiT48h8_oMQGm8Q2QEf1T3ZRSROR2dLwkybJ11MdpP7t9BP6CUv84dQGKnIIsR2Ivh4U9gi5QtbO3F-3RmV7x0R8VQEiZhp9UbDZxw_IoYf=s1600"
 en_name: "EveningSky"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEihCamCraIFpJ6wASXZSRqTsim5hfUkIjLHLiE_Q4Ez6HKs9kpYo8vU1utgdmxUDPzphtN0b5SISWO-6J1SBeiT48h8_oMQGm8Q2QEf1T3ZRSROR2dLwkybJ11MdpP7t9BP6CUv84dQGKnIIsR2Ivh4U9gi5QtbO3F-3RmV7x0R8VQEiZhp9UbDZxw_IoYf=s1600)
-
 
 ## Birthday Color for September 4: Evening Sky (`#071734`)
 

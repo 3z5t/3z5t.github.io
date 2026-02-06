@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEio2ZzWLyOHCUFr2u4COHDiKqPab5v-tSr7RHV3G7YB0veL7O6u5fc_EnTYGIAyqBK3ytY2EXv6f6L9ZuUgylrl2C37pRb7BLIs9KctelE9YGQLdgPt6Vu9aUuIJr8iW8fy05bNlx_uDCyOwq51GCscyjO_UnOr0_jR6phC0Npv3oqDPyx8RZmFb_PVanmc=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Christmas Sora, The Birthday Color of December 14"
 date: "2026-12-14"
 updated: "2026-12-14"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "rudolph brown"
 description: "The birthday color for December 14 is Christmas Sora (9AB4E0). Its meaning is Dreamy, Hopeful, Idealistic."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEio2ZzWLyOHCUFr2u4COHDiKqPab5v-tSr7RHV3G7YB0veL7O6u5fc_EnTYGIAyqBK3ytY2EXv6f6L9ZuUgylrl2C37pRb7BLIs9KctelE9YGQLdgPt6Vu9aUuIJr8iW8fy05bNlx_uDCyOwq51GCscyjO_UnOr0_jR6phC0Npv3oqDPyx8RZmFb_PVanmc=s1600"
 en_name: "ChristmasSora"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEio2ZzWLyOHCUFr2u4COHDiKqPab5v-tSr7RHV3G7YB0veL7O6u5fc_EnTYGIAyqBK3ytY2EXv6f6L9ZuUgylrl2C37pRb7BLIs9KctelE9YGQLdgPt6Vu9aUuIJr8iW8fy05bNlx_uDCyOwq51GCscyjO_UnOr0_jR6phC0Npv3oqDPyx8RZmFb_PVanmc=s1600)
-
 
 ## Birthday Color for December 14: Christmas Sora (`#9AB4E0`)
 

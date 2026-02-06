@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiRC-kmspLhzOXlOC36LjB4LCNsf4XssYLya_i-1yuByNRtGOBolhMHJNaWkT5Ijcd2ct3NbCbiwz_VG5QhRyCm1jX12M3QdBHhxqQPFCwEJV6OOea2ey3iF6qrjzayneU7qtal_t73FtcZFT-VvdZZ9i9NtFJ65aesPPRldd05y90KCan7_LZ6_iH1OPwd=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ミッドナイトブラック、12月13日の誕生色"
 date: "2026-12-13"
 updated: "2026-12-13"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ファインサンド"
 description: "12月13日の誕生色 ミッドナイトブラック(141618)。色言葉は「深遠な魂、瞑想的、静寂」です。相性の良い色はファインサンドです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiRC-kmspLhzOXlOC36LjB4LCNsf4XssYLya_i-1yuByNRtGOBolhMHJNaWkT5Ijcd2ct3NbCbiwz_VG5QhRyCm1jX12M3QdBHhxqQPFCwEJV6OOea2ey3iF6qrjzayneU7qtal_t73FtcZFT-VvdZZ9i9NtFJ65aesPPRldd05y90KCan7_LZ6_iH1OPwd=s1600"
 en_name: "Midnight Black"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiRC-kmspLhzOXlOC36LjB4LCNsf4XssYLya_i-1yuByNRtGOBolhMHJNaWkT5Ijcd2ct3NbCbiwz_VG5QhRyCm1jX12M3QdBHhxqQPFCwEJV6OOea2ey3iF6qrjzayneU7qtal_t73FtcZFT-VvdZZ9i9NtFJ65aesPPRldd05y90KCan7_LZ6_iH1OPwd=s1600)
-
 
 ## 12月13日の誕生色: ミッドナイトブラック (`#141618`)
 

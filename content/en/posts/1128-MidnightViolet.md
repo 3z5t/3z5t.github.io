@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgO8lsBzJxB27m8wZS8GbnIg2CbTT7FHL5rhhytqAjIu7BThQ_yVLklY0gt1o1iWzCYPQDHhQWAapLnngisY-FQ0TIL4TiIm3r6dBjiRjrtgSV7-GXmT51tMjnnJL2lbtXB14V2mosnmW7ATOo6I-yEDO4ENyIFopaGMjOGI7Y39yihz5pSEQBL5L-d9bEF=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Midnight Violet, The Birthday Color of November 28"
 date: "2026-11-28"
 updated: "2026-11-28"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "bone"
 description: "The birthday color for November 28 is Midnight Violet (20202E). Its meaning is Mysterious, Elegant, Classy."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgO8lsBzJxB27m8wZS8GbnIg2CbTT7FHL5rhhytqAjIu7BThQ_yVLklY0gt1o1iWzCYPQDHhQWAapLnngisY-FQ0TIL4TiIm3r6dBjiRjrtgSV7-GXmT51tMjnnJL2lbtXB14V2mosnmW7ATOo6I-yEDO4ENyIFopaGMjOGI7Y39yihz5pSEQBL5L-d9bEF=s1600"
 en_name: "MidnightViolet"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgO8lsBzJxB27m8wZS8GbnIg2CbTT7FHL5rhhytqAjIu7BThQ_yVLklY0gt1o1iWzCYPQDHhQWAapLnngisY-FQ0TIL4TiIm3r6dBjiRjrtgSV7-GXmT51tMjnnJL2lbtXB14V2mosnmW7ATOo6I-yEDO4ENyIFopaGMjOGI7Y39yihz5pSEQBL5L-d9bEF=s1600)
-
 
 ## Birthday Color for November 28: Midnight Violet (`#20202E`)
 

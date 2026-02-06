@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjD2b_5yq1PyXJJwQzBHuNAuOIWXVqmTc_KFkkUz6MjoRgIBj4iWwuswWbgUpmo-synk2ykAWoDY25iqnCXXETB9d8bwUT3QmjvvFwFLxcbp5ZprcCImIfub4ea-pSS7l_ae6_wOyU1mCGWORPIbe7PRAthy7DiArfisVawzlHMZrdB5KM-6k1_mnHfBV9Z=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Prussian Green, The Birthday Color of May 25"
 date: "2026-05-25"
 updated: "2026-05-25"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "coral red"
 description: "The birthday color for May 25 is Prussian Green (009999). Its meaning is Balanced, Stable, Harmonious."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjD2b_5yq1PyXJJwQzBHuNAuOIWXVqmTc_KFkkUz6MjoRgIBj4iWwuswWbgUpmo-synk2ykAWoDY25iqnCXXETB9d8bwUT3QmjvvFwFLxcbp5ZprcCImIfub4ea-pSS7l_ae6_wOyU1mCGWORPIbe7PRAthy7DiArfisVawzlHMZrdB5KM-6k1_mnHfBV9Z=s1600"
 en_name: "PrussianGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjD2b_5yq1PyXJJwQzBHuNAuOIWXVqmTc_KFkkUz6MjoRgIBj4iWwuswWbgUpmo-synk2ykAWoDY25iqnCXXETB9d8bwUT3QmjvvFwFLxcbp5ZprcCImIfub4ea-pSS7l_ae6_wOyU1mCGWORPIbe7PRAthy7DiArfisVawzlHMZrdB5KM-6k1_mnHfBV9Z=s1600)
-
 
 ## Birthday Color for May 25: Prussian Green (`#009999`)
 

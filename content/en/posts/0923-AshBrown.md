@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhh545kJX45-i-xEx_yfX0EtbvpKqrCoO5vNrCOQvIb1-0PKnygu2uw_szSlpzHNZaamSHAE61fQbtSkRb_sDG1zNrgg_OEu4cCqTD6VcxdpsdeUtADk7PiJjDG1pD8rWWKWGoGj30lyPhYxExwpGmFmbpLIM8psUtJ0iqqnJz7sW70a6xFAjzeq2GzTw7u=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Ash Brown, The Birthday Color of September 23"
 date: "2026-09-23"
 updated: "2026-09-23"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "silver blue"
 description: "The birthday color for September 23 is Ash Brown (534E4B). Its meaning is Stable, Balanced, Calm."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhh545kJX45-i-xEx_yfX0EtbvpKqrCoO5vNrCOQvIb1-0PKnygu2uw_szSlpzHNZaamSHAE61fQbtSkRb_sDG1zNrgg_OEu4cCqTD6VcxdpsdeUtADk7PiJjDG1pD8rWWKWGoGj30lyPhYxExwpGmFmbpLIM8psUtJ0iqqnJz7sW70a6xFAjzeq2GzTw7u=s1600"
 en_name: "AshBrown"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhh545kJX45-i-xEx_yfX0EtbvpKqrCoO5vNrCOQvIb1-0PKnygu2uw_szSlpzHNZaamSHAE61fQbtSkRb_sDG1zNrgg_OEu4cCqTD6VcxdpsdeUtADk7PiJjDG1pD8rWWKWGoGj30lyPhYxExwpGmFmbpLIM8psUtJ0iqqnJz7sW70a6xFAjzeq2GzTw7u=s1600)
-
 
 ## Birthday Color for September 23: Ash Brown (`#534E4B`)
 

@@ -1,21 +1,24 @@
 ---
-"title": "ダスティローズ、2月27日の誕生色"
-"date": "2026-02-27"
-"updated": "2026-02-27"
-"labels":
-- "ダスティローズ"
-- "誕生色"
-- "2月27日"
-- "794848"
-- "2月"
-- "クールグリーン"
-"description": "2月27日の誕生色 ダスティローズ(794848)。色言葉は「内省的、情緒的、知恵」です。相性の良い色はクールグリーンです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEixFY9pW_8yolaZyepN_RIrqYT57d0Wxerq_f_YM82v8fU2vPc3RXqqkBkkyopA3YHwPuKizp2Xx9Vh1Hfr7uybUjV5rf0lwNXVc3k6GilsI9i62orxbN1TVZGPeVtoDqJpIuFrc5FXrdWYvxf-I6KoZWKysIslIychWd5StxjBJRyjRi-zpjdAga7i8mqQ=s1600"
-"en_name": "Dusty Rose"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "8170338636242711583"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/227-dusty-rose.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEixFY9pW_8yolaZyepN_RIrqYT57d0Wxerq_f_YM82v8fU2vPc3RXqqkBkkyopA3YHwPuKizp2Xx9Vh1Hfr7uybUjV5rf0lwNXVc3k6GilsI9i62orxbN1TVZGPeVtoDqJpIuFrc5FXrdWYvxf-I6KoZWKysIslIychWd5StxjBJRyjRi-zpjdAga7i8mqQ=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ダスティローズ、2月27日の誕生色"
+date: "2026-02-27"
+updated: "2026-02-27"
+tags:
+  - "ダスティローズ"
+  - "誕生色"
+  - "2月27日"
+  - "794848"
+  - "2月"
+  - "クールグリーン"
+description: "2月27日の誕生色 ダスティローズ(794848)。色言葉は「内省的、情緒的、知恵」です。相性の良い色はクールグリーンです。"
+en_name: "Dusty Rose"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "8170338636242711583"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/227-dusty-rose.html"
 ---
 
 ## 2月27日の誕生色: ダスティローズ (`#794848`)

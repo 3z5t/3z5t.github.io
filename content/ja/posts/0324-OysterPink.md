@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhvDIwtenwOLz5DrzHVvk7wuxUk73t_WG-9pld_Zf1yKZdKRtYIMdvCVA7nafmCim3dey1uQc0F3_C8qN2zPobittFT7Sbh4LkPT7MEA40Fi7ONPSeb2G_mtKi9UGwVI3lqSmCsNEjMg1UALkDhtotgea191z1aVDQQfNl0XixvI5BZm-3u0ypNyPt5y0Jg=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "オイスターピンク、3月24日の誕生色"
 date: "2026-03-24"
 updated: "2026-03-24"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ディープシー"
 description: "3月24日の誕生色 オイスターピンク(CEAAAD)。色言葉は「平和、安定感、安らぎ」です。相性の良い色はディープシーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhvDIwtenwOLz5DrzHVvk7wuxUk73t_WG-9pld_Zf1yKZdKRtYIMdvCVA7nafmCim3dey1uQc0F3_C8qN2zPobittFT7Sbh4LkPT7MEA40Fi7ONPSeb2G_mtKi9UGwVI3lqSmCsNEjMg1UALkDhtotgea191z1aVDQQfNl0XixvI5BZm-3u0ypNyPt5y0Jg=s1600"
 en_name: "Oyster Pink"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhvDIwtenwOLz5DrzHVvk7wuxUk73t_WG-9pld_Zf1yKZdKRtYIMdvCVA7nafmCim3dey1uQc0F3_C8qN2zPobittFT7Sbh4LkPT7MEA40Fi7ONPSeb2G_mtKi9UGwVI3lqSmCsNEjMg1UALkDhtotgea191z1aVDQQfNl0XixvI5BZm-3u0ypNyPt5y0Jg=s1600)
-
 
 ## 3月24日の誕生色: オイスターピンク (`#CEAAAD`)
 

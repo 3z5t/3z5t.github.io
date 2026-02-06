@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg0zah2mSeg0vO0sLSgm7dJIT7tlmqTtWMRt7_I9ungAWbosrhygHfhAD6AlpVbn80y_BByJ4211a_K9HHC7ZlBQ00UApFPnsV9F32ZEa14nUIAwUj4bPa0cFb3K3gwXwjXSS5VRrKWKtO2BZJol6cMvtUs9lhRqGorbDxngkbFPZpPKrpzHyJjnLwJTkXA=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Cherry Blossom, The Birthday Color of March 15"
 date: "2026-03-15"
 updated: "2026-03-15"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "deep forest"
 description: "The birthday color for March 15 is Cherry Blossom (F0ADCA). Its meaning is Emotional, Lovely, Romantic."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg0zah2mSeg0vO0sLSgm7dJIT7tlmqTtWMRt7_I9ungAWbosrhygHfhAD6AlpVbn80y_BByJ4211a_K9HHC7ZlBQ00UApFPnsV9F32ZEa14nUIAwUj4bPa0cFb3K3gwXwjXSS5VRrKWKtO2BZJol6cMvtUs9lhRqGorbDxngkbFPZpPKrpzHyJjnLwJTkXA=s1600"
 en_name: "CherryBlossom"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg0zah2mSeg0vO0sLSgm7dJIT7tlmqTtWMRt7_I9ungAWbosrhygHfhAD6AlpVbn80y_BByJ4211a_K9HHC7ZlBQ00UApFPnsV9F32ZEa14nUIAwUj4bPa0cFb3K3gwXwjXSS5VRrKWKtO2BZJol6cMvtUs9lhRqGorbDxngkbFPZpPKrpzHyJjnLwJTkXA=s1600)
-
 
 ## Birthday Color for March 15: Cherry Blossom (`#F0ADCA`)
 

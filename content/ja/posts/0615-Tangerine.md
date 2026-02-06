@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhYiWfcb024cXHIyvFksKNKPVFYn8sZ70FvtVOHJ27HzR9uM1mhFPrOgRudkNqQWTIoVftcOYMWyTtN2NeBtQHpaROY2UOhG0UDTeKXl_BJLNxy2IhUORg2DOUVzC32YxrvgPtgbG7hT1AhmeQtPFL9B7l2T0O-Tj0MwXvwSDVn1tZS6qMKiIBdP3B2ufkd=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "タンジェリン、6月15日の誕生色"
 date: "2026-06-15"
 updated: "2026-06-15"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "ハイスカイ"
 description: "6月15日の誕生色 タンジェリン(EE934F)。色言葉は「甘い性格、新鮮、明るい心」です。相性の良い色はハイスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhYiWfcb024cXHIyvFksKNKPVFYn8sZ70FvtVOHJ27HzR9uM1mhFPrOgRudkNqQWTIoVftcOYMWyTtN2NeBtQHpaROY2UOhG0UDTeKXl_BJLNxy2IhUORg2DOUVzC32YxrvgPtgbG7hT1AhmeQtPFL9B7l2T0O-Tj0MwXvwSDVn1tZS6qMKiIBdP3B2ufkd=s1600"
 en_name: "Tangerine"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhYiWfcb024cXHIyvFksKNKPVFYn8sZ70FvtVOHJ27HzR9uM1mhFPrOgRudkNqQWTIoVftcOYMWyTtN2NeBtQHpaROY2UOhG0UDTeKXl_BJLNxy2IhUORg2DOUVzC32YxrvgPtgbG7hT1AhmeQtPFL9B7l2T0O-Tj0MwXvwSDVn1tZS6qMKiIBdP3B2ufkd=s1600)
-
 
 ## 6月15日の誕生色: タンジェリン (`#EE934F`)
 

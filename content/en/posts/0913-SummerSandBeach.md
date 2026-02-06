@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEii7-NML3fRIDidVduAclxBlkSlOuwj-B5j2oOE2OnKacV80NSkLzcolp8y39Pz63oNdDsrqp_rUn1SDGwmpNySt4ouV2FHVbzboC0ip3B-O8fkZX-paSUERw3L2wURIPq7dr2INgscisMc0jEJYSLqfbDptjIslVwV_pmod4jGkBKHNg7msMGQ9iDY12C1=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Summer Sand Beach, The Birthday Color of September 13"
 date: "2026-09-13"
 updated: "2026-09-13"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "deep ocean blue"
 description: "The birthday color for September 13 is Summer Sand Beach (BF9F87). Its meaning is Warm Heart, Knowing Longing, Sentimental."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEii7-NML3fRIDidVduAclxBlkSlOuwj-B5j2oOE2OnKacV80NSkLzcolp8y39Pz63oNdDsrqp_rUn1SDGwmpNySt4ouV2FHVbzboC0ip3B-O8fkZX-paSUERw3L2wURIPq7dr2INgscisMc0jEJYSLqfbDptjIslVwV_pmod4jGkBKHNg7msMGQ9iDY12C1=s1600"
 en_name: "SummerSandBeach"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEii7-NML3fRIDidVduAclxBlkSlOuwj-B5j2oOE2OnKacV80NSkLzcolp8y39Pz63oNdDsrqp_rUn1SDGwmpNySt4ouV2FHVbzboC0ip3B-O8fkZX-paSUERw3L2wURIPq7dr2INgscisMc0jEJYSLqfbDptjIslVwV_pmod4jGkBKHNg7msMGQ9iDY12C1=s1600)
-
 
 ## Birthday Color for September 13: Summer Sand Beach (`#BF9F87`)
 

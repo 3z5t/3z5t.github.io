@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEifUVrv0OgUpmQ4JpQjd5X4vLIAxq0sYzJkdKKR7oNiXyQ_DFFn-sZijxr_9UF-h8-ellonJ70nj0m1t7v3NFCLlhApPcte1b-zpQa_z69wkLyVuoeVRFEGqpeAlRSl6ztSOkHi_n8oTF8HKFMu7ccM9A_vVRas5ddW0oR6JtU3vimjllvEKEYGKDjKIfpv=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Mint Green, The Birthday Color of July 25"
 date: "2026-07-25"
 updated: "2026-07-25"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "mystic purple"
 description: "The birthday color for July 25 is Mint Green (99FF99). Its meaning is Refreshing Personality, Crisp, Vital."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEifUVrv0OgUpmQ4JpQjd5X4vLIAxq0sYzJkdKKR7oNiXyQ_DFFn-sZijxr_9UF-h8-ellonJ70nj0m1t7v3NFCLlhApPcte1b-zpQa_z69wkLyVuoeVRFEGqpeAlRSl6ztSOkHi_n8oTF8HKFMu7ccM9A_vVRas5ddW0oR6JtU3vimjllvEKEYGKDjKIfpv=s1600"
 en_name: "MintGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEifUVrv0OgUpmQ4JpQjd5X4vLIAxq0sYzJkdKKR7oNiXyQ_DFFn-sZijxr_9UF-h8-ellonJ70nj0m1t7v3NFCLlhApPcte1b-zpQa_z69wkLyVuoeVRFEGqpeAlRSl6ztSOkHi_n8oTF8HKFMu7ccM9A_vVRas5ddW0oR6JtU3vimjllvEKEYGKDjKIfpv=s1600)
-
 
 ## Birthday Color for July 25: Mint Green (`#99FF99`)
 

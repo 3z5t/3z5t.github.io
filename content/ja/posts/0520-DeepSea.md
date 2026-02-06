@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhAz8E5G0pmBqriD4iLXrIJKuMA_EkIfYMyKv3N_v08526B80BI4E02_g3dcZEybqhPyT4oGt95CiAd3McJ31lGygAUf6vLq-CUsbYOXUd3Vqa7vXuV_V0_7HreCvGcjNL8VFaSoKeDBlHZLtIu6PveXxkT3b2SuNdz2HsT3_jtlpr7THg2etx8KO5HCfXo=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープシー、5月20日の誕生色"
 date: "2026-05-20"
 updated: "2026-05-20"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "オイスターピンク"
 description: "5月20日の誕生色 ディープシー(2F4F4F)。色言葉は「洞察力、思索的、賢明」です。相性の良い色はオイスターピンクです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhAz8E5G0pmBqriD4iLXrIJKuMA_EkIfYMyKv3N_v08526B80BI4E02_g3dcZEybqhPyT4oGt95CiAd3McJ31lGygAUf6vLq-CUsbYOXUd3Vqa7vXuV_V0_7HreCvGcjNL8VFaSoKeDBlHZLtIu6PveXxkT3b2SuNdz2HsT3_jtlpr7THg2etx8KO5HCfXo=s1600"
 en_name: "Deep Sea"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhAz8E5G0pmBqriD4iLXrIJKuMA_EkIfYMyKv3N_v08526B80BI4E02_g3dcZEybqhPyT4oGt95CiAd3McJ31lGygAUf6vLq-CUsbYOXUd3Vqa7vXuV_V0_7HreCvGcjNL8VFaSoKeDBlHZLtIu6PveXxkT3b2SuNdz2HsT3_jtlpr7THg2etx8KO5HCfXo=s1600)
-
 
 ## 5月20日の誕生色: ディープシー (`#2F4F4F`)
 

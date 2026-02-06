@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj1hXgbFkuHEXdxzxnqzO_v5TkXZdlSJ_ult21uPUpRoH5HX48qoNkXOOy3hYnyY7aljLHzlJkAjL0-7WBJPlpl2RFJ8TWE_b16Oz_Ahl61LI2x780MxIv03JpwUwW7cwqWskQaE4aHOLYDBzK7baR2YEBEM-fW4WnSs0uCalLzA1O6Jv4JAmvC8oKOiA9d=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ピュアブルー、7月11日の誕生色"
 date: "2026-07-11"
 updated: "2026-07-11"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "レモン"
 description: "7月11日の誕生色 ピュアブルー(3333FF)。色言葉は「純粋な情熱、深みのある、理想的」です。相性の良い色はレモンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj1hXgbFkuHEXdxzxnqzO_v5TkXZdlSJ_ult21uPUpRoH5HX48qoNkXOOy3hYnyY7aljLHzlJkAjL0-7WBJPlpl2RFJ8TWE_b16Oz_Ahl61LI2x780MxIv03JpwUwW7cwqWskQaE4aHOLYDBzK7baR2YEBEM-fW4WnSs0uCalLzA1O6Jv4JAmvC8oKOiA9d=s1600"
 en_name: "Pure Blue"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj1hXgbFkuHEXdxzxnqzO_v5TkXZdlSJ_ult21uPUpRoH5HX48qoNkXOOy3hYnyY7aljLHzlJkAjL0-7WBJPlpl2RFJ8TWE_b16Oz_Ahl61LI2x780MxIv03JpwUwW7cwqWskQaE4aHOLYDBzK7baR2YEBEM-fW4WnSs0uCalLzA1O6Jv4JAmvC8oKOiA9d=s1600)
-
 
 ## 7月11日の誕生色: ピュアブルー (`#3333FF`)
 

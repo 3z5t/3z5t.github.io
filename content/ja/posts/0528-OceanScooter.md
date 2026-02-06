@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjTe7XBTJHVmNvrCcgorxGlRFcBjBAvry-2bixUcIbRgQtKrqsrX-CeEMtghpUzVhJUWAzgo8bFj0qmFT780QIMIIof0bF73225H7LN7_N2G7ybxZt5ZPLHR965yxX19_ksWXoHyFM6omHRVhYrQPElKjlx8qPcLORV4S0phsAP7Kwje7LZWlxI10KJwmam=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "オーシャンスクーター、5月28日の誕生色"
 date: "2026-05-28"
 updated: "2026-05-28"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "マットローズ"
 description: "5月28日の誕生色 オーシャンスクーター(339999)。色言葉は「冒険心、チャレンジ精神、活力的」です。相性の良い色はマットローズです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjTe7XBTJHVmNvrCcgorxGlRFcBjBAvry-2bixUcIbRgQtKrqsrX-CeEMtghpUzVhJUWAzgo8bFj0qmFT780QIMIIof0bF73225H7LN7_N2G7ybxZt5ZPLHR965yxX19_ksWXoHyFM6omHRVhYrQPElKjlx8qPcLORV4S0phsAP7Kwje7LZWlxI10KJwmam=s1600"
 en_name: "Ocean Scooter"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjTe7XBTJHVmNvrCcgorxGlRFcBjBAvry-2bixUcIbRgQtKrqsrX-CeEMtghpUzVhJUWAzgo8bFj0qmFT780QIMIIof0bF73225H7LN7_N2G7ybxZt5ZPLHR965yxX19_ksWXoHyFM6omHRVhYrQPElKjlx8qPcLORV4S0phsAP7Kwje7LZWlxI10KJwmam=s1600)
-
 
 ## 5月28日の誕生色: オーシャンスクーター (`#339999`)
 

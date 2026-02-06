@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg7PhdNlSDDCGArSjhnTCDSIEdyc3r7pUHrHKwIOowXJys9k-494dmc8axfVDGeRFJXRahqdtUWCavwofDsEqQVcJoSm83_I9UNEutYipLQAE2xov0qfC9vXiW3xI-sjGNLdgN39l_87UonPyRyfwUS01LK2n1h9XYX9i9J9bxdqjy7jxWKi7r9SW_btIxq=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ライプピーチ、8月8日の誕生色"
 date: "2026-08-08"
 updated: "2026-08-08"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "ディープアビス"
 description: "8月8日の誕生色 ライプピーチ(F8F3EA)。色言葉は「包容力、理解力、思いやり」です。相性の良い色はディープアビスです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg7PhdNlSDDCGArSjhnTCDSIEdyc3r7pUHrHKwIOowXJys9k-494dmc8axfVDGeRFJXRahqdtUWCavwofDsEqQVcJoSm83_I9UNEutYipLQAE2xov0qfC9vXiW3xI-sjGNLdgN39l_87UonPyRyfwUS01LK2n1h9XYX9i9J9bxdqjy7jxWKi7r9SW_btIxq=s1600"
 en_name: "Ripe Peach"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg7PhdNlSDDCGArSjhnTCDSIEdyc3r7pUHrHKwIOowXJys9k-494dmc8axfVDGeRFJXRahqdtUWCavwofDsEqQVcJoSm83_I9UNEutYipLQAE2xov0qfC9vXiW3xI-sjGNLdgN39l_87UonPyRyfwUS01LK2n1h9XYX9i9J9bxdqjy7jxWKi7r9SW_btIxq=s1600)
-
 
 ## 8月8日の誕生色: ライプピーチ (`#F8F3EA`)
 

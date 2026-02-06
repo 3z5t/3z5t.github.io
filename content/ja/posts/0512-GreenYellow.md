@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEglK9A1GuGTnyg0IySapI3yr-_YJIAnzxjUnM7BSHHnMWORC5QbFrr2-zofZEJXmjSsVxmR9tRitZf4WTXUsKYKUR52IExLhpqrc_Z0EcHaBKb1RT8OOIEqpCIbMMP4UI92weWZHgLcvhmnn4eOFkHsM35_nL9XRdKF_4CPQAnw74L-jIHJ8Rrr_sxk1VxU=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "グリーンイエロー、5月12日の誕生色"
 date: "2026-05-12"
 updated: "2026-05-12"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "ミスティックパープル"
 description: "5月12日の誕生色 グリーンイエロー(99FF33)。色言葉は「チャレンジ精神、活力、創造性」です。相性の良い色はミスティックパープルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEglK9A1GuGTnyg0IySapI3yr-_YJIAnzxjUnM7BSHHnMWORC5QbFrr2-zofZEJXmjSsVxmR9tRitZf4WTXUsKYKUR52IExLhpqrc_Z0EcHaBKb1RT8OOIEqpCIbMMP4UI92weWZHgLcvhmnn4eOFkHsM35_nL9XRdKF_4CPQAnw74L-jIHJ8Rrr_sxk1VxU=s1600"
 en_name: "Green Yellow"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEglK9A1GuGTnyg0IySapI3yr-_YJIAnzxjUnM7BSHHnMWORC5QbFrr2-zofZEJXmjSsVxmR9tRitZf4WTXUsKYKUR52IExLhpqrc_Z0EcHaBKb1RT8OOIEqpCIbMMP4UI92weWZHgLcvhmnn4eOFkHsM35_nL9XRdKF_4CPQAnw74L-jIHJ8Rrr_sxk1VxU=s1600)
-
 
 ## 5月12日の誕生色: グリーンイエロー (`#99FF33`)
 

@@ -1,21 +1,24 @@
 ---
-"title": "Lavender Purple, The Birthday Color of February 3"
-"date": "2026-02-03"
-"updated": "2026-02-03"
-"labels":
-- "lavender purple"
-- "birthday color"
-- "february 3"
-- "dab7f0"
-- "february"
-- "deep forest"
-"description": "The birthday color for February 3 is Lavender Purple (DAB7F0). Its meaning is Noble, Classy, Creativity."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEj6ySpL0LFpHFr2EObLc3741vEJgzl3rBU2TxR8QVB7gJI7uikrr2MEkWNtCkAstj6FwZ0DrWpqTrSX-TBnUnL_HQkZ5zXNhk0trrwSSB27AfK2PeHb2yKvl0jU6RWgpZCpbDg281_I7fXvI6I-yMTnswc3t2i0Gka2x8bgqSXnFQAYNxCJic-nVrxapxqF=s1600"
-"en_name": "LavenderPurple"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "4845719279995698013"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/lavender-purple-birthday-color-of.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj6ySpL0LFpHFr2EObLc3741vEJgzl3rBU2TxR8QVB7gJI7uikrr2MEkWNtCkAstj6FwZ0DrWpqTrSX-TBnUnL_HQkZ5zXNhk0trrwSSB27AfK2PeHb2yKvl0jU6RWgpZCpbDg281_I7fXvI6I-yMTnswc3t2i0Gka2x8bgqSXnFQAYNxCJic-nVrxapxqF=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Lavender Purple, The Birthday Color of February 3"
+date: "2026-02-03"
+updated: "2026-02-03"
+tags:
+  - "lavender purple"
+  - "birthday color"
+  - "february 3"
+  - "dab7f0"
+  - "february"
+  - "deep forest"
+description: "The birthday color for February 3 is Lavender Purple (DAB7F0). Its meaning is Noble, Classy, Creativity."
+en_name: "LavenderPurple"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "4845719279995698013"
+postUrl: "https://the366days-en.blogspot.com/2026/02/lavender-purple-birthday-color-of.html"
 ---
 
 ## Birthday Color for February 3: Lavender Purple (`#DAB7F0`)

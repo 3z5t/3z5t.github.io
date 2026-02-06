@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhOPiX9xjwrFpCLVKZuYmGQvYGVz3hmr0i6NR7-72QlLfALDLaHPDCfGMVViHvOxmMphJBQrTDzDS3IomV4Bnn2J7IFs9kHvSW6UGfMoh0k10BfPlqEGSSHLtVEMRci1khOTSTCwU1UEIQ9wqx6YgVLDsSKE9PbkYMd-RjDvAg5p5bBmv5lHjJ4iVc15QoL=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ゴールデンサンド、6月29日の誕生色"
 date: "2026-06-29"
 updated: "2026-06-29"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "ロイヤルブルー"
 description: "6月29日の誕生色 ゴールデンサンド(CBA135)。色言葉は「忍耐力、持久力、持続性」です。相性の良い色はロイヤルブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhOPiX9xjwrFpCLVKZuYmGQvYGVz3hmr0i6NR7-72QlLfALDLaHPDCfGMVViHvOxmMphJBQrTDzDS3IomV4Bnn2J7IFs9kHvSW6UGfMoh0k10BfPlqEGSSHLtVEMRci1khOTSTCwU1UEIQ9wqx6YgVLDsSKE9PbkYMd-RjDvAg5p5bBmv5lHjJ4iVc15QoL=s1600"
 en_name: "Golden Sand"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhOPiX9xjwrFpCLVKZuYmGQvYGVz3hmr0i6NR7-72QlLfALDLaHPDCfGMVViHvOxmMphJBQrTDzDS3IomV4Bnn2J7IFs9kHvSW6UGfMoh0k10BfPlqEGSSHLtVEMRci1khOTSTCwU1UEIQ9wqx6YgVLDsSKE9PbkYMd-RjDvAg5p5bBmv5lHjJ4iVc15QoL=s1600)
-
 
 ## 6月29日の誕生色: ゴールデンサンド (`#CBA135`)
 

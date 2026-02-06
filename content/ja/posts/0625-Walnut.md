@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhqI568eZL_FgdavjzeY3Ms5LIxhN9IdwM0a8PKobaZMofsp89GzQu3A_ysfFqg3qeVfmCZkH4GHJzx9KniSTr83-4iSz3usXVqQ7c7cZqIhl1pdzITskKfqIJFdTGwnToKyyJoko9nEvUi8RLLaUgBgGj4DUXo20NXk3CbNGfJipnUIapDsTuPzf5JQ-6i=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ウォールナット、6月25日の誕生色"
 date: "2026-06-25"
 updated: "2026-06-25"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "スレートグリーン"
 description: "6月25日の誕生色 ウォールナット(A49376)。色言葉は「成熟、賢明、安定」です。相性の良い色はスレートグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhqI568eZL_FgdavjzeY3Ms5LIxhN9IdwM0a8PKobaZMofsp89GzQu3A_ysfFqg3qeVfmCZkH4GHJzx9KniSTr83-4iSz3usXVqQ7c7cZqIhl1pdzITskKfqIJFdTGwnToKyyJoko9nEvUi8RLLaUgBgGj4DUXo20NXk3CbNGfJipnUIapDsTuPzf5JQ-6i=s1600"
 en_name: "Walnut"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhqI568eZL_FgdavjzeY3Ms5LIxhN9IdwM0a8PKobaZMofsp89GzQu3A_ysfFqg3qeVfmCZkH4GHJzx9KniSTr83-4iSz3usXVqQ7c7cZqIhl1pdzITskKfqIJFdTGwnToKyyJoko9nEvUi8RLLaUgBgGj4DUXo20NXk3CbNGfJipnUIapDsTuPzf5JQ-6i=s1600)
-
 
 ## 6月25日の誕生色: ウォールナット (`#A49376`)
 

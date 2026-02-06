@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjQkizvNa-cFhw11msajSKl_dHJj6ljp9jYxx5VH6HY_yw5nGCs43U23278oemOkGjrcXRJm41qZu1Do43pQwwGl4DHGKPR6NTNgWLjGevWRGDBCi4SRnTQR2H8G8IHRQjki-IPHWIYAJs1EkjWvjPny5fVQJxz_aFuoN-FSU5cQho-sujzcuCevGilSxRb=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ビビッドレッド、7月10日の誕生色"
 date: "2026-07-10"
 updated: "2026-07-10"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "アクア"
 description: "7月10日の誕生色 ビビッドレッド(FF1414)。色言葉は「際立つ、活気ある、独創的」です。相性の良い色はアクアです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjQkizvNa-cFhw11msajSKl_dHJj6ljp9jYxx5VH6HY_yw5nGCs43U23278oemOkGjrcXRJm41qZu1Do43pQwwGl4DHGKPR6NTNgWLjGevWRGDBCi4SRnTQR2H8G8IHRQjki-IPHWIYAJs1EkjWvjPny5fVQJxz_aFuoN-FSU5cQho-sujzcuCevGilSxRb=s1600"
 en_name: "Vivid Red"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjQkizvNa-cFhw11msajSKl_dHJj6ljp9jYxx5VH6HY_yw5nGCs43U23278oemOkGjrcXRJm41qZu1Do43pQwwGl4DHGKPR6NTNgWLjGevWRGDBCi4SRnTQR2H8G8IHRQjki-IPHWIYAJs1EkjWvjPny5fVQJxz_aFuoN-FSU5cQho-sujzcuCevGilSxRb=s1600)
-
 
 ## 7月10日の誕生色: ビビッドレッド (`#FF1414`)
 

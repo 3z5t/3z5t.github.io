@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh3mMDI9CbiyNMnSuFqI_w95yHNSoPkHTWnX9W2N4IAuo5hiPmsO-AcS9qvk4Zqy7bnIXwuIahhYYGWsRrAQnNagJ4qnC0ZnTAO4bi34gGUgIqS8VlgxiklTMv0K6CkY6co2y-cnwfBXFXtdKkEbTaenUeYGFSwK1hMDywmTBIKLmmows4lwYUeW-FMlYIz=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Honeydew, The Birthday Color of May 10"
 date: "2026-05-10"
 updated: "2026-05-10"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "deep magenta"
 description: "The birthday color for May 10 is Honeydew (CCFFCC). Its meaning is Sweet, Fresh, Emotional."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh3mMDI9CbiyNMnSuFqI_w95yHNSoPkHTWnX9W2N4IAuo5hiPmsO-AcS9qvk4Zqy7bnIXwuIahhYYGWsRrAQnNagJ4qnC0ZnTAO4bi34gGUgIqS8VlgxiklTMv0K6CkY6co2y-cnwfBXFXtdKkEbTaenUeYGFSwK1hMDywmTBIKLmmows4lwYUeW-FMlYIz=s1600"
 en_name: "Honeydew"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh3mMDI9CbiyNMnSuFqI_w95yHNSoPkHTWnX9W2N4IAuo5hiPmsO-AcS9qvk4Zqy7bnIXwuIahhYYGWsRrAQnNagJ4qnC0ZnTAO4bi34gGUgIqS8VlgxiklTMv0K6CkY6co2y-cnwfBXFXtdKkEbTaenUeYGFSwK1hMDywmTBIKLmmows4lwYUeW-FMlYIz=s1600)
-
 
 ## Birthday Color for May 10: Honeydew (`#CCFFCC`)
 

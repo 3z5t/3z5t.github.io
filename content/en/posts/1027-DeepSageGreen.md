@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgD-ooEDXg1EF9Rx9RfGdzIBHGI4SwnKS2j-jWF6F0uvSkqh2Xq5Rv92Tp5O8FcYW1NlisGjO3B2-Aof_pxcf0_uh1ipDtPlDa9iLQmlUWAnpp9PsUlubSF5V8QCDrD-dSSeAFj551Szdo3IvWr0quyE8CBhGDwF1AiHg2QalMOBtWEBwf3NBkO7jG79W_5=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Sage Green, The Birthday Color of October 27"
 date: "2026-10-27"
 updated: "2026-10-27"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "mona lisa"
 description: "The birthday color for October 27 is Deep Sage Green (055F5F). Its meaning is Wise, Serene, Classy."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgD-ooEDXg1EF9Rx9RfGdzIBHGI4SwnKS2j-jWF6F0uvSkqh2Xq5Rv92Tp5O8FcYW1NlisGjO3B2-Aof_pxcf0_uh1ipDtPlDa9iLQmlUWAnpp9PsUlubSF5V8QCDrD-dSSeAFj551Szdo3IvWr0quyE8CBhGDwF1AiHg2QalMOBtWEBwf3NBkO7jG79W_5=s1600"
 en_name: "DeepSageGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgD-ooEDXg1EF9Rx9RfGdzIBHGI4SwnKS2j-jWF6F0uvSkqh2Xq5Rv92Tp5O8FcYW1NlisGjO3B2-Aof_pxcf0_uh1ipDtPlDa9iLQmlUWAnpp9PsUlubSF5V8QCDrD-dSSeAFj551Szdo3IvWr0quyE8CBhGDwF1AiHg2QalMOBtWEBwf3NBkO7jG79W_5=s1600)
-
 
 ## Birthday Color for October 27: Deep Sage Green (`#055F5F`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEilOnx7lxdq4LetSnMBMUxFHE2jAMpJwbdHPIliR15cySYTwWaiVdyJwwX0BiW2W0JIKT_U3WFfKCabXuVYtIST1jPUYaNxu_a90L0U9TIMbq08PwhBcMcydBeUiPdpQ9fsYbluRqE2DeZNZ3PZy5oxVlZiauz3sKZpjhnYjxsSW669mYayOVgehF-1c8Ic=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "シルバーアンティーク、11月6日の誕生色"
 date: "2026-11-06"
 updated: "2026-11-06"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "ミッドナイトライダー"
 description: "11月6日の誕生色 シルバーアンティーク(C6C3C6)。色言葉は「古典的、品格、価値ある」です。相性の良い色はミッドナイトライダーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEilOnx7lxdq4LetSnMBMUxFHE2jAMpJwbdHPIliR15cySYTwWaiVdyJwwX0BiW2W0JIKT_U3WFfKCabXuVYtIST1jPUYaNxu_a90L0U9TIMbq08PwhBcMcydBeUiPdpQ9fsYbluRqE2DeZNZ3PZy5oxVlZiauz3sKZpjhnYjxsSW669mYayOVgehF-1c8Ic=s1600"
 en_name: "Silver Antique"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEilOnx7lxdq4LetSnMBMUxFHE2jAMpJwbdHPIliR15cySYTwWaiVdyJwwX0BiW2W0JIKT_U3WFfKCabXuVYtIST1jPUYaNxu_a90L0U9TIMbq08PwhBcMcydBeUiPdpQ9fsYbluRqE2DeZNZ3PZy5oxVlZiauz3sKZpjhnYjxsSW669mYayOVgehF-1c8Ic=s1600)
-
 
 ## 11月6日の誕生色: シルバーアンティーク (`#C6C3C6`)
 

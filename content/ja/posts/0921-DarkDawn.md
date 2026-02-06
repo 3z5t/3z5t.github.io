@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgIu0E8XchTuTwXc0B5tQKe_WilcpVe-Y6hNfA8c5TQV2g6Cgd1_L6vAC1So5jDYQzsH7Yhfad2YaLLfqxsDtyshe8Hx8pZVsPPugQzk5l9y_s8l-bxSM_aTAOy2K8aSTYY_NWykKTdnvrMYCwprzjwpR_EXPpTSNymbAg5iz4_gQW44Iw4MPe41tYyUI1U=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ダークドーン、9月21日の誕生色"
 date: "2026-09-21"
 updated: "2026-09-21"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ミスティスカイ"
 description: "9月21日の誕生色 ダークドーン(3D4247)。色言葉は「新たな始まり、希望に満ちた、挑戦的」です。相性の良い色はミスティスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgIu0E8XchTuTwXc0B5tQKe_WilcpVe-Y6hNfA8c5TQV2g6Cgd1_L6vAC1So5jDYQzsH7Yhfad2YaLLfqxsDtyshe8Hx8pZVsPPugQzk5l9y_s8l-bxSM_aTAOy2K8aSTYY_NWykKTdnvrMYCwprzjwpR_EXPpTSNymbAg5iz4_gQW44Iw4MPe41tYyUI1U=s1600"
 en_name: "Dark Dawn"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgIu0E8XchTuTwXc0B5tQKe_WilcpVe-Y6hNfA8c5TQV2g6Cgd1_L6vAC1So5jDYQzsH7Yhfad2YaLLfqxsDtyshe8Hx8pZVsPPugQzk5l9y_s8l-bxSM_aTAOy2K8aSTYY_NWykKTdnvrMYCwprzjwpR_EXPpTSNymbAg5iz4_gQW44Iw4MPe41tYyUI1U=s1600)
-
 
 ## 9月21日の誕生色: ダークドーン (`#3D4247`)
 

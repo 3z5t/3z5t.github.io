@@ -1,21 +1,24 @@
 ---
-"title": "ビビッドマゼンタ、2月15日の誕生色"
-"date": "2026-02-15"
-"updated": "2026-02-15"
-"labels":
-- "ビビッドマゼンタ"
-- "誕生色"
-- "2月15日"
-- "FF00FF"
-- "2月"
-- "ビビッドライム"
-"description": "2月15日の誕生色 ビビッドマゼンタ(FF00FF)。色言葉は「創造力、情熱、躍動感」です。相性の良い色はビビッドライムです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgklKwSp1KME_tt4sD-LTHRbmfgY_UREWzWQMGLkagI7RcRMfPfUsakOdriqUlS5qvX_ICsxkLONhprmybmGsHQWwqR5XUlHVPpxRKih9W1r5o5NX6L4L1RutExSfC_itI6zpG4x0dYtvkbXtL0LHCFOwcLTysx3J-6SQXUo0H6QYMohB-eajJDwuInJU-l=s1600"
-"en_name": "Vivid Magenta"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "3968036716260692922"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/215-vivid-magenta.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgklKwSp1KME_tt4sD-LTHRbmfgY_UREWzWQMGLkagI7RcRMfPfUsakOdriqUlS5qvX_ICsxkLONhprmybmGsHQWwqR5XUlHVPpxRKih9W1r5o5NX6L4L1RutExSfC_itI6zpG4x0dYtvkbXtL0LHCFOwcLTysx3J-6SQXUo0H6QYMohB-eajJDwuInJU-l=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ビビッドマゼンタ、2月15日の誕生色"
+date: "2026-02-15"
+updated: "2026-02-15"
+tags:
+  - "ビビッドマゼンタ"
+  - "誕生色"
+  - "2月15日"
+  - "FF00FF"
+  - "2月"
+  - "ビビッドライム"
+description: "2月15日の誕生色 ビビッドマゼンタ(FF00FF)。色言葉は「創造力、情熱、躍動感」です。相性の良い色はビビッドライムです。"
+en_name: "Vivid Magenta"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "3968036716260692922"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/215-vivid-magenta.html"
 ---
 
 ## 2月15日の誕生色: ビビッドマゼンタ (`#FF00FF`)

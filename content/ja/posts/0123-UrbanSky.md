@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-23'
-description: 1月23日の誕生色 アーバンスカイ(BBC1CA)。色言葉は「現代的、洗練、進歩的」です。相性の良い色はグレイッシュグリーンです。
-en_name: Urban Sky
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiYr3wjpTCNJdwemui6FV6pXSh-9aHeSfhoIHzVAQRLEr3--U-n0h6XDISSwJX_f-oVyORqIxovnCFDDnCcbFq5Hw-_Ai4nC9OGzWLK50WWS7nsds_zq6wNdjAzq-9_xZinWtGOnBv0nr68fvgqOwFBUxFn0r-i9EqruCNEH_k4FInxNowpi-11kSZA8fxp=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-23"
+description: "1月23日の誕生色 アーバンスカイ(BBC1CA)。色言葉は「現代的、洗練、進歩的」です。相性の良い色はグレイッシュグリーンです。"
+en_name: "Urban Sky"
 tags:
-- アーバンスカイ
-- 誕生色
-- 1月23日
-- BBC1CA
-- 1月
-- グレイッシュグリーン
-postId: '1299182122468703487'
-postUrl: https://the366days-ja.blogspot.com/2026/01/123-urban-sky.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiYr3wjpTCNJdwemui6FV6pXSh-9aHeSfhoIHzVAQRLEr3--U-n0h6XDISSwJX_f-oVyORqIxovnCFDDnCcbFq5Hw-_Ai4nC9OGzWLK50WWS7nsds_zq6wNdjAzq-9_xZinWtGOnBv0nr68fvgqOwFBUxFn0r-i9EqruCNEH_k4FInxNowpi-11kSZA8fxp=s1600
-title: アーバンスカイ、1月23日の誕生色
-updated: '2026-01-23'
+  - "アーバンスカイ"
+  - "誕生色"
+  - "1月23日"
+  - "BBC1CA"
+  - "1月"
+  - "グレイッシュグリーン"
+postId: "1299182122468703487"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/123-urban-sky.html"
+profileName: "日々のカケラ"
+title: "アーバンスカイ、1月23日の誕生色"
+updated: "2026-01-23"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiYr3wjpTCNJdwemui6FV6pXSh-9aHeSfhoIHzVAQRLEr3--U-n0h6XDISSwJX_f-oVyORqIxovnCFDDnCcbFq5Hw-_Ai4nC9OGzWLK50WWS7nsds_zq6wNdjAzq-9_xZinWtGOnBv0nr68fvgqOwFBUxFn0r-i9EqruCNEH_k4FInxNowpi-11kSZA8fxp=s1600)
-
 
 ## 1月23日の誕生色: アーバンスカイ (`#BBC1CA`)
 

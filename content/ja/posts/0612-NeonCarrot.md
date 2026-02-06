@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgMTvY8IWgBSHBPxlcG_iovW-H3XUdlICrOTHg6z51bwLzPl1ef1NWz9jle-0eHxN5gPbe-AbS9fY-wKP3cJLLV9CbxrA66WknKNoryyHwhlbVe69fHlXYQZLxmC1tDuAKC8HaHgWagSnozi5AcD6B7nqD6R6oXL0Btep_5qojW1uK_JThjOU0UbM7chedU=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ネオンキャロット、6月12日の誕生色"
 date: "2026-06-12"
 updated: "2026-06-12"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "ロイヤルブルー"
 description: "6月12日の誕生色 ネオンキャロット(FF9933)。色言葉は「躍動感、活力的、情熱的」です。相性の良い色はロイヤルブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgMTvY8IWgBSHBPxlcG_iovW-H3XUdlICrOTHg6z51bwLzPl1ef1NWz9jle-0eHxN5gPbe-AbS9fY-wKP3cJLLV9CbxrA66WknKNoryyHwhlbVe69fHlXYQZLxmC1tDuAKC8HaHgWagSnozi5AcD6B7nqD6R6oXL0Btep_5qojW1uK_JThjOU0UbM7chedU=s1600"
 en_name: "Neon Carrot"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgMTvY8IWgBSHBPxlcG_iovW-H3XUdlICrOTHg6z51bwLzPl1ef1NWz9jle-0eHxN5gPbe-AbS9fY-wKP3cJLLV9CbxrA66WknKNoryyHwhlbVe69fHlXYQZLxmC1tDuAKC8HaHgWagSnozi5AcD6B7nqD6R6oXL0Btep_5qojW1uK_JThjOU0UbM7chedU=s1600)
-
 
 ## 6月12日の誕生色: ネオンキャロット (`#FF9933`)
 

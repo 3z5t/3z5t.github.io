@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgCQSL7XXFyVEl-w0P0Wy9-otwlPN0JWkyIv6qTeH1-oPTk9byc_QtldajY81qmsyzFbE2vXNIKZLd0ads0LGgOf9agsy3RG_ulYz6dsThv7tyMwguI3WQOoQd9GelGM_IJLH2r0r5tbznjZ9rTilD-RhdLYRZvsGJ_2iQ-5InoIKo9B1QRnzq36XY0V0S9=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Golden Sand, The Birthday Color of June 29"
 date: "2026-06-29"
 updated: "2026-06-29"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "royal blue"
 description: "The birthday color for June 29 is Golden Sand (CBA135). Its meaning is Patience, Endurance, Persistence."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgCQSL7XXFyVEl-w0P0Wy9-otwlPN0JWkyIv6qTeH1-oPTk9byc_QtldajY81qmsyzFbE2vXNIKZLd0ads0LGgOf9agsy3RG_ulYz6dsThv7tyMwguI3WQOoQd9GelGM_IJLH2r0r5tbznjZ9rTilD-RhdLYRZvsGJ_2iQ-5InoIKo9B1QRnzq36XY0V0S9=s1600"
 en_name: "GoldenSand"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgCQSL7XXFyVEl-w0P0Wy9-otwlPN0JWkyIv6qTeH1-oPTk9byc_QtldajY81qmsyzFbE2vXNIKZLd0ads0LGgOf9agsy3RG_ulYz6dsThv7tyMwguI3WQOoQd9GelGM_IJLH2r0r5tbznjZ9rTilD-RhdLYRZvsGJ_2iQ-5InoIKo9B1QRnzq36XY0V0S9=s1600)
-
 
 ## Birthday Color for June 29: Golden Sand (`#CBA135`)
 

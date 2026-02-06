@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi8CXBu08n_OMSY0DezjPw5Doi7vRlOipSq9Zfagasi4HsZMc6ump94YX0HO-2_TDpAVyDwfxNBS2AmSCdPb0Vk9JgvZJy5DZcmTcHxm9DUuiXiJuJWtO-K3oGiQumUdtuo4_wHbUclFmHOpoXJWbzXN2F9RJqtliNRQrMEb4Qmp6xgHDH91-RExK1NW1P0=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "バーリーティー（麦茶）、9月17日の誕生色"
 date: "2026-09-17"
 updated: "2026-09-17"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ダークターコイズ"
 description: "9月17日の誕生色 バーリーティー（麦茶）(BD844B)。色言葉は「伝統的、親しみと新しさ、包容力」です。相性の良い色はダークターコイズです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi8CXBu08n_OMSY0DezjPw5Doi7vRlOipSq9Zfagasi4HsZMc6ump94YX0HO-2_TDpAVyDwfxNBS2AmSCdPb0Vk9JgvZJy5DZcmTcHxm9DUuiXiJuJWtO-K3oGiQumUdtuo4_wHbUclFmHOpoXJWbzXN2F9RJqtliNRQrMEb4Qmp6xgHDH91-RExK1NW1P0=s1600"
 en_name: "Barley Tea"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi8CXBu08n_OMSY0DezjPw5Doi7vRlOipSq9Zfagasi4HsZMc6ump94YX0HO-2_TDpAVyDwfxNBS2AmSCdPb0Vk9JgvZJy5DZcmTcHxm9DUuiXiJuJWtO-K3oGiQumUdtuo4_wHbUclFmHOpoXJWbzXN2F9RJqtliNRQrMEb4Qmp6xgHDH91-RExK1NW1P0=s1600)
-
 
 ## 9月17日の誕生色: バーリーティー（麦茶） (`#BD844B`)
 

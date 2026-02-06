@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhcS80zCar9a--JJqSvPw1VPQ-yfwm1UYjW8ODUmR3XD22BHuFRkwtIhctvHPV8O3x7cMNGKt231VhdDMW8YzhMNvyLDtk2kZW-AmKzlXhVchSxRAvbfecdHxt1RmAm41MJyRj9yysDlWUu6CDeVeGtCRqbzMIK7hjzQFhiaRG3bihybdCAch9QtgQ0R88C=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Lime Green, The Birthday Color of May 15"
 date: "2026-05-15"
 updated: "2026-05-15"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "orchid purple"
 description: "The birthday color for May 15 is Lime Green (6EAD5C). Its meaning is Healthy, Energetic, Balanced."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhcS80zCar9a--JJqSvPw1VPQ-yfwm1UYjW8ODUmR3XD22BHuFRkwtIhctvHPV8O3x7cMNGKt231VhdDMW8YzhMNvyLDtk2kZW-AmKzlXhVchSxRAvbfecdHxt1RmAm41MJyRj9yysDlWUu6CDeVeGtCRqbzMIK7hjzQFhiaRG3bihybdCAch9QtgQ0R88C=s1600"
 en_name: "LimeGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhcS80zCar9a--JJqSvPw1VPQ-yfwm1UYjW8ODUmR3XD22BHuFRkwtIhctvHPV8O3x7cMNGKt231VhdDMW8YzhMNvyLDtk2kZW-AmKzlXhVchSxRAvbfecdHxt1RmAm41MJyRj9yysDlWUu6CDeVeGtCRqbzMIK7hjzQFhiaRG3bihybdCAch9QtgQ0R88C=s1600)
-
 
 ## Birthday Color for May 15: Lime Green (`#6EAD5C`)
 

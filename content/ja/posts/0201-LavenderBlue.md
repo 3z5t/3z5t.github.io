@@ -1,21 +1,24 @@
 ---
-"title": "ラベンダーブルー、2月1日の誕生色"
-"date": "2026-02-01"
-"updated": "2026-02-01"
-"labels":
-- "ラベンダーブルー"
-- "誕生色"
-- "2月1日"
-- "CCCCFF"
-- "2月"
-- "オータムリーブス"
-"description": "2月1日の誕生色 ラベンダーブルー(CCCCFF)。色言葉は「感受性、直感力、インスピレーション」です。相性の良い色はオータムリーブスです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjB7IHlSkfEEXNZlF9L45_0Ov0cwgYEDl2-k5WB_3NzlcPi9QELJ2cCx89sRqXZH6b300rY1AfsHxpkC1pg56QLvJhwrcWOdIFDVR3qWEflO5fwDaAyOFgC1sZHVIUWAmDkE4uBDvWmkM7Fgn-91lh8lpMKgOfhcMm0pzzSpIFusT4KGcVdtupaqu8LfWQ4=s1600"
-"en_name": "Lavender Blue"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "6407419265933704252"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/21-lavender-blue.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjB7IHlSkfEEXNZlF9L45_0Ov0cwgYEDl2-k5WB_3NzlcPi9QELJ2cCx89sRqXZH6b300rY1AfsHxpkC1pg56QLvJhwrcWOdIFDVR3qWEflO5fwDaAyOFgC1sZHVIUWAmDkE4uBDvWmkM7Fgn-91lh8lpMKgOfhcMm0pzzSpIFusT4KGcVdtupaqu8LfWQ4=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ラベンダーブルー、2月1日の誕生色"
+date: "2026-02-01"
+updated: "2026-02-01"
+tags:
+  - "ラベンダーブルー"
+  - "誕生色"
+  - "2月1日"
+  - "CCCCFF"
+  - "2月"
+  - "オータムリーブス"
+description: "2月1日の誕生色 ラベンダーブルー(CCCCFF)。色言葉は「感受性、直感力、インスピレーション」です。相性の良い色はオータムリーブスです。"
+en_name: "Lavender Blue"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "6407419265933704252"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/21-lavender-blue.html"
 ---
 
 ## 2月1日の誕生色: ラベンダーブルー (`#CCCCFF`)

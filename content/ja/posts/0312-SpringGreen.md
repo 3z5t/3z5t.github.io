@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEga_yRwh34IpjM7kGtyX59JAEyBpw4RPWzScmQ3cvCEf9NJ2H9opS_MPi-Qfm57ZaiEDLAXA8T20VWcCVOn7Rk7qrOm9WWZTOr-ZGe7aM0nwuXRQxEwayw2UQgTwv_P4WXhHsKwg89WfAOGRUFJeGgHafsN4jlXK_YbWkLRIb6pJNSf8TKFs7bgEJIN3VCl=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "スプリンググリーン、3月12日の誕生色"
 date: "2026-03-12"
 updated: "2026-03-12"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ホットマゼンタ"
 description: "3月12日の誕生色 スプリンググリーン(00FF66)。色言葉は「希望に満ちた、楽観的、創造的」です。相性の良い色はホットマゼンタです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEga_yRwh34IpjM7kGtyX59JAEyBpw4RPWzScmQ3cvCEf9NJ2H9opS_MPi-Qfm57ZaiEDLAXA8T20VWcCVOn7Rk7qrOm9WWZTOr-ZGe7aM0nwuXRQxEwayw2UQgTwv_P4WXhHsKwg89WfAOGRUFJeGgHafsN4jlXK_YbWkLRIb6pJNSf8TKFs7bgEJIN3VCl=s1600"
 en_name: "Spring Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEga_yRwh34IpjM7kGtyX59JAEyBpw4RPWzScmQ3cvCEf9NJ2H9opS_MPi-Qfm57ZaiEDLAXA8T20VWcCVOn7Rk7qrOm9WWZTOr-ZGe7aM0nwuXRQxEwayw2UQgTwv_P4WXhHsKwg89WfAOGRUFJeGgHafsN4jlXK_YbWkLRIb6pJNSf8TKFs7bgEJIN3VCl=s1600)
-
 
 ## 3月12日の誕生色: スプリンググリーン (`#00FF66`)
 

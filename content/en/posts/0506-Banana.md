@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj15laAhOhg48cvdOqG17-NOEkHAliGlj0x3qEIAB1H4l26y0Idx3S-dUjegeiMFdJ1nZi3HTtAasocXIv4oRCfXLgoLFHiJ3-a6S2Xu75Yqi5en7kOS0Zk-hL2I_qYabw1wSFamSnBEJujVFG6c570Y_9Besp8ih-Wd539bp-qstNOFORvkUV8OujNyqUa=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Banana, The Birthday Color of May 6"
 date: "2026-05-06"
 updated: "2026-05-06"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "royal cobalt"
 description: "The birthday color for May 6 is Banana (FFF462). Its meaning is Cheerful, Joyful, Optimistic."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj15laAhOhg48cvdOqG17-NOEkHAliGlj0x3qEIAB1H4l26y0Idx3S-dUjegeiMFdJ1nZi3HTtAasocXIv4oRCfXLgoLFHiJ3-a6S2Xu75Yqi5en7kOS0Zk-hL2I_qYabw1wSFamSnBEJujVFG6c570Y_9Besp8ih-Wd539bp-qstNOFORvkUV8OujNyqUa=s1600"
 en_name: "Banana"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj15laAhOhg48cvdOqG17-NOEkHAliGlj0x3qEIAB1H4l26y0Idx3S-dUjegeiMFdJ1nZi3HTtAasocXIv4oRCfXLgoLFHiJ3-a6S2Xu75Yqi5en7kOS0Zk-hL2I_qYabw1wSFamSnBEJujVFG6c570Y_9Besp8ih-Wd539bp-qstNOFORvkUV8OujNyqUa=s1600)
-
 
 ## Birthday Color for May 6: Banana (`#FFF462`)
 

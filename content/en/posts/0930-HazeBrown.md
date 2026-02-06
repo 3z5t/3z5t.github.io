@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiAHS_3jghRUpu8OfzbzYwlv8_A2VuyghQnRhIaedlmKWb66KYIqja73ZXNKSuuzJPcZXk5LyCDIifBZciAh_yINhLFd2HlkfXRilmQBt42Ww6gymCgxDOZ95hSQA-ZNVqExbCoHHvwHlZdxnUM1zkmUzMsCc5plt9XL8DtriezuxyQznJigigQgPu8Lu42=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Haze Brown, The Birthday Color of September 30"
 date: "2026-09-30"
 updated: "2026-09-30"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "slate green"
 description: "The birthday color for September 30 is Haze Brown (9D8C7A). Its meaning is Subtle Charm, Knowing Longing, Lingering."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiAHS_3jghRUpu8OfzbzYwlv8_A2VuyghQnRhIaedlmKWb66KYIqja73ZXNKSuuzJPcZXk5LyCDIifBZciAh_yINhLFd2HlkfXRilmQBt42Ww6gymCgxDOZ95hSQA-ZNVqExbCoHHvwHlZdxnUM1zkmUzMsCc5plt9XL8DtriezuxyQznJigigQgPu8Lu42=s1600"
 en_name: "HazeBrown"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiAHS_3jghRUpu8OfzbzYwlv8_A2VuyghQnRhIaedlmKWb66KYIqja73ZXNKSuuzJPcZXk5LyCDIifBZciAh_yINhLFd2HlkfXRilmQBt42Ww6gymCgxDOZ95hSQA-ZNVqExbCoHHvwHlZdxnUM1zkmUzMsCc5plt9XL8DtriezuxyQznJigigQgPu8Lu42=s1600)
-
 
 ## Birthday Color for September 30: Haze Brown (`#9D8C7A`)
 

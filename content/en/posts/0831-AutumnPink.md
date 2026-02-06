@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEge7murKLo3fsLbXCoM2FGCavzOfEMb0fqjLjLIaZ4UbdDAteZ45tsdxl-FBDR4_XHmMhKncI_kWkRHPJaZRyJ8s-I0rAxfl-fqHgHpRfDhrRB6KZX2tmjlOrF0yDzivGsrLFuFLfFt2ILI2d2m8b8IKCNapeexyC3LqWruSeOpYRKUxfMo5HTp9Lvva6rU=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Autumn Pink, The Birthday Color of August 31"
 date: "2026-08-31"
 updated: "2026-08-31"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "blooming green"
 description: "The birthday color for August 31 is Autumn Pink (CC8F8A). Its meaning is Sentimental, Lyrical, Romantic."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEge7murKLo3fsLbXCoM2FGCavzOfEMb0fqjLjLIaZ4UbdDAteZ45tsdxl-FBDR4_XHmMhKncI_kWkRHPJaZRyJ8s-I0rAxfl-fqHgHpRfDhrRB6KZX2tmjlOrF0yDzivGsrLFuFLfFt2ILI2d2m8b8IKCNapeexyC3LqWruSeOpYRKUxfMo5HTp9Lvva6rU=s1600"
 en_name: "AutumnPink"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEge7murKLo3fsLbXCoM2FGCavzOfEMb0fqjLjLIaZ4UbdDAteZ45tsdxl-FBDR4_XHmMhKncI_kWkRHPJaZRyJ8s-I0rAxfl-fqHgHpRfDhrRB6KZX2tmjlOrF0yDzivGsrLFuFLfFt2ILI2d2m8b8IKCNapeexyC3LqWruSeOpYRKUxfMo5HTp9Lvva6rU=s1600)
-
 
 ## Birthday Color for August 31: Autumn Pink (`#CC8F8A`)
 

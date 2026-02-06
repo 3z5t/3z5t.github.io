@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiikyBtU5gEowHaH0-vKj5FtVUtOcWo3wK3XrApaKpwoCQBhtcr6SU3n3B6iX-_ggckQZ66uaZCZt04Jlq3bU4VFWISXsL1DGhVubTptc6OdOJDmQna12d6oCRbZXmlpfZTnYih9eGUPN88KxbrYitfow0lOyw0Y6fnqzPcxjLqbtLoikTvsQh_cv2h1Ahp=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アフタヌーングレー、9月8日の誕生色"
 date: "2026-09-08"
 updated: "2026-09-08"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "アーバンシルバー"
 description: "9月8日の誕生色 アフタヌーングレー(75787B)。色言葉は「成熟、賢明、バランスの取れた」です。相性の良い色はアーバンシルバーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiikyBtU5gEowHaH0-vKj5FtVUtOcWo3wK3XrApaKpwoCQBhtcr6SU3n3B6iX-_ggckQZ66uaZCZt04Jlq3bU4VFWISXsL1DGhVubTptc6OdOJDmQna12d6oCRbZXmlpfZTnYih9eGUPN88KxbrYitfow0lOyw0Y6fnqzPcxjLqbtLoikTvsQh_cv2h1Ahp=s1600"
 en_name: "Afternoon Gray"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiikyBtU5gEowHaH0-vKj5FtVUtOcWo3wK3XrApaKpwoCQBhtcr6SU3n3B6iX-_ggckQZ66uaZCZt04Jlq3bU4VFWISXsL1DGhVubTptc6OdOJDmQna12d6oCRbZXmlpfZTnYih9eGUPN88KxbrYitfow0lOyw0Y6fnqzPcxjLqbtLoikTvsQh_cv2h1Ahp=s1600)
-
 
 ## 9月8日の誕生色: アフタヌーングレー (`#75787B`)
 

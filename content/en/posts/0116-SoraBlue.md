@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-16'
-description: The birthday color for January 16 is Sora Blue (7F9BB9). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiQw9IgmJKqMCYycFcnFeaqEZ_31g1LOdoWpGl7Mb8uwbEocNwTtry_NNWBJSW-ORzqlJrQKjAj0OUxB-cWoidHxXlMZ2fEmA7y4yHnJMz92gkUaNqrYzAYYG8engz6dtkPJ2pgnFvJ6USVasQUEBc9f0dDD02JTqQYGfKeDvoGCeTBV9X779RLrVYSqGk0=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-16"
+description: "The birthday color for January 16 is Sora Blue (7F9BB9). Its meaning"
   is Harmonious, Peaceful, Friendly.
-en_name: SoraBlue
+en_name: "SoraBlue"
 tags:
-- sora blue
-- birthday color
-- january 16
-- 7f9bb9
-- january
-- old green
-postId: '8664960716018988107'
-postUrl: https://the366days-en.blogspot.com/2026/01/sora-blue-birthday-color-of-january-16.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiQw9IgmJKqMCYycFcnFeaqEZ_31g1LOdoWpGl7Mb8uwbEocNwTtry_NNWBJSW-ORzqlJrQKjAj0OUxB-cWoidHxXlMZ2fEmA7y4yHnJMz92gkUaNqrYzAYYG8engz6dtkPJ2pgnFvJ6USVasQUEBc9f0dDD02JTqQYGfKeDvoGCeTBV9X779RLrVYSqGk0=s1600
-title: Sora Blue, The Birthday Color of January 16
-updated: '2026-01-16'
+  - "sora blue"
+  - "birthday color"
+  - "january 16"
+  - "7f9bb9"
+  - "january"
+  - "old green"
+postId: "8664960716018988107"
+postUrl: "https://the366days-en.blogspot.com/2026/01/sora-blue-birthday-color-of-january-16.html"
+profileName: "Pieces of a Day"
+title: "Sora Blue, The Birthday Color of January 16"
+updated: "2026-01-16"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiQw9IgmJKqMCYycFcnFeaqEZ_31g1LOdoWpGl7Mb8uwbEocNwTtry_NNWBJSW-ORzqlJrQKjAj0OUxB-cWoidHxXlMZ2fEmA7y4yHnJMz92gkUaNqrYzAYYG8engz6dtkPJ2pgnFvJ6USVasQUEBc9f0dDD02JTqQYGfKeDvoGCeTBV9X779RLrVYSqGk0=s1600)
-
 
 ## Birthday Color for January 16: Sora Blue (`#7F9BB9`)
 

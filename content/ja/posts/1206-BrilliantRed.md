@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEidpwxg2OuWZr3FYEnzjrNbZxPPz0CLdOxvXQ-AflrdtYtJb0626YncHCxZpBHuhz0qMiDaZBUFNspWHYGPs1kjiQXT5cEKNyoYlX87gM9zchg30hCUvOo3JRy0ta8hxoHVAHuSRqaqq1BREA0qcC0jDXTupS9lVQC61ZR-J8RLSu4ldzfvTuWz9D_xc6HC=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ブリリアントレッド、12月6日の誕生色"
 date: "2026-12-06"
 updated: "2026-12-06"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "アクア"
 description: "12月6日の誕生色 ブリリアントレッド(F60100)。色言葉は「深みのある、神秘的、平和」です。相性の良い色はアクアです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEidpwxg2OuWZr3FYEnzjrNbZxPPz0CLdOxvXQ-AflrdtYtJb0626YncHCxZpBHuhz0qMiDaZBUFNspWHYGPs1kjiQXT5cEKNyoYlX87gM9zchg30hCUvOo3JRy0ta8hxoHVAHuSRqaqq1BREA0qcC0jDXTupS9lVQC61ZR-J8RLSu4ldzfvTuWz9D_xc6HC=s1600"
 en_name: "Brilliant Red"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEidpwxg2OuWZr3FYEnzjrNbZxPPz0CLdOxvXQ-AflrdtYtJb0626YncHCxZpBHuhz0qMiDaZBUFNspWHYGPs1kjiQXT5cEKNyoYlX87gM9zchg30hCUvOo3JRy0ta8hxoHVAHuSRqaqq1BREA0qcC0jDXTupS9lVQC61ZR-J8RLSu4ldzfvTuWz9D_xc6HC=s1600)
-
 
 ## 12月6日の誕生色: ブリリアントレッド (`#F60100`)
 

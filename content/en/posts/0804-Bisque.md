@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh3xfwz1OP1ocwEBSD19LtLcxFPioF70ueUn9LGVPV3OVGVPPpAsZP9XuAAqOZtZlnbSiI-0u-iTdFigRoDalKPlnyeAuwsWB_cI5YIJBfxaBGr2k5RI3JzVbu2dpcL1fMlLL7D04zmmbk5DAJeAmvwnm-9ibNXpZpaNzEkg3faa9SCwimO0qeUrJiCOQg6=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Bisque, The Birthday Color of August 4"
 date: "2026-08-04"
 updated: "2026-08-04"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "evening sky"
 description: "The birthday color for August 4 is Bisque (FFE4C4). Its meaning is Cozy Heart, Warm, Stability."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh3xfwz1OP1ocwEBSD19LtLcxFPioF70ueUn9LGVPV3OVGVPPpAsZP9XuAAqOZtZlnbSiI-0u-iTdFigRoDalKPlnyeAuwsWB_cI5YIJBfxaBGr2k5RI3JzVbu2dpcL1fMlLL7D04zmmbk5DAJeAmvwnm-9ibNXpZpaNzEkg3faa9SCwimO0qeUrJiCOQg6=s1600"
 en_name: "Bisque"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh3xfwz1OP1ocwEBSD19LtLcxFPioF70ueUn9LGVPV3OVGVPPpAsZP9XuAAqOZtZlnbSiI-0u-iTdFigRoDalKPlnyeAuwsWB_cI5YIJBfxaBGr2k5RI3JzVbu2dpcL1fMlLL7D04zmmbk5DAJeAmvwnm-9ibNXpZpaNzEkg3faa9SCwimO0qeUrJiCOQg6=s1600)
-
 
 ## Birthday Color for August 4: Bisque (`#FFE4C4`)
 

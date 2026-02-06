@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhxBSauO3vIkr_RFJqW8gYAHrhPRvthMXrKG7Jy7VU0syeI-6qWG4H7lZ90aqTICceT7e3pnPRJE7glOWYANQhO_v7cgWDf7dG15UwrGgRXq_3U65c0Ckuw1EQjVrOxNO4qLrtWJ-ddiyFvPo1LtlR1HNulhAEtvwnwtichlelxIzf9nxwOQgRWIuxvzmtp=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "イエローオーカー、10月20日の誕生色"
 date: "2026-10-20"
 updated: "2026-10-20"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "オータムレイク"
 description: "10月20日の誕生色 イエローオーカー(B28E58)。色言葉は「豊かさ、感謝を知る、寛大」です。相性の良い色はオータムレイクです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhxBSauO3vIkr_RFJqW8gYAHrhPRvthMXrKG7Jy7VU0syeI-6qWG4H7lZ90aqTICceT7e3pnPRJE7glOWYANQhO_v7cgWDf7dG15UwrGgRXq_3U65c0Ckuw1EQjVrOxNO4qLrtWJ-ddiyFvPo1LtlR1HNulhAEtvwnwtichlelxIzf9nxwOQgRWIuxvzmtp=s1600"
 en_name: "Yellow Ochre"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhxBSauO3vIkr_RFJqW8gYAHrhPRvthMXrKG7Jy7VU0syeI-6qWG4H7lZ90aqTICceT7e3pnPRJE7glOWYANQhO_v7cgWDf7dG15UwrGgRXq_3U65c0Ckuw1EQjVrOxNO4qLrtWJ-ddiyFvPo1LtlR1HNulhAEtvwnwtichlelxIzf9nxwOQgRWIuxvzmtp=s1600)
-
 
 ## 10月20日の誕生色: イエローオーカー (`#B28E58`)
 

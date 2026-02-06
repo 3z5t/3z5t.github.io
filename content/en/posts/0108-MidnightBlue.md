@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-08'
-description: The birthday color for January 8 is Midnight Blue (191970). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEipujWgRqbMDMzb2emWcXzIEJzqVgs-YWZW2ttHHmEPfPMkITd44fD6G2UEUOJR0NEiJMKZWwPEKtNXKbGWZVsnEh6-Xc4sz-xURiBkh1RM4se7ysBEyHOC9DQ2NSxOPxrPDVH4t9ljRX_5_dibykCnX2MlorGE2YJC0KClPAPaaS2wmdsuzgbDy1Hyx4-j=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-08"
+description: "The birthday color for January 8 is Midnight Blue (191970). Its meaning"
   is Wisdom, Insight, Creativity.
-en_name: MidnightBlue
+en_name: "MidnightBlue"
 tags:
-- midnight blue
-- birthday color
-- january 8
-- '191970'
-- january
-- soft lemon
-postId: '1105058855144815696'
-postUrl: https://the366days-en.blogspot.com/2026/01/midnight-blue-birthday-color-of-january.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEipujWgRqbMDMzb2emWcXzIEJzqVgs-YWZW2ttHHmEPfPMkITd44fD6G2UEUOJR0NEiJMKZWwPEKtNXKbGWZVsnEh6-Xc4sz-xURiBkh1RM4se7ysBEyHOC9DQ2NSxOPxrPDVH4t9ljRX_5_dibykCnX2MlorGE2YJC0KClPAPaaS2wmdsuzgbDy1Hyx4-j=s1600
-title: Midnight Blue, The Birthday Color of January 8
-updated: '2026-01-08'
+  - "midnight blue"
+  - "birthday color"
+  - "january 8"
+  - "191970"
+  - "january"
+  - "soft lemon"
+postId: "1105058855144815696"
+postUrl: "https://the366days-en.blogspot.com/2026/01/midnight-blue-birthday-color-of-january.html"
+profileName: "Pieces of a Day"
+title: "Midnight Blue, The Birthday Color of January 8"
+updated: "2026-01-08"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEipujWgRqbMDMzb2emWcXzIEJzqVgs-YWZW2ttHHmEPfPMkITd44fD6G2UEUOJR0NEiJMKZWwPEKtNXKbGWZVsnEh6-Xc4sz-xURiBkh1RM4se7ysBEyHOC9DQ2NSxOPxrPDVH4t9ljRX_5_dibykCnX2MlorGE2YJC0KClPAPaaS2wmdsuzgbDy1Hyx4-j=s1600)
-
 
 ## Birthday Color for January 8: Midnight Blue (`#191970`)
 

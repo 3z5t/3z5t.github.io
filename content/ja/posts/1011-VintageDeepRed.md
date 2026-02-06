@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiQOX7nYuW1EAwuLzqLsqc34KBwTaxB1PiqZfYO-6Wfs-ojrugP7VdZF4CYLVMoAxenYCoRTNhDEbVRqCat81_r4-iusmrByOfF1rg03Xwk35M0Iy9vq0a4DFSG_xDZ-VOtZ-d8r4dasD6HJQEDhJMBdbDkV218z15lVNOz01gcOlRtaagb_8dly7aszw0j=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ヴィンテージディープレッド、10月11日の誕生色"
 date: "2026-10-11"
 updated: "2026-10-11"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "デリケートグリーン"
 description: "10月11日の誕生色 ヴィンテージディープレッド(8D192B)。色言葉は「深みのある、慎重、成熟」です。相性の良い色はデリケートグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiQOX7nYuW1EAwuLzqLsqc34KBwTaxB1PiqZfYO-6Wfs-ojrugP7VdZF4CYLVMoAxenYCoRTNhDEbVRqCat81_r4-iusmrByOfF1rg03Xwk35M0Iy9vq0a4DFSG_xDZ-VOtZ-d8r4dasD6HJQEDhJMBdbDkV218z15lVNOz01gcOlRtaagb_8dly7aszw0j=s1600"
 en_name: "Vintage Deep Red"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiQOX7nYuW1EAwuLzqLsqc34KBwTaxB1PiqZfYO-6Wfs-ojrugP7VdZF4CYLVMoAxenYCoRTNhDEbVRqCat81_r4-iusmrByOfF1rg03Xwk35M0Iy9vq0a4DFSG_xDZ-VOtZ-d8r4dasD6HJQEDhJMBdbDkV218z15lVNOz01gcOlRtaagb_8dly7aszw0j=s1600)
-
 
 ## 10月11日の誕生色: ヴィンテージディープレッド (`#8D192B`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiU8VFrzSm5GQ-HHv7J-yDfT7pYFE_4apCKTFO0vB9GRl0rAea40rusbgaLP6xuy4xUDQEzKQXH7xfJQ23hEmvXxUBEC0AzQ4Yas7EBKB14KFNwpzEZvKFfoh4ObO-T8K4PxY5PSml0123-IdU-Ez5gSBk1wSfzOKHEpvE2vQbDpjQ2qWqOQK-8ZE_mRQuw=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Light Cyan, The Birthday Color of May 31"
 date: "2026-05-31"
 updated: "2026-05-31"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "antique choco"
 description: "The birthday color for May 31 is Light Cyan (E0FFFF). Its meaning is Refreshing, Clear Mind, Balanced."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiU8VFrzSm5GQ-HHv7J-yDfT7pYFE_4apCKTFO0vB9GRl0rAea40rusbgaLP6xuy4xUDQEzKQXH7xfJQ23hEmvXxUBEC0AzQ4Yas7EBKB14KFNwpzEZvKFfoh4ObO-T8K4PxY5PSml0123-IdU-Ez5gSBk1wSfzOKHEpvE2vQbDpjQ2qWqOQK-8ZE_mRQuw=s1600"
 en_name: "LightCyan"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiU8VFrzSm5GQ-HHv7J-yDfT7pYFE_4apCKTFO0vB9GRl0rAea40rusbgaLP6xuy4xUDQEzKQXH7xfJQ23hEmvXxUBEC0AzQ4Yas7EBKB14KFNwpzEZvKFfoh4ObO-T8K4PxY5PSml0123-IdU-Ez5gSBk1wSfzOKHEpvE2vQbDpjQ2qWqOQK-8ZE_mRQuw=s1600)
-
 
 ## Birthday Color for May 31: Light Cyan (`#E0FFFF`)
 

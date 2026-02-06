@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhRyj7aoUSH5hpounNTVI33G64CeCtlaHb9RG5uRwKjgRJO9bhnrJT1CRecUADkenTFtW5k3HPVIh2jIvq28_Xs3B4mMUalO4r4PJBP-dHIN7nJ39tIXEW5LNtPJSR6h0339nygV_AlLsay8y_NDqWEvMOdnYabrkWfvKGXzY1tox7IUmbZy4otb8sxyHpM=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ヤングリーフ、3月2日の誕生色"
 date: "2026-03-02"
 updated: "2026-03-02"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ディープオーシャン"
 description: "3月2日の誕生色 ヤングリーフ(93AC8B)。色言葉は「成長力、可能性、新しさ」です。相性の良い色はディープオーシャンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhRyj7aoUSH5hpounNTVI33G64CeCtlaHb9RG5uRwKjgRJO9bhnrJT1CRecUADkenTFtW5k3HPVIh2jIvq28_Xs3B4mMUalO4r4PJBP-dHIN7nJ39tIXEW5LNtPJSR6h0339nygV_AlLsay8y_NDqWEvMOdnYabrkWfvKGXzY1tox7IUmbZy4otb8sxyHpM=s1600"
 en_name: "Young Leaf"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhRyj7aoUSH5hpounNTVI33G64CeCtlaHb9RG5uRwKjgRJO9bhnrJT1CRecUADkenTFtW5k3HPVIh2jIvq28_Xs3B4mMUalO4r4PJBP-dHIN7nJ39tIXEW5LNtPJSR6h0339nygV_AlLsay8y_NDqWEvMOdnYabrkWfvKGXzY1tox7IUmbZy4otb8sxyHpM=s1600)
-
 
 ## 3月2日の誕生色: ヤングリーフ (`#93AC8B`)
 

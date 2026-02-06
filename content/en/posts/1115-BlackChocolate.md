@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj_rq6n0G_Tgb7rC4WVg70z3PiALWjgAm576ukZ6lFZc2RZXeZ_-i-7RZI4B4UZRHWh_xrindyg7Q3GOB2dnArI0bY9zlb9fFZgEFOxkM_65_9TnRz4QApZIg1UyubH9hyjUSFX25E7LH-2ERDcC0jOqgVHQ8kNISwlBD_szSu3w4tC61rY4zB7kW8kuKhx=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Black Chocolate, The Birthday Color of November 15"
 date: "2026-11-15"
 updated: "2026-11-15"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "pure silver"
 description: "The birthday color for November 15 is Black Chocolate (191616). Its meaning is Mature, Profound, Bittersweet."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj_rq6n0G_Tgb7rC4WVg70z3PiALWjgAm576ukZ6lFZc2RZXeZ_-i-7RZI4B4UZRHWh_xrindyg7Q3GOB2dnArI0bY9zlb9fFZgEFOxkM_65_9TnRz4QApZIg1UyubH9hyjUSFX25E7LH-2ERDcC0jOqgVHQ8kNISwlBD_szSu3w4tC61rY4zB7kW8kuKhx=s1600"
 en_name: "BlackChocolate"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj_rq6n0G_Tgb7rC4WVg70z3PiALWjgAm576ukZ6lFZc2RZXeZ_-i-7RZI4B4UZRHWh_xrindyg7Q3GOB2dnArI0bY9zlb9fFZgEFOxkM_65_9TnRz4QApZIg1UyubH9hyjUSFX25E7LH-2ERDcC0jOqgVHQ8kNISwlBD_szSu3w4tC61rY4zB7kW8kuKhx=s1600)
-
 
 ## Birthday Color for November 15: Black Chocolate (`#191616`)
 

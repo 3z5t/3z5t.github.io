@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-19'
-description: 1月19日の誕生色 ディープソラ(667CB8)。色言葉は「誠実、勤勉、責任感」です。相性の良い色はアンティーククリスマスゴールドです。
-en_name: Deep Sora
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhNhoguZWAnQk8g1WJFA5C8vZbcwDZjtC0tKBscWoLMJ8PI0X1ZsGjHLV93b6J3_I88FWJOXCUzWWaUYeb_oVfCn9psJTBauy7ob-g0ihJnb70Ap6EInHUj5scAASqXZvQRCD6F9XLMy1GoBbLgrYhm-vOUqNXenvkuXRbu9PQ-HtAkhvVv0nE7d4T4jaPC=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-19"
+description: "1月19日の誕生色 ディープソラ(667CB8)。色言葉は「誠実、勤勉、責任感」です。相性の良い色はアンティーククリスマスゴールドです。"
+en_name: "Deep Sora"
 tags:
-- ディープソラ
-- 誕生色
-- 1月19日
-- 667CB8
-- 1月
-- アンティーククリスマスゴールド
-postId: '5248836971845566385'
-postUrl: https://the366days-ja.blogspot.com/2026/01/119-deep-sora.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhNhoguZWAnQk8g1WJFA5C8vZbcwDZjtC0tKBscWoLMJ8PI0X1ZsGjHLV93b6J3_I88FWJOXCUzWWaUYeb_oVfCn9psJTBauy7ob-g0ihJnb70Ap6EInHUj5scAASqXZvQRCD6F9XLMy1GoBbLgrYhm-vOUqNXenvkuXRbu9PQ-HtAkhvVv0nE7d4T4jaPC=s1600
-title: ディープソラ、1月19日の誕生色
-updated: '2026-01-19'
+  - "ディープソラ"
+  - "誕生色"
+  - "1月19日"
+  - "667CB8"
+  - "1月"
+  - "アンティーククリスマスゴールド"
+postId: "5248836971845566385"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/119-deep-sora.html"
+profileName: "日々のカケラ"
+title: "ディープソラ、1月19日の誕生色"
+updated: "2026-01-19"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhNhoguZWAnQk8g1WJFA5C8vZbcwDZjtC0tKBscWoLMJ8PI0X1ZsGjHLV93b6J3_I88FWJOXCUzWWaUYeb_oVfCn9psJTBauy7ob-g0ihJnb70Ap6EInHUj5scAASqXZvQRCD6F9XLMy1GoBbLgrYhm-vOUqNXenvkuXRbu9PQ-HtAkhvVv0nE7d4T4jaPC=s1600)
-
 
 ## 1月19日の誕生色: ディープソラ (`#667CB8`)
 

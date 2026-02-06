@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj3yMt9p8FAd7uvjc3CTAHd9Cwuh7CLmXjKQ6HC65g3RaLby4_Y7kD7AsLZn77T3iEFPSmEXldBNVkL5F-4obLi4JQkJ2IelxFpA5pfiJnF-VNKNm6IumyftjzjoZzvs360b2kI3TaWuEDaMKWzfko_Z_WzGjDD030O5qFzwmlyZIZfkVuM75B0d-bYkUIX=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "サンセットオレンジ、6月11日の誕生色"
 date: "2026-06-11"
 updated: "2026-06-11"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "アジュールブルー"
 description: "6月11日の誕生色 サンセットオレンジ(FF6600)。色言葉は「慎重、洞察力、保護力」です。相性の良い色はアジュールブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj3yMt9p8FAd7uvjc3CTAHd9Cwuh7CLmXjKQ6HC65g3RaLby4_Y7kD7AsLZn77T3iEFPSmEXldBNVkL5F-4obLi4JQkJ2IelxFpA5pfiJnF-VNKNm6IumyftjzjoZzvs360b2kI3TaWuEDaMKWzfko_Z_WzGjDD030O5qFzwmlyZIZfkVuM75B0d-bYkUIX=s1600"
 en_name: "Sunset Orange"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj3yMt9p8FAd7uvjc3CTAHd9Cwuh7CLmXjKQ6HC65g3RaLby4_Y7kD7AsLZn77T3iEFPSmEXldBNVkL5F-4obLi4JQkJ2IelxFpA5pfiJnF-VNKNm6IumyftjzjoZzvs360b2kI3TaWuEDaMKWzfko_Z_WzGjDD030O5qFzwmlyZIZfkVuM75B0d-bYkUIX=s1600)
-
 
 ## 6月11日の誕生色: サンセットオレンジ (`#FF6600`)
 

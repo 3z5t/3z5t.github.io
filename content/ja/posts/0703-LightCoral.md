@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh_nEImfJ-pRPwqSQSO25VWTBCzCW9eI8SMOA4Cxv8Zn0JRbDldWuIckVHgDhp5PGywR2ISlGLCZDGYFeh3eW2gQq3oCzh4GhcSvLEDjjPqtDC816crVXiQjg4QLIN2cu9J0fYxHJvWwljMOfQOK0hf3-rHiBIjyKiYueTvQu0Oqn2HIN0_EetVWkSsFY42=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ライトコーラル、7月3日の誕生色"
 date: "2026-07-03"
 updated: "2026-07-03"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "シーグリーン"
 description: "7月3日の誕生色 ライトコーラル(F19292)。色言葉は「柔らかい心、優しさ、温和」です。相性の良い色はシーグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh_nEImfJ-pRPwqSQSO25VWTBCzCW9eI8SMOA4Cxv8Zn0JRbDldWuIckVHgDhp5PGywR2ISlGLCZDGYFeh3eW2gQq3oCzh4GhcSvLEDjjPqtDC816crVXiQjg4QLIN2cu9J0fYxHJvWwljMOfQOK0hf3-rHiBIjyKiYueTvQu0Oqn2HIN0_EetVWkSsFY42=s1600"
 en_name: "Light Coral"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh_nEImfJ-pRPwqSQSO25VWTBCzCW9eI8SMOA4Cxv8Zn0JRbDldWuIckVHgDhp5PGywR2ISlGLCZDGYFeh3eW2gQq3oCzh4GhcSvLEDjjPqtDC816crVXiQjg4QLIN2cu9J0fYxHJvWwljMOfQOK0hf3-rHiBIjyKiYueTvQu0Oqn2HIN0_EetVWkSsFY42=s1600)
-
 
 ## 7月3日の誕生色: ライトコーラル (`#F19292`)
 

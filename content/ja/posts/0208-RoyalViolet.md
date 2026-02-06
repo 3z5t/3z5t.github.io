@@ -1,21 +1,24 @@
 ---
-"title": "ロイヤルバイオレット、2月8日の誕生色"
-"date": "2026-02-08"
-"updated": "2026-02-08"
-"labels":
-- "ロイヤルバイオレット"
-- "誕生色"
-- "2月8日"
-- "32127A"
-- "2月"
-- "ソフトレモン"
-"description": "2月8日の誕生色 ロイヤルバイオレット(32127A)。色言葉は「哲学的、瞑想的、洞察力」です。相性の良い色はソフトレモンです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEiuBPtA9K0_7aNYbx4a3ytIJNi8mYkHPJ5NkeKbSWtYg69F0obREsoenK3jHR_5IRIH9uV1fEa_f1PpQgaJHglqKUToeFyugT3DQeX8oO6HOKuJIRssHx9ccwMtFrJn4vkzuFJltG3AMlPulHtRoL15uwX-lsMaNfhzLs-6grAP0SFhU6YYUhx7PD2efbyq=s1600"
-"en_name": "Royal Violet"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "5424695134184315026"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/28-royal-violet.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiuBPtA9K0_7aNYbx4a3ytIJNi8mYkHPJ5NkeKbSWtYg69F0obREsoenK3jHR_5IRIH9uV1fEa_f1PpQgaJHglqKUToeFyugT3DQeX8oO6HOKuJIRssHx9ccwMtFrJn4vkzuFJltG3AMlPulHtRoL15uwX-lsMaNfhzLs-6grAP0SFhU6YYUhx7PD2efbyq=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ロイヤルバイオレット、2月8日の誕生色"
+date: "2026-02-08"
+updated: "2026-02-08"
+tags:
+  - "ロイヤルバイオレット"
+  - "誕生色"
+  - "2月8日"
+  - "32127A"
+  - "2月"
+  - "ソフトレモン"
+description: "2月8日の誕生色 ロイヤルバイオレット(32127A)。色言葉は「哲学的、瞑想的、洞察力」です。相性の良い色はソフトレモンです。"
+en_name: "Royal Violet"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "5424695134184315026"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/28-royal-violet.html"
 ---
 
 ## 2月8日の誕生色: ロイヤルバイオレット (`#32127A`)

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj8NdLNPzik3qVKZ7NBbnHzncM5VD6lrvzOa3rH-U_uDNlbNcoXKrIYTAF-Hr4PPi60bapgzd5PuGOcg53pRSRGbWYyGR0hOPoiLaHmqjtIfqB7sfq0tIoK20DgyAxbcIRJRuKJXyxqY1VGt5n5c_qEiYDrcYIsoUnT5Y3uUTLL6uVntQv_KHOBpM9v-CzQ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ルドルフブラウン、12月3日の誕生色"
 date: "2026-12-03"
 updated: "2026-12-03"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ブライトブルー"
 description: "12月3日の誕生色 ルドルフブラウン(6C4D32)。色言葉は「温かい心、心地よい、安定感」です。相性の良い色はブライトブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj8NdLNPzik3qVKZ7NBbnHzncM5VD6lrvzOa3rH-U_uDNlbNcoXKrIYTAF-Hr4PPi60bapgzd5PuGOcg53pRSRGbWYyGR0hOPoiLaHmqjtIfqB7sfq0tIoK20DgyAxbcIRJRuKJXyxqY1VGt5n5c_qEiYDrcYIsoUnT5Y3uUTLL6uVntQv_KHOBpM9v-CzQ=s1600"
 en_name: "Rudolph Brown"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj8NdLNPzik3qVKZ7NBbnHzncM5VD6lrvzOa3rH-U_uDNlbNcoXKrIYTAF-Hr4PPi60bapgzd5PuGOcg53pRSRGbWYyGR0hOPoiLaHmqjtIfqB7sfq0tIoK20DgyAxbcIRJRuKJXyxqY1VGt5n5c_qEiYDrcYIsoUnT5Y3uUTLL6uVntQv_KHOBpM9v-CzQ=s1600)
-
 
 ## 12月3日の誕生色: ルドルフブラウン (`#6C4D32`)
 

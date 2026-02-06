@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgN6RPaaM62TsrIcpqeATdf06EaZBSZHNQLTBOdSAphu9ZUcMtRWGdd7jMhtKzfuntEJcL91KynTt8E9heFjxuQljs9ehDBVbiN90P0YIyao7iKVDnPWb-bZztMKWdAsU1X4ZfHSUW7zQCmXcCQY4_t8K9Jp8qf0Im3dyMLxiokYmpGFaHUKVkFlyqx3WAt=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Afternoon Gray, The Birthday Color of September 8"
 date: "2026-09-08"
 updated: "2026-09-08"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "urban silver"
 description: "The birthday color for September 8 is Afternoon Gray (75787B). Its meaning is Mature, Wise, Balanced."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgN6RPaaM62TsrIcpqeATdf06EaZBSZHNQLTBOdSAphu9ZUcMtRWGdd7jMhtKzfuntEJcL91KynTt8E9heFjxuQljs9ehDBVbiN90P0YIyao7iKVDnPWb-bZztMKWdAsU1X4ZfHSUW7zQCmXcCQY4_t8K9Jp8qf0Im3dyMLxiokYmpGFaHUKVkFlyqx3WAt=s1600"
 en_name: "AfternoonGray"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgN6RPaaM62TsrIcpqeATdf06EaZBSZHNQLTBOdSAphu9ZUcMtRWGdd7jMhtKzfuntEJcL91KynTt8E9heFjxuQljs9ehDBVbiN90P0YIyao7iKVDnPWb-bZztMKWdAsU1X4ZfHSUW7zQCmXcCQY4_t8K9Jp8qf0Im3dyMLxiokYmpGFaHUKVkFlyqx3WAt=s1600)
-
 
 ## Birthday Color for September 8: Afternoon Gray (`#75787B`)
 

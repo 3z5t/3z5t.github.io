@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgIlWwf5GELwNCHath7a7Fgaa1n4UaaGX0elvx0xSnDGexp2ARJ9GNmamogmi-ONWlDKBtj4Y5Zn0baFC0v3jcK53Soca97STLd30v1HlJ5LcP2m4ZagzOGhpgT1VYbcAjLAbPa9a8S-i8r3ISXrV1qGDWmcSj0W0dnvrfRfXdXW2JfvxmQyfyPto5YEAtU=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ヴィンテージチューリップ、12月4日の誕生色"
 date: "2026-12-04"
 updated: "2026-12-04"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ライトスカイ"
 description: "12月4日の誕生色 ヴィンテージチューリップ(B80C03)。色言葉は「深みのある、神秘的、静寂」です。相性の良い色はライトスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgIlWwf5GELwNCHath7a7Fgaa1n4UaaGX0elvx0xSnDGexp2ARJ9GNmamogmi-ONWlDKBtj4Y5Zn0baFC0v3jcK53Soca97STLd30v1HlJ5LcP2m4ZagzOGhpgT1VYbcAjLAbPa9a8S-i8r3ISXrV1qGDWmcSj0W0dnvrfRfXdXW2JfvxmQyfyPto5YEAtU=s1600"
 en_name: "Vintage Tulip"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgIlWwf5GELwNCHath7a7Fgaa1n4UaaGX0elvx0xSnDGexp2ARJ9GNmamogmi-ONWlDKBtj4Y5Zn0baFC0v3jcK53Soca97STLd30v1HlJ5LcP2m4ZagzOGhpgT1VYbcAjLAbPa9a8S-i8r3ISXrV1qGDWmcSj0W0dnvrfRfXdXW2JfvxmQyfyPto5YEAtU=s1600)
-
 
 ## 12月4日の誕生色: ヴィンテージチューリップ (`#B80C03`)
 

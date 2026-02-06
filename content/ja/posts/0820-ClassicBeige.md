@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiIcHzCz39WrWq-tzRCjabAP84w8mzFrtriDS9CV1rLqgHeDhu3jvltZo5EMO7rOthPrPDs6ikBTH_60Fdgo3HBvYsnTpnkMjcU5PhmWszLdWAmHpliAhgQQQ_ecy5SaYtCWlr2X6O9jSiZkuxNjTxkVCszzoDH8UgkwqS1MBBi99A5p8razpsklwvvMb-d=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "クラシックベージュ、8月20日の誕生色"
 date: "2026-08-20"
 updated: "2026-08-20"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "トゥルーネイビー"
 description: "8月20日の誕生色 クラシックベージュ(D7C095)。色言葉は「安定感、快適、落ち着き」です。相性の良い色はトゥルーネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiIcHzCz39WrWq-tzRCjabAP84w8mzFrtriDS9CV1rLqgHeDhu3jvltZo5EMO7rOthPrPDs6ikBTH_60Fdgo3HBvYsnTpnkMjcU5PhmWszLdWAmHpliAhgQQQ_ecy5SaYtCWlr2X6O9jSiZkuxNjTxkVCszzoDH8UgkwqS1MBBi99A5p8razpsklwvvMb-d=s1600"
 en_name: "Classic Beige"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiIcHzCz39WrWq-tzRCjabAP84w8mzFrtriDS9CV1rLqgHeDhu3jvltZo5EMO7rOthPrPDs6ikBTH_60Fdgo3HBvYsnTpnkMjcU5PhmWszLdWAmHpliAhgQQQ_ecy5SaYtCWlr2X6O9jSiZkuxNjTxkVCszzoDH8UgkwqS1MBBi99A5p8razpsklwvvMb-d=s1600)
-
 
 ## 8月20日の誕生色: クラシックベージュ (`#D7C095`)
 

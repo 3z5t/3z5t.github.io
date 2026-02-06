@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhuk-l85C02oa3mmgx-9r2r7fDXgbG1D564_8O5FU3KFMWno-gz9p76DWAWedS7n0yRZpFEcVXzDCEO0jFSWm-_jgzmGTDuEIrRpAC-EIK52qbQIpBteKvs_d1shne3lXnGM4HEmBfYryp0Wp-dA8_PUyAggAN7zQyXpOkMFgxg2LNqsySKkfSS2x_iyCNA=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Shamrock, The Birthday Color of May 11"
 date: "2026-05-11"
 updated: "2026-05-11"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "plum"
 description: "The birthday color for May 11 is Shamrock (33CC99). Its meaning is Luck, Inspiration, Creativity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhuk-l85C02oa3mmgx-9r2r7fDXgbG1D564_8O5FU3KFMWno-gz9p76DWAWedS7n0yRZpFEcVXzDCEO0jFSWm-_jgzmGTDuEIrRpAC-EIK52qbQIpBteKvs_d1shne3lXnGM4HEmBfYryp0Wp-dA8_PUyAggAN7zQyXpOkMFgxg2LNqsySKkfSS2x_iyCNA=s1600"
 en_name: "Shamrock"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhuk-l85C02oa3mmgx-9r2r7fDXgbG1D564_8O5FU3KFMWno-gz9p76DWAWedS7n0yRZpFEcVXzDCEO0jFSWm-_jgzmGTDuEIrRpAC-EIK52qbQIpBteKvs_d1shne3lXnGM4HEmBfYryp0Wp-dA8_PUyAggAN7zQyXpOkMFgxg2LNqsySKkfSS2x_iyCNA=s1600)
-
 
 ## Birthday Color for May 11: Shamrock (`#33CC99`)
 

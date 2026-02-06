@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgu5xn5WQmjk8UsEPgSla3t0IhYagYr60hlyKAHfJ1gC38GZHeJB7WoB8DuZRnT6nnAbVZoveL2l98UvCFrvP7hE2T9F0uHrf1kzcowzoB16Kop3JEOTPWPciJxJPYBWIt5Lb-0zb8BM612n3XsLSUu7rO6_-1z8c7acLXC2-Crn8PAdoA6BeBWdVna_wOb=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Cloud Gray, The Birthday Color of October 21"
 date: "2026-10-21"
 updated: "2026-10-21"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "real black"
 description: "The birthday color for October 21 is Cloud Gray (D8D3CD). Its meaning is Inclusive, Serene, Mature."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgu5xn5WQmjk8UsEPgSla3t0IhYagYr60hlyKAHfJ1gC38GZHeJB7WoB8DuZRnT6nnAbVZoveL2l98UvCFrvP7hE2T9F0uHrf1kzcowzoB16Kop3JEOTPWPciJxJPYBWIt5Lb-0zb8BM612n3XsLSUu7rO6_-1z8c7acLXC2-Crn8PAdoA6BeBWdVna_wOb=s1600"
 en_name: "CloudGray"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgu5xn5WQmjk8UsEPgSla3t0IhYagYr60hlyKAHfJ1gC38GZHeJB7WoB8DuZRnT6nnAbVZoveL2l98UvCFrvP7hE2T9F0uHrf1kzcowzoB16Kop3JEOTPWPciJxJPYBWIt5Lb-0zb8BM612n3XsLSUu7rO6_-1z8c7acLXC2-Crn8PAdoA6BeBWdVna_wOb=s1600)
-
 
 ## Birthday Color for October 21: Cloud Gray (`#D8D3CD`)
 

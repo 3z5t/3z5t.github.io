@@ -1,21 +1,24 @@
 ---
-"title": "Lavender Blush, The Birthday Color of February 2"
-"date": "2026-02-02"
-"updated": "2026-02-02"
-"labels":
-- "lavender blush"
-- "birthday color"
-- "february 2"
-- "ffccff"
-- "february"
-- "deep forest"
-"description": "The birthday color for February 2 is Lavender Blush (FFCCFF). Its meaning is Romantic, Artistic, Imagination."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEiu1fwm5arNX-FAuNoZgS04-Xr74nPzgHoG8wzbqLSDH14AD_z68b7wG9X5KzDOlbwsEHntdaAmTXn4tl16fwfenzznfEskCtiKSlKLt4BIA9NI8BbggyaFdDtRLFMJWGIkx7KC7FLLvAg58SBX23TGwkD_DDmhC_B4sIK4XgcTOo40ATohJjHtH6FjKh_M=s1600"
-"en_name": "LavenderBlush"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "2274766054976606066"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/lavender-blush-birthday-color-of.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiu1fwm5arNX-FAuNoZgS04-Xr74nPzgHoG8wzbqLSDH14AD_z68b7wG9X5KzDOlbwsEHntdaAmTXn4tl16fwfenzznfEskCtiKSlKLt4BIA9NI8BbggyaFdDtRLFMJWGIkx7KC7FLLvAg58SBX23TGwkD_DDmhC_B4sIK4XgcTOo40ATohJjHtH6FjKh_M=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Lavender Blush, The Birthday Color of February 2"
+date: "2026-02-02"
+updated: "2026-02-02"
+tags:
+  - "lavender blush"
+  - "birthday color"
+  - "february 2"
+  - "ffccff"
+  - "february"
+  - "deep forest"
+description: "The birthday color for February 2 is Lavender Blush (FFCCFF). Its meaning is Romantic, Artistic, Imagination."
+en_name: "LavenderBlush"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "2274766054976606066"
+postUrl: "https://the366days-en.blogspot.com/2026/02/lavender-blush-birthday-color-of.html"
 ---
 
 ## Birthday Color for February 2: Lavender Blush (`#FFCCFF`)

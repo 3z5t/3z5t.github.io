@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhtE49IeEiBSEW26jc-QRW-YuEKbaRUCXgXXSoM4YI-AQ0q6gZHBfDkvQlo6G5Yw2yQZPd4eLKdIXWo5E5vyBp04gTavkpkDY0R_zHCkIKxFbNve63bAD--i-cBr8vd8NlIVGkrcsxS6wkkLD9bLGDhVhVOCkWChDlH5qbT7Pv2hwMd9721Ujr65pUo5ppG=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "リアルブラック、11月14日の誕生色"
 date: "2026-11-14"
 updated: "2026-11-14"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "クラウドグレー"
 description: "11月14日の誕生色 リアルブラック(2B2B2B)。色言葉は「重量感、深みのある、安定」です。相性の良い色はクラウドグレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhtE49IeEiBSEW26jc-QRW-YuEKbaRUCXgXXSoM4YI-AQ0q6gZHBfDkvQlo6G5Yw2yQZPd4eLKdIXWo5E5vyBp04gTavkpkDY0R_zHCkIKxFbNve63bAD--i-cBr8vd8NlIVGkrcsxS6wkkLD9bLGDhVhVOCkWChDlH5qbT7Pv2hwMd9721Ujr65pUo5ppG=s1600"
 en_name: "Real Black"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhtE49IeEiBSEW26jc-QRW-YuEKbaRUCXgXXSoM4YI-AQ0q6gZHBfDkvQlo6G5Yw2yQZPd4eLKdIXWo5E5vyBp04gTavkpkDY0R_zHCkIKxFbNve63bAD--i-cBr8vd8NlIVGkrcsxS6wkkLD9bLGDhVhVOCkWChDlH5qbT7Pv2hwMd9721Ujr65pUo5ppG=s1600)
-
 
 ## 11月14日の誕生色: リアルブラック (`#2B2B2B`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiEjbypDshilsW4IfFeSeiSF1Kxsrw80DCAy_NT_2-zb_of93rv5ble_9MFiS7_ibWzPjmespW9IPvElGrYF_kwkKPA1JfMadJARo0fxoS5tKsAWuqi0tWFo67TSl2Y-gBs3fvEI6Vx0UHySPh2Agu_3paCi1f2HrzNvQDRn9nMiUlb6mlFOk0hFYjnVN58=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ソフトモーブ、11月5日の誕生色"
 date: "2026-11-05"
 updated: "2026-11-05"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "アーバンシルバー"
 description: "11月5日の誕生色 ソフトモーブ(887A7C)。色言葉は「柔らかい心、温和、包容力」です。相性の良い色はアーバンシルバーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiEjbypDshilsW4IfFeSeiSF1Kxsrw80DCAy_NT_2-zb_of93rv5ble_9MFiS7_ibWzPjmespW9IPvElGrYF_kwkKPA1JfMadJARo0fxoS5tKsAWuqi0tWFo67TSl2Y-gBs3fvEI6Vx0UHySPh2Agu_3paCi1f2HrzNvQDRn9nMiUlb6mlFOk0hFYjnVN58=s1600"
 en_name: "Soft Mauve"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiEjbypDshilsW4IfFeSeiSF1Kxsrw80DCAy_NT_2-zb_of93rv5ble_9MFiS7_ibWzPjmespW9IPvElGrYF_kwkKPA1JfMadJARo0fxoS5tKsAWuqi0tWFo67TSl2Y-gBs3fvEI6Vx0UHySPh2Agu_3paCi1f2HrzNvQDRn9nMiUlb6mlFOk0hFYjnVN58=s1600)
-
 
 ## 11月5日の誕生色: ソフトモーブ (`#887A7C`)
 

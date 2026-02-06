@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgcDtRnN9SHGFmKYB9tsjOacy7O2gZ9b_1wgnkrH0FJbxem82Ajq6svNh3h-zdgAPHDGcV1nzJqzay7-wPM1Jb7B2uT57a35BxQzDl_xXjPzB3tVVeVGK27tN5VK4eF2JJGmfTX6sAZJZQflIvEmcsCgS3pYAFJfBe4rXIB_USP7uYBTQTJEYnH4re3sjZU=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Night, The Birthday Color of November 16"
 date: "2026-11-16"
 updated: "2026-11-16"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "pure silver"
 description: "The birthday color for November 16 is Deep Night (1A161F). Its meaning is Serene Soul, Peaceful, Contemplative."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgcDtRnN9SHGFmKYB9tsjOacy7O2gZ9b_1wgnkrH0FJbxem82Ajq6svNh3h-zdgAPHDGcV1nzJqzay7-wPM1Jb7B2uT57a35BxQzDl_xXjPzB3tVVeVGK27tN5VK4eF2JJGmfTX6sAZJZQflIvEmcsCgS3pYAFJfBe4rXIB_USP7uYBTQTJEYnH4re3sjZU=s1600"
 en_name: "DeepNight"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgcDtRnN9SHGFmKYB9tsjOacy7O2gZ9b_1wgnkrH0FJbxem82Ajq6svNh3h-zdgAPHDGcV1nzJqzay7-wPM1Jb7B2uT57a35BxQzDl_xXjPzB3tVVeVGK27tN5VK4eF2JJGmfTX6sAZJZQflIvEmcsCgS3pYAFJfBe4rXIB_USP7uYBTQTJEYnH4re3sjZU=s1600)
-
 
 ## Birthday Color for November 16: Deep Night (`#1A161F`)
 

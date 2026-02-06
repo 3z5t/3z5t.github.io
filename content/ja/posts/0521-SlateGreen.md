@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgXzjyZ0v9agom3ZjLTSMb9MJdt-88Vh8MhNwd2DrYdazx-zEAVq5IUWwbUkMDNc-lLfX2zQiZszgCOHPSPzQ_d_5vDvr-pmJ6wn_ac1C8f7WSG-23GwKpkY8gmAfyZvD4tsCQC3FbjfcwDpHJfA14i7UR04hYvTlhX1_IBcHMMJeZrxbPfBLN8bn33b05y=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "スレートグリーン、5月21日の誕生色"
 date: "2026-05-21"
 updated: "2026-05-21"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "オータムブリックウォール"
 description: "5月21日の誕生色 スレートグリーン(557A7C)。色言葉は「知的、学究熱、探求心」です。相性の良い色はオータムブリックウォールです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgXzjyZ0v9agom3ZjLTSMb9MJdt-88Vh8MhNwd2DrYdazx-zEAVq5IUWwbUkMDNc-lLfX2zQiZszgCOHPSPzQ_d_5vDvr-pmJ6wn_ac1C8f7WSG-23GwKpkY8gmAfyZvD4tsCQC3FbjfcwDpHJfA14i7UR04hYvTlhX1_IBcHMMJeZrxbPfBLN8bn33b05y=s1600"
 en_name: "Slate Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgXzjyZ0v9agom3ZjLTSMb9MJdt-88Vh8MhNwd2DrYdazx-zEAVq5IUWwbUkMDNc-lLfX2zQiZszgCOHPSPzQ_d_5vDvr-pmJ6wn_ac1C8f7WSG-23GwKpkY8gmAfyZvD4tsCQC3FbjfcwDpHJfA14i7UR04hYvTlhX1_IBcHMMJeZrxbPfBLN8bn33b05y=s1600)
-
 
 ## 5月21日の誕生色: スレートグリーン (`#557A7C`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEitPtY5UMvWGfEZMsrJNEECr59Mn7B65GnzUxMIaNEwvuu_8HVbYWIdSRL8fT6y8Tsr95hEuI06KJf-3c9S5-80w6bCaafFQHFviEAmR7hm_j0Q3oh_Ha6t_Af08tSZOyYGOjV8181hJ_GRHyDG_BENf3slhSYl27SL4wGwZuZwykzOaqXwpNVi5IXCvszM=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Orange, The Birthday Color of June 17"
 date: "2026-06-17"
 updated: "2026-06-17"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "cyan blue"
 description: "The birthday color for June 17 is Deep Orange (FD731C). Its meaning is Passionate, Challenging, Creative."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEitPtY5UMvWGfEZMsrJNEECr59Mn7B65GnzUxMIaNEwvuu_8HVbYWIdSRL8fT6y8Tsr95hEuI06KJf-3c9S5-80w6bCaafFQHFviEAmR7hm_j0Q3oh_Ha6t_Af08tSZOyYGOjV8181hJ_GRHyDG_BENf3slhSYl27SL4wGwZuZwykzOaqXwpNVi5IXCvszM=s1600"
 en_name: "DeepOrange"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEitPtY5UMvWGfEZMsrJNEECr59Mn7B65GnzUxMIaNEwvuu_8HVbYWIdSRL8fT6y8Tsr95hEuI06KJf-3c9S5-80w6bCaafFQHFviEAmR7hm_j0Q3oh_Ha6t_Af08tSZOyYGOjV8181hJ_GRHyDG_BENf3slhSYl27SL4wGwZuZwykzOaqXwpNVi5IXCvszM=s1600)
-
 
 ## Birthday Color for June 17: Deep Orange (`#FD731C`)
 

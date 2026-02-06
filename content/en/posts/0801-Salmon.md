@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgoZbmgij4AG9zpr-A3RTYTos2Z3nkjTFhDUtQbrFBAIxTmHkj0_WHCX5FL2Gkp29z1bi_Bi-kL5lmmucbwRlyfme0xlJCrRr0mseaGzweGv5iQJi650Ym6tS25msCiF337yjmD2BxCcHqa5NQ91Yjm_axuXg1IaHwYZAsuHDHx0Fi6Ppy-Pw-7GrzcprWX=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Salmon, The Birthday Color of August 1"
 date: "2026-08-01"
 updated: "2026-08-01"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "teal"
 description: "The birthday color for August 1 is Salmon (FA8072). Its meaning is Energetic Personality, Vibrancy, Positive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgoZbmgij4AG9zpr-A3RTYTos2Z3nkjTFhDUtQbrFBAIxTmHkj0_WHCX5FL2Gkp29z1bi_Bi-kL5lmmucbwRlyfme0xlJCrRr0mseaGzweGv5iQJi650Ym6tS25msCiF337yjmD2BxCcHqa5NQ91Yjm_axuXg1IaHwYZAsuHDHx0Fi6Ppy-Pw-7GrzcprWX=s1600"
 en_name: "Salmon"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgoZbmgij4AG9zpr-A3RTYTos2Z3nkjTFhDUtQbrFBAIxTmHkj0_WHCX5FL2Gkp29z1bi_Bi-kL5lmmucbwRlyfme0xlJCrRr0mseaGzweGv5iQJi650Ym6tS25msCiF337yjmD2BxCcHqa5NQ91Yjm_axuXg1IaHwYZAsuHDHx0Fi6Ppy-Pw-7GrzcprWX=s1600)
-
 
 ## Birthday Color for August 1: Salmon (`#FA8072`)
 

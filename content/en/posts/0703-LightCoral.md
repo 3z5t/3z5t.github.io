@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi9k66x8sQKpVjFUSJ6bYKoxy1n8J3APiu56ThGf4au0QDocLk_sBCBVbwqCbh2zGwULfbRWhrsTkBR6mc3t0hcq4YDgahhXdILrJSyvzNBNvMSKWt2q5eCKYDBSu7lg9avyKytYv6hapA0e4N6Fa0ryT8Jw7VbaX437NCR47GXQtOd11n2fkajjXS8U90U=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Light Coral, The Birthday Color of July 3"
 date: "2026-07-03"
 updated: "2026-07-03"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "sea green"
 description: "The birthday color for July 3 is Light Coral (F19292). Its meaning is Soft Heart, Gentle, Mild."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi9k66x8sQKpVjFUSJ6bYKoxy1n8J3APiu56ThGf4au0QDocLk_sBCBVbwqCbh2zGwULfbRWhrsTkBR6mc3t0hcq4YDgahhXdILrJSyvzNBNvMSKWt2q5eCKYDBSu7lg9avyKytYv6hapA0e4N6Fa0ryT8Jw7VbaX437NCR47GXQtOd11n2fkajjXS8U90U=s1600"
 en_name: "LightCoral"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi9k66x8sQKpVjFUSJ6bYKoxy1n8J3APiu56ThGf4au0QDocLk_sBCBVbwqCbh2zGwULfbRWhrsTkBR6mc3t0hcq4YDgahhXdILrJSyvzNBNvMSKWt2q5eCKYDBSu7lg9avyKytYv6hapA0e4N6Fa0ryT8Jw7VbaX437NCR47GXQtOd11n2fkajjXS8U90U=s1600)
-
 
 ## Birthday Color for July 3: Light Coral (`#F19292`)
 

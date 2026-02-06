@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjq73A1iQcZRttBokXVUGCEobQvI6udnVp8Eu2t-wBCJBU-LsZ_tabZ1LG4bOeaiPHZ80tFhskhSn2trBdDMOxn-xM6P96J7N96HmqIfnv0AcWIKmeSQRMR2yL6darTu3p2UQirDc_lv-IV2T1xB_yQVSa3HJCHSFgRDoH7dg6NWfO0IJVnFCyQjVF8PqsZ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "クリスマスホワイト、12月29日の誕生色"
 date: "2026-12-29"
 updated: "2026-12-29"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ブラックチョコレート"
 description: "12月29日の誕生色 クリスマスホワイト(E2E1EE)。色言葉は「きれいな心、純粋、希望に満ちた」です。相性の良い色はブラックチョコレートです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjq73A1iQcZRttBokXVUGCEobQvI6udnVp8Eu2t-wBCJBU-LsZ_tabZ1LG4bOeaiPHZ80tFhskhSn2trBdDMOxn-xM6P96J7N96HmqIfnv0AcWIKmeSQRMR2yL6darTu3p2UQirDc_lv-IV2T1xB_yQVSa3HJCHSFgRDoH7dg6NWfO0IJVnFCyQjVF8PqsZ=s1600"
 en_name: "Christmas White"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjq73A1iQcZRttBokXVUGCEobQvI6udnVp8Eu2t-wBCJBU-LsZ_tabZ1LG4bOeaiPHZ80tFhskhSn2trBdDMOxn-xM6P96J7N96HmqIfnv0AcWIKmeSQRMR2yL6darTu3p2UQirDc_lv-IV2T1xB_yQVSa3HJCHSFgRDoH7dg6NWfO0IJVnFCyQjVF8PqsZ=s1600)
-
 
 ## 12月29日の誕生色: クリスマスホワイト (`#E2E1EE`)
 

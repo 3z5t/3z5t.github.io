@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhudCgbiYoqtdyebPfzIadNCqKAdWAYYEXtOMUx5jFv_8fN7DW5Qr0XZTAlL5wyR06uTP8dPgDdsYh1jVudsB5Gw3Z1W_6JAcfWcB3g07U6XsnunhrQNlDlGSTmdIUy6pY-MX_xlCj92p43ICdxz1NVqyOYe23vETp_s29L_bRjhpsilTmplIL91NqXx82B=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープグリーン、3月13日の誕生色"
 date: "2026-03-13"
 updated: "2026-03-13"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ライラック"
 description: "3月13日の誕生色 ディープグリーン(3D5E40)。色言葉は「洞察力、知恵、成熟」です。相性の良い色はライラックです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhudCgbiYoqtdyebPfzIadNCqKAdWAYYEXtOMUx5jFv_8fN7DW5Qr0XZTAlL5wyR06uTP8dPgDdsYh1jVudsB5Gw3Z1W_6JAcfWcB3g07U6XsnunhrQNlDlGSTmdIUy6pY-MX_xlCj92p43ICdxz1NVqyOYe23vETp_s29L_bRjhpsilTmplIL91NqXx82B=s1600"
 en_name: "Deep Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhudCgbiYoqtdyebPfzIadNCqKAdWAYYEXtOMUx5jFv_8fN7DW5Qr0XZTAlL5wyR06uTP8dPgDdsYh1jVudsB5Gw3Z1W_6JAcfWcB3g07U6XsnunhrQNlDlGSTmdIUy6pY-MX_xlCj92p43ICdxz1NVqyOYe23vETp_s29L_bRjhpsilTmplIL91NqXx82B=s1600)
-
 
 ## 3月13日の誕生色: ディープグリーン (`#3D5E40`)
 

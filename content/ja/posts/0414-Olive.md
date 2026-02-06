@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhmclzi8xp0iv9mg6uiwUe6B6a-tPDlMP3aYJ5_tHCCq0ArR_uJaXpz92VWQsjXARUVwcap1-FkZClLz7jjOIJDRXhKBDhAO0Fh9qe3MgAx1K-IwW8PdlpGgrR2uIEK_iHQ_4XqnAp3MO5-cpQrEPNk_mLQywSe36j4WB9vkcBt2KBzV6VecjYwkzx-ncPd=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "オリーブ、4月14日の誕生色"
 date: "2026-04-14"
 updated: "2026-04-14"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "クリスマスソラ"
 description: "4月14日の誕生色 オリーブ(666600)。色言葉は「賢明、平和、洞察力」です。相性の良い色はクリスマスソラです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhmclzi8xp0iv9mg6uiwUe6B6a-tPDlMP3aYJ5_tHCCq0ArR_uJaXpz92VWQsjXARUVwcap1-FkZClLz7jjOIJDRXhKBDhAO0Fh9qe3MgAx1K-IwW8PdlpGgrR2uIEK_iHQ_4XqnAp3MO5-cpQrEPNk_mLQywSe36j4WB9vkcBt2KBzV6VecjYwkzx-ncPd=s1600"
 en_name: "Olive"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhmclzi8xp0iv9mg6uiwUe6B6a-tPDlMP3aYJ5_tHCCq0ArR_uJaXpz92VWQsjXARUVwcap1-FkZClLz7jjOIJDRXhKBDhAO0Fh9qe3MgAx1K-IwW8PdlpGgrR2uIEK_iHQ_4XqnAp3MO5-cpQrEPNk_mLQywSe36j4WB9vkcBt2KBzV6VecjYwkzx-ncPd=s1600)
-
 
 ## 4月14日の誕生色: オリーブ (`#666600`)
 

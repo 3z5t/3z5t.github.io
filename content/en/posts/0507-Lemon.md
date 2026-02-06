@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg-7_JQxm0ny33plwRPx329GcJ8KEQ8uOJiEzYyu6hd25KsgaDfNn7qthQTuRPE__9aTXyZQzwQiEcCVBUD--5GQ7Y_wuD8Fkwf46rt54GXzMORM5SBc1pmmTyXDJffgx1hamkd7aTsxNboFX0_D3PRWa2op2Y4hUzljS1sG-7XHPTzYgw1PecBRtwNetpx=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Lemon, The Birthday Color of May 7"
 date: "2026-05-07"
 updated: "2026-05-07"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "pure blue"
 description: "The birthday color for May 7 is Lemon (EFDA00). Its meaning is Fresh, Intellect, Inspiration."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg-7_JQxm0ny33plwRPx329GcJ8KEQ8uOJiEzYyu6hd25KsgaDfNn7qthQTuRPE__9aTXyZQzwQiEcCVBUD--5GQ7Y_wuD8Fkwf46rt54GXzMORM5SBc1pmmTyXDJffgx1hamkd7aTsxNboFX0_D3PRWa2op2Y4hUzljS1sG-7XHPTzYgw1PecBRtwNetpx=s1600"
 en_name: "Lemon"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg-7_JQxm0ny33plwRPx329GcJ8KEQ8uOJiEzYyu6hd25KsgaDfNn7qthQTuRPE__9aTXyZQzwQiEcCVBUD--5GQ7Y_wuD8Fkwf46rt54GXzMORM5SBc1pmmTyXDJffgx1hamkd7aTsxNboFX0_D3PRWa2op2Y4hUzljS1sG-7XHPTzYgw1PecBRtwNetpx=s1600)
-
 
 ## Birthday Color for May 7: Lemon (`#EFDA00`)
 

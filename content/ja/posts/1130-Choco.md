@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjeUEPZs0e8YlQSUYupJm0MzXsGz2S881z81fPVia9BsePmulhGv2mdHdKy88fdM_uCrknf__yKXNhsKxwRgtOgLPzFPvZLIRUVqlvUJv_X8Ng2sH77QYsp94PGq6EGZtNdRo8NGtdZZH7yAXaqRR-BgmdEyEH0ASfkvWYToKk20qDNGC_MyyElsIF0-ANN=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "チョコ、11月30日の誕生色"
 date: "2026-11-30"
 updated: "2026-11-30"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "モーニンググローリー"
 description: "11月30日の誕生色 チョコ(633122)。色言葉は「甘い性格、豊かさ、安定」です。相性の良い色はモーニンググローリーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjeUEPZs0e8YlQSUYupJm0MzXsGz2S881z81fPVia9BsePmulhGv2mdHdKy88fdM_uCrknf__yKXNhsKxwRgtOgLPzFPvZLIRUVqlvUJv_X8Ng2sH77QYsp94PGq6EGZtNdRo8NGtdZZH7yAXaqRR-BgmdEyEH0ASfkvWYToKk20qDNGC_MyyElsIF0-ANN=s1600"
 en_name: "Choco"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjeUEPZs0e8YlQSUYupJm0MzXsGz2S881z81fPVia9BsePmulhGv2mdHdKy88fdM_uCrknf__yKXNhsKxwRgtOgLPzFPvZLIRUVqlvUJv_X8Ng2sH77QYsp94PGq6EGZtNdRo8NGtdZZH7yAXaqRR-BgmdEyEH0ASfkvWYToKk20qDNGC_MyyElsIF0-ANN=s1600)
-
 
 ## 11月30日の誕生色: チョコ (`#633122`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhYbiib-C0C29VgJgIMUZ5t-Kk1QS4gqOWRQ4hVL65s5fSci-pm1artcWvTYfNWVUQYocoJwziD5_Sj4I-FUAhuvJTlLDPUU13mosr8BNu6T-22nmpz5n4aXLl7fRdk7KnZqrE-oLHbGC_kxPmS6JEACGz2GCFZ6JdnxxSB_WNkBKMbOLGBCldLogymDiSY=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Sangria, The Birthday Color of October 15"
 date: "2026-10-15"
 updated: "2026-10-15"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "baby blue"
 description: "The birthday color for October 15 is Sangria (990000). Its meaning is Profound, Rich Sensibility, Lingering."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhYbiib-C0C29VgJgIMUZ5t-Kk1QS4gqOWRQ4hVL65s5fSci-pm1artcWvTYfNWVUQYocoJwziD5_Sj4I-FUAhuvJTlLDPUU13mosr8BNu6T-22nmpz5n4aXLl7fRdk7KnZqrE-oLHbGC_kxPmS6JEACGz2GCFZ6JdnxxSB_WNkBKMbOLGBCldLogymDiSY=s1600"
 en_name: "Sangria"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhYbiib-C0C29VgJgIMUZ5t-Kk1QS4gqOWRQ4hVL65s5fSci-pm1artcWvTYfNWVUQYocoJwziD5_Sj4I-FUAhuvJTlLDPUU13mosr8BNu6T-22nmpz5n4aXLl7fRdk7KnZqrE-oLHbGC_kxPmS6JEACGz2GCFZ6JdnxxSB_WNkBKMbOLGBCldLogymDiSY=s1600)
-
 
 ## Birthday Color for October 15: Sangria (`#990000`)
 

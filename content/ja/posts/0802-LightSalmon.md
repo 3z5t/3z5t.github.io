@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhu8RT2v-l-t0TUMm1VS0TX32zMln7MxliM_iOAM4kiTHoTxs2ClWCNWtnxkotuITjycvc6wYcIjQ5lUqZtsyzA6OVwO8RpWFyJ4xq6jzLfMUqgwVKoXp8qHcuyceQwFonKQR8kjRfEzKbWzFf-pdTCLCw5At_Y-U59dC9NvL6LZmKhG7jDic-gREOt-aDe=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ライトサーモン、8月2日の誕生色"
 date: "2026-08-02"
 updated: "2026-08-02"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "ムーンライトネイビー"
 description: "8月2日の誕生色 ライトサーモン(FFA07A)。色言葉は「明るい心、爽やか、親しみ」です。相性の良い色はムーンライトネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhu8RT2v-l-t0TUMm1VS0TX32zMln7MxliM_iOAM4kiTHoTxs2ClWCNWtnxkotuITjycvc6wYcIjQ5lUqZtsyzA6OVwO8RpWFyJ4xq6jzLfMUqgwVKoXp8qHcuyceQwFonKQR8kjRfEzKbWzFf-pdTCLCw5At_Y-U59dC9NvL6LZmKhG7jDic-gREOt-aDe=s1600"
 en_name: "Light Salmon"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhu8RT2v-l-t0TUMm1VS0TX32zMln7MxliM_iOAM4kiTHoTxs2ClWCNWtnxkotuITjycvc6wYcIjQ5lUqZtsyzA6OVwO8RpWFyJ4xq6jzLfMUqgwVKoXp8qHcuyceQwFonKQR8kjRfEzKbWzFf-pdTCLCw5At_Y-U59dC9NvL6LZmKhG7jDic-gREOt-aDe=s1600)
-
 
 ## 8月2日の誕生色: ライトサーモン (`#FFA07A`)
 

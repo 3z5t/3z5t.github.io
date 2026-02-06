@@ -1,21 +1,24 @@
 ---
-"title": "Brilliant Rose, The Birthday Color of February 17"
-"date": "2026-02-17"
-"updated": "2026-02-17"
-"labels":
-- "brilliant rose"
-- "birthday color"
-- "february 17"
-- "ff6699"
-- "february"
-- "shamrock green"
-"description": "The birthday color for February 17 is Brilliant Rose (FF6699). Its meaning is Lovely, Positivity, Hope."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEi3V_Pd0E3NEwMyX6rhKvpfEULdBQUjfnADX-748GPSdKPdnXSk92LB8TyBNMQbX6WQVMd_CHuPqYvyumSmyCjZ0jiQU_WkOCcX6YBGUftG3yUxox8tG2QDZqMF213fRZZQdpLbnc6N6hOUxuwJ_k1jbxMQLSlMri2p-t80Xc2HrJ5OIv0NXqvDhXlK4TA1=s1600"
-"en_name": "BrilliantRose"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "4863627929883787863"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/brilliant-rose-birthday-color-of.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi3V_Pd0E3NEwMyX6rhKvpfEULdBQUjfnADX-748GPSdKPdnXSk92LB8TyBNMQbX6WQVMd_CHuPqYvyumSmyCjZ0jiQU_WkOCcX6YBGUftG3yUxox8tG2QDZqMF213fRZZQdpLbnc6N6hOUxuwJ_k1jbxMQLSlMri2p-t80Xc2HrJ5OIv0NXqvDhXlK4TA1=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Brilliant Rose, The Birthday Color of February 17"
+date: "2026-02-17"
+updated: "2026-02-17"
+tags:
+  - "brilliant rose"
+  - "birthday color"
+  - "february 17"
+  - "ff6699"
+  - "february"
+  - "shamrock green"
+description: "The birthday color for February 17 is Brilliant Rose (FF6699). Its meaning is Lovely, Positivity, Hope."
+en_name: "BrilliantRose"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "4863627929883787863"
+postUrl: "https://the366days-en.blogspot.com/2026/02/brilliant-rose-birthday-color-of.html"
 ---
 
 ## Birthday Color for February 17: Brilliant Rose (`#FF6699`)

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg9e63D8bz68ieTWYNnHHbCE4aS679PaOlN8gIwHvmgKd3VmfF9spJRx80xDMAiNvGRF2fBpfvlM6jOB2RHaRWNX_c5UVKqhp4qqVmPZAR7EDbO0AYrbw2pkf-8v68ACA8rG2xnQW10aXEBAkvalQ4tmDnWqjdVicL9rz27W8awOt29LBA4j5FNg0l1vZqZ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープオリーブ、4月16日の誕生色"
 date: "2026-04-16"
 updated: "2026-04-16"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "ブルーバイオレット"
 description: "4月16日の誕生色 ディープオリーブ(6B8E23)。色言葉は「成熟、安定感、慎重」です。相性の良い色はブルーバイオレットです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg9e63D8bz68ieTWYNnHHbCE4aS679PaOlN8gIwHvmgKd3VmfF9spJRx80xDMAiNvGRF2fBpfvlM6jOB2RHaRWNX_c5UVKqhp4qqVmPZAR7EDbO0AYrbw2pkf-8v68ACA8rG2xnQW10aXEBAkvalQ4tmDnWqjdVicL9rz27W8awOt29LBA4j5FNg0l1vZqZ=s1600"
 en_name: "Deep Olive"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg9e63D8bz68ieTWYNnHHbCE4aS679PaOlN8gIwHvmgKd3VmfF9spJRx80xDMAiNvGRF2fBpfvlM6jOB2RHaRWNX_c5UVKqhp4qqVmPZAR7EDbO0AYrbw2pkf-8v68ACA8rG2xnQW10aXEBAkvalQ4tmDnWqjdVicL9rz27W8awOt29LBA4j5FNg0l1vZqZ=s1600)
-
 
 ## 4月16日の誕生色: ディープオリーブ (`#6B8E23`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhriTxBzHaf07hE5sNYTkm7niaYOurGlyqNJKsgINxKuxmNYr6t3ulx1mJIb9fw1wvbmJXbrjOvY5FlbLeIeNdzoWOkDMSZYGsz5ZyZWrLHojbLSBfb5f16EQufqht1AXwkh_aRHQbrb9ODubOJ1f-RFZsEatKkKkTgZKCFZPsRgDIcQ1ve3XvNuRwo_T7T=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "コーラルレッド、7月4日の誕生色"
 date: "2026-07-04"
 updated: "2026-07-04"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "プルシアングリーン"
 description: "7月4日の誕生色 コーラルレッド(FE5955)。色言葉は「情熱的、活気ある、肯定的」です。相性の良い色はプルシアングリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhriTxBzHaf07hE5sNYTkm7niaYOurGlyqNJKsgINxKuxmNYr6t3ulx1mJIb9fw1wvbmJXbrjOvY5FlbLeIeNdzoWOkDMSZYGsz5ZyZWrLHojbLSBfb5f16EQufqht1AXwkh_aRHQbrb9ODubOJ1f-RFZsEatKkKkTgZKCFZPsRgDIcQ1ve3XvNuRwo_T7T=s1600"
 en_name: "Coral Red"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhriTxBzHaf07hE5sNYTkm7niaYOurGlyqNJKsgINxKuxmNYr6t3ulx1mJIb9fw1wvbmJXbrjOvY5FlbLeIeNdzoWOkDMSZYGsz5ZyZWrLHojbLSBfb5f16EQufqht1AXwkh_aRHQbrb9ODubOJ1f-RFZsEatKkKkTgZKCFZPsRgDIcQ1ve3XvNuRwo_T7T=s1600)
-
 
 ## 7月4日の誕生色: コーラルレッド (`#FE5955`)
 

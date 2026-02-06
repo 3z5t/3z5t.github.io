@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEimhMAY9_YMk1DLHpilacHl1EMIuSL3Vfps54ZERZup5yMB3SqYinCH0mOBf3_BuO2N4D8nQTyZ85ZQHQDNckcCwden1yesqdl0J1e4ql368sLEysgBxZ98FPj6Fd2vAk8F_XdLG0y-WlR6zDeY-XpWC-2hjW_mRNdY5QwwZRXVuyaXX4ZF2qieBiwFU8Gn=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Gray Mint, The Birthday Color of July 28"
 date: "2026-07-28"
 updated: "2026-07-28"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "saddle brown"
 description: "The birthday color for July 28 is Gray Mint (ADCECE). Its meaning is Calm Personality, Stability, Balanced."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEimhMAY9_YMk1DLHpilacHl1EMIuSL3Vfps54ZERZup5yMB3SqYinCH0mOBf3_BuO2N4D8nQTyZ85ZQHQDNckcCwden1yesqdl0J1e4ql368sLEysgBxZ98FPj6Fd2vAk8F_XdLG0y-WlR6zDeY-XpWC-2hjW_mRNdY5QwwZRXVuyaXX4ZF2qieBiwFU8Gn=s1600"
 en_name: "GrayMint"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEimhMAY9_YMk1DLHpilacHl1EMIuSL3Vfps54ZERZup5yMB3SqYinCH0mOBf3_BuO2N4D8nQTyZ85ZQHQDNckcCwden1yesqdl0J1e4ql368sLEysgBxZ98FPj6Fd2vAk8F_XdLG0y-WlR6zDeY-XpWC-2hjW_mRNdY5QwwZRXVuyaXX4ZF2qieBiwFU8Gn=s1600)
-
 
 ## Birthday Color for July 28: Gray Mint (`#ADCECE`)
 

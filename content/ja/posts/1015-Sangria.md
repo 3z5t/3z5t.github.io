@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhCKjPhJjunJHPKNEHjLMI4yUEei0ta3KzDki4yodwfhMjLAmyoww43wpmtkNPx06hE17NLCYs3vEfhyqAeQPntSEue7mNxQ6enDioJPl9lhHpV5RW7TMuvLtcVR_NzurOgAAaWkFjeJJ4_JthfbOo03PpcOJk24cjVJVzErBWoI6dun_G3J9ii-lxD7Kmf=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "サングリア、10月15日の誕生色"
 date: "2026-10-15"
 updated: "2026-10-15"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "ベビーブルー"
 description: "10月15日の誕生色 サングリア(990000)。色言葉は「深みのある、豊かな感性、余韻」です。相性の良い色はベビーブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhCKjPhJjunJHPKNEHjLMI4yUEei0ta3KzDki4yodwfhMjLAmyoww43wpmtkNPx06hE17NLCYs3vEfhyqAeQPntSEue7mNxQ6enDioJPl9lhHpV5RW7TMuvLtcVR_NzurOgAAaWkFjeJJ4_JthfbOo03PpcOJk24cjVJVzErBWoI6dun_G3J9ii-lxD7Kmf=s1600"
 en_name: "Sangria"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhCKjPhJjunJHPKNEHjLMI4yUEei0ta3KzDki4yodwfhMjLAmyoww43wpmtkNPx06hE17NLCYs3vEfhyqAeQPntSEue7mNxQ6enDioJPl9lhHpV5RW7TMuvLtcVR_NzurOgAAaWkFjeJJ4_JthfbOo03PpcOJk24cjVJVzErBWoI6dun_G3J9ii-lxD7Kmf=s1600)
-
 
 ## 10月15日の誕生色: サングリア (`#990000`)
 

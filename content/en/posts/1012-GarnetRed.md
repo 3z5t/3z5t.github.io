@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgnNLf8643CuNcFzCFq9UYq0BRyTZFq6JpxtJKKmnnWk8a7sqXA0_iHmWHN9GW0wyZYlQa6o8pUuicJkHg6Wd3In-GrPQmrd_Yqyf67aL9YvwGZKupPZzjo41dZeCULAFnGyhTg2FjpES8s2AIKsaFIi8CCaYzi_wyYXdXUj2ROwhYQqDeEuzNx1klmHA_t=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Garnet Red, The Birthday Color of October 12"
 date: "2026-10-12"
 updated: "2026-10-12"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "baby blue"
 description: "The birthday color for October 12 is Garnet Red (AA0000). Its meaning is Solid Will, Passionate, Strong."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgnNLf8643CuNcFzCFq9UYq0BRyTZFq6JpxtJKKmnnWk8a7sqXA0_iHmWHN9GW0wyZYlQa6o8pUuicJkHg6Wd3In-GrPQmrd_Yqyf67aL9YvwGZKupPZzjo41dZeCULAFnGyhTg2FjpES8s2AIKsaFIi8CCaYzi_wyYXdXUj2ROwhYQqDeEuzNx1klmHA_t=s1600"
 en_name: "GarnetRed"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgnNLf8643CuNcFzCFq9UYq0BRyTZFq6JpxtJKKmnnWk8a7sqXA0_iHmWHN9GW0wyZYlQa6o8pUuicJkHg6Wd3In-GrPQmrd_Yqyf67aL9YvwGZKupPZzjo41dZeCULAFnGyhTg2FjpES8s2AIKsaFIi8CCaYzi_wyYXdXUj2ROwhYQqDeEuzNx1klmHA_t=s1600)
-
 
 ## Birthday Color for October 12: Garnet Red (`#AA0000`)
 

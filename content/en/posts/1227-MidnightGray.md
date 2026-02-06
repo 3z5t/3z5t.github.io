@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg6Gex9F7HVHFbazPTWGcSK0FuFeyDA83q71U-OaQM_ztCe8s5qBcVJ9Z1z43doyHgoGsgGeZQWq096r_pJrz3yKmHFk3xNCEAizyXljgKmoRVizt3WXj3BGRZ4EfE6bqIg4WbeCV8iniLSLsF9yGEX9MT4Ag2jXD5xFtRZqjAN4P1EoC6KqHecHsV--3UF=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Midnight Gray, The Birthday Color of December 27"
 date: "2026-12-27"
 updated: "2026-12-27"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "light green tea"
 description: "The birthday color for December 27 is Midnight Gray (565269). Its meaning is Calm Personality, Mature, Peaceful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg6Gex9F7HVHFbazPTWGcSK0FuFeyDA83q71U-OaQM_ztCe8s5qBcVJ9Z1z43doyHgoGsgGeZQWq096r_pJrz3yKmHFk3xNCEAizyXljgKmoRVizt3WXj3BGRZ4EfE6bqIg4WbeCV8iniLSLsF9yGEX9MT4Ag2jXD5xFtRZqjAN4P1EoC6KqHecHsV--3UF=s1600"
 en_name: "MidnightGray"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg6Gex9F7HVHFbazPTWGcSK0FuFeyDA83q71U-OaQM_ztCe8s5qBcVJ9Z1z43doyHgoGsgGeZQWq096r_pJrz3yKmHFk3xNCEAizyXljgKmoRVizt3WXj3BGRZ4EfE6bqIg4WbeCV8iniLSLsF9yGEX9MT4Ag2jXD5xFtRZqjAN4P1EoC6KqHecHsV--3UF=s1600)
-
 
 ## Birthday Color for December 27: Midnight Gray (`#565269`)
 

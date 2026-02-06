@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-22'
-description: The birthday color for January 22 is High Sky (0B8AC3). Its meaning is
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgH-Df8cj8-4rgFxsfsKJPkWtWUy982LVS3FCdy8Ksb-YVta3-VPU5pMzj7TUrEWsUvUwEzV4KZwxjy-1I4dqec8c-4SDftj-4mKTSOF6QhP8dOD4ov-eeVX3v9pXsxEJ-DXoFWl_xT9vOVIncZjoau9_6zhjVTtEjBpW4SZKDVjEJfsENGO15_yGNOBuFS=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-22"
+description: "The birthday color for January 22 is High Sky (0B8AC3). Its meaning is"
   Challenging Spirit, Pioneering, Innovative.
-en_name: HighSky
+en_name: "HighSky"
 tags:
-- high sky
-- birthday color
-- january 22
-- 0b8ac3
-- january
-- carrot juice
-postId: '4156166687817495429'
-postUrl: https://the366days-en.blogspot.com/2026/01/high-sky-birthday-color-of-january-22.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgH-Df8cj8-4rgFxsfsKJPkWtWUy982LVS3FCdy8Ksb-YVta3-VPU5pMzj7TUrEWsUvUwEzV4KZwxjy-1I4dqec8c-4SDftj-4mKTSOF6QhP8dOD4ov-eeVX3v9pXsxEJ-DXoFWl_xT9vOVIncZjoau9_6zhjVTtEjBpW4SZKDVjEJfsENGO15_yGNOBuFS=s1600
-title: High Sky, The Birthday Color of January 22
-updated: '2026-01-22'
+  - "high sky"
+  - "birthday color"
+  - "january 22"
+  - "0b8ac3"
+  - "january"
+  - "carrot juice"
+postId: "4156166687817495429"
+postUrl: "https://the366days-en.blogspot.com/2026/01/high-sky-birthday-color-of-january-22.html"
+profileName: "Pieces of a Day"
+title: "High Sky, The Birthday Color of January 22"
+updated: "2026-01-22"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgH-Df8cj8-4rgFxsfsKJPkWtWUy982LVS3FCdy8Ksb-YVta3-VPU5pMzj7TUrEWsUvUwEzV4KZwxjy-1I4dqec8c-4SDftj-4mKTSOF6QhP8dOD4ov-eeVX3v9pXsxEJ-DXoFWl_xT9vOVIncZjoau9_6zhjVTtEjBpW4SZKDVjEJfsENGO15_yGNOBuFS=s1600)
-
 
 ## Birthday Color for January 22: High Sky (`#0B8AC3`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjEFVEHI0hGsI6IHjdw894jov8HEvwoEysOm9J-UqnM5PO1VIekKssuwqd5lDBuF0bP9-bOBgVcXbGKLiC1yh2jsMB5isoPlO3_QB4DJbEH_Ugt7xPZ1yEu4HWFiF8sOkHbppfNr5Eu0sDs8aCaQLw77xvlvGb3efRzCVwEYdSLJhfKhOjOHRDRH8G3HKPf=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "プルシアンレッド、10月23日の誕生色"
 date: "2026-10-23"
 updated: "2026-10-23"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "ミディアムターコイズ"
 description: "10月23日の誕生色 プルシアンレッド(CC3333)。色言葉は「意志力、決断力、強靭」です。相性の良い色はミディアムターコイズです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjEFVEHI0hGsI6IHjdw894jov8HEvwoEysOm9J-UqnM5PO1VIekKssuwqd5lDBuF0bP9-bOBgVcXbGKLiC1yh2jsMB5isoPlO3_QB4DJbEH_Ugt7xPZ1yEu4HWFiF8sOkHbppfNr5Eu0sDs8aCaQLw77xvlvGb3efRzCVwEYdSLJhfKhOjOHRDRH8G3HKPf=s1600"
 en_name: "Prussian Red"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjEFVEHI0hGsI6IHjdw894jov8HEvwoEysOm9J-UqnM5PO1VIekKssuwqd5lDBuF0bP9-bOBgVcXbGKLiC1yh2jsMB5isoPlO3_QB4DJbEH_Ugt7xPZ1yEu4HWFiF8sOkHbppfNr5Eu0sDs8aCaQLw77xvlvGb3efRzCVwEYdSLJhfKhOjOHRDRH8G3HKPf=s1600)
-
 
 ## 10月23日の誕生色: プルシアンレッド (`#CC3333`)
 

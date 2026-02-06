@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjb3tv-XRILZcLfX-jQJQW_BQ-eOaXVVPOfYxxQ2wwiO2vrshKk3q23lywd8MEzC0NGIYVLOoCiO73YOPSTJccH0y0fC22LlL26P8l9y-d62Cdy5Y3jYMT9cfP9KM_VFNk3Xjd3WWS-B9LSuNM23zgwzp3esBGvE0DhisRA9xWzXzbo4j1mPyonnlLuQ6kr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "パール、8月10日の誕生色"
 date: "2026-08-10"
 updated: "2026-08-10"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "ディープブラック"
 description: "8月10日の誕生色 パール(EAE1DD)。色言葉は「価値ある、品格、高潔」です。相性の良い色はディープブラックです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjb3tv-XRILZcLfX-jQJQW_BQ-eOaXVVPOfYxxQ2wwiO2vrshKk3q23lywd8MEzC0NGIYVLOoCiO73YOPSTJccH0y0fC22LlL26P8l9y-d62Cdy5Y3jYMT9cfP9KM_VFNk3Xjd3WWS-B9LSuNM23zgwzp3esBGvE0DhisRA9xWzXzbo4j1mPyonnlLuQ6kr=s1600"
 en_name: "Pearl"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjb3tv-XRILZcLfX-jQJQW_BQ-eOaXVVPOfYxxQ2wwiO2vrshKk3q23lywd8MEzC0NGIYVLOoCiO73YOPSTJccH0y0fC22LlL26P8l9y-d62Cdy5Y3jYMT9cfP9KM_VFNk3Xjd3WWS-B9LSuNM23zgwzp3esBGvE0DhisRA9xWzXzbo4j1mPyonnlLuQ6kr=s1600)
-
 
 ## 8月10日の誕生色: パール (`#EAE1DD`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjiSpzTKeasEz6k6CTNWz2S1H-Mn5AHyFvV3TXdlHXRgLV3FYvScj2l0YRgjoRN3G4HtuqNNB0w6kIdsD6pgtklvJSE0HivWXCNdSRpr0pCCP_oHoJLRPNaPuy8KRVayYgE15iJgoeHKdTE4NcPiEtKC-cTP_4Vcc8IDbPCPCXE0xu7vNBpdmtX4bGuTPrc=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アイリッシュピンク、3月26日の誕生色"
 date: "2026-03-26"
 updated: "2026-03-26"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ディープシー"
 description: "3月26日の誕生色 アイリッシュピンク(DFAEA7)。色言葉は「生き生きとした、活力的、健康」です。相性の良い色はディープシーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjiSpzTKeasEz6k6CTNWz2S1H-Mn5AHyFvV3TXdlHXRgLV3FYvScj2l0YRgjoRN3G4HtuqNNB0w6kIdsD6pgtklvJSE0HivWXCNdSRpr0pCCP_oHoJLRPNaPuy8KRVayYgE15iJgoeHKdTE4NcPiEtKC-cTP_4Vcc8IDbPCPCXE0xu7vNBpdmtX4bGuTPrc=s1600"
 en_name: "Irish Pink"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjiSpzTKeasEz6k6CTNWz2S1H-Mn5AHyFvV3TXdlHXRgLV3FYvScj2l0YRgjoRN3G4HtuqNNB0w6kIdsD6pgtklvJSE0HivWXCNdSRpr0pCCP_oHoJLRPNaPuy8KRVayYgE15iJgoeHKdTE4NcPiEtKC-cTP_4Vcc8IDbPCPCXE0xu7vNBpdmtX4bGuTPrc=s1600)
-
 
 ## 3月26日の誕生色: アイリッシュピンク (`#DFAEA7`)
 

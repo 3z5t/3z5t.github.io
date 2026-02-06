@@ -1,21 +1,24 @@
 ---
-"title": "Deep Wine, The Birthday Color of February 25"
-"date": "2026-02-25"
-"updated": "2026-02-25"
-"labels":
-- "deep wine"
-- "birthday color"
-- "february 25"
-- "77384c"
-- "february"
-- "cool green"
-"description": "The birthday color for February 25 is Deep Wine (77384C). Its meaning is Inclusiveness, Generosity, Wisdom."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhQd9rGAHTAX9NIbWNjs5sPAIutCHyfu0-KbjQ5gsCe3VscNa-yAqbBMu4H-4GIShl2pWt88DFB9PEhxKXvxCkOu8Z84lid_w1xpDJQQCima1mrbolbaxDIHNeToOaTyw8BgGHFgJZ-zQXzwmcpDjpWSomDQhi-7X4MaMHoLji3RnrJkAzc9faf4pAk4SlW=s1600"
-"en_name": "DeepWine"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "9196945183651250042"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/deep-wine-birthday-color-of-february-25.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhQd9rGAHTAX9NIbWNjs5sPAIutCHyfu0-KbjQ5gsCe3VscNa-yAqbBMu4H-4GIShl2pWt88DFB9PEhxKXvxCkOu8Z84lid_w1xpDJQQCima1mrbolbaxDIHNeToOaTyw8BgGHFgJZ-zQXzwmcpDjpWSomDQhi-7X4MaMHoLji3RnrJkAzc9faf4pAk4SlW=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Deep Wine, The Birthday Color of February 25"
+date: "2026-02-25"
+updated: "2026-02-25"
+tags:
+  - "deep wine"
+  - "birthday color"
+  - "february 25"
+  - "77384c"
+  - "february"
+  - "cool green"
+description: "The birthday color for February 25 is Deep Wine (77384C). Its meaning is Inclusiveness, Generosity, Wisdom."
+en_name: "DeepWine"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "9196945183651250042"
+postUrl: "https://the366days-en.blogspot.com/2026/02/deep-wine-birthday-color-of-february-25.html"
 ---
 
 ## Birthday Color for February 25: Deep Wine (`#77384C`)

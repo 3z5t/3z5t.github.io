@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhjtr6PBA1dCLTMqjIheq5VsgGYoO3q3s8LJV1pqI8QJBv_UVARnmfevnvZUN5lWwu_OewLWXIJJbGuonOHsNbXETzM8sjKk5MKLr0J6XrdQ6kvVItV9IxXoH8ZFaHSA6Bl-In1RgjGHAwg2LgPU6cLxkYE-2dnkjVjyxLiwHsi9ThOsPVFHKgjODF7PP-n=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Shell Pink, The Birthday Color of March 23"
 date: "2026-03-23"
 updated: "2026-03-23"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "dark forest gray"
 description: "The birthday color for March 23 is Shell Pink (E9CCC8). Its meaning is Elegant, Noble, Sophisticated."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhjtr6PBA1dCLTMqjIheq5VsgGYoO3q3s8LJV1pqI8QJBv_UVARnmfevnvZUN5lWwu_OewLWXIJJbGuonOHsNbXETzM8sjKk5MKLr0J6XrdQ6kvVItV9IxXoH8ZFaHSA6Bl-In1RgjGHAwg2LgPU6cLxkYE-2dnkjVjyxLiwHsi9ThOsPVFHKgjODF7PP-n=s1600"
 en_name: "ShellPink"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhjtr6PBA1dCLTMqjIheq5VsgGYoO3q3s8LJV1pqI8QJBv_UVARnmfevnvZUN5lWwu_OewLWXIJJbGuonOHsNbXETzM8sjKk5MKLr0J6XrdQ6kvVItV9IxXoH8ZFaHSA6Bl-In1RgjGHAwg2LgPU6cLxkYE-2dnkjVjyxLiwHsi9ThOsPVFHKgjODF7PP-n=s1600)
-
 
 ## Birthday Color for March 23: Shell Pink (`#E9CCC8`)
 

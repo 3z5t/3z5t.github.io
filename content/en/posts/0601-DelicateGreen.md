@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhQt0e6vn3c2dt922NeSe6eb-RKTW_iqyTMmkjPLgo1eCDKtVhb0vuy7tXK3dnJctnPtBZwwmDTKNXl939HsMh667RR5LsPSWEqyPA70FfoLbmlO8moDAaEElZ6z1mFD2BWvana-RXrUn741ouZuKqMNXSLAwr6HbwbmHSYTaQSx6K42TAhVy-GdSVSLRNH=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Delicate Green, The Birthday Color of June 1"
 date: "2026-06-01"
 updated: "2026-06-01"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "burnt umber"
 description: "The birthday color for June 1 is Delicate Green (7DDCC4). Its meaning is Delicate, Pure, Creativity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhQt0e6vn3c2dt922NeSe6eb-RKTW_iqyTMmkjPLgo1eCDKtVhb0vuy7tXK3dnJctnPtBZwwmDTKNXl939HsMh667RR5LsPSWEqyPA70FfoLbmlO8moDAaEElZ6z1mFD2BWvana-RXrUn741ouZuKqMNXSLAwr6HbwbmHSYTaQSx6K42TAhVy-GdSVSLRNH=s1600"
 en_name: "DelicateGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhQt0e6vn3c2dt922NeSe6eb-RKTW_iqyTMmkjPLgo1eCDKtVhb0vuy7tXK3dnJctnPtBZwwmDTKNXl939HsMh667RR5LsPSWEqyPA70FfoLbmlO8moDAaEElZ6z1mFD2BWvana-RXrUn741ouZuKqMNXSLAwr6HbwbmHSYTaQSx6K42TAhVy-GdSVSLRNH=s1600)
-
 
 ## Birthday Color for June 1: Delicate Green (`#7DDCC4`)
 

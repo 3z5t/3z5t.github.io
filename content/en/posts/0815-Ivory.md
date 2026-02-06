@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEit0jK6ixGUj57t6Wz03Y5LQca5askIhuwhulzu2nRvEnRwq55A2h9MEPXU5LxnMq3xR8LxpINht5XZaXL3R_rtEnhEgVf27mTuQ2tLeKPJ9-rIEizTNGC9EwSo4PxYvz7eUX8ItJxOd8-DNT8XqdpCPyNuhiJt5dByNsrvQDj-A2VeDLKySpdbyogx1BQp=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Ivory, The Birthday Color of August 15"
 date: "2026-08-15"
 updated: "2026-08-15"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "midnight navy"
 description: "The birthday color for August 15 is Ivory (FFFFE0). Its meaning is Free Spirit, Peaceful, Noble."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEit0jK6ixGUj57t6Wz03Y5LQca5askIhuwhulzu2nRvEnRwq55A2h9MEPXU5LxnMq3xR8LxpINht5XZaXL3R_rtEnhEgVf27mTuQ2tLeKPJ9-rIEizTNGC9EwSo4PxYvz7eUX8ItJxOd8-DNT8XqdpCPyNuhiJt5dByNsrvQDj-A2VeDLKySpdbyogx1BQp=s1600"
 en_name: "Ivory"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEit0jK6ixGUj57t6Wz03Y5LQca5askIhuwhulzu2nRvEnRwq55A2h9MEPXU5LxnMq3xR8LxpINht5XZaXL3R_rtEnhEgVf27mTuQ2tLeKPJ9-rIEizTNGC9EwSo4PxYvz7eUX8ItJxOd8-DNT8XqdpCPyNuhiJt5dByNsrvQDj-A2VeDLKySpdbyogx1BQp=s1600)
-
 
 ## Birthday Color for August 15: Ivory (`#FFFFE0`)
 

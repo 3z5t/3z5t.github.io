@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhh_G89Lj4_KplnpFaVnoHZzICaG_iHuQl94jbxCFiu_oUZQmjE3JcWZ1q0zshy-g0XDwro0OR_MDaMAmNNJNloFqzgoNgRXi8C5fP5F2G9J4vRoIW7CB4ZIt7YGGbaDtQkvU5RNdPYalGx2kT7VHTmQF3-JGX0fxXDQhKLE7ncOykAXJ9HBNrhytjt-mT5=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Apricot, The Birthday Color of June 7"
 date: "2026-06-07"
 updated: "2026-06-07"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "moonlight navy"
 description: "The birthday color for June 7 is Apricot (EA9E71). Its meaning is Soft, Abundant, Mature Beauty."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhh_G89Lj4_KplnpFaVnoHZzICaG_iHuQl94jbxCFiu_oUZQmjE3JcWZ1q0zshy-g0XDwro0OR_MDaMAmNNJNloFqzgoNgRXi8C5fP5F2G9J4vRoIW7CB4ZIt7YGGbaDtQkvU5RNdPYalGx2kT7VHTmQF3-JGX0fxXDQhKLE7ncOykAXJ9HBNrhytjt-mT5=s1600"
 en_name: "Apricot"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhh_G89Lj4_KplnpFaVnoHZzICaG_iHuQl94jbxCFiu_oUZQmjE3JcWZ1q0zshy-g0XDwro0OR_MDaMAmNNJNloFqzgoNgRXi8C5fP5F2G9J4vRoIW7CB4ZIt7YGGbaDtQkvU5RNdPYalGx2kT7VHTmQF3-JGX0fxXDQhKLE7ncOykAXJ9HBNrhytjt-mT5=s1600)
-
 
 ## Birthday Color for June 7: Apricot (`#EA9E71`)
 

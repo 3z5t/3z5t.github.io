@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhPyv-a3RDSX_wDvBMQ1W2y5AuHxyc9lm2bpwtH8ot8OmijZaNJv4xMqdsMvKJGAm20bjEymOD7ajGE630aQ8AD2Oz4jC570WuvFgSk6Z7GeKUeQxxuEgpZDDIQ7f5aB7o1TgQY2rkjU2SQhfkTebQCizDg43Jr_xJDc_tJR_gzRPICo_CTeCUQEekCoCJ5=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ハニーデュー、5月10日の誕生色"
 date: "2026-05-10"
 updated: "2026-05-10"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "ディープマゼンタ"
 description: "5月10日の誕生色 ハニーデュー(CCFFCC)。色言葉は「甘さ、みずみずしさ、情緒的」です。相性の良い色はディープマゼンタです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhPyv-a3RDSX_wDvBMQ1W2y5AuHxyc9lm2bpwtH8ot8OmijZaNJv4xMqdsMvKJGAm20bjEymOD7ajGE630aQ8AD2Oz4jC570WuvFgSk6Z7GeKUeQxxuEgpZDDIQ7f5aB7o1TgQY2rkjU2SQhfkTebQCizDg43Jr_xJDc_tJR_gzRPICo_CTeCUQEekCoCJ5=s1600"
 en_name: "Honeydew"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhPyv-a3RDSX_wDvBMQ1W2y5AuHxyc9lm2bpwtH8ot8OmijZaNJv4xMqdsMvKJGAm20bjEymOD7ajGE630aQ8AD2Oz4jC570WuvFgSk6Z7GeKUeQxxuEgpZDDIQ7f5aB7o1TgQY2rkjU2SQhfkTebQCizDg43Jr_xJDc_tJR_gzRPICo_CTeCUQEekCoCJ5=s1600)
-
 
 ## 5月10日の誕生色: ハニーデュー (`#CCFFCC`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjyOWeZiMC020-7t7aPQLLoH3Ulf7mHwlDnd9uGXq5EUyUDVx9h--QP0bZCMriwujqFPeeVzClx1fZzABtJQYMxQ6g9qP7IHTZAC4lE12WW0aJoURwy-2jUEQXDE9dtJZMAg1Pr3ZOvKXlc8G_n-LOhnpIcHsCpMJQRZbXX57sIj-ak5mz-WAQfpIj4qIFg=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Lily White, The Birthday Color of August 9"
 date: "2026-08-09"
 updated: "2026-08-09"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "deep abyss"
 description: "The birthday color for August 9 is Lily White (F3F1EF). Its meaning is Noble Character, Elegance, Integrity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjyOWeZiMC020-7t7aPQLLoH3Ulf7mHwlDnd9uGXq5EUyUDVx9h--QP0bZCMriwujqFPeeVzClx1fZzABtJQYMxQ6g9qP7IHTZAC4lE12WW0aJoURwy-2jUEQXDE9dtJZMAg1Pr3ZOvKXlc8G_n-LOhnpIcHsCpMJQRZbXX57sIj-ak5mz-WAQfpIj4qIFg=s1600"
 en_name: "LilyWhite"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjyOWeZiMC020-7t7aPQLLoH3Ulf7mHwlDnd9uGXq5EUyUDVx9h--QP0bZCMriwujqFPeeVzClx1fZzABtJQYMxQ6g9qP7IHTZAC4lE12WW0aJoURwy-2jUEQXDE9dtJZMAg1Pr3ZOvKXlc8G_n-LOhnpIcHsCpMJQRZbXX57sIj-ak5mz-WAQfpIj4qIFg=s1600)
-
 
 ## Birthday Color for August 9: Lily White (`#F3F1EF`)
 

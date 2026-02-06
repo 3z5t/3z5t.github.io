@@ -1,21 +1,24 @@
 ---
-"title": "ホットマゼンタ、2月14日の誕生色"
-"date": "2026-02-14"
-"updated": "2026-02-14"
-"labels":
-- "ホットマゼンタ"
-- "誕生色"
-- "2月14日"
-- "FF00CC"
-- "2月"
-- "ビビッドライム"
-"description": "2月14日の誕生色 ホットマゼンタ(FF00CC)。色言葉は「情熱的、愛らしさ、魅力的」です。相性の良い色はビビッドライムです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEj33PAUXcpVheML0QzxHv4H83A1ow8ozXnxCmXtosFW1lWBGXOAtfv5asl1W6nFy4HzYzU8SfwmAFdd9830npwRmlyQUM95EINZdKCtA7Ro6JYuG-7W7kAuNOcLZxlzuukKdmK-UkMpPcUBwVPXgBwNYBociN7nGvaTQ7GWNpTzNXe1VXTp0VOc4JCQ3ELg=s1600"
-"en_name": "Hot Magenta"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "731722849778358544"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/214-hot-magenta.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj33PAUXcpVheML0QzxHv4H83A1ow8ozXnxCmXtosFW1lWBGXOAtfv5asl1W6nFy4HzYzU8SfwmAFdd9830npwRmlyQUM95EINZdKCtA7Ro6JYuG-7W7kAuNOcLZxlzuukKdmK-UkMpPcUBwVPXgBwNYBociN7nGvaTQ7GWNpTzNXe1VXTp0VOc4JCQ3ELg=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ホットマゼンタ、2月14日の誕生色"
+date: "2026-02-14"
+updated: "2026-02-14"
+tags:
+  - "ホットマゼンタ"
+  - "誕生色"
+  - "2月14日"
+  - "FF00CC"
+  - "2月"
+  - "ビビッドライム"
+description: "2月14日の誕生色 ホットマゼンタ(FF00CC)。色言葉は「情熱的、愛らしさ、魅力的」です。相性の良い色はビビッドライムです。"
+en_name: "Hot Magenta"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "731722849778358544"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/214-hot-magenta.html"
 ---
 
 ## 2月14日の誕生色: ホットマゼンタ (`#FF00CC`)

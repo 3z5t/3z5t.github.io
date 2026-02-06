@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjBoKelhr9ypPYryOCo-dpKDahKJSaq6NfylEZJ-vhzC0aBqoMlEONVbYtMnuE9fzksgqOB7pv66gb9rkAh7wMCXlOdr-hXGtn63R9LFAxwdVi2GxksCDLBWSPwRylSvu1k_FgkEI3rPKD9pcCnh4Xpv07Ez4B29hbvoC4CvPiAuolEGjP_oK0cCCTaMjWh=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ベビーブルー、7月23日の誕生色"
 date: "2026-07-23"
 updated: "2026-07-23"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "サングリア"
 description: "7月23日の誕生色 ベビーブルー(66FFFF)。色言葉は「純粋な心、平和、澄んだ精神」です。相性の良い色はサングリアです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjBoKelhr9ypPYryOCo-dpKDahKJSaq6NfylEZJ-vhzC0aBqoMlEONVbYtMnuE9fzksgqOB7pv66gb9rkAh7wMCXlOdr-hXGtn63R9LFAxwdVi2GxksCDLBWSPwRylSvu1k_FgkEI3rPKD9pcCnh4Xpv07Ez4B29hbvoC4CvPiAuolEGjP_oK0cCCTaMjWh=s1600"
 en_name: "Baby Blue"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjBoKelhr9ypPYryOCo-dpKDahKJSaq6NfylEZJ-vhzC0aBqoMlEONVbYtMnuE9fzksgqOB7pv66gb9rkAh7wMCXlOdr-hXGtn63R9LFAxwdVi2GxksCDLBWSPwRylSvu1k_FgkEI3rPKD9pcCnh4Xpv07Ez4B29hbvoC4CvPiAuolEGjP_oK0cCCTaMjWh=s1600)
-
 
 ## 7月23日の誕生色: ベビーブルー (`#66FFFF`)
 

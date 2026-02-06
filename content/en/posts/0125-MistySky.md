@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-25'
-description: The birthday color for January 25 is Misty Sky (C2BEC5). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjFUF7HWrPCh5dFTZx1g9pFR7bGAaC5zsIimsy2opKCaoTT4k5pIi4zg3yIP93-_5ZPSuj_rCrOlomcM5fKYRAl1GzUsyTb0hQqbr7j1SZniNd3K7Hyp0lJ8lvbl01n4T8u6V5xsQxIg_IXa08gLTMe6HDC3nuNUnWYnj4rloMBSEtTe9MEZfwoblFvJvhr=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-25"
+description: "The birthday color for January 25 is Misty Sky (C2BEC5). Its meaning"
   is Mysterious, Intuitive, Sensitive.
-en_name: MistySky
+en_name: "MistySky"
 tags:
-- misty sky
-- birthday color
-- january 25
-- c2bec5
-- january
-- grayish green
-postId: '6708574144548364700'
-postUrl: https://the366days-en.blogspot.com/2026/01/misty-sky-birthday-color-of-january-25.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEjFUF7HWrPCh5dFTZx1g9pFR7bGAaC5zsIimsy2opKCaoTT4k5pIi4zg3yIP93-_5ZPSuj_rCrOlomcM5fKYRAl1GzUsyTb0hQqbr7j1SZniNd3K7Hyp0lJ8lvbl01n4T8u6V5xsQxIg_IXa08gLTMe6HDC3nuNUnWYnj4rloMBSEtTe9MEZfwoblFvJvhr=s1600
-title: Misty Sky, The Birthday Color of January 25
-updated: '2026-01-25'
+  - "misty sky"
+  - "birthday color"
+  - "january 25"
+  - "c2bec5"
+  - "january"
+  - "grayish green"
+postId: "6708574144548364700"
+postUrl: "https://the366days-en.blogspot.com/2026/01/misty-sky-birthday-color-of-january-25.html"
+profileName: "Pieces of a Day"
+title: "Misty Sky, The Birthday Color of January 25"
+updated: "2026-01-25"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjFUF7HWrPCh5dFTZx1g9pFR7bGAaC5zsIimsy2opKCaoTT4k5pIi4zg3yIP93-_5ZPSuj_rCrOlomcM5fKYRAl1GzUsyTb0hQqbr7j1SZniNd3K7Hyp0lJ8lvbl01n4T8u6V5xsQxIg_IXa08gLTMe6HDC3nuNUnWYnj4rloMBSEtTe9MEZfwoblFvJvhr=s1600)
-
 
 ![Misty Sky, The Birthday Color of January 25](https://blogger.googleusercontent.com/img/a/AVvXsEjFUF7HWrPCh5dFTZx1g9pFR7bGAaC5zsIimsy2opKCaoTT4k5pIi4zg3yIP93-_5ZPSuj_rCrOlomcM5fKYRAl1GzUsyTb0hQqbr7j1SZniNd3K7Hyp0lJ8lvbl01n4T8u6V5xsQxIg_IXa08gLTMe6HDC3nuNUnWYnj4rloMBSEtTe9MEZfwoblFvJvhr=s1600)
 

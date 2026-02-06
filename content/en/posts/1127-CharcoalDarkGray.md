@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgl7QFIMdLlqmTrtvguATYEl6EwV2tcan0fpFc_numBUqr1q00QeN9eeJ6c8bfRAY3DApvYBTIowcMtAnj5xbZrJXs5s3sVQ1nklUxmR9MjCua8D9H-Vk-WYNpt8R8K-PVRSoX7bTcD3e6huhEnivdwDyJ1OUKdb4WyjMh2J5UtOQ2Ef2aJo6yq5dqrZe3T=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Charcoal Dark Gray, The Birthday Color of November 27"
 date: "2026-11-27"
 updated: "2026-11-27"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "cloud gray"
 description: "The birthday color for November 27 is Charcoal Dark Gray (2F2C2C). Its meaning is Calm, Balanced, Stable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgl7QFIMdLlqmTrtvguATYEl6EwV2tcan0fpFc_numBUqr1q00QeN9eeJ6c8bfRAY3DApvYBTIowcMtAnj5xbZrJXs5s3sVQ1nklUxmR9MjCua8D9H-Vk-WYNpt8R8K-PVRSoX7bTcD3e6huhEnivdwDyJ1OUKdb4WyjMh2J5UtOQ2Ef2aJo6yq5dqrZe3T=s1600"
 en_name: "CharcoalDarkGray"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgl7QFIMdLlqmTrtvguATYEl6EwV2tcan0fpFc_numBUqr1q00QeN9eeJ6c8bfRAY3DApvYBTIowcMtAnj5xbZrJXs5s3sVQ1nklUxmR9MjCua8D9H-Vk-WYNpt8R8K-PVRSoX7bTcD3e6huhEnivdwDyJ1OUKdb4WyjMh2J5UtOQ2Ef2aJo6yq5dqrZe3T=s1600)
-
 
 ## Birthday Color for November 27: Charcoal Dark Gray (`#2F2C2C`)
 

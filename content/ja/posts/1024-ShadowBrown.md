@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhYY5TDxnGfC312z0uiNfYcA_qhHL5f22JFXUt1B-XHA1PgGTZZa7KOEW_y9qw0gfyMVfGNGkLZMskqtSwCNgDHgOYGrMF0idvAZ6dWUsnJ01xgr7YkKDconx12EDELXkjY3kJu4v8NgsokhaSxQzYPJaR85oFlIMiA6Ogl5GIEmvODvVgZ0SFyPPn-eB9C=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "シャドウブラウン、10月24日の誕生色"
 date: "2026-10-24"
 updated: "2026-10-24"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "シルバーブルー"
 description: "10月24日の誕生色 シャドウブラウン(503D3E)。色言葉は「神秘的、深みのある、洞察力」です。相性の良い色はシルバーブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhYY5TDxnGfC312z0uiNfYcA_qhHL5f22JFXUt1B-XHA1PgGTZZa7KOEW_y9qw0gfyMVfGNGkLZMskqtSwCNgDHgOYGrMF0idvAZ6dWUsnJ01xgr7YkKDconx12EDELXkjY3kJu4v8NgsokhaSxQzYPJaR85oFlIMiA6Ogl5GIEmvODvVgZ0SFyPPn-eB9C=s1600"
 en_name: "Shadow Brown"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhYY5TDxnGfC312z0uiNfYcA_qhHL5f22JFXUt1B-XHA1PgGTZZa7KOEW_y9qw0gfyMVfGNGkLZMskqtSwCNgDHgOYGrMF0idvAZ6dWUsnJ01xgr7YkKDconx12EDELXkjY3kJu4v8NgsokhaSxQzYPJaR85oFlIMiA6Ogl5GIEmvODvVgZ0SFyPPn-eB9C=s1600)
-
 
 ## 10月24日の誕生色: シャドウブラウン (`#503D3E`)
 

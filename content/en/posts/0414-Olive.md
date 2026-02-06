@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEixb9ECEtkCOJAXjvKVuvvxMtM3IPsQEcPAjGv5VTFsrjF7yuKJaotdSXtdtZ2U7oU7GPlj_t4CnY6gQuetTRA0PQSzcVjyNcUQE4uhfu-7OthZmAYg1VIFgo4vDTWcjSq_BAUVixggUUuHsmPughpc7IykeP25lD40VE2ndIpVHHwDvh5sBR4ekRi1OyFY=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Olive, The Birthday Color of April 14"
 date: "2026-04-14"
 updated: "2026-04-14"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "christmas sora"
 description: "The birthday color for April 14 is Olive (666600). Its meaning is Wise, Peaceful, Insightful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEixb9ECEtkCOJAXjvKVuvvxMtM3IPsQEcPAjGv5VTFsrjF7yuKJaotdSXtdtZ2U7oU7GPlj_t4CnY6gQuetTRA0PQSzcVjyNcUQE4uhfu-7OthZmAYg1VIFgo4vDTWcjSq_BAUVixggUUuHsmPughpc7IykeP25lD40VE2ndIpVHHwDvh5sBR4ekRi1OyFY=s1600"
 en_name: "Olive"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEixb9ECEtkCOJAXjvKVuvvxMtM3IPsQEcPAjGv5VTFsrjF7yuKJaotdSXtdtZ2U7oU7GPlj_t4CnY6gQuetTRA0PQSzcVjyNcUQE4uhfu-7OthZmAYg1VIFgo4vDTWcjSq_BAUVixggUUuHsmPughpc7IykeP25lD40VE2ndIpVHHwDvh5sBR4ekRi1OyFY=s1600)
-
 
 ## Birthday Color for April 14: Olive (`#666600`)
 

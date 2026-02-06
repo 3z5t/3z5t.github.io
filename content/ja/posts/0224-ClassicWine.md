@@ -1,21 +1,24 @@
 ---
-"title": "クラシックワイン、2月24日の誕生色"
-"date": "2026-02-24"
-"updated": "2026-02-24"
-"labels":
-- "クラシックワイン"
-- "誕生色"
-- "2月24日"
-- "893751"
-- "2月"
-- "クールグリーン"
-"description": "2月24日の誕生色 クラシックワイン(893751)。色言葉は「成熟美、知性、余裕」です。相性の良い色はクールグリーンです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjjYIAEsSoy6st8_x5yUOIDJ_w8SD-la3GWayVtwaaLv-tX1-YoUsAviEuJDhnRW-2Lcj-VsPjxYlXojjxCR-LuHDTNQchGUtTrbdeMNaiva-AFLdgpEQmGrFSeGPSmncFGziXmNcLF-DCJhCmvD9MXT4K5sEMrcEAprUQumIQNEqVh39oxOMlmkH9MxQhQ=s1600"
-"en_name": "Classic Wine"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "7715553307743912013"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/224-classic-wine.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjjYIAEsSoy6st8_x5yUOIDJ_w8SD-la3GWayVtwaaLv-tX1-YoUsAviEuJDhnRW-2Lcj-VsPjxYlXojjxCR-LuHDTNQchGUtTrbdeMNaiva-AFLdgpEQmGrFSeGPSmncFGziXmNcLF-DCJhCmvD9MXT4K5sEMrcEAprUQumIQNEqVh39oxOMlmkH9MxQhQ=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "クラシックワイン、2月24日の誕生色"
+date: "2026-02-24"
+updated: "2026-02-24"
+tags:
+  - "クラシックワイン"
+  - "誕生色"
+  - "2月24日"
+  - "893751"
+  - "2月"
+  - "クールグリーン"
+description: "2月24日の誕生色 クラシックワイン(893751)。色言葉は「成熟美、知性、余裕」です。相性の良い色はクールグリーンです。"
+en_name: "Classic Wine"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "7715553307743912013"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/224-classic-wine.html"
 ---
 
 ## 2月24日の誕生色: クラシックワイン (`#893751`)

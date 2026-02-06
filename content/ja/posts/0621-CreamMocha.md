@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj2rEsNVEjpBocIMKJ7g3xRtpCay32C02JvvfETSezyc9tgiZKVX7uJiKcWPoGzel8u-suWADeX0g0Si6vb4pXRIPrCLhZzODWHVkDRcABDhkuMXAdHLp2meLsze2DtNDlcSjfxcSe6y00X0iQA7r-VEULZpaEhtmVaTCTZ7_uUAaXzBsrijbzDip-D9JoC=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "クリームモカ、6月21日の誕生色"
 date: "2026-06-21"
 updated: "2026-06-21"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "ディープシアン"
 description: "6月21日の誕生色 クリームモカ(D19A71)。色言葉は「余裕、平和、安定感」です。相性の良い色はディープシアンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj2rEsNVEjpBocIMKJ7g3xRtpCay32C02JvvfETSezyc9tgiZKVX7uJiKcWPoGzel8u-suWADeX0g0Si6vb4pXRIPrCLhZzODWHVkDRcABDhkuMXAdHLp2meLsze2DtNDlcSjfxcSe6y00X0iQA7r-VEULZpaEhtmVaTCTZ7_uUAaXzBsrijbzDip-D9JoC=s1600"
 en_name: "Cream Mocha"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj2rEsNVEjpBocIMKJ7g3xRtpCay32C02JvvfETSezyc9tgiZKVX7uJiKcWPoGzel8u-suWADeX0g0Si6vb4pXRIPrCLhZzODWHVkDRcABDhkuMXAdHLp2meLsze2DtNDlcSjfxcSe6y00X0iQA7r-VEULZpaEhtmVaTCTZ7_uUAaXzBsrijbzDip-D9JoC=s1600)
-
 
 ## 6月21日の誕生色: クリームモカ (`#D19A71`)
 

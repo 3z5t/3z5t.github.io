@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhwPfKmVl1uOaX_L8ZjSfrQFeVNQBkAr27fthtyOWgHBoCUXCW7vpuoBoevBiLt0ulutiq8MuHzZhW71lxFwevLM0zR8yOnGPPDpmVSHbz5HyAYDTPsOD2hqrnCNuLlGir4QN9JP9_QXTkDO5xFA0x6DZeChm_bB-Vce_cHY3-5HVuv2ahP0Xclt9XEvAfL=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "レイトサマーリーフ、8月29日の誕生色"
 date: "2026-08-29"
 updated: "2026-08-29"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "サテングレー"
 description: "8月29日の誕生色 レイトサマーリーフ(566353)。色言葉は「成熟、深みのある、安定」です。相性の良い色はサテングレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhwPfKmVl1uOaX_L8ZjSfrQFeVNQBkAr27fthtyOWgHBoCUXCW7vpuoBoevBiLt0ulutiq8MuHzZhW71lxFwevLM0zR8yOnGPPDpmVSHbz5HyAYDTPsOD2hqrnCNuLlGir4QN9JP9_QXTkDO5xFA0x6DZeChm_bB-Vce_cHY3-5HVuv2ahP0Xclt9XEvAfL=s1600"
 en_name: "Late Summer Leaf"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhwPfKmVl1uOaX_L8ZjSfrQFeVNQBkAr27fthtyOWgHBoCUXCW7vpuoBoevBiLt0ulutiq8MuHzZhW71lxFwevLM0zR8yOnGPPDpmVSHbz5HyAYDTPsOD2hqrnCNuLlGir4QN9JP9_QXTkDO5xFA0x6DZeChm_bB-Vce_cHY3-5HVuv2ahP0Xclt9XEvAfL=s1600)
-
 
 ## 8月29日の誕生色: レイトサマーリーフ (`#566353`)
 

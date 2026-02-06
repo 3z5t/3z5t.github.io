@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgI7-kOEgumHmeOQCL3EUSK6prJgHyMnIyYFWxAcFNbOyn0xtkU-nvZg-dViramK14RVqN_1RvJGD8XEakFssb3ElfRVaqaMSR4bg-stshqFWOP20C07FOqjwnO8XKiuGOfo5Byxc278yCIcbYLPRfv46lwl_pj-zNR3u4H0yvL3eDryxbRJ1w0HLzxwhZo=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Noble Sky Blue, The Birthday Color of December 18"
 date: "2026-12-18"
 updated: "2026-12-18"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "vermilion"
 description: "The birthday color for December 18 is Noble Sky Blue (1FBEE3). Its meaning is Clean Heart, Hopeful, Refreshing."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgI7-kOEgumHmeOQCL3EUSK6prJgHyMnIyYFWxAcFNbOyn0xtkU-nvZg-dViramK14RVqN_1RvJGD8XEakFssb3ElfRVaqaMSR4bg-stshqFWOP20C07FOqjwnO8XKiuGOfo5Byxc278yCIcbYLPRfv46lwl_pj-zNR3u4H0yvL3eDryxbRJ1w0HLzxwhZo=s1600"
 en_name: "NobleSkyBlue"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgI7-kOEgumHmeOQCL3EUSK6prJgHyMnIyYFWxAcFNbOyn0xtkU-nvZg-dViramK14RVqN_1RvJGD8XEakFssb3ElfRVaqaMSR4bg-stshqFWOP20C07FOqjwnO8XKiuGOfo5Byxc278yCIcbYLPRfv46lwl_pj-zNR3u4H0yvL3eDryxbRJ1w0HLzxwhZo=s1600)
-
 
 ## Birthday Color for December 18: Noble Sky Blue (`#1FBEE3`)
 

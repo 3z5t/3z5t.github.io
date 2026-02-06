@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjRm1EmFXIakiQuzrYoYexObQacuCdEYe32XXkmGeSO-3zUH5QDY9F9rR59Mzcp49HvxW3X4gNUgYVViE2mci61GhXADkGbBm22YLc3QyZLnWVHkxB-jKdnY5AgY3M6_NUXceWj9UrZD71-bdQM4incgYaZ4FTdIR3lz4cixva1LXWIVgEk9RSuIBjWwS6Y=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Sunset Orange, The Birthday Color of June 11"
 date: "2026-06-11"
 updated: "2026-06-11"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "azure blue"
 description: "The birthday color for June 11 is Sunset Orange (FF6600). Its meaning is Prudent, Insightful, Protective."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjRm1EmFXIakiQuzrYoYexObQacuCdEYe32XXkmGeSO-3zUH5QDY9F9rR59Mzcp49HvxW3X4gNUgYVViE2mci61GhXADkGbBm22YLc3QyZLnWVHkxB-jKdnY5AgY3M6_NUXceWj9UrZD71-bdQM4incgYaZ4FTdIR3lz4cixva1LXWIVgEk9RSuIBjWwS6Y=s1600"
 en_name: "SunsetOrange"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjRm1EmFXIakiQuzrYoYexObQacuCdEYe32XXkmGeSO-3zUH5QDY9F9rR59Mzcp49HvxW3X4gNUgYVViE2mci61GhXADkGbBm22YLc3QyZLnWVHkxB-jKdnY5AgY3M6_NUXceWj9UrZD71-bdQM4incgYaZ4FTdIR3lz4cixva1LXWIVgEk9RSuIBjWwS6Y=s1600)
-
 
 ## Birthday Color for June 11: Sunset Orange (`#FF6600`)
 

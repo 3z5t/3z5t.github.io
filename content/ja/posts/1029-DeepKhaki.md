@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEikcYH8rkXD4b9H7s-hlH5Ev5aBOW22Bu2j04EIUZClIz9iZFqpFTZh_u38Ds_spAzh4y2PN_OwqeoiW48h4irhbbhTJ9nYIcW44zu9sYHcG2vTn9Z8CfkMQk9aB-Rgol2I_8UaxfZ92FAYoK7n7ni-VUlNIzzfQRqe6b9txQ9rCibvAi588YHqgkshjFTD=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープカーキ、10月29日の誕生色"
 date: "2026-10-29"
 updated: "2026-10-29"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "シルバーライラック"
 description: "10月29日の誕生色 ディープカーキ(525C3E)。色言葉は「自然体、安定、平和」です。相性の良い色はシルバーライラックです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEikcYH8rkXD4b9H7s-hlH5Ev5aBOW22Bu2j04EIUZClIz9iZFqpFTZh_u38Ds_spAzh4y2PN_OwqeoiW48h4irhbbhTJ9nYIcW44zu9sYHcG2vTn9Z8CfkMQk9aB-Rgol2I_8UaxfZ92FAYoK7n7ni-VUlNIzzfQRqe6b9txQ9rCibvAi588YHqgkshjFTD=s1600"
 en_name: "Deep Khaki"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEikcYH8rkXD4b9H7s-hlH5Ev5aBOW22Bu2j04EIUZClIz9iZFqpFTZh_u38Ds_spAzh4y2PN_OwqeoiW48h4irhbbhTJ9nYIcW44zu9sYHcG2vTn9Z8CfkMQk9aB-Rgol2I_8UaxfZ92FAYoK7n7ni-VUlNIzzfQRqe6b9txQ9rCibvAi588YHqgkshjFTD=s1600)
-
 
 ## 10月29日の誕生色: ディープカーキ (`#525C3E`)
 

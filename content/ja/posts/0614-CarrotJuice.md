@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjAKyg_3AMTwwbDorKDu2xaK1mgwjdLq9mwUsOXqdLGQbwCuHIoIHFRSGcTbdLlLLng8OIcs998loEuC-AHAlZ2rPQgFCcooYrB7_-Yk63izrNX78dRLbOWt2opuPP5oJqqrXvqKAftdcWg8srxHn8qMMQNLppSylacMcZ3eN_d-rt0w4uG8vv7L5X2Kcmt=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "キャロットジュース、6月14日の誕生色"
 date: "2026-06-14"
 updated: "2026-06-14"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "シアンブルー"
 description: "6月14日の誕生色 キャロットジュース(E8742D)。色言葉は「健康的、健全、活気」です。相性の良い色はシアンブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjAKyg_3AMTwwbDorKDu2xaK1mgwjdLq9mwUsOXqdLGQbwCuHIoIHFRSGcTbdLlLLng8OIcs998loEuC-AHAlZ2rPQgFCcooYrB7_-Yk63izrNX78dRLbOWt2opuPP5oJqqrXvqKAftdcWg8srxHn8qMMQNLppSylacMcZ3eN_d-rt0w4uG8vv7L5X2Kcmt=s1600"
 en_name: "Carrot Juice"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjAKyg_3AMTwwbDorKDu2xaK1mgwjdLq9mwUsOXqdLGQbwCuHIoIHFRSGcTbdLlLLng8OIcs998loEuC-AHAlZ2rPQgFCcooYrB7_-Yk63izrNX78dRLbOWt2opuPP5oJqqrXvqKAftdcWg8srxHn8qMMQNLppSylacMcZ3eN_d-rt0w4uG8vv7L5X2Kcmt=s1600)
-
 
 ## 6月14日の誕生色: キャロットジュース (`#E8742D`)
 

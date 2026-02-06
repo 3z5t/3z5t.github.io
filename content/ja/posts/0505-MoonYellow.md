@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgCOGeFXJkjeuzAB05dCuI_Dnoka-6PTSnkXl9i2KCUaun51CcuKVMNtrNzTdk-FDtaVEhsTd9nOGKLYVS81XvqAJRjO3Tjbmq32dW525oZzdp2MyjBXShTsgzNOs1cTwEFP3PlChQ1OXfCudIp3yBftYsI82Q4-sj2j7Uo25PhhcWs09BEqO7m-AstlThu=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ムーンイエロー、5月5日の誕生色"
 date: "2026-05-05"
 updated: "2026-05-05"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "ロイヤルブルー"
 description: "5月5日の誕生色 ムーンイエロー(FEB721)。色言葉は「明るい心、純粋、創造性」です。相性の良い色はロイヤルブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgCOGeFXJkjeuzAB05dCuI_Dnoka-6PTSnkXl9i2KCUaun51CcuKVMNtrNzTdk-FDtaVEhsTd9nOGKLYVS81XvqAJRjO3Tjbmq32dW525oZzdp2MyjBXShTsgzNOs1cTwEFP3PlChQ1OXfCudIp3yBftYsI82Q4-sj2j7Uo25PhhcWs09BEqO7m-AstlThu=s1600"
 en_name: "Moon Yellow"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgCOGeFXJkjeuzAB05dCuI_Dnoka-6PTSnkXl9i2KCUaun51CcuKVMNtrNzTdk-FDtaVEhsTd9nOGKLYVS81XvqAJRjO3Tjbmq32dW525oZzdp2MyjBXShTsgzNOs1cTwEFP3PlChQ1OXfCudIp3yBftYsI82Q4-sj2j7Uo25PhhcWs09BEqO7m-AstlThu=s1600)
-
 
 ## 5月5日の誕生色: ムーンイエロー (`#FEB721`)
 

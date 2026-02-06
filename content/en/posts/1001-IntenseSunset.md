@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgEf5sxRS30StDNI9YTbqkeOvGVAVEz_MD-xffHMjg2Hp-jLVQ64sdituQtPwvnJ2aQ_N18q2Kc2imBp3tIs5zkR70xt2P3j9Tb3BthAARvuOce8evv-iw3rb3tL9KahjM85Fb9TJXpzYwnlnqvwit0tvG28HGlsyxej-LZZRIdEcLUh6clj3WmUkRrRh9g=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Intense Sunset, The Birthday Color of October 1"
 date: "2026-10-01"
 updated: "2026-10-01"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "papaya blue"
 description: "The birthday color for October 1 is Intense Sunset (BC5445). Its meaning is Passionate, Intense, Impressive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgEf5sxRS30StDNI9YTbqkeOvGVAVEz_MD-xffHMjg2Hp-jLVQ64sdituQtPwvnJ2aQ_N18q2Kc2imBp3tIs5zkR70xt2P3j9Tb3BthAARvuOce8evv-iw3rb3tL9KahjM85Fb9TJXpzYwnlnqvwit0tvG28HGlsyxej-LZZRIdEcLUh6clj3WmUkRrRh9g=s1600"
 en_name: "IntenseSunset"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgEf5sxRS30StDNI9YTbqkeOvGVAVEz_MD-xffHMjg2Hp-jLVQ64sdituQtPwvnJ2aQ_N18q2Kc2imBp3tIs5zkR70xt2P3j9Tb3BthAARvuOce8evv-iw3rb3tL9KahjM85Fb9TJXpzYwnlnqvwit0tvG28HGlsyxej-LZZRIdEcLUh6clj3WmUkRrRh9g=s1600)
-
 
 ## Birthday Color for October 1: Intense Sunset (`#BC5445`)
 

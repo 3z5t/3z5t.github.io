@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj3Y2fe3bxq9FzN8DZCCt3CWZY36vkIpBt0Ny8roY2BKhU5iWC5iPLwTSdsPrNhX6A3nZM77_ya4ro-3F45uGk5GviCrSLbeidOPGpHSa0t1NHV4gnvRh7rEAKuRcS-Y4-ATCyabvmTi8b1FfkR94f_JVdVw3pbZQdTnWiXLG-03--55HgVfGRBXIKwmtpo=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Midnight Rider, The Birthday Color of November 29"
 date: "2026-11-29"
 updated: "2026-11-29"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "silver antique"
 description: "The birthday color for November 29 is Midnight Rider (333333). Its meaning is Decisive, Strong Will, Solid."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj3Y2fe3bxq9FzN8DZCCt3CWZY36vkIpBt0Ny8roY2BKhU5iWC5iPLwTSdsPrNhX6A3nZM77_ya4ro-3F45uGk5GviCrSLbeidOPGpHSa0t1NHV4gnvRh7rEAKuRcS-Y4-ATCyabvmTi8b1FfkR94f_JVdVw3pbZQdTnWiXLG-03--55HgVfGRBXIKwmtpo=s1600"
 en_name: "MidnightRider"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj3Y2fe3bxq9FzN8DZCCt3CWZY36vkIpBt0Ny8roY2BKhU5iWC5iPLwTSdsPrNhX6A3nZM77_ya4ro-3F45uGk5GviCrSLbeidOPGpHSa0t1NHV4gnvRh7rEAKuRcS-Y4-ATCyabvmTi8b1FfkR94f_JVdVw3pbZQdTnWiXLG-03--55HgVfGRBXIKwmtpo=s1600)
-
 
 ## Birthday Color for November 29: Midnight Rider (`#333333`)
 

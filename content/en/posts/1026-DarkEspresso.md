@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi1ALMDRkC163yCVJJCpVJVbjVEX3KmiSZpG8P68Z4KoE6oCSFHGu76tA-kVuJddPnSrMRvkl_KESPwsePM8L0xXSSTcoRdFxsr90V8-DwOv0hxc5xljR0CYhJjM_ZjVgUZaTvsljD3LvH76pS3eEz6QLak2RFyeechBoUNugpWTa6g5BhrXQ1TTx7ChPmP=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Dark Espresso, The Birthday Color of October 26"
 date: "2026-10-26"
 updated: "2026-10-26"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "silver blue"
 description: "The birthday color for October 26 is Dark Espresso (504644). Its meaning is Profound, Stable, Mature."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi1ALMDRkC163yCVJJCpVJVbjVEX3KmiSZpG8P68Z4KoE6oCSFHGu76tA-kVuJddPnSrMRvkl_KESPwsePM8L0xXSSTcoRdFxsr90V8-DwOv0hxc5xljR0CYhJjM_ZjVgUZaTvsljD3LvH76pS3eEz6QLak2RFyeechBoUNugpWTa6g5BhrXQ1TTx7ChPmP=s1600"
 en_name: "DarkEspresso"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi1ALMDRkC163yCVJJCpVJVbjVEX3KmiSZpG8P68Z4KoE6oCSFHGu76tA-kVuJddPnSrMRvkl_KESPwsePM8L0xXSSTcoRdFxsr90V8-DwOv0hxc5xljR0CYhJjM_ZjVgUZaTvsljD3LvH76pS3eEz6QLak2RFyeechBoUNugpWTa6g5BhrXQ1TTx7ChPmP=s1600)
-
 
 ## Birthday Color for October 26: Dark Espresso (`#504644`)
 

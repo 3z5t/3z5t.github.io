@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhkaCmVN-y73AJGWgAbQuwvB8XcTPU_jzbu2r07a8OauoG2vlboqoTDtXGbjXdl0XW_QAMjb05HeyHly93B6LF9y-q4ZukccgVTvQZl7VPKAkWiKdPIdvCYM2MwC7J-Bx05lYdq7jzToj--K2llm35xAhuyo_GzWSmPMPps6w4iuTIqn3G779XiaAxrOJV1=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Ivory Ice, The Birthday Color of August 12"
 date: "2026-08-12"
 updated: "2026-08-12"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "true navy"
 description: "The birthday color for August 12 is Ivory Ice (DEBA86). Its meaning is Cool Personality, Calm, Stability."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhkaCmVN-y73AJGWgAbQuwvB8XcTPU_jzbu2r07a8OauoG2vlboqoTDtXGbjXdl0XW_QAMjb05HeyHly93B6LF9y-q4ZukccgVTvQZl7VPKAkWiKdPIdvCYM2MwC7J-Bx05lYdq7jzToj--K2llm35xAhuyo_GzWSmPMPps6w4iuTIqn3G779XiaAxrOJV1=s1600"
 en_name: "IvoryIce"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhkaCmVN-y73AJGWgAbQuwvB8XcTPU_jzbu2r07a8OauoG2vlboqoTDtXGbjXdl0XW_QAMjb05HeyHly93B6LF9y-q4ZukccgVTvQZl7VPKAkWiKdPIdvCYM2MwC7J-Bx05lYdq7jzToj--K2llm35xAhuyo_GzWSmPMPps6w4iuTIqn3G779XiaAxrOJV1=s1600)
-
 
 ## Birthday Color for August 12: Ivory Ice (`#DEBA86`)
 

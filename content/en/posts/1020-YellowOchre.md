@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhtHqRuU_GnZPNazPhvI5ZayLWDAczj3SzV0MgMUCBUXER2WHtYy6P3kBGlTLoUM1NAFVzsBuOXCfVc8Tn1N5SWkYOVPwwh6uEKi1-22698xHMXEFvUc4Jh7nDKDoCqskFrA1S-BdpJQcJMX9fsnvwZgyjGab6_JyZdS6wcgO0824-Q7B1vOUTR5hfSMZqR=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Yellow Ochre, The Birthday Color of October 20"
 date: "2026-10-20"
 updated: "2026-10-20"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "autumn lake"
 description: "The birthday color for October 20 is Yellow Ochre (B28E58). Its meaning is Abundant, Grateful, Generous."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhtHqRuU_GnZPNazPhvI5ZayLWDAczj3SzV0MgMUCBUXER2WHtYy6P3kBGlTLoUM1NAFVzsBuOXCfVc8Tn1N5SWkYOVPwwh6uEKi1-22698xHMXEFvUc4Jh7nDKDoCqskFrA1S-BdpJQcJMX9fsnvwZgyjGab6_JyZdS6wcgO0824-Q7B1vOUTR5hfSMZqR=s1600"
 en_name: "YellowOchre"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhtHqRuU_GnZPNazPhvI5ZayLWDAczj3SzV0MgMUCBUXER2WHtYy6P3kBGlTLoUM1NAFVzsBuOXCfVc8Tn1N5SWkYOVPwwh6uEKi1-22698xHMXEFvUc4Jh7nDKDoCqskFrA1S-BdpJQcJMX9fsnvwZgyjGab6_JyZdS6wcgO0824-Q7B1vOUTR5hfSMZqR=s1600)
-
 
 ## Birthday Color for October 20: Yellow Ochre (`#B28E58`)
 

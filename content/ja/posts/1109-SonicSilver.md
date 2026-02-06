@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjQttJuSsiC2EKpjyJaL4dGktvYPZcL82ni5Z_yLsO_YvmSt7POwsGNar4wTEGmOHjuuk6e8fqWozwnNiQD41EgS82SpxKUm46pFfBdiHV07eltUFkPJAB3zAP3U4oQlpa8DRoD8u4D5nqqY4eS6PC4PQOIbwHMf84r4ycjJQ6faArCOUzwEsLauY588rU8=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ソニックシルバー、11月9日の誕生色"
 date: "2026-11-09"
 updated: "2026-11-09"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "アッシュベージュ"
 description: "11月9日の誕生色 ソニックシルバー(767272)。色言葉は「固い意志、堅固、信頼感」です。相性の良い色はアッシュベージュです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjQttJuSsiC2EKpjyJaL4dGktvYPZcL82ni5Z_yLsO_YvmSt7POwsGNar4wTEGmOHjuuk6e8fqWozwnNiQD41EgS82SpxKUm46pFfBdiHV07eltUFkPJAB3zAP3U4oQlpa8DRoD8u4D5nqqY4eS6PC4PQOIbwHMf84r4ycjJQ6faArCOUzwEsLauY588rU8=s1600"
 en_name: "Sonic Silver"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjQttJuSsiC2EKpjyJaL4dGktvYPZcL82ni5Z_yLsO_YvmSt7POwsGNar4wTEGmOHjuuk6e8fqWozwnNiQD41EgS82SpxKUm46pFfBdiHV07eltUFkPJAB3zAP3U4oQlpa8DRoD8u4D5nqqY4eS6PC4PQOIbwHMf84r4ycjJQ6faArCOUzwEsLauY588rU8=s1600)
-
 
 ## 11月9日の誕生色: ソニックシルバー (`#767272`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjtT80uy03hapzjI3Rz7i1wsI63sBKhlEf1lks5C3-LCLs6mncT1QlWRay-qCgm8rrLgLnuUMhs-j9qJxn-_0a4qHIUXKHwkuXDEpoWk1DSdTZ0xbl9JzzN94cvEFJe-zLEchMssiMjcUo4YKfitIZkNvX6A8d11JkAM2C8qnom0rt_Q5_3rUvMqC9gKipi=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アンティークチョコ、11月22日の誕生色"
 date: "2026-11-22"
 updated: "2026-11-22"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "ライトシアン"
 description: "11月22日の誕生色 アンティークチョコ(1F070C)。色言葉は「深みのある、成熟、安定」です。相性の良い色はライトシアンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjtT80uy03hapzjI3Rz7i1wsI63sBKhlEf1lks5C3-LCLs6mncT1QlWRay-qCgm8rrLgLnuUMhs-j9qJxn-_0a4qHIUXKHwkuXDEpoWk1DSdTZ0xbl9JzzN94cvEFJe-zLEchMssiMjcUo4YKfitIZkNvX6A8d11JkAM2C8qnom0rt_Q5_3rUvMqC9gKipi=s1600"
 en_name: "Antique Choco"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjtT80uy03hapzjI3Rz7i1wsI63sBKhlEf1lks5C3-LCLs6mncT1QlWRay-qCgm8rrLgLnuUMhs-j9qJxn-_0a4qHIUXKHwkuXDEpoWk1DSdTZ0xbl9JzzN94cvEFJe-zLEchMssiMjcUo4YKfitIZkNvX6A8d11JkAM2C8qnom0rt_Q5_3rUvMqC9gKipi=s1600)
-
 
 ## 11月22日の誕生色: アンティークチョコ (`#1F070C`)
 

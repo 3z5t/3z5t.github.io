@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhCR4IfYhzIb686uhSz_Z7U2xbktJXMWZedIER7srQr4i1jP_Y1qBs7H2i7PGCBrUTPeO37YpSJKdjTOzlMWvxhvHLx2LJahniNKMmM_vRz8lniQUHJdfkBAMxcQGJSCRxygaRwx1sGNda49sBQdRAj5-tsYd13JgEBS9OtfGzMtZi_OTaiS3ST_h-r8urR=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ライラック、7月18日の誕生色"
 date: "2026-07-18"
 updated: "2026-07-18"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "ディープグリーン"
 description: "7月18日の誕生色 ライラック(CC99CC)。色言葉は「優雅、品位、洗練」です。相性の良い色はディープグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhCR4IfYhzIb686uhSz_Z7U2xbktJXMWZedIER7srQr4i1jP_Y1qBs7H2i7PGCBrUTPeO37YpSJKdjTOzlMWvxhvHLx2LJahniNKMmM_vRz8lniQUHJdfkBAMxcQGJSCRxygaRwx1sGNda49sBQdRAj5-tsYd13JgEBS9OtfGzMtZi_OTaiS3ST_h-r8urR=s1600"
 en_name: "Lilac"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhCR4IfYhzIb686uhSz_Z7U2xbktJXMWZedIER7srQr4i1jP_Y1qBs7H2i7PGCBrUTPeO37YpSJKdjTOzlMWvxhvHLx2LJahniNKMmM_vRz8lniQUHJdfkBAMxcQGJSCRxygaRwx1sGNda49sBQdRAj5-tsYd13JgEBS9OtfGzMtZi_OTaiS3ST_h-r8urR=s1600)
-
 
 ## 7月18日の誕生色: ライラック (`#CC99CC`)
 

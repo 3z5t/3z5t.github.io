@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhiz07pj6foVDsYpKrqEOpFgPMzdxZcuoCTbADu53H_0aq80F6mcs6vCl8MOmNnBiCDzNH3Z2akdL_7MKeFJ5Ol3xToyb5DV7TV-9cFa7SUDcyO4K35VpXkWLuy6ODQsTRuCXHj94Wt27JYg6ZYq0ZhstH5ECNSoQTLBYSpb6eLdhWB9_ID0GMAsMLxfkLP=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Pea Green, The Birthday Color of April 12"
 date: "2026-04-12"
 updated: "2026-04-12"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "deep sora"
 description: "The birthday color for April 12 is Pea Green (8C9E58). Its meaning is Robust, Vitality, Growth."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhiz07pj6foVDsYpKrqEOpFgPMzdxZcuoCTbADu53H_0aq80F6mcs6vCl8MOmNnBiCDzNH3Z2akdL_7MKeFJ5Ol3xToyb5DV7TV-9cFa7SUDcyO4K35VpXkWLuy6ODQsTRuCXHj94Wt27JYg6ZYq0ZhstH5ECNSoQTLBYSpb6eLdhWB9_ID0GMAsMLxfkLP=s1600"
 en_name: "PeaGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhiz07pj6foVDsYpKrqEOpFgPMzdxZcuoCTbADu53H_0aq80F6mcs6vCl8MOmNnBiCDzNH3Z2akdL_7MKeFJ5Ol3xToyb5DV7TV-9cFa7SUDcyO4K35VpXkWLuy6ODQsTRuCXHj94Wt27JYg6ZYq0ZhstH5ECNSoQTLBYSpb6eLdhWB9_ID0GMAsMLxfkLP=s1600)
-
 
 ## Birthday Color for April 12: Pea Green (`#8C9E58`)
 

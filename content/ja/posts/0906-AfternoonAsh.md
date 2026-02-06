@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjayFLEHqWnLUWdsT4RDj_GuBnCuqc7dzXDTVo7EMH9voGf5JuwGfSRDqxuaINhM3RdAPTb7rzg17OrF3ySx7_98yqFCdlpc_BqKW6xoAWyokY4CmZsudmOJh1BJ-H6RZiZC4dtkVQuqLLJ_ZoR0_W4BMK38f7f4kqd5b76wkcwUxWZGaH_FcpVIve6MGvb=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アフタヌーンアッシュ、9月6日の誕生色"
 date: "2026-09-06"
 updated: "2026-09-06"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "アンティークアイボリー"
 description: "9月6日の誕生色 アフタヌーンアッシュ(191B28)。色言葉は「思索的、観照的、知的」です。相性の良い色はアンティークアイボリーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjayFLEHqWnLUWdsT4RDj_GuBnCuqc7dzXDTVo7EMH9voGf5JuwGfSRDqxuaINhM3RdAPTb7rzg17OrF3ySx7_98yqFCdlpc_BqKW6xoAWyokY4CmZsudmOJh1BJ-H6RZiZC4dtkVQuqLLJ_ZoR0_W4BMK38f7f4kqd5b76wkcwUxWZGaH_FcpVIve6MGvb=s1600"
 en_name: "Afternoon Ash"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjayFLEHqWnLUWdsT4RDj_GuBnCuqc7dzXDTVo7EMH9voGf5JuwGfSRDqxuaINhM3RdAPTb7rzg17OrF3ySx7_98yqFCdlpc_BqKW6xoAWyokY4CmZsudmOJh1BJ-H6RZiZC4dtkVQuqLLJ_ZoR0_W4BMK38f7f4kqd5b76wkcwUxWZGaH_FcpVIve6MGvb=s1600)
-
 
 ## 9月6日の誕生色: アフタヌーンアッシュ (`#191B28`)
 

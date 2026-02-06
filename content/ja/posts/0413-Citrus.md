@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhIm9MVn-g9sFA_Ql1Ml_W5UYROtCwydapQyFbpqLDEZChUYEi8QQN-ngfze8bVKneZI2SxKtvaocVN7llYrVThHRu9yJw5vXvKxhD0ibbJUTuSinoQOGt5jW0Tp53m5l2Lxi13m0pL6PEgzPdnjkSJ77v7uUkww2_o7mbsr7JdhkaMMkz76zRPz_PzcDYJ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "シトラス、4月13日の誕生色"
 date: "2026-04-13"
 updated: "2026-04-13"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "ピュアブルー"
 description: "4月13日の誕生色 シトラス(99CC00)。色言葉は「爽やか、活力的、野心的」です。相性の良い色はピュアブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhIm9MVn-g9sFA_Ql1Ml_W5UYROtCwydapQyFbpqLDEZChUYEi8QQN-ngfze8bVKneZI2SxKtvaocVN7llYrVThHRu9yJw5vXvKxhD0ibbJUTuSinoQOGt5jW0Tp53m5l2Lxi13m0pL6PEgzPdnjkSJ77v7uUkww2_o7mbsr7JdhkaMMkz76zRPz_PzcDYJ=s1600"
 en_name: "Citrus"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhIm9MVn-g9sFA_Ql1Ml_W5UYROtCwydapQyFbpqLDEZChUYEi8QQN-ngfze8bVKneZI2SxKtvaocVN7llYrVThHRu9yJw5vXvKxhD0ibbJUTuSinoQOGt5jW0Tp53m5l2Lxi13m0pL6PEgzPdnjkSJ77v7uUkww2_o7mbsr7JdhkaMMkz76zRPz_PzcDYJ=s1600)
-
 
 ## 4月13日の誕生色: シトラス (`#99CC00`)
 

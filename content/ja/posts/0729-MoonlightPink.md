@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhhRTx4b011R3uYKtch5VGL12NNOvik7Zw_qGW7DbaSFcjHIPFJc1LpJ1c3wjtNo1G6lmjqM6Ws9oc3pSnXuWfo8i5HXx1hb3BaC4-_bE2lHlngzNdL_gv7T9Yoo8OccmFhO6lxeu96CZuT9eb1q7lvLoBxjnPhV8S6C0tpKBR8T1oXLWM1Ynp1am3uxZLv=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ムーンライトピンク、7月29日の誕生色"
 date: "2026-07-29"
 updated: "2026-07-29"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "ダークフォレストグレー"
 description: "7月29日の誕生色 ムーンライトピンク(E0C8C0)。色言葉は「柔らかい、純粋、清らか」です。相性の良い色はダークフォレストグレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhhRTx4b011R3uYKtch5VGL12NNOvik7Zw_qGW7DbaSFcjHIPFJc1LpJ1c3wjtNo1G6lmjqM6Ws9oc3pSnXuWfo8i5HXx1hb3BaC4-_bE2lHlngzNdL_gv7T9Yoo8OccmFhO6lxeu96CZuT9eb1q7lvLoBxjnPhV8S6C0tpKBR8T1oXLWM1Ynp1am3uxZLv=s1600"
 en_name: "Moonlight Pink"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhhRTx4b011R3uYKtch5VGL12NNOvik7Zw_qGW7DbaSFcjHIPFJc1LpJ1c3wjtNo1G6lmjqM6Ws9oc3pSnXuWfo8i5HXx1hb3BaC4-_bE2lHlngzNdL_gv7T9Yoo8OccmFhO6lxeu96CZuT9eb1q7lvLoBxjnPhV8S6C0tpKBR8T1oXLWM1Ynp1am3uxZLv=s1600)
-
 
 ## 7月29日の誕生色: ムーンライトピンク (`#E0C8C0`)
 

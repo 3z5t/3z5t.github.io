@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjrGP-fqYA-moePV8d1vyi8a1-K8iaNxwB_mKQVSJ82b5z0jxci5NvJdIoVQ9fQtohp7YBRCwMYGKwKj2EwJKTiOgUG5WLHQdY6sn8XUpBYbYTt-0OZRkD5WGZqtkOvWNP5MsbUydydYle12rczlHOHe_QPA7Xy_8Q-Ny_xaogxEMmkU6PtjKvbbM5jAi_w=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アクアマリン、4月6日の誕生色"
 date: "2026-04-06"
 updated: "2026-04-06"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "ムーンライトワイン"
 description: "4月6日の誕生色 アクアマリン(99FFCC)。色言葉は「清涼感、純粋、創造性」です。相性の良い色はムーンライトワインです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjrGP-fqYA-moePV8d1vyi8a1-K8iaNxwB_mKQVSJ82b5z0jxci5NvJdIoVQ9fQtohp7YBRCwMYGKwKj2EwJKTiOgUG5WLHQdY6sn8XUpBYbYTt-0OZRkD5WGZqtkOvWNP5MsbUydydYle12rczlHOHe_QPA7Xy_8Q-Ny_xaogxEMmkU6PtjKvbbM5jAi_w=s1600"
 en_name: "Aquamarine"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjrGP-fqYA-moePV8d1vyi8a1-K8iaNxwB_mKQVSJ82b5z0jxci5NvJdIoVQ9fQtohp7YBRCwMYGKwKj2EwJKTiOgUG5WLHQdY6sn8XUpBYbYTt-0OZRkD5WGZqtkOvWNP5MsbUydydYle12rczlHOHe_QPA7Xy_8Q-Ny_xaogxEMmkU6PtjKvbbM5jAi_w=s1600)
-
 
 ## 4月6日の誕生色: アクアマリン (`#99FFCC`)
 

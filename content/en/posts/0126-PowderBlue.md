@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-26'
-description: The birthday color for January 26 is Powder Blue (C4E8E6). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhDPl0B3fzSidxa0_JLMN56PpOWHbI6KdRQuk15ulyxcdAKP9HoeRh-ZuBqVLJR0uo0LKEO9pyblmaZaNiwa03JGZ2c1kaCGJELt_yvSPGKZTQ-kJlQ-fxNDiHMRQplK9OWPs7FpvNoumP712frfrD-k0-ZC8a9GcD2lfd-pEv8DjoJKk13mICoKvbytpY1=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-26"
+description: "The birthday color for January 26 is Powder Blue (C4E8E6). Its meaning"
   is Gentle, Delicate, Empathetic.
-en_name: PowderBlue
+en_name: "PowderBlue"
 tags:
-- powder blue
-- birthday color
-- january 26
-- c4e8e6
-- january
-- deep magenta
-postId: '7807449125158461649'
-postUrl: https://the366days-en.blogspot.com/2026/01/powder-blue-birthday-color-of-january-26.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhDPl0B3fzSidxa0_JLMN56PpOWHbI6KdRQuk15ulyxcdAKP9HoeRh-ZuBqVLJR0uo0LKEO9pyblmaZaNiwa03JGZ2c1kaCGJELt_yvSPGKZTQ-kJlQ-fxNDiHMRQplK9OWPs7FpvNoumP712frfrD-k0-ZC8a9GcD2lfd-pEv8DjoJKk13mICoKvbytpY1=s1600
-title: Powder Blue, The Birthday Color of January 26
-updated: '2026-01-26'
+  - "powder blue"
+  - "birthday color"
+  - "january 26"
+  - "c4e8e6"
+  - "january"
+  - "deep magenta"
+postId: "7807449125158461649"
+postUrl: "https://the366days-en.blogspot.com/2026/01/powder-blue-birthday-color-of-january-26.html"
+profileName: "Pieces of a Day"
+title: "Powder Blue, The Birthday Color of January 26"
+updated: "2026-01-26"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhDPl0B3fzSidxa0_JLMN56PpOWHbI6KdRQuk15ulyxcdAKP9HoeRh-ZuBqVLJR0uo0LKEO9pyblmaZaNiwa03JGZ2c1kaCGJELt_yvSPGKZTQ-kJlQ-fxNDiHMRQplK9OWPs7FpvNoumP712frfrD-k0-ZC8a9GcD2lfd-pEv8DjoJKk13mICoKvbytpY1=s1600)
-
 
 ![Powder Blue, The Birthday Color of January 26](https://blogger.googleusercontent.com/img/a/AVvXsEhDPl0B3fzSidxa0_JLMN56PpOWHbI6KdRQuk15ulyxcdAKP9HoeRh-ZuBqVLJR0uo0LKEO9pyblmaZaNiwa03JGZ2c1kaCGJELt_yvSPGKZTQ-kJlQ-fxNDiHMRQplK9OWPs7FpvNoumP712frfrD-k0-ZC8a9GcD2lfd-pEv8DjoJKk13mICoKvbytpY1=s1600)
 

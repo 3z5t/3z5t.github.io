@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEifhMShshpf5xd-1gkLws3HC-jVpQvPs9Ea6SofsEZy6aH6d0vAxbcPQyQL2DHpJG-SrNaWyPAyRd51DuWbnQPNtyX0HNLw_siQIwSCgUTkKo8tu_8CubSbbYknL0H2809Xwk0a1hDcT2A7FbLtwAEw0Cwnl_Qe3u0S5vlA2OMGcJ7xNcqDiXeRgukh3Tww=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Medium Turquoise, The Birthday Color of July 27"
 date: "2026-07-27"
 updated: "2026-07-27"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "prussian red"
 description: "The birthday color for July 27 is Medium Turquoise (33CCCC). Its meaning is Profound, Stable, Peaceful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEifhMShshpf5xd-1gkLws3HC-jVpQvPs9Ea6SofsEZy6aH6d0vAxbcPQyQL2DHpJG-SrNaWyPAyRd51DuWbnQPNtyX0HNLw_siQIwSCgUTkKo8tu_8CubSbbYknL0H2809Xwk0a1hDcT2A7FbLtwAEw0Cwnl_Qe3u0S5vlA2OMGcJ7xNcqDiXeRgukh3Tww=s1600"
 en_name: "MediumTurquoise"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEifhMShshpf5xd-1gkLws3HC-jVpQvPs9Ea6SofsEZy6aH6d0vAxbcPQyQL2DHpJG-SrNaWyPAyRd51DuWbnQPNtyX0HNLw_siQIwSCgUTkKo8tu_8CubSbbYknL0H2809Xwk0a1hDcT2A7FbLtwAEw0Cwnl_Qe3u0S5vlA2OMGcJ7xNcqDiXeRgukh3Tww=s1600)
-
 
 ## Birthday Color for July 27: Medium Turquoise (`#33CCCC`)
 

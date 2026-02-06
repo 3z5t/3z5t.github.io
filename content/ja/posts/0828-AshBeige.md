@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhLpxt3tzG5EO3gSsX4TQGmIXU4knKFhmL910CdSP7ntkvpmX4nMbT0u997yUzhyt0L8ZU4QJPH7aoM-w6hgQaAJvpY8fp9bUrpPbLgvtRasDeNGA_IywKj9Bo4RxSDK90marAYEjG1A0c9RvlXAMWaYQfwODOsh2OflCOM_DYNRawYKbsO59VOE648N9e0=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アッシュベージュ、8月28日の誕生色"
 date: "2026-08-28"
 updated: "2026-08-28"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "アフタヌーングレー"
 description: "8月28日の誕生色 アッシュベージュ(978B88)。色言葉は「節制力、バランスの取れた、落ち着き」です。相性の良い色はアフタヌーングレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhLpxt3tzG5EO3gSsX4TQGmIXU4knKFhmL910CdSP7ntkvpmX4nMbT0u997yUzhyt0L8ZU4QJPH7aoM-w6hgQaAJvpY8fp9bUrpPbLgvtRasDeNGA_IywKj9Bo4RxSDK90marAYEjG1A0c9RvlXAMWaYQfwODOsh2OflCOM_DYNRawYKbsO59VOE648N9e0=s1600"
 en_name: "Ash Beige"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhLpxt3tzG5EO3gSsX4TQGmIXU4knKFhmL910CdSP7ntkvpmX4nMbT0u997yUzhyt0L8ZU4QJPH7aoM-w6hgQaAJvpY8fp9bUrpPbLgvtRasDeNGA_IywKj9Bo4RxSDK90marAYEjG1A0c9RvlXAMWaYQfwODOsh2OflCOM_DYNRawYKbsO59VOE648N9e0=s1600)
-
 
 ## 8月28日の誕生色: アッシュベージュ (`#978B88`)
 

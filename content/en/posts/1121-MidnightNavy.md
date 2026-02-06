@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEisCXT_yyyfwA24yEKTCNiLgvS1fp4KwYjLlKw4RTVVW73KYPZqdcAFIyCNYMOaziIm-VLUug_Z9jftiV4hINhABsAW3Ym9ZcfoE0x6f808ZxoYOf_iS1PuJRJGinP7eVKv-P0NSbufQea_Zl4B7vjcYaT5lZZXq7ccVA6M2BOMpveafmzJ2yrZLefXxat2=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Midnight Navy, The Birthday Color of November 21"
 date: "2026-11-21"
 updated: "2026-11-21"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "cream"
 description: "The birthday color for November 21 is Midnight Navy (000033). Its meaning is Mysterious, Profound, Serene."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEisCXT_yyyfwA24yEKTCNiLgvS1fp4KwYjLlKw4RTVVW73KYPZqdcAFIyCNYMOaziIm-VLUug_Z9jftiV4hINhABsAW3Ym9ZcfoE0x6f808ZxoYOf_iS1PuJRJGinP7eVKv-P0NSbufQea_Zl4B7vjcYaT5lZZXq7ccVA6M2BOMpveafmzJ2yrZLefXxat2=s1600"
 en_name: "MidnightNavy"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEisCXT_yyyfwA24yEKTCNiLgvS1fp4KwYjLlKw4RTVVW73KYPZqdcAFIyCNYMOaziIm-VLUug_Z9jftiV4hINhABsAW3Ym9ZcfoE0x6f808ZxoYOf_iS1PuJRJGinP7eVKv-P0NSbufQea_Zl4B7vjcYaT5lZZXq7ccVA6M2BOMpveafmzJ2yrZLefXxat2=s1600)
-
 
 ## Birthday Color for November 21: Midnight Navy (`#000033`)
 

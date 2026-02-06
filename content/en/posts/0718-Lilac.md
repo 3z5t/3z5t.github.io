@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg-CPj8T_vq8OEcWtzj0zwikV1kb_Y-m2i3IAWEeNkDLrhy1209TUiefVpG485Dr1iA5kGn_GEfh6GNjcouqAr5QKrWBlNfSkQMCUDWPjZDLd0WU8qcbROh-pESBJ-edaFJZurHoNK6T3b--0ZwXghfoGII-nDC8Oxti_yrXSr9mywErjmkzAAEK2ThlvEW=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Lilac, The Birthday Color of July 18"
 date: "2026-07-18"
 updated: "2026-07-18"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "deep green"
 description: "The birthday color for July 18 is Lilac (CC99CC). Its meaning is Elegant, Dignified, Sophisticated."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg-CPj8T_vq8OEcWtzj0zwikV1kb_Y-m2i3IAWEeNkDLrhy1209TUiefVpG485Dr1iA5kGn_GEfh6GNjcouqAr5QKrWBlNfSkQMCUDWPjZDLd0WU8qcbROh-pESBJ-edaFJZurHoNK6T3b--0ZwXghfoGII-nDC8Oxti_yrXSr9mywErjmkzAAEK2ThlvEW=s1600"
 en_name: "Lilac"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg-CPj8T_vq8OEcWtzj0zwikV1kb_Y-m2i3IAWEeNkDLrhy1209TUiefVpG485Dr1iA5kGn_GEfh6GNjcouqAr5QKrWBlNfSkQMCUDWPjZDLd0WU8qcbROh-pESBJ-edaFJZurHoNK6T3b--0ZwXghfoGII-nDC8Oxti_yrXSr9mywErjmkzAAEK2ThlvEW=s1600)
-
 
 ## Birthday Color for July 18: Lilac (`#CC99CC`)
 

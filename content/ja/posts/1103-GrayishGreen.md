@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhDuvlratLJg12gYnISLvV236fGgS6cyfjSaepZ7QxMw4IQHC3-WJkaoEbRq1cZEZOVFf7gRhLbmI-v-hwQQdSqEjbW6cxXqWIU-xBaVXavTR41GPr-1IXNV9Ia03Bzf7uYuon_6_RImZMMPGGlMVlj3sOOd1cxxi_UXz1R48ij4r2Fpv_XDwHcK8NDZlp9=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "グレイッシュグリーン、11月3日の誕生色"
 date: "2026-11-03"
 updated: "2026-11-03"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "アーバンスカイ"
 description: "11月3日の誕生色 グレイッシュグリーン(444236)。色言葉は「安定、落ち着き、バランスの取れた」です。相性の良い色はアーバンスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhDuvlratLJg12gYnISLvV236fGgS6cyfjSaepZ7QxMw4IQHC3-WJkaoEbRq1cZEZOVFf7gRhLbmI-v-hwQQdSqEjbW6cxXqWIU-xBaVXavTR41GPr-1IXNV9Ia03Bzf7uYuon_6_RImZMMPGGlMVlj3sOOd1cxxi_UXz1R48ij4r2Fpv_XDwHcK8NDZlp9=s1600"
 en_name: "Grayish Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhDuvlratLJg12gYnISLvV236fGgS6cyfjSaepZ7QxMw4IQHC3-WJkaoEbRq1cZEZOVFf7gRhLbmI-v-hwQQdSqEjbW6cxXqWIU-xBaVXavTR41GPr-1IXNV9Ia03Bzf7uYuon_6_RImZMMPGGlMVlj3sOOd1cxxi_UXz1R48ij4r2Fpv_XDwHcK8NDZlp9=s1600)
-
 
 ## 11月3日の誕生色: グレイッシュグリーン (`#444236`)
 

@@ -1,21 +1,24 @@
 ---
-"title": "Orchid Purple, The Birthday Color of February 5"
-"date": "2026-02-05"
-"updated": "2026-02-05"
-"labels":
-- "orchid purple"
-- "birthday color"
-- "february 5"
-- "9f56a2"
-- "february"
-- "lime green"
-"description": "The birthday color for February 5 is Orchid Purple (9F56A2). Its meaning is Creativity, Inspiration, Originality."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEiAVvCXzYlDRH5gk6cgin25qXj6IOUxGcLqrJ_yegLnrXknHxccqZGWeKvZALxDAhhoK0WFjowGhasygkXmbS6MB8fE8BLLHEaM0W54QQM0bcylR1x_20WYkyMqFcLyOCqZ0O5NNIx9EKaAcffK80DnGll-_i3OSaVKHbgpBLrC6Bq__OScSa657MOmailh=s1600"
-"en_name": "OrchidPurple"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "2812906904436052782"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/orchid-purple-birthday-color-of.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiAVvCXzYlDRH5gk6cgin25qXj6IOUxGcLqrJ_yegLnrXknHxccqZGWeKvZALxDAhhoK0WFjowGhasygkXmbS6MB8fE8BLLHEaM0W54QQM0bcylR1x_20WYkyMqFcLyOCqZ0O5NNIx9EKaAcffK80DnGll-_i3OSaVKHbgpBLrC6Bq__OScSa657MOmailh=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Orchid Purple, The Birthday Color of February 5"
+date: "2026-02-05"
+updated: "2026-02-05"
+tags:
+  - "orchid purple"
+  - "birthday color"
+  - "february 5"
+  - "9f56a2"
+  - "february"
+  - "lime green"
+description: "The birthday color for February 5 is Orchid Purple (9F56A2). Its meaning is Creativity, Inspiration, Originality."
+en_name: "OrchidPurple"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "2812906904436052782"
+postUrl: "https://the366days-en.blogspot.com/2026/02/orchid-purple-birthday-color-of.html"
 ---
 
 ## Birthday Color for February 5: Orchid Purple (`#9F56A2`)

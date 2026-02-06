@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjoSOOVX2ggS9YnFdV505zyTNpfFQttc9SHEdphgS-DqNhe6djgBe9yTPVRCp25qKAJ6mOfcXrjrGGT1gzl8tivESkO7ox-O-Qg7gXcZ7TSMUPYkcE513zoSeSdrXnEEvEpUlaLF-tEOiPingBYzDbgCSuCPO6H-5qoshVkMSWsm_ZGXj6RxtbiP87G9oFH=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ソフトキャメル、8月16日の誕生色"
 date: "2026-08-16"
 updated: "2026-08-16"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "トゥルーネイビー"
 description: "8月16日の誕生色 ソフトキャメル(ECC586)。色言葉は「高級感、洗練、品位」です。相性の良い色はトゥルーネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjoSOOVX2ggS9YnFdV505zyTNpfFQttc9SHEdphgS-DqNhe6djgBe9yTPVRCp25qKAJ6mOfcXrjrGGT1gzl8tivESkO7ox-O-Qg7gXcZ7TSMUPYkcE513zoSeSdrXnEEvEpUlaLF-tEOiPingBYzDbgCSuCPO6H-5qoshVkMSWsm_ZGXj6RxtbiP87G9oFH=s1600"
 en_name: "Soft Camel"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjoSOOVX2ggS9YnFdV505zyTNpfFQttc9SHEdphgS-DqNhe6djgBe9yTPVRCp25qKAJ6mOfcXrjrGGT1gzl8tivESkO7ox-O-Qg7gXcZ7TSMUPYkcE513zoSeSdrXnEEvEpUlaLF-tEOiPingBYzDbgCSuCPO6H-5qoshVkMSWsm_ZGXj6RxtbiP87G9oFH=s1600)
-
 
 ## 8月16日の誕生色: ソフトキャメル (`#ECC586`)
 

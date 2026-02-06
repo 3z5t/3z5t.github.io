@@ -1,21 +1,24 @@
 ---
-"title": "ブルーバイオレット、2月7日の誕生色"
-"date": "2026-02-07"
-"updated": "2026-02-07"
-"labels":
-- "ブルーバイオレット"
-- "誕生色"
-- "2月7日"
-- "8673C4"
-- "2月"
-- "ディープオリーブ"
-"description": "2月7日の誕生色 ブルーバイオレット(8673C4)。色言葉は「芸術的、インスピレーション、創造的」です。相性の良い色はディープオリーブです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEh-acF7BRYVCKif1j6CazbdtGuioBDkwaz8beH-NSuJ6kj1fMlVhbb3b-yhAVXEHWwJdEN7Bc3ed-sBtpREmoJqXHBGR1fnjHCPlevjxxmMToeYKzerKF-0jSM5SOs9RqAq8DTOKSY_I-DKMT0DUuThThla6PwNI84xBjaeDfIUJfVX4VhSPyHI_XHaEsJL=s1600"
-"en_name": "Blue Violet"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "2838601395953006183"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/27-blue-violet.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh-acF7BRYVCKif1j6CazbdtGuioBDkwaz8beH-NSuJ6kj1fMlVhbb3b-yhAVXEHWwJdEN7Bc3ed-sBtpREmoJqXHBGR1fnjHCPlevjxxmMToeYKzerKF-0jSM5SOs9RqAq8DTOKSY_I-DKMT0DUuThThla6PwNI84xBjaeDfIUJfVX4VhSPyHI_XHaEsJL=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ブルーバイオレット、2月7日の誕生色"
+date: "2026-02-07"
+updated: "2026-02-07"
+tags:
+  - "ブルーバイオレット"
+  - "誕生色"
+  - "2月7日"
+  - "8673C4"
+  - "2月"
+  - "ディープオリーブ"
+description: "2月7日の誕生色 ブルーバイオレット(8673C4)。色言葉は「芸術的、インスピレーション、創造的」です。相性の良い色はディープオリーブです。"
+en_name: "Blue Violet"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "2838601395953006183"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/27-blue-violet.html"
 ---
 
 ## 2月7日の誕生色: ブルーバイオレット (`#8673C4`)

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjmIhb3_eJky-jDG4LEdizF2QDVSDORa82atCXuZbTxO7QP-F90kIUMTmIty9P_lRuRFHxcKpfvLUct2aDLvk4LiNu3KsxDGrT4g_bz0KY_452cfKuLRlbkbgQswkj6LVYMeDbCzH3rfJabCs6_EJa1VUY0tD8ziaHWorzF76XblmbnGJFkxqhdlvYgE92V=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Taupe, The Birthday Color of October 18"
 date: "2026-10-18"
 updated: "2026-10-18"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "elegant jade"
 description: "The birthday color for October 18 is Taupe (805454). Its meaning is Calm Personality, Stable, Balanced."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjmIhb3_eJky-jDG4LEdizF2QDVSDORa82atCXuZbTxO7QP-F90kIUMTmIty9P_lRuRFHxcKpfvLUct2aDLvk4LiNu3KsxDGrT4g_bz0KY_452cfKuLRlbkbgQswkj6LVYMeDbCzH3rfJabCs6_EJa1VUY0tD8ziaHWorzF76XblmbnGJFkxqhdlvYgE92V=s1600"
 en_name: "Taupe"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjmIhb3_eJky-jDG4LEdizF2QDVSDORa82atCXuZbTxO7QP-F90kIUMTmIty9P_lRuRFHxcKpfvLUct2aDLvk4LiNu3KsxDGrT4g_bz0KY_452cfKuLRlbkbgQswkj6LVYMeDbCzH3rfJabCs6_EJa1VUY0tD8ziaHWorzF76XblmbnGJFkxqhdlvYgE92V=s1600)
-
 
 ## Birthday Color for October 18: Taupe (`#805454`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjiKATLLWg3dhAfXIqLRJNbmDYSA3S2oHw0iwFwvPOZtG8Bc1ww09hydJexXBMwM6RSNGWoHeMSwj1fiisAOYcbjp5EWBC7AkG0yGTGIccS2tc0MT4lcfKpSj64Uq6h9YhCt-5iacdQwdkiLrD8xCBOPUhOhbqFaD_hlufjZ34tl3S-RRDHjY12YRGtWSqR=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Emerald, The Birthday Color of March 14"
 date: "2026-03-14"
 updated: "2026-03-14"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "orchid purple"
 description: "The birthday color for March 14 is Emerald (66CC66). Its meaning is Vibrancy, Youth, Creativity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjiKATLLWg3dhAfXIqLRJNbmDYSA3S2oHw0iwFwvPOZtG8Bc1ww09hydJexXBMwM6RSNGWoHeMSwj1fiisAOYcbjp5EWBC7AkG0yGTGIccS2tc0MT4lcfKpSj64Uq6h9YhCt-5iacdQwdkiLrD8xCBOPUhOhbqFaD_hlufjZ34tl3S-RRDHjY12YRGtWSqR=s1600"
 en_name: "Emerald"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjiKATLLWg3dhAfXIqLRJNbmDYSA3S2oHw0iwFwvPOZtG8Bc1ww09hydJexXBMwM6RSNGWoHeMSwj1fiisAOYcbjp5EWBC7AkG0yGTGIccS2tc0MT4lcfKpSj64Uq6h9YhCt-5iacdQwdkiLrD8xCBOPUhOhbqFaD_hlufjZ34tl3S-RRDHjY12YRGtWSqR=s1600)
-
 
 ## Birthday Color for March 14: Emerald (`#66CC66`)
 

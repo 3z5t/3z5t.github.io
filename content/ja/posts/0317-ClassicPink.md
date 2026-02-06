@@ -1,21 +1,24 @@
 ---
-"title": "クラシックピンク、3月17日の誕生色"
-"date": "2026-03-17"
-"updated": "2026-03-17"
-"labels":
-- "クラシックピンク"
-- "誕生色"
-- "3月17日"
-- "FFC0CB"
-- "3月"
-- "ディープナイトスカイ"
-"description": "3月17日の誕生色 クラシックピンク(FFC0CB)。色言葉は「愛らしさ、ロマンチック、穏やか」です。相性の良い色はディープナイトスカイです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEh2JLIo3FlXD07K-WwJRZtdVhR0jGpwV19G-CfSDNSttmyCYm1_8Zjp8lTtmNDOe7APeT9e-vGi5e6gO-f-tke9o73onvSDnsZdn32kzEqPUcKyZvP1-4l5qIjrtyYhrtw2zNLTJCihOQML6kSvpeHF_tAEhzB2p_3z2wkoxKYW1iBHXGrT1fFXK2gq-H-_=s1600"
-"en_name": "Classic Pink"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "3192553721758400380"
-"postUrl": "https://the366days-ja.blogspot.com/2026/03/317-classic-pink.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh2JLIo3FlXD07K-WwJRZtdVhR0jGpwV19G-CfSDNSttmyCYm1_8Zjp8lTtmNDOe7APeT9e-vGi5e6gO-f-tke9o73onvSDnsZdn32kzEqPUcKyZvP1-4l5qIjrtyYhrtw2zNLTJCihOQML6kSvpeHF_tAEhzB2p_3z2wkoxKYW1iBHXGrT1fFXK2gq-H-_=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "クラシックピンク、3月17日の誕生色"
+date: "2026-03-17"
+updated: "2026-03-17"
+tags:
+  - "クラシックピンク"
+  - "誕生色"
+  - "3月17日"
+  - "FFC0CB"
+  - "3月"
+  - "ディープナイトスカイ"
+description: "3月17日の誕生色 クラシックピンク(FFC0CB)。色言葉は「愛らしさ、ロマンチック、穏やか」です。相性の良い色はディープナイトスカイです。"
+en_name: "Classic Pink"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "3192553721758400380"
+postUrl: "https://the366days-ja.blogspot.com/2026/03/317-classic-pink.html"
 ---
 
 ## 3月17日の誕生色: クラシックピンク (`#FFC0CB`)

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi-vOKtP1QGI5o3Ecvn6Mg9h2pwWMHb4G_ssxBmgIAP7NHdoxqM5rToXYtPCL1cmYV9EiCe107JCCmWhlPmtRN83Rhi7z6xSPgDxcY3HL9MA_f5u3uhVzpBzCzWh7aEXIc89u86y6GCzRJyJUJ_0oDaej-sNg8vT5WdPO1L30nk5yI57YRhFKGZ_SFXLLLY=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Peach Orange, The Birthday Color of June 3"
 date: "2026-06-03"
 updated: "2026-06-03"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "steel navy"
 description: "The birthday color for June 3 is Peach Orange (FFCC99). Its meaning is Sweet Personality, Sociability, Charm."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi-vOKtP1QGI5o3Ecvn6Mg9h2pwWMHb4G_ssxBmgIAP7NHdoxqM5rToXYtPCL1cmYV9EiCe107JCCmWhlPmtRN83Rhi7z6xSPgDxcY3HL9MA_f5u3uhVzpBzCzWh7aEXIc89u86y6GCzRJyJUJ_0oDaej-sNg8vT5WdPO1L30nk5yI57YRhFKGZ_SFXLLLY=s1600"
 en_name: "PeachOrange"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi-vOKtP1QGI5o3Ecvn6Mg9h2pwWMHb4G_ssxBmgIAP7NHdoxqM5rToXYtPCL1cmYV9EiCe107JCCmWhlPmtRN83Rhi7z6xSPgDxcY3HL9MA_f5u3uhVzpBzCzWh7aEXIc89u86y6GCzRJyJUJ_0oDaej-sNg8vT5WdPO1L30nk5yI57YRhFKGZ_SFXLLLY=s1600)
-
 
 ## Birthday Color for June 3: Peach Orange (`#FFCC99`)
 

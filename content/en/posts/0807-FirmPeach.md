@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgPPEQPwMZGmtLw9kTswzsrLzTxIhrMBgWa-6fcvFyU8jD9PM_4thDiO8lS-UJO4IeNGHgYntINuJgjDpqYMhaQsM5x9fyq374oo_W9iAoIQ70t95NFFBinP6tfdLvWdihQEcf6QNG96HNxeZBPGrclJMM9zdPE_q3pLWCppAlaxnoH7cmqhmg_bi6ND7bz=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Firm Peach, The Birthday Color of August 7"
 date: "2026-08-07"
 updated: "2026-08-07"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "deep forest"
 description: "The birthday color for August 7 is Firm Peach (F5EAE6). Its meaning is Firm Will, Determination, Drive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgPPEQPwMZGmtLw9kTswzsrLzTxIhrMBgWa-6fcvFyU8jD9PM_4thDiO8lS-UJO4IeNGHgYntINuJgjDpqYMhaQsM5x9fyq374oo_W9iAoIQ70t95NFFBinP6tfdLvWdihQEcf6QNG96HNxeZBPGrclJMM9zdPE_q3pLWCppAlaxnoH7cmqhmg_bi6ND7bz=s1600"
 en_name: "FirmPeach"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgPPEQPwMZGmtLw9kTswzsrLzTxIhrMBgWa-6fcvFyU8jD9PM_4thDiO8lS-UJO4IeNGHgYntINuJgjDpqYMhaQsM5x9fyq374oo_W9iAoIQ70t95NFFBinP6tfdLvWdihQEcf6QNG96HNxeZBPGrclJMM9zdPE_q3pLWCppAlaxnoH7cmqhmg_bi6ND7bz=s1600)
-
 
 ## Birthday Color for August 7: Firm Peach (`#F5EAE6`)
 

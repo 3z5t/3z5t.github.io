@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjFDuB_ILn5vaJwcjV5LNdZ_0zn0wYP2SVtivMBuQYrV80lZ8bQaphG4010mGw9zCq-DKkj7TsFYUVzD6MS5CXMirIweL8V5NzGk2JK0J_phWSIFzQDmy_-a5-CFY7uArh13nWcVFD6NDPmybw0f06bJLzkge7CKF1E2nEyEpjsq7N4LISMnXUW0weCxKJ5=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Vermilion, The Birthday Color of October 22"
 date: "2026-10-22"
 updated: "2026-10-22"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "noble sky blue"
 description: "The birthday color for October 22 is Vermilion (E34234). Its meaning is Vital, Lively, Passionate."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjFDuB_ILn5vaJwcjV5LNdZ_0zn0wYP2SVtivMBuQYrV80lZ8bQaphG4010mGw9zCq-DKkj7TsFYUVzD6MS5CXMirIweL8V5NzGk2JK0J_phWSIFzQDmy_-a5-CFY7uArh13nWcVFD6NDPmybw0f06bJLzkge7CKF1E2nEyEpjsq7N4LISMnXUW0weCxKJ5=s1600"
 en_name: "Vermilion"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjFDuB_ILn5vaJwcjV5LNdZ_0zn0wYP2SVtivMBuQYrV80lZ8bQaphG4010mGw9zCq-DKkj7TsFYUVzD6MS5CXMirIweL8V5NzGk2JK0J_phWSIFzQDmy_-a5-CFY7uArh13nWcVFD6NDPmybw0f06bJLzkge7CKF1E2nEyEpjsq7N4LISMnXUW0weCxKJ5=s1600)
-
 
 ## Birthday Color for October 22: Vermilion (`#E34234`)
 

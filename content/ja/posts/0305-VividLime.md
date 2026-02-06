@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhKX9JQIPRM1qni8ag3QDw2PsYpGuvbLxKmXMoLERrR75WDxr1LqDBl6hEMDtYbf6T6x2yya844BOxWLjBxs0weYtZ-BqhRgup70aptNJKfJtwkkQm6fylrU-_8oJjHvfjceT9HmzsmuJxFoCkzVbm7fkA79D2CYHFw1l7Hp2pTuNmPbo3uu6A8yC0DJv7L=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ビビッドライム、3月5日の誕生色"
 date: "2026-03-05"
 updated: "2026-03-05"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ビビッドマゼンタ"
 description: "3月5日の誕生色 ビビッドライム(00FF00)。色言葉は「チャレンジ精神、活力、革新性」です。相性の良い色はビビッドマゼンタです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhKX9JQIPRM1qni8ag3QDw2PsYpGuvbLxKmXMoLERrR75WDxr1LqDBl6hEMDtYbf6T6x2yya844BOxWLjBxs0weYtZ-BqhRgup70aptNJKfJtwkkQm6fylrU-_8oJjHvfjceT9HmzsmuJxFoCkzVbm7fkA79D2CYHFw1l7Hp2pTuNmPbo3uu6A8yC0DJv7L=s1600"
 en_name: "Vivid Lime"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhKX9JQIPRM1qni8ag3QDw2PsYpGuvbLxKmXMoLERrR75WDxr1LqDBl6hEMDtYbf6T6x2yya844BOxWLjBxs0weYtZ-BqhRgup70aptNJKfJtwkkQm6fylrU-_8oJjHvfjceT9HmzsmuJxFoCkzVbm7fkA79D2CYHFw1l7Hp2pTuNmPbo3uu6A8yC0DJv7L=s1600)
-
 
 ## 3月5日の誕生色: ビビッドライム (`#00FF00`)
 

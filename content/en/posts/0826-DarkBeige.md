@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhAVK-Xk5vs7zS0gcereHPh19ACqDX-uJ9spkSJnrYGws4vTE9OHEgT-3ngCMn5ULZMFV7GexOtkFDwQu3pEl0LMdEKaejJqkk7Lp5OXatlPc4AN6P0ez1UvQ9GDS_f1sZ21O0PQL0iXh1sgfgWsbzYIxoPfErFBTz0s0nUo75dZ5sX68yd1HrriBp0vUVs=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Dark Beige, The Birthday Color of August 26"
 date: "2026-08-26"
 updated: "2026-08-26"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "true navy"
 description: "The birthday color for August 26 is Dark Beige (DEB887). Its meaning is Profound, Weighty, Prudent."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhAVK-Xk5vs7zS0gcereHPh19ACqDX-uJ9spkSJnrYGws4vTE9OHEgT-3ngCMn5ULZMFV7GexOtkFDwQu3pEl0LMdEKaejJqkk7Lp5OXatlPc4AN6P0ez1UvQ9GDS_f1sZ21O0PQL0iXh1sgfgWsbzYIxoPfErFBTz0s0nUo75dZ5sX68yd1HrriBp0vUVs=s1600"
 en_name: "DarkBeige"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhAVK-Xk5vs7zS0gcereHPh19ACqDX-uJ9spkSJnrYGws4vTE9OHEgT-3ngCMn5ULZMFV7GexOtkFDwQu3pEl0LMdEKaejJqkk7Lp5OXatlPc4AN6P0ez1UvQ9GDS_f1sZ21O0PQL0iXh1sgfgWsbzYIxoPfErFBTz0s0nUo75dZ5sX68yd1HrriBp0vUVs=s1600)
-
 
 ## Birthday Color for August 26: Dark Beige (`#DEB887`)
 

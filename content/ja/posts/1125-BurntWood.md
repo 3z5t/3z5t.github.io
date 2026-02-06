@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhQxkhmfQAgOoGR2MaPGnNhSloHfzJQbDqvJPVmO4TCrBZIfQMXfdB1m2sbtUZtKjXJiDUoSXhf5BiiPIIRP8FrJ8dGev3NUpkgm2HXDlYrQe3Yi4lpK19J7DjYN14FMMfkJo51jU_fPPTGaUToftEtP6orSdJuL8PxoGI3x6G0nzuQDBdj_jPEP6t31Mpw=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "バーントウッド、11月25日の誕生色"
 date: "2026-11-25"
 updated: "2026-11-25"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "クラウディスカイ"
 description: "11月25日の誕生色 バーントウッド(3F242D)。色言葉は「深みのある、成熟、安定」です。相性の良い色はクラウディスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhQxkhmfQAgOoGR2MaPGnNhSloHfzJQbDqvJPVmO4TCrBZIfQMXfdB1m2sbtUZtKjXJiDUoSXhf5BiiPIIRP8FrJ8dGev3NUpkgm2HXDlYrQe3Yi4lpK19J7DjYN14FMMfkJo51jU_fPPTGaUToftEtP6orSdJuL8PxoGI3x6G0nzuQDBdj_jPEP6t31Mpw=s1600"
 en_name: "Burnt Wood"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhQxkhmfQAgOoGR2MaPGnNhSloHfzJQbDqvJPVmO4TCrBZIfQMXfdB1m2sbtUZtKjXJiDUoSXhf5BiiPIIRP8FrJ8dGev3NUpkgm2HXDlYrQe3Yi4lpK19J7DjYN14FMMfkJo51jU_fPPTGaUToftEtP6orSdJuL8PxoGI3x6G0nzuQDBdj_jPEP6t31Mpw=s1600)
-
 
 ## 11月25日の誕生色: バーントウッド (`#3F242D`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhXWNAqOdzpBS3NdEeozvnDUEoWhNfLkkWVzgihNQxZr7EU6SPSuVx5qqLzWaxXG_JHggroomxafm7JE0mW_sKwUanYeG0cw5K1onHy5NQZLoghlw241yERbeY28PTDmR4vktEAqKIDlAr_8ynHwjLR6v830L8j3AsomgVe5V_BBfuLrihr6OzaM0GUJEXT=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Strawberry Milk, The Birthday Color of March 20"
 date: "2026-03-20"
 updated: "2026-03-20"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "shamrock green"
 description: "The birthday color for March 20 is Deep Strawberry Milk (FF6FBD). Its meaning is Passionate, Energetic, Charming."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhXWNAqOdzpBS3NdEeozvnDUEoWhNfLkkWVzgihNQxZr7EU6SPSuVx5qqLzWaxXG_JHggroomxafm7JE0mW_sKwUanYeG0cw5K1onHy5NQZLoghlw241yERbeY28PTDmR4vktEAqKIDlAr_8ynHwjLR6v830L8j3AsomgVe5V_BBfuLrihr6OzaM0GUJEXT=s1600"
 en_name: "DeepStrawberryMilk"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhXWNAqOdzpBS3NdEeozvnDUEoWhNfLkkWVzgihNQxZr7EU6SPSuVx5qqLzWaxXG_JHggroomxafm7JE0mW_sKwUanYeG0cw5K1onHy5NQZLoghlw241yERbeY28PTDmR4vktEAqKIDlAr_8ynHwjLR6v830L8j3AsomgVe5V_BBfuLrihr6OzaM0GUJEXT=s1600)
-
 
 ## Birthday Color for March 20: Deep Strawberry Milk (`#FF6FBD`)
 

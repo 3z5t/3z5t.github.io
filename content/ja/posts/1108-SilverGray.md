@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjBVg7DcdJWZosfx3mv5FalkQAIG4lNI4wgxmU1hICV_047swkgioj2fkMRBiVddtoPnHRKlWdheQI4p180JkEAZNq9p5DTWPMxYqgQUHLqMTxPaozPbChcDt2p8rP6v1vC2vBng0JWmFpKe9AnwPttgdCTuh2Ert_CPOt2QxaVrG1l1l17y-eQGHDakMwc=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "シルバーグレー、11月8日の誕生色"
 date: "2026-11-08"
 updated: "2026-11-08"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "アビスブラック"
 description: "11月8日の誕生色 シルバーグレー(E2DFE5)。色言葉は「洗練、優雅、品位」です。相性の良い色はアビスブラックです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjBVg7DcdJWZosfx3mv5FalkQAIG4lNI4wgxmU1hICV_047swkgioj2fkMRBiVddtoPnHRKlWdheQI4p180JkEAZNq9p5DTWPMxYqgQUHLqMTxPaozPbChcDt2p8rP6v1vC2vBng0JWmFpKe9AnwPttgdCTuh2Ert_CPOt2QxaVrG1l1l17y-eQGHDakMwc=s1600"
 en_name: "Silver Gray"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjBVg7DcdJWZosfx3mv5FalkQAIG4lNI4wgxmU1hICV_047swkgioj2fkMRBiVddtoPnHRKlWdheQI4p180JkEAZNq9p5DTWPMxYqgQUHLqMTxPaozPbChcDt2p8rP6v1vC2vBng0JWmFpKe9AnwPttgdCTuh2Ert_CPOt2QxaVrG1l1l17y-eQGHDakMwc=s1600)
-
 
 ## 11月8日の誕生色: シルバーグレー (`#E2DFE5`)
 

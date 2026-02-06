@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhAqAreNtxIEIdw2jI0-njulqqlSIfCUn4_XNXbhb5VHAy4OAEebQmGoSOb5Zz0MgJkTo8RDoi8IC1GiYNMBz4CV-JSYJJCXVza_NW05Jk8OglK69dt9OVjg-fd6lBcDD0V_LVB47o1HBz2IZmX1YUPefcuNAy6o2j1pfLm9dQwWnmReEV67os8IfIwVOHH=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Lime Olive, The Birthday Color of April 15"
 date: "2026-04-15"
 updated: "2026-04-15"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "elegant ultramarine"
 description: "The birthday color for April 15 is Lime Olive (B8C249). Its meaning is Vibrant, Hopeful, Creative."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhAqAreNtxIEIdw2jI0-njulqqlSIfCUn4_XNXbhb5VHAy4OAEebQmGoSOb5Zz0MgJkTo8RDoi8IC1GiYNMBz4CV-JSYJJCXVza_NW05Jk8OglK69dt9OVjg-fd6lBcDD0V_LVB47o1HBz2IZmX1YUPefcuNAy6o2j1pfLm9dQwWnmReEV67os8IfIwVOHH=s1600"
 en_name: "LimeOlive"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhAqAreNtxIEIdw2jI0-njulqqlSIfCUn4_XNXbhb5VHAy4OAEebQmGoSOb5Zz0MgJkTo8RDoi8IC1GiYNMBz4CV-JSYJJCXVza_NW05Jk8OglK69dt9OVjg-fd6lBcDD0V_LVB47o1HBz2IZmX1YUPefcuNAy6o2j1pfLm9dQwWnmReEV67os8IfIwVOHH=s1600)
-
 
 ## Birthday Color for April 15: Lime Olive (`#B8C249`)
 

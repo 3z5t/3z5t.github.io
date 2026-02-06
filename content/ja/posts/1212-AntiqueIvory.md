@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh-y3dm05CKLmNxJz-cbz_L-uEHtyXyG8g2uE2UmrRIidOHzly5ItxbCPyf7O_C8xCDVahnW5MVOXOpbWf3aNCiVkiuik1ox2WPp4DxOetyOO5_QYamug3fUyURnvVfuUx0bgBZHcfKQCQzmWYyaayzwTtwCuzt4orGL7EoJ1deWB1qWW17kJxjv_D7_BhW=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アンティークアイボリー、12月12日の誕生色"
 date: "2026-12-12"
 updated: "2026-12-12"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ディープナイトスカイ"
 description: "12月12日の誕生色 アンティークアイボリー(E9E1D8)。色言葉は「純粋な心、清らか、優雅」です。相性の良い色はディープナイトスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh-y3dm05CKLmNxJz-cbz_L-uEHtyXyG8g2uE2UmrRIidOHzly5ItxbCPyf7O_C8xCDVahnW5MVOXOpbWf3aNCiVkiuik1ox2WPp4DxOetyOO5_QYamug3fUyURnvVfuUx0bgBZHcfKQCQzmWYyaayzwTtwCuzt4orGL7EoJ1deWB1qWW17kJxjv_D7_BhW=s1600"
 en_name: "Antique Ivory"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh-y3dm05CKLmNxJz-cbz_L-uEHtyXyG8g2uE2UmrRIidOHzly5ItxbCPyf7O_C8xCDVahnW5MVOXOpbWf3aNCiVkiuik1ox2WPp4DxOetyOO5_QYamug3fUyURnvVfuUx0bgBZHcfKQCQzmWYyaayzwTtwCuzt4orGL7EoJ1deWB1qWW17kJxjv_D7_BhW=s1600)
-
 
 ## 12月12日の誕生色: アンティークアイボリー (`#E9E1D8`)
 

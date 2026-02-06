@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgBz0CK_QO8_29ImYHBbOSJhbGXWSAEKLlEqxqwdeJOt1VpqwiYVJhWnukCQm0RCjYrPwRh3ElWMhpqFFmOwSscKgf67F8Sk6fvxy32ucNksZRGVB9QShFXyLs4t5_vB7z4YMmMbY43seLxS0noFnsl0zTmQF0PPaEg4pFlRD82ZIB9TRYjEDchEfm4XQTF=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Autumn Brick Wall, The Birthday Color of August 30"
 date: "2026-08-30"
 updated: "2026-08-30"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "slate green"
 description: "The birthday color for August 30 is Autumn Brick Wall (AA837E). Its meaning is Sturdy Will, Stability, Enjoying Change."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgBz0CK_QO8_29ImYHBbOSJhbGXWSAEKLlEqxqwdeJOt1VpqwiYVJhWnukCQm0RCjYrPwRh3ElWMhpqFFmOwSscKgf67F8Sk6fvxy32ucNksZRGVB9QShFXyLs4t5_vB7z4YMmMbY43seLxS0noFnsl0zTmQF0PPaEg4pFlRD82ZIB9TRYjEDchEfm4XQTF=s1600"
 en_name: "AutumnBrickWall"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgBz0CK_QO8_29ImYHBbOSJhbGXWSAEKLlEqxqwdeJOt1VpqwiYVJhWnukCQm0RCjYrPwRh3ElWMhpqFFmOwSscKgf67F8Sk6fvxy32ucNksZRGVB9QShFXyLs4t5_vB7z4YMmMbY43seLxS0noFnsl0zTmQF0PPaEg4pFlRD82ZIB9TRYjEDchEfm4XQTF=s1600)
-
 
 ## Birthday Color for August 30: Autumn Brick Wall (`#AA837E`)
 

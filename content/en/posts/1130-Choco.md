@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhgo_6f-eBN7CDIVdCu6LUh4oFrhd8n8fEIP2Sg6WWg1EkLOQwJMS4SgnMz6NjKc20hi-FD2QgP0p8EkPsXLnir9grx5NxlccqeKBO3JKS9SD_UkL203nvCnZyT6GpPQiPswzQuJw13fS9D6b20xX5NE_DJbELqHLYuCN0nbCVOnMkaVvbZEAMCsnPuGEjQ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Choco, The Birthday Color of November 30"
 date: "2026-11-30"
 updated: "2026-11-30"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "morning glory"
 description: "The birthday color for November 30 is Choco (633122). Its meaning is Sweet Personality, Abundant, Stable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhgo_6f-eBN7CDIVdCu6LUh4oFrhd8n8fEIP2Sg6WWg1EkLOQwJMS4SgnMz6NjKc20hi-FD2QgP0p8EkPsXLnir9grx5NxlccqeKBO3JKS9SD_UkL203nvCnZyT6GpPQiPswzQuJw13fS9D6b20xX5NE_DJbELqHLYuCN0nbCVOnMkaVvbZEAMCsnPuGEjQ=s1600"
 en_name: "Choco"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhgo_6f-eBN7CDIVdCu6LUh4oFrhd8n8fEIP2Sg6WWg1EkLOQwJMS4SgnMz6NjKc20hi-FD2QgP0p8EkPsXLnir9grx5NxlccqeKBO3JKS9SD_UkL203nvCnZyT6GpPQiPswzQuJw13fS9D6b20xX5NE_DJbELqHLYuCN0nbCVOnMkaVvbZEAMCsnPuGEjQ=s1600)
-
 
 ## Birthday Color for November 30: Choco (`#633122`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhoZDqbUNFysEORjN0exefxrjVcMH9WA8-7PEw3X7VlA5UitBamYN321X2GA_76uaPQeC3xCkrERqc_pMlN79wnPGRh9Oc9Fam3EqHAj6mdYvBaVZA7JQviXuZ8Q0rKRrHTIKDrRpMABGMJAOc_Zt8Z8mUb4n4equEb3d0wRN_GxQu73MNRcTYv46ctj6Pj=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "シルバーローズ、3月25日の誕生色"
 date: "2026-03-25"
 updated: "2026-03-25"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "エイシェントグリーン"
 description: "3月25日の誕生色 シルバーローズ(BE8C92)。色言葉は「品位、高級感、成熟」です。相性の良い色はエイシェントグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhoZDqbUNFysEORjN0exefxrjVcMH9WA8-7PEw3X7VlA5UitBamYN321X2GA_76uaPQeC3xCkrERqc_pMlN79wnPGRh9Oc9Fam3EqHAj6mdYvBaVZA7JQviXuZ8Q0rKRrHTIKDrRpMABGMJAOc_Zt8Z8mUb4n4equEb3d0wRN_GxQu73MNRcTYv46ctj6Pj=s1600"
 en_name: "Silver Rose"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhoZDqbUNFysEORjN0exefxrjVcMH9WA8-7PEw3X7VlA5UitBamYN321X2GA_76uaPQeC3xCkrERqc_pMlN79wnPGRh9Oc9Fam3EqHAj6mdYvBaVZA7JQviXuZ8Q0rKRrHTIKDrRpMABGMJAOc_Zt8Z8mUb4n4equEb3d0wRN_GxQu73MNRcTYv46ctj6Pj=s1600)
-
 
 ## 3月25日の誕生色: シルバーローズ (`#BE8C92`)
 

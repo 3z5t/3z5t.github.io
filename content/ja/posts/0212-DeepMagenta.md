@@ -1,21 +1,24 @@
 ---
-"title": "ディープマゼンタ、2月12日の誕生色"
-"date": "2026-02-12"
-"updated": "2026-02-12"
-"labels":
-- "ディープマゼンタ"
-- "誕生色"
-- "2月12日"
-- "2C1725"
-- "2月"
-- "ホイップクリーム"
-"description": "2月12日の誕生色 ディープマゼンタ(2C1725)。色言葉は「洞察力、成熟、知恵」です。相性の良い色はホイップクリームです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEiH0gyxisaEd_rRa12S3VHYp705DcStj0RzRdnYZhTJ58lh3k33Mf46_outGV94n5iBL43_BWqRsicZPJxso9-zSoSLR-wvy62e0eYPFAMevE7UuQpQHb0Ji5AOBaJCV2RM6iMJM3T8Xd3Q8jpFJ-1vk05_XmsoqQVvfinOTpU0IcxM1zcHugQHhjxYkZxA=s1600"
-"en_name": "Deep Magenta"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "6816956057178869569"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/212-deep-magenta.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiH0gyxisaEd_rRa12S3VHYp705DcStj0RzRdnYZhTJ58lh3k33Mf46_outGV94n5iBL43_BWqRsicZPJxso9-zSoSLR-wvy62e0eYPFAMevE7UuQpQHb0Ji5AOBaJCV2RM6iMJM3T8Xd3Q8jpFJ-1vk05_XmsoqQVvfinOTpU0IcxM1zcHugQHhjxYkZxA=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ディープマゼンタ、2月12日の誕生色"
+date: "2026-02-12"
+updated: "2026-02-12"
+tags:
+  - "ディープマゼンタ"
+  - "誕生色"
+  - "2月12日"
+  - "2C1725"
+  - "2月"
+  - "ホイップクリーム"
+description: "2月12日の誕生色 ディープマゼンタ(2C1725)。色言葉は「洞察力、成熟、知恵」です。相性の良い色はホイップクリームです。"
+en_name: "Deep Magenta"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "6816956057178869569"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/212-deep-magenta.html"
 ---
 
 ## 2月12日の誕生色: ディープマゼンタ (`#2C1725`)

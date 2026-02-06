@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjhi1BwisQ0144U1_kEGoA_-Qix417ANJFaGxRagqaWZq5WpjvtnHPRB8TluHyA1JQ_mOEOs2sgoNCPUl5rO8XJidRW_M7_QA0MbpDNmeg80tIvjgLih_yZdDJDyYwovTCNjhpwqYvi6cI-Tqr_I2gADPUw7WLalqZ46shsyvufp1iMypUmn2PwR9KMajyg=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Antique Ivory, The Birthday Color of December 12"
 date: "2026-12-12"
 updated: "2026-12-12"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "deep night sky"
 description: "The birthday color for December 12 is Antique Ivory (E9E1D8). Its meaning is Pure Heart, Clean, Elegant."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjhi1BwisQ0144U1_kEGoA_-Qix417ANJFaGxRagqaWZq5WpjvtnHPRB8TluHyA1JQ_mOEOs2sgoNCPUl5rO8XJidRW_M7_QA0MbpDNmeg80tIvjgLih_yZdDJDyYwovTCNjhpwqYvi6cI-Tqr_I2gADPUw7WLalqZ46shsyvufp1iMypUmn2PwR9KMajyg=s1600"
 en_name: "AntiqueIvory"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjhi1BwisQ0144U1_kEGoA_-Qix417ANJFaGxRagqaWZq5WpjvtnHPRB8TluHyA1JQ_mOEOs2sgoNCPUl5rO8XJidRW_M7_QA0MbpDNmeg80tIvjgLih_yZdDJDyYwovTCNjhpwqYvi6cI-Tqr_I2gADPUw7WLalqZ46shsyvufp1iMypUmn2PwR9KMajyg=s1600)
-
 
 ## Birthday Color for December 12: Antique Ivory (`#E9E1D8`)
 

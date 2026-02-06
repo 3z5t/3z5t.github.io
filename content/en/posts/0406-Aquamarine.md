@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjbo6UpmJ_vJhpzHVqKo3ZALTUfwMbbzRpIXEXiIsL2gZ3-KgfVq3EE30GxFX_JgloepRfStpXS06UhJmX5om9a1WmPBrb2HL8ba5oVtJgfglCzsQQ0hIi-C_Uo_z6j0E5SC1vSor5mkrDMtelyNQ8di5wjZu0HrmLIftpWn8mtNUhahSC3MhRY7WuzE8oP=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Aquamarine, The Birthday Color of April 6"
 date: "2026-04-06"
 updated: "2026-04-06"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "moonlight wine"
 description: "The birthday color for April 6 is Aquamarine (99FFCC). Its meaning is Refreshing, Pure, Creativity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjbo6UpmJ_vJhpzHVqKo3ZALTUfwMbbzRpIXEXiIsL2gZ3-KgfVq3EE30GxFX_JgloepRfStpXS06UhJmX5om9a1WmPBrb2HL8ba5oVtJgfglCzsQQ0hIi-C_Uo_z6j0E5SC1vSor5mkrDMtelyNQ8di5wjZu0HrmLIftpWn8mtNUhahSC3MhRY7WuzE8oP=s1600"
 en_name: "Aquamarine"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjbo6UpmJ_vJhpzHVqKo3ZALTUfwMbbzRpIXEXiIsL2gZ3-KgfVq3EE30GxFX_JgloepRfStpXS06UhJmX5om9a1WmPBrb2HL8ba5oVtJgfglCzsQQ0hIi-C_Uo_z6j0E5SC1vSor5mkrDMtelyNQ8di5wjZu0HrmLIftpWn8mtNUhahSC3MhRY7WuzE8oP=s1600)
-
 
 ## Birthday Color for April 6: Aquamarine (`#99FFCC`)
 

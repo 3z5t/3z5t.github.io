@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhvFwwqvAZGF6OzHRJ-cwwem2U8iAum1x-zdffOqsMS1oI09zf3A4RoLm9UyL8cisXycoXY6YD-28PBzmxnlgKiCp1nD8DBM5t0YmSysnBKXzKTTcRrP0yrRAB94L8NQo-2w7moPHK61h3cNZFjJdtJAulCrbBvaxIy0QoPBH7ROXz5aKQuiKejLDtlUX5G=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ピーグリーン（エンドウ豆）、4月12日の誕生色"
 date: "2026-04-12"
 updated: "2026-04-12"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "ディープソラ"
 description: "4月12日の誕生色 ピーグリーン（エンドウ豆）(8C9E58)。色言葉は「頑健、生命力、成長性」です。相性の良い色はディープソラです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhvFwwqvAZGF6OzHRJ-cwwem2U8iAum1x-zdffOqsMS1oI09zf3A4RoLm9UyL8cisXycoXY6YD-28PBzmxnlgKiCp1nD8DBM5t0YmSysnBKXzKTTcRrP0yrRAB94L8NQo-2w7moPHK61h3cNZFjJdtJAulCrbBvaxIy0QoPBH7ROXz5aKQuiKejLDtlUX5G=s1600"
 en_name: "Pea Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhvFwwqvAZGF6OzHRJ-cwwem2U8iAum1x-zdffOqsMS1oI09zf3A4RoLm9UyL8cisXycoXY6YD-28PBzmxnlgKiCp1nD8DBM5t0YmSysnBKXzKTTcRrP0yrRAB94L8NQo-2w7moPHK61h3cNZFjJdtJAulCrbBvaxIy0QoPBH7ROXz5aKQuiKejLDtlUX5G=s1600)
-
 
 ## 4月12日の誕生色: ピーグリーン（エンドウ豆） (`#8C9E58`)
 

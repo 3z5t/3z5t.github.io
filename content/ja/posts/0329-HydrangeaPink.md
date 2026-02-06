@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh9D8O7Kl0Bo_qFlAUlOXnkrqazwliHVhiKkfwQi7ueEg0w5l41wJ3Vi2F0E4UE6B286IAbJZdvl3GK27AFcydC7po7KpMWpVuSAkxeJLD1GBcsmxCNsRdwUcSIFVPS_3Kdu5h0RUM6uQycVsKRFP1IMmqvkGtOlhWadmFLWZQkQLTlK5GJJAcHW4HcvOzr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ハイドランジアピンク、3月29日の誕生色"
 date: "2026-03-29"
 updated: "2026-03-29"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ディープナイトスカイ"
 description: "3月29日の誕生色 ハイドランジアピンク(FFBFCA)。色言葉は「豊かさ、美しさ、優雅」です。相性の良い色はディープナイトスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh9D8O7Kl0Bo_qFlAUlOXnkrqazwliHVhiKkfwQi7ueEg0w5l41wJ3Vi2F0E4UE6B286IAbJZdvl3GK27AFcydC7po7KpMWpVuSAkxeJLD1GBcsmxCNsRdwUcSIFVPS_3Kdu5h0RUM6uQycVsKRFP1IMmqvkGtOlhWadmFLWZQkQLTlK5GJJAcHW4HcvOzr=s1600"
 en_name: "Hydrangea Pink"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh9D8O7Kl0Bo_qFlAUlOXnkrqazwliHVhiKkfwQi7ueEg0w5l41wJ3Vi2F0E4UE6B286IAbJZdvl3GK27AFcydC7po7KpMWpVuSAkxeJLD1GBcsmxCNsRdwUcSIFVPS_3Kdu5h0RUM6uQycVsKRFP1IMmqvkGtOlhWadmFLWZQkQLTlK5GJJAcHW4HcvOzr=s1600)
-
 
 ## 3月29日の誕生色: ハイドランジアピンク (`#FFBFCA`)
 

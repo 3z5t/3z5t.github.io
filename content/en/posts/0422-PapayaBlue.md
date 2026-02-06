@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgv7f-dYU5yQPKrhDRVS3pJCjiYzUt6vP_erJaXXUSZmsQonUgx4lF544GsFhIML80OoJzTrH1kknQO7VuTVSza5k63Bv4P90_h78YqnZ5q4bcWRX0RWfnVgSq_PyBt-gcbQFsDmfrgyP9Ikx79ZVVkACFU5uQrFJhVqitquDIK_l0xiQVJR7msKZ1Zjh1e=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Papaya Blue, The Birthday Color of April 22"
 date: "2026-04-22"
 updated: "2026-04-22"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "intense sunset"
 description: "The birthday color for April 22 is Papaya Blue (37B5BE). Its meaning is Energetic, Healthy, Vibrant."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgv7f-dYU5yQPKrhDRVS3pJCjiYzUt6vP_erJaXXUSZmsQonUgx4lF544GsFhIML80OoJzTrH1kknQO7VuTVSza5k63Bv4P90_h78YqnZ5q4bcWRX0RWfnVgSq_PyBt-gcbQFsDmfrgyP9Ikx79ZVVkACFU5uQrFJhVqitquDIK_l0xiQVJR7msKZ1Zjh1e=s1600"
 en_name: "PapayaBlue"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgv7f-dYU5yQPKrhDRVS3pJCjiYzUt6vP_erJaXXUSZmsQonUgx4lF544GsFhIML80OoJzTrH1kknQO7VuTVSza5k63Bv4P90_h78YqnZ5q4bcWRX0RWfnVgSq_PyBt-gcbQFsDmfrgyP9Ikx79ZVVkACFU5uQrFJhVqitquDIK_l0xiQVJR7msKZ1Zjh1e=s1600)
-
 
 ## Birthday Color for April 22: Papaya Blue (`#37B5BE`)
 

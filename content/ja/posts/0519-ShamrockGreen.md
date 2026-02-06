@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj9Wg85ykArFDdtYSGw_sdgk0jFOhCVEtUSkAh9SYiN8A0g_oDs7-8v8CU5KXPcVS9kKz3Mdcr4rDQBrnI5T4oZDBpwb0PkmVpqQUxCneYG1XUQkAxkfcEpV2_A7trG0eqjBjCw4OIhpZ9P3TTe0-7zL8plLdU31CjgADGD7m84xvx_tyng4TVincyF1_r1=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "シャムロックグリーン、5月19日の誕生色"
 date: "2026-05-19"
 updated: "2026-05-19"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "ブリリアントローズ"
 description: "5月19日の誕生色 シャムロックグリーン(009966)。色言葉は「成功運、幸運、繁栄」です。相性の良い色はブリリアントローズです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj9Wg85ykArFDdtYSGw_sdgk0jFOhCVEtUSkAh9SYiN8A0g_oDs7-8v8CU5KXPcVS9kKz3Mdcr4rDQBrnI5T4oZDBpwb0PkmVpqQUxCneYG1XUQkAxkfcEpV2_A7trG0eqjBjCw4OIhpZ9P3TTe0-7zL8plLdU31CjgADGD7m84xvx_tyng4TVincyF1_r1=s1600"
 en_name: "Shamrock Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj9Wg85ykArFDdtYSGw_sdgk0jFOhCVEtUSkAh9SYiN8A0g_oDs7-8v8CU5KXPcVS9kKz3Mdcr4rDQBrnI5T4oZDBpwb0PkmVpqQUxCneYG1XUQkAxkfcEpV2_A7trG0eqjBjCw4OIhpZ9P3TTe0-7zL8plLdU31CjgADGD7m84xvx_tyng4TVincyF1_r1=s1600)
-
 
 ## 5月19日の誕生色: シャムロックグリーン (`#009966`)
 

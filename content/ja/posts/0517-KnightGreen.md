@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhHcAR5hogNTdTcyzvUQl_XWrHcS2jab00uuBxXJgh1nVwRrDJRYR6kxI_Yb3xh871y3uRKM8-1TNmspaJ2EWvH-RHHVMhp3gOwfsnXu_uiKLoGRUQcFFhuYGfOHdqwQMViwU9ljEJy8MlPrqUTthhQq0QhWaOcas2611OqFbzVHvGzksjetoUXzgZa7H-z=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ナイトグリーン、5月17日の誕生色"
 date: "2026-05-17"
 updated: "2026-05-17"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "ブルーバイオレット"
 description: "5月17日の誕生色 ナイトグリーン(5C9432)。色言葉は「平和、安定感、回復力」です。相性の良い色はブルーバイオレットです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhHcAR5hogNTdTcyzvUQl_XWrHcS2jab00uuBxXJgh1nVwRrDJRYR6kxI_Yb3xh871y3uRKM8-1TNmspaJ2EWvH-RHHVMhp3gOwfsnXu_uiKLoGRUQcFFhuYGfOHdqwQMViwU9ljEJy8MlPrqUTthhQq0QhWaOcas2611OqFbzVHvGzksjetoUXzgZa7H-z=s1600"
 en_name: "Knight Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhHcAR5hogNTdTcyzvUQl_XWrHcS2jab00uuBxXJgh1nVwRrDJRYR6kxI_Yb3xh871y3uRKM8-1TNmspaJ2EWvH-RHHVMhp3gOwfsnXu_uiKLoGRUQcFFhuYGfOHdqwQMViwU9ljEJy8MlPrqUTthhQq0QhWaOcas2611OqFbzVHvGzksjetoUXzgZa7H-z=s1600)
-
 
 ## 5月17日の誕生色: ナイトグリーン (`#5C9432`)
 

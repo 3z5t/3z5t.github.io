@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgO9EMgZJC5_P6IoPJ541i8Ep0zVy70O6P0vjJCch3MF5l99H4NnzFe8pPjg8KHEd1vgFrlNEBev9pih6IoimgFiFcXeU8IW1V2cmcH91zNhOFVH9vPohKOeGDT8b7T97toCP8BGFoir187oT9_uv3Vtc4LKStW4sUE3K1DhKEgQGv8t5iP9-owb2fmmbCJ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Reed Marsh, The Birthday Color of June 27"
 date: "2026-06-27"
 updated: "2026-06-27"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "deep ocean"
 description: "The birthday color for June 27 is Reed Marsh (B09A82). Its meaning is Natural, Peaceful, Inclusive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgO9EMgZJC5_P6IoPJ541i8Ep0zVy70O6P0vjJCch3MF5l99H4NnzFe8pPjg8KHEd1vgFrlNEBev9pih6IoimgFiFcXeU8IW1V2cmcH91zNhOFVH9vPohKOeGDT8b7T97toCP8BGFoir187oT9_uv3Vtc4LKStW4sUE3K1DhKEgQGv8t5iP9-owb2fmmbCJ=s1600"
 en_name: "ReedMarsh"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgO9EMgZJC5_P6IoPJ541i8Ep0zVy70O6P0vjJCch3MF5l99H4NnzFe8pPjg8KHEd1vgFrlNEBev9pih6IoimgFiFcXeU8IW1V2cmcH91zNhOFVH9vPohKOeGDT8b7T97toCP8BGFoir187oT9_uv3Vtc4LKStW4sUE3K1DhKEgQGv8t5iP9-owb2fmmbCJ=s1600)
-
 
 ## Birthday Color for June 27: Reed Marsh (`#B09A82`)
 

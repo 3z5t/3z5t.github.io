@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgptLNz9GJIm8PhpRO39LoMcEhTwmcDbKEFaZvLdTVG4gmG6mTxebf-AapvOrfur54CrxrfQjLZp7bJ6czqi5o0M8aH8TENoEvDsFGRmYs1eIvDbBT3g_yYvpUB_ct9QqneiNmChuv4nKOWysPBwJftJhqErSZ5FEDmo7IXq0Sv1PfTm6FvjHEObmFaU2yN=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Matcha, The Birthday Color of September 14"
 date: "2026-09-14"
 updated: "2026-09-14"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "sora blue"
 description: "The birthday color for September 14 is Deep Matcha (74703F). Its meaning is Profound, Wise, Mature."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgptLNz9GJIm8PhpRO39LoMcEhTwmcDbKEFaZvLdTVG4gmG6mTxebf-AapvOrfur54CrxrfQjLZp7bJ6czqi5o0M8aH8TENoEvDsFGRmYs1eIvDbBT3g_yYvpUB_ct9QqneiNmChuv4nKOWysPBwJftJhqErSZ5FEDmo7IXq0Sv1PfTm6FvjHEObmFaU2yN=s1600"
 en_name: "DeepMatcha"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgptLNz9GJIm8PhpRO39LoMcEhTwmcDbKEFaZvLdTVG4gmG6mTxebf-AapvOrfur54CrxrfQjLZp7bJ6czqi5o0M8aH8TENoEvDsFGRmYs1eIvDbBT3g_yYvpUB_ct9QqneiNmChuv4nKOWysPBwJftJhqErSZ5FEDmo7IXq0Sv1PfTm6FvjHEObmFaU2yN=s1600)
-
 
 ## Birthday Color for September 14: Deep Matcha (`#74703F`)
 

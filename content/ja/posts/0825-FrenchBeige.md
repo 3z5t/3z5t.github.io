@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiYOagoAggdw1yaaU-yj4ssB-xlpj84dxtjMZkCW9GGS3E2c63MhsERaot-gEa8BldkdEHuExIkPVSbbnhGVAAQ8SB0nKvEj1uNzWSMBjcq1COqBEfMgf380X1HHk52WpJtefJBI5DdqnBkfd7RQJrCVL42nyybeTGvT8Q4MsTAOkWN4U-o17xbNrfehgpf=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "フレンチベージュ、8月25日の誕生色"
 date: "2026-08-25"
 updated: "2026-08-25"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "オータムスカイ"
 description: "8月25日の誕生色 フレンチベージュ(A67B5B)。色言葉は「洗練、高級感、優雅」です。相性の良い色はオータムスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiYOagoAggdw1yaaU-yj4ssB-xlpj84dxtjMZkCW9GGS3E2c63MhsERaot-gEa8BldkdEHuExIkPVSbbnhGVAAQ8SB0nKvEj1uNzWSMBjcq1COqBEfMgf380X1HHk52WpJtefJBI5DdqnBkfd7RQJrCVL42nyybeTGvT8Q4MsTAOkWN4U-o17xbNrfehgpf=s1600"
 en_name: "French Beige"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiYOagoAggdw1yaaU-yj4ssB-xlpj84dxtjMZkCW9GGS3E2c63MhsERaot-gEa8BldkdEHuExIkPVSbbnhGVAAQ8SB0nKvEj1uNzWSMBjcq1COqBEfMgf380X1HHk52WpJtefJBI5DdqnBkfd7RQJrCVL42nyybeTGvT8Q4MsTAOkWN4U-o17xbNrfehgpf=s1600)
-
 
 ## 8月25日の誕生色: フレンチベージュ (`#A67B5B`)
 

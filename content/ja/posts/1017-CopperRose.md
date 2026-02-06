@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgaqKC8qn8Ggj0yyuHi6Q-wjcQjSj1toxZZC5cyLx8pSeqPoYBSwAncr1b2VYAN5RM2f7FXk6n1v9Dp8xQA8Tzv09sowWULPj7DGwiYxcqz7TAGkXPtwTA_zLbmsezkePXo6uQPMJv_ImGsPlK_vbfUqo9gnmGbKJHHRydkSUormeQD3QDl7vihz6L0CXJv=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "コッパーローズ、10月17日の誕生色"
 date: "2026-10-17"
 updated: "2026-10-17"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "オータムスカイ"
 description: "10月17日の誕生色 コッパーローズ(996666)。色言葉は「快適、安定感、成熟」です。相性の良い色はオータムスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgaqKC8qn8Ggj0yyuHi6Q-wjcQjSj1toxZZC5cyLx8pSeqPoYBSwAncr1b2VYAN5RM2f7FXk6n1v9Dp8xQA8Tzv09sowWULPj7DGwiYxcqz7TAGkXPtwTA_zLbmsezkePXo6uQPMJv_ImGsPlK_vbfUqo9gnmGbKJHHRydkSUormeQD3QDl7vihz6L0CXJv=s1600"
 en_name: "Copper Rose"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgaqKC8qn8Ggj0yyuHi6Q-wjcQjSj1toxZZC5cyLx8pSeqPoYBSwAncr1b2VYAN5RM2f7FXk6n1v9Dp8xQA8Tzv09sowWULPj7DGwiYxcqz7TAGkXPtwTA_zLbmsezkePXo6uQPMJv_ImGsPlK_vbfUqo9gnmGbKJHHRydkSUormeQD3QDl7vihz6L0CXJv=s1600)
-
 
 ## 10月17日の誕生色: コッパーローズ (`#996666`)
 

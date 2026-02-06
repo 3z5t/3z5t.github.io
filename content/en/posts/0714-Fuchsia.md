@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgSRtn26A9WyRHb5Hu9gDFk0EVG9NtVa5c4OTFHtd9VQsSiZaR2pnc3HLgr3zeregi3rTmW3t2W-1EOm5OrBbkiRRCZjlgdWZ0xh_oIOEc9neZ399wYjRPvPPVSbHaX7MJp0ocXE9lwWEs6Ed-k_IFve5-h2uLQouK3VsMA_229BMeRls568HxRaxdD0S1E=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Fuchsia, The Birthday Color of July 14"
 date: "2026-07-14"
 updated: "2026-07-14"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "pure green"
 description: "The birthday color for July 14 is Fuchsia (CC33CC). Its meaning is Charming, Fancy, Unique."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgSRtn26A9WyRHb5Hu9gDFk0EVG9NtVa5c4OTFHtd9VQsSiZaR2pnc3HLgr3zeregi3rTmW3t2W-1EOm5OrBbkiRRCZjlgdWZ0xh_oIOEc9neZ399wYjRPvPPVSbHaX7MJp0ocXE9lwWEs6Ed-k_IFve5-h2uLQouK3VsMA_229BMeRls568HxRaxdD0S1E=s1600"
 en_name: "Fuchsia"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgSRtn26A9WyRHb5Hu9gDFk0EVG9NtVa5c4OTFHtd9VQsSiZaR2pnc3HLgr3zeregi3rTmW3t2W-1EOm5OrBbkiRRCZjlgdWZ0xh_oIOEc9neZ399wYjRPvPPVSbHaX7MJp0ocXE9lwWEs6Ed-k_IFve5-h2uLQouK3VsMA_229BMeRls568HxRaxdD0S1E=s1600)
-
 
 ## Birthday Color for July 14: Fuchsia (`#CC33CC`)
 

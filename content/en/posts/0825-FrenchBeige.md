@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgoqbeMAAUiQWS1icEuvUTPtJI6YTra-LzBpu0qlhNFBhUkPtFAQHnsukImWEGjmBtDk19RIPQ8v9PFQe_MZqTp-qysAwyxs1UFbb9j6SzV17oNX30uGPXvn2LRHWmAVu9TGMClWGztgzFnuCceHXFUOpu_eD7IHHyB0NRTe0wRT9qYsBjinlR6tHVwmL9r=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "French Beige, The Birthday Color of August 25"
 date: "2026-08-25"
 updated: "2026-08-25"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "autumn sky"
 description: "The birthday color for August 25 is French Beige (A67B5B). Its meaning is Sophisticated, Luxurious, Elegant."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgoqbeMAAUiQWS1icEuvUTPtJI6YTra-LzBpu0qlhNFBhUkPtFAQHnsukImWEGjmBtDk19RIPQ8v9PFQe_MZqTp-qysAwyxs1UFbb9j6SzV17oNX30uGPXvn2LRHWmAVu9TGMClWGztgzFnuCceHXFUOpu_eD7IHHyB0NRTe0wRT9qYsBjinlR6tHVwmL9r=s1600"
 en_name: "FrenchBeige"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgoqbeMAAUiQWS1icEuvUTPtJI6YTra-LzBpu0qlhNFBhUkPtFAQHnsukImWEGjmBtDk19RIPQ8v9PFQe_MZqTp-qysAwyxs1UFbb9j6SzV17oNX30uGPXvn2LRHWmAVu9TGMClWGztgzFnuCceHXFUOpu_eD7IHHyB0NRTe0wRT9qYsBjinlR6tHVwmL9r=s1600)
-
 
 ## Birthday Color for August 25: French Beige (`#A67B5B`)
 

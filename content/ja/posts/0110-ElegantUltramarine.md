@@ -1,25 +1,25 @@
 ---
-title: エレガントウルトラマリン、1月10日の誕生色
-date: 2026-01-10
-updated: 2026-01-10
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgNp-1fMbb4fWCrkFgmws-2fpFLDctHHno3wR2W_iv04j7Kti6M4u3sbTbkSEUrHhWcfBUySNSPYuwEewdbKtMzuusLNTKaTgkFYegbR_AKq977EVeui9ORxNINNHAo1ZaQOzsrodccN-ELeNrUncjaZotzeqep0T8kTblmFtecMad0C8P1aAevWjOlD5fA=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "エレガントウルトラマリン、1月10日の誕生色"
+date: "2026-01-10"
+updated: "2026-01-10"
 tags:
-  - エレガントウルトラマリン
-  - 誕生色
-  - 1月10日
-  - 445B97
-  - 1月
-  - ウィートフィールド（麦畑）
-description: 1月10日の誕生色 エレガントウルトラマリン(445B97)。色言葉は「信頼性、忠誠心、正直さ」です。相性の良い色はウィートフィールド（麦畑）です。
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgNp-1fMbb4fWCrkFgmws-2fpFLDctHHno3wR2W_iv04j7Kti6M4u3sbTbkSEUrHhWcfBUySNSPYuwEewdbKtMzuusLNTKaTgkFYegbR_AKq977EVeui9ORxNINNHAo1ZaQOzsrodccN-ELeNrUncjaZotzeqep0T8kTblmFtecMad0C8P1aAevWjOlD5fA=s1600
-en_name: Elegant Ultramarine
-author: 日々のカケラ
-profileName: 日々のカケラ
+  - "エレガントウルトラマリン"
+  - "誕生色"
+  - "1月10日"
+  - "445B97"
+  - "1月"
+  - "ウィートフィールド（麦畑）"
+description: "1月10日の誕生色 エレガントウルトラマリン(445B97)。色言葉は「信頼性、忠誠心、正直さ」です。相性の良い色はウィートフィールド（麦畑）です。"
+en_name: "Elegant Ultramarine"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
 postId: "1004"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgNp-1fMbb4fWCrkFgmws-2fpFLDctHHno3wR2W_iv04j7Kti6M4u3sbTbkSEUrHhWcfBUySNSPYuwEewdbKtMzuusLNTKaTgkFYegbR_AKq977EVeui9ORxNINNHAo1ZaQOzsrodccN-ELeNrUncjaZotzeqep0T8kTblmFtecMad0C8P1aAevWjOlD5fA=s1600)
-
 
 ## 1月10日の誕生色: エレガントウルトラマリン (`#445B97`)
 

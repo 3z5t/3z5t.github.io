@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiSRKLrnXW7dVWWz5oycDjimu7EtySU9c4BA6DxzFtQTIkbKxxC8rvpvAjJwGR0uTpaBDGjN3UgY3YGoumbKS3WvRCY3ste1_yeUWbMulZn-UDmOzS3opqriF3ilrCxt5KJza0dVuOGSsEAG9e54ZhoWoWCtMw1OK4W3nLN1emEfqyKndF_dQYBQCPbnCd_=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Olive Oil, The Birthday Color of October 31"
 date: "2026-10-31"
 updated: "2026-10-31"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "maya blue"
 description: "The birthday color for October 31 is Olive Oil (999900). Its meaning is Abundant, Stable, Hopeful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiSRKLrnXW7dVWWz5oycDjimu7EtySU9c4BA6DxzFtQTIkbKxxC8rvpvAjJwGR0uTpaBDGjN3UgY3YGoumbKS3WvRCY3ste1_yeUWbMulZn-UDmOzS3opqriF3ilrCxt5KJza0dVuOGSsEAG9e54ZhoWoWCtMw1OK4W3nLN1emEfqyKndF_dQYBQCPbnCd_=s1600"
 en_name: "OliveOil"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiSRKLrnXW7dVWWz5oycDjimu7EtySU9c4BA6DxzFtQTIkbKxxC8rvpvAjJwGR0uTpaBDGjN3UgY3YGoumbKS3WvRCY3ste1_yeUWbMulZn-UDmOzS3opqriF3ilrCxt5KJza0dVuOGSsEAG9e54ZhoWoWCtMw1OK4W3nLN1emEfqyKndF_dQYBQCPbnCd_=s1600)
-
 
 ## Birthday Color for October 31: Olive Oil (`#999900`)
 

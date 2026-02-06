@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgCeDzq4ruhQwBrn2_MrUPIwUaYJVJrTPpicqRzv09ZWzCXnTM0kI0Fv5mP8qgRTFg_jIuzczKUedRztuzAavc5DGngCOuJZLX2TOqG2k3N3AmVuGU0mPpZg2KIoMmg6Ezlxg3FLHJxflWQCVDyujHN-YpSq6rhenV50y1LJNjROche02BgcOOXQ-JMMm8n=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ヴィタライム、4月19日の誕生色"
 date: "2026-04-19"
 updated: "2026-04-19"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "ピュアブルー"
 description: "4月19日の誕生色 ヴィタライム(D1D734)。色言葉は「チャレンジ精神、活力的、情熱的」です。相性の良い色はピュアブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgCeDzq4ruhQwBrn2_MrUPIwUaYJVJrTPpicqRzv09ZWzCXnTM0kI0Fv5mP8qgRTFg_jIuzczKUedRztuzAavc5DGngCOuJZLX2TOqG2k3N3AmVuGU0mPpZg2KIoMmg6Ezlxg3FLHJxflWQCVDyujHN-YpSq6rhenV50y1LJNjROche02BgcOOXQ-JMMm8n=s1600"
 en_name: "Vita Lime"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgCeDzq4ruhQwBrn2_MrUPIwUaYJVJrTPpicqRzv09ZWzCXnTM0kI0Fv5mP8qgRTFg_jIuzczKUedRztuzAavc5DGngCOuJZLX2TOqG2k3N3AmVuGU0mPpZg2KIoMmg6Ezlxg3FLHJxflWQCVDyujHN-YpSq6rhenV50y1LJNjROche02BgcOOXQ-JMMm8n=s1600)
-
 
 ## 4月19日の誕生色: ヴィタライム (`#D1D734`)
 

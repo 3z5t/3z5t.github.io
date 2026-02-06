@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEixwg-c0CA3I-AGCxMKwGuIIgz5otN73JHX2I8UYt2-ue2Lmy4O9quyjxnX3aBTHJ4OvoniZST-Yhnt2i7CXlcP4bk_Gv8iaIZDQX78SAFvV7_JXhMDp4XKA8t0RP87D9Sw7cIm1tkmgC6DY1dgdPRlKlmVploVhSX_07IpklSf6PD56AbNHZG1MUtlnLBu=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Spicy Red, The Birthday Color of October 10"
 date: "2026-10-10"
 updated: "2026-10-10"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "delicate green"
 description: "The birthday color for October 10 is Spicy Red (990033). Its meaning is Passionate, Strong Will, Profound."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEixwg-c0CA3I-AGCxMKwGuIIgz5otN73JHX2I8UYt2-ue2Lmy4O9quyjxnX3aBTHJ4OvoniZST-Yhnt2i7CXlcP4bk_Gv8iaIZDQX78SAFvV7_JXhMDp4XKA8t0RP87D9Sw7cIm1tkmgC6DY1dgdPRlKlmVploVhSX_07IpklSf6PD56AbNHZG1MUtlnLBu=s1600"
 en_name: "SpicyRed"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEixwg-c0CA3I-AGCxMKwGuIIgz5otN73JHX2I8UYt2-ue2Lmy4O9quyjxnX3aBTHJ4OvoniZST-Yhnt2i7CXlcP4bk_Gv8iaIZDQX78SAFvV7_JXhMDp4XKA8t0RP87D9Sw7cIm1tkmgC6DY1dgdPRlKlmVploVhSX_07IpklSf6PD56AbNHZG1MUtlnLBu=s1600)
-
 
 ## Birthday Color for October 10: Spicy Red (`#990033`)
 

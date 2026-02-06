@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhKJK1xh_TKPXTRhmoqy3l2bFLva75szRDDjyM56P6L2fylyu3jTWK5gXB3Y3qLPX73XE9jxnCeCHE8c7igtpz5284y-ncOT1aZ8R8mxF4I2erkQocVj0UhQE8l-mBcb8jek69H381cEEvU68Hsg6rRavRaipo623t6XTAgCz7sYHCprCP6uxQvw6TV5MLC=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "マットゴールド、6月19日の誕生色"
 date: "2026-06-19"
 updated: "2026-06-19"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "ロイヤルブルー"
 description: "6月19日の誕生色 マットゴールド(DD9330)。色言葉は「豊かさ、安定感、深み」です。相性の良い色はロイヤルブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhKJK1xh_TKPXTRhmoqy3l2bFLva75szRDDjyM56P6L2fylyu3jTWK5gXB3Y3qLPX73XE9jxnCeCHE8c7igtpz5284y-ncOT1aZ8R8mxF4I2erkQocVj0UhQE8l-mBcb8jek69H381cEEvU68Hsg6rRavRaipo623t6XTAgCz7sYHCprCP6uxQvw6TV5MLC=s1600"
 en_name: "Matte Gold"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhKJK1xh_TKPXTRhmoqy3l2bFLva75szRDDjyM56P6L2fylyu3jTWK5gXB3Y3qLPX73XE9jxnCeCHE8c7igtpz5284y-ncOT1aZ8R8mxF4I2erkQocVj0UhQE8l-mBcb8jek69H381cEEvU68Hsg6rRavRaipo623t6XTAgCz7sYHCprCP6uxQvw6TV5MLC=s1600)
-
 
 ## 6月19日の誕生色: マットゴールド (`#DD9330`)
 

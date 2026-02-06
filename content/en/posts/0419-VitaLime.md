@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjLLWE0Bg_HZlx9CugbbSn4_FJUP_BUMT-vY1Fsn7spsCAReNjaLhWivYtzGnNhTQ4K0UXbU0xEqql-M4FmIvwsedMFFHXOmwjzIOVQ6XCcobezvIj61aTc4aurp1o00Pe_oD1CPQjgyyaLDJA2H5Y-zOdBUQ53Ml3wFYknkWoiI5eq234BQSKTr7D7mvqR=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Vita Lime, The Birthday Color of April 19"
 date: "2026-04-19"
 updated: "2026-04-19"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "pure blue"
 description: "The birthday color for April 19 is Vita Lime (D1D734). Its meaning is Challenging Spirit, Energetic, Passionate."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjLLWE0Bg_HZlx9CugbbSn4_FJUP_BUMT-vY1Fsn7spsCAReNjaLhWivYtzGnNhTQ4K0UXbU0xEqql-M4FmIvwsedMFFHXOmwjzIOVQ6XCcobezvIj61aTc4aurp1o00Pe_oD1CPQjgyyaLDJA2H5Y-zOdBUQ53Ml3wFYknkWoiI5eq234BQSKTr7D7mvqR=s1600"
 en_name: "VitaLime"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjLLWE0Bg_HZlx9CugbbSn4_FJUP_BUMT-vY1Fsn7spsCAReNjaLhWivYtzGnNhTQ4K0UXbU0xEqql-M4FmIvwsedMFFHXOmwjzIOVQ6XCcobezvIj61aTc4aurp1o00Pe_oD1CPQjgyyaLDJA2H5Y-zOdBUQ53Ml3wFYknkWoiI5eq234BQSKTr7D7mvqR=s1600)
-
 
 ## Birthday Color for April 19: Vita Lime (`#D1D734`)
 

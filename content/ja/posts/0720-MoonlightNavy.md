@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi98ScKEtvOkmtcxKgGkdNFunk6cOxaLv9EZE8jvQSMMB_z2M6Cx3jOhWOuiZAmrFgOSOTRo7-8-bRBR02pu5dZA71UmSnE4SxFSHq1r-g1bmdTHlZa4uZ0KF5iZ2mtFMg53i-TBsiA_RNM6642srjIvKCN5yUVrDs02JiwPL7jDpFlASx4XwxKDQE2Qrob=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ムーンライトネイビー、7月20日の誕生色"
 date: "2026-07-20"
 updated: "2026-07-20"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "モナリザ"
 description: "7月20日の誕生色 ムーンライトネイビー(0A576C)。色言葉は「深みのある、落ち着き、賢明」です。相性の良い色はモナリザです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi98ScKEtvOkmtcxKgGkdNFunk6cOxaLv9EZE8jvQSMMB_z2M6Cx3jOhWOuiZAmrFgOSOTRo7-8-bRBR02pu5dZA71UmSnE4SxFSHq1r-g1bmdTHlZa4uZ0KF5iZ2mtFMg53i-TBsiA_RNM6642srjIvKCN5yUVrDs02JiwPL7jDpFlASx4XwxKDQE2Qrob=s1600"
 en_name: "Moonlight Navy"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi98ScKEtvOkmtcxKgGkdNFunk6cOxaLv9EZE8jvQSMMB_z2M6Cx3jOhWOuiZAmrFgOSOTRo7-8-bRBR02pu5dZA71UmSnE4SxFSHq1r-g1bmdTHlZa4uZ0KF5iZ2mtFMg53i-TBsiA_RNM6642srjIvKCN5yUVrDs02JiwPL7jDpFlASx4XwxKDQE2Qrob=s1600)
-
 
 ## 7月20日の誕生色: ムーンライトネイビー (`#0A576C`)
 

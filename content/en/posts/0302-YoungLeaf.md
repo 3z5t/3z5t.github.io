@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgLrHc9G6xeWBLw5a-rONSguu1-CQvfpACY5r6VASg_Ydyh-LoLkhi0UbEMJCSNa6cE6f5vFktWAD7-G6bOEjwQJBL3KzRR-EQHxhd3CaOZkhfdmXDhB1QJjV3WxNgt5KuRubBiRKhdsHYYaq-i4N2munobizupxfCdLHEE4l2LTbQH0zTs1p_hYmw-j6w7=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Young Leaf, The Birthday Color of March 2"
 date: "2026-03-02"
 updated: "2026-03-02"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "deep ocean"
 description: "The birthday color for March 2 is Young Leaf (93AC8B). Its meaning is Growth, Potential, Newness."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgLrHc9G6xeWBLw5a-rONSguu1-CQvfpACY5r6VASg_Ydyh-LoLkhi0UbEMJCSNa6cE6f5vFktWAD7-G6bOEjwQJBL3KzRR-EQHxhd3CaOZkhfdmXDhB1QJjV3WxNgt5KuRubBiRKhdsHYYaq-i4N2munobizupxfCdLHEE4l2LTbQH0zTs1p_hYmw-j6w7=s1600"
 en_name: "YoungLeaf"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgLrHc9G6xeWBLw5a-rONSguu1-CQvfpACY5r6VASg_Ydyh-LoLkhi0UbEMJCSNa6cE6f5vFktWAD7-G6bOEjwQJBL3KzRR-EQHxhd3CaOZkhfdmXDhB1QJjV3WxNgt5KuRubBiRKhdsHYYaq-i4N2munobizupxfCdLHEE4l2LTbQH0zTs1p_hYmw-j6w7=s1600)
-
 
 ## Birthday Color for March 2: Young Leaf (`#93AC8B`)
 

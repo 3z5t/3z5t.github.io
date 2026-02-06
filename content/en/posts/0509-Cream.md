@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgh2DKMSMbpPFC-mxXFDCo05vGr4_qU1A_EmYzfBvtKvb1YRuPm64kpSubqa2CBQZ2nVHHfsqRSiPd7lXG8OoM8Fr7-sQJcZwGaXEou5n2Pp9c09iwFN-heQPAS66bnorteOJkaPYeOZdSdY4gyjW6tG2SpvqRzHbV8GnaA-uaBc8ZGMt8w-s8N-h0e54XQ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Cream, The Birthday Color of May 9"
 date: "2026-05-09"
 updated: "2026-05-09"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "midnight navy"
 description: "The birthday color for May 9 is Cream (FFFFCC). Its meaning is Soft, Warm, Pure."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgh2DKMSMbpPFC-mxXFDCo05vGr4_qU1A_EmYzfBvtKvb1YRuPm64kpSubqa2CBQZ2nVHHfsqRSiPd7lXG8OoM8Fr7-sQJcZwGaXEou5n2Pp9c09iwFN-heQPAS66bnorteOJkaPYeOZdSdY4gyjW6tG2SpvqRzHbV8GnaA-uaBc8ZGMt8w-s8N-h0e54XQ=s1600"
 en_name: "Cream"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgh2DKMSMbpPFC-mxXFDCo05vGr4_qU1A_EmYzfBvtKvb1YRuPm64kpSubqa2CBQZ2nVHHfsqRSiPd7lXG8OoM8Fr7-sQJcZwGaXEou5n2Pp9c09iwFN-heQPAS66bnorteOJkaPYeOZdSdY4gyjW6tG2SpvqRzHbV8GnaA-uaBc8ZGMt8w-s8N-h0e54XQ=s1600)
-
 
 ## Birthday Color for May 9: Cream (`#FFFFCC`)
 

@@ -1,21 +1,24 @@
 ---
-"title": "マットローズ、2月28日の誕生色"
-"date": "2026-02-28"
-"updated": "2026-02-28"
-"labels":
-- "マットローズ"
-- "誕生色"
-- "2月28日"
-- "AE675F"
-- "2月"
-- "ダークターコイズ"
-"description": "2月28日の誕生色 マットローズ(AE675F)。色言葉は「安定感、成熟、信頼性」です。相性の良い色はダークターコイズです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEi5ausHQDfj2cylf57KFmIQSB7oOG79b51d2D0TB6b9obflQVG6kruaVnQ4eXToDLWd79RhOi6c98t8NSklBqtC1EyfJ5SM4FnaAb_cISe5UXZPtRE5yUSBrF6XTxZOU3XkDmXSWCejBFj2FxKFYP3AfRHpi5qFXFRz6K0rTWjSqJh3ikbnEFHJqxfGkWII=s1600"
-"en_name": "Matte Rose"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "2088175194692816425"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/228-matte-rose.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi5ausHQDfj2cylf57KFmIQSB7oOG79b51d2D0TB6b9obflQVG6kruaVnQ4eXToDLWd79RhOi6c98t8NSklBqtC1EyfJ5SM4FnaAb_cISe5UXZPtRE5yUSBrF6XTxZOU3XkDmXSWCejBFj2FxKFYP3AfRHpi5qFXFRz6K0rTWjSqJh3ikbnEFHJqxfGkWII=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "マットローズ、2月28日の誕生色"
+date: "2026-02-28"
+updated: "2026-02-28"
+tags:
+  - "マットローズ"
+  - "誕生色"
+  - "2月28日"
+  - "AE675F"
+  - "2月"
+  - "ダークターコイズ"
+description: "2月28日の誕生色 マットローズ(AE675F)。色言葉は「安定感、成熟、信頼性」です。相性の良い色はダークターコイズです。"
+en_name: "Matte Rose"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "2088175194692816425"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/228-matte-rose.html"
 ---
 
 ## 2月28日の誕生色: マットローズ (`#AE675F`)

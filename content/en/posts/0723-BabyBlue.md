@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEisOIYTxmPcZbvsLv1U42QXtS02ot0Nu3jzhp0eZAbbuOrh6QZbNqGTcEfq1-RuVJ3Vvb10oRxt4mGGsRqtxRSa3oh0Yp_Rzwu95Gb0NgurlgMo0yAez6CuTKwoQkdkPZWROR-itgwaap4Ipxt3B_dR-Jxh_4nIc_uKo5CAjfB73D0Oq84vBy-OHJqICcmO=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Baby Blue, The Birthday Color of July 23"
 date: "2026-07-23"
 updated: "2026-07-23"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "sangria"
 description: "The birthday color for July 23 is Baby Blue (66FFFF). Its meaning is Pure Heart, Peaceful, Clear Mind."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEisOIYTxmPcZbvsLv1U42QXtS02ot0Nu3jzhp0eZAbbuOrh6QZbNqGTcEfq1-RuVJ3Vvb10oRxt4mGGsRqtxRSa3oh0Yp_Rzwu95Gb0NgurlgMo0yAez6CuTKwoQkdkPZWROR-itgwaap4Ipxt3B_dR-Jxh_4nIc_uKo5CAjfB73D0Oq84vBy-OHJqICcmO=s1600"
 en_name: "BabyBlue"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEisOIYTxmPcZbvsLv1U42QXtS02ot0Nu3jzhp0eZAbbuOrh6QZbNqGTcEfq1-RuVJ3Vvb10oRxt4mGGsRqtxRSa3oh0Yp_Rzwu95Gb0NgurlgMo0yAez6CuTKwoQkdkPZWROR-itgwaap4Ipxt3B_dR-Jxh_4nIc_uKo5CAjfB73D0Oq84vBy-OHJqICcmO=s1600)
-
 
 ## Birthday Color for July 23: Baby Blue (`#66FFFF`)
 

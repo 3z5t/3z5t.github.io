@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEheKv1k8hl7pvA7SOkOExzf-MV9j8OmhaXCi2jTwm40L2amVufEomNJrKGKbVEQoVJig2DWhdfVJEdNAiI777fJYdAAiLmd9EQsTMFLkF6LIe39bWIvp2Wgoc2i2dsYrHLlEyETTlTqadrwPZ_OWG7E_tG7rgkHaQttaIcaoFWxYQSHyTDb7oZxEgsoEVFD=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Crimson, The Birthday Color of October 8"
 date: "2026-10-08"
 updated: "2026-10-08"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "turquoise"
 description: "The birthday color for October 8 is Deep Crimson (BA0046). Its meaning is Truthful Heart, Pure Passion, Genuine."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEheKv1k8hl7pvA7SOkOExzf-MV9j8OmhaXCi2jTwm40L2amVufEomNJrKGKbVEQoVJig2DWhdfVJEdNAiI777fJYdAAiLmd9EQsTMFLkF6LIe39bWIvp2Wgoc2i2dsYrHLlEyETTlTqadrwPZ_OWG7E_tG7rgkHaQttaIcaoFWxYQSHyTDb7oZxEgsoEVFD=s1600"
 en_name: "DeepCrimson"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEheKv1k8hl7pvA7SOkOExzf-MV9j8OmhaXCi2jTwm40L2amVufEomNJrKGKbVEQoVJig2DWhdfVJEdNAiI777fJYdAAiLmd9EQsTMFLkF6LIe39bWIvp2Wgoc2i2dsYrHLlEyETTlTqadrwPZ_OWG7E_tG7rgkHaQttaIcaoFWxYQSHyTDb7oZxEgsoEVFD=s1600)
-
 
 ## Birthday Color for October 8: Deep Crimson (`#BA0046`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiJXzXQd-IxKQB8-jikHUJesXB9A9Vf6jBw10GnFHY2EggnVV43oz1adCc7l3gRJ15WWGGZGC_ELtwb5c4j6nLNVtHxEeGikoLl9Y0WCaqGczduQFCngifmbLnAO-mVtjZs-kHOD-paBUvU8wA7sAUQ_HnwS4tK9xcNXFH7Q5Q6477ohiawxfbHui38ajz3=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "バーリーウッド、8月17日の誕生色"
 date: "2026-08-17"
 updated: "2026-08-17"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "トゥルーネイビー"
 description: "8月17日の誕生色 バーリーウッド(DCBF97)。色言葉は「成熟、安定、落ち着き」です。相性の良い色はトゥルーネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiJXzXQd-IxKQB8-jikHUJesXB9A9Vf6jBw10GnFHY2EggnVV43oz1adCc7l3gRJ15WWGGZGC_ELtwb5c4j6nLNVtHxEeGikoLl9Y0WCaqGczduQFCngifmbLnAO-mVtjZs-kHOD-paBUvU8wA7sAUQ_HnwS4tK9xcNXFH7Q5Q6477ohiawxfbHui38ajz3=s1600"
 en_name: "Burlywood"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiJXzXQd-IxKQB8-jikHUJesXB9A9Vf6jBw10GnFHY2EggnVV43oz1adCc7l3gRJ15WWGGZGC_ELtwb5c4j6nLNVtHxEeGikoLl9Y0WCaqGczduQFCngifmbLnAO-mVtjZs-kHOD-paBUvU8wA7sAUQ_HnwS4tK9xcNXFH7Q5Q6477ohiawxfbHui38ajz3=s1600)
-
 
 ## 8月17日の誕生色: バーリーウッド (`#DCBF97`)
 

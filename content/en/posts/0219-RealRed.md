@@ -1,21 +1,24 @@
 ---
-"title": "Real Red, The Birthday Color of February 19"
-"date": "2026-02-19"
-"updated": "2026-02-19"
-"labels":
-- "real red"
-- "birthday color"
-- "february 19"
-- "c61400"
-- "february"
-- "light sky"
-"description": "The birthday color for February 19 is Real Red (C61400). Its meaning is Leadership, Drive, Passion."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEj5SrwUfXs7orleT9ypFOm-RaHRr8UfXaN99b9-NucWHwZzDIKOSXhiLj7h4Mah3CKAMhiyDnsjkHgPR6-By4zsUU19KhFa35zWQumQmyxoy_Mtjl9l3NzF1VrGBu2Z-uT416NUd2tayfTBaBYRHeR1OJ1MoLkDArK_1DQv2Qi9pHixxFhahiKYFvh-jbQm=s1600"
-"en_name": "RealRed"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "2897313690555457623"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/real-red-birthday-color-of-february-19.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj5SrwUfXs7orleT9ypFOm-RaHRr8UfXaN99b9-NucWHwZzDIKOSXhiLj7h4Mah3CKAMhiyDnsjkHgPR6-By4zsUU19KhFa35zWQumQmyxoy_Mtjl9l3NzF1VrGBu2Z-uT416NUd2tayfTBaBYRHeR1OJ1MoLkDArK_1DQv2Qi9pHixxFhahiKYFvh-jbQm=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Real Red, The Birthday Color of February 19"
+date: "2026-02-19"
+updated: "2026-02-19"
+tags:
+  - "real red"
+  - "birthday color"
+  - "february 19"
+  - "c61400"
+  - "february"
+  - "light sky"
+description: "The birthday color for February 19 is Real Red (C61400). Its meaning is Leadership, Drive, Passion."
+en_name: "RealRed"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "2897313690555457623"
+postUrl: "https://the366days-en.blogspot.com/2026/02/real-red-birthday-color-of-february-19.html"
 ---
 
 ## Birthday Color for February 19: Real Red (`#C61400`)

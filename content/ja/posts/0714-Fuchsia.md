@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgWriJgexzKCvclZSzol8LCs_b_tQlmhf42qVNKSgU-rdvoZbaRoqSuOh8vtpnBb9370_I0ss9eR1-9HFHGmqrmsX4MvaVlSM-jePy3zyjx-80oCf5ztvuiXX7FUZf2RrQvStgIBLSgnWvWbJRi-bu2FCBvAlMZWc6z8jbK0rgDwFWkYBR-cTWFvvSOAP09=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "フューシャ、7月14日の誕生色"
 date: "2026-07-14"
 updated: "2026-07-14"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "ピュアグリーン"
 description: "7月14日の誕生色 フューシャ(CC33CC)。色言葉は「魅力ある、華やか、独特」です。相性の良い色はピュアグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgWriJgexzKCvclZSzol8LCs_b_tQlmhf42qVNKSgU-rdvoZbaRoqSuOh8vtpnBb9370_I0ss9eR1-9HFHGmqrmsX4MvaVlSM-jePy3zyjx-80oCf5ztvuiXX7FUZf2RrQvStgIBLSgnWvWbJRi-bu2FCBvAlMZWc6z8jbK0rgDwFWkYBR-cTWFvvSOAP09=s1600"
 en_name: "Fuchsia"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgWriJgexzKCvclZSzol8LCs_b_tQlmhf42qVNKSgU-rdvoZbaRoqSuOh8vtpnBb9370_I0ss9eR1-9HFHGmqrmsX4MvaVlSM-jePy3zyjx-80oCf5ztvuiXX7FUZf2RrQvStgIBLSgnWvWbJRi-bu2FCBvAlMZWc6z8jbK0rgDwFWkYBR-cTWFvvSOAP09=s1600)
-
 
 ## 7月14日の誕生色: フューシャ (`#CC33CC`)
 

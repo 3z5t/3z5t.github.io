@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhmBdD-Ub0rrrz0rTGEHmQawZTvkaObsJIdmMIKuDZbjOONl6jeWs0e370mv2ZilRkJ0rFgNr1q412Ve2YGXMqQ2y69u49ywIm2E9LktazhuWEzf2qv_uhyNwBCaMFPBadZFDwCk_wXwYdge47UfVeMrcTTeR3yVjz1jdi-TA4CxRYi2eHilQOinEFijrtt=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Green Apple, The Birthday Color of May 18"
 date: "2026-05-18"
 updated: "2026-05-18"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "fuchsia"
 description: "The birthday color for May 18 is Green Apple (5CE546). Its meaning is Youthful Spirit, Hopeful, Vibrant."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhmBdD-Ub0rrrz0rTGEHmQawZTvkaObsJIdmMIKuDZbjOONl6jeWs0e370mv2ZilRkJ0rFgNr1q412Ve2YGXMqQ2y69u49ywIm2E9LktazhuWEzf2qv_uhyNwBCaMFPBadZFDwCk_wXwYdge47UfVeMrcTTeR3yVjz1jdi-TA4CxRYi2eHilQOinEFijrtt=s1600"
 en_name: "GreenApple"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhmBdD-Ub0rrrz0rTGEHmQawZTvkaObsJIdmMIKuDZbjOONl6jeWs0e370mv2ZilRkJ0rFgNr1q412Ve2YGXMqQ2y69u49ywIm2E9LktazhuWEzf2qv_uhyNwBCaMFPBadZFDwCk_wXwYdge47UfVeMrcTTeR3yVjz1jdi-TA4CxRYi2eHilQOinEFijrtt=s1600)
-
 
 ## Birthday Color for May 18: Green Apple (`#5CE546`)
 

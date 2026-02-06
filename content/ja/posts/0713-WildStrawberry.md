@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi-BfOoRfkF3hCNeYExRJSP71SYaO9Gj7K6QBy5SOKwZw3i2ieXl0RL7gm1hn-lOP3QhpGtzAMGt3DgrwAL7GfeJz3KoECIxk521FqRO_vCXrVQ3FibItJb5-28-S5kdMFOU8toYclaGCpnpNr7rzBRhjZtrlN8qG5_3HZDvJSEj2mwz1lAW5TVwodNBE48=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ワイルドストロベリー、7月13日の誕生色"
 date: "2026-07-13"
 updated: "2026-07-13"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "エメラルドグリーン"
 description: "7月13日の誕生色 ワイルドストロベリー(FF3399)。色言葉は「甘い魅力、情熱的、生き生きとした」です。相性の良い色はエメラルドグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi-BfOoRfkF3hCNeYExRJSP71SYaO9Gj7K6QBy5SOKwZw3i2ieXl0RL7gm1hn-lOP3QhpGtzAMGt3DgrwAL7GfeJz3KoECIxk521FqRO_vCXrVQ3FibItJb5-28-S5kdMFOU8toYclaGCpnpNr7rzBRhjZtrlN8qG5_3HZDvJSEj2mwz1lAW5TVwodNBE48=s1600"
 en_name: "Wild Strawberry"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi-BfOoRfkF3hCNeYExRJSP71SYaO9Gj7K6QBy5SOKwZw3i2ieXl0RL7gm1hn-lOP3QhpGtzAMGt3DgrwAL7GfeJz3KoECIxk521FqRO_vCXrVQ3FibItJb5-28-S5kdMFOU8toYclaGCpnpNr7rzBRhjZtrlN8qG5_3HZDvJSEj2mwz1lAW5TVwodNBE48=s1600)
-
 
 ## 7月13日の誕生色: ワイルドストロベリー (`#FF3399`)
 

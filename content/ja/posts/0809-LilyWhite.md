@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhBmMONOQZgw8cz8LRbTaHXsVzmbM2lTWbN_75rbp65GRScitm77gHkgz18X6M2XsVkFKX7IUGP6nAoRX-gv1iEkTGpxIs3dm7luNJ-_Jwzbi5PYA0_K6NVXfYzIbKihz1EFrj_4YmPEp6mzw8Zm5kOV7vfM1PsW3muMqsXTGctM2AneZLeVaVjKG0dXdnP=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "リリーホワイト、8月9日の誕生色"
 date: "2026-08-09"
 updated: "2026-08-09"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "ディープアビス"
 description: "8月9日の誕生色 リリーホワイト(F3F1EF)。色言葉は「高貴な性品、優雅、清廉」です。相性の良い色はディープアビスです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhBmMONOQZgw8cz8LRbTaHXsVzmbM2lTWbN_75rbp65GRScitm77gHkgz18X6M2XsVkFKX7IUGP6nAoRX-gv1iEkTGpxIs3dm7luNJ-_Jwzbi5PYA0_K6NVXfYzIbKihz1EFrj_4YmPEp6mzw8Zm5kOV7vfM1PsW3muMqsXTGctM2AneZLeVaVjKG0dXdnP=s1600"
 en_name: "Lily White"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhBmMONOQZgw8cz8LRbTaHXsVzmbM2lTWbN_75rbp65GRScitm77gHkgz18X6M2XsVkFKX7IUGP6nAoRX-gv1iEkTGpxIs3dm7luNJ-_Jwzbi5PYA0_K6NVXfYzIbKihz1EFrj_4YmPEp6mzw8Zm5kOV7vfM1PsW3muMqsXTGctM2AneZLeVaVjKG0dXdnP=s1600)
-
 
 ## 8月9日の誕生色: リリーホワイト (`#F3F1EF`)
 

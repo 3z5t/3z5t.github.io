@@ -1,25 +1,25 @@
 ---
-title: ミッドナイトブルー、1月8日の誕生色
-date: 2026-01-08
-updated: 2026-01-08
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgFb-GmFUC6WAZ3KlXGMX9o4PAgtCdku9CmhPFOXgUWnHa5dAF6c-CN8lfIsDEAN48tC6AmHjneFIHIbmD7mFDDB6i1ubbc2OaIhX5RoqdEN-d8PkAWMVV6UMpclRD10bYG5st2ILGtUqK3GsW0nBXRON_AebrkmpgX11hTEvUlaM3_XKStvDyxoFiczd4f=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ミッドナイトブルー、1月8日の誕生色"
+date: "2026-01-08"
+updated: "2026-01-08"
 tags:
-  - ミッドナイトブルー
-  - 誕生色
-  - 1月8日
+  - "ミッドナイトブルー"
+  - "誕生色"
+  - "1月8日"
   - "191970"
-  - 1月
-  - ソフトレモン
-description: 1月8日の誕生色 ミッドナイトブルー(191970)。色言葉は「知恵、洞察力、創造性」です。相性の良い色はソフトレモンです。
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgFb-GmFUC6WAZ3KlXGMX9o4PAgtCdku9CmhPFOXgUWnHa5dAF6c-CN8lfIsDEAN48tC6AmHjneFIHIbmD7mFDDB6i1ubbc2OaIhX5RoqdEN-d8PkAWMVV6UMpclRD10bYG5st2ILGtUqK3GsW0nBXRON_AebrkmpgX11hTEvUlaM3_XKStvDyxoFiczd4f=s1600
-en_name: Midnight Blue
-author: 日々のカケラ
-profileName: 日々のカケラ
+  - "1月"
+  - "ソフトレモン"
+description: "1月8日の誕生色 ミッドナイトブルー(191970)。色言葉は「知恵、洞察力、創造性」です。相性の良い色はソフトレモンです。"
+en_name: "Midnight Blue"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
 postId: "1004"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgFb-GmFUC6WAZ3KlXGMX9o4PAgtCdku9CmhPFOXgUWnHa5dAF6c-CN8lfIsDEAN48tC6AmHjneFIHIbmD7mFDDB6i1ubbc2OaIhX5RoqdEN-d8PkAWMVV6UMpclRD10bYG5st2ILGtUqK3GsW0nBXRON_AebrkmpgX11hTEvUlaM3_XKStvDyxoFiczd4f=s1600)
-
 
 ## 1月8日の誕生色: ミッドナイトブルー (`#191970`)
 

@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-24'
-description: The birthday color for January 24 is Cloudy Sky (C3CFE0). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg5Y6621o3bw4fnkoP8EWAAUBk-E2CdCcTcfUP5Q8hfHBcQ3AfPSPHEFmWXWxz-JHrODvU_2k8pQ8BA-VMmF4yU0zwLn5yEdJTjTiuP0-x-dZtyH2Aay0iK2vRyUVXKdEWQ926XvQqactVS6qvHPXZTqjnHkeTP7C8SS0qa067Y81XeaA4pO3m5ww7fvwFd=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-24"
+description: "The birthday color for January 24 is Cloudy Sky (C3CFE0). Its meaning"
   is Inclusiveness, Understanding, Consideration.
-en_name: CloudySky
+en_name: "CloudySky"
 tags:
-- cloudy sky
-- birthday color
-- january 24
-- c3cfe0
-- january
-- autumn leaves
-postId: '1923970589886119247'
-postUrl: https://the366days-en.blogspot.com/2026/01/cloudy-sky-birthday-color-of-january-24.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEg5Y6621o3bw4fnkoP8EWAAUBk-E2CdCcTcfUP5Q8hfHBcQ3AfPSPHEFmWXWxz-JHrODvU_2k8pQ8BA-VMmF4yU0zwLn5yEdJTjTiuP0-x-dZtyH2Aay0iK2vRyUVXKdEWQ926XvQqactVS6qvHPXZTqjnHkeTP7C8SS0qa067Y81XeaA4pO3m5ww7fvwFd=s1600
-title: Cloudy Sky, The Birthday Color of January 24
-updated: '2026-01-24'
+  - "cloudy sky"
+  - "birthday color"
+  - "january 24"
+  - "c3cfe0"
+  - "january"
+  - "autumn leaves"
+postId: "1923970589886119247"
+postUrl: "https://the366days-en.blogspot.com/2026/01/cloudy-sky-birthday-color-of-january-24.html"
+profileName: "Pieces of a Day"
+title: "Cloudy Sky, The Birthday Color of January 24"
+updated: "2026-01-24"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg5Y6621o3bw4fnkoP8EWAAUBk-E2CdCcTcfUP5Q8hfHBcQ3AfPSPHEFmWXWxz-JHrODvU_2k8pQ8BA-VMmF4yU0zwLn5yEdJTjTiuP0-x-dZtyH2Aay0iK2vRyUVXKdEWQ926XvQqactVS6qvHPXZTqjnHkeTP7C8SS0qa067Y81XeaA4pO3m5ww7fvwFd=s1600)
-
 
 ![Cloudy Sky, The Birthday Color of January 24](https://blogger.googleusercontent.com/img/a/AVvXsEg5Y6621o3bw4fnkoP8EWAAUBk-E2CdCcTcfUP5Q8hfHBcQ3AfPSPHEFmWXWxz-JHrODvU_2k8pQ8BA-VMmF4yU0zwLn5yEdJTjTiuP0-x-dZtyH2Aay0iK2vRyUVXKdEWQ926XvQqactVS6qvHPXZTqjnHkeTP7C8SS0qa067Y81XeaA4pO3m5ww7fvwFd=s1600)
 

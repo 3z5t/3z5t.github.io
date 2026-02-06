@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi_TQaVhdEYtbhU9JixjK_xKPljCioZLMbwjGoBX86ymvq7XXcAQhEZYKlOJdSUORYMZ28lXnJg1rFLGZm_DON0hTT8EhSnb1XCN_RuSeYnO3cBny30nkdH6k-8EpyfWDcNLeZAWnSA_zQxjkSkqS0lP08AYI6D-hGHw81qaPWPR4oMt9wy1tdwjE1YiQ2N=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "フレッシュミント、3月3日の誕生色"
 date: "2026-03-03"
 updated: "2026-03-03"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ミラノレッド"
 description: "3月3日の誕生色 フレッシュミント(64D1C3)。色言葉は「創造性、清涼感、肯定性」です。相性の良い色はミラノレッドです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi_TQaVhdEYtbhU9JixjK_xKPljCioZLMbwjGoBX86ymvq7XXcAQhEZYKlOJdSUORYMZ28lXnJg1rFLGZm_DON0hTT8EhSnb1XCN_RuSeYnO3cBny30nkdH6k-8EpyfWDcNLeZAWnSA_zQxjkSkqS0lP08AYI6D-hGHw81qaPWPR4oMt9wy1tdwjE1YiQ2N=s1600"
 en_name: "Fresh Mint"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi_TQaVhdEYtbhU9JixjK_xKPljCioZLMbwjGoBX86ymvq7XXcAQhEZYKlOJdSUORYMZ28lXnJg1rFLGZm_DON0hTT8EhSnb1XCN_RuSeYnO3cBny30nkdH6k-8EpyfWDcNLeZAWnSA_zQxjkSkqS0lP08AYI6D-hGHw81qaPWPR4oMt9wy1tdwjE1YiQ2N=s1600)
-
 
 ## 3月3日の誕生色: フレッシュミント (`#64D1C3`)
 

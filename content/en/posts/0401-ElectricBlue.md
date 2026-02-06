@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEitQoEejwQheQyF5jdP6RIIYRh76DUhu82ZrOj37jX5GzI7AO9O-3UOTjwiq1eAlUVqV5mptibgmN3_IaASMvgw4zu7qEB6SL91o16dt3BmZ7NPQaVHu0cd34UKWm9UGDr6s9ce8eoaeabfTUskVURomAXZEZ5EJZQZwNi2yPhJyuOrvDIkc1I2pahYBcsp=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Electric Blue, The Birthday Color of April 1"
 date: "2026-04-01"
 updated: "2026-04-01"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "maroon"
 description: "The birthday color for April 1 is Electric Blue (99FFFF). Its meaning is Energetic, Cheerful, Creativity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEitQoEejwQheQyF5jdP6RIIYRh76DUhu82ZrOj37jX5GzI7AO9O-3UOTjwiq1eAlUVqV5mptibgmN3_IaASMvgw4zu7qEB6SL91o16dt3BmZ7NPQaVHu0cd34UKWm9UGDr6s9ce8eoaeabfTUskVURomAXZEZ5EJZQZwNi2yPhJyuOrvDIkc1I2pahYBcsp=s1600"
 en_name: "ElectricBlue"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEitQoEejwQheQyF5jdP6RIIYRh76DUhu82ZrOj37jX5GzI7AO9O-3UOTjwiq1eAlUVqV5mptibgmN3_IaASMvgw4zu7qEB6SL91o16dt3BmZ7NPQaVHu0cd34UKWm9UGDr6s9ce8eoaeabfTUskVURomAXZEZ5EJZQZwNi2yPhJyuOrvDIkc1I2pahYBcsp=s1600)
-
 
 ## Birthday Color for April 1: Electric Blue (`#99FFFF`)
 

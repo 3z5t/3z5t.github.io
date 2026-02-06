@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-17'
-description: 1月17日の誕生色 パステルソラ(B0C4DE)。色言葉は「希望に満ちた、楽観的、明るい性格」です。相性の良い色はサドルブラウンです。
-en_name: Pastel Sora
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi6YjMitObCUkbaX8cOJMM5myNZ-80r-NA_vmmt03lM2y7oWt3HPT0hJDRSgOFpFjrK49_ZYPS45X6ddDEznIODGo92gmGYPMeCXV5j5-EHkJt0u8lZEwLFeJibjKf-LOZx0rq9RtzQ8GzwhkJrGRsw-Ew_ywt2uWyOF5WuhtKTO3bRzxuwwQJidfhkZES7=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-17"
+description: "1月17日の誕生色 パステルソラ(B0C4DE)。色言葉は「希望に満ちた、楽観的、明るい性格」です。相性の良い色はサドルブラウンです。"
+en_name: "Pastel Sora"
 tags:
-- パステルソラ
-- 誕生色
-- 1月17日
-- B0C4DE
-- 1月
-- サドルブラウン
-postId: '4309781101097573181'
-postUrl: https://the366days-ja.blogspot.com/2026/01/117-pastel-sora.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEi6YjMitObCUkbaX8cOJMM5myNZ-80r-NA_vmmt03lM2y7oWt3HPT0hJDRSgOFpFjrK49_ZYPS45X6ddDEznIODGo92gmGYPMeCXV5j5-EHkJt0u8lZEwLFeJibjKf-LOZx0rq9RtzQ8GzwhkJrGRsw-Ew_ywt2uWyOF5WuhtKTO3bRzxuwwQJidfhkZES7=s1600
-title: パステルソラ、1月17日の誕生色
-updated: '2026-01-17'
+  - "パステルソラ"
+  - "誕生色"
+  - "1月17日"
+  - "B0C4DE"
+  - "1月"
+  - "サドルブラウン"
+postId: "4309781101097573181"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/117-pastel-sora.html"
+profileName: "日々のカケラ"
+title: "パステルソラ、1月17日の誕生色"
+updated: "2026-01-17"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi6YjMitObCUkbaX8cOJMM5myNZ-80r-NA_vmmt03lM2y7oWt3HPT0hJDRSgOFpFjrK49_ZYPS45X6ddDEznIODGo92gmGYPMeCXV5j5-EHkJt0u8lZEwLFeJibjKf-LOZx0rq9RtzQ8GzwhkJrGRsw-Ew_ywt2uWyOF5WuhtKTO3bRzxuwwQJidfhkZES7=s1600)
-
 
 ## 1月17日の誕生色: パステルソラ (`#B0C4DE`)
 

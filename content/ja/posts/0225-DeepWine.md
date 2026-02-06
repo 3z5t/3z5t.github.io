@@ -1,21 +1,24 @@
 ---
-"title": "ディープワイン、2月25日の誕生色"
-"date": "2026-02-25"
-"updated": "2026-02-25"
-"labels":
-- "ディープワイン"
-- "誕生色"
-- "2月25日"
-- "77384C"
-- "2月"
-- "クールグリーン"
-"description": "2月25日の誕生色 ディープワイン(77384C)。色言葉は「包容力、寛容、知恵」です。相性の良い色はクールグリーンです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjXIr9q3ZTBtQiVNZoGJ0IbCrURGVmFspwjk-8VjDEAoKyd7WSxUOkWxUzWQee8U25w7MK27-IUafAlf1pSTr2DlMjgzM_BBAEPs2Vws-QTs8YMfazBdRaRcgmeIfkaLZFdYu6OegEULYuI7zQfyW7V0XIVu3XoMpJiOpLCyhmYHk27tuQogheY6zF_tIGh=s1600"
-"en_name": "Deep Wine"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "2079427069752077776"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/225-deep-wine.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjXIr9q3ZTBtQiVNZoGJ0IbCrURGVmFspwjk-8VjDEAoKyd7WSxUOkWxUzWQee8U25w7MK27-IUafAlf1pSTr2DlMjgzM_BBAEPs2Vws-QTs8YMfazBdRaRcgmeIfkaLZFdYu6OegEULYuI7zQfyW7V0XIVu3XoMpJiOpLCyhmYHk27tuQogheY6zF_tIGh=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ディープワイン、2月25日の誕生色"
+date: "2026-02-25"
+updated: "2026-02-25"
+tags:
+  - "ディープワイン"
+  - "誕生色"
+  - "2月25日"
+  - "77384C"
+  - "2月"
+  - "クールグリーン"
+description: "2月25日の誕生色 ディープワイン(77384C)。色言葉は「包容力、寛容、知恵」です。相性の良い色はクールグリーンです。"
+en_name: "Deep Wine"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "2079427069752077776"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/225-deep-wine.html"
 ---
 
 ## 2月25日の誕生色: ディープワイン (`#77384C`)

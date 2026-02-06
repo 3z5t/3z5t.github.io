@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgah7NSylxC0vTguHin_PnvcaRh-L7E6t7zdx2UEkmBM4RWmndDVMkIBvOGa7Uy8SRJRYQTi07ICYlXEg6cs8ojotTTAHq8E061cM_MqjJAJ2iVFk9nk7zRCKlsbu--oSrn--rp2GvrK0jEQaqNSLMUjAErqCzjd_SdyvU4NBQcVzsSXPhh4G5VTsp1Ouxt=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Autumn Sky, The Birthday Color of September 1"
 date: "2026-09-01"
 updated: "2026-09-01"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "french beige"
 description: "The birthday color for September 1 is Autumn Sky (59819A). Its meaning is Clear Mind, Idealistic, Creative."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgah7NSylxC0vTguHin_PnvcaRh-L7E6t7zdx2UEkmBM4RWmndDVMkIBvOGa7Uy8SRJRYQTi07ICYlXEg6cs8ojotTTAHq8E061cM_MqjJAJ2iVFk9nk7zRCKlsbu--oSrn--rp2GvrK0jEQaqNSLMUjAErqCzjd_SdyvU4NBQcVzsSXPhh4G5VTsp1Ouxt=s1600"
 en_name: "AutumnSky"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgah7NSylxC0vTguHin_PnvcaRh-L7E6t7zdx2UEkmBM4RWmndDVMkIBvOGa7Uy8SRJRYQTi07ICYlXEg6cs8ojotTTAHq8E061cM_MqjJAJ2iVFk9nk7zRCKlsbu--oSrn--rp2GvrK0jEQaqNSLMUjAErqCzjd_SdyvU4NBQcVzsSXPhh4G5VTsp1Ouxt=s1600)
-
 
 ## Birthday Color for September 1: Autumn Sky (`#59819A`)
 

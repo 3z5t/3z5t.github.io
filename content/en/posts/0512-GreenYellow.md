@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiKaA9dEHW2ESEdDI72zSs-SrSaqg-EdBeRPIctrR5lDzOzq49wCdkEFJsfjVBzFBakTCsrJ3IKPruorRf8wKseNJe1lwdWgoiJ1QpjhcRNPWp7_iUaaor6xYDHvscMohbLgp1ZozK75K6Y0qdjuo69h42OW-rCD0G5s3PNCUDp0F95tcW0gx7OuL6O_9Ui=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Green Yellow, The Birthday Color of May 12"
 date: "2026-05-12"
 updated: "2026-05-12"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "mystic purple"
 description: "The birthday color for May 12 is Green Yellow (99FF33). Its meaning is Challenging Spirit, Vitality, Creativity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiKaA9dEHW2ESEdDI72zSs-SrSaqg-EdBeRPIctrR5lDzOzq49wCdkEFJsfjVBzFBakTCsrJ3IKPruorRf8wKseNJe1lwdWgoiJ1QpjhcRNPWp7_iUaaor6xYDHvscMohbLgp1ZozK75K6Y0qdjuo69h42OW-rCD0G5s3PNCUDp0F95tcW0gx7OuL6O_9Ui=s1600"
 en_name: "GreenYellow"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiKaA9dEHW2ESEdDI72zSs-SrSaqg-EdBeRPIctrR5lDzOzq49wCdkEFJsfjVBzFBakTCsrJ3IKPruorRf8wKseNJe1lwdWgoiJ1QpjhcRNPWp7_iUaaor6xYDHvscMohbLgp1ZozK75K6Y0qdjuo69h42OW-rCD0G5s3PNCUDp0F95tcW0gx7OuL6O_9Ui=s1600)
-
 
 ## Birthday Color for May 12: Green Yellow (`#99FF33`)
 

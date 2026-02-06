@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhhxiHrdLB_OmnY-a12vjLqKws0U7CuqvLman-lDXCFhi2yRisJBFhuDvk1UXPbu3AWQ1_T4WdMmjlOCjk3xw4dAhW7XPAAPw7NnF0t4oc_2E5Un-F_KLXOFZ87NqNFh_dD-2em-INXuCC9YnxZ95Wx3ZEMcKig_k1hY5x8x8BkAmv7hQWGqH6NXZqdoWBI=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Bright Brown, The Birthday Color of September 19"
 date: "2026-09-19"
 updated: "2026-09-19"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "misty light purple"
 description: "The birthday color for September 19 is Bright Brown (887865). Its meaning is Earth-like, Stable, Inclusive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhhxiHrdLB_OmnY-a12vjLqKws0U7CuqvLman-lDXCFhi2yRisJBFhuDvk1UXPbu3AWQ1_T4WdMmjlOCjk3xw4dAhW7XPAAPw7NnF0t4oc_2E5Un-F_KLXOFZ87NqNFh_dD-2em-INXuCC9YnxZ95Wx3ZEMcKig_k1hY5x8x8BkAmv7hQWGqH6NXZqdoWBI=s1600"
 en_name: "BrightBrown"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhhxiHrdLB_OmnY-a12vjLqKws0U7CuqvLman-lDXCFhi2yRisJBFhuDvk1UXPbu3AWQ1_T4WdMmjlOCjk3xw4dAhW7XPAAPw7NnF0t4oc_2E5Un-F_KLXOFZ87NqNFh_dD-2em-INXuCC9YnxZ95Wx3ZEMcKig_k1hY5x8x8BkAmv7hQWGqH6NXZqdoWBI=s1600)
-
 
 ## Birthday Color for September 19: Bright Brown (`#887865`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjtwBEghUqAxy8xVpL4EPoHOJDZeB9ZfbHbu9d3ub0aO5wwPJTTdspHVM27lBMrgDhtWjf9eOilKHwjU-R1vedpBIQFUo3Su8g5fOfY37s__NFWKbWTRlZbvRsitKHfgbEHxMpMgCwCSgRYa9bezWauHMuFMzhhaa-cTv9w6Q-wu9v482AajEfkxk5cXakV=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Gray Sky, The Birthday Color of July 24"
 date: "2026-07-24"
 updated: "2026-07-24"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "autumn leaves"
 description: "The birthday color for July 24 is Gray Sky (BDE0F4). Its meaning is Relaxed, Peaceful, Stability."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjtwBEghUqAxy8xVpL4EPoHOJDZeB9ZfbHbu9d3ub0aO5wwPJTTdspHVM27lBMrgDhtWjf9eOilKHwjU-R1vedpBIQFUo3Su8g5fOfY37s__NFWKbWTRlZbvRsitKHfgbEHxMpMgCwCSgRYa9bezWauHMuFMzhhaa-cTv9w6Q-wu9v482AajEfkxk5cXakV=s1600"
 en_name: "GraySky"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjtwBEghUqAxy8xVpL4EPoHOJDZeB9ZfbHbu9d3ub0aO5wwPJTTdspHVM27lBMrgDhtWjf9eOilKHwjU-R1vedpBIQFUo3Su8g5fOfY37s__NFWKbWTRlZbvRsitKHfgbEHxMpMgCwCSgRYa9bezWauHMuFMzhhaa-cTv9w6Q-wu9v482AajEfkxk5cXakV=s1600)
-
 
 ## Birthday Color for July 24: Gray Sky (`#BDE0F4`)
 

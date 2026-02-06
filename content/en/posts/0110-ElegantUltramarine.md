@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-10'
-description: The birthday color for January 10 is Elegant Ultramarine (445B97). Its
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiLvRkTAN10C8qSMRGVxenssWlWGmPwKcd088B-up7k1xh9q4JZgPuvnvfO57kFVrToK15dXVwbMbvdGKTviJ7ueBFpAlSs6uunCxorgD8YQUO7vyHZFEVWJQjiBcqf6FdKXZx6sS7kzUd8OX2fb2ifFAZfI6zOMnsvXOvTpuIcSriPb5s5j9XFDps_xaS7=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-10"
+description: "The birthday color for January 10 is Elegant Ultramarine (445B97). Its"
   meaning is Reliability, Loyalty, Honesty.
-en_name: ElegantUltramarine
+en_name: "ElegantUltramarine"
 tags:
-- elegant ultramarine
-- birthday color
-- january 10
-- 445b97
-- january
-- wheat field
-postId: '3186934552066215304'
-postUrl: https://the366days-en.blogspot.com/2026/01/elegant-ultramarine-birthday-color-of.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiLvRkTAN10C8qSMRGVxenssWlWGmPwKcd088B-up7k1xh9q4JZgPuvnvfO57kFVrToK15dXVwbMbvdGKTviJ7ueBFpAlSs6uunCxorgD8YQUO7vyHZFEVWJQjiBcqf6FdKXZx6sS7kzUd8OX2fb2ifFAZfI6zOMnsvXOvTpuIcSriPb5s5j9XFDps_xaS7=s1600
-title: Elegant Ultramarine, The Birthday Color of January 10
-updated: '2026-01-10'
+  - "elegant ultramarine"
+  - "birthday color"
+  - "january 10"
+  - "445b97"
+  - "january"
+  - "wheat field"
+postId: "3186934552066215304"
+postUrl: "https://the366days-en.blogspot.com/2026/01/elegant-ultramarine-birthday-color-of.html"
+profileName: "Pieces of a Day"
+title: "Elegant Ultramarine, The Birthday Color of January 10"
+updated: "2026-01-10"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiLvRkTAN10C8qSMRGVxenssWlWGmPwKcd088B-up7k1xh9q4JZgPuvnvfO57kFVrToK15dXVwbMbvdGKTviJ7ueBFpAlSs6uunCxorgD8YQUO7vyHZFEVWJQjiBcqf6FdKXZx6sS7kzUd8OX2fb2ifFAZfI6zOMnsvXOvTpuIcSriPb5s5j9XFDps_xaS7=s1600)
-
 
 ## Birthday Color for January 10: Elegant Ultramarine (`#445B97`)
 

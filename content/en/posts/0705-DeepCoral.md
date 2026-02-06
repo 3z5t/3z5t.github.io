@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhIzknRF8M9XURcrImMs9RjuTq7A7CEujc2Ut7wBsxYppIGOJSMoiyYi7TJ9Z7KMqCk3ocFlUTc7SFeRrkyQjZ5BU_SQddGerNXd9nVpZfJ6m9f-1F_2C2JEOkKshb_41fF_ERGEM7fq_UbbFhU6oUbVVYtxvECnnoByI8Agi_Hp7BX0m1AFjNyPELz2j8v=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Coral, The Birthday Color of July 5"
 date: "2026-07-05"
 updated: "2026-07-05"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "morning glory"
 description: "The birthday color for July 5 is Deep Coral (743636). Its meaning is Profound, Calm, Prudent."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhIzknRF8M9XURcrImMs9RjuTq7A7CEujc2Ut7wBsxYppIGOJSMoiyYi7TJ9Z7KMqCk3ocFlUTc7SFeRrkyQjZ5BU_SQddGerNXd9nVpZfJ6m9f-1F_2C2JEOkKshb_41fF_ERGEM7fq_UbbFhU6oUbVVYtxvECnnoByI8Agi_Hp7BX0m1AFjNyPELz2j8v=s1600"
 en_name: "DeepCoral"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhIzknRF8M9XURcrImMs9RjuTq7A7CEujc2Ut7wBsxYppIGOJSMoiyYi7TJ9Z7KMqCk3ocFlUTc7SFeRrkyQjZ5BU_SQddGerNXd9nVpZfJ6m9f-1F_2C2JEOkKshb_41fF_ERGEM7fq_UbbFhU6oUbVVYtxvECnnoByI8Agi_Hp7BX0m1AFjNyPELz2j8v=s1600)
-
 
 ## Birthday Color for July 5: Deep Coral (`#743636`)
 

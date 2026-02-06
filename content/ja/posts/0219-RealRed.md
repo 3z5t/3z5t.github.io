@@ -1,21 +1,24 @@
 ---
-"title": "リアルレッド、2月19日の誕生色"
-"date": "2026-02-19"
-"updated": "2026-02-19"
-"labels":
-- "リアルレッド"
-- "誕生色"
-- "2月19日"
-- "C61400"
-- "2月"
-- "ライトスカイ"
-"description": "2月19日の誕生色 リアルレッド(C61400)。色言葉は「リーダーシップ、推進力、情熱」です。相性の良い色はライトスカイです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjE2NBR8E5yFeNhwTslSyp3nXJWjZiUq-EDdZ9F-p9ZzIFQBRXRmibe_mZ9r4brsHdsp8aJKENCWADOhMvywAm9fQuVYXwqUy1H1REiQmCeb1jZX0k8qF4CcH6IOjCG3yGCCBLQ1yqLeJ8zR0V7kckdqxoUFH--p5tmwrK64-U9Je65idUnBQYZD4DW42pP=s1600"
-"en_name": "Real Red"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "8328298526622105628"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/219-real-red.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjE2NBR8E5yFeNhwTslSyp3nXJWjZiUq-EDdZ9F-p9ZzIFQBRXRmibe_mZ9r4brsHdsp8aJKENCWADOhMvywAm9fQuVYXwqUy1H1REiQmCeb1jZX0k8qF4CcH6IOjCG3yGCCBLQ1yqLeJ8zR0V7kckdqxoUFH--p5tmwrK64-U9Je65idUnBQYZD4DW42pP=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "リアルレッド、2月19日の誕生色"
+date: "2026-02-19"
+updated: "2026-02-19"
+tags:
+  - "リアルレッド"
+  - "誕生色"
+  - "2月19日"
+  - "C61400"
+  - "2月"
+  - "ライトスカイ"
+description: "2月19日の誕生色 リアルレッド(C61400)。色言葉は「リーダーシップ、推進力、情熱」です。相性の良い色はライトスカイです。"
+en_name: "Real Red"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "8328298526622105628"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/219-real-red.html"
 ---
 
 ## 2月19日の誕生色: リアルレッド (`#C61400`)

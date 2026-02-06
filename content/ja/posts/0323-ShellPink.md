@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj6Fb2hT0r7ry0OLpoOM3920hNX-sfeHUZVHW9-Wo4r08QeCyG0WSp1ekAoxrMvR4Ce7Ur_8zkBllC6Nsm79mWG8tzJIyZR-1FHtTB1YbD8Tp5ae4HuXNtcvOnsdahRrASXNgCZCChNz19DW6VaQi1GKinxhHW-taOiNFAUSV-I7FDG01po2MIi8ixdkkrz=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "シェルピンク、3月23日の誕生色"
 date: "2026-03-23"
 updated: "2026-03-23"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ダークフォレストグレー"
 description: "3月23日の誕生色 シェルピンク(E9CCC8)。色言葉は「優雅、高貴、洗練」です。相性の良い色はダークフォレストグレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj6Fb2hT0r7ry0OLpoOM3920hNX-sfeHUZVHW9-Wo4r08QeCyG0WSp1ekAoxrMvR4Ce7Ur_8zkBllC6Nsm79mWG8tzJIyZR-1FHtTB1YbD8Tp5ae4HuXNtcvOnsdahRrASXNgCZCChNz19DW6VaQi1GKinxhHW-taOiNFAUSV-I7FDG01po2MIi8ixdkkrz=s1600"
 en_name: "Shell Pink"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj6Fb2hT0r7ry0OLpoOM3920hNX-sfeHUZVHW9-Wo4r08QeCyG0WSp1ekAoxrMvR4Ce7Ur_8zkBllC6Nsm79mWG8tzJIyZR-1FHtTB1YbD8Tp5ae4HuXNtcvOnsdahRrASXNgCZCChNz19DW6VaQi1GKinxhHW-taOiNFAUSV-I7FDG01po2MIi8ixdkkrz=s1600)
-
 
 ## 3月23日の誕生色: シェルピンク (`#E9CCC8`)
 

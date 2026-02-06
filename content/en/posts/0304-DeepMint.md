@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjHhoYh0G6sEfWypDH82dOba942kKqjWia05-fpcs7EekZ15Ah68hzbg6aHAG-3QoNrO9ZqMWNp_wDVJFo_ho73o4AdPgGMSfdgK_X1DM0_4UCtlCAB0a2_rs5CPQlJz8plYfoFLb1rT6lOGaFTPwDjLzT8QrltQaG7Fb1a6eYqNGoFMR0Hj0dHS820qMUW=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Mint, The Birthday Color of March 4"
 date: "2026-03-04"
 updated: "2026-03-04"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "intense sunset"
 description: "The birthday color for March 4 is Deep Mint (3ABAB5). Its meaning is Healing, Resilience, Strength."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjHhoYh0G6sEfWypDH82dOba942kKqjWia05-fpcs7EekZ15Ah68hzbg6aHAG-3QoNrO9ZqMWNp_wDVJFo_ho73o4AdPgGMSfdgK_X1DM0_4UCtlCAB0a2_rs5CPQlJz8plYfoFLb1rT6lOGaFTPwDjLzT8QrltQaG7Fb1a6eYqNGoFMR0Hj0dHS820qMUW=s1600"
 en_name: "DeepMint"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjHhoYh0G6sEfWypDH82dOba942kKqjWia05-fpcs7EekZ15Ah68hzbg6aHAG-3QoNrO9ZqMWNp_wDVJFo_ho73o4AdPgGMSfdgK_X1DM0_4UCtlCAB0a2_rs5CPQlJz8plYfoFLb1rT6lOGaFTPwDjLzT8QrltQaG7Fb1a6eYqNGoFMR0Hj0dHS820qMUW=s1600)
-
 
 ## Birthday Color for March 4: Deep Mint (`#3ABAB5`)
 

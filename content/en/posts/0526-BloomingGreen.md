@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhvnQuqStGdraNN08syoBelcYQfcSwJVzJOsyTkMwuocnri7WeLld32yh6wIZ473HEnPFR4s2AII1TbkRi-M8RhhmumcRNYWmhotGgd3yYKejjHOEbB6KF2ngLvJ-vxbzD4IYUNBNqrAXiMojkvB9w2cOSg-jmrOPIFggulzn1gsg5dfCCFKjyC2GESDJsG=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Blooming Green, The Birthday Color of May 26"
 date: "2026-05-26"
 updated: "2026-05-26"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "autumn pink"
 description: "The birthday color for May 26 is Blooming Green (336666). Its meaning is Growth, Prosperity, Abundance."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhvnQuqStGdraNN08syoBelcYQfcSwJVzJOsyTkMwuocnri7WeLld32yh6wIZ473HEnPFR4s2AII1TbkRi-M8RhhmumcRNYWmhotGgd3yYKejjHOEbB6KF2ngLvJ-vxbzD4IYUNBNqrAXiMojkvB9w2cOSg-jmrOPIFggulzn1gsg5dfCCFKjyC2GESDJsG=s1600"
 en_name: "BloomingGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhvnQuqStGdraNN08syoBelcYQfcSwJVzJOsyTkMwuocnri7WeLld32yh6wIZ473HEnPFR4s2AII1TbkRi-M8RhhmumcRNYWmhotGgd3yYKejjHOEbB6KF2ngLvJ-vxbzD4IYUNBNqrAXiMojkvB9w2cOSg-jmrOPIFggulzn1gsg5dfCCFKjyC2GESDJsG=s1600)
-
 
 ## Birthday Color for May 26: Blooming Green (`#336666`)
 

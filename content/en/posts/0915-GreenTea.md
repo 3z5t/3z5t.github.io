@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhEX9tfXEstLWmxO6-mc91ca1iD7U89MBoqkZybstIRjFqLf9RcQvSrmgViJ89Rdpq8xNz-AViozlt6H_4f9kZTD3NnCNSiet1zP-rDYEnoNaOrL2-hdMYwrwk_JTvuy48UsLA0wk7113k4AN03bhinE9j9NaoRAJ_DqzjUE8J3isl5gPtVB_QbiEIzpyUW=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Green Tea, The Birthday Color of September 15"
 date: "2026-09-15"
 updated: "2026-09-15"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "autumn lake"
 description: "The birthday color for September 15 is Green Tea (98946E). Its meaning is Serene, Relaxed, Calm."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhEX9tfXEstLWmxO6-mc91ca1iD7U89MBoqkZybstIRjFqLf9RcQvSrmgViJ89Rdpq8xNz-AViozlt6H_4f9kZTD3NnCNSiet1zP-rDYEnoNaOrL2-hdMYwrwk_JTvuy48UsLA0wk7113k4AN03bhinE9j9NaoRAJ_DqzjUE8J3isl5gPtVB_QbiEIzpyUW=s1600"
 en_name: "GreenTea"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhEX9tfXEstLWmxO6-mc91ca1iD7U89MBoqkZybstIRjFqLf9RcQvSrmgViJ89Rdpq8xNz-AViozlt6H_4f9kZTD3NnCNSiet1zP-rDYEnoNaOrL2-hdMYwrwk_JTvuy48UsLA0wk7113k4AN03bhinE9j9NaoRAJ_DqzjUE8J3isl5gPtVB_QbiEIzpyUW=s1600)
-
 
 ## Birthday Color for September 15: Green Tea (`#98946E`)
 

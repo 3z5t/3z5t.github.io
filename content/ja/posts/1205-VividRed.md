@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiSp6oHtT4EIld6tEL6I64bLc2zwDvZbXpMfztVs5RbaXh70gxDKn-6OrsKiAc_b7bkikls5zthWyvN4HUnmdySvH0ZptqIAaYmB-1X73N2gr2tm7z17H_Q-PA2dGgDGaVpZzPVNIVEH4aKWbpifOrYl5mWsGyablP5kSv2h-wJ1TPupuB5_ohwUnOoMV70=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ビビッドレッド、12月5日の誕生色"
 date: "2026-12-05"
 updated: "2026-12-05"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ミディアムターコイズ"
 description: "12月5日の誕生色 ビビッドレッド(D93232)。色言葉は「祭りを楽しむ、喜びに満ちた、活力」です。相性の良い色はミディアムターコイズです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiSp6oHtT4EIld6tEL6I64bLc2zwDvZbXpMfztVs5RbaXh70gxDKn-6OrsKiAc_b7bkikls5zthWyvN4HUnmdySvH0ZptqIAaYmB-1X73N2gr2tm7z17H_Q-PA2dGgDGaVpZzPVNIVEH4aKWbpifOrYl5mWsGyablP5kSv2h-wJ1TPupuB5_ohwUnOoMV70=s1600"
 en_name: "Vivid Red"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiSp6oHtT4EIld6tEL6I64bLc2zwDvZbXpMfztVs5RbaXh70gxDKn-6OrsKiAc_b7bkikls5zthWyvN4HUnmdySvH0ZptqIAaYmB-1X73N2gr2tm7z17H_Q-PA2dGgDGaVpZzPVNIVEH4aKWbpifOrYl5mWsGyablP5kSv2h-wJ1TPupuB5_ohwUnOoMV70=s1600)
-
 
 ## 12月5日の誕生色: ビビッドレッド (`#D93232`)
 

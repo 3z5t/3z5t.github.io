@@ -1,21 +1,24 @@
 ---
-"title": "ラベンダーパープル、2月3日の誕生色"
-"date": "2026-02-03"
-"updated": "2026-02-03"
-"labels":
-- "ラベンダーパープル"
-- "誕生色"
-- "2月3日"
-- "DAB7F0"
-- "2月"
-- "ディープフォレスト"
-"description": "2月3日の誕生色 ラベンダーパープル(DAB7F0)。色言葉は「高貴、品格、創造性」です。相性の良い色はディープフォレストです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEigBbs80zwJMFeyVFRa8NdrpPPmY8cNjz6z8P3gGDN4l8p7eR8VykyQ1N5gwSesW9OVOgi2k-6CLriI45NKgPe8qotZFme4DL8QDyRpylMLpLQjHzEBjvck_gzFp1mPrjiKlLh_zGmL9VHskAxvicvET-3gAniWnTZH7iT0tuGqMo-FszTMADeXw41JQZTt=s1600"
-"en_name": "Lavender Purple"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "6869656181451350336"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/23-lavender-purple.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEigBbs80zwJMFeyVFRa8NdrpPPmY8cNjz6z8P3gGDN4l8p7eR8VykyQ1N5gwSesW9OVOgi2k-6CLriI45NKgPe8qotZFme4DL8QDyRpylMLpLQjHzEBjvck_gzFp1mPrjiKlLh_zGmL9VHskAxvicvET-3gAniWnTZH7iT0tuGqMo-FszTMADeXw41JQZTt=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ラベンダーパープル、2月3日の誕生色"
+date: "2026-02-03"
+updated: "2026-02-03"
+tags:
+  - "ラベンダーパープル"
+  - "誕生色"
+  - "2月3日"
+  - "DAB7F0"
+  - "2月"
+  - "ディープフォレスト"
+description: "2月3日の誕生色 ラベンダーパープル(DAB7F0)。色言葉は「高貴、品格、創造性」です。相性の良い色はディープフォレストです。"
+en_name: "Lavender Purple"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "6869656181451350336"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/23-lavender-purple.html"
 ---
 
 ## 2月3日の誕生色: ラベンダーパープル (`#DAB7F0`)

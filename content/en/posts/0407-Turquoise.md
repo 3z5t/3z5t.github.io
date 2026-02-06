@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgYsN3qPZ4_OSg9eBa2t6PjTXqOHIPlH9GiNQ6IImXG2OIOXOxQRr-VvRAXRozKXNrwXPeUCliB2VXFtaxBB9q2Nbe0VHdRG1Srv9VR2WVHRO07rvzJ60Oog0nhgBnpMvzjdenABzwilxQ7SGJ7h0kPLoPm9QnbLEK5-LIvYY6nOTxfuIjoROz6JrZzRc1Z=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Turquoise, The Birthday Color of April 7"
 date: "2026-04-07"
 updated: "2026-04-07"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "winter berry"
 description: "The birthday color for April 7 is Turquoise (40E0D0). Its meaning is Healing, Resilience, Creativity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgYsN3qPZ4_OSg9eBa2t6PjTXqOHIPlH9GiNQ6IImXG2OIOXOxQRr-VvRAXRozKXNrwXPeUCliB2VXFtaxBB9q2Nbe0VHdRG1Srv9VR2WVHRO07rvzJ60Oog0nhgBnpMvzjdenABzwilxQ7SGJ7h0kPLoPm9QnbLEK5-LIvYY6nOTxfuIjoROz6JrZzRc1Z=s1600"
 en_name: "Turquoise"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgYsN3qPZ4_OSg9eBa2t6PjTXqOHIPlH9GiNQ6IImXG2OIOXOxQRr-VvRAXRozKXNrwXPeUCliB2VXFtaxBB9q2Nbe0VHdRG1Srv9VR2WVHRO07rvzJ60Oog0nhgBnpMvzjdenABzwilxQ7SGJ7h0kPLoPm9QnbLEK5-LIvYY6nOTxfuIjoROz6JrZzRc1Z=s1600)
-
 
 ## Birthday Color for April 7: Turquoise (`#40E0D0`)
 

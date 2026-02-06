@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgTf2kzHo_uuqegJdwpy2Dxp1dWGvDRZy6d1aGgMbbkI-kSVgrMUk-VVFvGH36Fn6Blwu4baJQVFePhO9qfd3rSi875RuceHjq0IHJvWaA5EhHTq0rO-SRpKwqsBmdzPR_dywZ8mbrt20hAoFb4zu192jIsLhoEnv6sA8dfa0tqG2-Tr1Pp4t5Ew_GG4hTF=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Oyster Pink, The Birthday Color of March 24"
 date: "2026-03-24"
 updated: "2026-03-24"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "deep sea"
 description: "The birthday color for March 24 is Oyster Pink (CEAAAD). Its meaning is Peaceful, Stability, Comfortable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgTf2kzHo_uuqegJdwpy2Dxp1dWGvDRZy6d1aGgMbbkI-kSVgrMUk-VVFvGH36Fn6Blwu4baJQVFePhO9qfd3rSi875RuceHjq0IHJvWaA5EhHTq0rO-SRpKwqsBmdzPR_dywZ8mbrt20hAoFb4zu192jIsLhoEnv6sA8dfa0tqG2-Tr1Pp4t5Ew_GG4hTF=s1600"
 en_name: "OysterPink"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgTf2kzHo_uuqegJdwpy2Dxp1dWGvDRZy6d1aGgMbbkI-kSVgrMUk-VVFvGH36Fn6Blwu4baJQVFePhO9qfd3rSi875RuceHjq0IHJvWaA5EhHTq0rO-SRpKwqsBmdzPR_dywZ8mbrt20hAoFb4zu192jIsLhoEnv6sA8dfa0tqG2-Tr1Pp4t5Ew_GG4hTF=s1600)
-
 
 ## Birthday Color for March 24: Oyster Pink (`#CEAAAD`)
 

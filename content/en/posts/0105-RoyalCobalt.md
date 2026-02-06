@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-05'
-description: The birthday color for January 5 is Royal Cobalt (00009B). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiDbYrPq3y7j1N5xXO0ehQbp1ANjca7kKDCWtM29lvgoUTm9-0GGQYU56xfuZcspSBup_59nr9mB9kv-gqKj-z2LNPxMh1x7tl7O_vKsnkk9ni6cETHcDYX1DMDga2YbCymGFsEkDDBdLM86bfF8I8B7-osE6Y0j-uzE5zl0FEOKoybq0koIwUBB4-bd1M5=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-05"
+description: "The birthday color for January 5 is Royal Cobalt (00009B). Its meaning"
   is Pioneering, Leadership, Challenging Spirit.
-en_name: RoyalCobalt
+en_name: "RoyalCobalt"
 tags:
-- royal cobalt
-- birthday color
-- january 5
-- 00009b
-- january
-- banana
-postId: '1709571238628156600'
-postUrl: https://the366days-en.blogspot.com/2026/01/royal-cobalt-birthday-color-of-january-5.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiDbYrPq3y7j1N5xXO0ehQbp1ANjca7kKDCWtM29lvgoUTm9-0GGQYU56xfuZcspSBup_59nr9mB9kv-gqKj-z2LNPxMh1x7tl7O_vKsnkk9ni6cETHcDYX1DMDga2YbCymGFsEkDDBdLM86bfF8I8B7-osE6Y0j-uzE5zl0FEOKoybq0koIwUBB4-bd1M5=s1600
-title: Royal Cobalt, The Birthday Color of January 5
-updated: '2026-01-05'
+  - "royal cobalt"
+  - "birthday color"
+  - "january 5"
+  - "00009b"
+  - "january"
+  - "banana"
+postId: "1709571238628156600"
+postUrl: "https://the366days-en.blogspot.com/2026/01/royal-cobalt-birthday-color-of-january-5.html"
+profileName: "Pieces of a Day"
+title: "Royal Cobalt, The Birthday Color of January 5"
+updated: "2026-01-05"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiDbYrPq3y7j1N5xXO0ehQbp1ANjca7kKDCWtM29lvgoUTm9-0GGQYU56xfuZcspSBup_59nr9mB9kv-gqKj-z2LNPxMh1x7tl7O_vKsnkk9ni6cETHcDYX1DMDga2YbCymGFsEkDDBdLM86bfF8I8B7-osE6Y0j-uzE5zl0FEOKoybq0koIwUBB4-bd1M5=s1600)
-
 
 ## Birthday Color for January 5: Royal Cobalt (`#00009B`)
 

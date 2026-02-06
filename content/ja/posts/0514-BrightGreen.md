@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjY4flGw9bSUlh9-zV1WP7-HyciLmhF0PhloVDLg3swSCWtA3CXxNiNBYxyZ-8x3dzI07ve2yfpb9lzSuFYXCxNbHHDiNx0dlJvBK7jndxogBfLpH_rFCZYSkR7zF2WZbLELXqS81rHKxz-eOsbLTsyn1fxvCApnGJ8Vseetg8ITK-GK3sbZIcmFgCvQrJO=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ブライトグリーン、5月14日の誕生色"
 date: "2026-05-14"
 updated: "2026-05-14"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "ミスティックパープル"
 description: "5月14日の誕生色 ブライトグリーン(66FF00)。色言葉は「生命力、創造性、進取的」です。相性の良い色はミスティックパープルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjY4flGw9bSUlh9-zV1WP7-HyciLmhF0PhloVDLg3swSCWtA3CXxNiNBYxyZ-8x3dzI07ve2yfpb9lzSuFYXCxNbHHDiNx0dlJvBK7jndxogBfLpH_rFCZYSkR7zF2WZbLELXqS81rHKxz-eOsbLTsyn1fxvCApnGJ8Vseetg8ITK-GK3sbZIcmFgCvQrJO=s1600"
 en_name: "Bright Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjY4flGw9bSUlh9-zV1WP7-HyciLmhF0PhloVDLg3swSCWtA3CXxNiNBYxyZ-8x3dzI07ve2yfpb9lzSuFYXCxNbHHDiNx0dlJvBK7jndxogBfLpH_rFCZYSkR7zF2WZbLELXqS81rHKxz-eOsbLTsyn1fxvCApnGJ8Vseetg8ITK-GK3sbZIcmFgCvQrJO=s1600)
-
 
 ## 5月14日の誕生色: ブライトグリーン (`#66FF00`)
 

@@ -1,21 +1,24 @@
 ---
-"title": "Vermilion, The Birthday Color of February 21"
-"date": "2026-02-21"
-"updated": "2026-02-21"
-"labels":
-- "vermilion"
-- "birthday color"
-- "february 21"
-- "e34234"
-- "february"
-- "noble sky blue"
-"description": "The birthday color for February 21 is Vermilion (E34234). Its meaning is Vitality, Positivity, Optimism."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEj9kbWsP9gOSZ-6tlgZJkTzRmNUIU9JsI9IbHPffMn68J4PxbY51bB32B1uFHyZb9r_jA-RiXcZKcLaFh1O1QHh6HUaN_Jmlt51VAz82pZIpXj5dHfjwnUuM8ao8TWpcN_5zIIQWP9SMb1HVGpVr5QQSDip84enlwR3hOW9L72PkSgm5Yfmz2rhO4hsQtrZ=s1600"
-"en_name": "Vermilion"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "230338915014017266"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/vermilion-birthday-color-of-february-21.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj9kbWsP9gOSZ-6tlgZJkTzRmNUIU9JsI9IbHPffMn68J4PxbY51bB32B1uFHyZb9r_jA-RiXcZKcLaFh1O1QHh6HUaN_Jmlt51VAz82pZIpXj5dHfjwnUuM8ao8TWpcN_5zIIQWP9SMb1HVGpVr5QQSDip84enlwR3hOW9L72PkSgm5Yfmz2rhO4hsQtrZ=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Vermilion, The Birthday Color of February 21"
+date: "2026-02-21"
+updated: "2026-02-21"
+tags:
+  - "vermilion"
+  - "birthday color"
+  - "february 21"
+  - "e34234"
+  - "february"
+  - "noble sky blue"
+description: "The birthday color for February 21 is Vermilion (E34234). Its meaning is Vitality, Positivity, Optimism."
+en_name: "Vermilion"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "230338915014017266"
+postUrl: "https://the366days-en.blogspot.com/2026/02/vermilion-birthday-color-of-february-21.html"
 ---
 
 ## Birthday Color for February 21: Vermilion (`#E34234`)

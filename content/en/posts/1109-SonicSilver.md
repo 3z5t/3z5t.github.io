@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhL2xmOIOGMUQGqJVrwS4s654gmDS0PW_kJ5dPNEcvh2VVbJ372gbY8-AeLtj3Eoif5Bi0tmr_K41sXGQQvcSOZQSS6ioElYKQTtXjWSHUPw4wvK6LbF7PBkqi9QOhNNCsqSaFMFMK0yDS7PGDVhmZ_xNqLuXamgevjDJppS_zzSf37pO0KUa16AVnlhqjL=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Sonic Silver, The Birthday Color of November 9"
 date: "2026-11-09"
 updated: "2026-11-09"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "ash beige"
 description: "The birthday color for November 9 is Sonic Silver (767272). Its meaning is Solid Will, Sturdy, Trustworthy."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhL2xmOIOGMUQGqJVrwS4s654gmDS0PW_kJ5dPNEcvh2VVbJ372gbY8-AeLtj3Eoif5Bi0tmr_K41sXGQQvcSOZQSS6ioElYKQTtXjWSHUPw4wvK6LbF7PBkqi9QOhNNCsqSaFMFMK0yDS7PGDVhmZ_xNqLuXamgevjDJppS_zzSf37pO0KUa16AVnlhqjL=s1600"
 en_name: "SonicSilver"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhL2xmOIOGMUQGqJVrwS4s654gmDS0PW_kJ5dPNEcvh2VVbJ372gbY8-AeLtj3Eoif5Bi0tmr_K41sXGQQvcSOZQSS6ioElYKQTtXjWSHUPw4wvK6LbF7PBkqi9QOhNNCsqSaFMFMK0yDS7PGDVhmZ_xNqLuXamgevjDJppS_zzSf37pO0KUa16AVnlhqjL=s1600)
-
 
 ## Birthday Color for November 9: Sonic Silver (`#767272`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgC3Q7Lc8fHKr535QYRIricQQSEhQS31EPnh5WT9mi0qNTvn7nV7BhSt0IL-8yb6sJZjZn6O8wIz-5b1-RS0jT3KPeJAqngd69RAzVcEne1yTtl-4wKh5dyISGsU3tfIFlllpTrSkfQOPlTLa6xwc6Yh58pE0pkcNi1TNWn1u-XcaNpS1_fMHjn2CNYcCbQ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "バナナ、5月6日の誕生色"
 date: "2026-05-06"
 updated: "2026-05-06"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "ロイヤルコバルト"
 description: "5月6日の誕生色 バナナ(FFF462)。色言葉は「快活、楽しみ、楽天的」です。相性の良い色はロイヤルコバルトです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgC3Q7Lc8fHKr535QYRIricQQSEhQS31EPnh5WT9mi0qNTvn7nV7BhSt0IL-8yb6sJZjZn6O8wIz-5b1-RS0jT3KPeJAqngd69RAzVcEne1yTtl-4wKh5dyISGsU3tfIFlllpTrSkfQOPlTLa6xwc6Yh58pE0pkcNi1TNWn1u-XcaNpS1_fMHjn2CNYcCbQ=s1600"
 en_name: "Banana"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgC3Q7Lc8fHKr535QYRIricQQSEhQS31EPnh5WT9mi0qNTvn7nV7BhSt0IL-8yb6sJZjZn6O8wIz-5b1-RS0jT3KPeJAqngd69RAzVcEne1yTtl-4wKh5dyISGsU3tfIFlllpTrSkfQOPlTLa6xwc6Yh58pE0pkcNi1TNWn1u-XcaNpS1_fMHjn2CNYcCbQ=s1600)
-
 
 ## 5月6日の誕生色: バナナ (`#FFF462`)
 

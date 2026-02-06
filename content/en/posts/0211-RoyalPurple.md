@@ -1,21 +1,24 @@
 ---
-"title": "Royal Purple, The Birthday Color of February 11"
-"date": "2026-02-11"
-"updated": "2026-02-11"
-"labels":
-- "royal purple"
-- "birthday color"
-- "february 11"
-- "800080"
-- "february"
-- "pale green"
-"description": "The birthday color for February 11 is Royal Purple (800080). Its meaning is Leadership, Charisma, Dignity."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEiNW6r8669urjXZeO5CpQLDKqMWUyotFoJJNWH4YqP_LxKccA7220aE_yUMfdI_TTkyho_5F1ljEPt97rub_J_xT2ETnD_VFyb3dB2E0nW1pMxvrGrD8SNLgvS1dUazF9_yn3ELak6lMO0twDs4zqPMw5gkhX4YR2a_qV0wYiK-AVuP6AVSU0cPuP8ClZjr=s1600"
-"en_name": "RoyalPurple"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "5990449824738195359"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/royal-purple-birthday-color-of-february.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiNW6r8669urjXZeO5CpQLDKqMWUyotFoJJNWH4YqP_LxKccA7220aE_yUMfdI_TTkyho_5F1ljEPt97rub_J_xT2ETnD_VFyb3dB2E0nW1pMxvrGrD8SNLgvS1dUazF9_yn3ELak6lMO0twDs4zqPMw5gkhX4YR2a_qV0wYiK-AVuP6AVSU0cPuP8ClZjr=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Royal Purple, The Birthday Color of February 11"
+date: "2026-02-11"
+updated: "2026-02-11"
+tags:
+  - "royal purple"
+  - "birthday color"
+  - "february 11"
+  - "800080"
+  - "february"
+  - "pale green"
+description: "The birthday color for February 11 is Royal Purple (800080). Its meaning is Leadership, Charisma, Dignity."
+en_name: "RoyalPurple"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "5990449824738195359"
+postUrl: "https://the366days-en.blogspot.com/2026/02/royal-purple-birthday-color-of-february.html"
 ---
 
 ## Birthday Color for February 11: Royal Purple (`#800080`)

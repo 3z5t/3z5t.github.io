@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEguprHYVONVQH5nPe0YevHZ6Epp4d1pgbolI5xRcy4jc9w1IhlbFzmVo0iepcXfgb-R1OQ1yapQ-PXv5paGXrYSD5Y4jHRjANlN1Aiw4mbmqmtawi-2ZDkMVxbkYepsKrk06el4Ot0nj-7G-Q5ew3V1lv_0QNnQO7-xRYZN_CFxJOml7ZRmGNS3jH5-mcXf=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Knight Green, The Birthday Color of May 17"
 date: "2026-05-17"
 updated: "2026-05-17"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "blue violet"
 description: "The birthday color for May 17 is Knight Green (5C9432). Its meaning is Peaceful, Stability, Resilience."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEguprHYVONVQH5nPe0YevHZ6Epp4d1pgbolI5xRcy4jc9w1IhlbFzmVo0iepcXfgb-R1OQ1yapQ-PXv5paGXrYSD5Y4jHRjANlN1Aiw4mbmqmtawi-2ZDkMVxbkYepsKrk06el4Ot0nj-7G-Q5ew3V1lv_0QNnQO7-xRYZN_CFxJOml7ZRmGNS3jH5-mcXf=s1600"
 en_name: "KnightGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEguprHYVONVQH5nPe0YevHZ6Epp4d1pgbolI5xRcy4jc9w1IhlbFzmVo0iepcXfgb-R1OQ1yapQ-PXv5paGXrYSD5Y4jHRjANlN1Aiw4mbmqmtawi-2ZDkMVxbkYepsKrk06el4Ot0nj-7G-Q5ew3V1lv_0QNnQO7-xRYZN_CFxJOml7ZRmGNS3jH5-mcXf=s1600)
-
 
 ## Birthday Color for May 17: Knight Green (`#5C9432`)
 

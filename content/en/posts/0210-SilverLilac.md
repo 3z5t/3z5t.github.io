@@ -1,21 +1,24 @@
 ---
-"title": "Silver Lilac, The Birthday Color of February 10"
-"date": "2026-02-10"
-"updated": "2026-02-10"
-"labels":
-- "silver lilac"
-- "birthday color"
-- "february 10"
-- "aea2c9"
-- "february"
-- "deep khaki"
-"description": "The birthday color for February 10 is Silver Lilac (AEA2C9). Its meaning is Elegant, Sophisticated, Aesthetic Eye."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEh_9wtrRbsYf2tu2nLTD2fsERARpppAoM-gs0LVAlEZ3eAKCbMk7lQK5RXIXcCVjLYuDwhhBTwBaX7wseeg14PrM278_9NP4MnFMi_RfKCNZRGBeM5xyY7N9xlzSQrrzhYEmpu7dwhoSFGhrX9ZlCyLv0dmkTYzIqlGhGYvdrY5Weevub7IC7FmiQU_HW0u=s1600"
-"en_name": "SilverLilac"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "6662562859034810899"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/silver-lilac-birthday-color-of-february.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh_9wtrRbsYf2tu2nLTD2fsERARpppAoM-gs0LVAlEZ3eAKCbMk7lQK5RXIXcCVjLYuDwhhBTwBaX7wseeg14PrM278_9NP4MnFMi_RfKCNZRGBeM5xyY7N9xlzSQrrzhYEmpu7dwhoSFGhrX9ZlCyLv0dmkTYzIqlGhGYvdrY5Weevub7IC7FmiQU_HW0u=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Silver Lilac, The Birthday Color of February 10"
+date: "2026-02-10"
+updated: "2026-02-10"
+tags:
+  - "silver lilac"
+  - "birthday color"
+  - "february 10"
+  - "aea2c9"
+  - "february"
+  - "deep khaki"
+description: "The birthday color for February 10 is Silver Lilac (AEA2C9). Its meaning is Elegant, Sophisticated, Aesthetic Eye."
+en_name: "SilverLilac"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "6662562859034810899"
+postUrl: "https://the366days-en.blogspot.com/2026/02/silver-lilac-birthday-color-of-february.html"
 ---
 
 ## Birthday Color for February 10: Silver Lilac (`#AEA2C9`)

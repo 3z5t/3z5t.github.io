@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjsHgrYCu9Cwwht4wfjWBWz8LVc6BYd97cVD8E3vsJkpnsCuFryCUyyaj9L1-5SFdFwnbUbzayPseZrO5XNhMZh_QfY7yowsAh2bbvOegamyRbGYjwTKjZ-DNpmW1oBhwh3OyiDgjPwyQOTg0QgdSjUyOk5ag2fkavDLusFZ827kk1OGVl9SHyFNBhsR5R4=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Pale Orange, The Birthday Color of June 2"
 date: "2026-06-02"
 updated: "2026-06-02"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "evening sky"
 description: "The birthday color for June 2 is Pale Orange (FFEBB0). Its meaning is Warm Heart, Friendly, Positivity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjsHgrYCu9Cwwht4wfjWBWz8LVc6BYd97cVD8E3vsJkpnsCuFryCUyyaj9L1-5SFdFwnbUbzayPseZrO5XNhMZh_QfY7yowsAh2bbvOegamyRbGYjwTKjZ-DNpmW1oBhwh3OyiDgjPwyQOTg0QgdSjUyOk5ag2fkavDLusFZ827kk1OGVl9SHyFNBhsR5R4=s1600"
 en_name: "PaleOrange"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjsHgrYCu9Cwwht4wfjWBWz8LVc6BYd97cVD8E3vsJkpnsCuFryCUyyaj9L1-5SFdFwnbUbzayPseZrO5XNhMZh_QfY7yowsAh2bbvOegamyRbGYjwTKjZ-DNpmW1oBhwh3OyiDgjPwyQOTg0QgdSjUyOk5ag2fkavDLusFZ827kk1OGVl9SHyFNBhsR5R4=s1600)
-
 
 ## Birthday Color for June 2: Pale Orange (`#FFEBB0`)
 

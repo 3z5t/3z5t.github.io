@@ -1,25 +1,25 @@
 ---
-title: スノーフレークホワイト、1月2日の誕生色
-date: 2026-01-02
-updated: 2026-01-02
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEix6DMKXLXVhjtIMLtJ5H3XWRd-hBhyNxOXn2lWLI_ood_eRZ-7197SD1BL5Fo-zfuyNWtLXWWjlmpye5L8qbGGpfw2ZSwhJ2CWJHc3vaN5xAdgsAVrKirmAVsZCfc7rZgSnVM1WN9L9BqRdyXIN0rU_Mcxr9Jn7IirGJ3nIuWpjndMA3EOVg3JFGiuInVi=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "スノーフレークホワイト、1月2日の誕生色"
+date: "2026-01-02"
+updated: "2026-01-02"
 tags:
-  - スノーフレークホワイト
-  - 誕生色
-  - 1月2日
-  - F2EDF3
-  - 1月
-  - スモーキーブラック
-description: 1月2日の誕生色 スノーフレークホワイト(F2EDF3)。色言葉は「誠実、理想的、穏やか」です。相性の良い色はスモーキーブラックです。
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEix6DMKXLXVhjtIMLtJ5H3XWRd-hBhyNxOXn2lWLI_ood_eRZ-7197SD1BL5Fo-zfuyNWtLXWWjlmpye5L8qbGGpfw2ZSwhJ2CWJHc3vaN5xAdgsAVrKirmAVsZCfc7rZgSnVM1WN9L9BqRdyXIN0rU_Mcxr9Jn7IirGJ3nIuWpjndMA3EOVg3JFGiuInVi=s1600
-en_name: Snowflake White
-author: 日々のカケラ
-profileName: 日々のカケラ
+  - "スノーフレークホワイト"
+  - "誕生色"
+  - "1月2日"
+  - "F2EDF3"
+  - "1月"
+  - "スモーキーブラック"
+description: "1月2日の誕生色 スノーフレークホワイト(F2EDF3)。色言葉は「誠実、理想的、穏やか」です。相性の良い色はスモーキーブラックです。"
+en_name: "Snowflake White"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
 postId: "1004"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEix6DMKXLXVhjtIMLtJ5H3XWRd-hBhyNxOXn2lWLI_ood_eRZ-7197SD1BL5Fo-zfuyNWtLXWWjlmpye5L8qbGGpfw2ZSwhJ2CWJHc3vaN5xAdgsAVrKirmAVsZCfc7rZgSnVM1WN9L9BqRdyXIN0rU_Mcxr9Jn7IirGJ3nIuWpjndMA3EOVg3JFGiuInVi=s1600)
-
 
 ## 1月2日の誕生色: スノーフレークホワイト (`#F2EDF3`)
 

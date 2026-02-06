@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiMWLtrCEsyp0NPtP0xlj6gIaHWv5bMXT7O-5ygroz1GFyqOtwedJL33NtXS7_NFLTs5_kGxDdhi494nKskMC_K5EL3EZrav1aAhONd66qTmxwPLMCbxWgejCu_X920t8XNRxifd-rjqR2XEAv6Y0xKuzl9jQxbMTJLA8_LtZJfu6G2GSRQTcpn2iSt7u02=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ストロベリーミルク、3月19日の誕生色"
 date: "2026-03-19"
 updated: "2026-03-19"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "フォレストグリーン"
 description: "3月19日の誕生色 ストロベリーミルク(FF81D3)。色言葉は「甘さ、幸福感、楽しさ」です。相性の良い色はフォレストグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiMWLtrCEsyp0NPtP0xlj6gIaHWv5bMXT7O-5ygroz1GFyqOtwedJL33NtXS7_NFLTs5_kGxDdhi494nKskMC_K5EL3EZrav1aAhONd66qTmxwPLMCbxWgejCu_X920t8XNRxifd-rjqR2XEAv6Y0xKuzl9jQxbMTJLA8_LtZJfu6G2GSRQTcpn2iSt7u02=s1600"
 en_name: "Strawberry Milk"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiMWLtrCEsyp0NPtP0xlj6gIaHWv5bMXT7O-5ygroz1GFyqOtwedJL33NtXS7_NFLTs5_kGxDdhi494nKskMC_K5EL3EZrav1aAhONd66qTmxwPLMCbxWgejCu_X920t8XNRxifd-rjqR2XEAv6Y0xKuzl9jQxbMTJLA8_LtZJfu6G2GSRQTcpn2iSt7u02=s1600)
-
 
 ## 3月19日の誕生色: ストロベリーミルク (`#FF81D3`)
 

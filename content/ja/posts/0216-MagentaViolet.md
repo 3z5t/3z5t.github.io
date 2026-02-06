@@ -1,21 +1,24 @@
 ---
-"title": "マゼンタバイオレット、2月16日の誕生色"
-"date": "2026-02-16"
-"updated": "2026-02-16"
-"labels":
-- "マゼンタバイオレット"
-- "誕生色"
-- "2月16日"
-- "EE82EE"
-- "2月"
-- "パイン（松）"
-"description": "2月16日の誕生色 マゼンタバイオレット(EE82EE)。色言葉は「感覚的、魅力的、創造性」です。相性の良い色はパイン（松）です。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhmT4tqv0ZPqmPiyYTBace6ExuSc6HTgV6GbxWk15xF5tJfQ70fcp9aQ-xkSa5efdhfZCu-bDj9gz8xE__8f5Z_DVuZi0qnQ6tlts7fkYrfzhy0dVf75CZKrruHmY75A91KjCEskO_SYNU5QzN5z-Pv6o0KYE5Hi6FnFM992WDt0lv3EPmGNVpDHADIrx4V=s1600"
-"en_name": "Magenta Violet"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "3742584893669407549"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/216-magenta-violet.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhmT4tqv0ZPqmPiyYTBace6ExuSc6HTgV6GbxWk15xF5tJfQ70fcp9aQ-xkSa5efdhfZCu-bDj9gz8xE__8f5Z_DVuZi0qnQ6tlts7fkYrfzhy0dVf75CZKrruHmY75A91KjCEskO_SYNU5QzN5z-Pv6o0KYE5Hi6FnFM992WDt0lv3EPmGNVpDHADIrx4V=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "マゼンタバイオレット、2月16日の誕生色"
+date: "2026-02-16"
+updated: "2026-02-16"
+tags:
+  - "マゼンタバイオレット"
+  - "誕生色"
+  - "2月16日"
+  - "EE82EE"
+  - "2月"
+  - "パイン（松）"
+description: "2月16日の誕生色 マゼンタバイオレット(EE82EE)。色言葉は「感覚的、魅力的、創造性」です。相性の良い色はパイン（松）です。"
+en_name: "Magenta Violet"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "3742584893669407549"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/216-magenta-violet.html"
 ---
 
 ## 2月16日の誕生色: マゼンタバイオレット (`#EE82EE`)

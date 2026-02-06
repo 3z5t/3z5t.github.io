@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh2tCSPhz9OYa1faX3HltUV93vEWTozsjuFTsu50gWRIkxKKb4k5slCfioFjKUEvO_XXKozYm70jnFHm3f-cz9EhAzT31ArBQRKCqdadTEjIksI8vB1ZZZABQ_PVgKYWW2lHZMkQ8SNQQOu7lEGyt_sHFLCzKlTMY595RNUN9Irt3pFxl76maqrIv8p3Byo=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Carnation Pink, The Birthday Color of June 6"
 date: "2026-06-06"
 updated: "2026-06-06"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "jade"
 description: "The birthday color for June 6 is Carnation Pink (FF99CC). Its meaning is Peaceful, Lovely, Emotional."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh2tCSPhz9OYa1faX3HltUV93vEWTozsjuFTsu50gWRIkxKKb4k5slCfioFjKUEvO_XXKozYm70jnFHm3f-cz9EhAzT31ArBQRKCqdadTEjIksI8vB1ZZZABQ_PVgKYWW2lHZMkQ8SNQQOu7lEGyt_sHFLCzKlTMY595RNUN9Irt3pFxl76maqrIv8p3Byo=s1600"
 en_name: "CarnationPink"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh2tCSPhz9OYa1faX3HltUV93vEWTozsjuFTsu50gWRIkxKKb4k5slCfioFjKUEvO_XXKozYm70jnFHm3f-cz9EhAzT31ArBQRKCqdadTEjIksI8vB1ZZZABQ_PVgKYWW2lHZMkQ8SNQQOu7lEGyt_sHFLCzKlTMY595RNUN9Irt3pFxl76maqrIv8p3Byo=s1600)
-
 
 ## Birthday Color for June 6: Carnation Pink (`#FF99CC`)
 

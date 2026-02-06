@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiTraRS7-YjfOi59eiOCWpb348veJQjnw9FhBJMGt9-rYj8cb5Ux6hNQw7kenzzrp4oL8yRFduS_GYOtyN5sboIbMxA5Qc2oNgwUnBDL1lHge72KmNM0_uV5XWY9bYcRSZ-LrNew-OEZkr4XNcZB4S4Lf0MU7WT_G-c5eq6I9PQOW4ygq8T42nLSSWWpgtb=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Real Black, The Birthday Color of November 14"
 date: "2026-11-14"
 updated: "2026-11-14"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "cloud gray"
 description: "The birthday color for November 14 is Real Black (2B2B2B). Its meaning is Weighty, Profound, Stable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiTraRS7-YjfOi59eiOCWpb348veJQjnw9FhBJMGt9-rYj8cb5Ux6hNQw7kenzzrp4oL8yRFduS_GYOtyN5sboIbMxA5Qc2oNgwUnBDL1lHge72KmNM0_uV5XWY9bYcRSZ-LrNew-OEZkr4XNcZB4S4Lf0MU7WT_G-c5eq6I9PQOW4ygq8T42nLSSWWpgtb=s1600"
 en_name: "RealBlack"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiTraRS7-YjfOi59eiOCWpb348veJQjnw9FhBJMGt9-rYj8cb5Ux6hNQw7kenzzrp4oL8yRFduS_GYOtyN5sboIbMxA5Qc2oNgwUnBDL1lHge72KmNM0_uV5XWY9bYcRSZ-LrNew-OEZkr4XNcZB4S4Lf0MU7WT_G-c5eq6I9PQOW4ygq8T42nLSSWWpgtb=s1600)
-
 
 ## Birthday Color for November 14: Real Black (`#2B2B2B`)
 

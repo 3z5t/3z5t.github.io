@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjR3XY6TF_gI-3-sWNR-WEQEY-1BO95p1dlzguv-WLK4vYWsxfBdZ8SIMqB1fK_kGOkbCiLrW8xKzJK0zT2x9c56OQbBvKSuJAXAXbmpo66otqegHu0dtHNUzY8v6JSlgbwAG8v8tUdq3a6iFTkRg230UyxAOzZP0S1_gU_GlIL5v-LArXGacdb0xtIlX5V=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ブライトピンク、3月21日の誕生色"
 date: "2026-03-21"
 updated: "2026-03-21"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ディープアビス"
 description: "3月21日の誕生色 ブライトピンク(FFEAF3)。色言葉は「明るさ、新しさ、希望」です。相性の良い色はディープアビスです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjR3XY6TF_gI-3-sWNR-WEQEY-1BO95p1dlzguv-WLK4vYWsxfBdZ8SIMqB1fK_kGOkbCiLrW8xKzJK0zT2x9c56OQbBvKSuJAXAXbmpo66otqegHu0dtHNUzY8v6JSlgbwAG8v8tUdq3a6iFTkRg230UyxAOzZP0S1_gU_GlIL5v-LArXGacdb0xtIlX5V=s1600"
 en_name: "Bright Pink"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjR3XY6TF_gI-3-sWNR-WEQEY-1BO95p1dlzguv-WLK4vYWsxfBdZ8SIMqB1fK_kGOkbCiLrW8xKzJK0zT2x9c56OQbBvKSuJAXAXbmpo66otqegHu0dtHNUzY8v6JSlgbwAG8v8tUdq3a6iFTkRg230UyxAOzZP0S1_gU_GlIL5v-LArXGacdb0xtIlX5V=s1600)
-
 
 ## 3月21日の誕生色: ブライトピンク (`#FFEAF3`)
 

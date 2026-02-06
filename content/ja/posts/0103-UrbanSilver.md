@@ -1,25 +1,25 @@
 ---
-title: アーバンシルバー、1月3日の誕生色
-date: 2026-01-03
-updated: 2026-01-03
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiHRvAuJhRDScqoftCw3f68571BGIIqgvQicud8D90NPkgpCHxobyiEjITVtvKYiuWVGQTEz0J6sXHguAjBaZa6s9zHSQejOfEC3GrtZBd_JGHTFezqPPYz73wizDcUnTWhxLsBUmK6ORJkV8zWFpey54Rlmb4cfR2aoDQEsw4twfyGHnkEWjS7P2-hUa4Y=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "アーバンシルバー、1月3日の誕生色"
+date: "2026-01-03"
+updated: "2026-01-03"
 tags:
-  - アーバンシルバー
-  - 誕生色
-  - 1月3日
+  - "アーバンシルバー"
+  - "誕生色"
+  - "1月3日"
   - "808080"
-  - 1月
-  - ソフトモーブ
-description: 1月3日の誕生色 アーバンシルバー(808080)。色言葉は「調停力、バランス感覚、洞察力」です。相性の良い色はソフトモーブです。
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiHRvAuJhRDScqoftCw3f68571BGIIqgvQicud8D90NPkgpCHxobyiEjITVtvKYiuWVGQTEz0J6sXHguAjBaZa6s9zHSQejOfEC3GrtZBd_JGHTFezqPPYz73wizDcUnTWhxLsBUmK6ORJkV8zWFpey54Rlmb4cfR2aoDQEsw4twfyGHnkEWjS7P2-hUa4Y=s1600
-en_name: Urban Silver
-author: 日々のカケラ
-profileName: 日々のカケラ
+  - "1月"
+  - "ソフトモーブ"
+description: "1月3日の誕生色 アーバンシルバー(808080)。色言葉は「調停力、バランス感覚、洞察力」です。相性の良い色はソフトモーブです。"
+en_name: "Urban Silver"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
 postId: "1004"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiHRvAuJhRDScqoftCw3f68571BGIIqgvQicud8D90NPkgpCHxobyiEjITVtvKYiuWVGQTEz0J6sXHguAjBaZa6s9zHSQejOfEC3GrtZBd_JGHTFezqPPYz73wizDcUnTWhxLsBUmK6ORJkV8zWFpey54Rlmb4cfR2aoDQEsw4twfyGHnkEWjS7P2-hUa4Y=s1600)
-
 
 ## 1月3日の誕生色: アーバンシルバー (`#808080`)
 

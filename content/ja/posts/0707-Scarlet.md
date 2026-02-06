@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjZ9wuszxRzQdwHdFsBYpsxTyPhYBSZdXAbjBJGQJuIETb1tpIQWRdFjTLUwkeWslqLs_9lcAuwDXJHFejz0Q342PjOnyS5uHcNSxfhpTjMHteayHuGFdIEQnH61xeXJ7_v38Mm6ckYJ_CrPN3zHwjIOo1DWYuM5BvbgPZy5nf1FbRJCrO4h5nypawCPqML=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "スカーレット、7月7日の誕生色"
 date: "2026-07-07"
 updated: "2026-07-07"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "ディープスカイブルー"
 description: "7月7日の誕生色 スカーレット(FF3300)。色言葉は「情熱的、ロマンチック、芸術性」です。相性の良い色はディープスカイブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjZ9wuszxRzQdwHdFsBYpsxTyPhYBSZdXAbjBJGQJuIETb1tpIQWRdFjTLUwkeWslqLs_9lcAuwDXJHFejz0Q342PjOnyS5uHcNSxfhpTjMHteayHuGFdIEQnH61xeXJ7_v38Mm6ckYJ_CrPN3zHwjIOo1DWYuM5BvbgPZy5nf1FbRJCrO4h5nypawCPqML=s1600"
 en_name: "Scarlet"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjZ9wuszxRzQdwHdFsBYpsxTyPhYBSZdXAbjBJGQJuIETb1tpIQWRdFjTLUwkeWslqLs_9lcAuwDXJHFejz0Q342PjOnyS5uHcNSxfhpTjMHteayHuGFdIEQnH61xeXJ7_v38Mm6ckYJ_CrPN3zHwjIOo1DWYuM5BvbgPZy5nf1FbRJCrO4h5nypawCPqML=s1600)
-
 
 ## 7月7日の誕生色: スカーレット (`#FF3300`)
 

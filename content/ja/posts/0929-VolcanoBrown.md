@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgZMZ2o_KysC8Z2BN91jQWMZIBUeJj09dgN0bHjs_Deh1xLdDFqfcuSLe67liuBqqT3eHS40FwJlrKpos6CAveJhtNhhOBbuLHAHqsIqFiQEJQJDjs3amYS3jEdtJ0g1Yd3B3qVBkAQVCPg63GaMg8F8UB0EjdL9rXjaV8zg4LrqTqsRQiER_9yUN2hCHew=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ボルケーノブラウン、9月29日の誕生色"
 date: "2026-09-29"
 updated: "2026-09-29"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ムースグレー"
 description: "9月29日の誕生色 ボルケーノブラウン(675853)。色言葉は「強靭な意志、固い心、決断力」です。相性の良い色はムースグレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgZMZ2o_KysC8Z2BN91jQWMZIBUeJj09dgN0bHjs_Deh1xLdDFqfcuSLe67liuBqqT3eHS40FwJlrKpos6CAveJhtNhhOBbuLHAHqsIqFiQEJQJDjs3amYS3jEdtJ0g1Yd3B3qVBkAQVCPg63GaMg8F8UB0EjdL9rXjaV8zg4LrqTqsRQiER_9yUN2hCHew=s1600"
 en_name: "Volcano Brown"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgZMZ2o_KysC8Z2BN91jQWMZIBUeJj09dgN0bHjs_Deh1xLdDFqfcuSLe67liuBqqT3eHS40FwJlrKpos6CAveJhtNhhOBbuLHAHqsIqFiQEJQJDjs3amYS3jEdtJ0g1Yd3B3qVBkAQVCPg63GaMg8F8UB0EjdL9rXjaV8zg4LrqTqsRQiER_9yUN2hCHew=s1600)
-
 
 ## 9月29日の誕生色: ボルケーノブラウン (`#675853`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi8P4gNwOEH_jTo_gGANwYdus0j4VG9CUyhFfIu7wK8hauCN_S1JJTVI1HwcQhCSKRbtJ7uG0cA_5m9NJWcR91AhXbIYBJFqkhAJ31y3BnDXsyCD-pF-48HwBdnBwMVlzXFJjS60JDldyvUVVuWYuiZ6aSlJ63039B0Y0iJxsY5mLg0yNz7B7fo1vNG_reM=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Dim Gray, The Birthday Color of November 10"
 date: "2026-11-10"
 updated: "2026-11-10"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "moose gray"
 description: "The birthday color for November 10 is Dim Gray (666666). Its meaning is Profound, Calm, Mature."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi8P4gNwOEH_jTo_gGANwYdus0j4VG9CUyhFfIu7wK8hauCN_S1JJTVI1HwcQhCSKRbtJ7uG0cA_5m9NJWcR91AhXbIYBJFqkhAJ31y3BnDXsyCD-pF-48HwBdnBwMVlzXFJjS60JDldyvUVVuWYuiZ6aSlJ63039B0Y0iJxsY5mLg0yNz7B7fo1vNG_reM=s1600"
 en_name: "DimGray"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi8P4gNwOEH_jTo_gGANwYdus0j4VG9CUyhFfIu7wK8hauCN_S1JJTVI1HwcQhCSKRbtJ7uG0cA_5m9NJWcR91AhXbIYBJFqkhAJ31y3BnDXsyCD-pF-48HwBdnBwMVlzXFJjS60JDldyvUVVuWYuiZ6aSlJ63039B0Y0iJxsY5mLg0yNz7B7fo1vNG_reM=s1600)
-
 
 ## Birthday Color for November 10: Dim Gray (`#666666`)
 

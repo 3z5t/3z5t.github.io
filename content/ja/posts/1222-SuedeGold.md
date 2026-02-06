@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiG7-aZsy6O7ZYsi4zN-C9uiD5YK2LISzmo-YY_Gy66w5539mT2kbMQ5orv-h-UToKdKWGJV03TOLYzc_nj8jJzVWF7fIeubnoxNzfIGDO9fEk0wS-OM2kx2Gtn4LByo2Ca-qqKayzQrFcFMcu0um10jnz7aSsDN9V1aqp0N2IhgvTmzJQk-G0rxJBmqAvh=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "スエードゴールド、12月22日の誕生色"
 date: "2026-12-22"
 updated: "2026-12-22"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "イブニングスカイ"
 description: "12月22日の誕生色 スエードゴールド(F9EBDA)。色言葉は「豊かさ、希望に満ちた、期待感」です。相性の良い色はイブニングスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiG7-aZsy6O7ZYsi4zN-C9uiD5YK2LISzmo-YY_Gy66w5539mT2kbMQ5orv-h-UToKdKWGJV03TOLYzc_nj8jJzVWF7fIeubnoxNzfIGDO9fEk0wS-OM2kx2Gtn4LByo2Ca-qqKayzQrFcFMcu0um10jnz7aSsDN9V1aqp0N2IhgvTmzJQk-G0rxJBmqAvh=s1600"
 en_name: "Suede Gold"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiG7-aZsy6O7ZYsi4zN-C9uiD5YK2LISzmo-YY_Gy66w5539mT2kbMQ5orv-h-UToKdKWGJV03TOLYzc_nj8jJzVWF7fIeubnoxNzfIGDO9fEk0wS-OM2kx2Gtn4LByo2Ca-qqKayzQrFcFMcu0um10jnz7aSsDN9V1aqp0N2IhgvTmzJQk-G0rxJBmqAvh=s1600)
-
 
 ## 12月22日の誕生色: スエードゴールド (`#F9EBDA`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgwpEZ1cJiFj9DtejD6HKLHpGxibVIhCq934uoC1fG2fuiix2OjOBaYev5MKsYFvJ8Q9VQPd5OaCZQhZvEa1wmeiD6nqg7Au8QZX4YygI500ZHitdEB9eI2DDj0vU1jYTsQR0TktC5SzXQsuM949P51bJP4BsJJqvg04wHBHN1v4GW91gfHdF4-diSNF8m2=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Silver Gray, The Birthday Color of November 8"
 date: "2026-11-08"
 updated: "2026-11-08"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "abyss black"
 description: "The birthday color for November 8 is Silver Gray (E2DFE5). Its meaning is Sophisticated, Elegant, Dignified."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgwpEZ1cJiFj9DtejD6HKLHpGxibVIhCq934uoC1fG2fuiix2OjOBaYev5MKsYFvJ8Q9VQPd5OaCZQhZvEa1wmeiD6nqg7Au8QZX4YygI500ZHitdEB9eI2DDj0vU1jYTsQR0TktC5SzXQsuM949P51bJP4BsJJqvg04wHBHN1v4GW91gfHdF4-diSNF8m2=s1600"
 en_name: "SilverGray"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgwpEZ1cJiFj9DtejD6HKLHpGxibVIhCq934uoC1fG2fuiix2OjOBaYev5MKsYFvJ8Q9VQPd5OaCZQhZvEa1wmeiD6nqg7Au8QZX4YygI500ZHitdEB9eI2DDj0vU1jYTsQR0TktC5SzXQsuM949P51bJP4BsJJqvg04wHBHN1v4GW91gfHdF4-diSNF8m2=s1600)
-
 
 ## Birthday Color for November 8: Silver Gray (`#E2DFE5`)
 

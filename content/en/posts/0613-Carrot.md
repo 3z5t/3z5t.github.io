@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhLYMcZxat0HwjogehSGmpSE0bXwkvDvy7lGRTOCIvIuMGFnLATl2ZmqjkfwlxaHrIeSKC6YyK85enQGMU1PQwA4bOaBzAzkrOnC2UU5v_V001YOHnUsF_C3grFOMe2TFAqJkiMmC1YWD_NbXsxMrYOvFU6mQN8_oZziATcPA2v4QQ35UU9Ha4381A1uRpO=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Carrot, The Birthday Color of June 13"
 date: "2026-06-13"
 updated: "2026-06-13"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "cyan blue"
 description: "The birthday color for June 13 is Carrot (EB731C). Its meaning is Healthy Mind, Vitality, Positivity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhLYMcZxat0HwjogehSGmpSE0bXwkvDvy7lGRTOCIvIuMGFnLATl2ZmqjkfwlxaHrIeSKC6YyK85enQGMU1PQwA4bOaBzAzkrOnC2UU5v_V001YOHnUsF_C3grFOMe2TFAqJkiMmC1YWD_NbXsxMrYOvFU6mQN8_oZziATcPA2v4QQ35UU9Ha4381A1uRpO=s1600"
 en_name: "Carrot"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhLYMcZxat0HwjogehSGmpSE0bXwkvDvy7lGRTOCIvIuMGFnLATl2ZmqjkfwlxaHrIeSKC6YyK85enQGMU1PQwA4bOaBzAzkrOnC2UU5v_V001YOHnUsF_C3grFOMe2TFAqJkiMmC1YWD_NbXsxMrYOvFU6mQN8_oZziATcPA2v4QQ35UU9Ha4381A1uRpO=s1600)
-
 
 ## Birthday Color for June 13: Carrot (`#EB731C`)
 

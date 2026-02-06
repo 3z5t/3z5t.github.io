@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiOl6rWbHnbGS-LfLYBlpzQF6MBhxMW4fkKW3GydkRH5gL06QUXilyMX2v9cWq32TW6AyOQXBtkoesPwP1G3MhudasYRkglVsWNUuB6P1SxJjNoVrM9eScYohuurtrOzObO-XdUXsAqSfnZfPAIMtK7G9hS33YmLT0aEgPG2h_76ayJc4zRfx4pQN-xAXXy=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ノーブルスカイブルー、12月18日の誕生色"
 date: "2026-12-18"
 updated: "2026-12-18"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "バーミリオン"
 description: "12月18日の誕生色 ノーブルスカイブルー(1FBEE3)。色言葉は「きれいな心、希望に満ちた、清涼」です。相性の良い色はバーミリオンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiOl6rWbHnbGS-LfLYBlpzQF6MBhxMW4fkKW3GydkRH5gL06QUXilyMX2v9cWq32TW6AyOQXBtkoesPwP1G3MhudasYRkglVsWNUuB6P1SxJjNoVrM9eScYohuurtrOzObO-XdUXsAqSfnZfPAIMtK7G9hS33YmLT0aEgPG2h_76ayJc4zRfx4pQN-xAXXy=s1600"
 en_name: "Noble Sky Blue"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiOl6rWbHnbGS-LfLYBlpzQF6MBhxMW4fkKW3GydkRH5gL06QUXilyMX2v9cWq32TW6AyOQXBtkoesPwP1G3MhudasYRkglVsWNUuB6P1SxJjNoVrM9eScYohuurtrOzObO-XdUXsAqSfnZfPAIMtK7G9hS33YmLT0aEgPG2h_76ayJc4zRfx4pQN-xAXXy=s1600)
-
 
 ## 12月18日の誕生色: ノーブルスカイブルー (`#1FBEE3`)
 

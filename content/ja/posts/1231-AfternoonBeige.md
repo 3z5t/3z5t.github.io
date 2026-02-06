@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjpRTKsxBrdq5b5LJWX6dnBQJHPq-EyaUjcdPP9k19INYYH_ZL8oymNEFuHTSjHARItYr6Vtz-f20IzzVBQFIf847nnUXnX4TvqrPw1KlKV-Hh3fgnTz-v0lRJ_ygllVrqB0TdO_CP9-y3VZQEbY3ntqd483R9pVQchqVbwocDqCCz2KX1vgaaRtMJwtHIf=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アフタヌーンベージュ、12月31日の誕生色"
 date: "2026-12-31"
 updated: "2026-12-31"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ディープアビス"
 description: "12月31日の誕生色 アフタヌーンベージュ(F5F5F5)。色言葉は「回想を楽しむ、期待感、希望に満ちた」です。相性の良い色はディープアビスです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjpRTKsxBrdq5b5LJWX6dnBQJHPq-EyaUjcdPP9k19INYYH_ZL8oymNEFuHTSjHARItYr6Vtz-f20IzzVBQFIf847nnUXnX4TvqrPw1KlKV-Hh3fgnTz-v0lRJ_ygllVrqB0TdO_CP9-y3VZQEbY3ntqd483R9pVQchqVbwocDqCCz2KX1vgaaRtMJwtHIf=s1600"
 en_name: "Afternoon Beige"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjpRTKsxBrdq5b5LJWX6dnBQJHPq-EyaUjcdPP9k19INYYH_ZL8oymNEFuHTSjHARItYr6Vtz-f20IzzVBQFIf847nnUXnX4TvqrPw1KlKV-Hh3fgnTz-v0lRJ_ygllVrqB0TdO_CP9-y3VZQEbY3ntqd483R9pVQchqVbwocDqCCz2KX1vgaaRtMJwtHIf=s1600)
-
 
 ## 12月31日の誕生色: アフタヌーンベージュ (`#F5F5F5`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiVA8OX8sjFr88e6cgZdmfYopkcBVidy1-7HSdx4M1Yesf20f6D5WPp8-XcB3XpBnwxx6Wbbg72854GdURIfBe2WzUabjAIAVZEzb-eMPzYXv0CxvRxEfMG9zMeyuxdylxMe3a5frlpw6gP5IaxRpgugCEFh9bqcLlBaqW5T-21YBZj4ilTUwyGUZ3-ROMd=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープフォレストティール、12月8日の誕生色"
 date: "2026-12-08"
 updated: "2026-12-08"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "グレープフルーツ"
 description: "12月8日の誕生色 ディープフォレストティール(17896E)。色言葉は「聡明な魂、冷静な知性、静寂」です。相性の良い色はグレープフルーツです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiVA8OX8sjFr88e6cgZdmfYopkcBVidy1-7HSdx4M1Yesf20f6D5WPp8-XcB3XpBnwxx6Wbbg72854GdURIfBe2WzUabjAIAVZEzb-eMPzYXv0CxvRxEfMG9zMeyuxdylxMe3a5frlpw6gP5IaxRpgugCEFh9bqcLlBaqW5T-21YBZj4ilTUwyGUZ3-ROMd=s1600"
 en_name: "Deep Forest Teal"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiVA8OX8sjFr88e6cgZdmfYopkcBVidy1-7HSdx4M1Yesf20f6D5WPp8-XcB3XpBnwxx6Wbbg72854GdURIfBe2WzUabjAIAVZEzb-eMPzYXv0CxvRxEfMG9zMeyuxdylxMe3a5frlpw6gP5IaxRpgugCEFh9bqcLlBaqW5T-21YBZj4ilTUwyGUZ3-ROMd=s1600)
-
 
 ## 12月8日の誕生色: ディープフォレストティール (`#17896E`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhYhqiyP9iPh8aNGdxcBKOOKn4QqRPqc3acUjnsgmJ8nuB7mGyJkFh5uzr3-deSOQWGiXtBeSx4Ho-b95FJ5JbSOD0o_ALJhwWFZT6TWYFnXLMqXGoEVLzjvbpYd0kG4Yhc1HTp-G2QDl8TJ1zHKxmcbUfi0eBjcKDiyhN1uWuiPaYCIOlyAjlH8jpTesnZ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "スモーキーブラック、11月20日の誕生色"
 date: "2026-11-20"
 updated: "2026-11-20"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "スノーホワイト"
 description: "11月20日の誕生色 スモーキーブラック(100F0F)。色言葉は「ほのかな魅力、奥ゆかしい、深みのある」です。相性の良い色はスノーホワイトです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhYhqiyP9iPh8aNGdxcBKOOKn4QqRPqc3acUjnsgmJ8nuB7mGyJkFh5uzr3-deSOQWGiXtBeSx4Ho-b95FJ5JbSOD0o_ALJhwWFZT6TWYFnXLMqXGoEVLzjvbpYd0kG4Yhc1HTp-G2QDl8TJ1zHKxmcbUfi0eBjcKDiyhN1uWuiPaYCIOlyAjlH8jpTesnZ=s1600"
 en_name: "Smoky Black"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhYhqiyP9iPh8aNGdxcBKOOKn4QqRPqc3acUjnsgmJ8nuB7mGyJkFh5uzr3-deSOQWGiXtBeSx4Ho-b95FJ5JbSOD0o_ALJhwWFZT6TWYFnXLMqXGoEVLzjvbpYd0kG4Yhc1HTp-G2QDl8TJ1zHKxmcbUfi0eBjcKDiyhN1uWuiPaYCIOlyAjlH8jpTesnZ=s1600)
-
 
 ## 11月20日の誕生色: スモーキーブラック (`#100F0F`)
 

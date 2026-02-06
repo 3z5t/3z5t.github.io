@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjZLIhiagHOZsugwVh8V2Ly2jQp-PLHHL2HCBQUj1b33YrW2npt-KoGq1YcarkyTJ2fLRBUUJzKV40EvWQE89GyeKlLJgF9FZ4FjM3e02rq9FEzq0iRhmU1OsDPwB_E1SROewGrK0ntllpgvMH6rvUZqPmVSRYAJsratlJCEM8AzaQS1mOMzYELQhLrpN63=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Antique Christmas Gold, The Birthday Color of December 25"
 date: "2026-12-25"
 updated: "2026-12-25"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "deep sora"
 description: "The birthday color for December 25 is Antique Christmas Gold (947E4C). Its meaning is Blessed, Full of Love, Joy of Sharing."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjZLIhiagHOZsugwVh8V2Ly2jQp-PLHHL2HCBQUj1b33YrW2npt-KoGq1YcarkyTJ2fLRBUUJzKV40EvWQE89GyeKlLJgF9FZ4FjM3e02rq9FEzq0iRhmU1OsDPwB_E1SROewGrK0ntllpgvMH6rvUZqPmVSRYAJsratlJCEM8AzaQS1mOMzYELQhLrpN63=s1600"
 en_name: "AntiqueChristmasGold"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjZLIhiagHOZsugwVh8V2Ly2jQp-PLHHL2HCBQUj1b33YrW2npt-KoGq1YcarkyTJ2fLRBUUJzKV40EvWQE89GyeKlLJgF9FZ4FjM3e02rq9FEzq0iRhmU1OsDPwB_E1SROewGrK0ntllpgvMH6rvUZqPmVSRYAJsratlJCEM8AzaQS1mOMzYELQhLrpN63=s1600)
-
 
 ## Birthday Color for December 25: Antique Christmas Gold (`#947E4C`)
 

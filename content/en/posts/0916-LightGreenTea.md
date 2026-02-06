@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj9gACn4C57zO5TLi61zCv3lwhs1IFeqs52UPKkQYu_x0C2BcJAnRYuqsCeRyXq51ByRpC7SBupyFzK7nuFNxZZ4HdyY1n1sqnsGpW0LLgA4L0rNYPlYz8ZFq451prn78MUzlwmPGIeTAWPA9uhM-kGQy3069cYj9JDqXsj9Jy0gyW8F1aIGVUTyNxhToZG=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Light Green Tea, The Birthday Color of September 16"
 date: "2026-09-16"
 updated: "2026-09-16"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "deep ocean"
 description: "The birthday color for September 16 is Light Green Tea (ABA88A). Its meaning is Subtle Charm, Calm, Peaceful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj9gACn4C57zO5TLi61zCv3lwhs1IFeqs52UPKkQYu_x0C2BcJAnRYuqsCeRyXq51ByRpC7SBupyFzK7nuFNxZZ4HdyY1n1sqnsGpW0LLgA4L0rNYPlYz8ZFq451prn78MUzlwmPGIeTAWPA9uhM-kGQy3069cYj9JDqXsj9Jy0gyW8F1aIGVUTyNxhToZG=s1600"
 en_name: "LightGreenTea"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj9gACn4C57zO5TLi61zCv3lwhs1IFeqs52UPKkQYu_x0C2BcJAnRYuqsCeRyXq51ByRpC7SBupyFzK7nuFNxZZ4HdyY1n1sqnsGpW0LLgA4L0rNYPlYz8ZFq451prn78MUzlwmPGIeTAWPA9uhM-kGQy3069cYj9JDqXsj9Jy0gyW8F1aIGVUTyNxhToZG=s1600)
-
 
 ## Birthday Color for September 16: Light Green Tea (`#ABA88A`)
 

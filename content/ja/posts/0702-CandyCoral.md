@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiApiwHJaitK0LrkwsHHY8xekTAKkx0vQMVi2NdjKite5sFFkSsplgWYU1EN0-DQoVoTVbvzq4EEyV1hR8HcnofVizVzxWk3UfvK-s547zcAACQ-qQC7CJv5sJhoaFpv5Kt_3rEgC3L3HX2BG8Gg4qCig8SNzZDp5KC-w3EnzJY4V_mb2LxMO__AKCrhrvz=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "キャンディコーラル、7月2日の誕生色"
 date: "2026-07-02"
 updated: "2026-07-02"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "ティール"
 description: "7月2日の誕生色 キャンディコーラル(F18372)。色言葉は「甘い性格、社交性、親しみ」です。相性の良い色はティールです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiApiwHJaitK0LrkwsHHY8xekTAKkx0vQMVi2NdjKite5sFFkSsplgWYU1EN0-DQoVoTVbvzq4EEyV1hR8HcnofVizVzxWk3UfvK-s547zcAACQ-qQC7CJv5sJhoaFpv5Kt_3rEgC3L3HX2BG8Gg4qCig8SNzZDp5KC-w3EnzJY4V_mb2LxMO__AKCrhrvz=s1600"
 en_name: "Candy Coral"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiApiwHJaitK0LrkwsHHY8xekTAKkx0vQMVi2NdjKite5sFFkSsplgWYU1EN0-DQoVoTVbvzq4EEyV1hR8HcnofVizVzxWk3UfvK-s547zcAACQ-qQC7CJv5sJhoaFpv5Kt_3rEgC3L3HX2BG8Gg4qCig8SNzZDp5KC-w3EnzJY4V_mb2LxMO__AKCrhrvz=s1600)
-
 
 ## 7月2日の誕生色: キャンディコーラル (`#F18372`)
 

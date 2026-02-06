@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgQKxctEw_KUTpkibl3x7r5jn3GPMYYAiCzGC-g4P6X633P6BUcftbeyrUT-B52qVBrmjOFYYtJp1PgtW6y9MEGDxCL7NNvQWsiMYv04JDDSHH5uiZGEqzuUhbixuXwhs1CcNEX11mbGQKSijP0rLqjCu2jR2vYJQ3PwFHzjeI8nyesNWtYVGdkwHlio-Oz=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープクリムゾン、10月8日の誕生色"
 date: "2026-10-08"
 updated: "2026-10-08"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "ターコイズ"
 description: "10月8日の誕生色 ディープクリムゾン(BA0046)。色言葉は「真実の心、純粋な情熱、真正性」です。相性の良い色はターコイズです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgQKxctEw_KUTpkibl3x7r5jn3GPMYYAiCzGC-g4P6X633P6BUcftbeyrUT-B52qVBrmjOFYYtJp1PgtW6y9MEGDxCL7NNvQWsiMYv04JDDSHH5uiZGEqzuUhbixuXwhs1CcNEX11mbGQKSijP0rLqjCu2jR2vYJQ3PwFHzjeI8nyesNWtYVGdkwHlio-Oz=s1600"
 en_name: "Deep Crimson"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgQKxctEw_KUTpkibl3x7r5jn3GPMYYAiCzGC-g4P6X633P6BUcftbeyrUT-B52qVBrmjOFYYtJp1PgtW6y9MEGDxCL7NNvQWsiMYv04JDDSHH5uiZGEqzuUhbixuXwhs1CcNEX11mbGQKSijP0rLqjCu2jR2vYJQ3PwFHzjeI8nyesNWtYVGdkwHlio-Oz=s1600)
-
 
 ## 10月8日の誕生色: ディープクリムゾン (`#BA0046`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgH2ThMWVdaF2g29pdOCf2Kqyyost5C_ygY6Nn7cAlx0Uv9Cm55dm3_8HcxynI91vFK6zWKEeUJ9uVqVtBdhahlCwWDMuhaAvIGEKPk-z4hOQA_ZtnethpgPk3uxG8-OIsbt3-cu8M4H0m8jvgPaMEWxQ1eNyEvqJnqjCBODUXLBIpqMLfsiAmlicor3axB=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "スノークラウド、12月30日の誕生色"
 date: "2026-12-30"
 updated: "2026-12-30"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ディープアビス"
 description: "12月30日の誕生色 スノークラウド(F1F5F7)。色言葉は「深みのある、静寂、神秘的」です。相性の良い色はディープアビスです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgH2ThMWVdaF2g29pdOCf2Kqyyost5C_ygY6Nn7cAlx0Uv9Cm55dm3_8HcxynI91vFK6zWKEeUJ9uVqVtBdhahlCwWDMuhaAvIGEKPk-z4hOQA_ZtnethpgPk3uxG8-OIsbt3-cu8M4H0m8jvgPaMEWxQ1eNyEvqJnqjCBODUXLBIpqMLfsiAmlicor3axB=s1600"
 en_name: "Snow Cloud"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgH2ThMWVdaF2g29pdOCf2Kqyyost5C_ygY6Nn7cAlx0Uv9Cm55dm3_8HcxynI91vFK6zWKEeUJ9uVqVtBdhahlCwWDMuhaAvIGEKPk-z4hOQA_ZtnethpgPk3uxG8-OIsbt3-cu8M4H0m8jvgPaMEWxQ1eNyEvqJnqjCBODUXLBIpqMLfsiAmlicor3axB=s1600)
-
 
 ## 12月30日の誕生色: スノークラウド (`#F1F5F7`)
 

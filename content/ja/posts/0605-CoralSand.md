@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiqEs7qP_-FZGyHTlghvIXIjmSwcvswAiwSkPMhJd6ucfAhZQGdRHwa3lwPCcusspv2EA5f30m5olXUudzOZjlaCinoRODZ-ciqCUJMMl_5CmB-4AsM8C5dKMiQqVj9GuVdVyh2Q0eCGS974cwQnWWQ4S66bAgkqcNm_2g5F_DPY-Xq9DOKxqwO3oboxZe6=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "コーラルサンド、6月5日の誕生色"
 date: "2026-06-05"
 updated: "2026-06-05"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "スチールネイビー"
 description: "6月5日の誕生色 コーラルサンド(FFD0A1)。色言葉は「調和、バランス感覚、包容力」です。相性の良い色はスチールネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiqEs7qP_-FZGyHTlghvIXIjmSwcvswAiwSkPMhJd6ucfAhZQGdRHwa3lwPCcusspv2EA5f30m5olXUudzOZjlaCinoRODZ-ciqCUJMMl_5CmB-4AsM8C5dKMiQqVj9GuVdVyh2Q0eCGS974cwQnWWQ4S66bAgkqcNm_2g5F_DPY-Xq9DOKxqwO3oboxZe6=s1600"
 en_name: "Coral Sand"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiqEs7qP_-FZGyHTlghvIXIjmSwcvswAiwSkPMhJd6ucfAhZQGdRHwa3lwPCcusspv2EA5f30m5olXUudzOZjlaCinoRODZ-ciqCUJMMl_5CmB-4AsM8C5dKMiQqVj9GuVdVyh2Q0eCGS974cwQnWWQ4S66bAgkqcNm_2g5F_DPY-Xq9DOKxqwO3oboxZe6=s1600)
-
 
 ## 6月5日の誕生色: コーラルサンド (`#FFD0A1`)
 

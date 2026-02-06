@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEheZmuIKfJwYYpWrfUT5ExOAPx3MhmZEn39lKYUOyegxQAwIU5RUvoAf8oPegzPM1NnwceXHjGN70frElM7OETaJa0kQg0lk-Y4wjmmZKpvWHunxXPZ-ElhWVu8CHqlcdXBIMOPCDYVJ8LWVbpZJADIrLNV5xxnxzFTxWVlP2rlJw2L2bNBu3JYOe-EJims=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ノーブルアイボリー、12月11日の誕生色"
 date: "2026-12-11"
 updated: "2026-12-11"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ミッドナイトブラック"
 description: "12月11日の誕生色 ノーブルアイボリー(F4EBE7)。色言葉は「高貴な魂、優雅、品格」です。相性の良い色はミッドナイトブラックです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEheZmuIKfJwYYpWrfUT5ExOAPx3MhmZEn39lKYUOyegxQAwIU5RUvoAf8oPegzPM1NnwceXHjGN70frElM7OETaJa0kQg0lk-Y4wjmmZKpvWHunxXPZ-ElhWVu8CHqlcdXBIMOPCDYVJ8LWVbpZJADIrLNV5xxnxzFTxWVlP2rlJw2L2bNBu3JYOe-EJims=s1600"
 en_name: "Noble Ivory"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEheZmuIKfJwYYpWrfUT5ExOAPx3MhmZEn39lKYUOyegxQAwIU5RUvoAf8oPegzPM1NnwceXHjGN70frElM7OETaJa0kQg0lk-Y4wjmmZKpvWHunxXPZ-ElhWVu8CHqlcdXBIMOPCDYVJ8LWVbpZJADIrLNV5xxnxzFTxWVlP2rlJw2L2bNBu3JYOe-EJims=s1600)
-
 
 ## 12月10日の誕生色: ウィンターミルクティー (`#F2EDF3`)
 

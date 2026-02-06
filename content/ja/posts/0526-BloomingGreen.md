@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhjJO0vaBBSnQy7_5hhUDpXs3juns0M07VquzMeeo7zOt--DoCsI10LEps9bfuNgEJRtRsLdxeC_iec6H1WfqzuSeT0irAVlEtK4_ao9V_Vz8aoVKdyWjzgBtrKQU4Z24UeTljLddcY_Ebbt1CQFcpvlFVE9iQm1cHC59rafxlUL3D2feZwgNYj3sP3zi-2=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ブルーミンググリーン、5月26日の誕生色"
 date: "2026-05-26"
 updated: "2026-05-26"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "オータムピンク"
 description: "5月26日の誕生色 ブルーミンググリーン(336666)。色言葉は「成長力、繁栄、豊かさ」です。相性の良い色はオータムピンクです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhjJO0vaBBSnQy7_5hhUDpXs3juns0M07VquzMeeo7zOt--DoCsI10LEps9bfuNgEJRtRsLdxeC_iec6H1WfqzuSeT0irAVlEtK4_ao9V_Vz8aoVKdyWjzgBtrKQU4Z24UeTljLddcY_Ebbt1CQFcpvlFVE9iQm1cHC59rafxlUL3D2feZwgNYj3sP3zi-2=s1600"
 en_name: "Blooming Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhjJO0vaBBSnQy7_5hhUDpXs3juns0M07VquzMeeo7zOt--DoCsI10LEps9bfuNgEJRtRsLdxeC_iec6H1WfqzuSeT0irAVlEtK4_ao9V_Vz8aoVKdyWjzgBtrKQU4Z24UeTljLddcY_Ebbt1CQFcpvlFVE9iQm1cHC59rafxlUL3D2feZwgNYj3sP3zi-2=s1600)
-
 
 ## 5月26日の誕生色: ブルーミンググリーン (`#336666`)
 

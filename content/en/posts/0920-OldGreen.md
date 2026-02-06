@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhxG43tNwvLL594jzS9Kt4w_RdCT42-aG1qPeLEFDgxDPdLR383uUPV4ttYKUU1twHB7OU9zTLFdJg8-lEkAYIi-RiD4vrcPzsMbLMxxabZFutqFf046HSMX96LqXSxp5RCjSXrAOBT7zKR-TqWgh5bkpr10Ehx1PP8ffjJiRWS94_qQhsNrRq5r2SdSvuG=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Old Green, The Birthday Color of September 20"
 date: "2026-09-20"
 updated: "2026-09-20"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "sora blue"
 description: "The birthday color for September 20 is Old Green (726D46). Its meaning is Classical, Wise, Traditional."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhxG43tNwvLL594jzS9Kt4w_RdCT42-aG1qPeLEFDgxDPdLR383uUPV4ttYKUU1twHB7OU9zTLFdJg8-lEkAYIi-RiD4vrcPzsMbLMxxabZFutqFf046HSMX96LqXSxp5RCjSXrAOBT7zKR-TqWgh5bkpr10Ehx1PP8ffjJiRWS94_qQhsNrRq5r2SdSvuG=s1600"
 en_name: "OldGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhxG43tNwvLL594jzS9Kt4w_RdCT42-aG1qPeLEFDgxDPdLR383uUPV4ttYKUU1twHB7OU9zTLFdJg8-lEkAYIi-RiD4vrcPzsMbLMxxabZFutqFf046HSMX96LqXSxp5RCjSXrAOBT7zKR-TqWgh5bkpr10Ehx1PP8ffjJiRWS94_qQhsNrRq5r2SdSvuG=s1600)
-
 
 ## Birthday Color for September 20: Old Green (`#726D46`)
 

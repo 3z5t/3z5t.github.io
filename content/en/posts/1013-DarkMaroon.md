@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhZN6Mlh4f7qar15mFLnY9CTSvE579rWpYxmbbJpUfbZcTSe-EyxgE-1RH5crMvY7uXBvmdvVbcp3TbTgTSspmHK1y5PcT6v0UlZwnClS40ALrcHjChJmqsTfWUR4SZoJ0P5nV77oWqHOI-ZxE8XTdx_QadCa9W3vCENuH9PUosgkyk1Z4uhFIRuHSW5GAY=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Dark Maroon, The Birthday Color of October 13"
 date: "2026-10-13"
 updated: "2026-10-13"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "light cyan"
 description: "The birthday color for October 13 is Dark Maroon (3A0000). Its meaning is Mysterious, Profound, Serene."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhZN6Mlh4f7qar15mFLnY9CTSvE579rWpYxmbbJpUfbZcTSe-EyxgE-1RH5crMvY7uXBvmdvVbcp3TbTgTSspmHK1y5PcT6v0UlZwnClS40ALrcHjChJmqsTfWUR4SZoJ0P5nV77oWqHOI-ZxE8XTdx_QadCa9W3vCENuH9PUosgkyk1Z4uhFIRuHSW5GAY=s1600"
 en_name: "DarkMaroon"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhZN6Mlh4f7qar15mFLnY9CTSvE579rWpYxmbbJpUfbZcTSe-EyxgE-1RH5crMvY7uXBvmdvVbcp3TbTgTSspmHK1y5PcT6v0UlZwnClS40ALrcHjChJmqsTfWUR4SZoJ0P5nV77oWqHOI-ZxE8XTdx_QadCa9W3vCENuH9PUosgkyk1Z4uhFIRuHSW5GAY=s1600)
-
 
 ## Birthday Color for October 13: Dark Maroon (`#3A0000`)
 

@@ -1,21 +1,24 @@
 ---
-"title": "ラベンダーブラッシュ、2月2日の誕生色"
-"date": "2026-02-02"
-"updated": "2026-02-02"
-"labels":
-- "ラベンダーブラッシュ"
-- "誕生色"
-- "2月2日"
-- "FFCCFF"
-- "2月"
-- "ディープフォレスト"
-"description": "2月2日の誕生色 ラベンダーブラッシュ(FFCCFF)。色言葉は「ロマンチック、芸術的、想像力」です。相性の良い色はディープフォレストです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgEdY7HsF5ImC6ORh8-2dKFQ-n0d5msRIL45ZKh-o0z9ebhZjompSHEPR55t-4EFXKGm3rGXdsQjWDoDtw-Rywhli20bcnIeGJYhGZ1mGTFU4h6yMA0F1LWSIvFDgC2mfz9eeAD36QbwOgKHlH1lh5OJ6gSsp_Fv1CWnmVpAvJbHXPoJnzg4kjxlI4rxeet=s1600"
-"en_name": "Lavender Blush"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "327448820690205680"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/22-lavender-blush.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgEdY7HsF5ImC6ORh8-2dKFQ-n0d5msRIL45ZKh-o0z9ebhZjompSHEPR55t-4EFXKGm3rGXdsQjWDoDtw-Rywhli20bcnIeGJYhGZ1mGTFU4h6yMA0F1LWSIvFDgC2mfz9eeAD36QbwOgKHlH1lh5OJ6gSsp_Fv1CWnmVpAvJbHXPoJnzg4kjxlI4rxeet=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ラベンダーブラッシュ、2月2日の誕生色"
+date: "2026-02-02"
+updated: "2026-02-02"
+tags:
+  - "ラベンダーブラッシュ"
+  - "誕生色"
+  - "2月2日"
+  - "FFCCFF"
+  - "2月"
+  - "ディープフォレスト"
+description: "2月2日の誕生色 ラベンダーブラッシュ(FFCCFF)。色言葉は「ロマンチック、芸術的、想像力」です。相性の良い色はディープフォレストです。"
+en_name: "Lavender Blush"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "327448820690205680"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/22-lavender-blush.html"
 ---
 
 ## 2月2日の誕生色: ラベンダーブラッシュ (`#FFCCFF`)

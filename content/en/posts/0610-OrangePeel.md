@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhxMFgsnfg30w2CE2N_EnFtW0bjbFSHolzbd4_9Tg8cgSscxYfoW3vHEqdece5UJYALdKBeYnICwtbyBf0tDwvjT1TDKSma4TJtxF_dBKlQ_VdWRSX5OgMzJPTChZkfDvcYnOuKo-DjkHMIaAXAuQfAwlArggjZ31jx3hNc1CEvjIBLbeK_Au5rq__gNMf6=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Orange Peel, The Birthday Color of June 10"
 date: "2026-06-10"
 updated: "2026-06-10"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "royal blue"
 description: "The birthday color for June 10 is Orange Peel (FF9900). Its meaning is Bright Energy, Joy, Creativity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhxMFgsnfg30w2CE2N_EnFtW0bjbFSHolzbd4_9Tg8cgSscxYfoW3vHEqdece5UJYALdKBeYnICwtbyBf0tDwvjT1TDKSma4TJtxF_dBKlQ_VdWRSX5OgMzJPTChZkfDvcYnOuKo-DjkHMIaAXAuQfAwlArggjZ31jx3hNc1CEvjIBLbeK_Au5rq__gNMf6=s1600"
 en_name: "OrangePeel"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhxMFgsnfg30w2CE2N_EnFtW0bjbFSHolzbd4_9Tg8cgSscxYfoW3vHEqdece5UJYALdKBeYnICwtbyBf0tDwvjT1TDKSma4TJtxF_dBKlQ_VdWRSX5OgMzJPTChZkfDvcYnOuKo-DjkHMIaAXAuQfAwlArggjZ31jx3hNc1CEvjIBLbeK_Au5rq__gNMf6=s1600)
-
 
 ## Birthday Color for June 10: Orange Peel (`#FF9900`)
 

@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-19'
-description: The birthday color for January 19 is Deep Sora (667CB8). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgTukwChzuEVr7RQCUGZrRodw76u2JfnV0p6Ow1mtlcrCv6VoPPo8fRsy4wkCjaMYTcOHpp8dwluJP49PPmPoQtHvGLg0ZrKgNWu7dBPYss40wUedQ-Gb3w6CBPYlVlVZBy7rCrHFPXExWaNwM1FUF14JOUB8kD_ihJ-X4NjerwhNnyZY-te_eRbDL7wFTc=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-19"
+description: "The birthday color for January 19 is Deep Sora (667CB8). Its meaning"
   is Sincerity, Diligence, Responsibility.
-en_name: DeepSora
+en_name: "DeepSora"
 tags:
-- deep sora
-- birthday color
-- january 19
-- 667cb8
-- january
-- antique christmas gold
-postId: '5912426696914296628'
-postUrl: https://the366days-en.blogspot.com/2026/01/deep-sora-birthday-color-of-january-19.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgTukwChzuEVr7RQCUGZrRodw76u2JfnV0p6Ow1mtlcrCv6VoPPo8fRsy4wkCjaMYTcOHpp8dwluJP49PPmPoQtHvGLg0ZrKgNWu7dBPYss40wUedQ-Gb3w6CBPYlVlVZBy7rCrHFPXExWaNwM1FUF14JOUB8kD_ihJ-X4NjerwhNnyZY-te_eRbDL7wFTc=s1600
-title: Deep Sora, The Birthday Color of January 19
-updated: '2026-01-19'
+  - "deep sora"
+  - "birthday color"
+  - "january 19"
+  - "667cb8"
+  - "january"
+  - "antique christmas gold"
+postId: "5912426696914296628"
+postUrl: "https://the366days-en.blogspot.com/2026/01/deep-sora-birthday-color-of-january-19.html"
+profileName: "Pieces of a Day"
+title: "Deep Sora, The Birthday Color of January 19"
+updated: "2026-01-19"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgTukwChzuEVr7RQCUGZrRodw76u2JfnV0p6Ow1mtlcrCv6VoPPo8fRsy4wkCjaMYTcOHpp8dwluJP49PPmPoQtHvGLg0ZrKgNWu7dBPYss40wUedQ-Gb3w6CBPYlVlVZBy7rCrHFPXExWaNwM1FUF14JOUB8kD_ihJ-X4NjerwhNnyZY-te_eRbDL7wFTc=s1600)
-
 
 ## Birthday Color for January 19: Deep Sora (`#667CB8`)
 

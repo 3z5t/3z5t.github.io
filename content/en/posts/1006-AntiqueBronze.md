@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiAk2CLQxZkG14Rv-_eo11j2qVOCXlXOnrh-29aW7BLu6DnQDbAtT9XdJLQ9EIDDwl8ZGsodj3-7bDG0JAm6ixOQ9ozy17GdlnfEXs_bQeFdSRqlc7aPMXe_lBpG1uQtX3ld_-KktSFkdnW3CZ5XtCsUpmOGd_xcXFvvmnZvC0S-SBJLdYapZPtIFUei2hx=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Antique Bronze, The Birthday Color of October 6"
 date: "2026-10-06"
 updated: "2026-10-06"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "elegant jade"
 description: "The birthday color for October 6 is Antique Bronze (9B6066). Its meaning is Classical, Sturdy, Valuable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiAk2CLQxZkG14Rv-_eo11j2qVOCXlXOnrh-29aW7BLu6DnQDbAtT9XdJLQ9EIDDwl8ZGsodj3-7bDG0JAm6ixOQ9ozy17GdlnfEXs_bQeFdSRqlc7aPMXe_lBpG1uQtX3ld_-KktSFkdnW3CZ5XtCsUpmOGd_xcXFvvmnZvC0S-SBJLdYapZPtIFUei2hx=s1600"
 en_name: "AntiqueBronze"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiAk2CLQxZkG14Rv-_eo11j2qVOCXlXOnrh-29aW7BLu6DnQDbAtT9XdJLQ9EIDDwl8ZGsodj3-7bDG0JAm6ixOQ9ozy17GdlnfEXs_bQeFdSRqlc7aPMXe_lBpG1uQtX3ld_-KktSFkdnW3CZ5XtCsUpmOGd_xcXFvvmnZvC0S-SBJLdYapZPtIFUei2hx=s1600)
-
 
 ## Birthday Color for October 6: Antique Bronze (`#9B6066`)
 

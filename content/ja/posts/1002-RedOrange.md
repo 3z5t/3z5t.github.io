@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhaiWdl8CGHFdlCVVx4N9rrr9VqFxwKVxgNc0zz5w3booNpi5f2WQec1rZV8hNZquN0OlqMtEQQMyYfqmL42TsgI1zpbpIvLLdQKpmKJHG-CT8zwuBmwfq1ECXTLLxivQwbvEBXjOcfa7vk4JF30wgS_Nc7TLMYMpl5bs37pZmYx1YQaCmJKBXC6kjxOSu1=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "レッドオレンジ、10月2日の誕生色"
 date: "2026-10-02"
 updated: "2026-10-02"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "ノーブルスカイブルー"
 description: "10月2日の誕生色 レッドオレンジ(FF3333)。色言葉は「生動感、活力あふれる、ダイナミック」です。相性の良い色はノーブルスカイブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhaiWdl8CGHFdlCVVx4N9rrr9VqFxwKVxgNc0zz5w3booNpi5f2WQec1rZV8hNZquN0OlqMtEQQMyYfqmL42TsgI1zpbpIvLLdQKpmKJHG-CT8zwuBmwfq1ECXTLLxivQwbvEBXjOcfa7vk4JF30wgS_Nc7TLMYMpl5bs37pZmYx1YQaCmJKBXC6kjxOSu1=s1600"
 en_name: "Red Orange"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhaiWdl8CGHFdlCVVx4N9rrr9VqFxwKVxgNc0zz5w3booNpi5f2WQec1rZV8hNZquN0OlqMtEQQMyYfqmL42TsgI1zpbpIvLLdQKpmKJHG-CT8zwuBmwfq1ECXTLLxivQwbvEBXjOcfa7vk4JF30wgS_Nc7TLMYMpl5bs37pZmYx1YQaCmJKBXC6kjxOSu1=s1600)
-
 
 ## 10月2日の誕生色: レッドオレンジ (`#FF3333`)
 

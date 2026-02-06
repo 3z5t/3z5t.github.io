@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi7y4nhk9K5CKSaN8utUg2UVDNLjBSAHtFnI9p_Z-Gw9unF4YVy7qQ5QCJis_Nv-nxVH9vEaUO_KVevypdxDHtXpRAdmi22cmgQwFNhosIZpSNOPf-N27IkWdgKJHAbN4o3T2O0yphH5HBejjS0gVjfBUmiFs3AEwRXTLWXF8droSKgB0lRti2o9cV9HwCo=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Smoky Black, The Birthday Color of November 20"
 date: "2026-11-20"
 updated: "2026-11-20"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "snow white"
 description: "The birthday color for November 20 is Smoky Black (100F0F). Its meaning is Subtle Charm, Deep, Profound."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi7y4nhk9K5CKSaN8utUg2UVDNLjBSAHtFnI9p_Z-Gw9unF4YVy7qQ5QCJis_Nv-nxVH9vEaUO_KVevypdxDHtXpRAdmi22cmgQwFNhosIZpSNOPf-N27IkWdgKJHAbN4o3T2O0yphH5HBejjS0gVjfBUmiFs3AEwRXTLWXF8droSKgB0lRti2o9cV9HwCo=s1600"
 en_name: "SmokyBlack"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi7y4nhk9K5CKSaN8utUg2UVDNLjBSAHtFnI9p_Z-Gw9unF4YVy7qQ5QCJis_Nv-nxVH9vEaUO_KVevypdxDHtXpRAdmi22cmgQwFNhosIZpSNOPf-N27IkWdgKJHAbN4o3T2O0yphH5HBejjS0gVjfBUmiFs3AEwRXTLWXF8droSKgB0lRti2o9cV9HwCo=s1600)
-
 
 ## Birthday Color for November 20: Smoky Black (`#100F0F`)
 

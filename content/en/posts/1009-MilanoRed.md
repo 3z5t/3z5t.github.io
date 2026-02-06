@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhr1DfQeLmcx8QsvPv_RwCu_qaIOL8OYoSzISRUeQ54KFlzbbVv-a1js1rB5DM9guNz9zVndXPoMr7r7YVooFEgt3135vNp_hbOQ3PmzgmMU2zOFyl7nnnlkbJx-eJV2iftDe2dVqXZYH1Op_uAqRIRvILRWb9TimlPURTAj0b9Q1dYfHbEkRYD0rsbIpZf=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Milano Red, The Birthday Color of October 9"
 date: "2026-10-09"
 updated: "2026-10-09"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "soft downy"
 description: "The birthday color for October 9 is Milano Red (993333). Its meaning is Classical, Elegant, Dignified."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhr1DfQeLmcx8QsvPv_RwCu_qaIOL8OYoSzISRUeQ54KFlzbbVv-a1js1rB5DM9guNz9zVndXPoMr7r7YVooFEgt3135vNp_hbOQ3PmzgmMU2zOFyl7nnnlkbJx-eJV2iftDe2dVqXZYH1Op_uAqRIRvILRWb9TimlPURTAj0b9Q1dYfHbEkRYD0rsbIpZf=s1600"
 en_name: "MilanoRed"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhr1DfQeLmcx8QsvPv_RwCu_qaIOL8OYoSzISRUeQ54KFlzbbVv-a1js1rB5DM9guNz9zVndXPoMr7r7YVooFEgt3135vNp_hbOQ3PmzgmMU2zOFyl7nnnlkbJx-eJV2iftDe2dVqXZYH1Op_uAqRIRvILRWb9TimlPURTAj0b9Q1dYfHbEkRYD0rsbIpZf=s1600)
-
 
 ## Birthday Color for October 9: Milano Red (`#993333`)
 

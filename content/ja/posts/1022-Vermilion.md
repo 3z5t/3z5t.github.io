@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgYt8R3qopy0D3kxZjngkLlhx5zovNENDEfKJB5DI2vdTcdkOT6xiYmipbI91hp1YBLnv5sBq7P_jrGWXP2w1bsu-hhyrKvHbV1jeJrsQ4rkgcRlfZKdwZK9mpipFQAzGYS5Do3tHPl9F5YythSE-y-9aStO5vPV383O4o5dRwZesfadLXBYe8l8SR89Qc5=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "バーミリオン、10月22日の誕生色"
 date: "2026-10-22"
 updated: "2026-10-22"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "ノーブルスカイブルー"
 description: "10月22日の誕生色 バーミリオン(E34234)。色言葉は「生命力、活気ある、情熱的」です。相性の良い色はノーブルスカイブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgYt8R3qopy0D3kxZjngkLlhx5zovNENDEfKJB5DI2vdTcdkOT6xiYmipbI91hp1YBLnv5sBq7P_jrGWXP2w1bsu-hhyrKvHbV1jeJrsQ4rkgcRlfZKdwZK9mpipFQAzGYS5Do3tHPl9F5YythSE-y-9aStO5vPV383O4o5dRwZesfadLXBYe8l8SR89Qc5=s1600"
 en_name: "Vermilion"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgYt8R3qopy0D3kxZjngkLlhx5zovNENDEfKJB5DI2vdTcdkOT6xiYmipbI91hp1YBLnv5sBq7P_jrGWXP2w1bsu-hhyrKvHbV1jeJrsQ4rkgcRlfZKdwZK9mpipFQAzGYS5Do3tHPl9F5YythSE-y-9aStO5vPV383O4o5dRwZesfadLXBYe8l8SR89Qc5=s1600)
-
 
 ## 10月22日の誕生色: バーミリオン (`#E34234`)
 

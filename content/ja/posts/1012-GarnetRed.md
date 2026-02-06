@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgakSy4Mz6Py_VbcYmwROao_i8d5e7AT7lHJUnFZ-TIkrSQbstZ62DbHLTnJzBO-CNE6pW4JwFae9WzIpQa1GaLjpfurGuOj5caolxpaXok8GqqPz33qgT2au7sQtqdkZ1Lt820lNsF6BSErmudJKYk6f8ymWCkYb0JfYtqUe4kqwcm9Y27m14GJtPFKfL5=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ガーネットレッド、10月12日の誕生色"
 date: "2026-10-12"
 updated: "2026-10-12"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "ベビーブルー"
 description: "10月12日の誕生色 ガーネットレッド(AA0000)。色言葉は「固い意志、情熱的、強靭」です。相性の良い色はベビーブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgakSy4Mz6Py_VbcYmwROao_i8d5e7AT7lHJUnFZ-TIkrSQbstZ62DbHLTnJzBO-CNE6pW4JwFae9WzIpQa1GaLjpfurGuOj5caolxpaXok8GqqPz33qgT2au7sQtqdkZ1Lt820lNsF6BSErmudJKYk6f8ymWCkYb0JfYtqUe4kqwcm9Y27m14GJtPFKfL5=s1600"
 en_name: "Garnet Red"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgakSy4Mz6Py_VbcYmwROao_i8d5e7AT7lHJUnFZ-TIkrSQbstZ62DbHLTnJzBO-CNE6pW4JwFae9WzIpQa1GaLjpfurGuOj5caolxpaXok8GqqPz33qgT2au7sQtqdkZ1Lt820lNsF6BSErmudJKYk6f8ymWCkYb0JfYtqUe4kqwcm9Y27m14GJtPFKfL5=s1600)
-
 
 ## 10月12日の誕生色: ガーネットレッド (`#AA0000`)
 

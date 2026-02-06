@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjEgYhUWQmPM0EvuHOTo4w-4WsXLWArLk3lcOuB0lc_WhLjEz3p7pSXUj9vQn3jonjYdBY4Sf2QFo7QG3Jy6umhrvdjSSKAJO4BUtD57CyncAj8870T5cAsYDOi0wzbRCLN6K35E4T_T8GJF3edC9ZSrZoZ7LCWx9bWJxKA20mTw1t2ih5eE8TxOrXMkh9Z=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Fine Sand, The Birthday Color of September 11"
 date: "2026-09-11"
 updated: "2026-09-11"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "deep forest"
 description: "The birthday color for September 11 is Fine Sand (EEE9E2). Its meaning is Pure Heart, Natural, Peaceful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjEgYhUWQmPM0EvuHOTo4w-4WsXLWArLk3lcOuB0lc_WhLjEz3p7pSXUj9vQn3jonjYdBY4Sf2QFo7QG3Jy6umhrvdjSSKAJO4BUtD57CyncAj8870T5cAsYDOi0wzbRCLN6K35E4T_T8GJF3edC9ZSrZoZ7LCWx9bWJxKA20mTw1t2ih5eE8TxOrXMkh9Z=s1600"
 en_name: "FineSand"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjEgYhUWQmPM0EvuHOTo4w-4WsXLWArLk3lcOuB0lc_WhLjEz3p7pSXUj9vQn3jonjYdBY4Sf2QFo7QG3Jy6umhrvdjSSKAJO4BUtD57CyncAj8870T5cAsYDOi0wzbRCLN6K35E4T_T8GJF3edC9ZSrZoZ7LCWx9bWJxKA20mTw1t2ih5eE8TxOrXMkh9Z=s1600)
-
 
 ## Birthday Color for September 11: Fine Sand (`#EEE9E2`)
 

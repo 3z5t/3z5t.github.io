@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgZL4SdLYHGitxXAwCU0ccRcPFfPWDYEyaSJoWVZxSvFxdNZg_IDcfleuV2eawSOcc2_qxg8oBSGeKVHfO6SaN_xfhUMkBjndGatDSjlwWMU_fX7206SVqA7CdE77b_k3tKO39VHtUS6WEu0KcOWwIryfBMkvFolxG_LRcO81DhXasVlAEdlAQPkHflwkdj=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "フォレストグリーン、4月28日の誕生色"
 date: "2026-04-28"
 updated: "2026-04-28"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "マゼンタバイオレット"
 description: "4月28日の誕生色 フォレストグリーン(228B22)。色言葉は「自然親和、生命力、平和」です。相性の良い色はマゼンタバイオレットです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgZL4SdLYHGitxXAwCU0ccRcPFfPWDYEyaSJoWVZxSvFxdNZg_IDcfleuV2eawSOcc2_qxg8oBSGeKVHfO6SaN_xfhUMkBjndGatDSjlwWMU_fX7206SVqA7CdE77b_k3tKO39VHtUS6WEu0KcOWwIryfBMkvFolxG_LRcO81DhXasVlAEdlAQPkHflwkdj=s1600"
 en_name: "Forest Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgZL4SdLYHGitxXAwCU0ccRcPFfPWDYEyaSJoWVZxSvFxdNZg_IDcfleuV2eawSOcc2_qxg8oBSGeKVHfO6SaN_xfhUMkBjndGatDSjlwWMU_fX7206SVqA7CdE77b_k3tKO39VHtUS6WEu0KcOWwIryfBMkvFolxG_LRcO81DhXasVlAEdlAQPkHflwkdj=s1600)
-
 
 ## 4月28日の誕生色: フォレストグリーン (`#228B22`)
 

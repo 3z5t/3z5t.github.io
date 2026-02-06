@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjhXaD1gii4NCV_m4qDKqhi858QAHWBlg6DVY4mSfaBMouH4dffl-FKdiW77f6emVp8Hd4ddlQnaMUS1vTmhgcjlXWUc8hNooMxqF5eWfdvwh7PeGELat0G3avJmsssZAvCQGESd0HftW0fztFtu-f_5V5Pglc9dn90ApT7CjpjCeMDnIzV-CcDLWBkkTs_=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Soft Olive, The Birthday Color of October 30"
 date: "2026-10-30"
 updated: "2026-10-30"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "dusty purple"
 description: "The birthday color for October 30 is Soft Olive (7E9682). Its meaning is Calm, Stable, Peaceful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjhXaD1gii4NCV_m4qDKqhi858QAHWBlg6DVY4mSfaBMouH4dffl-FKdiW77f6emVp8Hd4ddlQnaMUS1vTmhgcjlXWUc8hNooMxqF5eWfdvwh7PeGELat0G3avJmsssZAvCQGESd0HftW0fztFtu-f_5V5Pglc9dn90ApT7CjpjCeMDnIzV-CcDLWBkkTs_=s1600"
 en_name: "SoftOlive"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjhXaD1gii4NCV_m4qDKqhi858QAHWBlg6DVY4mSfaBMouH4dffl-FKdiW77f6emVp8Hd4ddlQnaMUS1vTmhgcjlXWUc8hNooMxqF5eWfdvwh7PeGELat0G3avJmsssZAvCQGESd0HftW0fztFtu-f_5V5Pglc9dn90ApT7CjpjCeMDnIzV-CcDLWBkkTs_=s1600)
-
 
 ## Birthday Color for October 30: Soft Olive (`#7E9682`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhYh_y_JGWPhTGdGM2Hmk1_UDy54g0ena5ATlsk6oUY5cKMkprEikbex0h_q8nBn7LABMsk8qsJvjvsPvjwmANU9ENZuv7CpQt90MWdkk5fSjIpj0x8eV6-4MuWjkkMv5bJ9sdkshyWEBowd74fvhI-RIL4HOq3ZbuHHMPV0ZON-1P_kmWY0dz083B5O99N=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Emerald Green, The Birthday Color of April 3"
 date: "2026-04-03"
 updated: "2026-04-03"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "wild strawberry"
 description: "The birthday color for April 3 is Emerald Green (00CC66). Its meaning is Youthful Spirit, Growth, Hope."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhYh_y_JGWPhTGdGM2Hmk1_UDy54g0ena5ATlsk6oUY5cKMkprEikbex0h_q8nBn7LABMsk8qsJvjvsPvjwmANU9ENZuv7CpQt90MWdkk5fSjIpj0x8eV6-4MuWjkkMv5bJ9sdkshyWEBowd74fvhI-RIL4HOq3ZbuHHMPV0ZON-1P_kmWY0dz083B5O99N=s1600"
 en_name: "EmeraldGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhYh_y_JGWPhTGdGM2Hmk1_UDy54g0ena5ATlsk6oUY5cKMkprEikbex0h_q8nBn7LABMsk8qsJvjvsPvjwmANU9ENZuv7CpQt90MWdkk5fSjIpj0x8eV6-4MuWjkkMv5bJ9sdkshyWEBowd74fvhI-RIL4HOq3ZbuHHMPV0ZON-1P_kmWY0dz083B5O99N=s1600)
-
 
 ## Birthday Color for April 3: Emerald Green (`#00CC66`)
 

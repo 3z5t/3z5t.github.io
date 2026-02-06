@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhcEptocaLIKv4bUQ7SS8T2vLbN3_i2clR4Ua6VXUtDgvZjAHi_EGhu6ostmszrP8FCHxgqyb2jwh8ud7LIXDZd67cRFP2ExqN6he43CwhkrCMqI3LHBj7ldYZSAYODc9Hy-kK8kM6_atShl3QyXTQOCocY3FrGyeyKOldwIhRCCwX2Fuq1FHrQt51ADvWY=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ダークフォレストグレー、12月19日の誕生色"
 date: "2026-12-19"
 updated: "2026-12-19"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "フォグピンク"
 description: "12月19日の誕生色 ダークフォレストグレー(2A3A2F)。色言葉は「深みのある、落ち着き、安定」です。相性の良い色はフォグピンクです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhcEptocaLIKv4bUQ7SS8T2vLbN3_i2clR4Ua6VXUtDgvZjAHi_EGhu6ostmszrP8FCHxgqyb2jwh8ud7LIXDZd67cRFP2ExqN6he43CwhkrCMqI3LHBj7ldYZSAYODc9Hy-kK8kM6_atShl3QyXTQOCocY3FrGyeyKOldwIhRCCwX2Fuq1FHrQt51ADvWY=s1600"
 en_name: "Dark Forest Gray"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhcEptocaLIKv4bUQ7SS8T2vLbN3_i2clR4Ua6VXUtDgvZjAHi_EGhu6ostmszrP8FCHxgqyb2jwh8ud7LIXDZd67cRFP2ExqN6he43CwhkrCMqI3LHBj7ldYZSAYODc9Hy-kK8kM6_atShl3QyXTQOCocY3FrGyeyKOldwIhRCCwX2Fuq1FHrQt51ADvWY=s1600)
-
 
 ## 12月19日の誕生色: ダークフォレストグレー (`#2A3A2F`)
 

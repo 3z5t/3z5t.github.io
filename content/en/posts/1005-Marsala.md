@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgysjjAM4hgwdORdu6O687D8zPI6lhKIkF-z8WhgfCwVfbO4JrxI9Y0IgcN73wSEkSL4pQWtPnOWV3JQELIN0BGPQE9WSZXwG2dZ6jbmGFjH8zWHcBxWCCdGyijFHQH6_F06rT9AcQO5d5rsm2AvjTZkefCwa4f3Jp-4fdscIm-ckzqXCuaLnW39srqFJY7=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Marsala, The Birthday Color of October 5"
 date: "2026-10-05"
 updated: "2026-10-05"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "deep sage green"
 description: "The birthday color for October 5 is Marsala (E9AEA7). Its meaning is Sophisticated, Classy, Elegant."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgysjjAM4hgwdORdu6O687D8zPI6lhKIkF-z8WhgfCwVfbO4JrxI9Y0IgcN73wSEkSL4pQWtPnOWV3JQELIN0BGPQE9WSZXwG2dZ6jbmGFjH8zWHcBxWCCdGyijFHQH6_F06rT9AcQO5d5rsm2AvjTZkefCwa4f3Jp-4fdscIm-ckzqXCuaLnW39srqFJY7=s1600"
 en_name: "Marsala"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgysjjAM4hgwdORdu6O687D8zPI6lhKIkF-z8WhgfCwVfbO4JrxI9Y0IgcN73wSEkSL4pQWtPnOWV3JQELIN0BGPQE9WSZXwG2dZ6jbmGFjH8zWHcBxWCCdGyijFHQH6_F06rT9AcQO5d5rsm2AvjTZkefCwa4f3Jp-4fdscIm-ckzqXCuaLnW39srqFJY7=s1600)
-
 
 ## Birthday Color for October 5: Marsala (`#E9AEA7`)
 

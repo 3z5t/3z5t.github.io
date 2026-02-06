@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhoALH0FhsD-zUMSmoxyrHJfbcNmB509z26ksnmqDxOXrYhu_-R57bYHAu9-iPU8leEavt2gCpyYTNUAPke3AorgqeCZbkFI32jbAcn57HMqwzav0lZEuNAmovtNncYe2qVmJw0gbd4XOWDZ_xOat6nHlX0Gjz83yhmMk4t9RFUEOX-hsV2fv4QpOo_uGiD=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Snow Cloud, The Birthday Color of December 30"
 date: "2026-12-30"
 updated: "2026-12-30"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "deep abyss"
 description: "The birthday color for December 30 is Snow Cloud (F1F5F7). Its meaning is Profound, Serene, Mysterious."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhoALH0FhsD-zUMSmoxyrHJfbcNmB509z26ksnmqDxOXrYhu_-R57bYHAu9-iPU8leEavt2gCpyYTNUAPke3AorgqeCZbkFI32jbAcn57HMqwzav0lZEuNAmovtNncYe2qVmJw0gbd4XOWDZ_xOat6nHlX0Gjz83yhmMk4t9RFUEOX-hsV2fv4QpOo_uGiD=s1600"
 en_name: "SnowCloud"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhoALH0FhsD-zUMSmoxyrHJfbcNmB509z26ksnmqDxOXrYhu_-R57bYHAu9-iPU8leEavt2gCpyYTNUAPke3AorgqeCZbkFI32jbAcn57HMqwzav0lZEuNAmovtNncYe2qVmJw0gbd4XOWDZ_xOat6nHlX0Gjz83yhmMk4t9RFUEOX-hsV2fv4QpOo_uGiD=s1600)
-
 
 ## Birthday Color for December 30: Snow Cloud (`#F1F5F7`)
 

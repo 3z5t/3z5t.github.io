@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgbCunLohoqbo_8k5-XcG5dz2xwoqsVymSbLCDlDdlH18naUbRMxCfm_byEPu5OkJT_ivY67h38rICb_BuiB8Je6_SnMFSjateOfAx1KLz46C2LVQ-5UZrbZjEqeAXE0F607eATbToqqaEnk4C2dstqzZqeqAQEvk0e_bA3tvEd4TB_GJ0NIeyAPnYXDstD=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Midnight Black, The Birthday Color of December 13"
 date: "2026-12-13"
 updated: "2026-12-13"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "fine sand"
 description: "The birthday color for December 13 is Midnight Black (141618). Its meaning is Profound Soul, Meditative, Serene."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgbCunLohoqbo_8k5-XcG5dz2xwoqsVymSbLCDlDdlH18naUbRMxCfm_byEPu5OkJT_ivY67h38rICb_BuiB8Je6_SnMFSjateOfAx1KLz46C2LVQ-5UZrbZjEqeAXE0F607eATbToqqaEnk4C2dstqzZqeqAQEvk0e_bA3tvEd4TB_GJ0NIeyAPnYXDstD=s1600"
 en_name: "MidnightBlack"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgbCunLohoqbo_8k5-XcG5dz2xwoqsVymSbLCDlDdlH18naUbRMxCfm_byEPu5OkJT_ivY67h38rICb_BuiB8Je6_SnMFSjateOfAx1KLz46C2LVQ-5UZrbZjEqeAXE0F607eATbToqqaEnk4C2dstqzZqeqAQEvk0e_bA3tvEd4TB_GJ0NIeyAPnYXDstD=s1600)
-
 
 ## Birthday Color for December 13: Midnight Black (`#141618`)
 

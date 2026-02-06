@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-03'
-description: The birthday color for January 3 is Urban Silver (808080). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh7sEVaZpNd7o8f32CO9hAa32Y_ax0ODVIH0ofFVHl3YuRtnTGPXBk7D4Q2HUgCpowlIoqe-QfN96Vf4Z_zUHt8_HVN2WwgkSMeTkNAwyQlmefPqbji20dqLMW7dPoJ9-sZQgxG29Kydd3Vpg4oHpHh4w0t3szqSPin6AAClwfjQvxqcJP06ibu0Cub19xv=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-03"
+description: "The birthday color for January 3 is Urban Silver (808080). Its meaning"
   is Mediation, Balanced, Insightful.
-en_name: UrbanSilver
+en_name: "UrbanSilver"
 tags:
-- urban silver
-- birthday color
-- january 3
-- '808080'
-- january
-- soft mauve
-postId: '3055780461524744690'
-postUrl: https://the366days-en.blogspot.com/2026/01/urban-silver-birthday-color-of-january-3.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEh7sEVaZpNd7o8f32CO9hAa32Y_ax0ODVIH0ofFVHl3YuRtnTGPXBk7D4Q2HUgCpowlIoqe-QfN96Vf4Z_zUHt8_HVN2WwgkSMeTkNAwyQlmefPqbji20dqLMW7dPoJ9-sZQgxG29Kydd3Vpg4oHpHh4w0t3szqSPin6AAClwfjQvxqcJP06ibu0Cub19xv=s1600
-title: Urban Silver, The Birthday Color of January 3
-updated: '2026-01-03'
+  - "urban silver"
+  - "birthday color"
+  - "january 3"
+  - "808080"
+  - "january"
+  - "soft mauve"
+postId: "3055780461524744690"
+postUrl: "https://the366days-en.blogspot.com/2026/01/urban-silver-birthday-color-of-january-3.html"
+profileName: "Pieces of a Day"
+title: "Urban Silver, The Birthday Color of January 3"
+updated: "2026-01-03"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh7sEVaZpNd7o8f32CO9hAa32Y_ax0ODVIH0ofFVHl3YuRtnTGPXBk7D4Q2HUgCpowlIoqe-QfN96Vf4Z_zUHt8_HVN2WwgkSMeTkNAwyQlmefPqbji20dqLMW7dPoJ9-sZQgxG29Kydd3Vpg4oHpHh4w0t3szqSPin6AAClwfjQvxqcJP06ibu0Cub19xv=s1600)
-
 
 ## Birthday Color for January 3: Urban Silver (`#808080`)
 

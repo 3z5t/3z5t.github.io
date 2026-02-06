@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgAhoZj_E_vT0a-28A1OcUT9v3W1dI5r2Hp47YspYK7tHv68BMo_j9GAmFthS5IpuawtwMYU6QWEd5_8UfihMkd0mvW1u9Ehyf8iW38gF7TuTE47P3ceFjdY9yRZcEyS57RFmByqe995KtL5EQ8jiIsd4V55ogftxzVECdtNkyMs8RsjODzT65SAh4dsQwl=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ミラノレッド、10月9日の誕生色"
 date: "2026-10-09"
 updated: "2026-10-09"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "ソフトダウニー"
 description: "10月9日の誕生色 ミラノレッド(993333)。色言葉は「古典的、優雅、品位」です。相性の良い色はソフトダウニーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgAhoZj_E_vT0a-28A1OcUT9v3W1dI5r2Hp47YspYK7tHv68BMo_j9GAmFthS5IpuawtwMYU6QWEd5_8UfihMkd0mvW1u9Ehyf8iW38gF7TuTE47P3ceFjdY9yRZcEyS57RFmByqe995KtL5EQ8jiIsd4V55ogftxzVECdtNkyMs8RsjODzT65SAh4dsQwl=s1600"
 en_name: "Milano Red"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgAhoZj_E_vT0a-28A1OcUT9v3W1dI5r2Hp47YspYK7tHv68BMo_j9GAmFthS5IpuawtwMYU6QWEd5_8UfihMkd0mvW1u9Ehyf8iW38gF7TuTE47P3ceFjdY9yRZcEyS57RFmByqe995KtL5EQ8jiIsd4V55ogftxzVECdtNkyMs8RsjODzT65SAh4dsQwl=s1600)
-
 
 ## 10月9日の誕生色: ミラノレッド (`#993333`)
 

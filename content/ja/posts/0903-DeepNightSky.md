@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhTYyUbkUsiN1xfnxtdR8oJKbTJcAcQ4RXi9-2bSHIDn00NVP2jFj0O_nfyMcgJmzK_VjzxwUNiZ1-v0a_Hf1WYdsNcuFEpeFCDu0CbtHQ4-llSNV7EO1pIi0lNO5F2PXt2X-44e5ix4NBsaYucyewfgyjbv7K9-jXOH71FWQ3ElHMU7ZAT-EW7hmpnYGxc=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープナイトスカイ、9月3日の誕生色"
 date: "2026-09-03"
 updated: "2026-09-03"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "アンティークアイボリー"
 description: "9月3日の誕生色 ディープナイトスカイ(142029)。色言葉は「洞察力、神秘的、思索的」です。相性の良い色はアンティークアイボリーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhTYyUbkUsiN1xfnxtdR8oJKbTJcAcQ4RXi9-2bSHIDn00NVP2jFj0O_nfyMcgJmzK_VjzxwUNiZ1-v0a_Hf1WYdsNcuFEpeFCDu0CbtHQ4-llSNV7EO1pIi0lNO5F2PXt2X-44e5ix4NBsaYucyewfgyjbv7K9-jXOH71FWQ3ElHMU7ZAT-EW7hmpnYGxc=s1600"
 en_name: "Deep Night Sky"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhTYyUbkUsiN1xfnxtdR8oJKbTJcAcQ4RXi9-2bSHIDn00NVP2jFj0O_nfyMcgJmzK_VjzxwUNiZ1-v0a_Hf1WYdsNcuFEpeFCDu0CbtHQ4-llSNV7EO1pIi0lNO5F2PXt2X-44e5ix4NBsaYucyewfgyjbv7K9-jXOH71FWQ3ElHMU7ZAT-EW7hmpnYGxc=s1600)
-
 
 ## 9月3日の誕生色: ディープナイトスカイ (`#142029`)
 

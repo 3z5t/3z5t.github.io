@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjQIYRuCFvU-ToXr7S6jEDzi4Yum9R3H1g_le7ou_abJ05WWeqNbIgpOghlJjnygHAWYhD9UItOk-DD-DpkxH-TFLYeKhRRWzhmfrfFDjQJy_MpAspr3BDoKOUTWobXebBBF8_ciwY7wR9thGe9hyU14c-7vk1CLE5LJx7VjnphwQkFNDkHuIi7m0yqtYb6=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Golden Rod, The Birthday Color of May 3"
 date: "2026-05-03"
 updated: "2026-05-03"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "royal blue"
 description: "The birthday color for May 3 is Golden Rod (DAA520). Its meaning is Positivity, Success Luck, Leadership."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjQIYRuCFvU-ToXr7S6jEDzi4Yum9R3H1g_le7ou_abJ05WWeqNbIgpOghlJjnygHAWYhD9UItOk-DD-DpkxH-TFLYeKhRRWzhmfrfFDjQJy_MpAspr3BDoKOUTWobXebBBF8_ciwY7wR9thGe9hyU14c-7vk1CLE5LJx7VjnphwQkFNDkHuIi7m0yqtYb6=s1600"
 en_name: "GoldenRod"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjQIYRuCFvU-ToXr7S6jEDzi4Yum9R3H1g_le7ou_abJ05WWeqNbIgpOghlJjnygHAWYhD9UItOk-DD-DpkxH-TFLYeKhRRWzhmfrfFDjQJy_MpAspr3BDoKOUTWobXebBBF8_ciwY7wR9thGe9hyU14c-7vk1CLE5LJx7VjnphwQkFNDkHuIi7m0yqtYb6=s1600)
-
 
 ## Birthday Color for May 3: Golden Rod (`#DAA520`)
 

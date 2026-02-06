@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhe4t9_eWliP2Do-SsBZgXIbJH1SmZo0Vjhu-3zedlCNZHzkCM8lfn_JChvCbN3xHGA0UBF5PXF_prsqUfNVZXjqmsLPQa1UtXdw9yxkFYeIXoiMtlQvfA9W-GdiPxOSDxzG6GGy_999-gzCTpnhkrosh97RINU6Seb3GWGJ2y3Zbp8UINqDpZStph1htyh=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ライトピンク、3月18日の誕生色"
 date: "2026-03-18"
 updated: "2026-03-18"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "スチールネイビー"
 description: "3月18日の誕生色 ライトピンク(FFB6C1)。色言葉は「純粋、希望に満ちた、肯定的」です。相性の良い色はスチールネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhe4t9_eWliP2Do-SsBZgXIbJH1SmZo0Vjhu-3zedlCNZHzkCM8lfn_JChvCbN3xHGA0UBF5PXF_prsqUfNVZXjqmsLPQa1UtXdw9yxkFYeIXoiMtlQvfA9W-GdiPxOSDxzG6GGy_999-gzCTpnhkrosh97RINU6Seb3GWGJ2y3Zbp8UINqDpZStph1htyh=s1600"
 en_name: "Light Pink"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhe4t9_eWliP2Do-SsBZgXIbJH1SmZo0Vjhu-3zedlCNZHzkCM8lfn_JChvCbN3xHGA0UBF5PXF_prsqUfNVZXjqmsLPQa1UtXdw9yxkFYeIXoiMtlQvfA9W-GdiPxOSDxzG6GGy_999-gzCTpnhkrosh97RINU6Seb3GWGJ2y3Zbp8UINqDpZStph1htyh=s1600)
-
 
 ## 3月18日の誕生色: ライトピンク (`#FFB6C1`)
 

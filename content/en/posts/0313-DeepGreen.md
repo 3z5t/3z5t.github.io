@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh0912LJ67P0urccFL0xZM7lw3e6WCssuiMwyTsDRcNfFuLKN8rm5HYJeCkWWWMuF25ra7GSoeAYSOkqUbdoobA6ubsa739QBHSKL6IituiS8tyOifsS_EBC9929CgdS3lAr3_tPMsCWN_yLmIingzqqBhAkf9NvtJ8hGk4joDoeK2z5TiuB8N6wnyqlY_V=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Green, The Birthday Color of March 13"
 date: "2026-03-13"
 updated: "2026-03-13"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "lilac"
 description: "The birthday color for March 13 is Deep Green (3D5E40). Its meaning is Insightful, Wisdom, Maturity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh0912LJ67P0urccFL0xZM7lw3e6WCssuiMwyTsDRcNfFuLKN8rm5HYJeCkWWWMuF25ra7GSoeAYSOkqUbdoobA6ubsa739QBHSKL6IituiS8tyOifsS_EBC9929CgdS3lAr3_tPMsCWN_yLmIingzqqBhAkf9NvtJ8hGk4joDoeK2z5TiuB8N6wnyqlY_V=s1600"
 en_name: "DeepGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh0912LJ67P0urccFL0xZM7lw3e6WCssuiMwyTsDRcNfFuLKN8rm5HYJeCkWWWMuF25ra7GSoeAYSOkqUbdoobA6ubsa739QBHSKL6IituiS8tyOifsS_EBC9929CgdS3lAr3_tPMsCWN_yLmIingzqqBhAkf9NvtJ8hGk4joDoeK2z5TiuB8N6wnyqlY_V=s1600)
-
 
 ## Birthday Color for March 13: Deep Green (`#3D5E40`)
 

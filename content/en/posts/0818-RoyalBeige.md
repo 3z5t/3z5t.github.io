@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiRwmyvWBZp9tuqHRu7Gn8MYk3nkFYv0uZN48mqkpxffWdkrp4Fy85bZfJjPR8oeVPWS1ZMcIJsKpljY0VuSVBg9qRou8RNwJx39CYdemFXn76yPRD8k9tXUEeIJ3ZQPieWNfVFwkvZku_M5LC-mZ0rZOVizL3HIwn3FUQ-u3X36JfpwOgeLPSVFWFmN4-l=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Royal Beige, The Birthday Color of August 18"
 date: "2026-08-18"
 updated: "2026-08-18"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "autumn lake"
 description: "The birthday color for August 18 is Royal Beige (AB9170). Its meaning is Noble Character, Elegance, Dignity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiRwmyvWBZp9tuqHRu7Gn8MYk3nkFYv0uZN48mqkpxffWdkrp4Fy85bZfJjPR8oeVPWS1ZMcIJsKpljY0VuSVBg9qRou8RNwJx39CYdemFXn76yPRD8k9tXUEeIJ3ZQPieWNfVFwkvZku_M5LC-mZ0rZOVizL3HIwn3FUQ-u3X36JfpwOgeLPSVFWFmN4-l=s1600"
 en_name: "RoyalBeige"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiRwmyvWBZp9tuqHRu7Gn8MYk3nkFYv0uZN48mqkpxffWdkrp4Fy85bZfJjPR8oeVPWS1ZMcIJsKpljY0VuSVBg9qRou8RNwJx39CYdemFXn76yPRD8k9tXUEeIJ3ZQPieWNfVFwkvZku_M5LC-mZ0rZOVizL3HIwn3FUQ-u3X36JfpwOgeLPSVFWFmN4-l=s1600)
-
 
 ## Birthday Color for August 18: Royal Beige (`#AB9170`)
 

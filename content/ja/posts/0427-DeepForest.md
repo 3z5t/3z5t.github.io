@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhrK5uDdIGMP8JbCgTZ9xN5pxKroAJKZN1quic8mP0NQ1ug2xMacMKtP8PrbRcXASkDQeUtTKfYm_k25Yf3bsc3wyM6FO7yIK-4GmhLiQnRuooyYSHx4JGmlmL4cV1240aRIw0Isd-EPbnlzcAmTnnC_X7oiEdVhRuWRXGa6udHmh3HcehUr_7mTOBA4mWB=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープフォレスト、4月27日の誕生色"
 date: "2026-04-27"
 updated: "2026-04-27"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "シルバーアンティーク"
 description: "4月27日の誕生色 ディープフォレスト(2F4A2F)。色言葉は「深みのある、成熟、安定」です。相性の良い色はシルバーアンティークです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhrK5uDdIGMP8JbCgTZ9xN5pxKroAJKZN1quic8mP0NQ1ug2xMacMKtP8PrbRcXASkDQeUtTKfYm_k25Yf3bsc3wyM6FO7yIK-4GmhLiQnRuooyYSHx4JGmlmL4cV1240aRIw0Isd-EPbnlzcAmTnnC_X7oiEdVhRuWRXGa6udHmh3HcehUr_7mTOBA4mWB=s1600"
 en_name: "Deep Forest"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhrK5uDdIGMP8JbCgTZ9xN5pxKroAJKZN1quic8mP0NQ1ug2xMacMKtP8PrbRcXASkDQeUtTKfYm_k25Yf3bsc3wyM6FO7yIK-4GmhLiQnRuooyYSHx4JGmlmL4cV1240aRIw0Isd-EPbnlzcAmTnnC_X7oiEdVhRuWRXGa6udHmh3HcehUr_7mTOBA4mWB=s1600)
-
 
 ## 4月27日の誕生色: ディープフォレスト (`#2F4A2F`)
 

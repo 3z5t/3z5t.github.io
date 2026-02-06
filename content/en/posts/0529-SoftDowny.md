@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgBD3GfXwb0juws0bDCxVQtSW7nukwtVRaTAIi_z7cN-B7VweaND_PJsaucHedYI78nnQTZRN1FvN9mtvt78p_lXde0BsdPNERfUTSfItrKGKY3Gb26AxDUhbm1aJsapdsZnYcFdvo18n48f33RuS50c98-owi7KoZ83NMPDgFxs6Wz3RQuqT_wLYgB6-Th=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Soft Downy, The Birthday Color of May 29"
 date: "2026-05-29"
 updated: "2026-05-29"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "milano red"
 description: "The birthday color for May 29 is Soft Downy (66CCCC). Its meaning is Soft, Inclusive, Emotional."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgBD3GfXwb0juws0bDCxVQtSW7nukwtVRaTAIi_z7cN-B7VweaND_PJsaucHedYI78nnQTZRN1FvN9mtvt78p_lXde0BsdPNERfUTSfItrKGKY3Gb26AxDUhbm1aJsapdsZnYcFdvo18n48f33RuS50c98-owi7KoZ83NMPDgFxs6Wz3RQuqT_wLYgB6-Th=s1600"
 en_name: "SoftDowny"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgBD3GfXwb0juws0bDCxVQtSW7nukwtVRaTAIi_z7cN-B7VweaND_PJsaucHedYI78nnQTZRN1FvN9mtvt78p_lXde0BsdPNERfUTSfItrKGKY3Gb26AxDUhbm1aJsapdsZnYcFdvo18n48f33RuS50c98-owi7KoZ83NMPDgFxs6Wz3RQuqT_wLYgB6-Th=s1600)
-
 
 ## Birthday Color for May 29: Soft Downy (`#66CCCC`)
 

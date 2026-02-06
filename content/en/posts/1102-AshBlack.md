@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhZOaqVGnxRZBkcc87KMsWDn51PKmHZbGCHXa0axx8n_2LVLbvFUSz8SYGfBEoXz8SRzDW5t7gvS86HjqiVamB1aHCJ4jvo5aYQ90PkSCPdRgjhDG_3rWLN2RxIHkmlf-l-O-wHIx8eP8E6l4IAqlnqqDxd_coe0lw_XQFyl1pHG1gYoTgUNXZK3Ln4ax1g=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Ash Black, The Birthday Color of November 2"
 date: "2026-11-02"
 updated: "2026-11-02"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "whipped cream"
 description: "The birthday color for November 2 is Ash Black (282221). Its meaning is Accepting Change, Knowing Cycle, Innovative."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhZOaqVGnxRZBkcc87KMsWDn51PKmHZbGCHXa0axx8n_2LVLbvFUSz8SYGfBEoXz8SRzDW5t7gvS86HjqiVamB1aHCJ4jvo5aYQ90PkSCPdRgjhDG_3rWLN2RxIHkmlf-l-O-wHIx8eP8E6l4IAqlnqqDxd_coe0lw_XQFyl1pHG1gYoTgUNXZK3Ln4ax1g=s1600"
 en_name: "AshBlack"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhZOaqVGnxRZBkcc87KMsWDn51PKmHZbGCHXa0axx8n_2LVLbvFUSz8SYGfBEoXz8SRzDW5t7gvS86HjqiVamB1aHCJ4jvo5aYQ90PkSCPdRgjhDG_3rWLN2RxIHkmlf-l-O-wHIx8eP8E6l4IAqlnqqDxd_coe0lw_XQFyl1pHG1gYoTgUNXZK3Ln4ax1g=s1600)
-
 
 ## Birthday Color for November 2: Ash Black (`#282221`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgmDU8Yz_-Iz4tocpk6ofmdGKd60CsBSJWn1MqlLQGgy-a054c_dMPJUsP8YiMK147BUIF1GkrHgb3O8c5hBLBUmGRrkL8KXcnQNHGJRC80GEdam6-6IbrxaMiHBZ5_8z5h2CUZeWM_N8pu7pM93HFpV0HJQ4_KH77kXNyeiya2IDjzOHMVqZj-0XxmGktW=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "クリスマスツリー、12月7日の誕生色"
 date: "2026-12-07"
 updated: "2026-12-07"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "サテングレー"
 description: "12月7日の誕生色 クリスマスツリー(506850)。色言葉は「願いを叶える、希望に満ちた、肯定的」です。相性の良い色はサテングレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgmDU8Yz_-Iz4tocpk6ofmdGKd60CsBSJWn1MqlLQGgy-a054c_dMPJUsP8YiMK147BUIF1GkrHgb3O8c5hBLBUmGRrkL8KXcnQNHGJRC80GEdam6-6IbrxaMiHBZ5_8z5h2CUZeWM_N8pu7pM93HFpV0HJQ4_KH77kXNyeiya2IDjzOHMVqZj-0XxmGktW=s1600"
 en_name: "Christmas Tree"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgmDU8Yz_-Iz4tocpk6ofmdGKd60CsBSJWn1MqlLQGgy-a054c_dMPJUsP8YiMK147BUIF1GkrHgb3O8c5hBLBUmGRrkL8KXcnQNHGJRC80GEdam6-6IbrxaMiHBZ5_8z5h2CUZeWM_N8pu7pM93HFpV0HJQ4_KH77kXNyeiya2IDjzOHMVqZj-0XxmGktW=s1600)
-
 
 ## 12月7日の誕生色: クリスマスツリー (`#506850`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgsFLz3L0FEfRAkmpjckE65-HqxFNxx6Q9LQt-cSMqsJ0Lwk7nVaRYLYOCISCRPX1mV_j8DW2ctpfPfzFffultcq_po84rx-mv1JGmGiUJQqNCiwMA_QzeHNH9gO_hPjP9dAnImMcfRgpU1IdRFEXQjAwgPn9PxI3yUjRtJtvKV7osc6DxONLBWMLrTZG7k=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Satin Gray, The Birthday Color of September 10"
 date: "2026-09-10"
 updated: "2026-09-10"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "late summer leaf"
 description: "The birthday color for September 10 is Satin Gray (B3A6A4). Its meaning is Sophisticated, Elegant, Classy."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgsFLz3L0FEfRAkmpjckE65-HqxFNxx6Q9LQt-cSMqsJ0Lwk7nVaRYLYOCISCRPX1mV_j8DW2ctpfPfzFffultcq_po84rx-mv1JGmGiUJQqNCiwMA_QzeHNH9gO_hPjP9dAnImMcfRgpU1IdRFEXQjAwgPn9PxI3yUjRtJtvKV7osc6DxONLBWMLrTZG7k=s1600"
 en_name: "SatinGray"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgsFLz3L0FEfRAkmpjckE65-HqxFNxx6Q9LQt-cSMqsJ0Lwk7nVaRYLYOCISCRPX1mV_j8DW2ctpfPfzFffultcq_po84rx-mv1JGmGiUJQqNCiwMA_QzeHNH9gO_hPjP9dAnImMcfRgpU1IdRFEXQjAwgPn9PxI3yUjRtJtvKV7osc6DxONLBWMLrTZG7k=s1600)
-
 
 ## Birthday Color for September 10: Satin Gray (`#B3A6A4`)
 

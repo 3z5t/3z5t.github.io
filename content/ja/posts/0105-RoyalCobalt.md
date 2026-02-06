@@ -1,25 +1,25 @@
 ---
-title: ロイヤルコバルト、1月5日の誕生色
-date: 2026-01-05
-updated: 2026-01-05
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjX7UkQdXBuvR1pA9Yrc3nTgQAidpX5WevzuZS5hw-4BotZJFO9fJRwwECWCv5t4w7huO5E9t20P0gkft0j-0SjLLolgcUE9faSFlAHFsTzQ_S8N1FcdNR9qXkl_CMzTGr9Tn3zdb7bhOY-flRcEow0JfyFYSdWMJ6EBQL6qRRJL9_SMoMZ6Ajpa_jdyM-K=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ロイヤルコバルト、1月5日の誕生色"
+date: "2026-01-05"
+updated: "2026-01-05"
 tags:
-  - ロイヤルコバルト
-  - 誕生色
-  - 1月5日
-  - 00009B
-  - 1月
-  - バナナ
-description: 1月5日の誕生色 ロイヤルコバルト(00009B)。色言葉は「先駆者、リーダーシップ、チャレンジ精神」です。相性の良い色はバナナです。
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEjX7UkQdXBuvR1pA9Yrc3nTgQAidpX5WevzuZS5hw-4BotZJFO9fJRwwECWCv5t4w7huO5E9t20P0gkft0j-0SjLLolgcUE9faSFlAHFsTzQ_S8N1FcdNR9qXkl_CMzTGr9Tn3zdb7bhOY-flRcEow0JfyFYSdWMJ6EBQL6qRRJL9_SMoMZ6Ajpa_jdyM-K=s1600
-en_name: Royal Cobalt
-author: 日々のカケラ
-profileName: 日々のカケラ
+  - "ロイヤルコバルト"
+  - "誕生色"
+  - "1月5日"
+  - "00009B"
+  - "1月"
+  - "バナナ"
+description: "1月5日の誕生色 ロイヤルコバルト(00009B)。色言葉は「先駆者、リーダーシップ、チャレンジ精神」です。相性の良い色はバナナです。"
+en_name: "Royal Cobalt"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
 postId: "1004"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjX7UkQdXBuvR1pA9Yrc3nTgQAidpX5WevzuZS5hw-4BotZJFO9fJRwwECWCv5t4w7huO5E9t20P0gkft0j-0SjLLolgcUE9faSFlAHFsTzQ_S8N1FcdNR9qXkl_CMzTGr9Tn3zdb7bhOY-flRcEow0JfyFYSdWMJ6EBQL6qRRJL9_SMoMZ6Ajpa_jdyM-K=s1600)
-
 
 ## 1月5日の誕生色: ロイヤルコバルト (`#00009B`)
 

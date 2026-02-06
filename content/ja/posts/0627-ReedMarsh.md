@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEimI5dnzajq30-Q5RZMuVluTgQ2El_J8AJMuJLkozZ4RujYkux5qGh0Acw2Smfx9FCpdARqstwbLwSzJ3RNsRO3f2tMZROicveUmLWimbAsE_rgV7s672Bxw4cHuKcNQMrmmAvlyHXCL20kaIiaK_nlEplb5b9NCKJr3eksHkam_x0e5ePz3D_UHazKnyBJ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "リードマーシュ（葦原）、6月27日の誕生色"
 date: "2026-06-27"
 updated: "2026-06-27"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "ディープオーシャン"
 description: "6月27日の誕生色 リードマーシュ（葦原）(B09A82)。色言葉は「自然体、平和、包容力」です。相性の良い色はディープオーシャンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEimI5dnzajq30-Q5RZMuVluTgQ2El_J8AJMuJLkozZ4RujYkux5qGh0Acw2Smfx9FCpdARqstwbLwSzJ3RNsRO3f2tMZROicveUmLWimbAsE_rgV7s672Bxw4cHuKcNQMrmmAvlyHXCL20kaIiaK_nlEplb5b9NCKJr3eksHkam_x0e5ePz3D_UHazKnyBJ=s1600"
 en_name: "Reed Marsh"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEimI5dnzajq30-Q5RZMuVluTgQ2El_J8AJMuJLkozZ4RujYkux5qGh0Acw2Smfx9FCpdARqstwbLwSzJ3RNsRO3f2tMZROicveUmLWimbAsE_rgV7s672Bxw4cHuKcNQMrmmAvlyHXCL20kaIiaK_nlEplb5b9NCKJr3eksHkam_x0e5ePz3D_UHazKnyBJ=s1600)
-
 
 ## 6月27日の誕生色: リードマーシュ（葦原） (`#B09A82`)
 

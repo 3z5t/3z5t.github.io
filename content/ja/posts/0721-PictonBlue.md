@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgHxVLu2XBSrQ6k3zz2u-xmhwpB87dLInobxdblXs3GwFxmoFcAbIJibkPmFB7DrTEAibddx7ZsKIqeaKVplctW87fnVy2wVDcrRdwdmKflVtFRI6-OFMhg6PSluxCWxLzdqjzd0aUM5w2CQwfRCfnkV_HsOKKyk3oogu1ModYrEUmYTXut8VkXK-bcvuN8=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ピクトンブルー、7月21日の誕生色"
 date: "2026-07-21"
 updated: "2026-07-21"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "ソフトオーカー"
 description: "7月21日の誕生色 ピクトンブルー(6699CC)。色言葉は「涼しげな心、清涼感、平和」です。相性の良い色はソフトオーカーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgHxVLu2XBSrQ6k3zz2u-xmhwpB87dLInobxdblXs3GwFxmoFcAbIJibkPmFB7DrTEAibddx7ZsKIqeaKVplctW87fnVy2wVDcrRdwdmKflVtFRI6-OFMhg6PSluxCWxLzdqjzd0aUM5w2CQwfRCfnkV_HsOKKyk3oogu1ModYrEUmYTXut8VkXK-bcvuN8=s1600"
 en_name: "Picton Blue"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgHxVLu2XBSrQ6k3zz2u-xmhwpB87dLInobxdblXs3GwFxmoFcAbIJibkPmFB7DrTEAibddx7ZsKIqeaKVplctW87fnVy2wVDcrRdwdmKflVtFRI6-OFMhg6PSluxCWxLzdqjzd0aUM5w2CQwfRCfnkV_HsOKKyk3oogu1ModYrEUmYTXut8VkXK-bcvuN8=s1600)
-
 
 ## 7月21日の誕生色: ピクトンブルー (`#6699CC`)
 

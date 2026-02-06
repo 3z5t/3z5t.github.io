@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhOYSGLhVjAx8Wwit-XR3VlahkwDC0V9LNdpn9O2HQp-JNnACxWkSW5i42q3XghnonhDhLzsq4tXiAVeIz-dz1BQiVJR9WOvcMCEAXEySyHGLwtz7hfapNANTEzC8bOvrFALYNMB3OVodKCe-Be3d9hd_IF9ANe1m5O9BTtPwHquXkAFkQlQ4kas4DudLWG=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Fog Pink, The Birthday Color of March 28"
 date: "2026-03-28"
 updated: "2026-03-28"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "dark forest gray"
 description: "The birthday color for March 28 is Fog Pink (E0CECE). Its meaning is Soft, Subtle, Mysterious."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhOYSGLhVjAx8Wwit-XR3VlahkwDC0V9LNdpn9O2HQp-JNnACxWkSW5i42q3XghnonhDhLzsq4tXiAVeIz-dz1BQiVJR9WOvcMCEAXEySyHGLwtz7hfapNANTEzC8bOvrFALYNMB3OVodKCe-Be3d9hd_IF9ANe1m5O9BTtPwHquXkAFkQlQ4kas4DudLWG=s1600"
 en_name: "FogPink"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhOYSGLhVjAx8Wwit-XR3VlahkwDC0V9LNdpn9O2HQp-JNnACxWkSW5i42q3XghnonhDhLzsq4tXiAVeIz-dz1BQiVJR9WOvcMCEAXEySyHGLwtz7hfapNANTEzC8bOvrFALYNMB3OVodKCe-Be3d9hd_IF9ANe1m5O9BTtPwHquXkAFkQlQ4kas4DudLWG=s1600)
-
 
 ## Birthday Color for March 28: Fog Pink (`#E0CECE`)
 

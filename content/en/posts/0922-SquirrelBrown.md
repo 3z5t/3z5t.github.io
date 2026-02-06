@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiLWjdVy2QDE1uUoRqyVLECNJyqPCXjeZU4tAIZOaT1x_Hl1qZ16RzZvpmKSRVN1H2hyq60wc3B5Xy-DnMYNYVhpICYbQO7O5cexgDJHt-F4Y3EaOM4FbYlle_Katu_jv29dbssPFtP78h7V-5sDc5POilQOpyfblkMPtZvs61juPVKdKgGorWD_ti9Saxi=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Squirrel Brown, The Birthday Color of September 22"
 date: "2026-09-22"
 updated: "2026-09-22"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "deep sora"
 description: "The birthday color for September 22 is Squirrel Brown (996A52). Its meaning is Prepared, Diligent, Practical."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiLWjdVy2QDE1uUoRqyVLECNJyqPCXjeZU4tAIZOaT1x_Hl1qZ16RzZvpmKSRVN1H2hyq60wc3B5Xy-DnMYNYVhpICYbQO7O5cexgDJHt-F4Y3EaOM4FbYlle_Katu_jv29dbssPFtP78h7V-5sDc5POilQOpyfblkMPtZvs61juPVKdKgGorWD_ti9Saxi=s1600"
 en_name: "SquirrelBrown"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiLWjdVy2QDE1uUoRqyVLECNJyqPCXjeZU4tAIZOaT1x_Hl1qZ16RzZvpmKSRVN1H2hyq60wc3B5Xy-DnMYNYVhpICYbQO7O5cexgDJHt-F4Y3EaOM4FbYlle_Katu_jv29dbssPFtP78h7V-5sDc5POilQOpyfblkMPtZvs61juPVKdKgGorWD_ti9Saxi=s1600)
-
 
 ## Birthday Color for September 22: Squirrel Brown (`#996A52`)
 

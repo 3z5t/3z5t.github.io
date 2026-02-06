@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgcNhbB9dLqIoGOJufFg8MCgdu0L9rFuBOPkbdZHzHucV9-Y5sv-jYfJJWL9nFOZLe8G_OWcNpfbFc4cbDGVSPLPjePDRpxHsrjoNyhmKoLi8LxGxft1U-Z6LY32HTM12fk3EgSJKijlqYO-4UWAGpZnn7qfSJtWEPPZpGIR7sd5YbSTeUuqGT-LshQuUxa=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Blue Lagoon, The Birthday Color of May 22"
 date: "2026-05-22"
 updated: "2026-05-22"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "mona lisa"
 description: "The birthday color for May 22 is Blue Lagoon (006666). Its meaning is Peaceful, Healing, Stability."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgcNhbB9dLqIoGOJufFg8MCgdu0L9rFuBOPkbdZHzHucV9-Y5sv-jYfJJWL9nFOZLe8G_OWcNpfbFc4cbDGVSPLPjePDRpxHsrjoNyhmKoLi8LxGxft1U-Z6LY32HTM12fk3EgSJKijlqYO-4UWAGpZnn7qfSJtWEPPZpGIR7sd5YbSTeUuqGT-LshQuUxa=s1600"
 en_name: "BlueLagoon"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgcNhbB9dLqIoGOJufFg8MCgdu0L9rFuBOPkbdZHzHucV9-Y5sv-jYfJJWL9nFOZLe8G_OWcNpfbFc4cbDGVSPLPjePDRpxHsrjoNyhmKoLi8LxGxft1U-Z6LY32HTM12fk3EgSJKijlqYO-4UWAGpZnn7qfSJtWEPPZpGIR7sd5YbSTeUuqGT-LshQuUxa=s1600)
-
 
 ## Birthday Color for May 22: Blue Lagoon (`#006666`)
 

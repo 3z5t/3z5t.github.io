@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhSzms8CtjX2reSHPI83oQZwvrKH7RXTZ2CdJ11YyXqBXUcuHqo-tRkuqmIdChZbheaRqEcZSksLuIxOper159jFgigGcK4z6hIZxPZt-GwhmM4_0UbcJ_ATujBofMov8QYW3Rcu3RoIKVwFmvXys1sUtJ63U_7ZfGkIG3aqJl88kiozLPPfEq8AlYzprvM=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Strawberry Milk, The Birthday Color of March 19"
 date: "2026-03-19"
 updated: "2026-03-19"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "forest green"
 description: "The birthday color for March 19 is Strawberry Milk (FF81D3). Its meaning is Sweet, Happy, Enjoyable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhSzms8CtjX2reSHPI83oQZwvrKH7RXTZ2CdJ11YyXqBXUcuHqo-tRkuqmIdChZbheaRqEcZSksLuIxOper159jFgigGcK4z6hIZxPZt-GwhmM4_0UbcJ_ATujBofMov8QYW3Rcu3RoIKVwFmvXys1sUtJ63U_7ZfGkIG3aqJl88kiozLPPfEq8AlYzprvM=s1600"
 en_name: "StrawberryMilk"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhSzms8CtjX2reSHPI83oQZwvrKH7RXTZ2CdJ11YyXqBXUcuHqo-tRkuqmIdChZbheaRqEcZSksLuIxOper159jFgigGcK4z6hIZxPZt-GwhmM4_0UbcJ_ATujBofMov8QYW3Rcu3RoIKVwFmvXys1sUtJ63U_7ZfGkIG3aqJl88kiozLPPfEq8AlYzprvM=s1600)
-
 
 ## Birthday Color for March 19: Strawberry Milk (`#FF81D3`)
 

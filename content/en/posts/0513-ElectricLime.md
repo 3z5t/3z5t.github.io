@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhxc4oNQGGe5-fhcXKZNjhtnbp07oxDSbrT6-JOeVwslW0lk030P_NfuimGx4KE4l83TeLlxYJmdGGeo6YknHgtwEu1J_UV_ffQBB1Lv-jpi_i0rE4UtH9UEp-TluIj25_XRi4-Ow-DktKLWTxWAXRupKhyQ1pfCLKyFWXTBLKPvfJrrng1bYZJoQhld1Zz=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Electric Lime, The Birthday Color of May 13"
 date: "2026-05-13"
 updated: "2026-05-13"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "pure blue"
 description: "The birthday color for May 13 is Electric Lime (CCFF00). Its meaning is Passionate, Innovative, Originality."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhxc4oNQGGe5-fhcXKZNjhtnbp07oxDSbrT6-JOeVwslW0lk030P_NfuimGx4KE4l83TeLlxYJmdGGeo6YknHgtwEu1J_UV_ffQBB1Lv-jpi_i0rE4UtH9UEp-TluIj25_XRi4-Ow-DktKLWTxWAXRupKhyQ1pfCLKyFWXTBLKPvfJrrng1bYZJoQhld1Zz=s1600"
 en_name: "ElectricLime"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhxc4oNQGGe5-fhcXKZNjhtnbp07oxDSbrT6-JOeVwslW0lk030P_NfuimGx4KE4l83TeLlxYJmdGGeo6YknHgtwEu1J_UV_ffQBB1Lv-jpi_i0rE4UtH9UEp-TluIj25_XRi4-Ow-DktKLWTxWAXRupKhyQ1pfCLKyFWXTBLKPvfJrrng1bYZJoQhld1Zz=s1600)
-
 
 ## Birthday Color for May 13: Electric Lime (`#CCFF00`)
 

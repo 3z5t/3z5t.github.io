@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhkedbqp64UO4icf3CsQWMaBnwGJCAHWHsb2bdkwuVKX2rpR2a1RBwzIpJR59tkJiVORmrkGI3WH3Pev2XMyV3BzpSfbkbL3ojdM77cWDwBnfhZsZWCrn7BOj8Ymp2kpfpg3uCvlVXPukYoCVYG_dvTWM-7G8FdKFErkO1plzspEK_S6AD5FKe9_PJsTTN2=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Silver Antique, The Birthday Color of November 6"
 date: "2026-11-06"
 updated: "2026-11-06"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "midnight rider"
 description: "The birthday color for November 6 is Silver Antique (C6C3C6). Its meaning is Classical, Classy, Valuable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhkedbqp64UO4icf3CsQWMaBnwGJCAHWHsb2bdkwuVKX2rpR2a1RBwzIpJR59tkJiVORmrkGI3WH3Pev2XMyV3BzpSfbkbL3ojdM77cWDwBnfhZsZWCrn7BOj8Ymp2kpfpg3uCvlVXPukYoCVYG_dvTWM-7G8FdKFErkO1plzspEK_S6AD5FKe9_PJsTTN2=s1600"
 en_name: "SilverAntique"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhkedbqp64UO4icf3CsQWMaBnwGJCAHWHsb2bdkwuVKX2rpR2a1RBwzIpJR59tkJiVORmrkGI3WH3Pev2XMyV3BzpSfbkbL3ojdM77cWDwBnfhZsZWCrn7BOj8Ymp2kpfpg3uCvlVXPukYoCVYG_dvTWM-7G8FdKFErkO1plzspEK_S6AD5FKe9_PJsTTN2=s1600)
-
 
 ## Birthday Color for November 6: Silver Antique (`#C6C3C6`)
 

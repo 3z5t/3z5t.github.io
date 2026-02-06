@@ -1,21 +1,24 @@
 ---
-"title": "ブリリアントローズ、2月17日の誕生色"
-"date": "2026-02-17"
-"updated": "2026-02-17"
-"labels":
-- "ブリリアントローズ"
-- "誕生色"
-- "2月17日"
-- "FF6699"
-- "2月"
-- "シャムロックグリーン"
-"description": "2月17日の誕生色 ブリリアントローズ(FF6699)。色言葉は「愛らしさ、肯定性、希望」です。相性の良い色はシャムロックグリーンです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgS3Y_et4UUSC6HedK5Fg_XnxTayUgsGpPxrg962qjkUGJMUlu3MmEToqMh3ia16H2HMzbrJP2F_SX6tGLst_5qwAMiIAWBEmMULpiX6sHEVk_hlSv0oLfrtYly64UDFx5CNj8ErneJ0PibbpkYULvGqSFnaOIqKHVQb0RwPd8eAj-PwNUpQigsjXwjQK3Y=s1600"
-"en_name": "Brilliant Rose"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "2960655011698025866"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/217-brilliant-rose.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgS3Y_et4UUSC6HedK5Fg_XnxTayUgsGpPxrg962qjkUGJMUlu3MmEToqMh3ia16H2HMzbrJP2F_SX6tGLst_5qwAMiIAWBEmMULpiX6sHEVk_hlSv0oLfrtYly64UDFx5CNj8ErneJ0PibbpkYULvGqSFnaOIqKHVQb0RwPd8eAj-PwNUpQigsjXwjQK3Y=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ブリリアントローズ、2月17日の誕生色"
+date: "2026-02-17"
+updated: "2026-02-17"
+tags:
+  - "ブリリアントローズ"
+  - "誕生色"
+  - "2月17日"
+  - "FF6699"
+  - "2月"
+  - "シャムロックグリーン"
+description: "2月17日の誕生色 ブリリアントローズ(FF6699)。色言葉は「愛らしさ、肯定性、希望」です。相性の良い色はシャムロックグリーンです。"
+en_name: "Brilliant Rose"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "2960655011698025866"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/217-brilliant-rose.html"
 ---
 
 ## 2月17日の誕生色: ブリリアントローズ (`#FF6699`)

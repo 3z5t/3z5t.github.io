@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiKOND9FI5pyBd1KsSXtJ7KWDJ9acHgsfDaEeLwl8JJCj8d_iBIdriEScCdKAw97RtG65tIZ8VAX7q_2hfKZfbk0_FtxgSazq7N354lnJ1is1u4KZsTstXV8HzHVoehLacUugCXAnRmWaPyDWpY_ZWvlEmJj3rfLowBnF0zOeY6ZE6yOWY-6Sch17djw7ks=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ロイヤルブルー、12月16日の誕生色"
 date: "2026-12-16"
 updated: "2026-12-16"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "マットゴールド"
 description: "12月16日の誕生色 ロイヤルブルー(1B76D8)。色言葉は「深みのある、品格、深遠」です。相性の良い色はマットゴールドです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiKOND9FI5pyBd1KsSXtJ7KWDJ9acHgsfDaEeLwl8JJCj8d_iBIdriEScCdKAw97RtG65tIZ8VAX7q_2hfKZfbk0_FtxgSazq7N354lnJ1is1u4KZsTstXV8HzHVoehLacUugCXAnRmWaPyDWpY_ZWvlEmJj3rfLowBnF0zOeY6ZE6yOWY-6Sch17djw7ks=s1600"
 en_name: "Royal Blue"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiKOND9FI5pyBd1KsSXtJ7KWDJ9acHgsfDaEeLwl8JJCj8d_iBIdriEScCdKAw97RtG65tIZ8VAX7q_2hfKZfbk0_FtxgSazq7N354lnJ1is1u4KZsTstXV8HzHVoehLacUugCXAnRmWaPyDWpY_ZWvlEmJj3rfLowBnF0zOeY6ZE6yOWY-6Sch17djw7ks=s1600)
-
 
 ## 12月16日の誕生色: ロイヤルブルー (`#1B76D8`)
 

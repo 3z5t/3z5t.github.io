@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhnwWTuQMbffMHNmx9_DjOlToOknMKQW3MFEvQ3dxTnULOpnsmeeSwZTRi3I4KzdoYR9vv4v7BlZFum3oMRIf3Vi_AVlmtIdLnEb-HluqYwI9iANzO5mvhlduLjPAooRti4Zpa2d3U0LraOE5QM5R0zHJzrk8hLtDqsfolDdt-XHxqSrn5UMS4dQOjY4ct1=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Candy Coral, The Birthday Color of July 2"
 date: "2026-07-02"
 updated: "2026-07-02"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "teal"
 description: "The birthday color for July 2 is Candy Coral (F18372). Its meaning is Sweet Personality, Sociability, Friendly."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhnwWTuQMbffMHNmx9_DjOlToOknMKQW3MFEvQ3dxTnULOpnsmeeSwZTRi3I4KzdoYR9vv4v7BlZFum3oMRIf3Vi_AVlmtIdLnEb-HluqYwI9iANzO5mvhlduLjPAooRti4Zpa2d3U0LraOE5QM5R0zHJzrk8hLtDqsfolDdt-XHxqSrn5UMS4dQOjY4ct1=s1600"
 en_name: "CandyCoral"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhnwWTuQMbffMHNmx9_DjOlToOknMKQW3MFEvQ3dxTnULOpnsmeeSwZTRi3I4KzdoYR9vv4v7BlZFum3oMRIf3Vi_AVlmtIdLnEb-HluqYwI9iANzO5mvhlduLjPAooRti4Zpa2d3U0LraOE5QM5R0zHJzrk8hLtDqsfolDdt-XHxqSrn5UMS4dQOjY4ct1=s1600)
-
 
 ## Birthday Color for July 2: Candy Coral (`#F18372`)
 

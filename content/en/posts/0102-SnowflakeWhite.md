@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-02'
-description: The birthday color for January 2 is Snowflake White (F2EDF3). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiGqyGg0jQwL7sx7VOfBVU9W0XYAWcrf0X8RVE15KfBJ0USrQfj62tKofbOb9Vb001DbaYI6v_gkEkTmH7ymCFqP6xtZCeNxi6Qzf4LWKW6_yJy__dpWFaSG0L2UzFaJotfFVL3fiLLzKOIM4kaddlrywmhO5MQDgFLJgPnvPRxEqMygbJiVb8OigxAEsgc=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-02"
+description: "The birthday color for January 2 is Snowflake White (F2EDF3). Its meaning"
   is Integrity, Idealistic, Gentle.
-en_name: SnowflakeWhite
+en_name: "SnowflakeWhite"
 tags:
-- snowflake white
-- birthday color
-- january 2
-- f2edf3
-- january
-- smoky black
-postId: '7182334709127794126'
-postUrl: https://the366days-en.blogspot.com/2026/01/snowflake-white-birthday-color-of_02024621470.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiGqyGg0jQwL7sx7VOfBVU9W0XYAWcrf0X8RVE15KfBJ0USrQfj62tKofbOb9Vb001DbaYI6v_gkEkTmH7ymCFqP6xtZCeNxi6Qzf4LWKW6_yJy__dpWFaSG0L2UzFaJotfFVL3fiLLzKOIM4kaddlrywmhO5MQDgFLJgPnvPRxEqMygbJiVb8OigxAEsgc=s1600
-title: Snowflake White, The Birthday Color of January 2
-updated: '2026-01-02'
+  - "snowflake white"
+  - "birthday color"
+  - "january 2"
+  - "f2edf3"
+  - "january"
+  - "smoky black"
+postId: "7182334709127794126"
+postUrl: "https://the366days-en.blogspot.com/2026/01/snowflake-white-birthday-color-of_02024621470.html"
+profileName: "Pieces of a Day"
+title: "Snowflake White, The Birthday Color of January 2"
+updated: "2026-01-02"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiGqyGg0jQwL7sx7VOfBVU9W0XYAWcrf0X8RVE15KfBJ0USrQfj62tKofbOb9Vb001DbaYI6v_gkEkTmH7ymCFqP6xtZCeNxi6Qzf4LWKW6_yJy__dpWFaSG0L2UzFaJotfFVL3fiLLzKOIM4kaddlrywmhO5MQDgFLJgPnvPRxEqMygbJiVb8OigxAEsgc=s1600)
-
 
 ## Birthday Color for January 2: Snowflake White (`#F2EDF3`)
 

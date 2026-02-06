@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgRA47dU8chmsdRM8rxPWvUq8iEFs-F_Sd8i-gP2GGIz9NEuc0DgMEdZeY8ZkLEx_Mfx946ho72fEhxaht0caxyOJm7zvMgeX7ynFssbDSdv0Io66cRissWk4yaFZB2-9OPkpsnuD7ry3Z8Ir7qMQJaxcJk4MCH8wKcTqYu4Gp2HmALA8Vyfu8pui2oVNW3=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アプリコット、6月7日の誕生色"
 date: "2026-06-07"
 updated: "2026-06-07"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "ムーンライトネイビー"
 description: "6月7日の誕生色 アプリコット(EA9E71)。色言葉は「柔らかさ、豊かさ、成熟美」です。相性の良い色はムーンライトネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgRA47dU8chmsdRM8rxPWvUq8iEFs-F_Sd8i-gP2GGIz9NEuc0DgMEdZeY8ZkLEx_Mfx946ho72fEhxaht0caxyOJm7zvMgeX7ynFssbDSdv0Io66cRissWk4yaFZB2-9OPkpsnuD7ry3Z8Ir7qMQJaxcJk4MCH8wKcTqYu4Gp2HmALA8Vyfu8pui2oVNW3=s1600"
 en_name: "Apricot"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgRA47dU8chmsdRM8rxPWvUq8iEFs-F_Sd8i-gP2GGIz9NEuc0DgMEdZeY8ZkLEx_Mfx946ho72fEhxaht0caxyOJm7zvMgeX7ynFssbDSdv0Io66cRissWk4yaFZB2-9OPkpsnuD7ry3Z8Ir7qMQJaxcJk4MCH8wKcTqYu4Gp2HmALA8Vyfu8pui2oVNW3=s1600)
-
 
 ## 6月7日の誕生色: アプリコット (`#EA9E71`)
 

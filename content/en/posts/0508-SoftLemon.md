@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgd58_8aLl0S-aJcC386mFiXFgfiHjsOXyZTLgfWKE-2S4fECIzwsmJ8VcfcC5RoAtx915lxsmW7Us5k09SdTGdcGO1Wb656u-C-ycm5w9_w_DP6pD3bT59OmVI0fp-5FKKUJNRhNhewlsXhAxlpgac7KxJhzKTO0GEvs31E7DzVuKM8Pksun5RWe1LQX1o=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Soft Lemon, The Birthday Color of May 8"
 date: "2026-05-08"
 updated: "2026-05-08"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "true navy"
 description: "The birthday color for May 8 is Soft Lemon (D5D679). Its meaning is Inclusive, Considerate, Understanding."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgd58_8aLl0S-aJcC386mFiXFgfiHjsOXyZTLgfWKE-2S4fECIzwsmJ8VcfcC5RoAtx915lxsmW7Us5k09SdTGdcGO1Wb656u-C-ycm5w9_w_DP6pD3bT59OmVI0fp-5FKKUJNRhNhewlsXhAxlpgac7KxJhzKTO0GEvs31E7DzVuKM8Pksun5RWe1LQX1o=s1600"
 en_name: "SoftLemon"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgd58_8aLl0S-aJcC386mFiXFgfiHjsOXyZTLgfWKE-2S4fECIzwsmJ8VcfcC5RoAtx915lxsmW7Us5k09SdTGdcGO1Wb656u-C-ycm5w9_w_DP6pD3bT59OmVI0fp-5FKKUJNRhNhewlsXhAxlpgac7KxJhzKTO0GEvs31E7DzVuKM8Pksun5RWe1LQX1o=s1600)
-
 
 ## Birthday Color for May 8: Soft Lemon (`#D5D679`)
 

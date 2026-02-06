@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiFNTCIg2LSAwMdqQAfzTldkAz82MM3GRE_uwSiAHUXFiUKitLoWdD7EoYAojiK6F5UIOqoeNe4iQF6iKP0rtHd-X9v3Jp5jvr3K3cOYzvkUKrDAI-mFTY5icasgUGsXzwgft5_tzrBqo2iiVtNsXZbeUtw32IyQIYHdpfBp3-I0p4Cq6Ob4u-PYIPa4HPh=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ワイルドグリーン、4月30日の誕生色"
 date: "2026-04-30"
 updated: "2026-04-30"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "ライラック"
 description: "4月30日の誕生色 ワイルドグリーン(387146)。色言葉は「強靭、生命力、繁栄」です。相性の良い色はライラックです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiFNTCIg2LSAwMdqQAfzTldkAz82MM3GRE_uwSiAHUXFiUKitLoWdD7EoYAojiK6F5UIOqoeNe4iQF6iKP0rtHd-X9v3Jp5jvr3K3cOYzvkUKrDAI-mFTY5icasgUGsXzwgft5_tzrBqo2iiVtNsXZbeUtw32IyQIYHdpfBp3-I0p4Cq6Ob4u-PYIPa4HPh=s1600"
 en_name: "Wild Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiFNTCIg2LSAwMdqQAfzTldkAz82MM3GRE_uwSiAHUXFiUKitLoWdD7EoYAojiK6F5UIOqoeNe4iQF6iKP0rtHd-X9v3Jp5jvr3K3cOYzvkUKrDAI-mFTY5icasgUGsXzwgft5_tzrBqo2iiVtNsXZbeUtw32IyQIYHdpfBp3-I0p4Cq6Ob4u-PYIPa4HPh=s1600)
-
 
 ## 4月30日の誕生色: ワイルドグリーン (`#387146`)
 

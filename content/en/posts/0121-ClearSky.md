@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-21'
-description: The birthday color for January 21 is Clear Sky (99DBE9). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhUKhJ9Gcg0pninTKMvQ25L-cuDpuFnNrHem7X5NJA-PvSLErIp2-gvGTeoyHHY9sC6y2ODDdnItO2bDgLn9njgcN_wh8JHxX5fBxtBS0kv1j17RvA2OzHyD8kWH8kNXqOyon7C129BLR11WXYfN65mdvxI02fPDHM08icDc2YjQ-CsIdRwST65_f1GjCpc=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-21"
+description: "The birthday color for January 21 is Clear Sky (99DBE9). Its meaning"
   is Idealistic, Dreaming, Romantic.
-en_name: ClearSky
+en_name: "ClearSky"
 tags:
-- clear sky
-- birthday color
-- january 21
-- 99dbe9
-- january
-- red brown
-postId: '2469004594439419824'
-postUrl: https://the366days-en.blogspot.com/2026/01/clear-sky-birthday-color-of-january-21.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhUKhJ9Gcg0pninTKMvQ25L-cuDpuFnNrHem7X5NJA-PvSLErIp2-gvGTeoyHHY9sC6y2ODDdnItO2bDgLn9njgcN_wh8JHxX5fBxtBS0kv1j17RvA2OzHyD8kWH8kNXqOyon7C129BLR11WXYfN65mdvxI02fPDHM08icDc2YjQ-CsIdRwST65_f1GjCpc=s1600
-title: Clear Sky, The Birthday Color of January 21
-updated: '2026-01-21'
+  - "clear sky"
+  - "birthday color"
+  - "january 21"
+  - "99dbe9"
+  - "january"
+  - "red brown"
+postId: "2469004594439419824"
+postUrl: "https://the366days-en.blogspot.com/2026/01/clear-sky-birthday-color-of-january-21.html"
+profileName: "Pieces of a Day"
+title: "Clear Sky, The Birthday Color of January 21"
+updated: "2026-01-21"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhUKhJ9Gcg0pninTKMvQ25L-cuDpuFnNrHem7X5NJA-PvSLErIp2-gvGTeoyHHY9sC6y2ODDdnItO2bDgLn9njgcN_wh8JHxX5fBxtBS0kv1j17RvA2OzHyD8kWH8kNXqOyon7C129BLR11WXYfN65mdvxI02fPDHM08icDc2YjQ-CsIdRwST65_f1GjCpc=s1600)
-
 
 ## Birthday Color for January 21: Clear Sky (`#99DBE9`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgkFh9Hiq3wlF2_9hnG3nYTyb3XoVhxDPcadeBVCsTfUoB4XDvrGjXl_qcsvQhUyDXkByJKFUANztUCOVqC-W0MtLTO98pOi_MjOuzAQXRkD1Ni5-VGcJmtRZB-uIV0wR49zMQKjsbGCLoSNjD8PXB12fXduC2NYaGlF68JJBU_2mdqbE1cX_qs7m4fkJMi=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ゴールデンスター、5月2日の誕生色"
 date: "2026-05-02"
 updated: "2026-05-02"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "エレガントウルトラマリン"
 description: "5月2日の誕生色 ゴールデンスター(E5A859)。色言葉は「成就力、輝き、影響力」です。相性の良い色はエレガントウルトラマリンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgkFh9Hiq3wlF2_9hnG3nYTyb3XoVhxDPcadeBVCsTfUoB4XDvrGjXl_qcsvQhUyDXkByJKFUANztUCOVqC-W0MtLTO98pOi_MjOuzAQXRkD1Ni5-VGcJmtRZB-uIV0wR49zMQKjsbGCLoSNjD8PXB12fXduC2NYaGlF68JJBU_2mdqbE1cX_qs7m4fkJMi=s1600"
 en_name: "Golden Star"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgkFh9Hiq3wlF2_9hnG3nYTyb3XoVhxDPcadeBVCsTfUoB4XDvrGjXl_qcsvQhUyDXkByJKFUANztUCOVqC-W0MtLTO98pOi_MjOuzAQXRkD1Ni5-VGcJmtRZB-uIV0wR49zMQKjsbGCLoSNjD8PXB12fXduC2NYaGlF68JJBU_2mdqbE1cX_qs7m4fkJMi=s1600)
-
 
 ## 5月2日の誕生色: ゴールデンスター (`#E5A859`)
 

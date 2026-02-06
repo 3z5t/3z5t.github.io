@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-21'
-description: 1月21日の誕生色 クリアスカイ(99DBE9)。色言葉は「理想主義、夢見る心、ロマンチック」です。相性の良い色はレッドブラウンです。
-en_name: Clear Sky
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEizgt2wCyBG9KZ633bY7JUYyFyUQzbwWloW_FuP45RmIdOgTKu8VkPw5XW9FtwAaCMIu1Hh79NkzQikGXXpHD3TX8OlXMUaHHAg_rKrYeLWOcmSAry-H0Rz-o88R_yZxCF7loPUD1IXm7NLySyB7Kt4RzJXDxwbIqbKyjuc5QxLy06Wni3uYK4649wMV3Is=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-21"
+description: "1月21日の誕生色 クリアスカイ(99DBE9)。色言葉は「理想主義、夢見る心、ロマンチック」です。相性の良い色はレッドブラウンです。"
+en_name: "Clear Sky"
 tags:
-- クリアスカイ
-- 誕生色
-- 1月21日
-- 99DBE9
-- 1月
-- レッドブラウン
-postId: '7152770952280809827'
-postUrl: https://the366days-ja.blogspot.com/2026/01/121-clear-sky.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEizgt2wCyBG9KZ633bY7JUYyFyUQzbwWloW_FuP45RmIdOgTKu8VkPw5XW9FtwAaCMIu1Hh79NkzQikGXXpHD3TX8OlXMUaHHAg_rKrYeLWOcmSAry-H0Rz-o88R_yZxCF7loPUD1IXm7NLySyB7Kt4RzJXDxwbIqbKyjuc5QxLy06Wni3uYK4649wMV3Is=s1600
-title: クリアスカイ、1月21日の誕生色
-updated: '2026-01-21'
+  - "クリアスカイ"
+  - "誕生色"
+  - "1月21日"
+  - "99DBE9"
+  - "1月"
+  - "レッドブラウン"
+postId: "7152770952280809827"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/121-clear-sky.html"
+profileName: "日々のカケラ"
+title: "クリアスカイ、1月21日の誕生色"
+updated: "2026-01-21"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEizgt2wCyBG9KZ633bY7JUYyFyUQzbwWloW_FuP45RmIdOgTKu8VkPw5XW9FtwAaCMIu1Hh79NkzQikGXXpHD3TX8OlXMUaHHAg_rKrYeLWOcmSAry-H0Rz-o88R_yZxCF7loPUD1IXm7NLySyB7Kt4RzJXDxwbIqbKyjuc5QxLy06Wni3uYK4649wMV3Is=s1600)
-
 
 ## 1月21日の誕生色: クリアスカイ (`#99DBE9`)
 

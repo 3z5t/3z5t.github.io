@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjUtgayle2KlX3HKAjvOPLkzmRZ3S74_wnu28Lz12JSu6xGdX96Dfx02XD1Lx4pa_PGBQJ7YpqaT8XLyAOpY-doRE_mQ1gsCOV4BmluEmzCVSXVFQXVxFyZDIR9_jw57k5H54b60FmgZ1XshLO_CEYCFi47EVeXXQUdg0KbMZ88uxyMHmUfXeue9PW_lJfr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Abyss, The Birthday Color of November 19"
 date: "2026-11-19"
 updated: "2026-11-19"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "lily white"
 description: "The birthday color for November 19 is Deep Abyss (0D0D10). Its meaning is Infinite, Mysterious, Profound."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjUtgayle2KlX3HKAjvOPLkzmRZ3S74_wnu28Lz12JSu6xGdX96Dfx02XD1Lx4pa_PGBQJ7YpqaT8XLyAOpY-doRE_mQ1gsCOV4BmluEmzCVSXVFQXVxFyZDIR9_jw57k5H54b60FmgZ1XshLO_CEYCFi47EVeXXQUdg0KbMZ88uxyMHmUfXeue9PW_lJfr=s1600"
 en_name: "DeepAbyss"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjUtgayle2KlX3HKAjvOPLkzmRZ3S74_wnu28Lz12JSu6xGdX96Dfx02XD1Lx4pa_PGBQJ7YpqaT8XLyAOpY-doRE_mQ1gsCOV4BmluEmzCVSXVFQXVxFyZDIR9_jw57k5H54b60FmgZ1XshLO_CEYCFi47EVeXXQUdg0KbMZ88uxyMHmUfXeue9PW_lJfr=s1600)
-
 
 ## Birthday Color for November 19: Deep Abyss (`#0D0D10`)
 

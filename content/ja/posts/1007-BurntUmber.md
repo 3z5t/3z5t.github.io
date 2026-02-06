@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh1-Oo92DT-h9hDq1Pn0hA5efdZZA9S2p7JpJuWByFm3PIuzYhdwI0s5s97NQpjJcRK6W3nejG18_fhXY1NgyAI9Ms_INISolgW5fqOTqYJC_iVcnasmiXs_mDDWCUAtwVFnYX_jkow61z_RqZzYGdeLtWIrpFOMb_xBG3R5euyXUxRgetz9VB4GkTbpZsI=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "バーントアンバー、10月7日の誕生色"
 date: "2026-10-07"
 updated: "2026-10-07"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "ソフトダウニー"
 description: "10月7日の誕生色 バーントアンバー(8D3131)。色言葉は「固い意志、強靭、決断力」です。相性の良い色はソフトダウニーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh1-Oo92DT-h9hDq1Pn0hA5efdZZA9S2p7JpJuWByFm3PIuzYhdwI0s5s97NQpjJcRK6W3nejG18_fhXY1NgyAI9Ms_INISolgW5fqOTqYJC_iVcnasmiXs_mDDWCUAtwVFnYX_jkow61z_RqZzYGdeLtWIrpFOMb_xBG3R5euyXUxRgetz9VB4GkTbpZsI=s1600"
 en_name: "Burnt Umber"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh1-Oo92DT-h9hDq1Pn0hA5efdZZA9S2p7JpJuWByFm3PIuzYhdwI0s5s97NQpjJcRK6W3nejG18_fhXY1NgyAI9Ms_INISolgW5fqOTqYJC_iVcnasmiXs_mDDWCUAtwVFnYX_jkow61z_RqZzYGdeLtWIrpFOMb_xBG3R5euyXUxRgetz9VB4GkTbpZsI=s1600)
-
 
 ## 10月7日の誕生色: バーントアンバー (`#8D3131`)
 

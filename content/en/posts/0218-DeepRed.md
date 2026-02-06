@@ -1,21 +1,24 @@
 ---
-"title": "Deep Red, The Birthday Color of February 18"
-"date": "2026-02-18"
-"updated": "2026-02-18"
-"labels":
-- "deep red"
-- "birthday color"
-- "february 18"
-- "f3392c"
-- "february"
-- "noble sky blue"
-"description": "The birthday color for February 18 is Deep Red (F3392C). Its meaning is Challenging Spirit, Courage, Determination."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgNAuE9iXgcys2PjgoY65gNihH6bJYnIKcjFZYNRmS_cBrqdmlAXPFjxCrEbFnVSM7TwgsBsEIfgiaRCFtAO4mOkf8x1F7tjEIi2PpIkGwTUIsc0XUicPLhRr_1CjriPcKljWzp3ybD0rPkyYHrKXbBwgEnlJVedkvh3fXojCj_JJEJZoYdthcAJEziNZxM=s1600"
-"en_name": "DeepRed"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "6327929262000857513"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/deep-red-birthday-color-of-february-18.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgNAuE9iXgcys2PjgoY65gNihH6bJYnIKcjFZYNRmS_cBrqdmlAXPFjxCrEbFnVSM7TwgsBsEIfgiaRCFtAO4mOkf8x1F7tjEIi2PpIkGwTUIsc0XUicPLhRr_1CjriPcKljWzp3ybD0rPkyYHrKXbBwgEnlJVedkvh3fXojCj_JJEJZoYdthcAJEziNZxM=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Deep Red, The Birthday Color of February 18"
+date: "2026-02-18"
+updated: "2026-02-18"
+tags:
+  - "deep red"
+  - "birthday color"
+  - "february 18"
+  - "f3392c"
+  - "february"
+  - "noble sky blue"
+description: "The birthday color for February 18 is Deep Red (F3392C). Its meaning is Challenging Spirit, Courage, Determination."
+en_name: "DeepRed"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "6327929262000857513"
+postUrl: "https://the366days-en.blogspot.com/2026/02/deep-red-birthday-color-of-february-18.html"
 ---
 
 ## Birthday Color for February 18: Deep Red (`#F3392C`)

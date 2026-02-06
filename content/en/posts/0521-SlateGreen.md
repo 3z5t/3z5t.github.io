@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgiqXYa3BAHLMGNDBKomL9WcyN7HmDYYFEYN6Usd3Qs-wiJpUBb28IpB8EQwl5xXfRorjvw3tCdxOVA7yMhxVgJxprE1cJ--atguSRgqQs3jlbZ-9wvIGcprlcRdBJI2IWnXudawHsXMa3S5T_so-YUXC-JDRAP5whaeZiif7nqk4kEf0SzOpRgmY3ZCUtg=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Slate Green, The Birthday Color of May 21"
 date: "2026-05-21"
 updated: "2026-05-21"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "autumn brick wall"
 description: "The birthday color for May 21 is Slate Green (557A7C). Its meaning is Intellectual, Studious, Inquisitive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgiqXYa3BAHLMGNDBKomL9WcyN7HmDYYFEYN6Usd3Qs-wiJpUBb28IpB8EQwl5xXfRorjvw3tCdxOVA7yMhxVgJxprE1cJ--atguSRgqQs3jlbZ-9wvIGcprlcRdBJI2IWnXudawHsXMa3S5T_so-YUXC-JDRAP5whaeZiif7nqk4kEf0SzOpRgmY3ZCUtg=s1600"
 en_name: "SlateGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgiqXYa3BAHLMGNDBKomL9WcyN7HmDYYFEYN6Usd3Qs-wiJpUBb28IpB8EQwl5xXfRorjvw3tCdxOVA7yMhxVgJxprE1cJ--atguSRgqQs3jlbZ-9wvIGcprlcRdBJI2IWnXudawHsXMa3S5T_so-YUXC-JDRAP5whaeZiif7nqk4kEf0SzOpRgmY3ZCUtg=s1600)
-
 
 ## Birthday Color for May 21: Slate Green (`#557A7C`)
 

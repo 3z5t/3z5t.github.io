@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhMG_AEG8vbb1-OlvzdPCl-bK7GOa07b6v9ZqxNro5Saz8mR84S9D5lrX-SFLooZMRBON2HJQZECyshjU2t8usTrP4TfoNBYm-deyTNdjPA25TckNk1NtkjbMJUfGs80777qBcA4vAn1OJwMcGzI8fmaedaM39ZqdLmvtKr2GwI-VXXmfAUTOXzWChmeGiT=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Burlywood, The Birthday Color of August 17"
 date: "2026-08-17"
 updated: "2026-08-17"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "true navy"
 description: "The birthday color for August 17 is Burlywood (DCBF97). Its meaning is Mature, Stable, Calm."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhMG_AEG8vbb1-OlvzdPCl-bK7GOa07b6v9ZqxNro5Saz8mR84S9D5lrX-SFLooZMRBON2HJQZECyshjU2t8usTrP4TfoNBYm-deyTNdjPA25TckNk1NtkjbMJUfGs80777qBcA4vAn1OJwMcGzI8fmaedaM39ZqdLmvtKr2GwI-VXXmfAUTOXzWChmeGiT=s1600"
 en_name: "Burlywood"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhMG_AEG8vbb1-OlvzdPCl-bK7GOa07b6v9ZqxNro5Saz8mR84S9D5lrX-SFLooZMRBON2HJQZECyshjU2t8usTrP4TfoNBYm-deyTNdjPA25TckNk1NtkjbMJUfGs80777qBcA4vAn1OJwMcGzI8fmaedaM39ZqdLmvtKr2GwI-VXXmfAUTOXzWChmeGiT=s1600)
-
 
 ## Birthday Color for August 17: Burlywood (`#DCBF97`)
 

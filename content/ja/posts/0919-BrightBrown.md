@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj7-10VC0kUdISm__fXe2s5tiWHCc2Offko2Rx2FQ1VlUlVBItnx203bIrwYFKjP4M98-IpXygXdSPjRo7VTPCLsMbQo_DhI87PTfx3ijIMt8GRaIgXx4mA824Xxk93JRFY9IYysodrlCMBejjn6u-cF4mNntvkB7igmosVomPZqcnxqAWYL4V3pB4ApIIx=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ブライトブラウン、9月19日の誕生色"
 date: "2026-09-19"
 updated: "2026-09-19"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ミスティライトパープル"
 description: "9月19日の誕生色 ブライトブラウン(887865)。色言葉は「大地のような、安定感、包容力」です。相性の良い色はミスティライトパープルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj7-10VC0kUdISm__fXe2s5tiWHCc2Offko2Rx2FQ1VlUlVBItnx203bIrwYFKjP4M98-IpXygXdSPjRo7VTPCLsMbQo_DhI87PTfx3ijIMt8GRaIgXx4mA824Xxk93JRFY9IYysodrlCMBejjn6u-cF4mNntvkB7igmosVomPZqcnxqAWYL4V3pB4ApIIx=s1600"
 en_name: "Bright Brown"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj7-10VC0kUdISm__fXe2s5tiWHCc2Offko2Rx2FQ1VlUlVBItnx203bIrwYFKjP4M98-IpXygXdSPjRo7VTPCLsMbQo_DhI87PTfx3ijIMt8GRaIgXx4mA824Xxk93JRFY9IYysodrlCMBejjn6u-cF4mNntvkB7igmosVomPZqcnxqAWYL4V3pB4ApIIx=s1600)
-
 
 ## 9月19日の誕生色: ブライトブラウン (`#887865`)
 

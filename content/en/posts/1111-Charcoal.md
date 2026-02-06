@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhQmGSRH0pnRQplsbK0pv8wa-kLIcRQFTNZ-L7PxK6zD3OJboyuk7A3INohACFFB0OPKvRrtl8HVFqdiVMNoDmmcQSxgiUFjgtyWsHfCRkeZdsW2B4UJU8a6FF-qOeF8b288Kpnw5WLqhgXVT7Le7SM5HdyZEmtH6omlA5TZHd-D0HO_SsaZ23mayBUql0R=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Charcoal, The Birthday Color of November 11"
 date: "2026-11-11"
 updated: "2026-11-11"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "winter sand beach"
 description: "The birthday color for November 11 is Charcoal (373F57). Its meaning is Insightful, Wise, Profound."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhQmGSRH0pnRQplsbK0pv8wa-kLIcRQFTNZ-L7PxK6zD3OJboyuk7A3INohACFFB0OPKvRrtl8HVFqdiVMNoDmmcQSxgiUFjgtyWsHfCRkeZdsW2B4UJU8a6FF-qOeF8b288Kpnw5WLqhgXVT7Le7SM5HdyZEmtH6omlA5TZHd-D0HO_SsaZ23mayBUql0R=s1600"
 en_name: "Charcoal"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhQmGSRH0pnRQplsbK0pv8wa-kLIcRQFTNZ-L7PxK6zD3OJboyuk7A3INohACFFB0OPKvRrtl8HVFqdiVMNoDmmcQSxgiUFjgtyWsHfCRkeZdsW2B4UJU8a6FF-qOeF8b288Kpnw5WLqhgXVT7Le7SM5HdyZEmtH6omlA5TZHd-D0HO_SsaZ23mayBUql0R=s1600)
-
 
 ## Birthday Color for November 11: Charcoal (`#373F57`)
 

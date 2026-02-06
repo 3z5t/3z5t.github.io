@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjR6WDpiCNkl-65bBaUJ1yTWGtVl87qtArxAsZbJy1N79H44B5OVdgqeGXKb43_litWbanqeS0wg7tuJxRtwXOriegdeXDhUG-hKuuT5Kyc5QO-W-NsFbKSQC2kP3lJspwTWvZ_U4f6-745WK2lAQcfJU7kL8ZXxfx3LJx2uCQK9lBd8-VjiAnAEDZIBJ9G=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Sprout Green, The Birthday Color of March 1"
 date: "2026-03-01"
 updated: "2026-03-01"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "orchid purple"
 description: "The birthday color for March 1 is Sprout Green (5FD059). Its meaning is Freedom, Independence, Pioneering Spirit."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjR6WDpiCNkl-65bBaUJ1yTWGtVl87qtArxAsZbJy1N79H44B5OVdgqeGXKb43_litWbanqeS0wg7tuJxRtwXOriegdeXDhUG-hKuuT5Kyc5QO-W-NsFbKSQC2kP3lJspwTWvZ_U4f6-745WK2lAQcfJU7kL8ZXxfx3LJx2uCQK9lBd8-VjiAnAEDZIBJ9G=s1600"
 en_name: "SproutGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjR6WDpiCNkl-65bBaUJ1yTWGtVl87qtArxAsZbJy1N79H44B5OVdgqeGXKb43_litWbanqeS0wg7tuJxRtwXOriegdeXDhUG-hKuuT5Kyc5QO-W-NsFbKSQC2kP3lJspwTWvZ_U4f6-745WK2lAQcfJU7kL8ZXxfx3LJx2uCQK9lBd8-VjiAnAEDZIBJ9G=s1600)
-
 
 ## Birthday Color for March 1: Sprout Green (`#5FD059`)
 

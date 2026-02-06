@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjEe6qZURIMj09hQK516V_bDHig0rBfeKjKwvhzw5CMVzv_KfGVlnhOfXCnKSNqzCtsIMI27pD3lEcvlfC1ZFXjjr3RH0G5CGimLC1EM77nf5Af1kHzaqirqVvOgnIwqoTu9RyhgdyoanXI-VhT1LP8nDeyDS-k_X7yuHEz7E1jEAxAm6IKD_wCroKIczXa=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ファインサンド、9月11日の誕生色"
 date: "2026-09-11"
 updated: "2026-09-11"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ディープフォレスト"
 description: "9月11日の誕生色 ファインサンド(EEE9E2)。色言葉は「純粋な心、自然体、平和」です。相性の良い色はディープフォレストです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjEe6qZURIMj09hQK516V_bDHig0rBfeKjKwvhzw5CMVzv_KfGVlnhOfXCnKSNqzCtsIMI27pD3lEcvlfC1ZFXjjr3RH0G5CGimLC1EM77nf5Af1kHzaqirqVvOgnIwqoTu9RyhgdyoanXI-VhT1LP8nDeyDS-k_X7yuHEz7E1jEAxAm6IKD_wCroKIczXa=s1600"
 en_name: "Fine Sand"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjEe6qZURIMj09hQK516V_bDHig0rBfeKjKwvhzw5CMVzv_KfGVlnhOfXCnKSNqzCtsIMI27pD3lEcvlfC1ZFXjjr3RH0G5CGimLC1EM77nf5Af1kHzaqirqVvOgnIwqoTu9RyhgdyoanXI-VhT1LP8nDeyDS-k_X7yuHEz7E1jEAxAm6IKD_wCroKIczXa=s1600)
-
 
 ## 9月11日の誕生色: ファインサンド (`#EEE9E2`)
 

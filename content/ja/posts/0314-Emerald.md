@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiyY-xKfPQj8htSzfsrPfDyFxQbsoHJjmkK97gmtUvMBZifD1bpu7qCtV95irNiFlrqHkUsil1AKca7WOIBOxqOeS3_NHSok8sH8QfurZGW1IL2NvIltxrVWKG-81igSbW2u07-4mQsWPoKHjpVe8ZTRPW35Z8bEBO6Y7UeKoIatLC-hYuT5sJYD7JRuSQ1=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "エメラルド、3月14日の誕生色"
 date: "2026-03-14"
 updated: "2026-03-14"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "オーキッドパープル"
 description: "3月14日の誕生色 エメラルド(66CC66)。色言葉は「躍動感、若さ、創造性」です。相性の良い色はオーキッドパープルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiyY-xKfPQj8htSzfsrPfDyFxQbsoHJjmkK97gmtUvMBZifD1bpu7qCtV95irNiFlrqHkUsil1AKca7WOIBOxqOeS3_NHSok8sH8QfurZGW1IL2NvIltxrVWKG-81igSbW2u07-4mQsWPoKHjpVe8ZTRPW35Z8bEBO6Y7UeKoIatLC-hYuT5sJYD7JRuSQ1=s1600"
 en_name: "Emerald"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiyY-xKfPQj8htSzfsrPfDyFxQbsoHJjmkK97gmtUvMBZifD1bpu7qCtV95irNiFlrqHkUsil1AKca7WOIBOxqOeS3_NHSok8sH8QfurZGW1IL2NvIltxrVWKG-81igSbW2u07-4mQsWPoKHjpVe8ZTRPW35Z8bEBO6Y7UeKoIatLC-hYuT5sJYD7JRuSQ1=s1600)
-
 
 ## 3月14日の誕生色: エメラルド (`#66CC66`)
 

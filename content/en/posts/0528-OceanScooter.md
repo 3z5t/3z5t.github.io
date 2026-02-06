@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgX-YgKQvhSxtxh3lfcE--v2lv2VPVy6asE06dsReuf4aikzvR3qXxXHtzTfJq_rE3cSumoYzBn9_qPM5xjNVyrIu4lcjM-s4edEBg5Yz5nJYU1f1N2lKMD-H47u97bPAzdfsIuEtaz1d-zaADtur3rcruk5_1XqGEz0XXsgjdor1rBhXlc5WHqER2hvwyy=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Ocean Scooter, The Birthday Color of May 28"
 date: "2026-05-28"
 updated: "2026-05-28"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "matte rose"
 description: "The birthday color for May 28 is Ocean Scooter (339999). Its meaning is Adventurous, Challenging Spirit, Energetic."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgX-YgKQvhSxtxh3lfcE--v2lv2VPVy6asE06dsReuf4aikzvR3qXxXHtzTfJq_rE3cSumoYzBn9_qPM5xjNVyrIu4lcjM-s4edEBg5Yz5nJYU1f1N2lKMD-H47u97bPAzdfsIuEtaz1d-zaADtur3rcruk5_1XqGEz0XXsgjdor1rBhXlc5WHqER2hvwyy=s1600"
 en_name: "OceanScooter"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgX-YgKQvhSxtxh3lfcE--v2lv2VPVy6asE06dsReuf4aikzvR3qXxXHtzTfJq_rE3cSumoYzBn9_qPM5xjNVyrIu4lcjM-s4edEBg5Yz5nJYU1f1N2lKMD-H47u97bPAzdfsIuEtaz1d-zaADtur3rcruk5_1XqGEz0XXsgjdor1rBhXlc5WHqER2hvwyy=s1600)
-
 
 ## Birthday Color for May 28: Ocean Scooter (`#339999`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgdppAWIqliVPJeuDgw_GQlwfjBXJkiwbJ0Zh-Yfs3PFE-qaJjd0r3Rik-t1fbhmQdk9iVbL5WbCQJgZ7r0IPqEfLwUkxug2ldKJQB3yoKwCeWzmmCDf95S63U_hfR3KptHwuiUNzNzDUrGY8Py_AzLjKFyhqD0teqc31h_u87-uzlUcHHAXxr0Gjzh8G4o=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Winter Milk Tea, The Birthday Color of December 10"
 date: "2026-12-10"
 updated: "2026-12-10"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "smoky black"
 description: "The birthday color for December 10 is Winter Milk Tea (F2EDF3). Its meaning is Warm Heart, Cozy, Peaceful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgdppAWIqliVPJeuDgw_GQlwfjBXJkiwbJ0Zh-Yfs3PFE-qaJjd0r3Rik-t1fbhmQdk9iVbL5WbCQJgZ7r0IPqEfLwUkxug2ldKJQB3yoKwCeWzmmCDf95S63U_hfR3KptHwuiUNzNzDUrGY8Py_AzLjKFyhqD0teqc31h_u87-uzlUcHHAXxr0Gjzh8G4o=s1600"
 en_name: "WinterMilkTea"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgdppAWIqliVPJeuDgw_GQlwfjBXJkiwbJ0Zh-Yfs3PFE-qaJjd0r3Rik-t1fbhmQdk9iVbL5WbCQJgZ7r0IPqEfLwUkxug2ldKJQB3yoKwCeWzmmCDf95S63U_hfR3KptHwuiUNzNzDUrGY8Py_AzLjKFyhqD0teqc31h_u87-uzlUcHHAXxr0Gjzh8G4o=s1600)
-
 
 ## Birthday Color for December 10: Winter Milk Tea (`#F2EDF3`)
 

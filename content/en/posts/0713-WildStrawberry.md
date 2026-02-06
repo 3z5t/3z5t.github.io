@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiIuhOL-nH8SMbvt0z4HyOImapUGnSr8QzC5RfWmDD9vBLG69zHFw0z6d7jy6ccCnJ4yPbdv4EhHclsahGOo1x9f8_c_EcKxAuSajc9esLEQvSTl5KqkZAlNIRVcRdJ2a72iN3YDvGncu2JZOL4xLF7LVAI-ExDSkVDW4sWWb28a-a13NJ8Nk2E56GY-xMt=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Wild Strawberry, The Birthday Color of July 13"
 date: "2026-07-13"
 updated: "2026-07-13"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "emerald green"
 description: "The birthday color for July 13 is Wild Strawberry (FF3399). Its meaning is Sweet Charm, Passionate, Lively."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiIuhOL-nH8SMbvt0z4HyOImapUGnSr8QzC5RfWmDD9vBLG69zHFw0z6d7jy6ccCnJ4yPbdv4EhHclsahGOo1x9f8_c_EcKxAuSajc9esLEQvSTl5KqkZAlNIRVcRdJ2a72iN3YDvGncu2JZOL4xLF7LVAI-ExDSkVDW4sWWb28a-a13NJ8Nk2E56GY-xMt=s1600"
 en_name: "WildStrawberry"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiIuhOL-nH8SMbvt0z4HyOImapUGnSr8QzC5RfWmDD9vBLG69zHFw0z6d7jy6ccCnJ4yPbdv4EhHclsahGOo1x9f8_c_EcKxAuSajc9esLEQvSTl5KqkZAlNIRVcRdJ2a72iN3YDvGncu2JZOL4xLF7LVAI-ExDSkVDW4sWWb28a-a13NJ8Nk2E56GY-xMt=s1600)
-
 
 ## Birthday Color for July 13: Wild Strawberry (`#FF3399`)
 

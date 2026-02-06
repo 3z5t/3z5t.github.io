@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjrP61GRVoqCTFqZx25VJcj8CRCu2dE5wPAP-4xyt825VbgBjOP--jN-mwU6yyStl-SL4fj5NuhT0JHj_mgNx7K0pDuWLCgjBgSYtX82O4YxuNwImzno5tf4adIrgiOYaY3XsmupPuaQ82T1B7ugektYDAvoBCBgdqhfLnPlxh0mjfK67vAJrgbR1UFd0tm=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Abyss Black, The Birthday Color of November 13"
 date: "2026-11-13"
 updated: "2026-11-13"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "pure silver"
 description: "The birthday color for November 13 is Abyss Black (1A1A1A). Its meaning is Infinite Possibility, Mysterious, Profound."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjrP61GRVoqCTFqZx25VJcj8CRCu2dE5wPAP-4xyt825VbgBjOP--jN-mwU6yyStl-SL4fj5NuhT0JHj_mgNx7K0pDuWLCgjBgSYtX82O4YxuNwImzno5tf4adIrgiOYaY3XsmupPuaQ82T1B7ugektYDAvoBCBgdqhfLnPlxh0mjfK67vAJrgbR1UFd0tm=s1600"
 en_name: "AbyssBlack"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjrP61GRVoqCTFqZx25VJcj8CRCu2dE5wPAP-4xyt825VbgBjOP--jN-mwU6yyStl-SL4fj5NuhT0JHj_mgNx7K0pDuWLCgjBgSYtX82O4YxuNwImzno5tf4adIrgiOYaY3XsmupPuaQ82T1B7ugektYDAvoBCBgdqhfLnPlxh0mjfK67vAJrgbR1UFd0tm=s1600)
-
 
 ## Birthday Color for November 13: Abyss Black (`#1A1A1A`)
 

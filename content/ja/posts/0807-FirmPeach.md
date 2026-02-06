@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiA5lkN_L2Yk5q-yZ84aQUx-tPTj02-TdnogtGRH35ZB7Mluu_7GznFQSmUAFolzFgeHO29yL2Hh9NQhqUoMvFiwFIRPzTYqlzssRDv_roRBEOTKNwlcHpeh6ok73EItDNJrZPdcnG-xUXreMsUVmul6rhxNX7eSeK2do2AercGoBR37GPJKejdJwwNYGYX=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ファームピーチ、8月7日の誕生色"
 date: "2026-08-07"
 updated: "2026-08-07"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "ディープフォレスト"
 description: "8月7日の誕生色 ファームピーチ(F5EAE6)。色言葉は「固い意志、決断力、推進力」です。相性の良い色はディープフォレストです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiA5lkN_L2Yk5q-yZ84aQUx-tPTj02-TdnogtGRH35ZB7Mluu_7GznFQSmUAFolzFgeHO29yL2Hh9NQhqUoMvFiwFIRPzTYqlzssRDv_roRBEOTKNwlcHpeh6ok73EItDNJrZPdcnG-xUXreMsUVmul6rhxNX7eSeK2do2AercGoBR37GPJKejdJwwNYGYX=s1600"
 en_name: "Firm Peach"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiA5lkN_L2Yk5q-yZ84aQUx-tPTj02-TdnogtGRH35ZB7Mluu_7GznFQSmUAFolzFgeHO29yL2Hh9NQhqUoMvFiwFIRPzTYqlzssRDv_roRBEOTKNwlcHpeh6ok73EItDNJrZPdcnG-xUXreMsUVmul6rhxNX7eSeK2do2AercGoBR37GPJKejdJwwNYGYX=s1600)
-
 
 ## 8月7日の誕生色: ファームピーチ (`#F5EAE6`)
 

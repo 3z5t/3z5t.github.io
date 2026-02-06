@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgdAb1BEKLBejb9HNAtE0fcetkhG50EUytmxtWSiFz0BtZtlv5KrRVGxN-WbpFJXMi_04xAAk-LNbPFuslbjLFgHsMOe78wUc54XUcWikf7zT9AzS-TlRWwRJ-0y7xD6wOh2qdmevJFBPsk0kKYprMtmkahowvUUCVCUptmN-T4OeagTDUIIxeylJX6kIh1=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ターコイズ、4月7日の誕生色"
 date: "2026-04-07"
 updated: "2026-04-07"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "ウィンターベリー"
 description: "4月7日の誕生色 ターコイズ(40E0D0)。色言葉は「治癒力、回復力、創造性」です。相性の良い色はウィンターベリーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgdAb1BEKLBejb9HNAtE0fcetkhG50EUytmxtWSiFz0BtZtlv5KrRVGxN-WbpFJXMi_04xAAk-LNbPFuslbjLFgHsMOe78wUc54XUcWikf7zT9AzS-TlRWwRJ-0y7xD6wOh2qdmevJFBPsk0kKYprMtmkahowvUUCVCUptmN-T4OeagTDUIIxeylJX6kIh1=s1600"
 en_name: "Turquoise"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgdAb1BEKLBejb9HNAtE0fcetkhG50EUytmxtWSiFz0BtZtlv5KrRVGxN-WbpFJXMi_04xAAk-LNbPFuslbjLFgHsMOe78wUc54XUcWikf7zT9AzS-TlRWwRJ-0y7xD6wOh2qdmevJFBPsk0kKYprMtmkahowvUUCVCUptmN-T4OeagTDUIIxeylJX6kIh1=s1600)
-
 
 ## 4月7日の誕生色: ターコイズ (`#40E0D0`)
 

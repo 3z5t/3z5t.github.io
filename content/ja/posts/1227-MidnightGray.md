@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjMQKBu5Z4wZlfWP5lDxh03qLlSpv5ahoZTY1pEonxLMCHpNMQ4faLcS9c5YVPlRdObgJT0ViWUUVJSbBTaaAXidf5uMAnbBMkb-dzHQZvjSv2682w1esxKM5PNKdAB2anT6TWT9kXf2AB0Z2QyPWsZfuQ0s_0kD-8kSDZq7ovfFvtY7HYQUViZNIZiWJDm=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ミッドナイトグレー、12月27日の誕生色"
 date: "2026-12-27"
 updated: "2026-12-27"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ライトグリーンティー"
 description: "12月27日の誕生色 ミッドナイトグレー(565269)。色言葉は「落ち着いた性格、成熟、平和」です。相性の良い色はライトグリーンティーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjMQKBu5Z4wZlfWP5lDxh03qLlSpv5ahoZTY1pEonxLMCHpNMQ4faLcS9c5YVPlRdObgJT0ViWUUVJSbBTaaAXidf5uMAnbBMkb-dzHQZvjSv2682w1esxKM5PNKdAB2anT6TWT9kXf2AB0Z2QyPWsZfuQ0s_0kD-8kSDZq7ovfFvtY7HYQUViZNIZiWJDm=s1600"
 en_name: "Midnight Gray"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjMQKBu5Z4wZlfWP5lDxh03qLlSpv5ahoZTY1pEonxLMCHpNMQ4faLcS9c5YVPlRdObgJT0ViWUUVJSbBTaaAXidf5uMAnbBMkb-dzHQZvjSv2682w1esxKM5PNKdAB2anT6TWT9kXf2AB0Z2QyPWsZfuQ0s_0kD-8kSDZq7ovfFvtY7HYQUViZNIZiWJDm=s1600)
-
 
 ## 12月27日の誕生色: ミッドナイトグレー (`#565269`)
 

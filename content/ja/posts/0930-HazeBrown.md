@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjB65MlthjKT3uOJuoH7RMpzz8ckJdZesqsToPbld5rgzXnpgFrg6Z53_E6a78ffv45DVHL3prYSaKjO7wdeyfvBjgb2ez2GjTfv2MCU6t4llweUw5vtmE91O1C7BB4Aub6fOiQmJt82hvebzSMsZU3cSZbcPg-nZ13gmPA0rsmFpIzUGT_T1tt6igcdKkz=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ヘイズブラウン、9月30日の誕生色"
 date: "2026-09-30"
 updated: "2026-09-30"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "スレートグリーン"
 description: "9月30日の誕生色 ヘイズブラウン(9D8C7A)。色言葉は「ほのかな魅力、郷愁、余韻」です。相性の良い色はスレートグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjB65MlthjKT3uOJuoH7RMpzz8ckJdZesqsToPbld5rgzXnpgFrg6Z53_E6a78ffv45DVHL3prYSaKjO7wdeyfvBjgb2ez2GjTfv2MCU6t4llweUw5vtmE91O1C7BB4Aub6fOiQmJt82hvebzSMsZU3cSZbcPg-nZ13gmPA0rsmFpIzUGT_T1tt6igcdKkz=s1600"
 en_name: "Haze Brown"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjB65MlthjKT3uOJuoH7RMpzz8ckJdZesqsToPbld5rgzXnpgFrg6Z53_E6a78ffv45DVHL3prYSaKjO7wdeyfvBjgb2ez2GjTfv2MCU6t4llweUw5vtmE91O1C7BB4Aub6fOiQmJt82hvebzSMsZU3cSZbcPg-nZ13gmPA0rsmFpIzUGT_T1tt6igcdKkz=s1600)
-
 
 ## 9月30日の誕生色: ヘイズブラウン (`#9D8C7A`)
 

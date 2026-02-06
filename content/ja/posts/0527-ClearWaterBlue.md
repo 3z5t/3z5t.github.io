@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEinrRwnT_GtGzDCOxNXTEeI1mOfiI3jwJOiJLKyiwnIOhix4v3UX4IeWgzCfVg0GeULP4EO6sEz2JEtx6TM9bx1DZRvxhYKUQQC0U-wgOVVoeFNgjRK6SWqDoD6da1XX3m11MpozB_T-rrsD-_94UKOoJETsH9BslNhc3hW6iZS6B4rv8c-cs0qVZfR8Q5m=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "クリアウォーターブルー、5月27日の誕生色"
 date: "2026-05-27"
 updated: "2026-05-27"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "ブランディパンチ"
 description: "5月27日の誕生色 クリアウォーターブルー(3A8299)。色言葉は「澄んだ精神、純粋、平和」です。相性の良い色はブランディパンチです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEinrRwnT_GtGzDCOxNXTEeI1mOfiI3jwJOiJLKyiwnIOhix4v3UX4IeWgzCfVg0GeULP4EO6sEz2JEtx6TM9bx1DZRvxhYKUQQC0U-wgOVVoeFNgjRK6SWqDoD6da1XX3m11MpozB_T-rrsD-_94UKOoJETsH9BslNhc3hW6iZS6B4rv8c-cs0qVZfR8Q5m=s1600"
 en_name: "Clear Water Blue"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEinrRwnT_GtGzDCOxNXTEeI1mOfiI3jwJOiJLKyiwnIOhix4v3UX4IeWgzCfVg0GeULP4EO6sEz2JEtx6TM9bx1DZRvxhYKUQQC0U-wgOVVoeFNgjRK6SWqDoD6da1XX3m11MpozB_T-rrsD-_94UKOoJETsH9BslNhc3hW6iZS6B4rv8c-cs0qVZfR8Q5m=s1600)
-
 
 ## 5月27日の誕生色: クリアウォーターブルー (`#3A8299`)
 

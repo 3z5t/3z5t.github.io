@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg8b2xyzlO_zwssTKnHODyj8ek5zS_l7Rt6MUEqrw-4frWD7wIVfo7u_e-NNQ70sm_qLYgTynE-XW4lJHaw9zQRwyYHkfmrwV_7trs22y16KQpK023I7oJQ0hE-7WRe0ekQlQQVNPlH1U42OCANVniaD7n35ZfXd35Y6_TDslwRll05g0LN5EpC31jI4laK=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Forest Green, The Birthday Color of April 28"
 date: "2026-04-28"
 updated: "2026-04-28"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "magenta violet"
 description: "The birthday color for April 28 is Forest Green (228B22). Its meaning is Nature-friendly, Vitality, Peaceful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg8b2xyzlO_zwssTKnHODyj8ek5zS_l7Rt6MUEqrw-4frWD7wIVfo7u_e-NNQ70sm_qLYgTynE-XW4lJHaw9zQRwyYHkfmrwV_7trs22y16KQpK023I7oJQ0hE-7WRe0ekQlQQVNPlH1U42OCANVniaD7n35ZfXd35Y6_TDslwRll05g0LN5EpC31jI4laK=s1600"
 en_name: "ForestGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg8b2xyzlO_zwssTKnHODyj8ek5zS_l7Rt6MUEqrw-4frWD7wIVfo7u_e-NNQ70sm_qLYgTynE-XW4lJHaw9zQRwyYHkfmrwV_7trs22y16KQpK023I7oJQ0hE-7WRe0ekQlQQVNPlH1U42OCANVniaD7n35ZfXd35Y6_TDslwRll05g0LN5EpC31jI4laK=s1600)
-
 
 ## Birthday Color for April 28: Forest Green (`#228B22`)
 

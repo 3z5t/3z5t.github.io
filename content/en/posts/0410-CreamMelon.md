@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgMbgJlmou3lneIN6Osk1KoR8tcDbT9su5XY5eDYJ4Vz61PiF-HyJea-aEEedY94X9sLC-XmUsrROII_oTd0QU-eyGKzdJq-XGbNBPEVnfTdGhZnAVFSCIQquq-8ftTHlzy7vhtuE_t6pHxa9jNcq_1VeEgAVdNkAkI40u2nqH4_YCK9dkrOVf_bXVCNwFW=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Cream Melon, The Birthday Color of April 10"
 date: "2026-04-10"
 updated: "2026-04-10"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "antique choco"
 description: "The birthday color for April 10 is Cream Melon (DCF8E4). Its meaning is Soft, Gentle, Refreshing."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgMbgJlmou3lneIN6Osk1KoR8tcDbT9su5XY5eDYJ4Vz61PiF-HyJea-aEEedY94X9sLC-XmUsrROII_oTd0QU-eyGKzdJq-XGbNBPEVnfTdGhZnAVFSCIQquq-8ftTHlzy7vhtuE_t6pHxa9jNcq_1VeEgAVdNkAkI40u2nqH4_YCK9dkrOVf_bXVCNwFW=s1600"
 en_name: "CreamMelon"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgMbgJlmou3lneIN6Osk1KoR8tcDbT9su5XY5eDYJ4Vz61PiF-HyJea-aEEedY94X9sLC-XmUsrROII_oTd0QU-eyGKzdJq-XGbNBPEVnfTdGhZnAVFSCIQquq-8ftTHlzy7vhtuE_t6pHxa9jNcq_1VeEgAVdNkAkI40u2nqH4_YCK9dkrOVf_bXVCNwFW=s1600)
-
 
 ## Birthday Color for April 10: Cream Melon (`#DCF8E4`)
 

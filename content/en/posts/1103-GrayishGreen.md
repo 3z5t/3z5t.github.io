@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEio5OKVBqvvEDmjlfiy-1dV9sXrgVQFfrkl5gKp16A-yz8rAkLpuym3wfLqOg_3b5CkQSWnxCt9QCeLdmrBSepLM0IzRRm6cSJH9smZK5HT327GDhaBQSMqmEAS5W79ni_V0NM1Jr8apy8OCCTzmYU3lPu09JX4UFj5_lj8PXgjgV9GGExdCiVbyuSHCzc4=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Grayish Green, The Birthday Color of November 3"
 date: "2026-11-03"
 updated: "2026-11-03"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "urban sky"
 description: "The birthday color for November 3 is Grayish Green (444236). Its meaning is Stable, Calm, Balanced."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEio5OKVBqvvEDmjlfiy-1dV9sXrgVQFfrkl5gKp16A-yz8rAkLpuym3wfLqOg_3b5CkQSWnxCt9QCeLdmrBSepLM0IzRRm6cSJH9smZK5HT327GDhaBQSMqmEAS5W79ni_V0NM1Jr8apy8OCCTzmYU3lPu09JX4UFj5_lj8PXgjgV9GGExdCiVbyuSHCzc4=s1600"
 en_name: "GrayishGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEio5OKVBqvvEDmjlfiy-1dV9sXrgVQFfrkl5gKp16A-yz8rAkLpuym3wfLqOg_3b5CkQSWnxCt9QCeLdmrBSepLM0IzRRm6cSJH9smZK5HT327GDhaBQSMqmEAS5W79ni_V0NM1Jr8apy8OCCTzmYU3lPu09JX4UFj5_lj8PXgjgV9GGExdCiVbyuSHCzc4=s1600)
-
 
 ## Birthday Color for November 3: Grayish Green (`#444236`)
 

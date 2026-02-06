@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj3-nPi9SBVPDBiCgPV6KAdCrKWXxc3Zr2o7tOkXsuXzmpT4AAGjlRILdXRAgVm4hsorV6KfHnG7gUK8Tsc-mOxO0fQiDoAykOQ41nQQSb3DwuikG2Ny5kZ_xcAMndG5oJdXxD4da8eda0FES7rK454MKMx6mY_AGgLHB2IYWqLBK1QKOIxDrpd2mOAvNQx=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Noble Dark Beige, The Birthday Color of December 23"
 date: "2026-12-23"
 updated: "2026-12-23"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "elegant ultramarine"
 description: "The birthday color for December 23 is Noble Dark Beige (D5A66B). Its meaning is Profound, Mature, Stable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj3-nPi9SBVPDBiCgPV6KAdCrKWXxc3Zr2o7tOkXsuXzmpT4AAGjlRILdXRAgVm4hsorV6KfHnG7gUK8Tsc-mOxO0fQiDoAykOQ41nQQSb3DwuikG2Ny5kZ_xcAMndG5oJdXxD4da8eda0FES7rK454MKMx6mY_AGgLHB2IYWqLBK1QKOIxDrpd2mOAvNQx=s1600"
 en_name: "NobleDarkBeige"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj3-nPi9SBVPDBiCgPV6KAdCrKWXxc3Zr2o7tOkXsuXzmpT4AAGjlRILdXRAgVm4hsorV6KfHnG7gUK8Tsc-mOxO0fQiDoAykOQ41nQQSb3DwuikG2Ny5kZ_xcAMndG5oJdXxD4da8eda0FES7rK454MKMx6mY_AGgLHB2IYWqLBK1QKOIxDrpd2mOAvNQx=s1600)
-
 
 ## Birthday Color for December 23: Noble Dark Beige (`#D5A66B`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg55B_DaSEB2Z2tMVnSTDIK8ApRneNITBLyGv4vmujTzRDloUBvnwkcEPjlsBS6jNod5wuXNuQPc5TE9j_oBFIfg5UrR1gbQXNCFlUxOmvJmDwuyAN7v4yUFRi_l2GvSbiPN7dLNkibwcQGzBbc3TxoTL0e7u2D4VJwcrpOFbQdwzVFyyaKJe0fcJngqVAr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Caribbean Green, The Birthday Color of April 4"
 date: "2026-04-04"
 updated: "2026-04-04"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "coral red"
 description: "The birthday color for April 4 is Caribbean Green (00CC99). Its meaning is Adventurous, Free, Pioneering Spirit."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg55B_DaSEB2Z2tMVnSTDIK8ApRneNITBLyGv4vmujTzRDloUBvnwkcEPjlsBS6jNod5wuXNuQPc5TE9j_oBFIfg5UrR1gbQXNCFlUxOmvJmDwuyAN7v4yUFRi_l2GvSbiPN7dLNkibwcQGzBbc3TxoTL0e7u2D4VJwcrpOFbQdwzVFyyaKJe0fcJngqVAr=s1600"
 en_name: "CaribbeanGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg55B_DaSEB2Z2tMVnSTDIK8ApRneNITBLyGv4vmujTzRDloUBvnwkcEPjlsBS6jNod5wuXNuQPc5TE9j_oBFIfg5UrR1gbQXNCFlUxOmvJmDwuyAN7v4yUFRi_l2GvSbiPN7dLNkibwcQGzBbc3TxoTL0e7u2D4VJwcrpOFbQdwzVFyyaKJe0fcJngqVAr=s1600)
-
 
 ## Birthday Color for April 4: Caribbean Green (`#00CC99`)
 

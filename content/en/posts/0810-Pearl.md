@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjGbYH2pR2h8voDravMweXwsmsXLEUQc6gImmJFeAELrWYaDosTP6rn9THRA_2uMEeqPqonmMvcjs9NWkuqbvRPbCxGaTwB2w30UMKR878-xoXYwjz9Qj14d8ZK4QRHyP0l7F-L-pyqLoF1LgqvIb4n3rmp8pV-W8n5FX0sJnr2TCHEmGtUYcGWj5YgQkw9=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Pearl, The Birthday Color of August 10"
 date: "2026-08-10"
 updated: "2026-08-10"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "deep black"
 description: "The birthday color for August 10 is Pearl (EAE1DD). Its meaning is Valuable, Classy, High-minded."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjGbYH2pR2h8voDravMweXwsmsXLEUQc6gImmJFeAELrWYaDosTP6rn9THRA_2uMEeqPqonmMvcjs9NWkuqbvRPbCxGaTwB2w30UMKR878-xoXYwjz9Qj14d8ZK4QRHyP0l7F-L-pyqLoF1LgqvIb4n3rmp8pV-W8n5FX0sJnr2TCHEmGtUYcGWj5YgQkw9=s1600"
 en_name: "Pearl"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjGbYH2pR2h8voDravMweXwsmsXLEUQc6gImmJFeAELrWYaDosTP6rn9THRA_2uMEeqPqonmMvcjs9NWkuqbvRPbCxGaTwB2w30UMKR878-xoXYwjz9Qj14d8ZK4QRHyP0l7F-L-pyqLoF1LgqvIb4n3rmp8pV-W8n5FX0sJnr2TCHEmGtUYcGWj5YgQkw9=s1600)
-
 
 ## Birthday Color for August 10: Pearl (`#EAE1DD`)
 

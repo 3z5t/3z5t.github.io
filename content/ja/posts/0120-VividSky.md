@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-20'
-description: 1月20日の誕生色 ビビッドスカイ(00BFFF)。色言葉は「自由、開放的、創造性」です。相性の良い色はスカーレットです。
-en_name: Vivid Sky
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjZFZYLMUerDKOk2otjSWJl6Gqp-Lerg1XHDV2jE8TOqkddnmaaOFa8va21i-TURUDeJBU-f9n-rdEjsowo0ExakvtyN6cuuZHElC5PDqw4DVv4RPtfk94Kz3eMvtwOTNq-tZh6cte3XMnHE2uL9YM0VZuUczVuwcaLA0Ci0FiAc-vTUag8tbMYkkC3B__V=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-20"
+description: "1月20日の誕生色 ビビッドスカイ(00BFFF)。色言葉は「自由、開放的、創造性」です。相性の良い色はスカーレットです。"
+en_name: "Vivid Sky"
 tags:
-- ビビッドスカイ
-- 誕生色
-- 1月20日
-- 00BFFF
-- 1月
-- スカーレット
-postId: '6539908872624528237'
-postUrl: https://the366days-ja.blogspot.com/2026/01/120-vivid-sky.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEjZFZYLMUerDKOk2otjSWJl6Gqp-Lerg1XHDV2jE8TOqkddnmaaOFa8va21i-TURUDeJBU-f9n-rdEjsowo0ExakvtyN6cuuZHElC5PDqw4DVv4RPtfk94Kz3eMvtwOTNq-tZh6cte3XMnHE2uL9YM0VZuUczVuwcaLA0Ci0FiAc-vTUag8tbMYkkC3B__V=s1600
-title: ビビッドスカイ、1月20日の誕生色
-updated: '2026-01-20'
+  - "ビビッドスカイ"
+  - "誕生色"
+  - "1月20日"
+  - "00BFFF"
+  - "1月"
+  - "スカーレット"
+postId: "6539908872624528237"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/120-vivid-sky.html"
+profileName: "日々のカケラ"
+title: "ビビッドスカイ、1月20日の誕生色"
+updated: "2026-01-20"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjZFZYLMUerDKOk2otjSWJl6Gqp-Lerg1XHDV2jE8TOqkddnmaaOFa8va21i-TURUDeJBU-f9n-rdEjsowo0ExakvtyN6cuuZHElC5PDqw4DVv4RPtfk94Kz3eMvtwOTNq-tZh6cte3XMnHE2uL9YM0VZuUczVuwcaLA0Ci0FiAc-vTUag8tbMYkkC3B__V=s1600)
-
 
 ## 1月20日の誕生色: ビビッドスカイ (`#00BFFF`)
 

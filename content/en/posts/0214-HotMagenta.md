@@ -1,21 +1,24 @@
 ---
-"title": "Hot Magenta, The Birthday Color of February 14"
-"date": "2026-02-14"
-"updated": "2026-02-14"
-"labels":
-- "hot magenta"
-- "birthday color"
-- "february 14"
-- "ff00cc"
-- "february"
-- "vivid lime"
-"description": "The birthday color for February 14 is Hot Magenta (FF00CC). Its meaning is Passionate, Lovely, Charming."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEidlAmLwBDD3cZUoP3n7O_E3YUdXLwM45s70E1OA04utx6c1IfSOk21eM55feWtBaWc8ZKfnA37VDCAqowfHOARVK_TSdJmdHrNNCI794av8Gd2s2h45xYn4SdLNqlR5hpgC1iIx-XgTmYED5VDCAKvLY5Rg58o_tKu80FJn9TvQ3wAXrdmxr3_07y-8hGD=s1600"
-"en_name": "HotMagenta"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "170690447872623734"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/hot-magenta-birthday-color-of-february.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEidlAmLwBDD3cZUoP3n7O_E3YUdXLwM45s70E1OA04utx6c1IfSOk21eM55feWtBaWc8ZKfnA37VDCAqowfHOARVK_TSdJmdHrNNCI794av8Gd2s2h45xYn4SdLNqlR5hpgC1iIx-XgTmYED5VDCAKvLY5Rg58o_tKu80FJn9TvQ3wAXrdmxr3_07y-8hGD=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Hot Magenta, The Birthday Color of February 14"
+date: "2026-02-14"
+updated: "2026-02-14"
+tags:
+  - "hot magenta"
+  - "birthday color"
+  - "february 14"
+  - "ff00cc"
+  - "february"
+  - "vivid lime"
+description: "The birthday color for February 14 is Hot Magenta (FF00CC). Its meaning is Passionate, Lovely, Charming."
+en_name: "HotMagenta"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "170690447872623734"
+postUrl: "https://the366days-en.blogspot.com/2026/02/hot-magenta-birthday-color-of-february.html"
 ---
 
 ## Birthday Color for February 14: Hot Magenta (`#FF00CC`)

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiwbP2vlKji9f9A_L9wdToMMchM9f2WbrzisojLTFiVRz4Gt8dy_y_6wXO8GG-IiL1xPGs6RFh4qV4t5jDBHCJxy9SBS_GPei6366sx-wne1inlSDsJcH4XQoM2lzKYqd41Bx8l849cIRWRHxMYw_jjc9wXPczYPA30-9KfUm8OHOfreD5dt5bK7vQ6DiYi=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ダスクグレー、9月7日の誕生色"
 date: "2026-09-07"
 updated: "2026-09-07"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "クラウドグレー"
 description: "9月7日の誕生色 ダスクグレー(313035)。色言葉は「安定感、省察する、慎重」です。相性の良い色はクラウドグレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiwbP2vlKji9f9A_L9wdToMMchM9f2WbrzisojLTFiVRz4Gt8dy_y_6wXO8GG-IiL1xPGs6RFh4qV4t5jDBHCJxy9SBS_GPei6366sx-wne1inlSDsJcH4XQoM2lzKYqd41Bx8l849cIRWRHxMYw_jjc9wXPczYPA30-9KfUm8OHOfreD5dt5bK7vQ6DiYi=s1600"
 en_name: "Dusk Gray"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiwbP2vlKji9f9A_L9wdToMMchM9f2WbrzisojLTFiVRz4Gt8dy_y_6wXO8GG-IiL1xPGs6RFh4qV4t5jDBHCJxy9SBS_GPei6366sx-wne1inlSDsJcH4XQoM2lzKYqd41Bx8l849cIRWRHxMYw_jjc9wXPczYPA30-9KfUm8OHOfreD5dt5bK7vQ6DiYi=s1600)
-
 
 ## 9月7日の誕生色: ダスクグレー (`#313035`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh_80TJ6OQO9Js8aMlBjI7Q0nnmzeI9aYOIDmHBEHaLQa2dEzPA5sXcKIbMptt3ePAglbxa6ehGsKIjFwAB8TwfFGlfj9NeA41hP7EnmdT_9j6gI30b_TDJuWUDJVgG86yrB6xnWdgrKxu6Di1JX-uVLf9fL40RMV7-tDR9SyyQgtjBF6BShm_Ynhd36lsM=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アンティークブラウン、11月24日の誕生色"
 date: "2026-11-24"
 updated: "2026-11-24"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "クラウディスカイ"
 description: "11月24日の誕生色 アンティークブラウン(35292A)。色言葉は「伝統的、安定、深みのある」です。相性の良い色はクラウディスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh_80TJ6OQO9Js8aMlBjI7Q0nnmzeI9aYOIDmHBEHaLQa2dEzPA5sXcKIbMptt3ePAglbxa6ehGsKIjFwAB8TwfFGlfj9NeA41hP7EnmdT_9j6gI30b_TDJuWUDJVgG86yrB6xnWdgrKxu6Di1JX-uVLf9fL40RMV7-tDR9SyyQgtjBF6BShm_Ynhd36lsM=s1600"
 en_name: "Antique Brown"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh_80TJ6OQO9Js8aMlBjI7Q0nnmzeI9aYOIDmHBEHaLQa2dEzPA5sXcKIbMptt3ePAglbxa6ehGsKIjFwAB8TwfFGlfj9NeA41hP7EnmdT_9j6gI30b_TDJuWUDJVgG86yrB6xnWdgrKxu6Di1JX-uVLf9fL40RMV7-tDR9SyyQgtjBF6BShm_Ynhd36lsM=s1600)
-
 
 ## 11月24日の誕生色: アンティークブラウン (`#35292A`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgD3v58PD0BoKeTmBMqE5RP534UDVVgLP6DNXWkDVttHM7C6RmwrZIt52f1COqVYskTciFKhkVnHHyhCew--R7JDFTuxAt8gntpbQyE6l71yFJHaKZzARqS1v0W6G1inm_m6DUGxMaN7v0GdePVsbRq3FjHzfLF1AZW_B3JXGjX7vdo2b4BoGWRaaIaz-Ax=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Eagle Red, The Birthday Color of July 8"
 date: "2026-07-08"
 updated: "2026-07-08"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "noble sky blue"
 description: "The birthday color for July 8 is Eagle Red (FF2D2D). Its meaning is Courageous, Challenging, Pioneering."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgD3v58PD0BoKeTmBMqE5RP534UDVVgLP6DNXWkDVttHM7C6RmwrZIt52f1COqVYskTciFKhkVnHHyhCew--R7JDFTuxAt8gntpbQyE6l71yFJHaKZzARqS1v0W6G1inm_m6DUGxMaN7v0GdePVsbRq3FjHzfLF1AZW_B3JXGjX7vdo2b4BoGWRaaIaz-Ax=s1600"
 en_name: "EagleRed"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgD3v58PD0BoKeTmBMqE5RP534UDVVgLP6DNXWkDVttHM7C6RmwrZIt52f1COqVYskTciFKhkVnHHyhCew--R7JDFTuxAt8gntpbQyE6l71yFJHaKZzARqS1v0W6G1inm_m6DUGxMaN7v0GdePVsbRq3FjHzfLF1AZW_B3JXGjX7vdo2b4BoGWRaaIaz-Ax=s1600)
-
 
 ## Birthday Color for July 8: Eagle Red (`#FF2D2D`)
 

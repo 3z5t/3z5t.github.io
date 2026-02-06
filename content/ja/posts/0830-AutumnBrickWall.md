@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh6vM1dLKJfZBrhAOF_OG0zEOmDJTfnBRfCjoxyh9KKVAZl9n36ksj755yU5Q9JGxxbm8VX0vPBCiXGlc-5pUzr_uh1vdLhhmvRmf6VKNRxWPCTj6VJQvvteCxLj2CCCfwfLlSbS2eVBcvY6jaYiSJ3z6O3Tw1peiyDeakwDnwZ54dvT2tGOcJKa4cWL9E7=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "オータムブリックウォール、8月30日の誕生色"
 date: "2026-08-30"
 updated: "2026-08-30"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "スレートグリーン"
 description: "8月30日の誕生色 オータムブリックウォール(AA837E)。色言葉は「固い意志、安定感、変化を楽しむ」です。相性の良い色はスレートグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh6vM1dLKJfZBrhAOF_OG0zEOmDJTfnBRfCjoxyh9KKVAZl9n36ksj755yU5Q9JGxxbm8VX0vPBCiXGlc-5pUzr_uh1vdLhhmvRmf6VKNRxWPCTj6VJQvvteCxLj2CCCfwfLlSbS2eVBcvY6jaYiSJ3z6O3Tw1peiyDeakwDnwZ54dvT2tGOcJKa4cWL9E7=s1600"
 en_name: "Autumn Brick Wall"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh6vM1dLKJfZBrhAOF_OG0zEOmDJTfnBRfCjoxyh9KKVAZl9n36ksj755yU5Q9JGxxbm8VX0vPBCiXGlc-5pUzr_uh1vdLhhmvRmf6VKNRxWPCTj6VJQvvteCxLj2CCCfwfLlSbS2eVBcvY6jaYiSJ3z6O3Tw1peiyDeakwDnwZ54dvT2tGOcJKa4cWL9E7=s1600)
-
 
 ## 8月30日の誕生色: オータムブリックウォール (`#AA837E`)
 

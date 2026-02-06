@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-15'
-description: The birthday color for January 15 is Dawn Indigo (2C3C57). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj5l1wHPIzld4LMfuZFzgxSoNR5yH3R37Ra5J2dLDTeqqXpsjojEPPsMvgaaM4K6vuW0ojnQ12_I45gmlxM5B2ttKmhWV_j7pwjoNKxRbZP3jbmJUnBWoc7D6FRl1sgg95Rj3HiweGG7gZx3X2F0cdhvXOybM4bF2x2EOxc21oRtFs7SLRx2YtfMG8Xl4CY=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-15"
+description: "The birthday color for January 15 is Dawn Indigo (2C3C57). Its meaning"
   is Artistic, Cultural, Creative.
-en_name: DawnIndigo
+en_name: "DawnIndigo"
 tags:
-- dawn indigo
-- birthday color
-- january 15
-- 2c3c57
-- january
-- winter sand beach
-postId: '4462389597170219544'
-postUrl: https://the366days-en.blogspot.com/2026/01/dawn-indigo-birthday-color-of-january-15.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEj5l1wHPIzld4LMfuZFzgxSoNR5yH3R37Ra5J2dLDTeqqXpsjojEPPsMvgaaM4K6vuW0ojnQ12_I45gmlxM5B2ttKmhWV_j7pwjoNKxRbZP3jbmJUnBWoc7D6FRl1sgg95Rj3HiweGG7gZx3X2F0cdhvXOybM4bF2x2EOxc21oRtFs7SLRx2YtfMG8Xl4CY=s1600
-title: Dawn Indigo, The Birthday Color of January 15
-updated: '2026-01-15'
+  - "dawn indigo"
+  - "birthday color"
+  - "january 15"
+  - "2c3c57"
+  - "january"
+  - "winter sand beach"
+postId: "4462389597170219544"
+postUrl: "https://the366days-en.blogspot.com/2026/01/dawn-indigo-birthday-color-of-january-15.html"
+profileName: "Pieces of a Day"
+title: "Dawn Indigo, The Birthday Color of January 15"
+updated: "2026-01-15"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj5l1wHPIzld4LMfuZFzgxSoNR5yH3R37Ra5J2dLDTeqqXpsjojEPPsMvgaaM4K6vuW0ojnQ12_I45gmlxM5B2ttKmhWV_j7pwjoNKxRbZP3jbmJUnBWoc7D6FRl1sgg95Rj3HiweGG7gZx3X2F0cdhvXOybM4bF2x2EOxc21oRtFs7SLRx2YtfMG8Xl4CY=s1600)
-
 
 ## Birthday Color for January 15: Dawn Indigo (`#2C3C57`)
 

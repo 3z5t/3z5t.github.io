@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhKWLfCg7EYpNDJdn81bxlFgkyl-dduD7eINXEPo05HFwqUXL9XTpbo9s24Ec2TJTr8hoMu8-BKX7GHpzUl2vyTaHfj4JJA6DWzqVXoTwvC0pnKie2S047Xgtt5UcWZbriOZmxs693gnkLkNrvFyOi64tC162Sq9SEHzN1DfzjEBrYTzToeU7sTbKnA1H-B=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Dusty Purple, The Birthday Color of November 4"
 date: "2026-11-04"
 updated: "2026-11-04"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "soft olive"
 description: "The birthday color for November 4 is Dusty Purple (746B7A). Its meaning is Dignified, Elegant, Subtle Charm."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhKWLfCg7EYpNDJdn81bxlFgkyl-dduD7eINXEPo05HFwqUXL9XTpbo9s24Ec2TJTr8hoMu8-BKX7GHpzUl2vyTaHfj4JJA6DWzqVXoTwvC0pnKie2S047Xgtt5UcWZbriOZmxs693gnkLkNrvFyOi64tC162Sq9SEHzN1DfzjEBrYTzToeU7sTbKnA1H-B=s1600"
 en_name: "DustyPurple"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhKWLfCg7EYpNDJdn81bxlFgkyl-dduD7eINXEPo05HFwqUXL9XTpbo9s24Ec2TJTr8hoMu8-BKX7GHpzUl2vyTaHfj4JJA6DWzqVXoTwvC0pnKie2S047Xgtt5UcWZbriOZmxs693gnkLkNrvFyOi64tC162Sq9SEHzN1DfzjEBrYTzToeU7sTbKnA1H-B=s1600)
-
 
 ## Birthday Color for November 4: Dusty Purple (`#746B7A`)
 

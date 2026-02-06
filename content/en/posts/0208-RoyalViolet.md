@@ -1,21 +1,24 @@
 ---
-"title": "Royal Violet, The Birthday Color of February 8"
-"date": "2026-02-08"
-"updated": "2026-02-08"
-"labels":
-- "royal violet"
-- "birthday color"
-- "february 8"
-- "32127a"
-- "february"
-- "soft lemon"
-"description": "The birthday color for February 8 is Royal Violet (32127A). Its meaning is Philosophical, Meditative, Insightful."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhUaTmUlguXQrYzMKk8uLmtX1OD1KB5Tir8JrImbHzCZzrCSPIyAjaQ76D0ARyo-SV4ZIn-L8M8E0ejYx07nEF4o6VZAhga0ZB_VOIXfkkRikqsRG-TUNnakT-yqpGhdHDVliKEEEfJaH0y7UwXRaqmkE6aS2fuBCRUpSZJCS_l8Qfez4S2fANYZJYKf7Lj=s1600"
-"en_name": "RoyalViolet"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "5290508543685886450"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/royal-violet-birthday-color-of-february.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhUaTmUlguXQrYzMKk8uLmtX1OD1KB5Tir8JrImbHzCZzrCSPIyAjaQ76D0ARyo-SV4ZIn-L8M8E0ejYx07nEF4o6VZAhga0ZB_VOIXfkkRikqsRG-TUNnakT-yqpGhdHDVliKEEEfJaH0y7UwXRaqmkE6aS2fuBCRUpSZJCS_l8Qfez4S2fANYZJYKf7Lj=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Royal Violet, The Birthday Color of February 8"
+date: "2026-02-08"
+updated: "2026-02-08"
+tags:
+  - "royal violet"
+  - "birthday color"
+  - "february 8"
+  - "32127a"
+  - "february"
+  - "soft lemon"
+description: "The birthday color for February 8 is Royal Violet (32127A). Its meaning is Philosophical, Meditative, Insightful."
+en_name: "RoyalViolet"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "5290508543685886450"
+postUrl: "https://the366days-en.blogspot.com/2026/02/royal-violet-birthday-color-of-february.html"
 ---
 
 ## Birthday Color for February 8: Royal Violet (`#32127A`)

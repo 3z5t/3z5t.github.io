@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjMOMLs43EVJ0WLm7-Ypp-abWvkbuT18asHsewcYyMCm6vtXaPbPz7YRpjR0n48s-3R-vLy5MJemF7z1HJiqFSJMZS9tZLhGLjLVxFJYXuyZnuDsvoZGcBeTCAGIYvlizt_RroumPb0TzwyWhCg6Px61jBPYBpUqN44TpC7rIsH0LO-Monsr55lH6CQt6N4=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ブラウン、9月26日の誕生色"
 date: "2026-09-26"
 updated: "2026-09-26"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ソフトブルー"
 description: "9月26日の誕生色 ブラウン(7F3300)。色言葉は「豊かさ、安定、実用的」です。相性の良い色はソフトブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjMOMLs43EVJ0WLm7-Ypp-abWvkbuT18asHsewcYyMCm6vtXaPbPz7YRpjR0n48s-3R-vLy5MJemF7z1HJiqFSJMZS9tZLhGLjLVxFJYXuyZnuDsvoZGcBeTCAGIYvlizt_RroumPb0TzwyWhCg6Px61jBPYBpUqN44TpC7rIsH0LO-Monsr55lH6CQt6N4=s1600"
 en_name: "Brown"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjMOMLs43EVJ0WLm7-Ypp-abWvkbuT18asHsewcYyMCm6vtXaPbPz7YRpjR0n48s-3R-vLy5MJemF7z1HJiqFSJMZS9tZLhGLjLVxFJYXuyZnuDsvoZGcBeTCAGIYvlizt_RroumPb0TzwyWhCg6Px61jBPYBpUqN44TpC7rIsH0LO-Monsr55lH6CQt6N4=s1600)
-
 
 ## 9月26日の誕生色: ブラウン (`#7F3300`)
 

@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-17'
-description: The birthday color for January 17 is Pastel Sora (B0C4DE). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjrB2BjpkLxUJKaSglZrUIzcNCAGkYFnBTkq2g6Z9HdEXEiLaWbpxqXGDmZ9om7qaDtpA4J-jSKEiSnOd5MYpiqhRRqCTf1QjHoW_iU_iJTjhasMZIKCI_yxbGbLGCkvphDVm5e2VnlrH25c6Loc2fY9BdKIb4k66FqrKc8MLCniX2AuhMHw5q433mOuHHF=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-17"
+description: "The birthday color for January 17 is Pastel Sora (B0C4DE). Its meaning"
   is Hopeful, Optimistic, Bright Personality.
-en_name: PastelSora
+en_name: "PastelSora"
 tags:
-- pastel sora
-- birthday color
-- january 17
-- b0c4de
-- january
-- saddle brown
-postId: '8468828809463976044'
-postUrl: https://the366days-en.blogspot.com/2026/01/pastel-sora-birthday-color-of-january-17.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEjrB2BjpkLxUJKaSglZrUIzcNCAGkYFnBTkq2g6Z9HdEXEiLaWbpxqXGDmZ9om7qaDtpA4J-jSKEiSnOd5MYpiqhRRqCTf1QjHoW_iU_iJTjhasMZIKCI_yxbGbLGCkvphDVm5e2VnlrH25c6Loc2fY9BdKIb4k66FqrKc8MLCniX2AuhMHw5q433mOuHHF=s1600
-title: Pastel Sora, The Birthday Color of January 17
-updated: '2026-01-17'
+  - "pastel sora"
+  - "birthday color"
+  - "january 17"
+  - "b0c4de"
+  - "january"
+  - "saddle brown"
+postId: "8468828809463976044"
+postUrl: "https://the366days-en.blogspot.com/2026/01/pastel-sora-birthday-color-of-january-17.html"
+profileName: "Pieces of a Day"
+title: "Pastel Sora, The Birthday Color of January 17"
+updated: "2026-01-17"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjrB2BjpkLxUJKaSglZrUIzcNCAGkYFnBTkq2g6Z9HdEXEiLaWbpxqXGDmZ9om7qaDtpA4J-jSKEiSnOd5MYpiqhRRqCTf1QjHoW_iU_iJTjhasMZIKCI_yxbGbLGCkvphDVm5e2VnlrH25c6Loc2fY9BdKIb4k66FqrKc8MLCniX2AuhMHw5q433mOuHHF=s1600)
-
 
 ## Birthday Color for January 17: Pastel Sora (`#B0C4DE`)
 

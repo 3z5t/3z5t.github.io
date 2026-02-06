@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjydeBmwNmm8HP1C8xH7g0tRvxpY8QPTvZpWZWCqo1IFyvgVpDDC7uIif8k_kzA8p4O7i34TghGBh87DLCf7Od29hxylNZFFq-MUF_b4UQ3tylfYkIGPLyY9V6PWdr8PoRkZmknwv0S_UaXpzDTdIF4Fbuicn4KrhsTN-cjxPaaWQP2CXmsT28yPjYf3cJf=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ミッドナイト、11月18日の誕生色"
 date: "2026-11-18"
 updated: "2026-11-18"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "ホイップクリーム"
 description: "11月18日の誕生色 ミッドナイト(242228)。色言葉は「静寂、平和、休息を与える」です。相性の良い色はホイップクリームです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjydeBmwNmm8HP1C8xH7g0tRvxpY8QPTvZpWZWCqo1IFyvgVpDDC7uIif8k_kzA8p4O7i34TghGBh87DLCf7Od29hxylNZFFq-MUF_b4UQ3tylfYkIGPLyY9V6PWdr8PoRkZmknwv0S_UaXpzDTdIF4Fbuicn4KrhsTN-cjxPaaWQP2CXmsT28yPjYf3cJf=s1600"
 en_name: "Midnight"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjydeBmwNmm8HP1C8xH7g0tRvxpY8QPTvZpWZWCqo1IFyvgVpDDC7uIif8k_kzA8p4O7i34TghGBh87DLCf7Od29hxylNZFFq-MUF_b4UQ3tylfYkIGPLyY9V6PWdr8PoRkZmknwv0S_UaXpzDTdIF4Fbuicn4KrhsTN-cjxPaaWQP2CXmsT28yPjYf3cJf=s1600)
-
 
 ## 11月18日の誕生色: ミッドナイト (`#242228`)
 

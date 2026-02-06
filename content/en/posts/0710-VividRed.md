@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiZMLpB_ojqkXp73FyUrcainoA6xf_ynPkj7r8DxkiCScIOCtyvpnkIbisxl7bAxzqUzkKXb_FB6zCNdZjHvc6n0sFa2XHQHbCszzv8AyRp3dpKqo21pitDzppImJyqtEePJpYJhlMxwMWaakfPHobLvDQBAj-_ASXI7PbmIxymAHl2nrM0mRrBzc8oXAzI=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Vivid Red, The Birthday Color of July 10"
 date: "2026-07-10"
 updated: "2026-07-10"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "aqua"
 description: "The birthday color for July 10 is Vivid Red (FF1414). Its meaning is Outstanding, Lively, Original."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiZMLpB_ojqkXp73FyUrcainoA6xf_ynPkj7r8DxkiCScIOCtyvpnkIbisxl7bAxzqUzkKXb_FB6zCNdZjHvc6n0sFa2XHQHbCszzv8AyRp3dpKqo21pitDzppImJyqtEePJpYJhlMxwMWaakfPHobLvDQBAj-_ASXI7PbmIxymAHl2nrM0mRrBzc8oXAzI=s1600"
 en_name: "VividRed"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiZMLpB_ojqkXp73FyUrcainoA6xf_ynPkj7r8DxkiCScIOCtyvpnkIbisxl7bAxzqUzkKXb_FB6zCNdZjHvc6n0sFa2XHQHbCszzv8AyRp3dpKqo21pitDzppImJyqtEePJpYJhlMxwMWaakfPHobLvDQBAj-_ASXI7PbmIxymAHl2nrM0mRrBzc8oXAzI=s1600)
-
 
 ## Birthday Color for July 10: Vivid Red (`#FF1414`)
 

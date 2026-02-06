@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhONTpJligEYdlToho824I13QfabPZH7U65gK-a2TEH52ZvzB7R4gjUHik4WmBo0YmEaQvcg1bNGybxecP1-3ZbrYH3moRNqNfAsaHrSRcdpQUZsgk6-M7GEUeGMPRUUGN0hCJZWYcX3o_DIPkJBLgKWI4VzEQpvR2dkvQGarKdOLDEIG-iTV9KOWn0vm_1=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Moonlight Navy, The Birthday Color of July 20"
 date: "2026-07-20"
 updated: "2026-07-20"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "mona lisa"
 description: "The birthday color for July 20 is Moonlight Navy (0A576C). Its meaning is Profound, Calm, Wise."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhONTpJligEYdlToho824I13QfabPZH7U65gK-a2TEH52ZvzB7R4gjUHik4WmBo0YmEaQvcg1bNGybxecP1-3ZbrYH3moRNqNfAsaHrSRcdpQUZsgk6-M7GEUeGMPRUUGN0hCJZWYcX3o_DIPkJBLgKWI4VzEQpvR2dkvQGarKdOLDEIG-iTV9KOWn0vm_1=s1600"
 en_name: "MoonlightNavy"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhONTpJligEYdlToho824I13QfabPZH7U65gK-a2TEH52ZvzB7R4gjUHik4WmBo0YmEaQvcg1bNGybxecP1-3ZbrYH3moRNqNfAsaHrSRcdpQUZsgk6-M7GEUeGMPRUUGN0hCJZWYcX3o_DIPkJBLgKWI4VzEQpvR2dkvQGarKdOLDEIG-iTV9KOWn0vm_1=s1600)
-
 
 ## Birthday Color for July 20: Moonlight Navy (`#0A576C`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhDs3_tL2898dd9xjjCUTXXa7GnNt0MUZu1pvokIsvklzIZulfNdZpTlR4AJ7rFElIMoFh1jDz2AAEaF4Jaat4XxSUt0_H4RGMEfPWhE4WCfoA2UcOJiwmT8-ryjsV9KAGeNvn_VBSLIlk2e1WlZLU2FkbkM4XheRx5dUPemUQVLdhtSvA4H4x_k-GqF8y_=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "スクワレルブラウン、9月22日の誕生色"
 date: "2026-09-22"
 updated: "2026-09-22"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ディープソラ"
 description: "9月22日の誕生色 スクワレルブラウン(996A52)。色言葉は「準備性、勤勉、実用的」です。相性の良い色はディープソラです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhDs3_tL2898dd9xjjCUTXXa7GnNt0MUZu1pvokIsvklzIZulfNdZpTlR4AJ7rFElIMoFh1jDz2AAEaF4Jaat4XxSUt0_H4RGMEfPWhE4WCfoA2UcOJiwmT8-ryjsV9KAGeNvn_VBSLIlk2e1WlZLU2FkbkM4XheRx5dUPemUQVLdhtSvA4H4x_k-GqF8y_=s1600"
 en_name: "Squirrel Brown"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhDs3_tL2898dd9xjjCUTXXa7GnNt0MUZu1pvokIsvklzIZulfNdZpTlR4AJ7rFElIMoFh1jDz2AAEaF4Jaat4XxSUt0_H4RGMEfPWhE4WCfoA2UcOJiwmT8-ryjsV9KAGeNvn_VBSLIlk2e1WlZLU2FkbkM4XheRx5dUPemUQVLdhtSvA4H4x_k-GqF8y_=s1600)
-
 
 ## 9月22日の誕生色: スクワレルブラウン (`#996A52`)
 

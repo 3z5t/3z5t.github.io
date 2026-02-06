@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg7E-_JhkwXHWpj_1UXqcvhb6F3wphSQJ2nyw8P3QD0-59cFWbVJwy87iVEF0EtIdap0NLXIjqhfLFito24egPRJnyxdU2N1CbZzQE0KwNeUvn-4muOpRAvZToYd1od_3soZSG3XSF8m2cMpdKzFkbAeIGo8hOzHE2jninOwHCri8kfwZXFp90IJbc0VepQ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ローズレッド、12月2日の誕生色"
 date: "2026-12-02"
 updated: "2026-12-02"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ソフトシアン"
 description: "12月2日の誕生色 ローズレッド(8D1C1C)。色言葉は「情熱的、意志力、希望に満ちた」です。相性の良い色はソフトシアンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg7E-_JhkwXHWpj_1UXqcvhb6F3wphSQJ2nyw8P3QD0-59cFWbVJwy87iVEF0EtIdap0NLXIjqhfLFito24egPRJnyxdU2N1CbZzQE0KwNeUvn-4muOpRAvZToYd1od_3soZSG3XSF8m2cMpdKzFkbAeIGo8hOzHE2jninOwHCri8kfwZXFp90IJbc0VepQ=s1600"
 en_name: "Rose Red"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg7E-_JhkwXHWpj_1UXqcvhb6F3wphSQJ2nyw8P3QD0-59cFWbVJwy87iVEF0EtIdap0NLXIjqhfLFito24egPRJnyxdU2N1CbZzQE0KwNeUvn-4muOpRAvZToYd1od_3soZSG3XSF8m2cMpdKzFkbAeIGo8hOzHE2jninOwHCri8kfwZXFp90IJbc0VepQ=s1600)
-
 
 ## 12月2日の誕生色: ローズレッド (`#8D1C1C`)
 

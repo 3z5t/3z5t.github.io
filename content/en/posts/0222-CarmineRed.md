@@ -1,21 +1,24 @@
 ---
-"title": "Carmine Red, The Birthday Color of February 22"
-"date": "2026-02-22"
-"updated": "2026-02-22"
-"labels":
-- "carmine red"
-- "birthday color"
-- "february 22"
-- "b72f42"
-- "february"
-- "turquoise"
-"description": "The birthday color for February 22 is Carmine Red (B72F42). Its meaning is Strength, Willpower, Drive."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjxJBPZQohwaqSgZ3mHDX_6JZ8kvwqu1DlBp1J0HsrDNRR2EAX1Sa72HX_SZowMWU2edmB8b0maeppd9VNSWh084-ZDUoH4Zzrf4XKDB_Bu_2HR9ruSKeAarMn2DW3KoBqPyfd6J32F2meP3jHTr7QLim2XP1aNsY67TRqZKrMoM3obkHuFoUjHVsNHqUUT=s1600"
-"en_name": "CarmineRed"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "2981906652166020153"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/carmine-red-birthday-color-of-february.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjxJBPZQohwaqSgZ3mHDX_6JZ8kvwqu1DlBp1J0HsrDNRR2EAX1Sa72HX_SZowMWU2edmB8b0maeppd9VNSWh084-ZDUoH4Zzrf4XKDB_Bu_2HR9ruSKeAarMn2DW3KoBqPyfd6J32F2meP3jHTr7QLim2XP1aNsY67TRqZKrMoM3obkHuFoUjHVsNHqUUT=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Carmine Red, The Birthday Color of February 22"
+date: "2026-02-22"
+updated: "2026-02-22"
+tags:
+  - "carmine red"
+  - "birthday color"
+  - "february 22"
+  - "b72f42"
+  - "february"
+  - "turquoise"
+description: "The birthday color for February 22 is Carmine Red (B72F42). Its meaning is Strength, Willpower, Drive."
+en_name: "CarmineRed"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "2981906652166020153"
+postUrl: "https://the366days-en.blogspot.com/2026/02/carmine-red-birthday-color-of-february.html"
 ---
 
 ## Birthday Color for February 22: Carmine Red (`#B72F42`)

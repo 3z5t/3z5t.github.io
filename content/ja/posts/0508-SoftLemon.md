@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjO23mQbQzgETZAaHW7xTPrdpAPcARrAMcjcLYH3SlwbTtN2dkyr95rrvsW4RZU3dyglTlhON9Z6I3Wtb1x5wg3p5LGzFCl6i29rFJA4ApBQHekCsEGLtoMnzOCmUCeI-E9aOKkwc6kJcDy3nlnkDVCSBnQwEJjTtr65kkaH0-abr7Thd-oE-N0SV-fEwDq=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ソフトレモン、5月8日の誕生色"
 date: "2026-05-08"
 updated: "2026-05-08"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "トゥルーネイビー"
 description: "5月8日の誕生色 ソフトレモン(D5D679)。色言葉は「包容力、思いやり、理解心」です。相性の良い色はトゥルーネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjO23mQbQzgETZAaHW7xTPrdpAPcARrAMcjcLYH3SlwbTtN2dkyr95rrvsW4RZU3dyglTlhON9Z6I3Wtb1x5wg3p5LGzFCl6i29rFJA4ApBQHekCsEGLtoMnzOCmUCeI-E9aOKkwc6kJcDy3nlnkDVCSBnQwEJjTtr65kkaH0-abr7Thd-oE-N0SV-fEwDq=s1600"
 en_name: "Soft Lemon"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjO23mQbQzgETZAaHW7xTPrdpAPcARrAMcjcLYH3SlwbTtN2dkyr95rrvsW4RZU3dyglTlhON9Z6I3Wtb1x5wg3p5LGzFCl6i29rFJA4ApBQHekCsEGLtoMnzOCmUCeI-E9aOKkwc6kJcDy3nlnkDVCSBnQwEJjTtr65kkaH0-abr7Thd-oE-N0SV-fEwDq=s1600)
-
 
 ## 5月8日の誕生色: ソフトレモン (`#D5D679`)
 

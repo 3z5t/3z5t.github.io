@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi9w89DmTiPxJ_F4Bzp-RICarX2AlEOxbQh5jnNxcbNsT5y0u0VYG9sGbHFWyiuowKWb5rcAFieDTXs53LvYNLUYRYegHdNU5-QkoK81g-f2tU7-nhhmFGRzbpIcdNcf1iD5ChaTs91GuHSKSUmegecI6HrW99TAh6XIk9TlqtzlMTXx2_RtxYdbRHY5a-q=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Forest Garden, The Birthday Color of April 25"
 date: "2026-04-25"
 updated: "2026-04-25"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "silver rose"
 description: "The birthday color for April 25 is Forest Garden (317D61). Its meaning is Healthy, Energetic, Strong."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi9w89DmTiPxJ_F4Bzp-RICarX2AlEOxbQh5jnNxcbNsT5y0u0VYG9sGbHFWyiuowKWb5rcAFieDTXs53LvYNLUYRYegHdNU5-QkoK81g-f2tU7-nhhmFGRzbpIcdNcf1iD5ChaTs91GuHSKSUmegecI6HrW99TAh6XIk9TlqtzlMTXx2_RtxYdbRHY5a-q=s1600"
 en_name: "ForestGarden"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi9w89DmTiPxJ_F4Bzp-RICarX2AlEOxbQh5jnNxcbNsT5y0u0VYG9sGbHFWyiuowKWb5rcAFieDTXs53LvYNLUYRYegHdNU5-QkoK81g-f2tU7-nhhmFGRzbpIcdNcf1iD5ChaTs91GuHSKSUmegecI6HrW99TAh6XIk9TlqtzlMTXx2_RtxYdbRHY5a-q=s1600)
-
 
 ## Birthday Color for April 25: Forest Garden (`#317D61`)
 

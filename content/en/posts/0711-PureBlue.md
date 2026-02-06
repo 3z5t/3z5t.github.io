@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiTnba402q8ob5-Ks3CjHHyy-ye6Fku67wo8cAU0gWo5ySOegQeJe-CVou-aBXrE2Li9DJo6skr8KkXxagpYHOEDhO1YAdhJrLO_ZagrspFnPB3fQsij143Fv7putX2L0pqVpX7wqtPaaNhEIs0nOhzVNlr6IiDgXFuBUOn1UqVnwQdu7E1uR1iiUa7ef5I=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Pure Blue, The Birthday Color of July 11"
 date: "2026-07-11"
 updated: "2026-07-11"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "lemon"
 description: "The birthday color for July 11 is Pure Blue (3333FF). Its meaning is Pure Passion, Profound, Idealistic."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiTnba402q8ob5-Ks3CjHHyy-ye6Fku67wo8cAU0gWo5ySOegQeJe-CVou-aBXrE2Li9DJo6skr8KkXxagpYHOEDhO1YAdhJrLO_ZagrspFnPB3fQsij143Fv7putX2L0pqVpX7wqtPaaNhEIs0nOhzVNlr6IiDgXFuBUOn1UqVnwQdu7E1uR1iiUa7ef5I=s1600"
 en_name: "PureBlue"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiTnba402q8ob5-Ks3CjHHyy-ye6Fku67wo8cAU0gWo5ySOegQeJe-CVou-aBXrE2Li9DJo6skr8KkXxagpYHOEDhO1YAdhJrLO_ZagrspFnPB3fQsij143Fv7putX2L0pqVpX7wqtPaaNhEIs0nOhzVNlr6IiDgXFuBUOn1UqVnwQdu7E1uR1iiUa7ef5I=s1600)
-
 
 ## Birthday Color for July 11: Pure Blue (`#3333FF`)
 

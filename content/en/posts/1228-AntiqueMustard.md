@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh4p7FAdUHOdbUtHujBNY6EwrUYTWDlnEkWGU4AQxYI-vqUAtb-7Pi8fRuYfowED_LLFmUlDQsvDFZgPXtPq2tFEe_jAJP-gLUXlzrui8uUGGTKfCtQEUDdo-IHWzjancwLib8BA8tXF42YplbvLaJDL8RJ5OTrdWBrv4qYt7LdyVXdqqK1lwn76kk1BQJ1=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Antique Mustard, The Birthday Color of December 28"
 date: "2026-12-28"
 updated: "2026-12-28"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "deep sora"
 description: "The birthday color for December 28 is Antique Mustard (BB8F3D). Its meaning is Calm Personality, Abundant, Profound."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh4p7FAdUHOdbUtHujBNY6EwrUYTWDlnEkWGU4AQxYI-vqUAtb-7Pi8fRuYfowED_LLFmUlDQsvDFZgPXtPq2tFEe_jAJP-gLUXlzrui8uUGGTKfCtQEUDdo-IHWzjancwLib8BA8tXF42YplbvLaJDL8RJ5OTrdWBrv4qYt7LdyVXdqqK1lwn76kk1BQJ1=s1600"
 en_name: "AntiqueMustard"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh4p7FAdUHOdbUtHujBNY6EwrUYTWDlnEkWGU4AQxYI-vqUAtb-7Pi8fRuYfowED_LLFmUlDQsvDFZgPXtPq2tFEe_jAJP-gLUXlzrui8uUGGTKfCtQEUDdo-IHWzjancwLib8BA8tXF42YplbvLaJDL8RJ5OTrdWBrv4qYt7LdyVXdqqK1lwn76kk1BQJ1=s1600)
-
 
 ## Birthday Color for December 28: Antique Mustard (`#BB8F3D`)
 

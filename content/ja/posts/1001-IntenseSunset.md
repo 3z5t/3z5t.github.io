@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjWdaZyEq27Ajday-D1Xltn7NtRLN0xtMlHbhZLzBo_ygMRnXnRyFQ0uN_8SN70uLe69C-HRmsavvfniYWMHn55jxyphvT39J6P9ONFPz600sI8tTg6t9PGw9gPuLZBoQMBAJPSy2G54mYX9bHrbJv4P34jI5TVkgA9HAYtqF_X9s4W8SsBwbLaLqh96vlm=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "インテンスサンセット、10月1日の誕生色"
 date: "2026-10-01"
 updated: "2026-10-01"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "パパイヤブルー"
 description: "10月1日の誕生色 インテンスサンセット(BC5445)。色言葉は「情熱的、強烈、印象的」です。相性の良い色はパパイヤブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjWdaZyEq27Ajday-D1Xltn7NtRLN0xtMlHbhZLzBo_ygMRnXnRyFQ0uN_8SN70uLe69C-HRmsavvfniYWMHn55jxyphvT39J6P9ONFPz600sI8tTg6t9PGw9gPuLZBoQMBAJPSy2G54mYX9bHrbJv4P34jI5TVkgA9HAYtqF_X9s4W8SsBwbLaLqh96vlm=s1600"
 en_name: "Intense Sunset"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjWdaZyEq27Ajday-D1Xltn7NtRLN0xtMlHbhZLzBo_ygMRnXnRyFQ0uN_8SN70uLe69C-HRmsavvfniYWMHn55jxyphvT39J6P9ONFPz600sI8tTg6t9PGw9gPuLZBoQMBAJPSy2G54mYX9bHrbJv4P34jI5TVkgA9HAYtqF_X9s4W8SsBwbLaLqh96vlm=s1600)
-
 
 ## 10月1日の誕生色: インテンスサンセット (`#BC5445`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgbmD4TQtrQPsyepaNHzl6zqDknwofyy5g6F1WCm92aSE96V-c1Uvvg-BMeMmYBtsv-9jxVG5-LWBSVNhGPq9Bxee8C7WzuD-yfjZwZL8IcwN5Nya8tuocgEj6h9XXHYY4NNFOPStLXreDfYzsVeL70E5wqeFNm0wkwIhhO45CsnX5FdxI-tZw_N24S6jGi=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Mystic Purple, The Birthday Color of July 12"
 date: "2026-07-12"
 updated: "2026-07-12"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "bright green"
 description: "The birthday color for July 12 is Mystic Purple (9900FF). Its meaning is Mysterious, Charming, Artistic."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgbmD4TQtrQPsyepaNHzl6zqDknwofyy5g6F1WCm92aSE96V-c1Uvvg-BMeMmYBtsv-9jxVG5-LWBSVNhGPq9Bxee8C7WzuD-yfjZwZL8IcwN5Nya8tuocgEj6h9XXHYY4NNFOPStLXreDfYzsVeL70E5wqeFNm0wkwIhhO45CsnX5FdxI-tZw_N24S6jGi=s1600"
 en_name: "MysticPurple"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgbmD4TQtrQPsyepaNHzl6zqDknwofyy5g6F1WCm92aSE96V-c1Uvvg-BMeMmYBtsv-9jxVG5-LWBSVNhGPq9Bxee8C7WzuD-yfjZwZL8IcwN5Nya8tuocgEj6h9XXHYY4NNFOPStLXreDfYzsVeL70E5wqeFNm0wkwIhhO45CsnX5FdxI-tZw_N24S6jGi=s1600)
-
 
 ## Birthday Color for July 12: Mystic Purple (`#9900FF`)
 

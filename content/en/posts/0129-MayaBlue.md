@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-29'
-description: The birthday color for January 29 is Maya Blue (6699FF). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgUsq0AUj-kWKzP0VzcngrydRtZJ2nvbUVX_SrPv7o5wwx-BVVr6BWY_NWAJSVixpvML1KmPPrMivbIaMkn8m9Rw-hoq5eLA3TbZQz4y1MlbDLXKbqslYcWRoOBXuaJT_yiSNdISPfyex2dDA8dNxbXL8FF2bMkI0HK2QslbhbTANQyzYBEnV5KESh8uZxD=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-29"
+description: "The birthday color for January 29 is Maya Blue (6699FF). Its meaning"
   is Idealistic, Purity, Creativity.
-en_name: MayaBlue
+en_name: "MayaBlue"
 tags:
-- maya blue
-- birthday color
-- january 29
-- 6699ff
-- january
-- soft ochre
-postId: '4029504250240792105'
-postUrl: https://the366days-en.blogspot.com/2026/01/maya-blue-birthday-color-of-january-29.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgUsq0AUj-kWKzP0VzcngrydRtZJ2nvbUVX_SrPv7o5wwx-BVVr6BWY_NWAJSVixpvML1KmPPrMivbIaMkn8m9Rw-hoq5eLA3TbZQz4y1MlbDLXKbqslYcWRoOBXuaJT_yiSNdISPfyex2dDA8dNxbXL8FF2bMkI0HK2QslbhbTANQyzYBEnV5KESh8uZxD=s1600
-title: Maya Blue, The Birthday Color of January 29
-updated: '2026-01-29'
+  - "maya blue"
+  - "birthday color"
+  - "january 29"
+  - "6699ff"
+  - "january"
+  - "soft ochre"
+postId: "4029504250240792105"
+postUrl: "https://the366days-en.blogspot.com/2026/01/maya-blue-birthday-color-of-january-29.html"
+profileName: "Pieces of a Day"
+title: "Maya Blue, The Birthday Color of January 29"
+updated: "2026-01-29"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgUsq0AUj-kWKzP0VzcngrydRtZJ2nvbUVX_SrPv7o5wwx-BVVr6BWY_NWAJSVixpvML1KmPPrMivbIaMkn8m9Rw-hoq5eLA3TbZQz4y1MlbDLXKbqslYcWRoOBXuaJT_yiSNdISPfyex2dDA8dNxbXL8FF2bMkI0HK2QslbhbTANQyzYBEnV5KESh8uZxD=s1600)
-
 
 ![Maya Blue, The Birthday Color of January 29](https://blogger.googleusercontent.com/img/a/AVvXsEgUsq0AUj-kWKzP0VzcngrydRtZJ2nvbUVX_SrPv7o5wwx-BVVr6BWY_NWAJSVixpvML1KmPPrMivbIaMkn8m9Rw-hoq5eLA3TbZQz4y1MlbDLXKbqslYcWRoOBXuaJT_yiSNdISPfyex2dDA8dNxbXL8FF2bMkI0HK2QslbhbTANQyzYBEnV5KESh8uZxD=s1600)
 

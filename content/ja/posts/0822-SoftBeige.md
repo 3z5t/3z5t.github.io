@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjaumHyLOTriotb5Y3UBBJNNAg-Lx-9Mg0NI3fs2eYcqKqtAS-5DB4V_qUaIALCe7dqE7OLBsuuQNWXJyDQy_SlKFO3q1z3j3mJyKfpWBMpGQkyWnUuqq9Nzq8bOv39BqFjo0y8mMujjssVCqTxyQAr0HUNF4QNpFYnTxcbCpInwfiNCOZY40oqlVmUtt2e=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ソフトベージュ、8月22日の誕生色"
 date: "2026-08-22"
 updated: "2026-08-22"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "スチールネイビー"
 description: "8月22日の誕生色 ソフトベージュ(ECBDA4)。色言葉は「温かい心、心地よさ、温和」です。相性の良い色はスチールネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjaumHyLOTriotb5Y3UBBJNNAg-Lx-9Mg0NI3fs2eYcqKqtAS-5DB4V_qUaIALCe7dqE7OLBsuuQNWXJyDQy_SlKFO3q1z3j3mJyKfpWBMpGQkyWnUuqq9Nzq8bOv39BqFjo0y8mMujjssVCqTxyQAr0HUNF4QNpFYnTxcbCpInwfiNCOZY40oqlVmUtt2e=s1600"
 en_name: "Soft Beige"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjaumHyLOTriotb5Y3UBBJNNAg-Lx-9Mg0NI3fs2eYcqKqtAS-5DB4V_qUaIALCe7dqE7OLBsuuQNWXJyDQy_SlKFO3q1z3j3mJyKfpWBMpGQkyWnUuqq9Nzq8bOv39BqFjo0y8mMujjssVCqTxyQAr0HUNF4QNpFYnTxcbCpInwfiNCOZY40oqlVmUtt2e=s1600)
-
 
 ## 8月22日の誕生色: ソフトベージュ (`#ECBDA4`)
 

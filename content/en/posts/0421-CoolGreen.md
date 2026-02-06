@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj1AsuL02BdbhmtmQ9QhQPgw8F_RxAwlBOc1rCY_sZwYjm-tckyBmv8nssMXc_f9FsiL4keJu0yGUEGiUOH5Brf7WwqjQv34r2oEc2eh_zYoTUZ3eYVFQFoYiO9jyGHzF_O5KFz_dv3xpAVCBUFFN1ui6uOvAb9DL9BqJGRTOd1PVvGQM4Lh-Gs5QXqROOI=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Cool Green, The Birthday Color of April 21"
 date: "2026-04-21"
 updated: "2026-04-21"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "classic wine"
 description: "The birthday color for April 21 is Cool Green (78BAAD). Its meaning is Refreshing, Calm, Balanced."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj1AsuL02BdbhmtmQ9QhQPgw8F_RxAwlBOc1rCY_sZwYjm-tckyBmv8nssMXc_f9FsiL4keJu0yGUEGiUOH5Brf7WwqjQv34r2oEc2eh_zYoTUZ3eYVFQFoYiO9jyGHzF_O5KFz_dv3xpAVCBUFFN1ui6uOvAb9DL9BqJGRTOd1PVvGQM4Lh-Gs5QXqROOI=s1600"
 en_name: "CoolGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj1AsuL02BdbhmtmQ9QhQPgw8F_RxAwlBOc1rCY_sZwYjm-tckyBmv8nssMXc_f9FsiL4keJu0yGUEGiUOH5Brf7WwqjQv34r2oEc2eh_zYoTUZ3eYVFQFoYiO9jyGHzF_O5KFz_dv3xpAVCBUFFN1ui6uOvAb9DL9BqJGRTOd1PVvGQM4Lh-Gs5QXqROOI=s1600)
-
 
 ## Birthday Color for April 21: Cool Green (`#78BAAD`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEia2OOvLDTxlj6UunkeEQoMrjwfgq-PmGVwMiVwPNVT_enuxUfJPe4nWwW-_Kf72TvhgMZhCtNHCuVslqgHAsmt5HW1v9wp-dIBHW5cqnIYvi0kQk6WxoiLfbFrXR-OcOhdV8hoIOTxTOBqcTsP3H1agSpVfp7QKkAvQskL5WcQC-qT_-rOktIMz0GZ1wuS=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "オータムリーブス、9月28日の誕生色"
 date: "2026-09-28"
 updated: "2026-09-28"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "クラウディスカイ"
 description: "9月28日の誕生色 オータムリーブス(362925)。色言葉は「循環を知る、別れを理解する、包容力」です。相性の良い色はクラウディスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEia2OOvLDTxlj6UunkeEQoMrjwfgq-PmGVwMiVwPNVT_enuxUfJPe4nWwW-_Kf72TvhgMZhCtNHCuVslqgHAsmt5HW1v9wp-dIBHW5cqnIYvi0kQk6WxoiLfbFrXR-OcOhdV8hoIOTxTOBqcTsP3H1agSpVfp7QKkAvQskL5WcQC-qT_-rOktIMz0GZ1wuS=s1600"
 en_name: "Autumn Leaves"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEia2OOvLDTxlj6UunkeEQoMrjwfgq-PmGVwMiVwPNVT_enuxUfJPe4nWwW-_Kf72TvhgMZhCtNHCuVslqgHAsmt5HW1v9wp-dIBHW5cqnIYvi0kQk6WxoiLfbFrXR-OcOhdV8hoIOTxTOBqcTsP3H1agSpVfp7QKkAvQskL5WcQC-qT_-rOktIMz0GZ1wuS=s1600)
-
 
 ## 9月28日の誕生色: オータムリーブス (`#362925`)
 

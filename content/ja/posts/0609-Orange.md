@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhwq_SeZVG1cBcxS982kksiFamPwbUg3Hno-oAyNzMXSar0L2E62uT9JmwSWPpVJ6_ZdCC6xI_2zlJFOMVCBvDd-SwRqn5Hq036B3VqXHf3DN63IEwrHg_4ZctcIxytIH2MT_WYbTS3Fc3uNeeveryDC3n5bxmgDKRYJNJ4FrLhuw4E4qYiDmP01IC7cjY4=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "オレンジ、6月9日の誕生色"
 date: "2026-06-09"
 updated: "2026-06-09"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "シアンブルー"
 description: "6月9日の誕生色 オレンジ(FF6633)。色言葉は「情熱的、野心的、活力的」です。相性の良い色はシアンブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhwq_SeZVG1cBcxS982kksiFamPwbUg3Hno-oAyNzMXSar0L2E62uT9JmwSWPpVJ6_ZdCC6xI_2zlJFOMVCBvDd-SwRqn5Hq036B3VqXHf3DN63IEwrHg_4ZctcIxytIH2MT_WYbTS3Fc3uNeeveryDC3n5bxmgDKRYJNJ4FrLhuw4E4qYiDmP01IC7cjY4=s1600"
 en_name: "Orange"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhwq_SeZVG1cBcxS982kksiFamPwbUg3Hno-oAyNzMXSar0L2E62uT9JmwSWPpVJ6_ZdCC6xI_2zlJFOMVCBvDd-SwRqn5Hq036B3VqXHf3DN63IEwrHg_4ZctcIxytIH2MT_WYbTS3Fc3uNeeveryDC3n5bxmgDKRYJNJ4FrLhuw4E4qYiDmP01IC7cjY4=s1600)
-
 
 ## 6月9日の誕生色: オレンジ (`#FF6633`)
 

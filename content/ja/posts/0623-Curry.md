@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj8XN6xR9VskTD3g62mAO01Yxt69fZhGz5Olip5hij2lFF713id2GxovCA_4DLKwDSplzLT05HwXc-rWyxmJN-JDqSgwY7wzlnqpVh69zaxCvADouLOsce0n0P-DwGjrBcNAHnp8oMp6wFWyMp0Ovh2G_5G4b-Ed7Qdfu2YqW9KQT2j3Lnt13mgxEJsx4YA=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "カレー、6月23日の誕生色"
 date: "2026-06-23"
 updated: "2026-06-23"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "ロイヤルブルー"
 description: "6月23日の誕生色 カレー(D6A620)。色言葉は「活力ある、エネルギー豊富、創造的」です。相性の良い色はロイヤルブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj8XN6xR9VskTD3g62mAO01Yxt69fZhGz5Olip5hij2lFF713id2GxovCA_4DLKwDSplzLT05HwXc-rWyxmJN-JDqSgwY7wzlnqpVh69zaxCvADouLOsce0n0P-DwGjrBcNAHnp8oMp6wFWyMp0Ovh2G_5G4b-Ed7Qdfu2YqW9KQT2j3Lnt13mgxEJsx4YA=s1600"
 en_name: "Curry"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj8XN6xR9VskTD3g62mAO01Yxt69fZhGz5Olip5hij2lFF713id2GxovCA_4DLKwDSplzLT05HwXc-rWyxmJN-JDqSgwY7wzlnqpVh69zaxCvADouLOsce0n0P-DwGjrBcNAHnp8oMp6wFWyMp0Ovh2G_5G4b-Ed7Qdfu2YqW9KQT2j3Lnt13mgxEJsx4YA=s1600)
-
 
 ## 6月23日の誕生色: カレー (`#D6A620`)
 

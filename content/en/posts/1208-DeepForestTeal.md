@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjTo-bnwW4TsEwUcNfzAD3ZZLn4rGKQBvRfrB1D8-WiKIfHDkupK1RH3px8ZREnwQ_iR5WVKGJkgWeF_rZWwBVF7hpXk9UXaRXuExoeXtj1gGsgnK3vXLXKJNgG-bMKs2hfGUMf6sd_rlRddwIBJIK8OcbIMCFa--rJIOCEJlfCyTGE6v2vnQ7haiUiGbDT=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Forest Teal, The Birthday Color of December 8"
 date: "2026-12-08"
 updated: "2026-12-08"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "grapefruit"
 description: "The birthday color for December 8 is Deep Forest Teal (17896E). Its meaning is Clear Soul, Cool Intellect, Serene."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjTo-bnwW4TsEwUcNfzAD3ZZLn4rGKQBvRfrB1D8-WiKIfHDkupK1RH3px8ZREnwQ_iR5WVKGJkgWeF_rZWwBVF7hpXk9UXaRXuExoeXtj1gGsgnK3vXLXKJNgG-bMKs2hfGUMf6sd_rlRddwIBJIK8OcbIMCFa--rJIOCEJlfCyTGE6v2vnQ7haiUiGbDT=s1600"
 en_name: "DeepForestTeal"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjTo-bnwW4TsEwUcNfzAD3ZZLn4rGKQBvRfrB1D8-WiKIfHDkupK1RH3px8ZREnwQ_iR5WVKGJkgWeF_rZWwBVF7hpXk9UXaRXuExoeXtj1gGsgnK3vXLXKJNgG-bMKs2hfGUMf6sd_rlRddwIBJIK8OcbIMCFa--rJIOCEJlfCyTGE6v2vnQ7haiUiGbDT=s1600)
-
 
 ## Birthday Color for December 8: Deep Forest Teal (`#17896E`)
 

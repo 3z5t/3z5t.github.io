@@ -1,25 +1,25 @@
 ---
-title: スノーホワイト、1月1日の誕生色
-date: 2026-01-01
-updated: 2026-01-01
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhIStQoxDwDbLk4Ekd49XpDkrzMD-qa47itydEWppFrrAHHRtjxTvgqg2VMNFWG15iGijeC72QQHdApvCAy_RYE-WJMMTq9LUujnFm90KFn1yvUIICOr37gQWCoCT1Qu6OsWblUc8N7tbEqHhDZyQaQ9mt_NW4PLZhngq4jNpKzZlxoQIrDThmKQVzjtIzA=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "スノーホワイト、1月1日の誕生色"
+date: "2026-01-01"
+updated: "2026-01-01"
 tags:
-  - スノーホワイト
-  - 誕生色
-  - 1月1日
-  - F2F1F1
-  - 1月
-  - ディープアビス
-description: 1月1日の誕生色 スノーホワイト(F2F1F1)。色言葉は「創造的、純粋、新しさ」です。相性の良い色はディープアビスです。
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhIStQoxDwDbLk4Ekd49XpDkrzMD-qa47itydEWppFrrAHHRtjxTvgqg2VMNFWG15iGijeC72QQHdApvCAy_RYE-WJMMTq9LUujnFm90KFn1yvUIICOr37gQWCoCT1Qu6OsWblUc8N7tbEqHhDZyQaQ9mt_NW4PLZhngq4jNpKzZlxoQIrDThmKQVzjtIzA=s1600
-en_name: Snow White
-author: 日々のカケラ
-profileName: 日々のカケラ
+  - "スノーホワイト"
+  - "誕生色"
+  - "1月1日"
+  - "F2F1F1"
+  - "1月"
+  - "ディープアビス"
+description: "1月1日の誕生色 スノーホワイト(F2F1F1)。色言葉は「創造的、純粋、新しさ」です。相性の良い色はディープアビスです。"
+en_name: "Snow White"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
 postId: "1004"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhIStQoxDwDbLk4Ekd49XpDkrzMD-qa47itydEWppFrrAHHRtjxTvgqg2VMNFWG15iGijeC72QQHdApvCAy_RYE-WJMMTq9LUujnFm90KFn1yvUIICOr37gQWCoCT1Qu6OsWblUc8N7tbEqHhDZyQaQ9mt_NW4PLZhngq4jNpKzZlxoQIrDThmKQVzjtIzA=s1600)
-
 
 ## 1月1日の誕生色: スノーホワイト (`#F2F1F1`)
 

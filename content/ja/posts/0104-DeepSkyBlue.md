@@ -1,25 +1,25 @@
 ---
-title: ディープスカイブルー、1月4日の誕生色
-date: 2026-01-04
-updated: 2026-01-04
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiZ92bttHy49eabgAnYkpJjd0Vc__eZHQQ6o7LhYljNXFtxMDaMM0bMt-fH176RH0R95oUHLND7-uKPV5NCS6M0Yn-nnOnJvIKfhfGoBCwTyD-nFlWkCTiRLeWvRSRaYDTRCPLiRX-qYoBKAmxFKGJ1-p2rjxqv9Ed7-K2py7VOi27Eb_uXbPGOtrK03nqe=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ディープスカイブルー、1月4日の誕生色"
+date: "2026-01-04"
+updated: "2026-01-04"
 tags:
-  - ディープスカイブルー
-  - 誕生色
-  - 1月4日
-  - 00CCFF
-  - 1月
-  - スカーレット
-description: 1月4日の誕生色 ディープスカイブルー(00CCFF)。色言葉は「無限の可能性、進歩的、情熱」です。相性の良い色はスカーレットです。
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiZ92bttHy49eabgAnYkpJjd0Vc__eZHQQ6o7LhYljNXFtxMDaMM0bMt-fH176RH0R95oUHLND7-uKPV5NCS6M0Yn-nnOnJvIKfhfGoBCwTyD-nFlWkCTiRLeWvRSRaYDTRCPLiRX-qYoBKAmxFKGJ1-p2rjxqv9Ed7-K2py7VOi27Eb_uXbPGOtrK03nqe=s1600
-en_name: Deep Sky Blue
-author: 日々のカケラ
-profileName: 日々のカケラ
+  - "ディープスカイブルー"
+  - "誕生色"
+  - "1月4日"
+  - "00CCFF"
+  - "1月"
+  - "スカーレット"
+description: "1月4日の誕生色 ディープスカイブルー(00CCFF)。色言葉は「無限の可能性、進歩的、情熱」です。相性の良い色はスカーレットです。"
+en_name: "Deep Sky Blue"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
 postId: "1004"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiZ92bttHy49eabgAnYkpJjd0Vc__eZHQQ6o7LhYljNXFtxMDaMM0bMt-fH176RH0R95oUHLND7-uKPV5NCS6M0Yn-nnOnJvIKfhfGoBCwTyD-nFlWkCTiRLeWvRSRaYDTRCPLiRX-qYoBKAmxFKGJ1-p2rjxqv9Ed7-K2py7VOi27Eb_uXbPGOtrK03nqe=s1600)
-
 
 ## 1月4日の誕生色: ディープスカイブルー (`#00CCFF`)
 

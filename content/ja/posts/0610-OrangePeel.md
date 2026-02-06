@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEib4d3EhdYJe9ztswSOVwbYURKGz2rgEbaVYI8DLCcB2wrFD8GhW3tb4FWMoJ6c_BysEEx_wG9J0DE4TwBfUW34IJGnUQFm2AjdByK70pXBnuuyhC-b4EMP710qHGeiUBBXBzozbQjzq8d1goeAF920CKvzZ-kCYmz6yoXHKaI4X-j5gpsw3YrVPaSMNSj3=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "オレンジピール、6月10日の誕生色"
 date: "2026-06-10"
 updated: "2026-06-10"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "ロイヤルブルー"
 description: "6月10日の誕生色 オレンジピール(FF9900)。色言葉は「明るいエネルギー、楽しみ、創造性」です。相性の良い色はロイヤルブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEib4d3EhdYJe9ztswSOVwbYURKGz2rgEbaVYI8DLCcB2wrFD8GhW3tb4FWMoJ6c_BysEEx_wG9J0DE4TwBfUW34IJGnUQFm2AjdByK70pXBnuuyhC-b4EMP710qHGeiUBBXBzozbQjzq8d1goeAF920CKvzZ-kCYmz6yoXHKaI4X-j5gpsw3YrVPaSMNSj3=s1600"
 en_name: "Orange Peel"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEib4d3EhdYJe9ztswSOVwbYURKGz2rgEbaVYI8DLCcB2wrFD8GhW3tb4FWMoJ6c_BysEEx_wG9J0DE4TwBfUW34IJGnUQFm2AjdByK70pXBnuuyhC-b4EMP710qHGeiUBBXBzozbQjzq8d1goeAF920CKvzZ-kCYmz6yoXHKaI4X-j5gpsw3YrVPaSMNSj3=s1600)
-
 
 ## 6月10日の誕生色: オレンジピール (`#FF9900`)
 

@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-16'
-description: 1月16日の誕生色 ソラブルー(7F9BB9)。色言葉は「調和、平和、親しみやすさ」です。相性の良い色はオールドグリーンです。
-en_name: Sora Blue
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgubYaPmNiK6gG_CXhv9VlbnvnJQjRcaMkujh8vd6MYubI98kuQXRSpbrq9Xj8TRFa3lr1Qf7D9x-5l3W3a0tppEOeTZJkgdb8s1CZ-GD2chs0qVrk9mr9A1OpXqZjBzK5xpXWcWGJE-7xPCA4yAM06JCGINoyI7wOJIOTqPZU8qh_UJG_LAuNk1hpZFNi3=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-16"
+description: "1月16日の誕生色 ソラブルー(7F9BB9)。色言葉は「調和、平和、親しみやすさ」です。相性の良い色はオールドグリーンです。"
+en_name: "Sora Blue"
 tags:
-- ソラブルー
-- 誕生色
-- 1月16日
-- 7F9BB9
-- 1月
-- オールドグリーン
-postId: '4443003822918747890'
-postUrl: https://the366days-ja.blogspot.com/2026/01/116-sora-blue.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgubYaPmNiK6gG_CXhv9VlbnvnJQjRcaMkujh8vd6MYubI98kuQXRSpbrq9Xj8TRFa3lr1Qf7D9x-5l3W3a0tppEOeTZJkgdb8s1CZ-GD2chs0qVrk9mr9A1OpXqZjBzK5xpXWcWGJE-7xPCA4yAM06JCGINoyI7wOJIOTqPZU8qh_UJG_LAuNk1hpZFNi3=s1600
-title: ソラブルー、1月16日の誕生色
-updated: '2026-01-16'
+  - "ソラブルー"
+  - "誕生色"
+  - "1月16日"
+  - "7F9BB9"
+  - "1月"
+  - "オールドグリーン"
+postId: "4443003822918747890"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/116-sora-blue.html"
+profileName: "日々のカケラ"
+title: "ソラブルー、1月16日の誕生色"
+updated: "2026-01-16"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgubYaPmNiK6gG_CXhv9VlbnvnJQjRcaMkujh8vd6MYubI98kuQXRSpbrq9Xj8TRFa3lr1Qf7D9x-5l3W3a0tppEOeTZJkgdb8s1CZ-GD2chs0qVrk9mr9A1OpXqZjBzK5xpXWcWGJE-7xPCA4yAM06JCGINoyI7wOJIOTqPZU8qh_UJG_LAuNk1hpZFNi3=s1600)
-
 
 ## 1月16日の誕生色: ソラブルー (`#7F9BB9`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh3pNomQX6uuQ2v_nXG6dS4sPjNpoJJwjfuUvsQbiFOopJs1Rx2kRFzJnOHE7ZIbpgaGrkJbOm3pqSa8QFAMzh0mGzDtyUJqenuU_Q85bbOTDV6EyliM8VJ0_3JiSgSo9btNFkqPRyv90soMJQmudcGGXfn8jIWy6ztplt1KSicrzxbDv6ePl6mlyV1EHWF=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "クールベージュ、8月24日の誕生色"
 date: "2026-08-24"
 updated: "2026-08-24"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "スレートグリーン"
 description: "8月24日の誕生色 クールベージュ(AF8E8A)。色言葉は「落ち着いた性格、知的、成熟」です。相性の良い色はスレートグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh3pNomQX6uuQ2v_nXG6dS4sPjNpoJJwjfuUvsQbiFOopJs1Rx2kRFzJnOHE7ZIbpgaGrkJbOm3pqSa8QFAMzh0mGzDtyUJqenuU_Q85bbOTDV6EyliM8VJ0_3JiSgSo9btNFkqPRyv90soMJQmudcGGXfn8jIWy6ztplt1KSicrzxbDv6ePl6mlyV1EHWF=s1600"
 en_name: "Cool Beige"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh3pNomQX6uuQ2v_nXG6dS4sPjNpoJJwjfuUvsQbiFOopJs1Rx2kRFzJnOHE7ZIbpgaGrkJbOm3pqSa8QFAMzh0mGzDtyUJqenuU_Q85bbOTDV6EyliM8VJ0_3JiSgSo9btNFkqPRyv90soMJQmudcGGXfn8jIWy6ztplt1KSicrzxbDv6ePl6mlyV1EHWF=s1600)
-
 
 ## 8月24日の誕生色: クールベージュ (`#AF8E8A`)
 

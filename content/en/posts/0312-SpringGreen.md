@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjYIeTe5MyNHSunbuM1ZgvH_3vtTTdCyntBNeVLi0RVU_cS5KKnZF4k-5B8geNXHQmvffOyFb7uHU5gr1zKTjh-4LgLwO6sTPDRv3ZCcbz9ykoNaLtnmhVXDtZPmoBlTOniYpEYjpK22JWMaYyIE08f2vPR3n4HoW84426qIu68kAYbHwz_ScpnPdHXLfgW=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Spring Green, The Birthday Color of March 12"
 date: "2026-03-12"
 updated: "2026-03-12"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "hot magenta"
 description: "The birthday color for March 12 is Spring Green (00FF66). Its meaning is Hopeful, Optimistic, Creative."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjYIeTe5MyNHSunbuM1ZgvH_3vtTTdCyntBNeVLi0RVU_cS5KKnZF4k-5B8geNXHQmvffOyFb7uHU5gr1zKTjh-4LgLwO6sTPDRv3ZCcbz9ykoNaLtnmhVXDtZPmoBlTOniYpEYjpK22JWMaYyIE08f2vPR3n4HoW84426qIu68kAYbHwz_ScpnPdHXLfgW=s1600"
 en_name: "SpringGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjYIeTe5MyNHSunbuM1ZgvH_3vtTTdCyntBNeVLi0RVU_cS5KKnZF4k-5B8geNXHQmvffOyFb7uHU5gr1zKTjh-4LgLwO6sTPDRv3ZCcbz9ykoNaLtnmhVXDtZPmoBlTOniYpEYjpK22JWMaYyIE08f2vPR3n4HoW84426qIu68kAYbHwz_ScpnPdHXLfgW=s1600)
-
 
 ## Birthday Color for March 12: Spring Green (`#00FF66`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjL433jQi21yj0nyei1KsEHUVlktHBdbSQw9LdP-CH58z2PAntJe1B6iOuNdmD8IkdItCO-f9BR1vPGXfPqf8qLhnOXX-VAW-OlytPEoBfU_RkyRY-fek7eQkp11Nk3qwrthgPcaTRPDv8qsPEVMzMKs0vHV0c9jq_1IpBqCvXMGgNohOOx8NeMWXqzYuIK=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Walnut, The Birthday Color of June 25"
 date: "2026-06-25"
 updated: "2026-06-25"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "slate green"
 description: "The birthday color for June 25 is Walnut (A49376). Its meaning is Mature, Wise, Stable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjL433jQi21yj0nyei1KsEHUVlktHBdbSQw9LdP-CH58z2PAntJe1B6iOuNdmD8IkdItCO-f9BR1vPGXfPqf8qLhnOXX-VAW-OlytPEoBfU_RkyRY-fek7eQkp11Nk3qwrthgPcaTRPDv8qsPEVMzMKs0vHV0c9jq_1IpBqCvXMGgNohOOx8NeMWXqzYuIK=s1600"
 en_name: "Walnut"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjL433jQi21yj0nyei1KsEHUVlktHBdbSQw9LdP-CH58z2PAntJe1B6iOuNdmD8IkdItCO-f9BR1vPGXfPqf8qLhnOXX-VAW-OlytPEoBfU_RkyRY-fek7eQkp11Nk3qwrthgPcaTRPDv8qsPEVMzMKs0vHV0c9jq_1IpBqCvXMGgNohOOx8NeMWXqzYuIK=s1600)
-
 
 ## Birthday Color for June 25: Walnut (`#A49376`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgjaYIbEK3bpyumNpcFh4RBxHRV9GRq8ENTu0Nv7gTp69OUUdZqny-VxUuzNulPOf50_Vi_8bBlc5HmZDrAkrsE1cGiJvmayba6wmYHBnDb0qFQa4uA3WsBaO6RshIbv1aPhEWHGtFwqJcY0bCK9mJTcSiYnvl9a5w3f3XHPWzx2PTfrdM-CZ8WD3WTN0cy=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ローステッドグレイン、9月18日の誕生色"
 date: "2026-09-18"
 updated: "2026-09-18"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ディープオーシャン"
 description: "9月18日の誕生色 ローステッドグレイン(A09588)。色言葉は「健全な精神、栄養価のある、豊かさ」です。相性の良い色はディープオーシャンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgjaYIbEK3bpyumNpcFh4RBxHRV9GRq8ENTu0Nv7gTp69OUUdZqny-VxUuzNulPOf50_Vi_8bBlc5HmZDrAkrsE1cGiJvmayba6wmYHBnDb0qFQa4uA3WsBaO6RshIbv1aPhEWHGtFwqJcY0bCK9mJTcSiYnvl9a5w3f3XHPWzx2PTfrdM-CZ8WD3WTN0cy=s1600"
 en_name: "Roasted Grain"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgjaYIbEK3bpyumNpcFh4RBxHRV9GRq8ENTu0Nv7gTp69OUUdZqny-VxUuzNulPOf50_Vi_8bBlc5HmZDrAkrsE1cGiJvmayba6wmYHBnDb0qFQa4uA3WsBaO6RshIbv1aPhEWHGtFwqJcY0bCK9mJTcSiYnvl9a5w3f3XHPWzx2PTfrdM-CZ8WD3WTN0cy=s1600)
-
 
 ## 9月18日の誕生色: ローステッドグレイン (`#A09588`)
 

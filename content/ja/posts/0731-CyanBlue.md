@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjFqDRYXeCtEIJ6myTc2POjb7u-3ggan_iv5eZ-aJT9e_SJVKzESPKxX5eMlX7JDR4UoPShRMoCjHfJLgaLPpjvxQ8rXN_snG2IjsLvNoq3CqLYfsjXKZrJYksEyUDBtZWH1mBFHgGsFby3YBM9-ONNFvufeiTbMYUFLubDO_LnATsa2wnImuKak5nPkDEb=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "シアンブルー、7月31日の誕生色"
 date: "2026-07-31"
 updated: "2026-07-31"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "オレンジ"
 description: "7月31日の誕生色 シアンブルー(0B93CE)。色言葉は「深みのある、涼しげ、賢明」です。相性の良い色はオレンジです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjFqDRYXeCtEIJ6myTc2POjb7u-3ggan_iv5eZ-aJT9e_SJVKzESPKxX5eMlX7JDR4UoPShRMoCjHfJLgaLPpjvxQ8rXN_snG2IjsLvNoq3CqLYfsjXKZrJYksEyUDBtZWH1mBFHgGsFby3YBM9-ONNFvufeiTbMYUFLubDO_LnATsa2wnImuKak5nPkDEb=s1600"
 en_name: "Cyan Blue"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjFqDRYXeCtEIJ6myTc2POjb7u-3ggan_iv5eZ-aJT9e_SJVKzESPKxX5eMlX7JDR4UoPShRMoCjHfJLgaLPpjvxQ8rXN_snG2IjsLvNoq3CqLYfsjXKZrJYksEyUDBtZWH1mBFHgGsFby3YBM9-ONNFvufeiTbMYUFLubDO_LnATsa2wnImuKak5nPkDEb=s1600)
-
 
 ## 7月31日の誕生色: シアンブルー (`#0B93CE`)
 

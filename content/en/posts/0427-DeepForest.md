@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgtVKeXNEwov0T-IRoH6wRdnm8OIqQbrM8_b5LNqyOaHDQofLcHMy_Xg_MUxp61PaQzbWHAWJbMue98pbmMCuaWSEb-BvEpzZaVCN9LUqgrYO5AvGGwLcYBi2d1nTlF2iQPiHupqQb8a9u_VOpoXXL-so-SKa4BB_WItwwKe_iaNA8xK4NQdbfQLOuv6jiy=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Forest, The Birthday Color of April 27"
 date: "2026-04-27"
 updated: "2026-04-27"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "silver antique"
 description: "The birthday color for April 27 is Deep Forest (2F4A2F). Its meaning is Profound, Mature, Stable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgtVKeXNEwov0T-IRoH6wRdnm8OIqQbrM8_b5LNqyOaHDQofLcHMy_Xg_MUxp61PaQzbWHAWJbMue98pbmMCuaWSEb-BvEpzZaVCN9LUqgrYO5AvGGwLcYBi2d1nTlF2iQPiHupqQb8a9u_VOpoXXL-so-SKa4BB_WItwwKe_iaNA8xK4NQdbfQLOuv6jiy=s1600"
 en_name: "DeepForest"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgtVKeXNEwov0T-IRoH6wRdnm8OIqQbrM8_b5LNqyOaHDQofLcHMy_Xg_MUxp61PaQzbWHAWJbMue98pbmMCuaWSEb-BvEpzZaVCN9LUqgrYO5AvGGwLcYBi2d1nTlF2iQPiHupqQb8a9u_VOpoXXL-so-SKa4BB_WItwwKe_iaNA8xK4NQdbfQLOuv6jiy=s1600)
-
 
 ## Birthday Color for April 27: Deep Forest (`#2F4A2F`)
 

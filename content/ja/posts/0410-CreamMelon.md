@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEioky3sWbLEHDze2s6ffQO9M-jIiCzgUUQzzhgeIz9d1DnsL1LOjtdb-twfRjuGB5lS7AuKXjG5krU5rYHvNmMeFbEvtpO3LsIAd8BdiOKGi8SbyZLDce-LdFcJH6klsw-R6uGpBk3j6zBpdLKzPbAG98UaKUG5IyZf--MYaC17Ax_5VAmgs_2peRvbYGTF=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "クリームメロン、4月10日の誕生色"
 date: "2026-04-10"
 updated: "2026-04-10"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "アンティークチョコ"
 description: "4月10日の誕生色 クリームメロン(DCF8E4)。色言葉は「柔らかさ、温和、爽やか」です。相性の良い色はアンティークチョコです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEioky3sWbLEHDze2s6ffQO9M-jIiCzgUUQzzhgeIz9d1DnsL1LOjtdb-twfRjuGB5lS7AuKXjG5krU5rYHvNmMeFbEvtpO3LsIAd8BdiOKGi8SbyZLDce-LdFcJH6klsw-R6uGpBk3j6zBpdLKzPbAG98UaKUG5IyZf--MYaC17Ax_5VAmgs_2peRvbYGTF=s1600"
 en_name: "Cream Melon"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEioky3sWbLEHDze2s6ffQO9M-jIiCzgUUQzzhgeIz9d1DnsL1LOjtdb-twfRjuGB5lS7AuKXjG5krU5rYHvNmMeFbEvtpO3LsIAd8BdiOKGi8SbyZLDce-LdFcJH6klsw-R6uGpBk3j6zBpdLKzPbAG98UaKUG5IyZf--MYaC17Ax_5VAmgs_2peRvbYGTF=s1600)
-
 
 ## 4月10日の誕生色: クリームメロン (`#DCF8E4`)
 

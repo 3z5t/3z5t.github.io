@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiM-CsTGVAjm0PzVh3A79GoerXnrROIazltxtteF7NpOeItqsto3YK52SuYBjR-K5aCzJ5-c6M4SZt4sb5A9YGghwWKN7n257tgUCNHrXs0R4KS1uWzxp7Rrn3Mz00Xlj68bf4xz6ZGJDDkMqXfeN_FnE72enLvfEjTJm_VOpnVZt3QIW1NVn5ueCg18ZFK=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Sand Pink, The Birthday Color of March 30"
 date: "2026-03-30"
 updated: "2026-03-30"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "steel navy"
 description: "The birthday color for March 30 is Sand Pink (F5C4AC). Its meaning is Warm, Inclusive, Gentle."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiM-CsTGVAjm0PzVh3A79GoerXnrROIazltxtteF7NpOeItqsto3YK52SuYBjR-K5aCzJ5-c6M4SZt4sb5A9YGghwWKN7n257tgUCNHrXs0R4KS1uWzxp7Rrn3Mz00Xlj68bf4xz6ZGJDDkMqXfeN_FnE72enLvfEjTJm_VOpnVZt3QIW1NVn5ueCg18ZFK=s1600"
 en_name: "SandPink"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiM-CsTGVAjm0PzVh3A79GoerXnrROIazltxtteF7NpOeItqsto3YK52SuYBjR-K5aCzJ5-c6M4SZt4sb5A9YGghwWKN7n257tgUCNHrXs0R4KS1uWzxp7Rrn3Mz00Xlj68bf4xz6ZGJDDkMqXfeN_FnE72enLvfEjTJm_VOpnVZt3QIW1NVn5ueCg18ZFK=s1600)
-
 
 ## Birthday Color for March 30: Sand Pink (`#F5C4AC`)
 

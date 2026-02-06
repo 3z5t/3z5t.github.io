@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjVTUuCy-9AtKjBU5eTUY0xyGCm-Zo656DQtu96pMn4z7w5j2jBYhWqrR6yYIENVePklSbmynf-UAOIMChdFHDt0EZbnjhw8jNP-19Skzl-ML4amAFNs9VzEqMPNF0Ph0Htwa4y4LXXLwrW_UZhkXLMfzf1uIs42TjCl2iXCGhazVxEP4XCayNiiYA4dqf7=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ヴィンテージネイビー、12月26日の誕生色"
 date: "2026-12-26"
 updated: "2026-12-26"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "サテングレー"
 description: "12月26日の誕生色 ヴィンテージネイビー(494960)。色言葉は「深みのある、安定、省察する」です。相性の良い色はサテングレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjVTUuCy-9AtKjBU5eTUY0xyGCm-Zo656DQtu96pMn4z7w5j2jBYhWqrR6yYIENVePklSbmynf-UAOIMChdFHDt0EZbnjhw8jNP-19Skzl-ML4amAFNs9VzEqMPNF0Ph0Htwa4y4LXXLwrW_UZhkXLMfzf1uIs42TjCl2iXCGhazVxEP4XCayNiiYA4dqf7=s1600"
 en_name: "Vintage Navy"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjVTUuCy-9AtKjBU5eTUY0xyGCm-Zo656DQtu96pMn4z7w5j2jBYhWqrR6yYIENVePklSbmynf-UAOIMChdFHDt0EZbnjhw8jNP-19Skzl-ML4amAFNs9VzEqMPNF0Ph0Htwa4y4LXXLwrW_UZhkXLMfzf1uIs42TjCl2iXCGhazVxEP4XCayNiiYA4dqf7=s1600)
-
 
 ## 12月26日の誕生色: ヴィンテージネイビー (`#494960`)
 

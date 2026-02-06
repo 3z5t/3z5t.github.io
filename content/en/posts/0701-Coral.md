@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiL-OOj7H1Q5cU13rvF1GFxDCUybIENMDgNnroXCFaZBScJtIMwb8eTppT9aLwEjAoBQ9HHffpBFe5FPOjhsFqsk8X9SmRDDK44e-0CQfsxgKMehTT55fkHKnVHKpdXRJQZJrKp4Dwc_qeOi-HphDQyYfpIE0LoSJ5duJhkHH0jgpXLTDUrViVj3Hmdw6U3=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Coral, The Birthday Color of July 1"
 date: "2026-07-01"
 updated: "2026-07-01"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "high sky"
 description: "The birthday color for July 1 is Coral (FF7F50). Its meaning is Lively, Charming, Optimistic."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiL-OOj7H1Q5cU13rvF1GFxDCUybIENMDgNnroXCFaZBScJtIMwb8eTppT9aLwEjAoBQ9HHffpBFe5FPOjhsFqsk8X9SmRDDK44e-0CQfsxgKMehTT55fkHKnVHKpdXRJQZJrKp4Dwc_qeOi-HphDQyYfpIE0LoSJ5duJhkHH0jgpXLTDUrViVj3Hmdw6U3=s1600"
 en_name: "Coral"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiL-OOj7H1Q5cU13rvF1GFxDCUybIENMDgNnroXCFaZBScJtIMwb8eTppT9aLwEjAoBQ9HHffpBFe5FPOjhsFqsk8X9SmRDDK44e-0CQfsxgKMehTT55fkHKnVHKpdXRJQZJrKp4Dwc_qeOi-HphDQyYfpIE0LoSJ5duJhkHH0jgpXLTDUrViVj3Hmdw6U3=s1600)
-
 
 ## Birthday Color for July 1: Coral (`#FF7F50`)
 

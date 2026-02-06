@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-06'
-description: The birthday color for January 6 is Classic Navy (000066). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhbZ8oBgKp5gY30ttGlm2Hm1mYT5NV3VFq8LYzMSOBSUSNLbBSlVqIkyaC_5xsrV6aCTbHbrp5ERMtu5v4xAID7JA0O6wH_sUkQtoGshNLLTiiLHBT8IJImFIlZogvPA76iIK8xi8vfIj_mSaSsXhYP49j7-BNxKXOuowV2rTx4whqtsiA9AhHLHjpoQa8v=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-06"
+description: "The birthday color for January 6 is Classic Navy (000066). Its meaning"
   is Conviction, Responsibility, Leadership.
-en_name: ClassicNavy
+en_name: "ClassicNavy"
 tags:
-- classic navy
-- birthday color
-- january 6
-- '000066'
-- january
-- pale orange
-postId: '7943544680145241152'
-postUrl: https://the366days-en.blogspot.com/2026/01/classic-navy-birthday-color-of-january-6.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhbZ8oBgKp5gY30ttGlm2Hm1mYT5NV3VFq8LYzMSOBSUSNLbBSlVqIkyaC_5xsrV6aCTbHbrp5ERMtu5v4xAID7JA0O6wH_sUkQtoGshNLLTiiLHBT8IJImFIlZogvPA76iIK8xi8vfIj_mSaSsXhYP49j7-BNxKXOuowV2rTx4whqtsiA9AhHLHjpoQa8v=s1600
-title: Classic Navy, The Birthday Color of January 6
-updated: '2026-01-06'
+  - "classic navy"
+  - "birthday color"
+  - "january 6"
+  - "000066"
+  - "january"
+  - "pale orange"
+postId: "7943544680145241152"
+postUrl: "https://the366days-en.blogspot.com/2026/01/classic-navy-birthday-color-of-january-6.html"
+profileName: "Pieces of a Day"
+title: "Classic Navy, The Birthday Color of January 6"
+updated: "2026-01-06"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhbZ8oBgKp5gY30ttGlm2Hm1mYT5NV3VFq8LYzMSOBSUSNLbBSlVqIkyaC_5xsrV6aCTbHbrp5ERMtu5v4xAID7JA0O6wH_sUkQtoGshNLLTiiLHBT8IJImFIlZogvPA76iIK8xi8vfIj_mSaSsXhYP49j7-BNxKXOuowV2rTx4whqtsiA9AhHLHjpoQa8v=s1600)
-
 
 ## Birthday Color for January 6: Classic Navy (`#000066`)
 

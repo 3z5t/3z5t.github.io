@@ -1,21 +1,24 @@
 ---
-"title": "Pure Crimson, The Birthday Color of February 23"
-"date": "2026-02-23"
-"updated": "2026-02-23"
-"labels":
-- "pure crimson"
-- "birthday color"
-- "february 23"
-- "ba0046"
-- "february"
-- "turquoise"
-"description": "The birthday color for February 23 is Pure Crimson (BA0046). Its meaning is Sincerity, Purity, Passion."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEjxJfQpXtpr_jsDp2O36GjyGIYK1ERcGHDjeX_aQGbHvCxIUfNa3yoDJdtaK2XkxDbax6UJeAvmMcY5j3B9QLGlDZft-sIYfnU2J1HuSl8X1XU6SeO0pOxkFTR41XoOzWryqq5i3zPifm45AZvmnr2IxMEdp3xwy4LEUbrCJFhVoI0sBfeVnE_EOEXJHUE6=s1600"
-"en_name": "PureCrimson"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "1365514053761327953"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/pure-crimson-birthday-color-of-february.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjxJfQpXtpr_jsDp2O36GjyGIYK1ERcGHDjeX_aQGbHvCxIUfNa3yoDJdtaK2XkxDbax6UJeAvmMcY5j3B9QLGlDZft-sIYfnU2J1HuSl8X1XU6SeO0pOxkFTR41XoOzWryqq5i3zPifm45AZvmnr2IxMEdp3xwy4LEUbrCJFhVoI0sBfeVnE_EOEXJHUE6=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Pure Crimson, The Birthday Color of February 23"
+date: "2026-02-23"
+updated: "2026-02-23"
+tags:
+  - "pure crimson"
+  - "birthday color"
+  - "february 23"
+  - "ba0046"
+  - "february"
+  - "turquoise"
+description: "The birthday color for February 23 is Pure Crimson (BA0046). Its meaning is Sincerity, Purity, Passion."
+en_name: "PureCrimson"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "1365514053761327953"
+postUrl: "https://the366days-en.blogspot.com/2026/02/pure-crimson-birthday-color-of-february.html"
 ---
 
 ## Birthday Color for February 23: Pure Crimson (`#BA0046`)

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhOc3zjSjrE3QTDABSq4xJj1vycBBn0CLID46bkO9aQlnfRMp0u72tqRUfKb2QvKo9kYoCdV4PkehpBWA3YKJx46Ixz7AtfyZDPHodP1Gieu6fuoo-DQ-_tO_EVtCTCFYMePOod864XWjWjNwb4WxpVsL04f9CYHDpE3xLI768PV27GUaadQXWhHZ1GNNvP=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アンティーククリスマスゴールド、12月25日の誕生色"
 date: "2026-12-25"
 updated: "2026-12-25"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ディープソラ"
 description: "12月25日の誕生色 アンティーククリスマスゴールド(947E4C)。色言葉は「祝福された、愛に満ちた、分かち合い」です。相性の良い色はディープソラです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhOc3zjSjrE3QTDABSq4xJj1vycBBn0CLID46bkO9aQlnfRMp0u72tqRUfKb2QvKo9kYoCdV4PkehpBWA3YKJx46Ixz7AtfyZDPHodP1Gieu6fuoo-DQ-_tO_EVtCTCFYMePOod864XWjWjNwb4WxpVsL04f9CYHDpE3xLI768PV27GUaadQXWhHZ1GNNvP=s1600"
 en_name: "Antique Christmas Gold"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhOc3zjSjrE3QTDABSq4xJj1vycBBn0CLID46bkO9aQlnfRMp0u72tqRUfKb2QvKo9kYoCdV4PkehpBWA3YKJx46Ixz7AtfyZDPHodP1Gieu6fuoo-DQ-_tO_EVtCTCFYMePOod864XWjWjNwb4WxpVsL04f9CYHDpE3xLI768PV27GUaadQXWhHZ1GNNvP=s1600)
-
 
 ## 12月25日の誕生色: アンティーククリスマスゴールド (`#947E4C`)
 

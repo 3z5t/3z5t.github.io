@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjlJjbW9g15obyrf5ZMXSByNR-6OvkqffTWSCmJawQA2keVUiN1j_9O4MdVyJSEpXR7Ai4D3mfhz775WdWnS48O-oyZkZsv5bh8KLQDkzwAF6PDUWEcrne8-hu-DQmY24l7AeJ0JdI1XbiselEdWo0l7pxx-1PgMoFexPtJ-Py4rVoaY7EIaPPpCYwhgkWF=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Brown, The Birthday Color of September 26"
 date: "2026-09-26"
 updated: "2026-09-26"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "soft blue"
 description: "The birthday color for September 26 is Brown (7F3300). Its meaning is Abundant, Stable, Practical."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjlJjbW9g15obyrf5ZMXSByNR-6OvkqffTWSCmJawQA2keVUiN1j_9O4MdVyJSEpXR7Ai4D3mfhz775WdWnS48O-oyZkZsv5bh8KLQDkzwAF6PDUWEcrne8-hu-DQmY24l7AeJ0JdI1XbiselEdWo0l7pxx-1PgMoFexPtJ-Py4rVoaY7EIaPPpCYwhgkWF=s1600"
 en_name: "Brown"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjlJjbW9g15obyrf5ZMXSByNR-6OvkqffTWSCmJawQA2keVUiN1j_9O4MdVyJSEpXR7Ai4D3mfhz775WdWnS48O-oyZkZsv5bh8KLQDkzwAF6PDUWEcrne8-hu-DQmY24l7AeJ0JdI1XbiselEdWo0l7pxx-1PgMoFexPtJ-Py4rVoaY7EIaPPpCYwhgkWF=s1600)
-
 
 ## Birthday Color for September 26: Brown (`#7F3300`)
 

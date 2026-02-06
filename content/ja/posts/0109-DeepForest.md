@@ -1,25 +1,25 @@
 ---
-title: ディープフォレスト、1月9日の誕生色
-date: 2026-01-09
-updated: 2026-01-09
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh9md1dJevfe1Lp8bmbutRVWZh6j8-5n2oT7F6wiaWe9H1rZr47OS9h3d6f6BPUldP1hP2dFhO8Ae2MIaGbfWI2lCN86E6UcB-ua_XN2JL8dfds21ET25hzjgSuO2IaFQgLa371SxriqnbmtzZGys7MbLYeNVrGI210uvQvqGNqMZVKqaqE3_X1MZcoeQj3=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ディープフォレスト、1月9日の誕生色"
+date: "2026-01-09"
+updated: "2026-01-09"
 tags:
-  - ディープフォレスト
-  - 誕生色
-  - 1月9日
-  - 13191A
-  - 1月
-  - ファインサンド
-description: 1月9日の誕生色 ディープフォレスト(13191A)。色言葉は「成長力、発展性、革新性」です。相性の良い色はファインサンドです。
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEh9md1dJevfe1Lp8bmbutRVWZh6j8-5n2oT7F6wiaWe9H1rZr47OS9h3d6f6BPUldP1hP2dFhO8Ae2MIaGbfWI2lCN86E6UcB-ua_XN2JL8dfds21ET25hzjgSuO2IaFQgLa371SxriqnbmtzZGys7MbLYeNVrGI210uvQvqGNqMZVKqaqE3_X1MZcoeQj3=s1600
-en_name: Deep Forest
-author: 日々のカケラ
-profileName: 日々のカケラ
+  - "ディープフォレスト"
+  - "誕生色"
+  - "1月9日"
+  - "13191A"
+  - "1月"
+  - "ファインサンド"
+description: "1月9日の誕生色 ディープフォレスト(13191A)。色言葉は「成長力、発展性、革新性」です。相性の良い色はファインサンドです。"
+en_name: "Deep Forest"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
 postId: "1004"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh9md1dJevfe1Lp8bmbutRVWZh6j8-5n2oT7F6wiaWe9H1rZr47OS9h3d6f6BPUldP1hP2dFhO8Ae2MIaGbfWI2lCN86E6UcB-ua_XN2JL8dfds21ET25hzjgSuO2IaFQgLa371SxriqnbmtzZGys7MbLYeNVrGI210uvQvqGNqMZVKqaqE3_X1MZcoeQj3=s1600)
-
 
 ## 1月9日の誕生色: ディープフォレスト (`#13191A`)
 

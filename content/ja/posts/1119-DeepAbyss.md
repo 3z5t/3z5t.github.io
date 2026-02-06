@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhY7aMC1czBqCfN9Xcu02XkuLcfTr9UackzDSOhETjS9pNs0GFlFlMPryWyYu8tFeUM4llGitUw9phK9Bd56MFWpJGrdVWi4Ks3y1pnUUEYLx7EV1U7g4yFqo1hXz434ExR9toQe0eODjlEfWTX0Qd7lduanRDQZ8UePWiqIm2cnkrevFIckfIeZZocM4Qg=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープアビス、11月19日の誕生色"
 date: "2026-11-19"
 updated: "2026-11-19"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "リリーホワイト"
 description: "11月19日の誕生色 ディープアビス(0D0D10)。色言葉は「無限、神秘的、深遠」です。相性の良い色はリリーホワイトです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhY7aMC1czBqCfN9Xcu02XkuLcfTr9UackzDSOhETjS9pNs0GFlFlMPryWyYu8tFeUM4llGitUw9phK9Bd56MFWpJGrdVWi4Ks3y1pnUUEYLx7EV1U7g4yFqo1hXz434ExR9toQe0eODjlEfWTX0Qd7lduanRDQZ8UePWiqIm2cnkrevFIckfIeZZocM4Qg=s1600"
 en_name: "Deep Abyss"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhY7aMC1czBqCfN9Xcu02XkuLcfTr9UackzDSOhETjS9pNs0GFlFlMPryWyYu8tFeUM4llGitUw9phK9Bd56MFWpJGrdVWi4Ks3y1pnUUEYLx7EV1U7g4yFqo1hXz434ExR9toQe0eODjlEfWTX0Qd7lduanRDQZ8UePWiqIm2cnkrevFIckfIeZZocM4Qg=s1600)
-
 
 ## 11月19日の誕生色: ディープアビス (`#0D0D10`)
 

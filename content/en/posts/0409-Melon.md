@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjjD5YuuJtv7gfxVkcJhRJVxRwQ_JvtH56cPgw_sSIVU41Qe43cxn6uDaw4SEaPxW6tDaBNpF1xBLYGpx_1BdLQS8KzjlwHrosJnM7JQO3UkjewwcjqeVtCVKyndI7Tc1qG6Qt33Y4iCnlEXaE1t0pIJTZoGjjG1w6ggyPc55Jg1ck8TnOUMCJTwmL4QbFP=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Melon, The Birthday Color of April 9"
 date: "2026-04-09"
 updated: "2026-04-09"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "mystic purple"
 description: "The birthday color for April 9 is Melon (98E294). Its meaning is Sweet, Positivity, Happiness."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjjD5YuuJtv7gfxVkcJhRJVxRwQ_JvtH56cPgw_sSIVU41Qe43cxn6uDaw4SEaPxW6tDaBNpF1xBLYGpx_1BdLQS8KzjlwHrosJnM7JQO3UkjewwcjqeVtCVKyndI7Tc1qG6Qt33Y4iCnlEXaE1t0pIJTZoGjjG1w6ggyPc55Jg1ck8TnOUMCJTwmL4QbFP=s1600"
 en_name: "Melon"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjjD5YuuJtv7gfxVkcJhRJVxRwQ_JvtH56cPgw_sSIVU41Qe43cxn6uDaw4SEaPxW6tDaBNpF1xBLYGpx_1BdLQS8KzjlwHrosJnM7JQO3UkjewwcjqeVtCVKyndI7Tc1qG6Qt33Y4iCnlEXaE1t0pIJTZoGjjG1w6ggyPc55Jg1ck8TnOUMCJTwmL4QbFP=s1600)
-
 
 ## Birthday Color for April 9: Melon (`#98E294`)
 

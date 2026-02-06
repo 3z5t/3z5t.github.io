@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjoe5gdBD6um2hKPKFOhSYC6wn6adRGdYq-AmeNTDKwOvmtGNwsGSddLcM69l2Fxd8Y-RKUGVj_u44QddpHUIRjB0XzQBWCb0YSIfCF0p0Cpja9eEafe-extqNh_10f84jXVeIEWo-SERaDh88O2XL-7zgr--bP3mmmd-z8ImdfDf7LAt0cvI1s21ip_uZr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Neon Carrot, The Birthday Color of June 12"
 date: "2026-06-12"
 updated: "2026-06-12"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "royal blue"
 description: "The birthday color for June 12 is Neon Carrot (FF9933). Its meaning is Vibrant, Energetic, Passionate."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjoe5gdBD6um2hKPKFOhSYC6wn6adRGdYq-AmeNTDKwOvmtGNwsGSddLcM69l2Fxd8Y-RKUGVj_u44QddpHUIRjB0XzQBWCb0YSIfCF0p0Cpja9eEafe-extqNh_10f84jXVeIEWo-SERaDh88O2XL-7zgr--bP3mmmd-z8ImdfDf7LAt0cvI1s21ip_uZr=s1600"
 en_name: "NeonCarrot"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjoe5gdBD6um2hKPKFOhSYC6wn6adRGdYq-AmeNTDKwOvmtGNwsGSddLcM69l2Fxd8Y-RKUGVj_u44QddpHUIRjB0XzQBWCb0YSIfCF0p0Cpja9eEafe-extqNh_10f84jXVeIEWo-SERaDh88O2XL-7zgr--bP3mmmd-z8ImdfDf7LAt0cvI1s21ip_uZr=s1600)
-
 
 ## Birthday Color for June 12: Neon Carrot (`#FF9933`)
 

@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-11'
-description: 1月11日の誕生色 スチールネイビー(1A3855)。色言葉は「堅実、信頼感、安定感」です。相性の良い色はソフトベージュです。
-en_name: Steel Navy
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjOlXHUZu94qfK43xtVY0zaJ5r1rRDw7DtcCMep3oIEKkPdapq3WIMtLyhTSNxmJNi1MiJIW1qQHXJjknLIbzh2SDPysyd7YnzVY2VIoMAPdtQXWWQqAZ-DwMD3OpaENKnZiM8qY-LH693QlFEUckG7-S3ez1hNhRD79I3BUSJbjB0g52w-4lHky3iMOXxU=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-11"
+description: "1月11日の誕生色 スチールネイビー(1A3855)。色言葉は「堅実、信頼感、安定感」です。相性の良い色はソフトベージュです。"
+en_name: "Steel Navy"
 tags:
-- スチールネイビー
-- 誕生色
-- 1月11日
-- 1A3855
-- 1月
-- ソフトベージュ
-postId: '3518852647609456466'
-postUrl: https://the366days-ja.blogspot.com/2026/01/111-steel-navy_01342227323.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEjOlXHUZu94qfK43xtVY0zaJ5r1rRDw7DtcCMep3oIEKkPdapq3WIMtLyhTSNxmJNi1MiJIW1qQHXJjknLIbzh2SDPysyd7YnzVY2VIoMAPdtQXWWQqAZ-DwMD3OpaENKnZiM8qY-LH693QlFEUckG7-S3ez1hNhRD79I3BUSJbjB0g52w-4lHky3iMOXxU=s1600
-title: スチールネイビー、1月11日の誕生色
-updated: '2026-01-11'
+  - "スチールネイビー"
+  - "誕生色"
+  - "1月11日"
+  - "1A3855"
+  - "1月"
+  - "ソフトベージュ"
+postId: "3518852647609456466"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/111-steel-navy_01342227323.html"
+profileName: "日々のカケラ"
+title: "スチールネイビー、1月11日の誕生色"
+updated: "2026-01-11"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjOlXHUZu94qfK43xtVY0zaJ5r1rRDw7DtcCMep3oIEKkPdapq3WIMtLyhTSNxmJNi1MiJIW1qQHXJjknLIbzh2SDPysyd7YnzVY2VIoMAPdtQXWWQqAZ-DwMD3OpaENKnZiM8qY-LH693QlFEUckG7-S3ez1hNhRD79I3BUSJbjB0g52w-4lHky3iMOXxU=s1600)
-
 
 ![スチールネイビー、1月11日の誕生色 (Steel Navy)](https://blogger.googleusercontent.com/img/a/AVvXsEjOlXHUZu94qfK43xtVY0zaJ5r1rRDw7DtcCMep3oIEKkPdapq3WIMtLyhTSNxmJNi1MiJIW1qQHXJjknLIbzh2SDPysyd7YnzVY2VIoMAPdtQXWWQqAZ-DwMD3OpaENKnZiM8qY-LH693QlFEUckG7-S3ez1hNhRD79I3BUSJbjB0g52w-4lHky3iMOXxU=s1600)
 

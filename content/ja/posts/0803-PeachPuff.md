@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh1xw0ed4qHin0EB0BqYfz5AQhvA_KqQDlKRLADAFNfY-Yk-CekYCy5DYzj0DQ8apM2pLrScioKDvPZv8-Xq3Gt73r3PmpJvgK1i4Bl74sdBXg7w5zMTthRnJw_JtO8fc0zPgNAKfyr2NAI4-gkqKRCl72SE-rX1aul7zaipUNmZ_loI3MIDehto_6GmrI5=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ピーチパフ、8月3日の誕生色"
 date: "2026-08-03"
 updated: "2026-08-03"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "イブニングスカイ"
 description: "8月3日の誕生色 ピーチパフ(FFD7B5)。色言葉は「柔らかい性格、甘さ、温和」です。相性の良い色はイブニングスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh1xw0ed4qHin0EB0BqYfz5AQhvA_KqQDlKRLADAFNfY-Yk-CekYCy5DYzj0DQ8apM2pLrScioKDvPZv8-Xq3Gt73r3PmpJvgK1i4Bl74sdBXg7w5zMTthRnJw_JtO8fc0zPgNAKfyr2NAI4-gkqKRCl72SE-rX1aul7zaipUNmZ_loI3MIDehto_6GmrI5=s1600"
 en_name: "Peach Puff"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh1xw0ed4qHin0EB0BqYfz5AQhvA_KqQDlKRLADAFNfY-Yk-CekYCy5DYzj0DQ8apM2pLrScioKDvPZv8-Xq3Gt73r3PmpJvgK1i4Bl74sdBXg7w5zMTthRnJw_JtO8fc0zPgNAKfyr2NAI4-gkqKRCl72SE-rX1aul7zaipUNmZ_loI3MIDehto_6GmrI5=s1600)
-
 
 ## 8月3日の誕生色: ピーチパフ (`#FFD7B5`)
 

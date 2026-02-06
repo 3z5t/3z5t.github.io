@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgAI6_S_Ipunm-UXQfPRCvq1LL6v3zjR7oQgIae3aaSM_-u9tXXnC_8VAZxQ0AYS7a9Jxet7Yjc3IRTfrq_Ady734yYfBYP7cDtL7rYT3Z-d5d0oIdg-W8mvS3dksySNjvp9MgkDOE9MPxyUdmUsrVU_hJwaQEM7BMIOcQXaVjMRYxA7y-wOOkUC40UPaOW=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Silver Rose, The Birthday Color of March 25"
 date: "2026-03-25"
 updated: "2026-03-25"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "ancient green"
 description: "The birthday color for March 25 is Silver Rose (BE8C92). Its meaning is Dignified, Luxurious, Mature."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgAI6_S_Ipunm-UXQfPRCvq1LL6v3zjR7oQgIae3aaSM_-u9tXXnC_8VAZxQ0AYS7a9Jxet7Yjc3IRTfrq_Ady734yYfBYP7cDtL7rYT3Z-d5d0oIdg-W8mvS3dksySNjvp9MgkDOE9MPxyUdmUsrVU_hJwaQEM7BMIOcQXaVjMRYxA7y-wOOkUC40UPaOW=s1600"
 en_name: "SilverRose"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgAI6_S_Ipunm-UXQfPRCvq1LL6v3zjR7oQgIae3aaSM_-u9tXXnC_8VAZxQ0AYS7a9Jxet7Yjc3IRTfrq_Ady734yYfBYP7cDtL7rYT3Z-d5d0oIdg-W8mvS3dksySNjvp9MgkDOE9MPxyUdmUsrVU_hJwaQEM7BMIOcQXaVjMRYxA7y-wOOkUC40UPaOW=s1600)
-
 
 ## Birthday Color for March 25: Silver Rose (`#BE8C92`)
 

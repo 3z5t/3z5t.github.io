@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgJIs00BLB3NuW_axuzd44Pi_gIw-_0LMuFQV2Q0Vd686WvSEaYm4KUopPgHQU7oavEluQk28cipLDM5VtAt9Q0gSCfL6RcVV0AGTUqltBXzfIXi0rulbtZ_KAgprITOvfpQML4ykNBJb5Z7-h0OT4x1cP7WHPEhmToj3H8Fr8WCyBSTHOXh7qmYouSu3rR=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Classic Red, The Birthday Color of October 3"
 date: "2026-10-03"
 updated: "2026-10-03"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "light sky"
 description: "The birthday color for October 3 is Classic Red (C61400). Its meaning is Proud, High Self-esteem, Leadership."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgJIs00BLB3NuW_axuzd44Pi_gIw-_0LMuFQV2Q0Vd686WvSEaYm4KUopPgHQU7oavEluQk28cipLDM5VtAt9Q0gSCfL6RcVV0AGTUqltBXzfIXi0rulbtZ_KAgprITOvfpQML4ykNBJb5Z7-h0OT4x1cP7WHPEhmToj3H8Fr8WCyBSTHOXh7qmYouSu3rR=s1600"
 en_name: "ClassicRed"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgJIs00BLB3NuW_axuzd44Pi_gIw-_0LMuFQV2Q0Vd686WvSEaYm4KUopPgHQU7oavEluQk28cipLDM5VtAt9Q0gSCfL6RcVV0AGTUqltBXzfIXi0rulbtZ_KAgprITOvfpQML4ykNBJb5Z7-h0OT4x1cP7WHPEhmToj3H8Fr8WCyBSTHOXh7qmYouSu3rR=s1600)
-
 
 ## Birthday Color for October 3: Classic Red (`#C61400`)
 

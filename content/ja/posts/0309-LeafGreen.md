@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEimJ6FFCj7PqzAKBKHq7vkS6blqv7YzS_F4dPuV0WvvMpXUCQ0SXF-9WnE_y73I0-hEIHPdWJ7EUJOy0714AkCVSSj_h6V3IqnwR2BSkOVFeMdiAEA_O5GYCygrYxZEEf3wDA6J-GQn15sNRr69n6LtA12T1l40jaf-rQAPYJ2CByd422VAAyEkU4hie_3C=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "リーフグリーン、3月9日の誕生色"
 date: "2026-03-09"
 updated: "2026-03-09"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ソフトライトパープル"
 description: "3月9日の誕生色 リーフグリーン(587D4A)。色言葉は「自然親和、バランス感覚、包容力」です。相性の良い色はソフトライトパープルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEimJ6FFCj7PqzAKBKHq7vkS6blqv7YzS_F4dPuV0WvvMpXUCQ0SXF-9WnE_y73I0-hEIHPdWJ7EUJOy0714AkCVSSj_h6V3IqnwR2BSkOVFeMdiAEA_O5GYCygrYxZEEf3wDA6J-GQn15sNRr69n6LtA12T1l40jaf-rQAPYJ2CByd422VAAyEkU4hie_3C=s1600"
 en_name: "Leaf Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEimJ6FFCj7PqzAKBKHq7vkS6blqv7YzS_F4dPuV0WvvMpXUCQ0SXF-9WnE_y73I0-hEIHPdWJ7EUJOy0714AkCVSSj_h6V3IqnwR2BSkOVFeMdiAEA_O5GYCygrYxZEEf3wDA6J-GQn15sNRr69n6LtA12T1l40jaf-rQAPYJ2CByd422VAAyEkU4hie_3C=s1600)
-
 
 ## 3月9日の誕生色: リーフグリーン (`#587D4A`)
 

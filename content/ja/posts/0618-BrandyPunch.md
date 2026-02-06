@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhdvD0Q82KD88rXWDvtxEjTleObfMONgl-mhRGSzPxEVHh7NKuuidJfOCYbm493et4xknZ5jLjnO8oAZ50eOb1040bLz66p4slb9JdWJTbtp_MhqsuDqY4dIfZ0bpho9ndmgS8z6twEdSRmJIAvzXt87dIqC9FCMA5WoTGN8Xtezuo5maHGAQ7xAbe9_L-6=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ブランディパンチ、6月18日の誕生色"
 date: "2026-06-18"
 updated: "2026-06-18"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "ダークターコイズ"
 description: "6月18日の誕生色 ブランディパンチ(C6794A)。色言葉は「深みのある、安定、成熟」です。相性の良い色はダークターコイズです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhdvD0Q82KD88rXWDvtxEjTleObfMONgl-mhRGSzPxEVHh7NKuuidJfOCYbm493et4xknZ5jLjnO8oAZ50eOb1040bLz66p4slb9JdWJTbtp_MhqsuDqY4dIfZ0bpho9ndmgS8z6twEdSRmJIAvzXt87dIqC9FCMA5WoTGN8Xtezuo5maHGAQ7xAbe9_L-6=s1600"
 en_name: "Brandy Punch"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhdvD0Q82KD88rXWDvtxEjTleObfMONgl-mhRGSzPxEVHh7NKuuidJfOCYbm493et4xknZ5jLjnO8oAZ50eOb1040bLz66p4slb9JdWJTbtp_MhqsuDqY4dIfZ0bpho9ndmgS8z6twEdSRmJIAvzXt87dIqC9FCMA5WoTGN8Xtezuo5maHGAQ7xAbe9_L-6=s1600)
-
 
 ## 6月18日の誕生色: ブランディパンチ (`#C6794A`)
 

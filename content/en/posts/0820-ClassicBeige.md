@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhpaS3YGlZ4ODUlhozZj8PqLBS25ftxDG3HiIMTkacXLFdYMx24Hcsh-rBE_T7m1sLEwq2oSaOJ-4JJbI_tJyv_R-_hyal_snXq2w8VLcXOlJTAldFEOtyH91AwAe92yHnQBXUPS0HyxBVgVl8_sD9gO_FZGIZpZST5ibFubiDmxCAs7nsGbH44rWYUXOxI=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Classic Beige, The Birthday Color of August 20"
 date: "2026-08-20"
 updated: "2026-08-20"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "true navy"
 description: "The birthday color for August 20 is Classic Beige (D7C095). Its meaning is Stable, Comfortable, Calm."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhpaS3YGlZ4ODUlhozZj8PqLBS25ftxDG3HiIMTkacXLFdYMx24Hcsh-rBE_T7m1sLEwq2oSaOJ-4JJbI_tJyv_R-_hyal_snXq2w8VLcXOlJTAldFEOtyH91AwAe92yHnQBXUPS0HyxBVgVl8_sD9gO_FZGIZpZST5ibFubiDmxCAs7nsGbH44rWYUXOxI=s1600"
 en_name: "ClassicBeige"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhpaS3YGlZ4ODUlhozZj8PqLBS25ftxDG3HiIMTkacXLFdYMx24Hcsh-rBE_T7m1sLEwq2oSaOJ-4JJbI_tJyv_R-_hyal_snXq2w8VLcXOlJTAldFEOtyH91AwAe92yHnQBXUPS0HyxBVgVl8_sD9gO_FZGIZpZST5ibFubiDmxCAs7nsGbH44rWYUXOxI=s1600)
-
 
 ## Birthday Color for August 20: Classic Beige (`#D7C095`)
 

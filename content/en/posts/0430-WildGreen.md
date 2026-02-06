@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgL4Z8vRWfE1gxNwOx7lVQSTgiRvwjXIXvDnaBQo0YqrlYr_JVz7hpo17mqiKGDyY3Y6RtjP6Rb8ru080RyNFF80ufHdv_lU3Jo-xiDvdm-QVOmUQrEmNiel_qh-2-QvjORhP75ExkAvzpeALzpM75fX7Y3iPiKniXlUkK-CPHCYSV72ODTHDe3kw6Efh2Y=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Wild Green, The Birthday Color of April 30"
 date: "2026-04-30"
 updated: "2026-04-30"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "lilac"
 description: "The birthday color for April 30 is Wild Green (387146). Its meaning is Strong, Vitality, Prosperity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgL4Z8vRWfE1gxNwOx7lVQSTgiRvwjXIXvDnaBQo0YqrlYr_JVz7hpo17mqiKGDyY3Y6RtjP6Rb8ru080RyNFF80ufHdv_lU3Jo-xiDvdm-QVOmUQrEmNiel_qh-2-QvjORhP75ExkAvzpeALzpM75fX7Y3iPiKniXlUkK-CPHCYSV72ODTHDe3kw6Efh2Y=s1600"
 en_name: "WildGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgL4Z8vRWfE1gxNwOx7lVQSTgiRvwjXIXvDnaBQo0YqrlYr_JVz7hpo17mqiKGDyY3Y6RtjP6Rb8ru080RyNFF80ufHdv_lU3Jo-xiDvdm-QVOmUQrEmNiel_qh-2-QvjORhP75ExkAvzpeALzpM75fX7Y3iPiKniXlUkK-CPHCYSV72ODTHDe3kw6Efh2Y=s1600)
-
 
 ## Birthday Color for April 30: Wild Green (`#387146`)
 

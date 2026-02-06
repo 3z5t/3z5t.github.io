@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgExLx3m4ec3ei4Xo3sjoMdWsGlS2BfD5ewVdIW7MnbEzXRXZssAzxmypHZO8D7mriCu_F93EjkY7YDVXDcKw9oqY9ItiMzd0C3ffQqckxC6pyZeV0UKNtYZgfgOPg7NlHntaTo8lpOjWMSx70RqUpMaf1MgXVJuS7ckNr-oJXzlBatRy6VCYmXN-DT9B_Y=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Rose Red, The Birthday Color of December 2"
 date: "2026-12-02"
 updated: "2026-12-02"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "soft cyan"
 description: "The birthday color for December 2 is Rose Red (8D1C1C). Its meaning is Passionate, Strong Will, Hopeful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgExLx3m4ec3ei4Xo3sjoMdWsGlS2BfD5ewVdIW7MnbEzXRXZssAzxmypHZO8D7mriCu_F93EjkY7YDVXDcKw9oqY9ItiMzd0C3ffQqckxC6pyZeV0UKNtYZgfgOPg7NlHntaTo8lpOjWMSx70RqUpMaf1MgXVJuS7ckNr-oJXzlBatRy6VCYmXN-DT9B_Y=s1600"
 en_name: "RoseRed"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgExLx3m4ec3ei4Xo3sjoMdWsGlS2BfD5ewVdIW7MnbEzXRXZssAzxmypHZO8D7mriCu_F93EjkY7YDVXDcKw9oqY9ItiMzd0C3ffQqckxC6pyZeV0UKNtYZgfgOPg7NlHntaTo8lpOjWMSx70RqUpMaf1MgXVJuS7ckNr-oJXzlBatRy6VCYmXN-DT9B_Y=s1600)
-
 
 ## Birthday Color for December 2: Rose Red (`#8D1C1C`)
 

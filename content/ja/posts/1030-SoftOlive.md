@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgeo8jcA0118JCn5eLOrityz-aNErq0KZjfSBTiYu4-xg_ozPZHqoNItJUAzIQfS5done4ZYa2wJpajRgrN_Ll-HEfw5OTLO-N_4NqREUUFTlFodrM2on2IXEHI9Af6GlkvtaqA2tuLF3KjI9QafYso0_5VlS50hL4kO3CfWd18bpxk-dfaVkzVQuW0x1Al=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ソフトオリーブ、10月30日の誕生色"
 date: "2026-10-30"
 updated: "2026-10-30"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "ダスティパープル"
 description: "10月30日の誕生色 ソフトオリーブ(7E9682)。色言葉は「落ち着き、安定、平和」です。相性の良い色はダスティパープルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgeo8jcA0118JCn5eLOrityz-aNErq0KZjfSBTiYu4-xg_ozPZHqoNItJUAzIQfS5done4ZYa2wJpajRgrN_Ll-HEfw5OTLO-N_4NqREUUFTlFodrM2on2IXEHI9Af6GlkvtaqA2tuLF3KjI9QafYso0_5VlS50hL4kO3CfWd18bpxk-dfaVkzVQuW0x1Al=s1600"
 en_name: "Soft Olive"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgeo8jcA0118JCn5eLOrityz-aNErq0KZjfSBTiYu4-xg_ozPZHqoNItJUAzIQfS5done4ZYa2wJpajRgrN_Ll-HEfw5OTLO-N_4NqREUUFTlFodrM2on2IXEHI9Af6GlkvtaqA2tuLF3KjI9QafYso0_5VlS50hL4kO3CfWd18bpxk-dfaVkzVQuW0x1Al=s1600)
-
 
 ## 10月30日の誕生色: ソフトオリーブ (`#7E9682`)
 

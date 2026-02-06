@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgWmkF7bPEmycSxKhxDK-0ufC5SitThrjzo0rtV8bdOl5yulN0eml4VLZgvr7roeU3Q-5JryyUrbRoNdmggDeg19wKZZmSLFhMRNzMfH498E9vdsZPTsH88S_3xpZMa9I6tJVfQdR0hnhWJHoebjW9GFt6tRt4aLVFAABAyIbsgzmbkZNaFBDKgn3jthP77=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ゴールデンロッド、5月3日の誕生色"
 date: "2026-05-03"
 updated: "2026-05-03"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "ロイヤルブルー"
 description: "5月3日の誕生色 ゴールデンロッド(DAA520)。色言葉は「肯定性、幸運、リーダーシップ」です。相性の良い色はロイヤルブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgWmkF7bPEmycSxKhxDK-0ufC5SitThrjzo0rtV8bdOl5yulN0eml4VLZgvr7roeU3Q-5JryyUrbRoNdmggDeg19wKZZmSLFhMRNzMfH498E9vdsZPTsH88S_3xpZMa9I6tJVfQdR0hnhWJHoebjW9GFt6tRt4aLVFAABAyIbsgzmbkZNaFBDKgn3jthP77=s1600"
 en_name: "Golden Rod"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgWmkF7bPEmycSxKhxDK-0ufC5SitThrjzo0rtV8bdOl5yulN0eml4VLZgvr7roeU3Q-5JryyUrbRoNdmggDeg19wKZZmSLFhMRNzMfH498E9vdsZPTsH88S_3xpZMa9I6tJVfQdR0hnhWJHoebjW9GFt6tRt4aLVFAABAyIbsgzmbkZNaFBDKgn3jthP77=s1600)
-
 
 ## 5月3日の誕生色: ゴールデンロッド (`#DAA520`)
 

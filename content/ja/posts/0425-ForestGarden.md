@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj3rXJb5nwgMrFVFrUFUlEDhlOQZXf3lypl2ZCeRicrRImzNhQptWoGbg7XxU89lzRmEdbOpUw_lJlmy1GdyI-DcjiU8kNBBEFc_TVG3w4pxoXZp-SuC9P3bdeWOUNQP0BaiYesvkXQ9ue5onWin169VoUi379UqrpP3Zo-oM15HnS66aFlnA_iBPZTsWDZ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "フォレストガーデン、4月25日の誕生色"
 date: "2026-04-25"
 updated: "2026-04-25"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "シルバーローズ"
 description: "4月25日の誕生色 フォレストガーデン(317D61)。色言葉は「健康、活力的、強靭」です。相性の良い色はシルバーローズです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj3rXJb5nwgMrFVFrUFUlEDhlOQZXf3lypl2ZCeRicrRImzNhQptWoGbg7XxU89lzRmEdbOpUw_lJlmy1GdyI-DcjiU8kNBBEFc_TVG3w4pxoXZp-SuC9P3bdeWOUNQP0BaiYesvkXQ9ue5onWin169VoUi379UqrpP3Zo-oM15HnS66aFlnA_iBPZTsWDZ=s1600"
 en_name: "Forest Garden"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj3rXJb5nwgMrFVFrUFUlEDhlOQZXf3lypl2ZCeRicrRImzNhQptWoGbg7XxU89lzRmEdbOpUw_lJlmy1GdyI-DcjiU8kNBBEFc_TVG3w4pxoXZp-SuC9P3bdeWOUNQP0BaiYesvkXQ9ue5onWin169VoUi379UqrpP3Zo-oM15HnS66aFlnA_iBPZTsWDZ=s1600)
-
 
 ## 4月25日の誕生色: フォレストガーデン (`#317D61`)
 

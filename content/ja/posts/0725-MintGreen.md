@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgpX_7LoBdcH9rJKetp_LwzHdAQGq30p2T1pNb-nbphJVyNk8-Ey_dYKx2JRdODilGZU7VxUFSm-MoIq49ggmQF8upINw1r0y1SWq42DJw9U1SfEZ5oV-62Hy_7GCz2STyjhFanAe9RNUDgwrwvwVZd09sjg9n4dKIDL5kmuECOU7mBN0BeEaSRo8svz81n=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ミントグリーン、7月25日の誕生色"
 date: "2026-07-25"
 updated: "2026-07-25"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "ミスティックパープル"
 description: "7月25日の誕生色 ミントグリーン(99FF99)。色言葉は「清涼な性格、爽やか、生気」です。相性の良い色はミスティックパープルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgpX_7LoBdcH9rJKetp_LwzHdAQGq30p2T1pNb-nbphJVyNk8-Ey_dYKx2JRdODilGZU7VxUFSm-MoIq49ggmQF8upINw1r0y1SWq42DJw9U1SfEZ5oV-62Hy_7GCz2STyjhFanAe9RNUDgwrwvwVZd09sjg9n4dKIDL5kmuECOU7mBN0BeEaSRo8svz81n=s1600"
 en_name: "Mint Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgpX_7LoBdcH9rJKetp_LwzHdAQGq30p2T1pNb-nbphJVyNk8-Ey_dYKx2JRdODilGZU7VxUFSm-MoIq49ggmQF8upINw1r0y1SWq42DJw9U1SfEZ5oV-62Hy_7GCz2STyjhFanAe9RNUDgwrwvwVZd09sjg9n4dKIDL5kmuECOU7mBN0BeEaSRo8svz81n=s1600)
-
 
 ## 7月25日の誕生色: ミントグリーン (`#99FF99`)
 

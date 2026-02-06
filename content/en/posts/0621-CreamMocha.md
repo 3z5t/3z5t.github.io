@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgLN0y1qRNsY_SSl8v6dbqiPtLWFd1hTX0yJDlvWj8v-bOlyj8_S718LotqWB6A_hlsVGm3E7JeifHRkrgoYIa7jY4jBc9m-GqobN4AktCHug_hcAWa1IBRzLAAH69eSmLMo5hqNKKT6QvTivCse5dwY3h6DEUMSMp3UwZ0tSeXUJ1sdD55APRahTqKAL_X=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Cream Mocha, The Birthday Color of June 21"
 date: "2026-06-21"
 updated: "2026-06-21"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "deep cyan"
 description: "The birthday color for June 21 is Cream Mocha (D19A71). Its meaning is Relaxed, Peaceful, Stability."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgLN0y1qRNsY_SSl8v6dbqiPtLWFd1hTX0yJDlvWj8v-bOlyj8_S718LotqWB6A_hlsVGm3E7JeifHRkrgoYIa7jY4jBc9m-GqobN4AktCHug_hcAWa1IBRzLAAH69eSmLMo5hqNKKT6QvTivCse5dwY3h6DEUMSMp3UwZ0tSeXUJ1sdD55APRahTqKAL_X=s1600"
 en_name: "CreamMocha"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgLN0y1qRNsY_SSl8v6dbqiPtLWFd1hTX0yJDlvWj8v-bOlyj8_S718LotqWB6A_hlsVGm3E7JeifHRkrgoYIa7jY4jBc9m-GqobN4AktCHug_hcAWa1IBRzLAAH69eSmLMo5hqNKKT6QvTivCse5dwY3h6DEUMSMp3UwZ0tSeXUJ1sdD55APRahTqKAL_X=s1600)
-
 
 ## Birthday Color for June 21: Cream Mocha (`#D19A71`)
 

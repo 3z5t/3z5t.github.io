@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-24'
-description: 1月24日の誕生色 クラウディスカイ(C3CFE0)。色言葉は「包容力、理解力、思いやり」です。相性の良い色はオータムリーブスです。
-en_name: Cloudy Sky
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgqgwa8nX64_3IQrEn44-IQnPdfmvkN-HOySUOT_hQepxw5qBUXmQbnYxdnxKOTT__VIhPLP2BQFWTUeuIAiWg-XOzILdKPyHSwqY5VIeTHfJfjsUeDFwOHXA_wxbiTcC2CDQL1iEKfIQeDzNP40lwAStU5GaF0iCTdK3UTjtiIdCHemw-oN6lgK1Y5h_GP=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-24"
+description: "1月24日の誕生色 クラウディスカイ(C3CFE0)。色言葉は「包容力、理解力、思いやり」です。相性の良い色はオータムリーブスです。"
+en_name: "Cloudy Sky"
 tags:
-- クラウディスカイ
-- 誕生色
-- 1月24日
-- C3CFE0
-- 1月
-- オータムリーブス
-postId: '8851038201594228922'
-postUrl: https://the366days-ja.blogspot.com/2026/01/124-cloudy-sky.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgqgwa8nX64_3IQrEn44-IQnPdfmvkN-HOySUOT_hQepxw5qBUXmQbnYxdnxKOTT__VIhPLP2BQFWTUeuIAiWg-XOzILdKPyHSwqY5VIeTHfJfjsUeDFwOHXA_wxbiTcC2CDQL1iEKfIQeDzNP40lwAStU5GaF0iCTdK3UTjtiIdCHemw-oN6lgK1Y5h_GP=s1600
-title: クラウディスカイ、1月24日の誕生色
-updated: '2026-01-24'
+  - "クラウディスカイ"
+  - "誕生色"
+  - "1月24日"
+  - "C3CFE0"
+  - "1月"
+  - "オータムリーブス"
+postId: "8851038201594228922"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/124-cloudy-sky.html"
+profileName: "日々のカケラ"
+title: "クラウディスカイ、1月24日の誕生色"
+updated: "2026-01-24"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgqgwa8nX64_3IQrEn44-IQnPdfmvkN-HOySUOT_hQepxw5qBUXmQbnYxdnxKOTT__VIhPLP2BQFWTUeuIAiWg-XOzILdKPyHSwqY5VIeTHfJfjsUeDFwOHXA_wxbiTcC2CDQL1iEKfIQeDzNP40lwAStU5GaF0iCTdK3UTjtiIdCHemw-oN6lgK1Y5h_GP=s1600)
-
 
 ## 1月24日の誕生色: クラウディスカイ (`#C3CFE0`)
 

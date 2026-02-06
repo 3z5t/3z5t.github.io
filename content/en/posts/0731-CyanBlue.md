@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg0hwAzqWvMXffIqZ8cxYKbEgfIk8GHWVP5ZEPcKziIhKyeb1juusA15j19JHaMZlD05p-q1WiHt5U_25qeVE-0z4UNEQzsRZB8ypnh2rKS7JbzUMaKY_6uNOH_a556xCGFLPJFagTNKN3Dap76Las1TfbSITN-B07Vrk-5oUfsltPdKxVId8revjluEduP=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Cyan Blue, The Birthday Color of July 31"
 date: "2026-07-31"
 updated: "2026-07-31"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "orange"
 description: "The birthday color for July 31 is Cyan Blue (0B93CE). Its meaning is Profound, Cool, Wise."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg0hwAzqWvMXffIqZ8cxYKbEgfIk8GHWVP5ZEPcKziIhKyeb1juusA15j19JHaMZlD05p-q1WiHt5U_25qeVE-0z4UNEQzsRZB8ypnh2rKS7JbzUMaKY_6uNOH_a556xCGFLPJFagTNKN3Dap76Las1TfbSITN-B07Vrk-5oUfsltPdKxVId8revjluEduP=s1600"
 en_name: "CyanBlue"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg0hwAzqWvMXffIqZ8cxYKbEgfIk8GHWVP5ZEPcKziIhKyeb1juusA15j19JHaMZlD05p-q1WiHt5U_25qeVE-0z4UNEQzsRZB8ypnh2rKS7JbzUMaKY_6uNOH_a556xCGFLPJFagTNKN3Dap76Las1TfbSITN-B07Vrk-5oUfsltPdKxVId8revjluEduP=s1600)
-
 
 ## Birthday Color for July 31: Cyan Blue (`#0B93CE`)
 

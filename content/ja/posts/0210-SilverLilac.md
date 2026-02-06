@@ -1,21 +1,24 @@
 ---
-"title": "シルバーライラック、2月10日の誕生色"
-"date": "2026-02-10"
-"updated": "2026-02-10"
-"labels":
-- "シルバーライラック"
-- "誕生色"
-- "2月10日"
-- "AEA2C9"
-- "2月"
-- "ディープカーキ"
-"description": "2月10日の誕生色 シルバーライラック(AEA2C9)。色言葉は「優雅、洗練、審美眼」です。相性の良い色はディープカーキです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgXd9Tt4hYYY48RzWre7LwLxFxbpM8mopHyJ0avwy3lWVWJVL-XH0Z11OIEkSsdFBJqIHxHDoGCHlal4jv-03TFntYEehOwK1FAY9nGjEiQxb27OrxHkHwpZNSdO0ErZsYR-4XkXG_nGTPaCyEgmpcMLczILGMHLTVr8CP8Zj4t3IbPjwxORIpPUiaLr_xe=s1600"
-"en_name": "Silver Lilac"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "3701414190516527809"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/210-silver-lilac.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgXd9Tt4hYYY48RzWre7LwLxFxbpM8mopHyJ0avwy3lWVWJVL-XH0Z11OIEkSsdFBJqIHxHDoGCHlal4jv-03TFntYEehOwK1FAY9nGjEiQxb27OrxHkHwpZNSdO0ErZsYR-4XkXG_nGTPaCyEgmpcMLczILGMHLTVr8CP8Zj4t3IbPjwxORIpPUiaLr_xe=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "シルバーライラック、2月10日の誕生色"
+date: "2026-02-10"
+updated: "2026-02-10"
+tags:
+  - "シルバーライラック"
+  - "誕生色"
+  - "2月10日"
+  - "AEA2C9"
+  - "2月"
+  - "ディープカーキ"
+description: "2月10日の誕生色 シルバーライラック(AEA2C9)。色言葉は「優雅、洗練、審美眼」です。相性の良い色はディープカーキです。"
+en_name: "Silver Lilac"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "3701414190516527809"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/210-silver-lilac.html"
 ---
 
 ## 2月10日の誕生色: シルバーライラック (`#AEA2C9`)

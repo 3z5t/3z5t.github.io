@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj3fuVKqrwM4JWyQ0c4ZH7cFwTNYCxy8Xg2CBhnq5dZrMoWlb7dCh3PVq8MngLmw-XY2lZB7lEdu8X_mXDLQBwSp_GilBZs_cfvriPGsopCQ74JicZBVlHgLd3rGCosWZebglA_RQptvbbEA_fm58GOC2ch65wW7EYz9F7RqLacg2as_oJ13QHgQ94ret4B=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "バブルガム、7月16日の誕生色"
 date: "2026-07-16"
 updated: "2026-07-16"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "ディープナイトスカイ"
 description: "7月16日の誕生色 バブルガム(FBC9CB)。色言葉は「楽しい性格、愛らしい、可愛い」です。相性の良い色はディープナイトスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj3fuVKqrwM4JWyQ0c4ZH7cFwTNYCxy8Xg2CBhnq5dZrMoWlb7dCh3PVq8MngLmw-XY2lZB7lEdu8X_mXDLQBwSp_GilBZs_cfvriPGsopCQ74JicZBVlHgLd3rGCosWZebglA_RQptvbbEA_fm58GOC2ch65wW7EYz9F7RqLacg2as_oJ13QHgQ94ret4B=s1600"
 en_name: "Bubblegum"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj3fuVKqrwM4JWyQ0c4ZH7cFwTNYCxy8Xg2CBhnq5dZrMoWlb7dCh3PVq8MngLmw-XY2lZB7lEdu8X_mXDLQBwSp_GilBZs_cfvriPGsopCQ74JicZBVlHgLd3rGCosWZebglA_RQptvbbEA_fm58GOC2ch65wW7EYz9F7RqLacg2as_oJ13QHgQ94ret4B=s1600)
-
 
 ## 7月16日の誕生色: バブルガム (`#FBC9CB`)
 

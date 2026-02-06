@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhXhX4J2YmmZQYMapm1D6VwRGj02JkwCcH4TRJDW3bc8kYvy2MV9bDVsfxCfe2txBK1cMyBzE5NJJyjM_XWSdTbo87W7blvCrxF4STlO-Nt2yeuaJ89IRhEqEzvsFUQv5wcvPBy2KZIQOil8T5BsxoN-2JsV_yiyCs2ntefU3xy9JUDpFQsBFTvieisBMCe=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "シャイニングスター、6月20日の誕生色"
 date: "2026-06-20"
 updated: "2026-06-20"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "エレガントウルトラマリン"
 description: "6月20日の誕生色 シャイニングスター(EAAB5B)。色言葉は「輝く才能、希望に満ちた、影響力」です。相性の良い色はエレガントウルトラマリンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhXhX4J2YmmZQYMapm1D6VwRGj02JkwCcH4TRJDW3bc8kYvy2MV9bDVsfxCfe2txBK1cMyBzE5NJJyjM_XWSdTbo87W7blvCrxF4STlO-Nt2yeuaJ89IRhEqEzvsFUQv5wcvPBy2KZIQOil8T5BsxoN-2JsV_yiyCs2ntefU3xy9JUDpFQsBFTvieisBMCe=s1600"
 en_name: "Shining Star"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhXhX4J2YmmZQYMapm1D6VwRGj02JkwCcH4TRJDW3bc8kYvy2MV9bDVsfxCfe2txBK1cMyBzE5NJJyjM_XWSdTbo87W7blvCrxF4STlO-Nt2yeuaJ89IRhEqEzvsFUQv5wcvPBy2KZIQOil8T5BsxoN-2JsV_yiyCs2ntefU3xy9JUDpFQsBFTvieisBMCe=s1600)
-
 
 ## 6月20日の誕生色: シャイニングスター (`#EAAB5B`)
 

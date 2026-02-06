@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiLtCRXNVgGT8kiGD-m053RuyOrOlsZQLxthNHMG1-SlV8TSfkQ6JABE8LPGTsYxPbExLSx7A1--WT64d_FBqYYcPy5gfNrYhFI3ka7QsfiDgnjAM5DqRtx7q-hg0Ovab8Itb6I6mX0eetjL3wvUwQSxBOmFZUuteQsnmf3fhKR31Xk1YpesiEE5K3gB1hM=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Curry, The Birthday Color of June 23"
 date: "2026-06-23"
 updated: "2026-06-23"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "royal blue"
 description: "The birthday color for June 23 is Curry (D6A620). Its meaning is Vital, Energy-rich, Creative."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiLtCRXNVgGT8kiGD-m053RuyOrOlsZQLxthNHMG1-SlV8TSfkQ6JABE8LPGTsYxPbExLSx7A1--WT64d_FBqYYcPy5gfNrYhFI3ka7QsfiDgnjAM5DqRtx7q-hg0Ovab8Itb6I6mX0eetjL3wvUwQSxBOmFZUuteQsnmf3fhKR31Xk1YpesiEE5K3gB1hM=s1600"
 en_name: "Curry"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiLtCRXNVgGT8kiGD-m053RuyOrOlsZQLxthNHMG1-SlV8TSfkQ6JABE8LPGTsYxPbExLSx7A1--WT64d_FBqYYcPy5gfNrYhFI3ka7QsfiDgnjAM5DqRtx7q-hg0Ovab8Itb6I6mX0eetjL3wvUwQSxBOmFZUuteQsnmf3fhKR31Xk1YpesiEE5K3gB1hM=s1600)
-
 
 ## Birthday Color for June 23: Curry (`#D6A620`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg2ZAFhnmucKuFJec22xJUMakOoRG-B0cDDpgDNJd8cDV_9U6x_zpTlwdi-6G7YDKTJS9BjqmcYF4mhrWLVzJL8-AkFlgYvLIuALGWZR9oiN7NYQVcP8Scf05KgluQ34tqhjyxo_4xGia__e1Kl3DewnfR3MVvuXVpqq_eTz7CEdZYuaPbsAx7Ao5RFBTMR=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Coral, The Birthday Color of October 16"
 date: "2026-10-16"
 updated: "2026-10-16"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "morning glory"
 description: "The birthday color for October 16 is Deep Coral (743636). Its meaning is Calm, Balanced, Stable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg2ZAFhnmucKuFJec22xJUMakOoRG-B0cDDpgDNJd8cDV_9U6x_zpTlwdi-6G7YDKTJS9BjqmcYF4mhrWLVzJL8-AkFlgYvLIuALGWZR9oiN7NYQVcP8Scf05KgluQ34tqhjyxo_4xGia__e1Kl3DewnfR3MVvuXVpqq_eTz7CEdZYuaPbsAx7Ao5RFBTMR=s1600"
 en_name: "DeepCoral"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg2ZAFhnmucKuFJec22xJUMakOoRG-B0cDDpgDNJd8cDV_9U6x_zpTlwdi-6G7YDKTJS9BjqmcYF4mhrWLVzJL8-AkFlgYvLIuALGWZR9oiN7NYQVcP8Scf05KgluQ34tqhjyxo_4xGia__e1Kl3DewnfR3MVvuXVpqq_eTz7CEdZYuaPbsAx7Ao5RFBTMR=s1600)
-
 
 ## Birthday Color for October 16: Deep Coral (`#743636`)
 

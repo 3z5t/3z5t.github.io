@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEirT2g7lDCY_uZLfg5MjSX92YkJWTXOGwf5_MUc9Wlg6sNXy9huLbPiGs2AxK1XE6i25iybyoWqPQG4VkLgNujXE_JnRpCLTxN5iiZhwIm3EwLEPEviH8QZqGQhVF1hlxyEQyAVJ3Wo7S_H3QiizUa4SfDMibjSphvJ64-s4seSNYaFc9F2NKcEXFyi48LR=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Misty Light Purple, The Birthday Color of December 24"
 date: "2026-12-24"
 updated: "2026-12-24"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "bright brown"
 description: "The birthday color for December 24 is Misty Light Purple (7F7F9B). Its meaning is Mysterious, Subtle, Expectant."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEirT2g7lDCY_uZLfg5MjSX92YkJWTXOGwf5_MUc9Wlg6sNXy9huLbPiGs2AxK1XE6i25iybyoWqPQG4VkLgNujXE_JnRpCLTxN5iiZhwIm3EwLEPEviH8QZqGQhVF1hlxyEQyAVJ3Wo7S_H3QiizUa4SfDMibjSphvJ64-s4seSNYaFc9F2NKcEXFyi48LR=s1600"
 en_name: "MistyLightPurple"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEirT2g7lDCY_uZLfg5MjSX92YkJWTXOGwf5_MUc9Wlg6sNXy9huLbPiGs2AxK1XE6i25iybyoWqPQG4VkLgNujXE_JnRpCLTxN5iiZhwIm3EwLEPEviH8QZqGQhVF1hlxyEQyAVJ3Wo7S_H3QiizUa4SfDMibjSphvJ64-s4seSNYaFc9F2NKcEXFyi48LR=s1600)
-
 
 ## Birthday Color for December 24: Misty Light Purple (`#7F7F9B`)
 

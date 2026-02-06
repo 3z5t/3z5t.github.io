@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhhJ5-fCUtrQE2ooceFPYwkmdX-ug1UNlJL7PhF82DoCseZlsdWgKqaS-OOP0u78LEnjhFxjXxxTemLva4u3BOfCc5JderBvTmEsXjxAq1zsaRRLqf809uBob_7nkvkin9tECJ9uwJjVnqqEWtDHdHQYQV30n-cNvBh8Nlef3JNpgzqAMOloJnfP-1ZE-OR=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "メロン、4月9日の誕生色"
 date: "2026-04-09"
 updated: "2026-04-09"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "ミスティックパープル"
 description: "4月9日の誕生色 メロン(98E294)。色言葉は「甘さ、肯定性、幸福感」です。相性の良い色はミスティックパープルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhhJ5-fCUtrQE2ooceFPYwkmdX-ug1UNlJL7PhF82DoCseZlsdWgKqaS-OOP0u78LEnjhFxjXxxTemLva4u3BOfCc5JderBvTmEsXjxAq1zsaRRLqf809uBob_7nkvkin9tECJ9uwJjVnqqEWtDHdHQYQV30n-cNvBh8Nlef3JNpgzqAMOloJnfP-1ZE-OR=s1600"
 en_name: "Melon"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhhJ5-fCUtrQE2ooceFPYwkmdX-ug1UNlJL7PhF82DoCseZlsdWgKqaS-OOP0u78LEnjhFxjXxxTemLva4u3BOfCc5JderBvTmEsXjxAq1zsaRRLqf809uBob_7nkvkin9tECJ9uwJjVnqqEWtDHdHQYQV30n-cNvBh8Nlef3JNpgzqAMOloJnfP-1ZE-OR=s1600)
-
 
 ## 4月9日の誕生色: メロン (`#98E294`)
 

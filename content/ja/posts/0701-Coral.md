@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiJSy128MKVsaa-J-FzYCc2BjYr8B5wfDqYXl1UJ3Jfmn6AgnRE5nOIHnSh4rnOaYv1ZLGTKM3LHFMV68IL-H6Muup_aeVssAWXNBLhIdf9TZ2Q7tqfE0jCefk63gCUoq-6kipa6VWqAm0jIIoSyxJR4cLd8bCs6OtklAZgWZsnLc3U0AMyg3t-8IBMzYcq=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "コーラル、7月1日の誕生色"
 date: "2026-07-01"
 updated: "2026-07-01"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "ハイスカイ"
 description: "7月1日の誕生色 コーラル(FF7F50)。色言葉は「生き生きとした、魅力的、楽天的」です。相性の良い色はハイスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiJSy128MKVsaa-J-FzYCc2BjYr8B5wfDqYXl1UJ3Jfmn6AgnRE5nOIHnSh4rnOaYv1ZLGTKM3LHFMV68IL-H6Muup_aeVssAWXNBLhIdf9TZ2Q7tqfE0jCefk63gCUoq-6kipa6VWqAm0jIIoSyxJR4cLd8bCs6OtklAZgWZsnLc3U0AMyg3t-8IBMzYcq=s1600"
 en_name: "Coral"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiJSy128MKVsaa-J-FzYCc2BjYr8B5wfDqYXl1UJ3Jfmn6AgnRE5nOIHnSh4rnOaYv1ZLGTKM3LHFMV68IL-H6Muup_aeVssAWXNBLhIdf9TZ2Q7tqfE0jCefk63gCUoq-6kipa6VWqAm0jIIoSyxJR4cLd8bCs6OtklAZgWZsnLc3U0AMyg3t-8IBMzYcq=s1600)
-
 
 ## 7月1日の誕生色: コーラル (`#FF7F50`)
 

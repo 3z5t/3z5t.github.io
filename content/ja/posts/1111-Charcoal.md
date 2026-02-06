@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjD7mt86Lpoth0Rs5KONYL9bx8XsRd8yPHaHC9dfRE3BSFzEwqxgYT0oiyoXyehUFKMOYRj1UBt-zBUc3Xz8Bj2boPUBuxB4YVi7gsWn7wN_kVj6gDn2RK8a4_8RF-xwpxV6qWe3VsJFhUcHf5ykXZ-kGPT-GAuMVPG0uMKtcNF7dLmMr4zr-YpBt8rNuMB=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "チャコール、11月11日の誕生色"
 date: "2026-11-11"
 updated: "2026-11-11"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "ウィンターサンドビーチ"
 description: "11月11日の誕生色 チャコール(373F57)。色言葉は「洞察力、賢明、深みのある」です。相性の良い色はウィンターサンドビーチです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjD7mt86Lpoth0Rs5KONYL9bx8XsRd8yPHaHC9dfRE3BSFzEwqxgYT0oiyoXyehUFKMOYRj1UBt-zBUc3Xz8Bj2boPUBuxB4YVi7gsWn7wN_kVj6gDn2RK8a4_8RF-xwpxV6qWe3VsJFhUcHf5ykXZ-kGPT-GAuMVPG0uMKtcNF7dLmMr4zr-YpBt8rNuMB=s1600"
 en_name: "Charcoal"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjD7mt86Lpoth0Rs5KONYL9bx8XsRd8yPHaHC9dfRE3BSFzEwqxgYT0oiyoXyehUFKMOYRj1UBt-zBUc3Xz8Bj2boPUBuxB4YVi7gsWn7wN_kVj6gDn2RK8a4_8RF-xwpxV6qWe3VsJFhUcHf5ykXZ-kGPT-GAuMVPG0uMKtcNF7dLmMr4zr-YpBt8rNuMB=s1600)
-
 
 ## 11月11日の誕生色: チャコール (`#373F57`)
 

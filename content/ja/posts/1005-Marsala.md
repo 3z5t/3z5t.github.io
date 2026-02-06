@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEidqs_ONiqr1km5p6nnbVrp87JmtR0RC3e4RGgo-i8K_uDA1OQifvCXiVaIFgRFXxfIpO-YOyWmoIWF9qeD5iN_Ni8u4pZ6_JVryeHu9HkWU8DPgdaUD0jJd6daYKT8fRStL2mLR7T1O-YA5-tFH4aQueudtiNZm37jkxQueXAj_QZVYOVq3VfsXRrg2phZ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "マルサラ、10月5日の誕生色"
 date: "2026-10-05"
 updated: "2026-10-05"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "ディープセージグリーン"
 description: "10月5日の誕生色 マルサラ(E9AEA7)。色言葉は「洗練、品格、優雅」です。相性の良い色はディープセージグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEidqs_ONiqr1km5p6nnbVrp87JmtR0RC3e4RGgo-i8K_uDA1OQifvCXiVaIFgRFXxfIpO-YOyWmoIWF9qeD5iN_Ni8u4pZ6_JVryeHu9HkWU8DPgdaUD0jJd6daYKT8fRStL2mLR7T1O-YA5-tFH4aQueudtiNZm37jkxQueXAj_QZVYOVq3VfsXRrg2phZ=s1600"
 en_name: "Marsala"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEidqs_ONiqr1km5p6nnbVrp87JmtR0RC3e4RGgo-i8K_uDA1OQifvCXiVaIFgRFXxfIpO-YOyWmoIWF9qeD5iN_Ni8u4pZ6_JVryeHu9HkWU8DPgdaUD0jJd6daYKT8fRStL2mLR7T1O-YA5-tFH4aQueudtiNZm37jkxQueXAj_QZVYOVq3VfsXRrg2phZ=s1600)
-
 
 ## 10月5日の誕生色: マルサラ (`#E9AEA7`)
 

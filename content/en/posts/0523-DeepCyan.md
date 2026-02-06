@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh-ONFGFlFWClAgLt0KntgvSmFZR9UshPjgyQSKYsHLpTLdeGH9EvH2wgz4vr2xS_XJptovPszMoaDSa0sm7y49GUs1Z12Zdq3iYVCcDRKUCLVptZpHx_TGRi1eSFfJmu0B4rzzk4vmlsxwqd2Ylj7yNUdtDmLddc5nWv64gDCCyb6ueakO5C9FfHlB06IE=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Cyan, The Birthday Color of May 23"
 date: "2026-05-23"
 updated: "2026-05-23"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "cream mocha"
 description: "The birthday color for May 23 is Deep Cyan (347691). Its meaning is Mysterious, Intuition, Insight."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh-ONFGFlFWClAgLt0KntgvSmFZR9UshPjgyQSKYsHLpTLdeGH9EvH2wgz4vr2xS_XJptovPszMoaDSa0sm7y49GUs1Z12Zdq3iYVCcDRKUCLVptZpHx_TGRi1eSFfJmu0B4rzzk4vmlsxwqd2Ylj7yNUdtDmLddc5nWv64gDCCyb6ueakO5C9FfHlB06IE=s1600"
 en_name: "DeepCyan"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh-ONFGFlFWClAgLt0KntgvSmFZR9UshPjgyQSKYsHLpTLdeGH9EvH2wgz4vr2xS_XJptovPszMoaDSa0sm7y49GUs1Z12Zdq3iYVCcDRKUCLVptZpHx_TGRi1eSFfJmu0B4rzzk4vmlsxwqd2Ylj7yNUdtDmLddc5nWv64gDCCyb6ueakO5C9FfHlB06IE=s1600)
-
 
 ## Birthday Color for May 23: Deep Cyan (`#347691`)
 

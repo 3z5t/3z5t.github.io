@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjL8jau0IzFZy9J4vZz6c5dsSIcmKG6ECl0T1dTPfX-VqsPkTFOU5YDihih13PmG9KVt-qLw08_ScHshNJSqQCaAj9HSoS9DKy8m9R3rSitKEieXWASscHFj7rKQjUaFUb2q2KwLibh-gZmAFuGgpVyETQyJUiMm4WqbhYhp48aIyeOymlqsWSsZ5tNPnY9=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Warm Beige, The Birthday Color of August 23"
 date: "2026-08-23"
 updated: "2026-08-23"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "deep ocean blue"
 description: "The birthday color for August 23 is Warm Beige (B69174). Its meaning is Warm Heart, Inclusive, Understanding."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjL8jau0IzFZy9J4vZz6c5dsSIcmKG6ECl0T1dTPfX-VqsPkTFOU5YDihih13PmG9KVt-qLw08_ScHshNJSqQCaAj9HSoS9DKy8m9R3rSitKEieXWASscHFj7rKQjUaFUb2q2KwLibh-gZmAFuGgpVyETQyJUiMm4WqbhYhp48aIyeOymlqsWSsZ5tNPnY9=s1600"
 en_name: "WarmBeige"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjL8jau0IzFZy9J4vZz6c5dsSIcmKG6ECl0T1dTPfX-VqsPkTFOU5YDihih13PmG9KVt-qLw08_ScHshNJSqQCaAj9HSoS9DKy8m9R3rSitKEieXWASscHFj7rKQjUaFUb2q2KwLibh-gZmAFuGgpVyETQyJUiMm4WqbhYhp48aIyeOymlqsWSsZ5tNPnY9=s1600)
-
 
 ## Birthday Color for August 23: Warm Beige (`#B69174`)
 

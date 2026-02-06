@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-04'
-description: The birthday color for January 4 is Deep Sky Blue (00CCFF). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgEIDYzVF9vV-I2rNIJoKavRH4x3d0rLJkbpmRaNfh207QfEoaTeB9vYSrHYAb8LKyDDignkfXk7w3VHjcJa0L_z0LTR22PTMBMGTq2Om2buZqf74--XLYqcpk2A16eJB4oBa0z-DpqaIgOqLa-z-O189GTVw8Dj7EQMhx1pfd_jrCRIWRj1hB0N3NVefuF=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-04"
+description: "The birthday color for January 4 is Deep Sky Blue (00CCFF). Its meaning"
   is Infinite Possibility, Progressive, Passionate.
-en_name: DeepSkyBlue
+en_name: "DeepSkyBlue"
 tags:
-- deep sky blue
-- birthday color
-- january 4
-- 00ccff
-- january
-- scarlet
-postId: '4419733591269394142'
-postUrl: https://the366days-en.blogspot.com/2026/01/deep-sky-blue-birthday-color-of-january.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgEIDYzVF9vV-I2rNIJoKavRH4x3d0rLJkbpmRaNfh207QfEoaTeB9vYSrHYAb8LKyDDignkfXk7w3VHjcJa0L_z0LTR22PTMBMGTq2Om2buZqf74--XLYqcpk2A16eJB4oBa0z-DpqaIgOqLa-z-O189GTVw8Dj7EQMhx1pfd_jrCRIWRj1hB0N3NVefuF=s1600
-title: Deep Sky Blue, The Birthday Color of January 4
-updated: '2026-01-04'
+  - "deep sky blue"
+  - "birthday color"
+  - "january 4"
+  - "00ccff"
+  - "january"
+  - "scarlet"
+postId: "4419733591269394142"
+postUrl: "https://the366days-en.blogspot.com/2026/01/deep-sky-blue-birthday-color-of-january.html"
+profileName: "Pieces of a Day"
+title: "Deep Sky Blue, The Birthday Color of January 4"
+updated: "2026-01-04"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgEIDYzVF9vV-I2rNIJoKavRH4x3d0rLJkbpmRaNfh207QfEoaTeB9vYSrHYAb8LKyDDignkfXk7w3VHjcJa0L_z0LTR22PTMBMGTq2Om2buZqf74--XLYqcpk2A16eJB4oBa0z-DpqaIgOqLa-z-O189GTVw8Dj7EQMhx1pfd_jrCRIWRj1hB0N3NVefuF=s1600)
-
 
 ## Birthday Color for January 4: Deep Sky Blue (`#00CCFF`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjkfRg80s-F_urJ_AQuU18MC40BRuooYKsnqYzRBj_LocpuwlCdS78PFWdcSJ9w1K3HC0wbM3oRQjEP71Rd2cQB4JBfwzWr4Kd14KNuswWgvpsGALZKUDc-zgaVAP5BkMCVq9fMHlN8s1rGP3D76tuuCQykQTbrwxXvGL1XyibAsnABmtw6hgNatkoOyOc2=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Vivid Lime, The Birthday Color of March 5"
 date: "2026-03-05"
 updated: "2026-03-05"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "vivid magenta"
 description: "The birthday color for March 5 is Vivid Lime (00FF00). Its meaning is Challenging Spirit, Vitality, Innovation."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjkfRg80s-F_urJ_AQuU18MC40BRuooYKsnqYzRBj_LocpuwlCdS78PFWdcSJ9w1K3HC0wbM3oRQjEP71Rd2cQB4JBfwzWr4Kd14KNuswWgvpsGALZKUDc-zgaVAP5BkMCVq9fMHlN8s1rGP3D76tuuCQykQTbrwxXvGL1XyibAsnABmtw6hgNatkoOyOc2=s1600"
 en_name: "VividLime"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjkfRg80s-F_urJ_AQuU18MC40BRuooYKsnqYzRBj_LocpuwlCdS78PFWdcSJ9w1K3HC0wbM3oRQjEP71Rd2cQB4JBfwzWr4Kd14KNuswWgvpsGALZKUDc-zgaVAP5BkMCVq9fMHlN8s1rGP3D76tuuCQykQTbrwxXvGL1XyibAsnABmtw6hgNatkoOyOc2=s1600)
-
 
 ## Birthday Color for March 5: Vivid Lime (`#00FF00`)
 

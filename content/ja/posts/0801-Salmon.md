@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg-iF_hkGteDxE_QUYYrCc8eVlAdranIoXg1x6KjHPWTjZ4mQsDoZIvx5O4UStLGJVy46DxNE49o0rGNe-xAbr8L0zatPZ8zRz8CVMCN8wyDtLtARQzkrsPQTNmEEmN_ziCKczcWftdQ6G5AKO4ySOVvR4V5aP0_4_GgW0NBTqCLzscf5iyXqXDNa6nv7b3=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "サーモン、8月1日の誕生色"
 date: "2026-08-01"
 updated: "2026-08-01"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "ティール"
 description: "8月1日の誕生色 サーモン(FA8072)。色言葉は「活気ある性格、躍動感、肯定的」です。相性の良い色はティールです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg-iF_hkGteDxE_QUYYrCc8eVlAdranIoXg1x6KjHPWTjZ4mQsDoZIvx5O4UStLGJVy46DxNE49o0rGNe-xAbr8L0zatPZ8zRz8CVMCN8wyDtLtARQzkrsPQTNmEEmN_ziCKczcWftdQ6G5AKO4ySOVvR4V5aP0_4_GgW0NBTqCLzscf5iyXqXDNa6nv7b3=s1600"
 en_name: "Salmon"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg-iF_hkGteDxE_QUYYrCc8eVlAdranIoXg1x6KjHPWTjZ4mQsDoZIvx5O4UStLGJVy46DxNE49o0rGNe-xAbr8L0zatPZ8zRz8CVMCN8wyDtLtARQzkrsPQTNmEEmN_ziCKczcWftdQ6G5AKO4ySOVvR4V5aP0_4_GgW0NBTqCLzscf5iyXqXDNa6nv7b3=s1600)
-
 
 ## 8月1日の誕生色: サーモン (`#FA8072`)
 

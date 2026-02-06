@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-23'
-description: The birthday color for January 23 is Urban Sky (BBC1CA). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgwni-FqhLcoIK5kS9wbsUt713wHQpSIgU6YdTPHUgaaENp-b7nP8QlzjS3dhaNldHfcTENDrlqJ7bWQCB6fOUN-LnWmUhbB20FPjHAT11Lbs0cbLkb_30lsatKNt-RD9Jw6dfGNHnOPhl6rnkoMUuGLWFx7_HkcWxiHbRil9CIJiOme25Wvubd7VedFU6Y=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-23"
+description: "The birthday color for January 23 is Urban Sky (BBC1CA). Its meaning"
   is Modern, Sophisticated, Progressive.
-en_name: UrbanSky
+en_name: "UrbanSky"
 tags:
-- urban sky
-- birthday color
-- january 23
-- bbc1ca
-- january
-- grayish green
-postId: '3825893471239683708'
-postUrl: https://the366days-en.blogspot.com/2026/01/urban-sky-birthday-color-of-january-23.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgwni-FqhLcoIK5kS9wbsUt713wHQpSIgU6YdTPHUgaaENp-b7nP8QlzjS3dhaNldHfcTENDrlqJ7bWQCB6fOUN-LnWmUhbB20FPjHAT11Lbs0cbLkb_30lsatKNt-RD9Jw6dfGNHnOPhl6rnkoMUuGLWFx7_HkcWxiHbRil9CIJiOme25Wvubd7VedFU6Y=s1600
-title: Urban Sky, The Birthday Color of January 23
-updated: '2026-01-23'
+  - "urban sky"
+  - "birthday color"
+  - "january 23"
+  - "bbc1ca"
+  - "january"
+  - "grayish green"
+postId: "3825893471239683708"
+postUrl: "https://the366days-en.blogspot.com/2026/01/urban-sky-birthday-color-of-january-23.html"
+profileName: "Pieces of a Day"
+title: "Urban Sky, The Birthday Color of January 23"
+updated: "2026-01-23"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgwni-FqhLcoIK5kS9wbsUt713wHQpSIgU6YdTPHUgaaENp-b7nP8QlzjS3dhaNldHfcTENDrlqJ7bWQCB6fOUN-LnWmUhbB20FPjHAT11Lbs0cbLkb_30lsatKNt-RD9Jw6dfGNHnOPhl6rnkoMUuGLWFx7_HkcWxiHbRil9CIJiOme25Wvubd7VedFU6Y=s1600)
-
 
 ## Birthday Color for January 23: Urban Sky (`#BBC1CA`)
 

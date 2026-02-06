@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjPqecFw6-cF0B3XAqubZe4Vv58MiwHdpT7MyxzpLxpcAhSchUiWYK93svNhwKG95WXC-03yVm_FABnxV3WA-tQ6zm-vbWGzf0dokvZNDmsI5AiBYqLRvbBY3CEI6Nbp12TO1jSvS6cFEKyccWkDjkhFZpkifKyxs7ANZydgJJOWjhHl98sGZeZJjyeKENC=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ヨーグルト、8月5日の誕生色"
 date: "2026-08-05"
 updated: "2026-08-05"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "イブニングスカイ"
 description: "8月5日の誕生色 ヨーグルト(FFDCB8)。色言葉は「純粋な心、新鮮、明るい性格」です。相性の良い色はイブニングスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjPqecFw6-cF0B3XAqubZe4Vv58MiwHdpT7MyxzpLxpcAhSchUiWYK93svNhwKG95WXC-03yVm_FABnxV3WA-tQ6zm-vbWGzf0dokvZNDmsI5AiBYqLRvbBY3CEI6Nbp12TO1jSvS6cFEKyccWkDjkhFZpkifKyxs7ANZydgJJOWjhHl98sGZeZJjyeKENC=s1600"
 en_name: "Yogurt"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjPqecFw6-cF0B3XAqubZe4Vv58MiwHdpT7MyxzpLxpcAhSchUiWYK93svNhwKG95WXC-03yVm_FABnxV3WA-tQ6zm-vbWGzf0dokvZNDmsI5AiBYqLRvbBY3CEI6Nbp12TO1jSvS6cFEKyccWkDjkhFZpkifKyxs7ANZydgJJOWjhHl98sGZeZJjyeKENC=s1600)
-
 
 ## 8月5日の誕生色: ヨーグルト (`#FFDCB8`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgn3908q-3I62BlzMJ8gjNDjoRYhf4ueP9Mr3rh9_zsvd2n3hM0odddwaqIv6-zRTh9McmbZiA30eAdy_bquHEBxp1c2CK7fCwoLAlWI1INEfLpGsQYTaEqizWR3BoVQ9nlcZBZI2L8ZHlHw5shgEW_QKgV9jLDO1tmJO9LttpUGa3cky9kdiVq1xIg8-Gi=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Maroon, The Birthday Color of October 14"
 date: "2026-10-14"
 updated: "2026-10-14"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "baby blue"
 description: "The birthday color for October 14 is Maroon (800000). Its meaning is Stable, Mature, Wise."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgn3908q-3I62BlzMJ8gjNDjoRYhf4ueP9Mr3rh9_zsvd2n3hM0odddwaqIv6-zRTh9McmbZiA30eAdy_bquHEBxp1c2CK7fCwoLAlWI1INEfLpGsQYTaEqizWR3BoVQ9nlcZBZI2L8ZHlHw5shgEW_QKgV9jLDO1tmJO9LttpUGa3cky9kdiVq1xIg8-Gi=s1600"
 en_name: "Maroon"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgn3908q-3I62BlzMJ8gjNDjoRYhf4ueP9Mr3rh9_zsvd2n3hM0odddwaqIv6-zRTh9McmbZiA30eAdy_bquHEBxp1c2CK7fCwoLAlWI1INEfLpGsQYTaEqizWR3BoVQ9nlcZBZI2L8ZHlHw5shgEW_QKgV9jLDO1tmJO9LttpUGa3cky9kdiVq1xIg8-Gi=s1600)
-
 
 ## Birthday Color for October 14: Maroon (`#800000`)
 

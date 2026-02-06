@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhuBplcnlQ5ESWBSYMjZkJxVQgXvSAQUmPJ_BmmnKDj6E-lHpWSa1wuJVwnbK6GAsn_Q51QGUlCL5menefKo3mlP5HnhHEHd-2CKKiuDRvZIxH1yWLtp4THdTDoTn9AJmlJYaXLavvpZx8G7hsG4wLYf8_okh9kTWgZ8OWGdV-6f8LYUBQTTAJr-s9Wz4E8=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープコーラル、7月5日の誕生色"
 date: "2026-07-05"
 updated: "2026-07-05"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "モーニンググローリー"
 description: "7月5日の誕生色 ディープコーラル(743636)。色言葉は「深みのある、落ち着き、慎重」です。相性の良い色はモーニンググローリーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhuBplcnlQ5ESWBSYMjZkJxVQgXvSAQUmPJ_BmmnKDj6E-lHpWSa1wuJVwnbK6GAsn_Q51QGUlCL5menefKo3mlP5HnhHEHd-2CKKiuDRvZIxH1yWLtp4THdTDoTn9AJmlJYaXLavvpZx8G7hsG4wLYf8_okh9kTWgZ8OWGdV-6f8LYUBQTTAJr-s9Wz4E8=s1600"
 en_name: "Deep Coral"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhuBplcnlQ5ESWBSYMjZkJxVQgXvSAQUmPJ_BmmnKDj6E-lHpWSa1wuJVwnbK6GAsn_Q51QGUlCL5menefKo3mlP5HnhHEHd-2CKKiuDRvZIxH1yWLtp4THdTDoTn9AJmlJYaXLavvpZx8G7hsG4wLYf8_okh9kTWgZ8OWGdV-6f8LYUBQTTAJr-s9Wz4E8=s1600)
-
 
 ## 7月5日の誕生色: ディープコーラル (`#743636`)
 

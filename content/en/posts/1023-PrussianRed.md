@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh96v5PntO4mLH3yYQ1_ZmWBmWC5LsdDxVEMeQg4ywsh8V7EgiDe_tnBYEIApW--jsHra4gGHNYf5eH9TMCGqw-yfIyC__2WYVHhjBvPIBD_EiVJVQtzZfTWKBGwzjM3dtP824S0hhvzVrU8vfgNcCM-HbP6yHNxE9Cg28qctMlVWeM2dmYEpbx774OZ0QC=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Prussian Red, The Birthday Color of October 23"
 date: "2026-10-23"
 updated: "2026-10-23"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "medium turquoise"
 description: "The birthday color for October 23 is Prussian Red (CC3333). Its meaning is Strong Will, Decisive, Strong."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh96v5PntO4mLH3yYQ1_ZmWBmWC5LsdDxVEMeQg4ywsh8V7EgiDe_tnBYEIApW--jsHra4gGHNYf5eH9TMCGqw-yfIyC__2WYVHhjBvPIBD_EiVJVQtzZfTWKBGwzjM3dtP824S0hhvzVrU8vfgNcCM-HbP6yHNxE9Cg28qctMlVWeM2dmYEpbx774OZ0QC=s1600"
 en_name: "PrussianRed"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh96v5PntO4mLH3yYQ1_ZmWBmWC5LsdDxVEMeQg4ywsh8V7EgiDe_tnBYEIApW--jsHra4gGHNYf5eH9TMCGqw-yfIyC__2WYVHhjBvPIBD_EiVJVQtzZfTWKBGwzjM3dtP824S0hhvzVrU8vfgNcCM-HbP6yHNxE9Cg28qctMlVWeM2dmYEpbx774OZ0QC=s1600)
-
 
 ## Birthday Color for October 23: Prussian Red (`#CC3333`)
 

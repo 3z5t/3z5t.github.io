@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhCZUe8ezPMFacUFOEnnF6uBMq5-CA-RQfqYbBU5ffzK840GvEGCY14QTquwxpvZ6I4WSDyUhG9ME2LTJUP3_3TauvIPEo6sD4kc0cD63qWuzL2VllDcVEq_F9DVGrNnSGys7Jde-mimEQ91lLMxro7Fwp3ePvQJnOVdXK0SwO2itcFFdKz_L_LjJ3-w36u=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "サテングレー、9月10日の誕生色"
 date: "2026-09-10"
 updated: "2026-09-10"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "レイトサマーリーフ"
 description: "9月10日の誕生色 サテングレー(B3A6A4)。色言葉は「洗練、優雅、品格」です。相性の良い色はレイトサマーリーフです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhCZUe8ezPMFacUFOEnnF6uBMq5-CA-RQfqYbBU5ffzK840GvEGCY14QTquwxpvZ6I4WSDyUhG9ME2LTJUP3_3TauvIPEo6sD4kc0cD63qWuzL2VllDcVEq_F9DVGrNnSGys7Jde-mimEQ91lLMxro7Fwp3ePvQJnOVdXK0SwO2itcFFdKz_L_LjJ3-w36u=s1600"
 en_name: "Satin Gray"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhCZUe8ezPMFacUFOEnnF6uBMq5-CA-RQfqYbBU5ffzK840GvEGCY14QTquwxpvZ6I4WSDyUhG9ME2LTJUP3_3TauvIPEo6sD4kc0cD63qWuzL2VllDcVEq_F9DVGrNnSGys7Jde-mimEQ91lLMxro7Fwp3ePvQJnOVdXK0SwO2itcFFdKz_L_LjJ3-w36u=s1600)
-
 
 ## 9月10日の誕生色: サテングレー (`#B3A6A4`)
 

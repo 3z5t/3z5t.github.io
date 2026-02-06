@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEinfwfUosJ9sufdac_SzpvOlykxiq85jUJ5DvZ0ruk0XnfJu3S8BtAFaLVnifQbP8Xy7DilbOg67m-NfQwIXNNAC1NVF_vZtLA5qM14Eqi7H5iBL9yarOwguuv1occ90EfB_MVlSYBz9nYfjOdt6N_QAHbUL32Ev_FobyVBJRv3xDrBAo3PAfoi3MHFCmzu=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ダークマルーン、10月13日の誕生色"
 date: "2026-10-13"
 updated: "2026-10-13"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "ライトシアン"
 description: "10月13日の誕生色 ダークマルーン(3A0000)。色言葉は「神秘的、深みのある、静寂」です。相性の良い色はライトシアンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEinfwfUosJ9sufdac_SzpvOlykxiq85jUJ5DvZ0ruk0XnfJu3S8BtAFaLVnifQbP8Xy7DilbOg67m-NfQwIXNNAC1NVF_vZtLA5qM14Eqi7H5iBL9yarOwguuv1occ90EfB_MVlSYBz9nYfjOdt6N_QAHbUL32Ev_FobyVBJRv3xDrBAo3PAfoi3MHFCmzu=s1600"
 en_name: "Dark Maroon"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEinfwfUosJ9sufdac_SzpvOlykxiq85jUJ5DvZ0ruk0XnfJu3S8BtAFaLVnifQbP8Xy7DilbOg67m-NfQwIXNNAC1NVF_vZtLA5qM14Eqi7H5iBL9yarOwguuv1occ90EfB_MVlSYBz9nYfjOdt6N_QAHbUL32Ev_FobyVBJRv3xDrBAo3PAfoi3MHFCmzu=s1600)
-
 
 ## 10月13日の誕生色: ダークマルーン (`#3A0000`)
 

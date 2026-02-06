@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjapuM30kcfYNMgclm5E64s0bpD4BPgVwN0bBLhPSIMHsW1szlUPDHN-dZSvuwmB7bG8UgMtOwctogyEgx54J4pFLNt6JeqGHgnEz2GkWnWunPLH7cBQ6IK3s67Yap3kpy3wMR0xHflTFGMgFaECSqowosq3fHz_No8gBv1ZTc3GIXHLVuTXc9dTTDFzRp8=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "フォグピンク、3月28日の誕生色"
 date: "2026-03-28"
 updated: "2026-03-28"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ダークフォレストグレー"
 description: "3月28日の誕生色 フォグピンク(E0CECE)。色言葉は「柔らかさ、ほのかさ、神秘的」です。相性の良い色はダークフォレストグレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjapuM30kcfYNMgclm5E64s0bpD4BPgVwN0bBLhPSIMHsW1szlUPDHN-dZSvuwmB7bG8UgMtOwctogyEgx54J4pFLNt6JeqGHgnEz2GkWnWunPLH7cBQ6IK3s67Yap3kpy3wMR0xHflTFGMgFaECSqowosq3fHz_No8gBv1ZTc3GIXHLVuTXc9dTTDFzRp8=s1600"
 en_name: "Fog Pink"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjapuM30kcfYNMgclm5E64s0bpD4BPgVwN0bBLhPSIMHsW1szlUPDHN-dZSvuwmB7bG8UgMtOwctogyEgx54J4pFLNt6JeqGHgnEz2GkWnWunPLH7cBQ6IK3s67Yap3kpy3wMR0xHflTFGMgFaECSqowosq3fHz_No8gBv1ZTc3GIXHLVuTXc9dTTDFzRp8=s1600)
-
 
 ## 3月28日の誕生色: フォグピンク (`#E0CECE`)
 

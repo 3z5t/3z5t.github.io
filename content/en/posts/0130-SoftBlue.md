@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-30'
-description: The birthday color for January 30 is Soft Blue (99CCFF). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg4H6OAlwN9g3QuvEO8Ll10Dx6JN4Q73TpVWkjgKqKfy25nelrLB48rfXQWeTaKh1t37ul3UsVFQF0IQ8Af5TJcNdrs34XPntWXkDs3crfWF4WOKYz4GNjfVAOK1g62PjE8IWVmhRAFRpAXB8RSXG0q0EtDBU4db-POcbFs3vd9XH8hY3k-qG8gBJldEoTo=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-30"
+description: "The birthday color for January 30 is Soft Blue (99CCFF). Its meaning"
   is Free-spirited, Open-minded, Peaceful.
-en_name: SoftBlue
+en_name: "SoftBlue"
 tags:
-- soft blue
-- birthday color
-- january 30
-- 99ccff
-- january
-- brown
-postId: '8509987264445107152'
-postUrl: https://the366days-en.blogspot.com/2026/01/soft-blue-birthday-color-of-january-30.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEg4H6OAlwN9g3QuvEO8Ll10Dx6JN4Q73TpVWkjgKqKfy25nelrLB48rfXQWeTaKh1t37ul3UsVFQF0IQ8Af5TJcNdrs34XPntWXkDs3crfWF4WOKYz4GNjfVAOK1g62PjE8IWVmhRAFRpAXB8RSXG0q0EtDBU4db-POcbFs3vd9XH8hY3k-qG8gBJldEoTo=s1600
-title: Soft Blue, The Birthday Color of January 30
-updated: '2026-01-30'
+  - "soft blue"
+  - "birthday color"
+  - "january 30"
+  - "99ccff"
+  - "january"
+  - "brown"
+postId: "8509987264445107152"
+postUrl: "https://the366days-en.blogspot.com/2026/01/soft-blue-birthday-color-of-january-30.html"
+profileName: "Pieces of a Day"
+title: "Soft Blue, The Birthday Color of January 30"
+updated: "2026-01-30"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg4H6OAlwN9g3QuvEO8Ll10Dx6JN4Q73TpVWkjgKqKfy25nelrLB48rfXQWeTaKh1t37ul3UsVFQF0IQ8Af5TJcNdrs34XPntWXkDs3crfWF4WOKYz4GNjfVAOK1g62PjE8IWVmhRAFRpAXB8RSXG0q0EtDBU4db-POcbFs3vd9XH8hY3k-qG8gBJldEoTo=s1600)
-
 
 ![Soft Blue, The Birthday Color of January 30](https://blogger.googleusercontent.com/img/a/AVvXsEg4H6OAlwN9g3QuvEO8Ll10Dx6JN4Q73TpVWkjgKqKfy25nelrLB48rfXQWeTaKh1t37ul3UsVFQF0IQ8Af5TJcNdrs34XPntWXkDs3crfWF4WOKYz4GNjfVAOK1g62PjE8IWVmhRAFRpAXB8RSXG0q0EtDBU4db-POcbFs3vd9XH8hY3k-qG8gBJldEoTo=s1600)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi_9nhVgJ2lIsnRDBQ-xZEweDpHRd0JjxicUvOTANsS09G-xaRdausfP4wPv9xp71bbKH7AtuwQdceqhNACW12qfj1Zsy9YLaV0hYa3wpjU58ZqNLCvqeNlXdVIadB49iW_-cHG_E220aTf-DMbvIEP-UuHMS6H3y3TTrp8qKfZSZwMxHdvg444z28aSW02=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "フレンチベージュ、12月20日の誕生色"
 date: "2026-12-20"
 updated: "2026-12-20"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ディープオーシャンブルー"
 description: "12月20日の誕生色 フレンチベージュ(D6A680)。色言葉は「温かい品性、心地よい、情愛」です。相性の良い色はディープオーシャンブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi_9nhVgJ2lIsnRDBQ-xZEweDpHRd0JjxicUvOTANsS09G-xaRdausfP4wPv9xp71bbKH7AtuwQdceqhNACW12qfj1Zsy9YLaV0hYa3wpjU58ZqNLCvqeNlXdVIadB49iW_-cHG_E220aTf-DMbvIEP-UuHMS6H3y3TTrp8qKfZSZwMxHdvg444z28aSW02=s1600"
 en_name: "French Beige"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi_9nhVgJ2lIsnRDBQ-xZEweDpHRd0JjxicUvOTANsS09G-xaRdausfP4wPv9xp71bbKH7AtuwQdceqhNACW12qfj1Zsy9YLaV0hYa3wpjU58ZqNLCvqeNlXdVIadB49iW_-cHG_E220aTf-DMbvIEP-UuHMS6H3y3TTrp8qKfZSZwMxHdvg444z28aSW02=s1600)
-
 
 ## 12月20日の誕生色: フレンチベージュ (`#D6A680`)
 

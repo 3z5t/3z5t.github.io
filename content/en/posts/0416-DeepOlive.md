@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhZ9MgY-oRhQi_X0gpAeLYWjXgqWyfkRcgNWYHOCuvRuADQFxZqNWdQ6yuYLUdcAtOX8zyiAZ5vLPWVfl2Ck9v5Z6hmvUprR82Qw_jOVwtfXuudrYC3Es6Vs4_9JkXtfQxnYr5Rx3CX_PNyCjFvjhQmy7OEFLWSsuZwXEuRWHvEjSaUqeREJWjtcC4anOjA=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Olive, The Birthday Color of April 16"
 date: "2026-04-16"
 updated: "2026-04-16"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "blue violet"
 description: "The birthday color for April 16 is Deep Olive (6B8E23). Its meaning is Mature, Stability, Prudent."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhZ9MgY-oRhQi_X0gpAeLYWjXgqWyfkRcgNWYHOCuvRuADQFxZqNWdQ6yuYLUdcAtOX8zyiAZ5vLPWVfl2Ck9v5Z6hmvUprR82Qw_jOVwtfXuudrYC3Es6Vs4_9JkXtfQxnYr5Rx3CX_PNyCjFvjhQmy7OEFLWSsuZwXEuRWHvEjSaUqeREJWjtcC4anOjA=s1600"
 en_name: "DeepOlive"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhZ9MgY-oRhQi_X0gpAeLYWjXgqWyfkRcgNWYHOCuvRuADQFxZqNWdQ6yuYLUdcAtOX8zyiAZ5vLPWVfl2Ck9v5Z6hmvUprR82Qw_jOVwtfXuudrYC3Es6Vs4_9JkXtfQxnYr5Rx3CX_PNyCjFvjhQmy7OEFLWSsuZwXEuRWHvEjSaUqeREJWjtcC4anOjA=s1600)
-
 
 ## Birthday Color for April 16: Deep Olive (`#6B8E23`)
 

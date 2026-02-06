@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiBb8fuEFdHOJk7739j4ybFmScK6SWbYOrAi1_LvdxIOXwdLaJ0j317N4v0_qNS26YYbLLyME2LB1nlLfUNJQQ5ZO-WyxigU5GLj5r1NN576KlVZfxhl3F5hxLVdX2j0RTQHVevV4nvqlhqm7AQzWvhtxvS_4kN3lGuLC2f0adHHul1do4y1VixqHrFJ5o3=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アビスブラック、11月13日の誕生色"
 date: "2026-11-13"
 updated: "2026-11-13"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "ピュアシルバー"
 description: "11月13日の誕生色 アビスブラック(1A1A1A)。色言葉は「無限の可能性、神秘的、深遠」です。相性の良い色はピュアシルバーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiBb8fuEFdHOJk7739j4ybFmScK6SWbYOrAi1_LvdxIOXwdLaJ0j317N4v0_qNS26YYbLLyME2LB1nlLfUNJQQ5ZO-WyxigU5GLj5r1NN576KlVZfxhl3F5hxLVdX2j0RTQHVevV4nvqlhqm7AQzWvhtxvS_4kN3lGuLC2f0adHHul1do4y1VixqHrFJ5o3=s1600"
 en_name: "Abyss Black"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiBb8fuEFdHOJk7739j4ybFmScK6SWbYOrAi1_LvdxIOXwdLaJ0j317N4v0_qNS26YYbLLyME2LB1nlLfUNJQQ5ZO-WyxigU5GLj5r1NN576KlVZfxhl3F5hxLVdX2j0RTQHVevV4nvqlhqm7AQzWvhtxvS_4kN3lGuLC2f0adHHul1do4y1VixqHrFJ5o3=s1600)
-
 
 ## 11月13日の誕生色: アビスブラック (`#1A1A1A`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg0gtZU7AZlX-CWLo__0j60ictuclMPoRH9D20GXLRyAigoPCZnaWCrvbIZTA9xyYPT04twcBJSkpfuHyTB1LhJZl7ywGKy5v1-9SrE4MWwgv33VhomXicV9I8BM-qN3vgOF0klLYinp2-kUR7YUndWbH-dmkkO_fv16yOI9SRgSFe_Un3GDWINPxxfUMpN=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ピュアグリーン、5月16日の誕生色"
 date: "2026-05-16"
 updated: "2026-05-16"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "フューシャ"
 description: "5月16日の誕生色 ピュアグリーン(2FBA10)。色言葉は「純粋、自然体、生命力」です。相性の良い色はフューシャです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg0gtZU7AZlX-CWLo__0j60ictuclMPoRH9D20GXLRyAigoPCZnaWCrvbIZTA9xyYPT04twcBJSkpfuHyTB1LhJZl7ywGKy5v1-9SrE4MWwgv33VhomXicV9I8BM-qN3vgOF0klLYinp2-kUR7YUndWbH-dmkkO_fv16yOI9SRgSFe_Un3GDWINPxxfUMpN=s1600"
 en_name: "Pure Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg0gtZU7AZlX-CWLo__0j60ictuclMPoRH9D20GXLRyAigoPCZnaWCrvbIZTA9xyYPT04twcBJSkpfuHyTB1LhJZl7ywGKy5v1-9SrE4MWwgv33VhomXicV9I8BM-qN3vgOF0klLYinp2-kUR7YUndWbH-dmkkO_fv16yOI9SRgSFe_Un3GDWINPxxfUMpN=s1600)
-
 
 ## 5月16日の誕生色: ピュアグリーン (`#2FBA10`)
 

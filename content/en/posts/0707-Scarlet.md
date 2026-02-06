@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjXHQ1NWGUZTMPlQlMHiQGRsPfchU-_ZU-x4iCTffn8xGUD3k6N4lGDTEn7WeDuzlunvmcI_U-87DDVVPGNo5Pq_PUGtxWL6a2efwxJz7nCgsreqgvsKEzmDeJ_C5y4NXkjhJJFL2wmeLy_PUDmrndjoLxcLSCON2IMmzh-7Jy_u4O1OKPwXUX1Gt9PjyPu=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Scarlet, The Birthday Color of July 7"
 date: "2026-07-07"
 updated: "2026-07-07"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "deep sky blue"
 description: "The birthday color for July 7 is Scarlet (FF3300). Its meaning is Passionate, Romantic, Artistic."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjXHQ1NWGUZTMPlQlMHiQGRsPfchU-_ZU-x4iCTffn8xGUD3k6N4lGDTEn7WeDuzlunvmcI_U-87DDVVPGNo5Pq_PUGtxWL6a2efwxJz7nCgsreqgvsKEzmDeJ_C5y4NXkjhJJFL2wmeLy_PUDmrndjoLxcLSCON2IMmzh-7Jy_u4O1OKPwXUX1Gt9PjyPu=s1600"
 en_name: "Scarlet"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjXHQ1NWGUZTMPlQlMHiQGRsPfchU-_ZU-x4iCTffn8xGUD3k6N4lGDTEn7WeDuzlunvmcI_U-87DDVVPGNo5Pq_PUGtxWL6a2efwxJz7nCgsreqgvsKEzmDeJ_C5y4NXkjhJJFL2wmeLy_PUDmrndjoLxcLSCON2IMmzh-7Jy_u4O1OKPwXUX1Gt9PjyPu=s1600)
-
 
 ## Birthday Color for July 7: Scarlet (`#FF3300`)
 

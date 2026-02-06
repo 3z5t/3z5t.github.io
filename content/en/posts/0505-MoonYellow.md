@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjMgoUNctELfAa_bj9oy-Vlt3Ss8z1mr_81zzayBKPrh44rtBoQ0NAUaHxjkEVhW2IU1L6l_MBhdR40YIEnjmaN2zZ5DJpN95lBnnCI0Rq5sPIeRPsvQVNzbjF2JS_4wtSbSN0OVeUVYPDuQ3OkYGEw9ZedVk02HYeXkXtrTxiMxwnZq17Nu_y6zgFDjvj8=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Moon Yellow, The Birthday Color of May 5"
 date: "2026-05-05"
 updated: "2026-05-05"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "royal blue"
 description: "The birthday color for May 5 is Moon Yellow (FEB721). Its meaning is Bright Heart, Pure, Creativity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjMgoUNctELfAa_bj9oy-Vlt3Ss8z1mr_81zzayBKPrh44rtBoQ0NAUaHxjkEVhW2IU1L6l_MBhdR40YIEnjmaN2zZ5DJpN95lBnnCI0Rq5sPIeRPsvQVNzbjF2JS_4wtSbSN0OVeUVYPDuQ3OkYGEw9ZedVk02HYeXkXtrTxiMxwnZq17Nu_y6zgFDjvj8=s1600"
 en_name: "MoonYellow"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjMgoUNctELfAa_bj9oy-Vlt3Ss8z1mr_81zzayBKPrh44rtBoQ0NAUaHxjkEVhW2IU1L6l_MBhdR40YIEnjmaN2zZ5DJpN95lBnnCI0Rq5sPIeRPsvQVNzbjF2JS_4wtSbSN0OVeUVYPDuQ3OkYGEw9ZedVk02HYeXkXtrTxiMxwnZq17Nu_y6zgFDjvj8=s1600)
-
 
 ## Birthday Color for May 5: Moon Yellow (`#FEB721`)
 

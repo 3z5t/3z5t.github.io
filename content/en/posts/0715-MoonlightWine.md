@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj5O3JjIbGlx_GafS60O49ExB1g_sZP-WnkegmGlmyworkA-e4NXPgyfT48H-qzcnP-H0yt3LF1zqtkUJ0XeegjqoEbT0iuCazRy05cHg9xCpUvv3qZixxU6gklTeJ4-gFrODsFv8Ef3ipvrjz-5WIUy7EmFb8Ei-1s6K0ffWa8n4d8gDMvWThTxGdeiy0l=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Moonlight Wine, The Birthday Color of July 15"
 date: "2026-07-15"
 updated: "2026-07-15"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "aquamarine"
 description: "The birthday color for July 15 is Moonlight Wine (610928). Its meaning is Profound, Mysterious, Noble."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj5O3JjIbGlx_GafS60O49ExB1g_sZP-WnkegmGlmyworkA-e4NXPgyfT48H-qzcnP-H0yt3LF1zqtkUJ0XeegjqoEbT0iuCazRy05cHg9xCpUvv3qZixxU6gklTeJ4-gFrODsFv8Ef3ipvrjz-5WIUy7EmFb8Ei-1s6K0ffWa8n4d8gDMvWThTxGdeiy0l=s1600"
 en_name: "MoonlightWine"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj5O3JjIbGlx_GafS60O49ExB1g_sZP-WnkegmGlmyworkA-e4NXPgyfT48H-qzcnP-H0yt3LF1zqtkUJ0XeegjqoEbT0iuCazRy05cHg9xCpUvv3qZixxU6gklTeJ4-gFrODsFv8Ef3ipvrjz-5WIUy7EmFb8Ei-1s6K0ffWa8n4d8gDMvWThTxGdeiy0l=s1600)
-
 
 ## Birthday Color for July 15: Moonlight Wine (`#610928`)
 

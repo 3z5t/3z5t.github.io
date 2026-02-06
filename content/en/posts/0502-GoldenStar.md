@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi-_018XKkgXWwwZJdLsQQOChnijWnN_YUrtiIH_NXLh5HElD1i_F7k54HWZIkHite6HAM5cuNKMiEs6Pc6ghYFoWV-XfwDNvqVPsq2Vr5lFZUsUaWEQt2IUeDHTbBYgdyQELcnu4Te5yo5OMWINYVXuBlx7uUxqVIju9otr5gH91MDhAUimsLaXYHnck36=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Golden Star, The Birthday Color of May 2"
 date: "2026-05-02"
 updated: "2026-05-02"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "elegant ultramarine"
 description: "The birthday color for May 2 is Golden Star (E5A859). Its meaning is Achievement, Shining, Influence."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi-_018XKkgXWwwZJdLsQQOChnijWnN_YUrtiIH_NXLh5HElD1i_F7k54HWZIkHite6HAM5cuNKMiEs6Pc6ghYFoWV-XfwDNvqVPsq2Vr5lFZUsUaWEQt2IUeDHTbBYgdyQELcnu4Te5yo5OMWINYVXuBlx7uUxqVIju9otr5gH91MDhAUimsLaXYHnck36=s1600"
 en_name: "GoldenStar"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi-_018XKkgXWwwZJdLsQQOChnijWnN_YUrtiIH_NXLh5HElD1i_F7k54HWZIkHite6HAM5cuNKMiEs6Pc6ghYFoWV-XfwDNvqVPsq2Vr5lFZUsUaWEQt2IUeDHTbBYgdyQELcnu4Te5yo5OMWINYVXuBlx7uUxqVIju9otr5gH91MDhAUimsLaXYHnck36=s1600)
-
 
 ## Birthday Color for May 2: Golden Star (`#E5A859`)
 

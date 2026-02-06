@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgO9jAL2gqg-HHC_vLEf_ECTCugY9qYtufZqfYZ5BdTvNoGZdfO6cYhqrnF1WNAXBV91qPV_31oVOF4pIPEA39MWmayNZCvHutVMEICLK0RilZFQVw7WTkAJfRqY3gJXlGOPqwBDK-lytRvUnfavdFaJTAh4axBFrhpnVCmwKigT_H5Uc2wqNgQNtn2PBYZ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Dark Marsala, The Birthday Color of October 4"
 date: "2026-10-04"
 updated: "2026-10-04"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "autumn sky"
 description: "The birthday color for October 4 is Dark Marsala (A4665D). Its meaning is Profound, Abundant, Stable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgO9jAL2gqg-HHC_vLEf_ECTCugY9qYtufZqfYZ5BdTvNoGZdfO6cYhqrnF1WNAXBV91qPV_31oVOF4pIPEA39MWmayNZCvHutVMEICLK0RilZFQVw7WTkAJfRqY3gJXlGOPqwBDK-lytRvUnfavdFaJTAh4axBFrhpnVCmwKigT_H5Uc2wqNgQNtn2PBYZ=s1600"
 en_name: "DarkMarsala"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgO9jAL2gqg-HHC_vLEf_ECTCugY9qYtufZqfYZ5BdTvNoGZdfO6cYhqrnF1WNAXBV91qPV_31oVOF4pIPEA39MWmayNZCvHutVMEICLK0RilZFQVw7WTkAJfRqY3gJXlGOPqwBDK-lytRvUnfavdFaJTAh4axBFrhpnVCmwKigT_H5Uc2wqNgQNtn2PBYZ=s1600)
-
 
 ## Birthday Color for October 4: Dark Marsala (`#A4665D`)
 

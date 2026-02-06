@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjh_y8mydHHpxz37iWqss9TmhpBZv0JxEOKG4rM7DbZiWkw4uur6UVvGg-8ZYrrlCEX_caVJB46QdR7TDS1NxGhansKkmXvTymjRarraJYjCsi4Lbti0KnEuZ8ue0LyTeNNgIIEpR7d3OVvXWPBpkivb-wM6U-56j1cHzruoqqrYnSv1XBFBx32gIQ-NOpq=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ウィンターフェアリーミスト、12月15日の誕生色"
 date: "2026-12-15"
 updated: "2026-12-15"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "サドルブラウン"
 description: "12月15日の誕生色 ウィンターフェアリーミスト(B3C4E5)。色言葉は「温かい心、平和、安定」です。相性の良い色はサドルブラウンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjh_y8mydHHpxz37iWqss9TmhpBZv0JxEOKG4rM7DbZiWkw4uur6UVvGg-8ZYrrlCEX_caVJB46QdR7TDS1NxGhansKkmXvTymjRarraJYjCsi4Lbti0KnEuZ8ue0LyTeNNgIIEpR7d3OVvXWPBpkivb-wM6U-56j1cHzruoqqrYnSv1XBFBx32gIQ-NOpq=s1600"
 en_name: "Winter Fairy Mist"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjh_y8mydHHpxz37iWqss9TmhpBZv0JxEOKG4rM7DbZiWkw4uur6UVvGg-8ZYrrlCEX_caVJB46QdR7TDS1NxGhansKkmXvTymjRarraJYjCsi4Lbti0KnEuZ8ue0LyTeNNgIIEpR7d3OVvXWPBpkivb-wM6U-56j1cHzruoqqrYnSv1XBFBx32gIQ-NOpq=s1600)
-
 
 ## 12月15日の誕生色: ウィンターフェアリーミスト (`#B3C4E5`)
 

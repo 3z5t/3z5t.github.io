@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEizLMDpuA4rCfLu6PrQz2UkbwhMwLs17yZpeMEI5SF9MZSrA88ReJbqWShpoS72ICXu1p9p8I3SifwheEviaNc9Pgskrb1WlCgGtaaliTAjma36_NQKv4RvcRovuGAhgSAYS647CZ2_PzdJE2HdeRZmkupG-InSJ_RMbRdvuSQcUJmJIlYt-qUwQVwCLd7E=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Pure Green, The Birthday Color of May 16"
 date: "2026-05-16"
 updated: "2026-05-16"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "fuchsia"
 description: "The birthday color for May 16 is Pure Green (2FBA10). Its meaning is Pure, Natural, Vitality."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEizLMDpuA4rCfLu6PrQz2UkbwhMwLs17yZpeMEI5SF9MZSrA88ReJbqWShpoS72ICXu1p9p8I3SifwheEviaNc9Pgskrb1WlCgGtaaliTAjma36_NQKv4RvcRovuGAhgSAYS647CZ2_PzdJE2HdeRZmkupG-InSJ_RMbRdvuSQcUJmJIlYt-qUwQVwCLd7E=s1600"
 en_name: "PureGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEizLMDpuA4rCfLu6PrQz2UkbwhMwLs17yZpeMEI5SF9MZSrA88ReJbqWShpoS72ICXu1p9p8I3SifwheEviaNc9Pgskrb1WlCgGtaaliTAjma36_NQKv4RvcRovuGAhgSAYS647CZ2_PzdJE2HdeRZmkupG-InSJ_RMbRdvuSQcUJmJIlYt-qUwQVwCLd7E=s1600)
-
 
 ## Birthday Color for May 16: Pure Green (`#2FBA10`)
 

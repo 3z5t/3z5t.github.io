@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgdTXLC0Hmhf-DKapn_p6vKNRjqIXihMRz8VLTi6Bk4c3R1LXCi4LiDy-gaxWcrPFg5SLGbVBgF7M7Auci2rB_9OLGlDNvK4O40ZjYrf2xJ39Cf4pwtP1HIFP8aL04TwUahjVqtVmvDNKSFdkTZEyO25uB0DlOZR3mWna3wyYkVoIgMFOHZQ1IEbXSKHusK=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ブライトモス、4月17日の誕生色"
 date: "2026-04-17"
 updated: "2026-04-17"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "ピュアブルー"
 description: "4月17日の誕生色 ブライトモス(ADC12D)。色言葉は「生命力、繁栄、創造性」です。相性の良い色はピュアブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgdTXLC0Hmhf-DKapn_p6vKNRjqIXihMRz8VLTi6Bk4c3R1LXCi4LiDy-gaxWcrPFg5SLGbVBgF7M7Auci2rB_9OLGlDNvK4O40ZjYrf2xJ39Cf4pwtP1HIFP8aL04TwUahjVqtVmvDNKSFdkTZEyO25uB0DlOZR3mWna3wyYkVoIgMFOHZQ1IEbXSKHusK=s1600"
 en_name: "Bright Moss"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgdTXLC0Hmhf-DKapn_p6vKNRjqIXihMRz8VLTi6Bk4c3R1LXCi4LiDy-gaxWcrPFg5SLGbVBgF7M7Auci2rB_9OLGlDNvK4O40ZjYrf2xJ39Cf4pwtP1HIFP8aL04TwUahjVqtVmvDNKSFdkTZEyO25uB0DlOZR3mWna3wyYkVoIgMFOHZQ1IEbXSKHusK=s1600)
-
 
 ## 4月17日の誕生色: ブライトモス (`#ADC12D`)
 

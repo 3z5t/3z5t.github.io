@@ -1,21 +1,24 @@
 ---
-"title": "ロイヤルパープル、2月11日の誕生色"
-"date": "2026-02-11"
-"updated": "2026-02-11"
-"labels":
-- "ロイヤルパープル"
-- "誕生色"
-- "2月11日"
-- "800080"
-- "2月"
-- "ペールグリーン"
-"description": "2月11日の誕生色 ロイヤルパープル(800080)。色言葉は「リーダーシップ、カリスマ、尊厳」です。相性の良い色はペールグリーンです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEiYIBvhHUgzsTtr_r9BcbJ5v5t7S6cu9NMTZTz6827Hp08T-9aYMqsD3wM3ClkIp-Npo2vR00lLUpxw0syaGXHFSIVQO7Q82wq45gLHASLoyzzTsjiyEcLdIB_Gy6OmhMowZoP-Lb53VgdPJhnzIj8aVC5NYVbc7y4I4Ni0ih0xunFyiTh9QrOXpFiGsu1z=s1600"
-"en_name": "Royal Purple"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "5965389991330052722"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/211-royal-purple.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiYIBvhHUgzsTtr_r9BcbJ5v5t7S6cu9NMTZTz6827Hp08T-9aYMqsD3wM3ClkIp-Npo2vR00lLUpxw0syaGXHFSIVQO7Q82wq45gLHASLoyzzTsjiyEcLdIB_Gy6OmhMowZoP-Lb53VgdPJhnzIj8aVC5NYVbc7y4I4Ni0ih0xunFyiTh9QrOXpFiGsu1z=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ロイヤルパープル、2月11日の誕生色"
+date: "2026-02-11"
+updated: "2026-02-11"
+tags:
+  - "ロイヤルパープル"
+  - "誕生色"
+  - "2月11日"
+  - "800080"
+  - "2月"
+  - "ペールグリーン"
+description: "2月11日の誕生色 ロイヤルパープル(800080)。色言葉は「リーダーシップ、カリスマ、尊厳」です。相性の良い色はペールグリーンです。"
+en_name: "Royal Purple"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "5965389991330052722"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/211-royal-purple.html"
 ---
 
 ## 2月11日の誕生色: ロイヤルパープル (`#800080`)

@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-09'
-description: The birthday color for January 9 is Deep Forest (13191A). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEikcBAvIie0OK0D0CpdrVzJEJaa6xRrkxheci0Z-B--09lKrShOyus5nmYLKcKlLGLnpedjBDS58FimDxcDIz1Fg4AJECC1bkl3CjLcBJHHIfzZ6JqMZKCTIucNKNy5W6L9QGk9Yk7mXW3fAskd6tDlqRFzj8z2aiykpxc0k-tA26MpG5UunBcNWivror_b=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-09"
+description: "The birthday color for January 9 is Deep Forest (13191A). Its meaning"
   is Growth, Development, Innovation.
-en_name: DeepForest
+en_name: "DeepForest"
 tags:
-- deep forest
-- birthday color
-- january 9
-- 13191a
-- january
-- fine sand
-postId: '284554651672564260'
-postUrl: https://the366days-en.blogspot.com/2026/01/deep-forest-birthday-color-of-january-9.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEikcBAvIie0OK0D0CpdrVzJEJaa6xRrkxheci0Z-B--09lKrShOyus5nmYLKcKlLGLnpedjBDS58FimDxcDIz1Fg4AJECC1bkl3CjLcBJHHIfzZ6JqMZKCTIucNKNy5W6L9QGk9Yk7mXW3fAskd6tDlqRFzj8z2aiykpxc0k-tA26MpG5UunBcNWivror_b=s1600
-title: Deep Forest, The Birthday Color of January 9
-updated: '2026-01-09'
+  - "deep forest"
+  - "birthday color"
+  - "january 9"
+  - "13191a"
+  - "january"
+  - "fine sand"
+postId: "284554651672564260"
+postUrl: "https://the366days-en.blogspot.com/2026/01/deep-forest-birthday-color-of-january-9.html"
+profileName: "Pieces of a Day"
+title: "Deep Forest, The Birthday Color of January 9"
+updated: "2026-01-09"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEikcBAvIie0OK0D0CpdrVzJEJaa6xRrkxheci0Z-B--09lKrShOyus5nmYLKcKlLGLnpedjBDS58FimDxcDIz1Fg4AJECC1bkl3CjLcBJHHIfzZ6JqMZKCTIucNKNy5W6L9QGk9Yk7mXW3fAskd6tDlqRFzj8z2aiykpxc0k-tA26MpG5UunBcNWivror_b=s1600)
-
 
 ## Birthday Color for January 9: Deep Forest (`#13191A`)
 

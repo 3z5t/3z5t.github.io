@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjgHTm6GhhbN221R7dBOkvJVWalQIXnsgEYF4CGY0mflX3YRxACBB983v2jpvZ9CvE7CCmveuYhuJFtEBz3YQQKtOCE4q0EShzFt2uH1nyxZdp2tW_2Nmss4PKUjcl-sv7EhxkCNnqvq6nBzr1GRRiysq2eds0YK8HXDcyNYQL3sSYjZQyXRwsgLZXFtEO0=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "チャコールダークグレー、11月27日の誕生色"
 date: "2026-11-27"
 updated: "2026-11-27"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "クラウドグレー"
 description: "11月27日の誕生色 チャコールダークグレー(2F2C2C)。色言葉は「落ち着き、バランスの取れた、安定」です。相性の良い色はクラウドグレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjgHTm6GhhbN221R7dBOkvJVWalQIXnsgEYF4CGY0mflX3YRxACBB983v2jpvZ9CvE7CCmveuYhuJFtEBz3YQQKtOCE4q0EShzFt2uH1nyxZdp2tW_2Nmss4PKUjcl-sv7EhxkCNnqvq6nBzr1GRRiysq2eds0YK8HXDcyNYQL3sSYjZQyXRwsgLZXFtEO0=s1600"
 en_name: "Charcoal Dark Gray"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjgHTm6GhhbN221R7dBOkvJVWalQIXnsgEYF4CGY0mflX3YRxACBB983v2jpvZ9CvE7CCmveuYhuJFtEBz3YQQKtOCE4q0EShzFt2uH1nyxZdp2tW_2Nmss4PKUjcl-sv7EhxkCNnqvq6nBzr1GRRiysq2eds0YK8HXDcyNYQL3sSYjZQyXRwsgLZXFtEO0=s1600)
-
 
 ## 11月27日の誕生色: チャコールダークグレー (`#2F2C2C`)
 

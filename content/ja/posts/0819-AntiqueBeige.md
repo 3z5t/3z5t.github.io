@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhGYswx04_NqLPOK7RK_dMpa8lmrFJL0Hrv6FWr1DpfgykkXO8rdPmVOxKDlt23nTh_-7FF2rB8RQRCrPpOchoklaOVnW-r0Vu4xbyEeQWXG-M8KihwIjzik1O-qELSdm6udpgC02plHvPkpvOLeq6r_AXszOREdcrTlVorify3oZbg4HQP87fBLWjyo-zZ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アンティークベージュ、8月19日の誕生色"
 date: "2026-08-19"
 updated: "2026-08-19"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "ディープオーシャン"
 description: "8月19日の誕生色 アンティークベージュ(A19475)。色言葉は「古典的、賢明、伝統的」です。相性の良い色はディープオーシャンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhGYswx04_NqLPOK7RK_dMpa8lmrFJL0Hrv6FWr1DpfgykkXO8rdPmVOxKDlt23nTh_-7FF2rB8RQRCrPpOchoklaOVnW-r0Vu4xbyEeQWXG-M8KihwIjzik1O-qELSdm6udpgC02plHvPkpvOLeq6r_AXszOREdcrTlVorify3oZbg4HQP87fBLWjyo-zZ=s1600"
 en_name: "Antique Beige"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhGYswx04_NqLPOK7RK_dMpa8lmrFJL0Hrv6FWr1DpfgykkXO8rdPmVOxKDlt23nTh_-7FF2rB8RQRCrPpOchoklaOVnW-r0Vu4xbyEeQWXG-M8KihwIjzik1O-qELSdm6udpgC02plHvPkpvOLeq6r_AXszOREdcrTlVorify3oZbg4HQP87fBLWjyo-zZ=s1600)
-
 
 ## 8月19日の誕生色: アンティークベージュ (`#A19475`)
 

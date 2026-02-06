@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiCatAZhjIy5w69_4fRA-cpSykMLWywoLLS3MFpGcC5zraHLJJJdL59N7hn4j-2-GHDqc1oUl69cJhKJ2WvbQ4sYv_wZL4id9vGFUJsAu3HUwsAsCn5DnA5nCabY3s81Eq7ylY4h-gCqMbw-PCk4wD8jgP5ZhWBh4SpYnYuK6z0ej4U8GINK_BezQ2UU0_Q=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Sandstone, The Birthday Color of June 30"
 date: "2026-06-30"
 updated: "2026-06-30"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "soft olive"
 description: "The birthday color for June 30 is Sandstone (7B6D6D). Its meaning is Balanced, Stable, Harmonious."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiCatAZhjIy5w69_4fRA-cpSykMLWywoLLS3MFpGcC5zraHLJJJdL59N7hn4j-2-GHDqc1oUl69cJhKJ2WvbQ4sYv_wZL4id9vGFUJsAu3HUwsAsCn5DnA5nCabY3s81Eq7ylY4h-gCqMbw-PCk4wD8jgP5ZhWBh4SpYnYuK6z0ej4U8GINK_BezQ2UU0_Q=s1600"
 en_name: "Sandstone"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiCatAZhjIy5w69_4fRA-cpSykMLWywoLLS3MFpGcC5zraHLJJJdL59N7hn4j-2-GHDqc1oUl69cJhKJ2WvbQ4sYv_wZL4id9vGFUJsAu3HUwsAsCn5DnA5nCabY3s81Eq7ylY4h-gCqMbw-PCk4wD8jgP5ZhWBh4SpYnYuK6z0ej4U8GINK_BezQ2UU0_Q=s1600)
-
 
 ## Birthday Color for June 30: Sandstone (`#7B6D6D`)
 

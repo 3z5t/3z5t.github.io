@@ -1,21 +1,24 @@
 ---
-"title": "Vivid Magenta, The Birthday Color of February 15"
-"date": "2026-02-15"
-"updated": "2026-02-15"
-"labels":
-- "vivid magenta"
-- "birthday color"
-- "february 15"
-- "ff00ff"
-- "february"
-- "vivid lime"
-"description": "The birthday color for February 15 is Vivid Magenta (FF00FF). Its meaning is Creative Power, Passion, Vibrancy."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhTPG5jR5cwcmBSRPaDofUAe9lorDlTb29TKcUpDeBMV-VQ9JCqgNEKs9vLX6cPgR9kwtAZySZhbeA9_7kpEiLKxuB9J2BVJU8ApfTmcoM2uLEmpdclfuRjxRWWz8oL_HagsEcSnjHGAkEBIQSyZBjovDwt-EOlCBJ6L2f9zRFI8_iQ-q9BGpre1THFYv47=s1600"
-"en_name": "VividMagenta"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "4651522284640656393"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/vivid-magenta-birthday-color-of.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhTPG5jR5cwcmBSRPaDofUAe9lorDlTb29TKcUpDeBMV-VQ9JCqgNEKs9vLX6cPgR9kwtAZySZhbeA9_7kpEiLKxuB9J2BVJU8ApfTmcoM2uLEmpdclfuRjxRWWz8oL_HagsEcSnjHGAkEBIQSyZBjovDwt-EOlCBJ6L2f9zRFI8_iQ-q9BGpre1THFYv47=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Vivid Magenta, The Birthday Color of February 15"
+date: "2026-02-15"
+updated: "2026-02-15"
+tags:
+  - "vivid magenta"
+  - "birthday color"
+  - "february 15"
+  - "ff00ff"
+  - "february"
+  - "vivid lime"
+description: "The birthday color for February 15 is Vivid Magenta (FF00FF). Its meaning is Creative Power, Passion, Vibrancy."
+en_name: "VividMagenta"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "4651522284640656393"
+postUrl: "https://the366days-en.blogspot.com/2026/02/vivid-magenta-birthday-color-of.html"
 ---
 
 ## Birthday Color for February 15: Vivid Magenta (`#FF00FF`)

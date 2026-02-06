@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhM9XAAenQ2cHHhH_RSX5RWZ52POHG_LcYwlEA3k8aQHwwItaQL5CZ5e0ANfqtU6sdLz4YnL1qtExyGfetieYeyl7Da6PnkXynCckDHzt96J4Jb2YaTINzwaoQbfuEetFKYsMvrn0bdPydnUuVyMx485fUMtPof15W0PDG84uoAynkWYkjwkb7J5CFxMgQs=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ダークエスプレッソ、10月26日の誕生色"
 date: "2026-10-26"
 updated: "2026-10-26"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "シルバーブルー"
 description: "10月26日の誕生色 ダークエスプレッソ(504644)。色言葉は「深みのある、安定、成熟」です。相性の良い色はシルバーブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhM9XAAenQ2cHHhH_RSX5RWZ52POHG_LcYwlEA3k8aQHwwItaQL5CZ5e0ANfqtU6sdLz4YnL1qtExyGfetieYeyl7Da6PnkXynCckDHzt96J4Jb2YaTINzwaoQbfuEetFKYsMvrn0bdPydnUuVyMx485fUMtPof15W0PDG84uoAynkWYkjwkb7J5CFxMgQs=s1600"
 en_name: "Dark Espresso"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhM9XAAenQ2cHHhH_RSX5RWZ52POHG_LcYwlEA3k8aQHwwItaQL5CZ5e0ANfqtU6sdLz4YnL1qtExyGfetieYeyl7Da6PnkXynCckDHzt96J4Jb2YaTINzwaoQbfuEetFKYsMvrn0bdPydnUuVyMx485fUMtPof15W0PDG84uoAynkWYkjwkb7J5CFxMgQs=s1600)
-
 
 ## 10月26日の誕生色: ダークエスプレッソ (`#504644`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEic4oRk3e_OuRkL6KRt21EbqsTRoqaKIweM-mhPSg23E1vcTSsFuLWBBXbs2Bu4rapZz7JJ_U7QUCUKqMvs75OifaXa4Iq73-92vSbLvdcm7fdiVqkb6PWkH7gj6UfGn9vCiXERiPevup0tMDyzYzHfpRzY87ouSAB5HT5N6gIWQFZB1b6R57lav7ebAbYd=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ライムグリーン、5月15日の誕生色"
 date: "2026-05-15"
 updated: "2026-05-15"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "オーキッドパープル"
 description: "5月15日の誕生色 ライムグリーン(6EAD5C)。色言葉は「健康、活力的、バランス感覚」です。相性の良い色はオーキッドパープルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEic4oRk3e_OuRkL6KRt21EbqsTRoqaKIweM-mhPSg23E1vcTSsFuLWBBXbs2Bu4rapZz7JJ_U7QUCUKqMvs75OifaXa4Iq73-92vSbLvdcm7fdiVqkb6PWkH7gj6UfGn9vCiXERiPevup0tMDyzYzHfpRzY87ouSAB5HT5N6gIWQFZB1b6R57lav7ebAbYd=s1600"
 en_name: "Lime Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEic4oRk3e_OuRkL6KRt21EbqsTRoqaKIweM-mhPSg23E1vcTSsFuLWBBXbs2Bu4rapZz7JJ_U7QUCUKqMvs75OifaXa4Iq73-92vSbLvdcm7fdiVqkb6PWkH7gj6UfGn9vCiXERiPevup0tMDyzYzHfpRzY87ouSAB5HT5N6gIWQFZB1b6R57lav7ebAbYd=s1600)
-
 
 ## 5月15日の誕生色: ライムグリーン (`#6EAD5C`)
 

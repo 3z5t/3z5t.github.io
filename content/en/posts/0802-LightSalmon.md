@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhgojAT8A5YVXeWb1jwk8QTi0X-F4-kGXAMIyJjBkJ4b0X-ZY_LokErBXiRVJcYvh_3Byc8DQ8zywGIVVZfNVPVtMsmvwXQmjNMsVS2xKDJdezfCaEmbpToAkYSkN0Ywf6po8HHBeR88Ccjhr5GUkZEpmdSyGFmuTJ5GCO4d98vMH5Rj2MMw0Yy1dazCY4T=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Light Salmon, The Birthday Color of August 2"
 date: "2026-08-02"
 updated: "2026-08-02"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "moonlight navy"
 description: "The birthday color for August 2 is Light Salmon (FFA07A). Its meaning is Bright Mind, Fresh, Friendly."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhgojAT8A5YVXeWb1jwk8QTi0X-F4-kGXAMIyJjBkJ4b0X-ZY_LokErBXiRVJcYvh_3Byc8DQ8zywGIVVZfNVPVtMsmvwXQmjNMsVS2xKDJdezfCaEmbpToAkYSkN0Ywf6po8HHBeR88Ccjhr5GUkZEpmdSyGFmuTJ5GCO4d98vMH5Rj2MMw0Yy1dazCY4T=s1600"
 en_name: "LightSalmon"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhgojAT8A5YVXeWb1jwk8QTi0X-F4-kGXAMIyJjBkJ4b0X-ZY_LokErBXiRVJcYvh_3Byc8DQ8zywGIVVZfNVPVtMsmvwXQmjNMsVS2xKDJdezfCaEmbpToAkYSkN0Ywf6po8HHBeR88Ccjhr5GUkZEpmdSyGFmuTJ5GCO4d98vMH5Rj2MMw0Yy1dazCY4T=s1600)
-
 
 ## Birthday Color for August 2: Light Salmon (`#FFA07A`)
 

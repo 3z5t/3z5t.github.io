@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-14'
-description: The birthday color for January 14 is True Navy (313C75). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgW61vmTN_Kiii-IGWs36WxcZPyibZyoO4VyJOedGxeTFVrIe3G2nl8OrLMv14zzJCxCG5HhsNinq62wpzPdrloH27HTodRY-yLMP-MlsF8GFdiksy0Nf6egUA5KkGQDXaXDKxe-d90HpGMftAjoSmTX-CrKs8alRzvTyI35S7QkB7m9lBmzhVFcLIv7OJ_=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-14"
+description: "The birthday color for January 14 is True Navy (313C75). Its meaning"
   is Sincerity, Truthfulness, Devoted.
-en_name: TrueNavy
+en_name: "TrueNavy"
 tags:
-- true navy
-- birthday color
-- january 14
-- 313c75
-- january
-- classic beige
-postId: '5350138334485134303'
-postUrl: https://the366days-en.blogspot.com/2026/01/true-navy-birthday-color-of-january-14.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgW61vmTN_Kiii-IGWs36WxcZPyibZyoO4VyJOedGxeTFVrIe3G2nl8OrLMv14zzJCxCG5HhsNinq62wpzPdrloH27HTodRY-yLMP-MlsF8GFdiksy0Nf6egUA5KkGQDXaXDKxe-d90HpGMftAjoSmTX-CrKs8alRzvTyI35S7QkB7m9lBmzhVFcLIv7OJ_=s1600
-title: True Navy, The Birthday Color of January 14
-updated: '2026-01-14'
+  - "true navy"
+  - "birthday color"
+  - "january 14"
+  - "313c75"
+  - "january"
+  - "classic beige"
+postId: "5350138334485134303"
+postUrl: "https://the366days-en.blogspot.com/2026/01/true-navy-birthday-color-of-january-14.html"
+profileName: "Pieces of a Day"
+title: "True Navy, The Birthday Color of January 14"
+updated: "2026-01-14"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgW61vmTN_Kiii-IGWs36WxcZPyibZyoO4VyJOedGxeTFVrIe3G2nl8OrLMv14zzJCxCG5HhsNinq62wpzPdrloH27HTodRY-yLMP-MlsF8GFdiksy0Nf6egUA5KkGQDXaXDKxe-d90HpGMftAjoSmTX-CrKs8alRzvTyI35S7QkB7m9lBmzhVFcLIv7OJ_=s1600)
-
 
 ## Birthday Color for January 14: True Navy (`#313C75`)
 

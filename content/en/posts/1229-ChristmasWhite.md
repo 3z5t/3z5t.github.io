@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjDj6voylLZYowCfysG9hEg1Ujwj4puJxCV2Ex5_TELodhPh8OUzkbtLT8qQPDDXkJvK1nrDxMvE8COjIOmtM9eilnlSloFYSflkQahlAxlnl0KxZu6eA-8X0vP1XMFu0VHSvid2AlekWwbvadJFjJyViLiqajwjOsLdXf_D6DA-dkt8Np31H7o6hU1lm6j=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Christmas White, The Birthday Color of December 29"
 date: "2026-12-29"
 updated: "2026-12-29"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "black chocolate"
 description: "The birthday color for December 29 is Christmas White (E2E1EE). Its meaning is Clean Heart, Pure, Hopeful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjDj6voylLZYowCfysG9hEg1Ujwj4puJxCV2Ex5_TELodhPh8OUzkbtLT8qQPDDXkJvK1nrDxMvE8COjIOmtM9eilnlSloFYSflkQahlAxlnl0KxZu6eA-8X0vP1XMFu0VHSvid2AlekWwbvadJFjJyViLiqajwjOsLdXf_D6DA-dkt8Np31H7o6hU1lm6j=s1600"
 en_name: "ChristmasWhite"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjDj6voylLZYowCfysG9hEg1Ujwj4puJxCV2Ex5_TELodhPh8OUzkbtLT8qQPDDXkJvK1nrDxMvE8COjIOmtM9eilnlSloFYSflkQahlAxlnl0KxZu6eA-8X0vP1XMFu0VHSvid2AlekWwbvadJFjJyViLiqajwjOsLdXf_D6DA-dkt8Np31H7o6hU1lm6j=s1600)
-
 
 ## Birthday Color for December 29: Christmas White (`#E2E1EE`)
 

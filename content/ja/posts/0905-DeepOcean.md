@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEguvTFgTdtmqY4e_4aNqT-j5JdSolTJxaXLLovEy7UxHn_3BdB6hhe9EA_UyfSsgNzVI9weK-noiboEUm_Tp5ff3h6rdugZ1sRf_eFUZQDRk2JksYpAxu2Q3AtUs3PUWFzMcmE9Wjyl0xrl5RrJeMYbwRNoZ01P4EDedrgdYWJjsvEHb2ZDoHQIkmE-T2Pt=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープオーシャン、9月5日の誕生色"
 date: "2026-09-05"
 updated: "2026-09-05"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ライトグリーンティー"
 description: "9月5日の誕生色 ディープオーシャン(5A6078)。色言葉は「神秘的、深みのある、哲学的」です。相性の良い色はライトグリーンティーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEguvTFgTdtmqY4e_4aNqT-j5JdSolTJxaXLLovEy7UxHn_3BdB6hhe9EA_UyfSsgNzVI9weK-noiboEUm_Tp5ff3h6rdugZ1sRf_eFUZQDRk2JksYpAxu2Q3AtUs3PUWFzMcmE9Wjyl0xrl5RrJeMYbwRNoZ01P4EDedrgdYWJjsvEHb2ZDoHQIkmE-T2Pt=s1600"
 en_name: "Deep Ocean"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEguvTFgTdtmqY4e_4aNqT-j5JdSolTJxaXLLovEy7UxHn_3BdB6hhe9EA_UyfSsgNzVI9weK-noiboEUm_Tp5ff3h6rdugZ1sRf_eFUZQDRk2JksYpAxu2Q3AtUs3PUWFzMcmE9Wjyl0xrl5RrJeMYbwRNoZ01P4EDedrgdYWJjsvEHb2ZDoHQIkmE-T2Pt=s1600)
-
 
 ## 9月5日の誕生色: ディープオーシャン (`#5A6078`)
 

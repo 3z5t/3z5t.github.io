@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhJU7N9s84aNrkOv5ZJAlPFFdGjWYCabeaUek84_OaceHOOjiSfVsil76YNJ_SmIMYudc8SogX3VNDwNBsr6Dn7F6dzmfH6CRaTT94-LJGgHeGRDtkPpVcj8dbDZY6g3yy3ynR353OwdTVSkMCGyn6uM72bWs7ZQ9S1YZL96WonnN4fGPz98T350dx-DXot=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Morning Glory, The Birthday Color of May 30"
 date: "2026-05-30"
 updated: "2026-05-30"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "deep coral"
 description: "The birthday color for May 30 is Morning Glory (99CCCC). Its meaning is Hopeful, Power of Beginning, Positive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhJU7N9s84aNrkOv5ZJAlPFFdGjWYCabeaUek84_OaceHOOjiSfVsil76YNJ_SmIMYudc8SogX3VNDwNBsr6Dn7F6dzmfH6CRaTT94-LJGgHeGRDtkPpVcj8dbDZY6g3yy3ynR353OwdTVSkMCGyn6uM72bWs7ZQ9S1YZL96WonnN4fGPz98T350dx-DXot=s1600"
 en_name: "MorningGlory"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhJU7N9s84aNrkOv5ZJAlPFFdGjWYCabeaUek84_OaceHOOjiSfVsil76YNJ_SmIMYudc8SogX3VNDwNBsr6Dn7F6dzmfH6CRaTT94-LJGgHeGRDtkPpVcj8dbDZY6g3yy3ynR353OwdTVSkMCGyn6uM72bWs7ZQ9S1YZL96WonnN4fGPz98T350dx-DXot=s1600)
-
 
 ## Birthday Color for May 30: Morning Glory (`#99CCCC`)
 

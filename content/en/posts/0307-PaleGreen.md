@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEishN-NVctOHq6v-FwfTzFsi0m3YUpyp0hPIeFDiklrkKOESnJSmjjgR7Ur5eDkT_nn890quCGhMnz3mFEx1Dti5uXExxxAikKubN-HqYtjpZkULwSczojqaxe91T-2fN32m4IQMFRbFgl8KhvWqxte2ezgxXXUVU0q1ycMJFVu3kVrUvd8WxR1tsa1Gz7b=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Pale Green, The Birthday Color of March 7"
 date: "2026-03-07"
 updated: "2026-03-07"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "mystic purple"
 description: "The birthday color for March 7 is Pale Green (98FB98). Its meaning is Delicate, Gentle, Harmonious."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEishN-NVctOHq6v-FwfTzFsi0m3YUpyp0hPIeFDiklrkKOESnJSmjjgR7Ur5eDkT_nn890quCGhMnz3mFEx1Dti5uXExxxAikKubN-HqYtjpZkULwSczojqaxe91T-2fN32m4IQMFRbFgl8KhvWqxte2ezgxXXUVU0q1ycMJFVu3kVrUvd8WxR1tsa1Gz7b=s1600"
 en_name: "PaleGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEishN-NVctOHq6v-FwfTzFsi0m3YUpyp0hPIeFDiklrkKOESnJSmjjgR7Ur5eDkT_nn890quCGhMnz3mFEx1Dti5uXExxxAikKubN-HqYtjpZkULwSczojqaxe91T-2fN32m4IQMFRbFgl8KhvWqxte2ezgxXXUVU0q1ycMJFVu3kVrUvd8WxR1tsa1Gz7b=s1600)
-
 
 ## Birthday Color for March 7: Pale Green (`#98FB98`)
 

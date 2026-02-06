@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-11'
-description: The birthday color for January 11 is Steel Navy (1A3855). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhwBNXqgcRgBfZtA0wdEivAkxVk3ypSQhsfwUCM3ZH1QfUzOAN-Ad-30L1MJg-Nov6xYdpEP_KzqD44r8MHHOOwZl9DNbFQMw-kjs_1yXOz02Y3aRQcfKdbxhR41eazkxUhXMwhas4J5G_aXQIiT2xi_1xGGuKNkW-XxYWs-ZET6Bf21gTFQDBi6N8paiCK=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-11"
+description: "The birthday color for January 11 is Steel Navy (1A3855). Its meaning"
   is Sturdiness, Trustworthiness, Stability.
-en_name: SteelNavy
+en_name: "SteelNavy"
 tags:
-- steel navy
-- birthday color
-- january 11
-- 1a3855
-- january
-- soft beige
-postId: '6416672836658275031'
-postUrl: https://the366days-en.blogspot.com/2026/01/steel-navy-birthday-color-of-january-11.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhwBNXqgcRgBfZtA0wdEivAkxVk3ypSQhsfwUCM3ZH1QfUzOAN-Ad-30L1MJg-Nov6xYdpEP_KzqD44r8MHHOOwZl9DNbFQMw-kjs_1yXOz02Y3aRQcfKdbxhR41eazkxUhXMwhas4J5G_aXQIiT2xi_1xGGuKNkW-XxYWs-ZET6Bf21gTFQDBi6N8paiCK=s1600
-title: Steel Navy, The Birthday Color of January 11
-updated: '2026-01-11'
+  - "steel navy"
+  - "birthday color"
+  - "january 11"
+  - "1a3855"
+  - "january"
+  - "soft beige"
+postId: "6416672836658275031"
+postUrl: "https://the366days-en.blogspot.com/2026/01/steel-navy-birthday-color-of-january-11.html"
+profileName: "Pieces of a Day"
+title: "Steel Navy, The Birthday Color of January 11"
+updated: "2026-01-11"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhwBNXqgcRgBfZtA0wdEivAkxVk3ypSQhsfwUCM3ZH1QfUzOAN-Ad-30L1MJg-Nov6xYdpEP_KzqD44r8MHHOOwZl9DNbFQMw-kjs_1yXOz02Y3aRQcfKdbxhR41eazkxUhXMwhas4J5G_aXQIiT2xi_1xGGuKNkW-XxYWs-ZET6Bf21gTFQDBi6N8paiCK=s1600)
-
 
 ## Birthday Color for January 11: Steel Navy (`#1A3855`)
 

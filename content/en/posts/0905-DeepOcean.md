@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhaf7dQ8JUJeFXmcG5nyYZhCecg7Cq-K3UiBsX79mQeFcSxAPY5QsfEB7kTkFLt7zpeHyL6TYZeLyIpj4kta40Q7FDnsNJlJgGDkSmD138u1VwmCmmrxXVVHzQNzKiWMQLWt3do3AGLmDus4aW8ztUSs7CccB3QIYV1FMUE0rOH5uTlw8kTgFFs5I4yKKZy=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Ocean, The Birthday Color of September 5"
 date: "2026-09-05"
 updated: "2026-09-05"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "light green tea"
 description: "The birthday color for September 5 is Deep Ocean (5A6078). Its meaning is Mysterious, Profound, Philosophical."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhaf7dQ8JUJeFXmcG5nyYZhCecg7Cq-K3UiBsX79mQeFcSxAPY5QsfEB7kTkFLt7zpeHyL6TYZeLyIpj4kta40Q7FDnsNJlJgGDkSmD138u1VwmCmmrxXVVHzQNzKiWMQLWt3do3AGLmDus4aW8ztUSs7CccB3QIYV1FMUE0rOH5uTlw8kTgFFs5I4yKKZy=s1600"
 en_name: "DeepOcean"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhaf7dQ8JUJeFXmcG5nyYZhCecg7Cq-K3UiBsX79mQeFcSxAPY5QsfEB7kTkFLt7zpeHyL6TYZeLyIpj4kta40Q7FDnsNJlJgGDkSmD138u1VwmCmmrxXVVHzQNzKiWMQLWt3do3AGLmDus4aW8ztUSs7CccB3QIYV1FMUE0rOH5uTlw8kTgFFs5I4yKKZy=s1600)
-
 
 ## Birthday Color for September 5: Deep Ocean (`#5A6078`)
 

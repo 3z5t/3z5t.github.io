@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhzOoelgWACAvlEQrFipOLGu_a-k4UD2Lxq3DaZB5_Sou4fF0SMmf9TdPKww4HTBP0TZWCqrTc39oGnKxq0rEu0FHC39ltfLl6rAypqNaZjKbPdS3MTrBbMqQ0dVAb_8RcFmUiLOAVGwvtEUSNhCtCofKyEvj2LgGKDqs-uIwMSvZysnNj7jwMUS1M9NxIN=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Brandy Punch, The Birthday Color of June 18"
 date: "2026-06-18"
 updated: "2026-06-18"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "dark turquoise"
 description: "The birthday color for June 18 is Brandy Punch (C6794A). Its meaning is Profound, Stable, Mature."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhzOoelgWACAvlEQrFipOLGu_a-k4UD2Lxq3DaZB5_Sou4fF0SMmf9TdPKww4HTBP0TZWCqrTc39oGnKxq0rEu0FHC39ltfLl6rAypqNaZjKbPdS3MTrBbMqQ0dVAb_8RcFmUiLOAVGwvtEUSNhCtCofKyEvj2LgGKDqs-uIwMSvZysnNj7jwMUS1M9NxIN=s1600"
 en_name: "BrandyPunch"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhzOoelgWACAvlEQrFipOLGu_a-k4UD2Lxq3DaZB5_Sou4fF0SMmf9TdPKww4HTBP0TZWCqrTc39oGnKxq0rEu0FHC39ltfLl6rAypqNaZjKbPdS3MTrBbMqQ0dVAb_8RcFmUiLOAVGwvtEUSNhCtCofKyEvj2LgGKDqs-uIwMSvZysnNj7jwMUS1M9NxIN=s1600)
-
 
 ## Birthday Color for June 18: Brandy Punch (`#C6794A`)
 

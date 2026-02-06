@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEht2OYnjbNbs-_F4ZEvugv0bzKC38KrYQnKNHOO5iSrEy9vhdtZ1vXSXgW07jy9zoLQCVwPQssX6p08iWnQmURm7WC0oHUF8a6YSTzFMcL0QaAFVpw4mibhbU5YYFj7D_9jNdyaLWy9obRlTxqLvXOkkvco2kmKmLkdLxPLVV0xB8gfKllWvvSjqfkUOAf0=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "エレクトリックライム、5月13日の誕生色"
 date: "2026-05-13"
 updated: "2026-05-13"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "ピュアブルー"
 description: "5月13日の誕生色 エレクトリックライム(CCFF00)。色言葉は「情熱的、革新的、独創性」です。相性の良い色はピュアブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEht2OYnjbNbs-_F4ZEvugv0bzKC38KrYQnKNHOO5iSrEy9vhdtZ1vXSXgW07jy9zoLQCVwPQssX6p08iWnQmURm7WC0oHUF8a6YSTzFMcL0QaAFVpw4mibhbU5YYFj7D_9jNdyaLWy9obRlTxqLvXOkkvco2kmKmLkdLxPLVV0xB8gfKllWvvSjqfkUOAf0=s1600"
 en_name: "Electric Lime"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEht2OYnjbNbs-_F4ZEvugv0bzKC38KrYQnKNHOO5iSrEy9vhdtZ1vXSXgW07jy9zoLQCVwPQssX6p08iWnQmURm7WC0oHUF8a6YSTzFMcL0QaAFVpw4mibhbU5YYFj7D_9jNdyaLWy9obRlTxqLvXOkkvco2kmKmLkdLxPLVV0xB8gfKllWvvSjqfkUOAf0=s1600)
-
 
 ## 5月13日の誕生色: エレクトリックライム (`#CCFF00`)
 

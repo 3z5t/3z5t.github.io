@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjWfhGMi4Ilju8xJ79ByN1M7fQYENc3QY8oQAsc3v4B5FD6a81skLpSEY_8HQkaBGw2_CJFO86ay3CQHlpZrDQFejh0ZesC9y4cSm7d9urg091buudmdBGd5XFXK0aGtfZzyO3ht6fWTXD_9-b7RSo5ip8bSSsQpHsvxTdJPFRp4wf5TNi4QDmPbxZ1grgS=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ブルーグリーン、4月8日の誕生色"
 date: "2026-04-08"
 updated: "2026-04-08"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "プラム"
 description: "4月8日の誕生色 ブルーグリーン(30BA8F)。色言葉は「調和、バランス感覚、安定感」です。相性の良い色はプラムです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjWfhGMi4Ilju8xJ79ByN1M7fQYENc3QY8oQAsc3v4B5FD6a81skLpSEY_8HQkaBGw2_CJFO86ay3CQHlpZrDQFejh0ZesC9y4cSm7d9urg091buudmdBGd5XFXK0aGtfZzyO3ht6fWTXD_9-b7RSo5ip8bSSsQpHsvxTdJPFRp4wf5TNi4QDmPbxZ1grgS=s1600"
 en_name: "Blue Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjWfhGMi4Ilju8xJ79ByN1M7fQYENc3QY8oQAsc3v4B5FD6a81skLpSEY_8HQkaBGw2_CJFO86ay3CQHlpZrDQFejh0ZesC9y4cSm7d9urg091buudmdBGd5XFXK0aGtfZzyO3ht6fWTXD_9-b7RSo5ip8bSSsQpHsvxTdJPFRp4wf5TNi4QDmPbxZ1grgS=s1600)
-
 
 ## 4月8日の誕生色: ブルーグリーン (`#30BA8F`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj7cGnX1I1lsloOTESCkl_CJf9d8PGvAyuq-hN2GUbHCLuPlvdzeIooFiYPLXf4EbVKyKcRri5y7L4uO_A6Hyu0S9JHQ_LWu2tjrDcYNSrHJ2ycP9ptEuLov4TOSSlp8e6fbwVSnqotkAAjpMnz7gM32bpaBeq5onwR_SmMLmQfpSluqLLF49ssl9L8hhJa=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "エイシェントグリーン、4月26日の誕生色"
 date: "2026-04-26"
 updated: "2026-04-26"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "サテングレー"
 description: "4月26日の誕生色 エイシェントグリーン(476664)。色言葉は「賢明、静寂、伝統的」です。相性の良い色はサテングレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj7cGnX1I1lsloOTESCkl_CJf9d8PGvAyuq-hN2GUbHCLuPlvdzeIooFiYPLXf4EbVKyKcRri5y7L4uO_A6Hyu0S9JHQ_LWu2tjrDcYNSrHJ2ycP9ptEuLov4TOSSlp8e6fbwVSnqotkAAjpMnz7gM32bpaBeq5onwR_SmMLmQfpSluqLLF49ssl9L8hhJa=s1600"
 en_name: "Ancient Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj7cGnX1I1lsloOTESCkl_CJf9d8PGvAyuq-hN2GUbHCLuPlvdzeIooFiYPLXf4EbVKyKcRri5y7L4uO_A6Hyu0S9JHQ_LWu2tjrDcYNSrHJ2ycP9ptEuLov4TOSSlp8e6fbwVSnqotkAAjpMnz7gM32bpaBeq5onwR_SmMLmQfpSluqLLF49ssl9L8hhJa=s1600)
-
 
 ## 4月26日の誕生色: エイシェントグリーン (`#476664`)
 

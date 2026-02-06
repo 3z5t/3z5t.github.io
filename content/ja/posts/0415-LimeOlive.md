@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgCJUpbFA1NPRGdnwK0VX4hFpErgLNqYM1dBlWFLTbjyDhbKxl5vTUGQZa5InbI4ac4-YiprS_GWEV5xp0IbDJmW1wLRcQnyG72fP14p_EpHzKjhoeW_5R8M6aNUeSV6gEgyGbAupnLPeCZnL6AcXjyDosC6gslXaqNsX8GAcpoGeVKFEvY11YlHY-tO5v8=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ライムオリーブ、4月15日の誕生色"
 date: "2026-04-15"
 updated: "2026-04-15"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "エレガントウルトラマリン"
 description: "4月15日の誕生色 ライムオリーブ(B8C249)。色言葉は「躍動感、希望に満ちた、創造的」です。相性の良い色はエレガントウルトラマリンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgCJUpbFA1NPRGdnwK0VX4hFpErgLNqYM1dBlWFLTbjyDhbKxl5vTUGQZa5InbI4ac4-YiprS_GWEV5xp0IbDJmW1wLRcQnyG72fP14p_EpHzKjhoeW_5R8M6aNUeSV6gEgyGbAupnLPeCZnL6AcXjyDosC6gslXaqNsX8GAcpoGeVKFEvY11YlHY-tO5v8=s1600"
 en_name: "Lime Olive"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgCJUpbFA1NPRGdnwK0VX4hFpErgLNqYM1dBlWFLTbjyDhbKxl5vTUGQZa5InbI4ac4-YiprS_GWEV5xp0IbDJmW1wLRcQnyG72fP14p_EpHzKjhoeW_5R8M6aNUeSV6gEgyGbAupnLPeCZnL6AcXjyDosC6gslXaqNsX8GAcpoGeVKFEvY11YlHY-tO5v8=s1600)
-
 
 ## 4月15日の誕生色: ライムオリーブ (`#B8C249`)
 

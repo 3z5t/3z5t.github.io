@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEijEDBvEptznZw-nHbFHGQIwIc1AYyr1nMTzfIh7LwM0vbo4oNkGx0SUPfC_hXGC18-z3UQZNKW_0fBnQELH03_U2qdngFJ8-EfZ-3y526qdZ-52l_Y3pISCfXjZmsmp18OBtaBcwo_9si1eZwkXY9ds4HRnxX0jAK6kYtUlJgN1wM30NKxL0ddelXpZCNz=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Dutch White, The Birthday Color of August 13"
 date: "2026-08-13"
 updated: "2026-08-13"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "evening sky"
 description: "The birthday color for August 13 is Dutch White (EFE3B5). Its meaning is Traditional, Classy, Elegant."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEijEDBvEptznZw-nHbFHGQIwIc1AYyr1nMTzfIh7LwM0vbo4oNkGx0SUPfC_hXGC18-z3UQZNKW_0fBnQELH03_U2qdngFJ8-EfZ-3y526qdZ-52l_Y3pISCfXjZmsmp18OBtaBcwo_9si1eZwkXY9ds4HRnxX0jAK6kYtUlJgN1wM30NKxL0ddelXpZCNz=s1600"
 en_name: "DutchWhite"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEijEDBvEptznZw-nHbFHGQIwIc1AYyr1nMTzfIh7LwM0vbo4oNkGx0SUPfC_hXGC18-z3UQZNKW_0fBnQELH03_U2qdngFJ8-EfZ-3y526qdZ-52l_Y3pISCfXjZmsmp18OBtaBcwo_9si1eZwkXY9ds4HRnxX0jAK6kYtUlJgN1wM30NKxL0ddelXpZCNz=s1600)
-
 
 ## Birthday Color for August 13: Dutch White (`#EFE3B5`)
 

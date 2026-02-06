@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiHCKX5UgdjoRQ8KMYlDGybVXVRXbmVHJhM3VDlYdeG9TUgUQEBF3VOarvf9qvGoZ5RDcxeFPoKhPDcjjXGWrIM8cJZJrXn6NyDd0NRM-e3T5gB140tznv6m3dbELbB3ec2m65a6wAHV_R5Nk9ucKLUwrynpUnLTdxVYWfH_igh_RVN1L6aWI1c9T67v5oT=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Afternoon Beige, The Birthday Color of December 31"
 date: "2026-12-31"
 updated: "2026-12-31"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "deep abyss"
 description: "The birthday color for December 31 is Afternoon Beige (F5F5F5). Its meaning is Enjoying Reminiscence, Expectant, Hopeful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiHCKX5UgdjoRQ8KMYlDGybVXVRXbmVHJhM3VDlYdeG9TUgUQEBF3VOarvf9qvGoZ5RDcxeFPoKhPDcjjXGWrIM8cJZJrXn6NyDd0NRM-e3T5gB140tznv6m3dbELbB3ec2m65a6wAHV_R5Nk9ucKLUwrynpUnLTdxVYWfH_igh_RVN1L6aWI1c9T67v5oT=s1600"
 en_name: "AfternoonBeige"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiHCKX5UgdjoRQ8KMYlDGybVXVRXbmVHJhM3VDlYdeG9TUgUQEBF3VOarvf9qvGoZ5RDcxeFPoKhPDcjjXGWrIM8cJZJrXn6NyDd0NRM-e3T5gB140tznv6m3dbELbB3ec2m65a6wAHV_R5Nk9ucKLUwrynpUnLTdxVYWfH_igh_RVN1L6aWI1c9T67v5oT=s1600)
-
 
 ## Birthday Color for December 31: Afternoon Beige (`#F5F5F5`)
 

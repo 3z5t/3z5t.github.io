@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjVEYbUAeWcNPmHHhsucEVfMsalMluwdouXNVuFucRKaIlEutuQYLma5B-O5-byq4HTES3WdiZ-mzDYpqdwtjU1y0_GXTIZ63TgQcZ_44oWbYhch7KkR4tz60XpHtQ1-2yugms1qIeZ__SUACBBks0Vlm7a0n72-6KXgHbVnrrNfucR1Hp99G_ReVMEfXAk=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "サマーサンドビーチ、9月13日の誕生色"
 date: "2026-09-13"
 updated: "2026-09-13"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ディープオーシャンブルー"
 description: "9月13日の誕生色 サマーサンドビーチ(BF9F87)。色言葉は「温かい心、郷愁、感傷的」です。相性の良い色はディープオーシャンブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjVEYbUAeWcNPmHHhsucEVfMsalMluwdouXNVuFucRKaIlEutuQYLma5B-O5-byq4HTES3WdiZ-mzDYpqdwtjU1y0_GXTIZ63TgQcZ_44oWbYhch7KkR4tz60XpHtQ1-2yugms1qIeZ__SUACBBks0Vlm7a0n72-6KXgHbVnrrNfucR1Hp99G_ReVMEfXAk=s1600"
 en_name: "Summer Sand Beach"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjVEYbUAeWcNPmHHhsucEVfMsalMluwdouXNVuFucRKaIlEutuQYLma5B-O5-byq4HTES3WdiZ-mzDYpqdwtjU1y0_GXTIZ63TgQcZ_44oWbYhch7KkR4tz60XpHtQ1-2yugms1qIeZ__SUACBBks0Vlm7a0n72-6KXgHbVnrrNfucR1Hp99G_ReVMEfXAk=s1600)
-
 
 ## 9月13日の誕生色: サマーサンドビーチ (`#BF9F87`)
 

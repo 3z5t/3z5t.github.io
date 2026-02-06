@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiYeBGB5GgnRbYNSuy9AHJBvxRw-uK0e3PGmTup24YEb1MuHta3dBZyUzol8FXZZH8S-gRET3C5jbtGBNMYh6SjgUqFppOabiTrp19qKWTetGZLlBI7WuifvtK9nQDo6mAGxf63O6iL3ay8o06m96G-NSZKtjzmimV__cD3CgIe1yhIaMkx1TfpkAYww3pK=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "グリーンティー、9月15日の誕生色"
 date: "2026-09-15"
 updated: "2026-09-15"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "オータムレイク"
 description: "9月15日の誕生色 グリーンティー(98946E)。色言葉は「平穏、余裕、落ち着き」です。相性の良い色はオータムレイクです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiYeBGB5GgnRbYNSuy9AHJBvxRw-uK0e3PGmTup24YEb1MuHta3dBZyUzol8FXZZH8S-gRET3C5jbtGBNMYh6SjgUqFppOabiTrp19qKWTetGZLlBI7WuifvtK9nQDo6mAGxf63O6iL3ay8o06m96G-NSZKtjzmimV__cD3CgIe1yhIaMkx1TfpkAYww3pK=s1600"
 en_name: "Green Tea"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiYeBGB5GgnRbYNSuy9AHJBvxRw-uK0e3PGmTup24YEb1MuHta3dBZyUzol8FXZZH8S-gRET3C5jbtGBNMYh6SjgUqFppOabiTrp19qKWTetGZLlBI7WuifvtK9nQDo6mAGxf63O6iL3ay8o06m96G-NSZKtjzmimV__cD3CgIe1yhIaMkx1TfpkAYww3pK=s1600)
-
 
 ## 9月15日の誕生色: グリーンティー (`#98946E`)
 

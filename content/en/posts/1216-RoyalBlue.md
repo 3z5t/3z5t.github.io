@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEheN1mRtg59k-nMSsqQnjZEaPWbds2yDrboqrBegoA2m43WBSnygzOa8pTHDic1CO3K5mI-sYAm08b6zbMN1E2NCvEtc1eIlynyrPOJIFPYXQjZkDe6xBY7CYRDxkSpe4ZP-0SZR5A6eSvS6QIbeJAfZzrQZ1gJE5pdr1AXTxYRWuBkz8UWT4-8853kQF7U=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Royal Blue, The Birthday Color of December 16"
 date: "2026-12-16"
 updated: "2026-12-16"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "matte gold"
 description: "The birthday color for December 16 is Royal Blue (1B76D8). Its meaning is Profound, Classy, Deep."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEheN1mRtg59k-nMSsqQnjZEaPWbds2yDrboqrBegoA2m43WBSnygzOa8pTHDic1CO3K5mI-sYAm08b6zbMN1E2NCvEtc1eIlynyrPOJIFPYXQjZkDe6xBY7CYRDxkSpe4ZP-0SZR5A6eSvS6QIbeJAfZzrQZ1gJE5pdr1AXTxYRWuBkz8UWT4-8853kQF7U=s1600"
 en_name: "RoyalBlue"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEheN1mRtg59k-nMSsqQnjZEaPWbds2yDrboqrBegoA2m43WBSnygzOa8pTHDic1CO3K5mI-sYAm08b6zbMN1E2NCvEtc1eIlynyrPOJIFPYXQjZkDe6xBY7CYRDxkSpe4ZP-0SZR5A6eSvS6QIbeJAfZzrQZ1gJE5pdr1AXTxYRWuBkz8UWT4-8853kQF7U=s1600)
-
 
 ## Birthday Color for December 16: Royal Blue (`#1B76D8`)
 

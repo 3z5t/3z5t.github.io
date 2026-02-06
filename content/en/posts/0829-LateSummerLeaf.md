@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjFtm5cLw4YtwmwcpIcygx9gtj90sASkagrS3XdiYBG6Jxos2orQYj8qelwxlX6nz8duuVcm49qryfAF1ZcVhOxwU9IE_3pP2nTS8uuUyhm7eBJFGsI5QdRnsRGVzGMCtYdYs1CyIzdUkoAzW233jCcJch3WBiLNJn6MmynlCh0c5-vro_pDOvFDr8px3V8=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Late Summer Leaf, The Birthday Color of August 29"
 date: "2026-08-29"
 updated: "2026-08-29"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "satin gray"
 description: "The birthday color for August 29 is Late Summer Leaf (566353). Its meaning is Mature, Profound, Stable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjFtm5cLw4YtwmwcpIcygx9gtj90sASkagrS3XdiYBG6Jxos2orQYj8qelwxlX6nz8duuVcm49qryfAF1ZcVhOxwU9IE_3pP2nTS8uuUyhm7eBJFGsI5QdRnsRGVzGMCtYdYs1CyIzdUkoAzW233jCcJch3WBiLNJn6MmynlCh0c5-vro_pDOvFDr8px3V8=s1600"
 en_name: "LateSummerLeaf"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjFtm5cLw4YtwmwcpIcygx9gtj90sASkagrS3XdiYBG6Jxos2orQYj8qelwxlX6nz8duuVcm49qryfAF1ZcVhOxwU9IE_3pP2nTS8uuUyhm7eBJFGsI5QdRnsRGVzGMCtYdYs1CyIzdUkoAzW233jCcJch3WBiLNJn6MmynlCh0c5-vro_pDOvFDr8px3V8=s1600)
-
 
 ## Birthday Color for August 29: Late Summer Leaf (`#566353`)
 

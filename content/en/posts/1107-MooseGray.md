@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEijJxsCdnkhDoUw1RMOZkUXUWtfAQ6bQxBxojHTc9lbdrag_dOnONEGFmgeAtf-BuuNF3POcvPWRW5pWnoUYnZ71ngKfBiG0aL2AdT4GvXE9UOuJwp-p3hdjMaVmsyA4-FJAKapNzoXAwT99_rjoFSLh4WxxGYrivWQ8uIPpOxzoLllisnY5J4yI1XRoG06=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Moose Gray, The Birthday Color of November 7"
 date: "2026-11-07"
 updated: "2026-11-07"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "dim gray"
 description: "The birthday color for November 7 is Moose Gray (999999). Its meaning is Moderate, Balanced, Stable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEijJxsCdnkhDoUw1RMOZkUXUWtfAQ6bQxBxojHTc9lbdrag_dOnONEGFmgeAtf-BuuNF3POcvPWRW5pWnoUYnZ71ngKfBiG0aL2AdT4GvXE9UOuJwp-p3hdjMaVmsyA4-FJAKapNzoXAwT99_rjoFSLh4WxxGYrivWQ8uIPpOxzoLllisnY5J4yI1XRoG06=s1600"
 en_name: "MooseGray"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEijJxsCdnkhDoUw1RMOZkUXUWtfAQ6bQxBxojHTc9lbdrag_dOnONEGFmgeAtf-BuuNF3POcvPWRW5pWnoUYnZ71ngKfBiG0aL2AdT4GvXE9UOuJwp-p3hdjMaVmsyA4-FJAKapNzoXAwT99_rjoFSLh4WxxGYrivWQ8uIPpOxzoLllisnY5J4yI1XRoG06=s1600)
-
 
 ## Birthday Color for November 7: Moose Gray (`#999999`)
 

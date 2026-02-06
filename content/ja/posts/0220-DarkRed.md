@@ -1,21 +1,24 @@
 ---
-"title": "ダークレッド、2月20日の誕生色"
-"date": "2026-02-20"
-"updated": "2026-02-20"
-"labels":
-- "ダークレッド"
-- "誕生色"
-- "2月20日"
-- "840C18"
-- "2月"
-- "ベビーブルー"
-"description": "2月20日の誕生色 ダークレッド(840C18)。色言葉は「決断力、意志力、推進力」です。相性の良い色はベビーブルーです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhK63JG1hD7xaeSGgHh1-3gGlzVNaDNHXvRK_jGe3dFoRRugRxf9T74Lq8-OHNjquxYZsCULiR7W9yFe9Gafc5MKfp8A_SrqPWyP0AXEVBFyvmBxIuJf_fPLtUzdWbyznr6SBaNyHUAOeBvX1Z4CzPkU0crZEZsLUiCNojjmcxpnUlprQyFqjVgkDzWioD5=s1600"
-"en_name": "Dark Red"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "6916226921950303469"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/220-dark-red.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhK63JG1hD7xaeSGgHh1-3gGlzVNaDNHXvRK_jGe3dFoRRugRxf9T74Lq8-OHNjquxYZsCULiR7W9yFe9Gafc5MKfp8A_SrqPWyP0AXEVBFyvmBxIuJf_fPLtUzdWbyznr6SBaNyHUAOeBvX1Z4CzPkU0crZEZsLUiCNojjmcxpnUlprQyFqjVgkDzWioD5=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ダークレッド、2月20日の誕生色"
+date: "2026-02-20"
+updated: "2026-02-20"
+tags:
+  - "ダークレッド"
+  - "誕生色"
+  - "2月20日"
+  - "840C18"
+  - "2月"
+  - "ベビーブルー"
+description: "2月20日の誕生色 ダークレッド(840C18)。色言葉は「決断力、意志力、推進力」です。相性の良い色はベビーブルーです。"
+en_name: "Dark Red"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "6916226921950303469"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/220-dark-red.html"
 ---
 
 ## 2月20日の誕生色: ダークレッド (`#840C18`)

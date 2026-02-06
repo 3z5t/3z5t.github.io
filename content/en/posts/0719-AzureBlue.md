@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgUClj9WcEEGLeXnjkr9w2DKpoMebLHOirwztJOAFqRmKWP_Qe6uqtwl7E29Y1UPTuUIr1uSXUFfUrvzh-N5MFMUypR6ndx774MIs3h_GifxCaJTpJ4FiU06tSF5BAtSsdawQdGcVQmpU5F8z4vjhbsbOhmB5ayP6-N9rDNPTDgiJVnPXfZqDrAXQuR-v85=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Azure Blue, The Birthday Color of July 19"
 date: "2026-07-19"
 updated: "2026-07-19"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "carrot"
 description: "The birthday color for July 19 is Azure Blue (1E90FF). Its meaning is Cool Personality, Clear, Lively."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgUClj9WcEEGLeXnjkr9w2DKpoMebLHOirwztJOAFqRmKWP_Qe6uqtwl7E29Y1UPTuUIr1uSXUFfUrvzh-N5MFMUypR6ndx774MIs3h_GifxCaJTpJ4FiU06tSF5BAtSsdawQdGcVQmpU5F8z4vjhbsbOhmB5ayP6-N9rDNPTDgiJVnPXfZqDrAXQuR-v85=s1600"
 en_name: "AzureBlue"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgUClj9WcEEGLeXnjkr9w2DKpoMebLHOirwztJOAFqRmKWP_Qe6uqtwl7E29Y1UPTuUIr1uSXUFfUrvzh-N5MFMUypR6ndx774MIs3h_GifxCaJTpJ4FiU06tSF5BAtSsdawQdGcVQmpU5F8z4vjhbsbOhmB5ayP6-N9rDNPTDgiJVnPXfZqDrAXQuR-v85=s1600)
-
 
 ## Birthday Color for July 19: Azure Blue (`#1E90FF`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgxryA4_A1RghMtfki1CmSMSWMsYVhDAbQC5EqV8uVsOHFOnRZo3Mywsif3NH9rBFuIt0NPwS2EtEA5ohmhsEXrUisPLdpxrHo6u-cdF_3swlPDFhKzqhzMxXSseFuKb-WBa5lsr0AqRPr0eZ4rEfNlCRVhgUjPgLap7toBYZuGjGWmFp4qmZgG02OfJhiC=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "French Beige, The Birthday Color of December 20"
 date: "2026-12-20"
 updated: "2026-12-20"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "deep ocean blue"
 description: "The birthday color for December 20 is French Beige (D6A680). Its meaning is Warm Character, Cozy, Affectionate."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgxryA4_A1RghMtfki1CmSMSWMsYVhDAbQC5EqV8uVsOHFOnRZo3Mywsif3NH9rBFuIt0NPwS2EtEA5ohmhsEXrUisPLdpxrHo6u-cdF_3swlPDFhKzqhzMxXSseFuKb-WBa5lsr0AqRPr0eZ4rEfNlCRVhgUjPgLap7toBYZuGjGWmFp4qmZgG02OfJhiC=s1600"
 en_name: "FrenchBeige"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgxryA4_A1RghMtfki1CmSMSWMsYVhDAbQC5EqV8uVsOHFOnRZo3Mywsif3NH9rBFuIt0NPwS2EtEA5ohmhsEXrUisPLdpxrHo6u-cdF_3swlPDFhKzqhzMxXSseFuKb-WBa5lsr0AqRPr0eZ4rEfNlCRVhgUjPgLap7toBYZuGjGWmFp4qmZgG02OfJhiC=s1600)
-
 
 ## Birthday Color for December 20: French Beige (`#D6A680`)
 

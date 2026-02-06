@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEih_8UzuRHMdK1Zpr5ffI06ypnGklV2bdRRgqJsgD5u1d0_wSd0VHXjpENsmJgvTvG-YGFJDS9Zzt-qsNPP9vIbM8iPOMEBhB8el18Exo0qcHYURdyCwb_2rGvnvVP_LKAiAW39OqDqAxE-qeQKQPx07EG2unFb-bLrJGbN_uWfSZGTT3H4Ydj_a6V3YKGx=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ホイップクリーム、8月6日の誕生色"
 date: "2026-08-06"
 updated: "2026-08-06"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "ミッドナイト"
 description: "8月6日の誕生色 ホイップクリーム(DFDCDD)。色言葉は「純粋、柔らかさ、清潔」です。相性の良い色はミッドナイトです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEih_8UzuRHMdK1Zpr5ffI06ypnGklV2bdRRgqJsgD5u1d0_wSd0VHXjpENsmJgvTvG-YGFJDS9Zzt-qsNPP9vIbM8iPOMEBhB8el18Exo0qcHYURdyCwb_2rGvnvVP_LKAiAW39OqDqAxE-qeQKQPx07EG2unFb-bLrJGbN_uWfSZGTT3H4Ydj_a6V3YKGx=s1600"
 en_name: "Whipped Cream"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEih_8UzuRHMdK1Zpr5ffI06ypnGklV2bdRRgqJsgD5u1d0_wSd0VHXjpENsmJgvTvG-YGFJDS9Zzt-qsNPP9vIbM8iPOMEBhB8el18Exo0qcHYURdyCwb_2rGvnvVP_LKAiAW39OqDqAxE-qeQKQPx07EG2unFb-bLrJGbN_uWfSZGTT3H4Ydj_a6V3YKGx=s1600)
-
 
 ## 8月6日の誕生色: ホイップクリーム (`#DFDCDD`)
 

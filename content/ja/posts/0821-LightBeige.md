@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjqzvVzIhZBv-KKmDbNiEHRlp5w50j8GUN55z9A-a6H9kyXatLoUbCcEuJ6xNdgPCBhJXgW-8ls_0A7U2FGtpQhRpnvyhIkwBQRJ5KFmMu8LisUgczPNevtR1zjhOn48vor9MWjvFtiw9UHV3Dooxk9TtytOjPSMdJC-5idulWQrenslbmDPDofiYT3ciQq=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ライトベージュ、8月21日の誕生色"
 date: "2026-08-21"
 updated: "2026-08-21"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "ヴィンテージネイビー"
 description: "8月21日の誕生色 ライトベージュ(C1A99B)。色言葉は「柔らかい性格、温和、優しさ」です。相性の良い色はヴィンテージネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjqzvVzIhZBv-KKmDbNiEHRlp5w50j8GUN55z9A-a6H9kyXatLoUbCcEuJ6xNdgPCBhJXgW-8ls_0A7U2FGtpQhRpnvyhIkwBQRJ5KFmMu8LisUgczPNevtR1zjhOn48vor9MWjvFtiw9UHV3Dooxk9TtytOjPSMdJC-5idulWQrenslbmDPDofiYT3ciQq=s1600"
 en_name: "Light Beige"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjqzvVzIhZBv-KKmDbNiEHRlp5w50j8GUN55z9A-a6H9kyXatLoUbCcEuJ6xNdgPCBhJXgW-8ls_0A7U2FGtpQhRpnvyhIkwBQRJ5KFmMu8LisUgczPNevtR1zjhOn48vor9MWjvFtiw9UHV3Dooxk9TtytOjPSMdJC-5idulWQrenslbmDPDofiYT3ciQq=s1600)
-
 
 ## 8月21日の誕生色: ライトベージュ (`#C1A99B`)
 

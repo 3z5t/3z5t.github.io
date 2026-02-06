@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh4I9lYbVd-uEf8eQ0KgnCJs1Ym25P69_nPwLvQEfF_Y1prP6Pdlg7AE262wWnd-tNr4HK-NyjWiNVk-xc8Dbh4qZH3YjdZ1wsRLxctX1lwpXnNkCMW5YuX7--dEAqluHUPuAvPAP8dZi17eMBocnEVOmYTFaxkVBi0Xsw-8mXMXRtD7HVEj8gKIAsnOmHr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープパインフォレスト、3月11日の誕生色"
 date: "2026-03-11"
 updated: "2026-03-11"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "マゼンタバイオレット"
 description: "3月11日の誕生色 ディープパインフォレスト(006400)。色言葉は「永続性、伝統的、信頼性」です。相性の良い色はマゼンタバイオレットです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh4I9lYbVd-uEf8eQ0KgnCJs1Ym25P69_nPwLvQEfF_Y1prP6Pdlg7AE262wWnd-tNr4HK-NyjWiNVk-xc8Dbh4qZH3YjdZ1wsRLxctX1lwpXnNkCMW5YuX7--dEAqluHUPuAvPAP8dZi17eMBocnEVOmYTFaxkVBi0Xsw-8mXMXRtD7HVEj8gKIAsnOmHr=s1600"
 en_name: "Deep Pine Forest"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh4I9lYbVd-uEf8eQ0KgnCJs1Ym25P69_nPwLvQEfF_Y1prP6Pdlg7AE262wWnd-tNr4HK-NyjWiNVk-xc8Dbh4qZH3YjdZ1wsRLxctX1lwpXnNkCMW5YuX7--dEAqluHUPuAvPAP8dZi17eMBocnEVOmYTFaxkVBi0Xsw-8mXMXRtD7HVEj8gKIAsnOmHr=s1600)
-
 
 ## 3月11日の誕生色: ディープパインフォレスト (`#006400`)
 

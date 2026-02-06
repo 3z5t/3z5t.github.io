@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjK700GMi4AnYD1lP-YgkSjrNYyIIkm60GJhTMhebHjjjTqP0LLX6mqPNnV5VrGRI3NQHU2LBh5MvF7cxXs3TjciXbkBw5l1wrsnJBVQ-WozIc3P61iZc9-3umTe39WvTv5Ql-VppC_rH5xSaoru1VWjU0-5tXm3UAdsv3AzVF1VgmDk67EcutX6UJhDnRA=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ダスティパープル、11月4日の誕生色"
 date: "2026-11-04"
 updated: "2026-11-04"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "ソフトオリーブ"
 description: "11月4日の誕生色 ダスティパープル(746B7A)。色言葉は「品位、優雅、ほのかな魅力」です。相性の良い色はソフトオリーブです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjK700GMi4AnYD1lP-YgkSjrNYyIIkm60GJhTMhebHjjjTqP0LLX6mqPNnV5VrGRI3NQHU2LBh5MvF7cxXs3TjciXbkBw5l1wrsnJBVQ-WozIc3P61iZc9-3umTe39WvTv5Ql-VppC_rH5xSaoru1VWjU0-5tXm3UAdsv3AzVF1VgmDk67EcutX6UJhDnRA=s1600"
 en_name: "Dusty Purple"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjK700GMi4AnYD1lP-YgkSjrNYyIIkm60GJhTMhebHjjjTqP0LLX6mqPNnV5VrGRI3NQHU2LBh5MvF7cxXs3TjciXbkBw5l1wrsnJBVQ-WozIc3P61iZc9-3umTe39WvTv5Ql-VppC_rH5xSaoru1VWjU0-5tXm3UAdsv3AzVF1VgmDk67EcutX6UJhDnRA=s1600)
-
 
 ## 11月4日の誕生色: ダスティパープル (`#746B7A`)
 

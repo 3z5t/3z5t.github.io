@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjHTQG28yXCAh2KUmWCv6Q8Mws4jDcJYrLPINCfe0qtAAp0tCHpaDOr5eTvPGsAXFqYLs53NCSxF1Kr0nMdnaYRzlPAOCkEeKRkPBHymy4I3HnCSX8SncdlK1axrWXBH-Mnr6wsNXc2kFZn4xyfybqPwLYOjlxh7gpkWhwRJqA_55A40seEdv9WQVXafY22=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "サンドピンク、3月30日の誕生色"
 date: "2026-03-30"
 updated: "2026-03-30"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "スチールネイビー"
 description: "3月30日の誕生色 サンドピンク(F5C4AC)。色言葉は「温かさ、包容力、穏やか」です。相性の良い色はスチールネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjHTQG28yXCAh2KUmWCv6Q8Mws4jDcJYrLPINCfe0qtAAp0tCHpaDOr5eTvPGsAXFqYLs53NCSxF1Kr0nMdnaYRzlPAOCkEeKRkPBHymy4I3HnCSX8SncdlK1axrWXBH-Mnr6wsNXc2kFZn4xyfybqPwLYOjlxh7gpkWhwRJqA_55A40seEdv9WQVXafY22=s1600"
 en_name: "Sand Pink"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjHTQG28yXCAh2KUmWCv6Q8Mws4jDcJYrLPINCfe0qtAAp0tCHpaDOr5eTvPGsAXFqYLs53NCSxF1Kr0nMdnaYRzlPAOCkEeKRkPBHymy4I3HnCSX8SncdlK1axrWXBH-Mnr6wsNXc2kFZn4xyfybqPwLYOjlxh7gpkWhwRJqA_55A40seEdv9WQVXafY22=s1600)
-
 
 ## 3月30日の誕生色: サンドピンク (`#F5C4AC`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiCFeFRheIC3e34uzwR8k5ep_LzSZTNzKPxqAmBNNhFDM_yv_OyzKnqNSthBLePJ1cBOHspAvxXHAIAWSWXMEnQavDg4R0Inl18OC39Py5UAp4RTU8meFO-zbjriGbEA1fq6L1IYeXuU7RvqyjXnr4TXKuUUfVaSCETN4p_SiWRRJT42e8TsAyEszBV1NbN=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "キングブラウン、9月27日の誕生色"
 date: "2026-09-27"
 updated: "2026-09-27"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ダークターコイズ"
 description: "9月27日の誕生色 キングブラウン(A86248)。色言葉は「威厳、品格、リーダーシップ」です。相性の良い色はダークターコイズです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiCFeFRheIC3e34uzwR8k5ep_LzSZTNzKPxqAmBNNhFDM_yv_OyzKnqNSthBLePJ1cBOHspAvxXHAIAWSWXMEnQavDg4R0Inl18OC39Py5UAp4RTU8meFO-zbjriGbEA1fq6L1IYeXuU7RvqyjXnr4TXKuUUfVaSCETN4p_SiWRRJT42e8TsAyEszBV1NbN=s1600"
 en_name: "King Brown"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiCFeFRheIC3e34uzwR8k5ep_LzSZTNzKPxqAmBNNhFDM_yv_OyzKnqNSthBLePJ1cBOHspAvxXHAIAWSWXMEnQavDg4R0Inl18OC39Py5UAp4RTU8meFO-zbjriGbEA1fq6L1IYeXuU7RvqyjXnr4TXKuUUfVaSCETN4p_SiWRRJT42e8TsAyEszBV1NbN=s1600)
-
 
 ## 9月27日の誕生色: キングブラウン (`#A86248`)
 

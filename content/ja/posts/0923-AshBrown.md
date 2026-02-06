@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgtUADzMmO8RNZHIv1szdbAMo46teEZGRPSiISSGku1DzQtq0V-4Nla790IC9NZ8dPy9l_A2Yruzdot5HaqKk8UYogvaaD7PR_xb7cbqnRPymDgiOWVbUmcdmzVZec8sKuaAHXt3bUALE26fS7Cd2PamVq9AZFRiJhlr50vdpio1m9gUDyLIfxPuCIJIv5z=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アッシュブラウン、9月23日の誕生色"
 date: "2026-09-23"
 updated: "2026-09-23"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "シルバーブルー"
 description: "9月23日の誕生色 アッシュブラウン(534E4B)。色言葉は「安定感、バランスの取れた、落ち着き」です。相性の良い色はシルバーブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgtUADzMmO8RNZHIv1szdbAMo46teEZGRPSiISSGku1DzQtq0V-4Nla790IC9NZ8dPy9l_A2Yruzdot5HaqKk8UYogvaaD7PR_xb7cbqnRPymDgiOWVbUmcdmzVZec8sKuaAHXt3bUALE26fS7Cd2PamVq9AZFRiJhlr50vdpio1m9gUDyLIfxPuCIJIv5z=s1600"
 en_name: "Ash Brown"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgtUADzMmO8RNZHIv1szdbAMo46teEZGRPSiISSGku1DzQtq0V-4Nla790IC9NZ8dPy9l_A2Yruzdot5HaqKk8UYogvaaD7PR_xb7cbqnRPymDgiOWVbUmcdmzVZec8sKuaAHXt3bUALE26fS7Cd2PamVq9AZFRiJhlr50vdpio1m9gUDyLIfxPuCIJIv5z=s1600)
-
 
 ## 9月23日の誕生色: アッシュブラウン (`#534E4B`)
 

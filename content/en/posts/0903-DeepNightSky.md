@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjzWTUAhCck-paMO7nJKH7fR-SONuKOu4sKkgjOnva6nOWbYDcpfeQqzScTbaKmJbtJXAdf_xpoeshwKXq5NGvCUGqWHwicCgDvr-jFAq03wss1XFvZwUKqqoa_vlT_0OIgasDuqLV6phNPNt_Hq7ryUX5pPdHdekScKEFjRmuqni87g16DDC-ULpi76ukk=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Night Sky, The Birthday Color of September 3"
 date: "2026-09-03"
 updated: "2026-09-03"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "antique ivory"
 description: "The birthday color for September 3 is Deep Night Sky (142029). Its meaning is Insightful, Mysterious, Contemplative."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjzWTUAhCck-paMO7nJKH7fR-SONuKOu4sKkgjOnva6nOWbYDcpfeQqzScTbaKmJbtJXAdf_xpoeshwKXq5NGvCUGqWHwicCgDvr-jFAq03wss1XFvZwUKqqoa_vlT_0OIgasDuqLV6phNPNt_Hq7ryUX5pPdHdekScKEFjRmuqni87g16DDC-ULpi76ukk=s1600"
 en_name: "DeepNightSky"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjzWTUAhCck-paMO7nJKH7fR-SONuKOu4sKkgjOnva6nOWbYDcpfeQqzScTbaKmJbtJXAdf_xpoeshwKXq5NGvCUGqWHwicCgDvr-jFAq03wss1XFvZwUKqqoa_vlT_0OIgasDuqLV6phNPNt_Hq7ryUX5pPdHdekScKEFjRmuqni87g16DDC-ULpi76ukk=s1600)
-
 
 ## Birthday Color for September 3: Deep Night Sky (`#142029`)
 

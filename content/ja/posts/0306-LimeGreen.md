@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjJ29GYYFQHVT0HKUKHO6mHykqRGe7qDIbST6H5Hn_lv3jpj5pvbaROMejnRgC39myJcFuDk7KY3mz4yMPwLsPxfPu82gXhvM7w-TjG7by5njpzYmJ6K37pmeuHJ3guMRCKFbyygXrEmoUBHl5qlmeEbMmfSH2V3cSt3jdwcYib8mqnHmwKWZE4Liqm9fBr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ライムグリーン、3月6日の誕生色"
 date: "2026-03-06"
 updated: "2026-03-06"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "オーキッドパープル"
 description: "3月6日の誕生色 ライムグリーン(6EAD5C)。色言葉は「生命力、創造性、豊かさ」です。相性の良い色はオーキッドパープルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjJ29GYYFQHVT0HKUKHO6mHykqRGe7qDIbST6H5Hn_lv3jpj5pvbaROMejnRgC39myJcFuDk7KY3mz4yMPwLsPxfPu82gXhvM7w-TjG7by5njpzYmJ6K37pmeuHJ3guMRCKFbyygXrEmoUBHl5qlmeEbMmfSH2V3cSt3jdwcYib8mqnHmwKWZE4Liqm9fBr=s1600"
 en_name: "Lime Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjJ29GYYFQHVT0HKUKHO6mHykqRGe7qDIbST6H5Hn_lv3jpj5pvbaROMejnRgC39myJcFuDk7KY3mz4yMPwLsPxfPu82gXhvM7w-TjG7by5njpzYmJ6K37pmeuHJ3guMRCKFbyygXrEmoUBHl5qlmeEbMmfSH2V3cSt3jdwcYib8mqnHmwKWZE4Liqm9fBr=s1600)
-
 
 ## 3月6日の誕生色: ライムグリーン (`#6EAD5C`)
 

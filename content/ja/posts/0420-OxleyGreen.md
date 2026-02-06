@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh_01SAPOMgt018aD_lxFs_qVCmAIrBwVxDAyQQ2TXrRHH8RwUHzwqEsPxR66K55h12Bx3Yvu0YqfQpDnTOz-qEje498CGFSdLjIs_wKh6nR3qrSnPj9Fxa7RJS8eLHkDUJz76cTg06NXjtyY50f-tCe5aPYjBqDGZMI7Eo7xzD9EjBenFwtK6oUmszQG8H=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "オクスリーグリーン、4月20日の誕生色"
 date: "2026-04-20"
 updated: "2026-04-20"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "オーキッドパープル"
 description: "4月20日の誕生色 オクスリーグリーン(669966)。色言葉は「安定感、成熟、平和」です。相性の良い色はオーキッドパープルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh_01SAPOMgt018aD_lxFs_qVCmAIrBwVxDAyQQ2TXrRHH8RwUHzwqEsPxR66K55h12Bx3Yvu0YqfQpDnTOz-qEje498CGFSdLjIs_wKh6nR3qrSnPj9Fxa7RJS8eLHkDUJz76cTg06NXjtyY50f-tCe5aPYjBqDGZMI7Eo7xzD9EjBenFwtK6oUmszQG8H=s1600"
 en_name: "Oxley Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh_01SAPOMgt018aD_lxFs_qVCmAIrBwVxDAyQQ2TXrRHH8RwUHzwqEsPxR66K55h12Bx3Yvu0YqfQpDnTOz-qEje498CGFSdLjIs_wKh6nR3qrSnPj9Fxa7RJS8eLHkDUJz76cTg06NXjtyY50f-tCe5aPYjBqDGZMI7Eo7xzD9EjBenFwtK6oUmszQG8H=s1600)
-
 
 ## 4月20日の誕生色: オクスリーグリーン (`#669966`)
 

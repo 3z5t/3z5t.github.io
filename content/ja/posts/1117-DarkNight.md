@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj4ybYr8org743-wpa_N4HB9h_x2erew55s3IwU4Zz7ihmOTuv6wrYiEcUqyePqJ_jpzFl5lvIR5_18Fth4J2fLhAvWLmml3slMD6m0xiXxMnJax-bfCq5CS1qck2fg4GhUbjLcu30N_UGst_YB4RmaaIiQafYdPLffSDZ3-5mKstCBLH0G06nuuLhBq1DP=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ダークナイト、11月17日の誕生色"
 date: "2026-11-17"
 updated: "2026-11-17"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "クラウドグレー"
 description: "11月17日の誕生色 ダークナイト(2A2333)。色言葉は「瞑想的、思索する、神秘的」です。相性の良い色はクラウドグレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj4ybYr8org743-wpa_N4HB9h_x2erew55s3IwU4Zz7ihmOTuv6wrYiEcUqyePqJ_jpzFl5lvIR5_18Fth4J2fLhAvWLmml3slMD6m0xiXxMnJax-bfCq5CS1qck2fg4GhUbjLcu30N_UGst_YB4RmaaIiQafYdPLffSDZ3-5mKstCBLH0G06nuuLhBq1DP=s1600"
 en_name: "Dark Night"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj4ybYr8org743-wpa_N4HB9h_x2erew55s3IwU4Zz7ihmOTuv6wrYiEcUqyePqJ_jpzFl5lvIR5_18Fth4J2fLhAvWLmml3slMD6m0xiXxMnJax-bfCq5CS1qck2fg4GhUbjLcu30N_UGst_YB4RmaaIiQafYdPLffSDZ3-5mKstCBLH0G06nuuLhBq1DP=s1600)
-
 
 ## 11月17日の誕生色: ダークナイト (`#2A2333`)
 

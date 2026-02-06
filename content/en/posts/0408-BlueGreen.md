@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh2KnuOw7DGgLlf9ogyLYEXgHGQvHwmU6cIfreUyer0ExcQKueRJVBD22nydzhUWQOtFowAzim-3cvuRwzAIPdKqchQcCNn5_veXGsUAD32AxCeYocD4SEYFMMjbM2tRt5WjxVwa1kJuRdTVEGrVwk36mhH6pc6BGWSMZDBUCqjMfwX4jp9n1KpiQOMbE1p=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Blue Green, The Birthday Color of April 8"
 date: "2026-04-08"
 updated: "2026-04-08"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "plum"
 description: "The birthday color for April 8 is Blue Green (30BA8F). Its meaning is Harmonious, Balanced, Stability."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh2KnuOw7DGgLlf9ogyLYEXgHGQvHwmU6cIfreUyer0ExcQKueRJVBD22nydzhUWQOtFowAzim-3cvuRwzAIPdKqchQcCNn5_veXGsUAD32AxCeYocD4SEYFMMjbM2tRt5WjxVwa1kJuRdTVEGrVwk36mhH6pc6BGWSMZDBUCqjMfwX4jp9n1KpiQOMbE1p=s1600"
 en_name: "BlueGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh2KnuOw7DGgLlf9ogyLYEXgHGQvHwmU6cIfreUyer0ExcQKueRJVBD22nydzhUWQOtFowAzim-3cvuRwzAIPdKqchQcCNn5_veXGsUAD32AxCeYocD4SEYFMMjbM2tRt5WjxVwa1kJuRdTVEGrVwk36mhH6pc6BGWSMZDBUCqjMfwX4jp9n1KpiQOMbE1p=s1600)
-
 
 ## Birthday Color for April 8: Blue Green (`#30BA8F`)
 

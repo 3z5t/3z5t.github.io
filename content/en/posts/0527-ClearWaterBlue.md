@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhjXIBaP4YYkPM25Ia6GOgjAUEoefyHfx-8TuOskRvAAnQDBQGIzdyflOzc-J9rKsqod1JUVqiOwrS-_nb4GJKEpbClR2S4lNBFoktuLo5ytq-aROyAAqEAFXGI6A1FPBxj3M0ynj6Od7Lel5F7aJUN_Hgg8PcU_vhVSwRt1Sj3qwZhB82UifOog_5ZugQM=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Clear Water Blue, The Birthday Color of May 27"
 date: "2026-05-27"
 updated: "2026-05-27"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "brandy punch"
 description: "The birthday color for May 27 is Clear Water Blue (3A8299). Its meaning is Clear Mind, Pure, Peaceful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhjXIBaP4YYkPM25Ia6GOgjAUEoefyHfx-8TuOskRvAAnQDBQGIzdyflOzc-J9rKsqod1JUVqiOwrS-_nb4GJKEpbClR2S4lNBFoktuLo5ytq-aROyAAqEAFXGI6A1FPBxj3M0ynj6Od7Lel5F7aJUN_Hgg8PcU_vhVSwRt1Sj3qwZhB82UifOog_5ZugQM=s1600"
 en_name: "ClearWaterBlue"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhjXIBaP4YYkPM25Ia6GOgjAUEoefyHfx-8TuOskRvAAnQDBQGIzdyflOzc-J9rKsqod1JUVqiOwrS-_nb4GJKEpbClR2S4lNBFoktuLo5ytq-aROyAAqEAFXGI6A1FPBxj3M0ynj6Od7Lel5F7aJUN_Hgg8PcU_vhVSwRt1Sj3qwZhB82UifOog_5ZugQM=s1600)
-
 
 ## Birthday Color for May 27: Clear Water Blue (`#3A8299`)
 

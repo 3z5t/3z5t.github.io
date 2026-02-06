@@ -1,21 +1,24 @@
 ---
-"title": "Pale Magenta, The Birthday Color of February 13"
-"date": "2026-02-13"
-"updated": "2026-02-13"
-"labels":
-- "pale magenta"
-- "birthday color"
-- "february 13"
-- "61368d"
-- "february"
-- "soft melon"
-"description": "The birthday color for February 13 is Pale Magenta (61368D). Its meaning is Romantic, Emotional, Artistic."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEggZoY33YN7LiAbXHTLWhr4Uq3fLRY8Abd5j7Ms2jPxaNe_m550V2JVtnTohjkNJ7iEnLFaTlntLYDFxOfGMvUKgxQBbnboHV9RiRmvl0C6TEoYW_cIpvfVUAG-CYZLYgyCu7ttKiQ1FfyPTENC5SoeBQ7xiCow0kG4J4sLrpLMcc4bUnawkMTDN2_kJJ5h=s1600"
-"en_name": "PaleMagenta"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "4356086856551370083"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/pale-magenta-birthday-color-of-february.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEggZoY33YN7LiAbXHTLWhr4Uq3fLRY8Abd5j7Ms2jPxaNe_m550V2JVtnTohjkNJ7iEnLFaTlntLYDFxOfGMvUKgxQBbnboHV9RiRmvl0C6TEoYW_cIpvfVUAG-CYZLYgyCu7ttKiQ1FfyPTENC5SoeBQ7xiCow0kG4J4sLrpLMcc4bUnawkMTDN2_kJJ5h=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Pale Magenta, The Birthday Color of February 13"
+date: "2026-02-13"
+updated: "2026-02-13"
+tags:
+  - "pale magenta"
+  - "birthday color"
+  - "february 13"
+  - "61368d"
+  - "february"
+  - "soft melon"
+description: "The birthday color for February 13 is Pale Magenta (61368D). Its meaning is Romantic, Emotional, Artistic."
+en_name: "PaleMagenta"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "4356086856551370083"
+postUrl: "https://the366days-en.blogspot.com/2026/02/pale-magenta-birthday-color-of-february.html"
 ---
 
 ## Birthday Color for February 13: Pale Magenta (`#61368D`)

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg1Bg3zW5Q7ew3UyIEHmFenLLR4YnoB57xf2R7R9VEcnj2o3x5-pcRwXifWPHKfq8UfEzNhtTK-1Xy9LoT1CLZmCBttPfbqLNN3mU_9i_FGdyZfQs4Q7cBtbXORyiE8NDgEfzbjsOB1hrhtEk7BkR06weOXhoRt96C18wXzFIu3-vus4dfoterAkHPRDnSC=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Winter Leaves, The Birthday Color of November 12"
 date: "2026-11-12"
 updated: "2026-11-12"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "moose gray"
 description: "The birthday color for November 12 is Winter Leaves (706863). Its meaning is Knowing Longing, Sentimental, Lyrical."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg1Bg3zW5Q7ew3UyIEHmFenLLR4YnoB57xf2R7R9VEcnj2o3x5-pcRwXifWPHKfq8UfEzNhtTK-1Xy9LoT1CLZmCBttPfbqLNN3mU_9i_FGdyZfQs4Q7cBtbXORyiE8NDgEfzbjsOB1hrhtEk7BkR06weOXhoRt96C18wXzFIu3-vus4dfoterAkHPRDnSC=s1600"
 en_name: "WinterLeaves"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg1Bg3zW5Q7ew3UyIEHmFenLLR4YnoB57xf2R7R9VEcnj2o3x5-pcRwXifWPHKfq8UfEzNhtTK-1Xy9LoT1CLZmCBttPfbqLNN3mU_9i_FGdyZfQs4Q7cBtbXORyiE8NDgEfzbjsOB1hrhtEk7BkR06weOXhoRt96C18wXzFIu3-vus4dfoterAkHPRDnSC=s1600)
-
 
 ## Birthday Color for November 12: Winter Leaves (`#706863`)
 

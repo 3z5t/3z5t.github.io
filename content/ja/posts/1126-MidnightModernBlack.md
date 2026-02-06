@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiAWZ_3VWsePyiF-MvCsN18GwOgq0wFr4bWwCU_qgsYs9MfR6z6CisTuOtP0ec76Aa-XRxN0SqdSTw8uwEcvNy9DGaFkOjD81lHzeTZhCfGXl5AID3MT2pQGe813EOGxqOo4ynVOV1A8ztvx8H5mBiLtoe8105twJBBmNJhPSiMbuAmkWqciqKf61g1HgaG=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ミッドナイトモダンブラック、11月26日の誕生色"
 date: "2026-11-26"
 updated: "2026-11-26"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "ピュアシルバー"
 description: "11月26日の誕生色 ミッドナイトモダンブラック(1A1A1B)。色言葉は「現代的、洗練、シンプル」です。相性の良い色はピュアシルバーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiAWZ_3VWsePyiF-MvCsN18GwOgq0wFr4bWwCU_qgsYs9MfR6z6CisTuOtP0ec76Aa-XRxN0SqdSTw8uwEcvNy9DGaFkOjD81lHzeTZhCfGXl5AID3MT2pQGe813EOGxqOo4ynVOV1A8ztvx8H5mBiLtoe8105twJBBmNJhPSiMbuAmkWqciqKf61g1HgaG=s1600"
 en_name: "Midnight Modern Black"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiAWZ_3VWsePyiF-MvCsN18GwOgq0wFr4bWwCU_qgsYs9MfR6z6CisTuOtP0ec76Aa-XRxN0SqdSTw8uwEcvNy9DGaFkOjD81lHzeTZhCfGXl5AID3MT2pQGe813EOGxqOo4ynVOV1A8ztvx8H5mBiLtoe8105twJBBmNJhPSiMbuAmkWqciqKf61g1HgaG=s1600)
-
 
 ## 11月26日の誕生色: ミッドナイトモダンブラック (`#1A1A1B`)
 

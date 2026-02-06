@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg0c5RtepCiotbS-rhbH48uivzYBS_mB3IHSFrio3VmpkwCLT2OY1Uj_QGgyu52MBntr1RO4gDI2Oco-qWPTCW1rmCwtBnPDRv5CSIjWv2wNiDZ1amWNI_zH2R4XK2XLYvol4HOs7d3OZKuChFfQ5UZPrxYeKnkvLWUqaSjQPECnhbALICmDuOFxiQPGgQd=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "カリビアングリーン、4月4日の誕生色"
 date: "2026-04-04"
 updated: "2026-04-04"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "コーラルレッド"
 description: "4月4日の誕生色 カリビアングリーン(00CC99)。色言葉は「冒険心、自由、開拓精神」です。相性の良い色はコーラルレッドです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg0c5RtepCiotbS-rhbH48uivzYBS_mB3IHSFrio3VmpkwCLT2OY1Uj_QGgyu52MBntr1RO4gDI2Oco-qWPTCW1rmCwtBnPDRv5CSIjWv2wNiDZ1amWNI_zH2R4XK2XLYvol4HOs7d3OZKuChFfQ5UZPrxYeKnkvLWUqaSjQPECnhbALICmDuOFxiQPGgQd=s1600"
 en_name: "Caribbean Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg0c5RtepCiotbS-rhbH48uivzYBS_mB3IHSFrio3VmpkwCLT2OY1Uj_QGgyu52MBntr1RO4gDI2Oco-qWPTCW1rmCwtBnPDRv5CSIjWv2wNiDZ1amWNI_zH2R4XK2XLYvol4HOs7d3OZKuChFfQ5UZPrxYeKnkvLWUqaSjQPECnhbALICmDuOFxiQPGgQd=s1600)
-
 
 ## 4月4日の誕生色: カリビアングリーン (`#00CC99`)
 

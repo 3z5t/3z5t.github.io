@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-13'
-description: 1月13日の誕生色 ダークブルー(00008B)。色言葉は「洞察力、思索的、賢明」です。相性の良い色はバナナです。
-en_name: Dark Blue
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjyxX51WbWZ9KU7a2SuKBj6KLz-F1Elk__E45AHVbyyOoQn-TVOzrRBbuk55SngVtjo1TP-knOUW_yO0-SnrP9uy8Yiatq2lPyYaMqT9Uz-LaHrg2vENszLHN2Fe02MKhg0Dusn0UhrWC4qPgdk3p5Lq85ziQzd1orgCcG82eWKGGRshl-Kd2E7b3oN9rBs=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-13"
+description: "1月13日の誕生色 ダークブルー(00008B)。色言葉は「洞察力、思索的、賢明」です。相性の良い色はバナナです。"
+en_name: "Dark Blue"
 tags:
-- ダークブルー
-- 誕生色
-- 1月13日
-- 00008B
-- 1月
-- バナナ
-postId: '1567535835787084572'
-postUrl: https://the366days-ja.blogspot.com/2026/01/113-dark-blue.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEjyxX51WbWZ9KU7a2SuKBj6KLz-F1Elk__E45AHVbyyOoQn-TVOzrRBbuk55SngVtjo1TP-knOUW_yO0-SnrP9uy8Yiatq2lPyYaMqT9Uz-LaHrg2vENszLHN2Fe02MKhg0Dusn0UhrWC4qPgdk3p5Lq85ziQzd1orgCcG82eWKGGRshl-Kd2E7b3oN9rBs=s1600
-title: ダークブルー、1月13日の誕生色
-updated: '2026-01-13'
+  - "ダークブルー"
+  - "誕生色"
+  - "1月13日"
+  - "00008B"
+  - "1月"
+  - "バナナ"
+postId: "1567535835787084572"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/113-dark-blue.html"
+profileName: "日々のカケラ"
+title: "ダークブルー、1月13日の誕生色"
+updated: "2026-01-13"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjyxX51WbWZ9KU7a2SuKBj6KLz-F1Elk__E45AHVbyyOoQn-TVOzrRBbuk55SngVtjo1TP-knOUW_yO0-SnrP9uy8Yiatq2lPyYaMqT9Uz-LaHrg2vENszLHN2Fe02MKhg0Dusn0UhrWC4qPgdk3p5Lq85ziQzd1orgCcG82eWKGGRshl-Kd2E7b3oN9rBs=s1600)
-
 
 ## 1月13日の誕生色: ダークブルー (`#00008B`)
 

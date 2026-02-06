@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgRKTFaDxCFlJ6xcfHYQuMoEMc_PKUtb5yKA9tBCTugTMbIcPHW5pkT6ZLKgMBIdohwqRRPzQS3MuBvtux65W-PefWr53Gf2QK0NR3svH_i_fUK7NwqNOJxixQMIyKPviofMubcQWVksecTVPqyhTEf1NT0NjoISrDx7Z24FRdHgs3QUHGSAXFxJ5vxXrCN=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Lime Green, The Birthday Color of March 6"
 date: "2026-03-06"
 updated: "2026-03-06"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "orchid purple"
 description: "The birthday color for March 6 is Lime Green (6EAD5C). Its meaning is Vitality, Creativity, Abundance."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgRKTFaDxCFlJ6xcfHYQuMoEMc_PKUtb5yKA9tBCTugTMbIcPHW5pkT6ZLKgMBIdohwqRRPzQS3MuBvtux65W-PefWr53Gf2QK0NR3svH_i_fUK7NwqNOJxixQMIyKPviofMubcQWVksecTVPqyhTEf1NT0NjoISrDx7Z24FRdHgs3QUHGSAXFxJ5vxXrCN=s1600"
 en_name: "LimeGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgRKTFaDxCFlJ6xcfHYQuMoEMc_PKUtb5yKA9tBCTugTMbIcPHW5pkT6ZLKgMBIdohwqRRPzQS3MuBvtux65W-PefWr53Gf2QK0NR3svH_i_fUK7NwqNOJxixQMIyKPviofMubcQWVksecTVPqyhTEf1NT0NjoISrDx7Z24FRdHgs3QUHGSAXFxJ5vxXrCN=s1600)
-
 
 ## Birthday Color for March 6: Lime Green (`#6EAD5C`)
 

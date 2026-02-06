@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhM9Pua_VC4V6Rw53SbiJpIlxhEIEUqYcANIh-_Iq2kSzyPeMr5xwPNSzy6JqOdev9etcrn6pYoY22vUOggxdzrlsqp6XsbgmG02smff-nBEGLWvz3e1gcWvtKR8DAR4EVSsw9jXnnlworPKEb4u3H0iZB4ckxzGSlRBtVUlrY-EoVgDmtXpjgCqAwkI9Gp=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Autumn Leaves, The Birthday Color of September 28"
 date: "2026-09-28"
 updated: "2026-09-28"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "cloudy sky"
 description: "The birthday color for September 28 is Autumn Leaves (362925). Its meaning is Knowing Cycle, Understanding Parting, Inclusive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhM9Pua_VC4V6Rw53SbiJpIlxhEIEUqYcANIh-_Iq2kSzyPeMr5xwPNSzy6JqOdev9etcrn6pYoY22vUOggxdzrlsqp6XsbgmG02smff-nBEGLWvz3e1gcWvtKR8DAR4EVSsw9jXnnlworPKEb4u3H0iZB4ckxzGSlRBtVUlrY-EoVgDmtXpjgCqAwkI9Gp=s1600"
 en_name: "AutumnLeaves"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhM9Pua_VC4V6Rw53SbiJpIlxhEIEUqYcANIh-_Iq2kSzyPeMr5xwPNSzy6JqOdev9etcrn6pYoY22vUOggxdzrlsqp6XsbgmG02smff-nBEGLWvz3e1gcWvtKR8DAR4EVSsw9jXnnlworPKEb4u3H0iZB4ckxzGSlRBtVUlrY-EoVgDmtXpjgCqAwkI9Gp=s1600)
-
 
 ## Birthday Color for September 28: Autumn Leaves (`#362925`)
 

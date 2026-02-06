@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjPd0jQ2vDT4zvS-wwsiEUk00Aoy1ogOpITgG4ZmjHnvVHUaK94gKE0qwRiHxp10D2nCiVgChyBckH4MWN_gzWA9HT8E06N4YJMbuCbE1w0REpyOU3X71b8W3iBFRn6_hsviObXfFc-7qHG5OJoN-TorDPCNqNi20aIxZQaGqPvGW732Bw3CXe3DZott1m8=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "キャロット、6月13日の誕生色"
 date: "2026-06-13"
 updated: "2026-06-13"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "シアンブルー"
 description: "6月13日の誕生色 キャロット(EB731C)。色言葉は「健全な精神、活力、肯定性」です。相性の良い色はシアンブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjPd0jQ2vDT4zvS-wwsiEUk00Aoy1ogOpITgG4ZmjHnvVHUaK94gKE0qwRiHxp10D2nCiVgChyBckH4MWN_gzWA9HT8E06N4YJMbuCbE1w0REpyOU3X71b8W3iBFRn6_hsviObXfFc-7qHG5OJoN-TorDPCNqNi20aIxZQaGqPvGW732Bw3CXe3DZott1m8=s1600"
 en_name: "Carrot"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjPd0jQ2vDT4zvS-wwsiEUk00Aoy1ogOpITgG4ZmjHnvVHUaK94gKE0qwRiHxp10D2nCiVgChyBckH4MWN_gzWA9HT8E06N4YJMbuCbE1w0REpyOU3X71b8W3iBFRn6_hsviObXfFc-7qHG5OJoN-TorDPCNqNi20aIxZQaGqPvGW732Bw3CXe3DZott1m8=s1600)
-
 
 ## 6月13日の誕生色: キャロット (`#EB731C`)
 

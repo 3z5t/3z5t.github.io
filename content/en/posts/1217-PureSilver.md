@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhFsXq_AvbfgCRA5eS7N4f54rxb7hJx5sDhMIGM04JRkISz1LPRvydyTJ9QGyNAKS7SHStuzn8rXg9xhyKfAi18XbnZa1zUH4DiL6NBpLXM0mq5KUlkzCuef3fsnQNUfwGmYhzUZMmJaaBHtaz0deTJQLtSqReIsRM3OAptNu7XBWwWdkILRUgr6Ncw-YWn=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Pure Silver, The Birthday Color of December 17"
 date: "2026-12-17"
 updated: "2026-12-17"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "abyss black"
 description: "The birthday color for December 17 is Pure Silver (E5E5E5). Its meaning is Clear as Winter, Pure, Clean."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhFsXq_AvbfgCRA5eS7N4f54rxb7hJx5sDhMIGM04JRkISz1LPRvydyTJ9QGyNAKS7SHStuzn8rXg9xhyKfAi18XbnZa1zUH4DiL6NBpLXM0mq5KUlkzCuef3fsnQNUfwGmYhzUZMmJaaBHtaz0deTJQLtSqReIsRM3OAptNu7XBWwWdkILRUgr6Ncw-YWn=s1600"
 en_name: "PureSilver"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhFsXq_AvbfgCRA5eS7N4f54rxb7hJx5sDhMIGM04JRkISz1LPRvydyTJ9QGyNAKS7SHStuzn8rXg9xhyKfAi18XbnZa1zUH4DiL6NBpLXM0mq5KUlkzCuef3fsnQNUfwGmYhzUZMmJaaBHtaz0deTJQLtSqReIsRM3OAptNu7XBWwWdkILRUgr6Ncw-YWn=s1600)
-
 
 ## Birthday Color for December 17: Pure Silver (`#E5E5E5`)
 

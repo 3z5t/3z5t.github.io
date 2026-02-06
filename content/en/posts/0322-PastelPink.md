@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgL6bXLYqpFCViuGzlGJDz8rM6Pg5smY5GBkdpRO1Aukbj2UaprnKrfpQixgjVFLr9HfpVgY5mSb9IKRE0eUVzGbviGFo0pf5OhdQKGMDA9mCISLbVjnb1galkrC25TQB08T8Se3Q2kaKBmeGTU-kVSRUIOw0aZS71kCgeLEmah3eGGOJNjSTevHBHs-nnK=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Pastel Pink, The Birthday Color of March 22"
 date: "2026-03-22"
 updated: "2026-03-22"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "deep night sky"
 description: "The birthday color for March 22 is Pastel Pink (FFD1DC). Its meaning is Soft, Warm, Cozy."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgL6bXLYqpFCViuGzlGJDz8rM6Pg5smY5GBkdpRO1Aukbj2UaprnKrfpQixgjVFLr9HfpVgY5mSb9IKRE0eUVzGbviGFo0pf5OhdQKGMDA9mCISLbVjnb1galkrC25TQB08T8Se3Q2kaKBmeGTU-kVSRUIOw0aZS71kCgeLEmah3eGGOJNjSTevHBHs-nnK=s1600"
 en_name: "PastelPink"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgL6bXLYqpFCViuGzlGJDz8rM6Pg5smY5GBkdpRO1Aukbj2UaprnKrfpQixgjVFLr9HfpVgY5mSb9IKRE0eUVzGbviGFo0pf5OhdQKGMDA9mCISLbVjnb1galkrC25TQB08T8Se3Q2kaKBmeGTU-kVSRUIOw0aZS71kCgeLEmah3eGGOJNjSTevHBHs-nnK=s1600)
-
 
 ## Birthday Color for March 22: Pastel Pink (`#FFD1DC`)
 

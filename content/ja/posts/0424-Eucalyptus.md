@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjuyBPoUQnRfg_0MAM0JfV_3yiaA6Cb6f0UP_IK_oOm3lXZnr54o8HIZf2sLnMNtNjHrSSbChA96c2ObRcwQ4P16a7Z51LD3azSsSFtY8jDKd5J7fMe15k1jxzeI8lO-IKpbYOeUNJrOYWtdc_thhAL4ON0yB5_p03t8HKsI4vO6_UkgkShQUPSqlAiTgsB=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ユーカリ、4月24日の誕生色"
 date: "2026-04-24"
 updated: "2026-04-24"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "シルバーローズ"
 description: "4月24日の誕生色 ユーカリ(339966)。色言葉は「治癒力、回復力、生命力」です。相性の良い色はシルバーローズです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjuyBPoUQnRfg_0MAM0JfV_3yiaA6Cb6f0UP_IK_oOm3lXZnr54o8HIZf2sLnMNtNjHrSSbChA96c2ObRcwQ4P16a7Z51LD3azSsSFtY8jDKd5J7fMe15k1jxzeI8lO-IKpbYOeUNJrOYWtdc_thhAL4ON0yB5_p03t8HKsI4vO6_UkgkShQUPSqlAiTgsB=s1600"
 en_name: "Eucalyptus"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjuyBPoUQnRfg_0MAM0JfV_3yiaA6Cb6f0UP_IK_oOm3lXZnr54o8HIZf2sLnMNtNjHrSSbChA96c2ObRcwQ4P16a7Z51LD3azSsSFtY8jDKd5J7fMe15k1jxzeI8lO-IKpbYOeUNJrOYWtdc_thhAL4ON0yB5_p03t8HKsI4vO6_UkgkShQUPSqlAiTgsB=s1600)
-
 
 ## 4月24日の誕生色: ユーカリ (`#339966`)
 

@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-25'
-description: 1月25日の誕生色 ミスティスカイ(C2BEC5)。色言葉は「神秘的、直感力、繊細」です。相性の良い色はグレイッシュグリーンです。
-en_name: Misty Sky
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgvFyPBnknDdMiHJ_cWSjhY48Qg_OoUT3Uv_HpAFXX7gMUfor3lNF9PN-90L_So_IlbNc3DnAzpxhQE7X8JBU0lgkl2UGOwyYu2xi4oOBAfcrowlP4gV3FCBRBdWR13S8Bo-y7aKvaRJoU83oeooGq5i9CpjXr03l9r1VxCF8hZYrUwHQFD5ELLbVeq-jvD=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-25"
+description: "1月25日の誕生色 ミスティスカイ(C2BEC5)。色言葉は「神秘的、直感力、繊細」です。相性の良い色はグレイッシュグリーンです。"
+en_name: "Misty Sky"
 tags:
-- ミスティスカイ
-- 誕生色
-- 1月25日
-- C2BEC5
-- 1月
-- グレイッシュグリーン
-postId: '6830247911095927354'
-postUrl: https://the366days-ja.blogspot.com/2026/01/125-misty-sky.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgvFyPBnknDdMiHJ_cWSjhY48Qg_OoUT3Uv_HpAFXX7gMUfor3lNF9PN-90L_So_IlbNc3DnAzpxhQE7X8JBU0lgkl2UGOwyYu2xi4oOBAfcrowlP4gV3FCBRBdWR13S8Bo-y7aKvaRJoU83oeooGq5i9CpjXr03l9r1VxCF8hZYrUwHQFD5ELLbVeq-jvD=s1600
-title: ミスティスカイ、1月25日の誕生色
-updated: '2026-01-25'
+  - "ミスティスカイ"
+  - "誕生色"
+  - "1月25日"
+  - "C2BEC5"
+  - "1月"
+  - "グレイッシュグリーン"
+postId: "6830247911095927354"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/125-misty-sky.html"
+profileName: "日々のカケラ"
+title: "ミスティスカイ、1月25日の誕生色"
+updated: "2026-01-25"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgvFyPBnknDdMiHJ_cWSjhY48Qg_OoUT3Uv_HpAFXX7gMUfor3lNF9PN-90L_So_IlbNc3DnAzpxhQE7X8JBU0lgkl2UGOwyYu2xi4oOBAfcrowlP4gV3FCBRBdWR13S8Bo-y7aKvaRJoU83oeooGq5i9CpjXr03l9r1VxCF8hZYrUwHQFD5ELLbVeq-jvD=s1600)
-
 
 ## 1月25日の誕生色: ミスティスカイ (`#C2BEC5`)
 

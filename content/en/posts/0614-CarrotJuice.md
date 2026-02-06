@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgJWXdVqQKdKEn9MOuuLZPDLtVMRwS3wKPp8W63SXGP_zBG7Ps0D5P9S1QaUOir99DW5vkIzALuBHfQvK5uDU7pNX41BcO_FIQ1NT_9sh1_qq9_X2f2vuuN3KXAOwZw5opfWJ98m-4uTxF_pDSYy3LGdBbzw3cxk9HhuXY7Bgdhv-4JpFHH4hwjO7i7X7iO=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Carrot Juice, The Birthday Color of June 14"
 date: "2026-06-14"
 updated: "2026-06-14"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "cyan blue"
 description: "The birthday color for June 14 is Carrot Juice (E8742D). Its meaning is Nutritious, Healthy, Lively."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgJWXdVqQKdKEn9MOuuLZPDLtVMRwS3wKPp8W63SXGP_zBG7Ps0D5P9S1QaUOir99DW5vkIzALuBHfQvK5uDU7pNX41BcO_FIQ1NT_9sh1_qq9_X2f2vuuN3KXAOwZw5opfWJ98m-4uTxF_pDSYy3LGdBbzw3cxk9HhuXY7Bgdhv-4JpFHH4hwjO7i7X7iO=s1600"
 en_name: "CarrotJuice"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgJWXdVqQKdKEn9MOuuLZPDLtVMRwS3wKPp8W63SXGP_zBG7Ps0D5P9S1QaUOir99DW5vkIzALuBHfQvK5uDU7pNX41BcO_FIQ1NT_9sh1_qq9_X2f2vuuN3KXAOwZw5opfWJ98m-4uTxF_pDSYy3LGdBbzw3cxk9HhuXY7Bgdhv-4JpFHH4hwjO7i7X7iO=s1600)
-
 
 ## Birthday Color for June 14: Carrot Juice (`#E8742D`)
 

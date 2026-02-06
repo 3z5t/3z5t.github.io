@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgZt2-h1objjkINzeA1dlyPjbLm4Ew9EmM0EIo19bMloNddWrb5ZLjq4WXOgAH-M81HdTaJQxO1-MRXgqSZHD_6gEoilsK0mnEPLgu5VgRNXFXDJekL7OH0GNPTlkC-ennbB7fNnlNgBINtTRjjMa66-Ea53A34bC7CAr1oa02t9bed9QZbrWQ2RKrTSfpJ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Sea Green, The Birthday Color of April 29"
 date: "2026-04-29"
 updated: "2026-04-29"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "light coral"
 description: "The birthday color for April 29 is Sea Green (19776B). Its meaning is Mysterious, Profound, Insightful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgZt2-h1objjkINzeA1dlyPjbLm4Ew9EmM0EIo19bMloNddWrb5ZLjq4WXOgAH-M81HdTaJQxO1-MRXgqSZHD_6gEoilsK0mnEPLgu5VgRNXFXDJekL7OH0GNPTlkC-ennbB7fNnlNgBINtTRjjMa66-Ea53A34bC7CAr1oa02t9bed9QZbrWQ2RKrTSfpJ=s1600"
 en_name: "SeaGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgZt2-h1objjkINzeA1dlyPjbLm4Ew9EmM0EIo19bMloNddWrb5ZLjq4WXOgAH-M81HdTaJQxO1-MRXgqSZHD_6gEoilsK0mnEPLgu5VgRNXFXDJekL7OH0GNPTlkC-ennbB7fNnlNgBINtTRjjMa66-Ea53A34bC7CAr1oa02t9bed9QZbrWQ2RKrTSfpJ=s1600)
-
 
 ## Birthday Color for April 29: Sea Green (`#19776B`)
 

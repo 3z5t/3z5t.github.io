@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjAhfJr2qqNt1zlkOVWBJP25nsGcpVcJ0N41B1HapPsYgHgaJDly5Rn5E57a8WL4gA_Cwb05mF097r1c1TG9_9UERz7zHTCJRNZQB3FqsyRmc30bJk2AjeOaistHZsXx0LRCCAZ3JXLFnQ8l8C7IZDAHwBx_t5Bp1-3X0bxoZ5H6TqMrzT1Y3bQtPBZBfAu=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "スパイシーレッド、10月10日の誕生色"
 date: "2026-10-10"
 updated: "2026-10-10"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "デリケートグリーン"
 description: "10月10日の誕生色 スパイシーレッド(990033)。色言葉は「情熱的、意志力、深みのある」です。相性の良い色はデリケートグリーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjAhfJr2qqNt1zlkOVWBJP25nsGcpVcJ0N41B1HapPsYgHgaJDly5Rn5E57a8WL4gA_Cwb05mF097r1c1TG9_9UERz7zHTCJRNZQB3FqsyRmc30bJk2AjeOaistHZsXx0LRCCAZ3JXLFnQ8l8C7IZDAHwBx_t5Bp1-3X0bxoZ5H6TqMrzT1Y3bQtPBZBfAu=s1600"
 en_name: "Spicy Red"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjAhfJr2qqNt1zlkOVWBJP25nsGcpVcJ0N41B1HapPsYgHgaJDly5Rn5E57a8WL4gA_Cwb05mF097r1c1TG9_9UERz7zHTCJRNZQB3FqsyRmc30bJk2AjeOaistHZsXx0LRCCAZ3JXLFnQ8l8C7IZDAHwBx_t5Bp1-3X0bxoZ5H6TqMrzT1Y3bQtPBZBfAu=s1600)
-
 
 ## 10月10日の誕生色: スパイシーレッド (`#990033`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgmBrsvDMO7k2YDkQjKSaXVderONux01sXoW6LTgjtVnAk2Lu2gklu5GVhTlcIEM4GOOa-sggUwasMPshMTZ5rFDUeNhqz3p5TktP-PTkT2AIgAlTCEf613cUojt38IoDK8l0NDhDKhMQEWq956_PaJwoREwt3uOahEi87PLHKzjK-K4qgUNpAOqKTwuJJ6=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Soft Beige, The Birthday Color of August 22"
 date: "2026-08-22"
 updated: "2026-08-22"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "steel navy"
 description: "The birthday color for August 22 is Soft Beige (ECBDA4). Its meaning is Warm Heart, Cozy, Gentle."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgmBrsvDMO7k2YDkQjKSaXVderONux01sXoW6LTgjtVnAk2Lu2gklu5GVhTlcIEM4GOOa-sggUwasMPshMTZ5rFDUeNhqz3p5TktP-PTkT2AIgAlTCEf613cUojt38IoDK8l0NDhDKhMQEWq956_PaJwoREwt3uOahEi87PLHKzjK-K4qgUNpAOqKTwuJJ6=s1600"
 en_name: "SoftBeige"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgmBrsvDMO7k2YDkQjKSaXVderONux01sXoW6LTgjtVnAk2Lu2gklu5GVhTlcIEM4GOOa-sggUwasMPshMTZ5rFDUeNhqz3p5TktP-PTkT2AIgAlTCEf613cUojt38IoDK8l0NDhDKhMQEWq956_PaJwoREwt3uOahEi87PLHKzjK-K4qgUNpAOqKTwuJJ6=s1600)
-
 
 ## Birthday Color for August 22: Soft Beige (`#ECBDA4`)
 

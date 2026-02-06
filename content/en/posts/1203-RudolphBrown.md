@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgSLmL5MlKmXJOTYjjNtCQpt21DEwuRtOK07QXSZfs21FieezcN0-NasTJEBeuPc4JYfVDJDdcdR17EJSrKuigYl8cok1mxjDV2uLkTHoa5MV9MDjdcFydyOkQCQ1sELV-XxjeXJkbCNy47GdvK0woG7jM-A3AfpQRcJUiLYcPVx3ivx95rlg6viP0ZOaHJ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Rudolph Brown, The Birthday Color of December 3"
 date: "2026-12-03"
 updated: "2026-12-03"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "bright blue"
 description: "The birthday color for December 3 is Rudolph Brown (6C4D32). Its meaning is Warm Heart, Cozy, Stable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgSLmL5MlKmXJOTYjjNtCQpt21DEwuRtOK07QXSZfs21FieezcN0-NasTJEBeuPc4JYfVDJDdcdR17EJSrKuigYl8cok1mxjDV2uLkTHoa5MV9MDjdcFydyOkQCQ1sELV-XxjeXJkbCNy47GdvK0woG7jM-A3AfpQRcJUiLYcPVx3ivx95rlg6viP0ZOaHJ=s1600"
 en_name: "RudolphBrown"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgSLmL5MlKmXJOTYjjNtCQpt21DEwuRtOK07QXSZfs21FieezcN0-NasTJEBeuPc4JYfVDJDdcdR17EJSrKuigYl8cok1mxjDV2uLkTHoa5MV9MDjdcFydyOkQCQ1sELV-XxjeXJkbCNy47GdvK0woG7jM-A3AfpQRcJUiLYcPVx3ivx95rlg6viP0ZOaHJ=s1600)
-
 
 ## Birthday Color for December 3: Rudolph Brown (`#6C4D32`)
 

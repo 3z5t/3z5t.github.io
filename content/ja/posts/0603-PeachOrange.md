@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgS4vhOukbtMvCZebxcQgDcGj25M4iOk3YBYCG0Evg8OSja7n47-JPYxuGMv6B0WwPmtgSK2lALLtVvye1c-7yCpHyS0ZwEYqTUYCMx6Bhx3QQ98YlKtAoalqJm8wDXu20W1wohJJafp0Fvb4ecxpiUxPu26xN6CtSnP0DGg6r6dg6yXUkIwZ_0tFR1NFfp=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ピーチオレンジ、6月3日の誕生色"
 date: "2026-06-03"
 updated: "2026-06-03"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "スチールネイビー"
 description: "6月3日の誕生色 ピーチオレンジ(FFCC99)。色言葉は「甘い性格、社交性、魅力」です。相性の良い色はスチールネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgS4vhOukbtMvCZebxcQgDcGj25M4iOk3YBYCG0Evg8OSja7n47-JPYxuGMv6B0WwPmtgSK2lALLtVvye1c-7yCpHyS0ZwEYqTUYCMx6Bhx3QQ98YlKtAoalqJm8wDXu20W1wohJJafp0Fvb4ecxpiUxPu26xN6CtSnP0DGg6r6dg6yXUkIwZ_0tFR1NFfp=s1600"
 en_name: "Peach Orange"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgS4vhOukbtMvCZebxcQgDcGj25M4iOk3YBYCG0Evg8OSja7n47-JPYxuGMv6B0WwPmtgSK2lALLtVvye1c-7yCpHyS0ZwEYqTUYCMx6Bhx3QQ98YlKtAoalqJm8wDXu20W1wohJJafp0Fvb4ecxpiUxPu26xN6CtSnP0DGg6r6dg6yXUkIwZ_0tFR1NFfp=s1600)
-
 
 ## 6月3日の誕生色: ピーチオレンジ (`#FFCC99`)
 

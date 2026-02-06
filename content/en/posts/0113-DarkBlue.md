@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-13'
-description: The birthday color for January 13 is Dark Blue (00008B). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhWj-R5sBjGhTkTRR2Ttc-XE7a3F4LPDOfyChjCKhzd8mTZtGOn2CwBJ_9h69CVzA1LwdDyFtH0vTxJvN9ScADWBszBLfK4t_0kT30nsmNRp4WIsXnUqcnTuXckAuYhdAczeedKYvpkyd_AUYNLUTzivZbGgdcQFE0dEhXp35VCMvYzBbCh7KEaX2Z64bKJ=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-13"
+description: "The birthday color for January 13 is Dark Blue (00008B). Its meaning"
   is Insightful, Contemplative, Wise.
-en_name: DarkBlue
+en_name: "DarkBlue"
 tags:
-- dark blue
-- birthday color
-- january 13
-- 00008b
-- january
-- banana
-postId: '1637564782327721005'
-postUrl: https://the366days-en.blogspot.com/2026/01/dark-blue-birthday-color-of-january-13.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhWj-R5sBjGhTkTRR2Ttc-XE7a3F4LPDOfyChjCKhzd8mTZtGOn2CwBJ_9h69CVzA1LwdDyFtH0vTxJvN9ScADWBszBLfK4t_0kT30nsmNRp4WIsXnUqcnTuXckAuYhdAczeedKYvpkyd_AUYNLUTzivZbGgdcQFE0dEhXp35VCMvYzBbCh7KEaX2Z64bKJ=s1600
-title: Dark Blue, The Birthday Color of January 13
-updated: '2026-01-13'
+  - "dark blue"
+  - "birthday color"
+  - "january 13"
+  - "00008b"
+  - "january"
+  - "banana"
+postId: "1637564782327721005"
+postUrl: "https://the366days-en.blogspot.com/2026/01/dark-blue-birthday-color-of-january-13.html"
+profileName: "Pieces of a Day"
+title: "Dark Blue, The Birthday Color of January 13"
+updated: "2026-01-13"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhWj-R5sBjGhTkTRR2Ttc-XE7a3F4LPDOfyChjCKhzd8mTZtGOn2CwBJ_9h69CVzA1LwdDyFtH0vTxJvN9ScADWBszBLfK4t_0kT30nsmNRp4WIsXnUqcnTuXckAuYhdAczeedKYvpkyd_AUYNLUTzivZbGgdcQFE0dEhXp35VCMvYzBbCh7KEaX2Z64bKJ=s1600)
-
 
 ## Birthday Color for January 13: Dark Blue (`#00008B`)
 

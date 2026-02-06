@@ -1,25 +1,25 @@
 ---
-title: ディープブラック、1月7日の誕生色
-date: 2026-01-07
-updated: 2026-01-07
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhjHMvRR-s2pshorbnQ38YBuuswz4R7vgFekp_YDuKI9HOtHn_flAqtbH8zwEoyhWgunMpvqiG00qse-I4tIzfpG_3fLV9nZwnFW1_k-E_JsVsZj5tDDvF2exin1ZyRWQOAFYjFzR9f9MptClD4ZKiKgHmAOCjyNFbdiafhKNELYove8DfV5sopOwUG2NEk=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ディープブラック、1月7日の誕生色"
+date: "2026-01-07"
+updated: "2026-01-07"
 tags:
-  - ディープブラック
-  - 誕生色
-  - 1月7日
-  - 1A1A1F
-  - 1月
-  - ピュアシルバー
-description: 1月7日の誕生色 ディープブラック(1A1A1F)。色言葉は「決断力、意志力、独創性」です。相性の良い色はピュアシルバーです。
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhjHMvRR-s2pshorbnQ38YBuuswz4R7vgFekp_YDuKI9HOtHn_flAqtbH8zwEoyhWgunMpvqiG00qse-I4tIzfpG_3fLV9nZwnFW1_k-E_JsVsZj5tDDvF2exin1ZyRWQOAFYjFzR9f9MptClD4ZKiKgHmAOCjyNFbdiafhKNELYove8DfV5sopOwUG2NEk=s1600
-en_name: Deep Black
-author: 日々のカケラ
-profileName: 日々のカケラ
+  - "ディープブラック"
+  - "誕生色"
+  - "1月7日"
+  - "1A1A1F"
+  - "1月"
+  - "ピュアシルバー"
+description: "1月7日の誕生色 ディープブラック(1A1A1F)。色言葉は「決断力、意志力、独創性」です。相性の良い色はピュアシルバーです。"
+en_name: "Deep Black"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
 postId: "1004"
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhjHMvRR-s2pshorbnQ38YBuuswz4R7vgFekp_YDuKI9HOtHn_flAqtbH8zwEoyhWgunMpvqiG00qse-I4tIzfpG_3fLV9nZwnFW1_k-E_JsVsZj5tDDvF2exin1ZyRWQOAFYjFzR9f9MptClD4ZKiKgHmAOCjyNFbdiafhKNELYove8DfV5sopOwUG2NEk=s1600)
-
 
 ## 1月7日の誕生色: ディープブラック (`#1A1A1F`)
 

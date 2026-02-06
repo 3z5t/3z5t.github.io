@@ -1,21 +1,24 @@
 ---
-"title": "Deep Grey Purple, The Birthday Color of February 4"
-"date": "2026-02-04"
-"updated": "2026-02-04"
-"labels":
-- "deep grey purple"
-- "birthday color"
-- "february 4"
-- "524782"
-- "february"
-- "light green tea"
-"description": "The birthday color for February 4 is Deep Grey Purple (524782). Its meaning is Insightful, Contemplative, Wise."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEj9UXlf4mVN12Vm-1eAKi9el-wX_UML8jlE0A7nzhmnZ8hm0QUs611Do4F7jqDSbbTAMHiuZylVY06nTM_1ssXdI0E9wg4_reQFgr7wfiRVAWwmoqLIvwBTttMC4UqTglvM2Rh4rgwaqR-hl0Mu1ZjWxjqIfkdy9_Ublox1lrPQfSnvU27SOuKmoxEtxEW-=s1600"
-"en_name": "DeepGreyPurple"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "7153727249248073297"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/deep-grey-purple-birthday-color-of.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj9UXlf4mVN12Vm-1eAKi9el-wX_UML8jlE0A7nzhmnZ8hm0QUs611Do4F7jqDSbbTAMHiuZylVY06nTM_1ssXdI0E9wg4_reQFgr7wfiRVAWwmoqLIvwBTttMC4UqTglvM2Rh4rgwaqR-hl0Mu1ZjWxjqIfkdy9_Ublox1lrPQfSnvU27SOuKmoxEtxEW-=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Deep Grey Purple, The Birthday Color of February 4"
+date: "2026-02-04"
+updated: "2026-02-04"
+tags:
+  - "deep grey purple"
+  - "birthday color"
+  - "february 4"
+  - "524782"
+  - "february"
+  - "light green tea"
+description: "The birthday color for February 4 is Deep Grey Purple (524782). Its meaning is Insightful, Contemplative, Wise."
+en_name: "DeepGreyPurple"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "7153727249248073297"
+postUrl: "https://the366days-en.blogspot.com/2026/02/deep-grey-purple-birthday-color-of.html"
 ---
 
 ## Birthday Color for February 4: Deep Grey Purple (`#524782`)

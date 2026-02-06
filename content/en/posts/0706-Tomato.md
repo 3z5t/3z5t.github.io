@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEijnjk-u7bTXoM4TBor-4ryf_Hd99xWG9BaDY6dVpa-Wk5YsZJW0-4Oi5KTFsmRO7_-KgI6Y9KoUEC2pDKhKLJyzbRTz2bEUUtvm9l3gYJxoUD7-cOglxXT86Fmysd-7WUiahG3l-FRgmWrZiJ4KSY--8LppquA3FwFDrybEKKV1AGHxZOtJMOf7WgxcVAP=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Tomato, The Birthday Color of July 6"
 date: "2026-07-06"
 updated: "2026-07-06"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "high sky"
 description: "The birthday color for July 6 is Tomato (FF6347). Its meaning is Healthy Mind, Fresh, Energetic."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEijnjk-u7bTXoM4TBor-4ryf_Hd99xWG9BaDY6dVpa-Wk5YsZJW0-4Oi5KTFsmRO7_-KgI6Y9KoUEC2pDKhKLJyzbRTz2bEUUtvm9l3gYJxoUD7-cOglxXT86Fmysd-7WUiahG3l-FRgmWrZiJ4KSY--8LppquA3FwFDrybEKKV1AGHxZOtJMOf7WgxcVAP=s1600"
 en_name: "Tomato"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEijnjk-u7bTXoM4TBor-4ryf_Hd99xWG9BaDY6dVpa-Wk5YsZJW0-4Oi5KTFsmRO7_-KgI6Y9KoUEC2pDKhKLJyzbRTz2bEUUtvm9l3gYJxoUD7-cOglxXT86Fmysd-7WUiahG3l-FRgmWrZiJ4KSY--8LppquA3FwFDrybEKKV1AGHxZOtJMOf7WgxcVAP=s1600)
-
 
 ## Birthday Color for July 6: Tomato (`#FF6347`)
 

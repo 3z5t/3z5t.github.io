@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-15'
-description: 1月15日の誕生色 ドーンインディゴ(2C3C57)。色言葉は「芸術的、文化的、創造的」です。相性の良い色はウィンターサンドビーチです。
-en_name: Dawn Indigo
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgy0lG5wMGABw1ZOSVXSGCElyFj_TXPWWP9Hv62YIxpW_w98_EYxCm6kdGN20NavdfPp9vRVeu2yEsqubCz-s57vjCuy6kojiq4hod56H9lJ_vop3QylE2aWSKP87RXQnP34VSEejGAudukOw8W3yGZEZenwMQGNcQ7fB63YonZRcz3T_wrB9mx9tRNqD38=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-15"
+description: "1月15日の誕生色 ドーンインディゴ(2C3C57)。色言葉は「芸術的、文化的、創造的」です。相性の良い色はウィンターサンドビーチです。"
+en_name: "Dawn Indigo"
 tags:
-- ドーンインディゴ
-- 誕生色
-- 1月15日
-- 2C3C57
-- 1月
-- ウィンターサンドビーチ
-postId: '1105999554794737951'
-postUrl: https://the366days-ja.blogspot.com/2026/01/115-dawn-indigo.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgy0lG5wMGABw1ZOSVXSGCElyFj_TXPWWP9Hv62YIxpW_w98_EYxCm6kdGN20NavdfPp9vRVeu2yEsqubCz-s57vjCuy6kojiq4hod56H9lJ_vop3QylE2aWSKP87RXQnP34VSEejGAudukOw8W3yGZEZenwMQGNcQ7fB63YonZRcz3T_wrB9mx9tRNqD38=s1600
-title: ドーンインディゴ、1月15日の誕生色
-updated: '2026-01-15'
+  - "ドーンインディゴ"
+  - "誕生色"
+  - "1月15日"
+  - "2C3C57"
+  - "1月"
+  - "ウィンターサンドビーチ"
+postId: "1105999554794737951"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/115-dawn-indigo.html"
+profileName: "日々のカケラ"
+title: "ドーンインディゴ、1月15日の誕生色"
+updated: "2026-01-15"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgy0lG5wMGABw1ZOSVXSGCElyFj_TXPWWP9Hv62YIxpW_w98_EYxCm6kdGN20NavdfPp9vRVeu2yEsqubCz-s57vjCuy6kojiq4hod56H9lJ_vop3QylE2aWSKP87RXQnP34VSEejGAudukOw8W3yGZEZenwMQGNcQ7fB63YonZRcz3T_wrB9mx9tRNqD38=s1600)
-
 
 ## 1月15日の誕生色: ドーンインディゴ (`#2C3C57`)
 

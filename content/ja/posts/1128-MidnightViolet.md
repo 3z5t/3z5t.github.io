@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhNTWHutATXabdj-YhHOz6wQMcmQj9xEvEZ04DSIrpXGm0wKhC3FoTktEgX7v4sRBVw76mrLYwU6GPuW0uQ7hThat4Nr-E0TwOEbfCn2UWddP8RvlrPU34Jf-Vnjyj67rV8E48CGbavevRi8V26ei-qbgh-BRj5c8fdjoaIsdrIkTSFdRj1vPvWEkDyh0yq=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ミッドナイトバイオレット、11月28日の誕生色"
 date: "2026-11-28"
 updated: "2026-11-28"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "ボーン"
 description: "11月28日の誕生色 ミッドナイトバイオレット(20202E)。色言葉は「神秘的、優雅、品格」です。相性の良い色はボーンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhNTWHutATXabdj-YhHOz6wQMcmQj9xEvEZ04DSIrpXGm0wKhC3FoTktEgX7v4sRBVw76mrLYwU6GPuW0uQ7hThat4Nr-E0TwOEbfCn2UWddP8RvlrPU34Jf-Vnjyj67rV8E48CGbavevRi8V26ei-qbgh-BRj5c8fdjoaIsdrIkTSFdRj1vPvWEkDyh0yq=s1600"
 en_name: "Midnight Violet"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhNTWHutATXabdj-YhHOz6wQMcmQj9xEvEZ04DSIrpXGm0wKhC3FoTktEgX7v4sRBVw76mrLYwU6GPuW0uQ7hThat4Nr-E0TwOEbfCn2UWddP8RvlrPU34Jf-Vnjyj67rV8E48CGbavevRi8V26ei-qbgh-BRj5c8fdjoaIsdrIkTSFdRj1vPvWEkDyh0yq=s1600)
-
 
 ## 11月28日の誕生色: ミッドナイトバイオレット (`#20202E`)
 

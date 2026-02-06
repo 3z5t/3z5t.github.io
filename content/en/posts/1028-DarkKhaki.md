@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiNTALBh2oiMVL29s3oEj8iuOmRnHdQAwpgTqh7Y2JsFL-NKvJ7Ry4dYmegPUpJJDn9WYKG0SA-LqfMS8R5xbSev8bpZGDN3ITOpxkRLjlgs4gA-ZfiirdmkAMcHKXr5gkiOvN3L547lex6j2XOuufyYOQ70Lo4Lub25VE0iabkAi5iZNHEwXiM_7QsSpMl=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Dark Khaki, The Birthday Color of October 28"
 date: "2026-10-28"
 updated: "2026-10-28"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "elegant ultramarine"
 description: "The birthday color for October 28 is Dark Khaki (BDB76B). Its meaning is Earth-like, Stable, Peaceful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiNTALBh2oiMVL29s3oEj8iuOmRnHdQAwpgTqh7Y2JsFL-NKvJ7Ry4dYmegPUpJJDn9WYKG0SA-LqfMS8R5xbSev8bpZGDN3ITOpxkRLjlgs4gA-ZfiirdmkAMcHKXr5gkiOvN3L547lex6j2XOuufyYOQ70Lo4Lub25VE0iabkAi5iZNHEwXiM_7QsSpMl=s1600"
 en_name: "DarkKhaki"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiNTALBh2oiMVL29s3oEj8iuOmRnHdQAwpgTqh7Y2JsFL-NKvJ7Ry4dYmegPUpJJDn9WYKG0SA-LqfMS8R5xbSev8bpZGDN3ITOpxkRLjlgs4gA-ZfiirdmkAMcHKXr5gkiOvN3L547lex6j2XOuufyYOQ70Lo4Lub25VE0iabkAi5iZNHEwXiM_7QsSpMl=s1600)
-
 
 ## Birthday Color for October 28: Dark Khaki (`#BDB76B`)
 

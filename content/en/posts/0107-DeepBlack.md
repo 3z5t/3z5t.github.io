@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-07'
-description: The birthday color for January 7 is Deep Black (1A1A1F). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj1q0ymVgvEUsOhJ595stoMgjarCf6OguxacPRg2Cg1CGNiEIOlC1wfmgReE92kohrltT5KpTzzVcTw9oyirY8Lb-B2f3bMysZHYjhWw9VCJME6E8qPP31es5OYjSWM9YkfEYh1R-W2gzxfpqMrWT404-9ISr8DrRJjKeaYfOiZ58Rf6xZw7uhg9MLanlaW=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-07"
+description: "The birthday color for January 7 is Deep Black (1A1A1F). Its meaning"
   is Determination, Willpower, Originality.
-en_name: DeepBlack
+en_name: "DeepBlack"
 tags:
-- deep black
-- birthday color
-- january 7
-- 1a1a1f
-- january
-- pure silver
-postId: '4248367874031944271'
-postUrl: https://the366days-en.blogspot.com/2026/01/deep-black-birthday-color-of-january-7.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEj1q0ymVgvEUsOhJ595stoMgjarCf6OguxacPRg2Cg1CGNiEIOlC1wfmgReE92kohrltT5KpTzzVcTw9oyirY8Lb-B2f3bMysZHYjhWw9VCJME6E8qPP31es5OYjSWM9YkfEYh1R-W2gzxfpqMrWT404-9ISr8DrRJjKeaYfOiZ58Rf6xZw7uhg9MLanlaW=s1600
-title: Deep Black, The Birthday Color of January 7
-updated: '2026-01-07'
+  - "deep black"
+  - "birthday color"
+  - "january 7"
+  - "1a1a1f"
+  - "january"
+  - "pure silver"
+postId: "4248367874031944271"
+postUrl: "https://the366days-en.blogspot.com/2026/01/deep-black-birthday-color-of-january-7.html"
+profileName: "Pieces of a Day"
+title: "Deep Black, The Birthday Color of January 7"
+updated: "2026-01-07"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj1q0ymVgvEUsOhJ595stoMgjarCf6OguxacPRg2Cg1CGNiEIOlC1wfmgReE92kohrltT5KpTzzVcTw9oyirY8Lb-B2f3bMysZHYjhWw9VCJME6E8qPP31es5OYjSWM9YkfEYh1R-W2gzxfpqMrWT404-9ISr8DrRJjKeaYfOiZ58Rf6xZw7uhg9MLanlaW=s1600)
-
 
 ## Birthday Color for January 7: Deep Black (`#1A1A1F`)
 

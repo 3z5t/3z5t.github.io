@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiHRD_FCgb3FfuqwvoUUDL4X4ORtq0l1XyJoZH8Zi5TzJ2sh3Ev6oNfHycsp9oHPsVpCHT_ZnQABrpyzNvhu0vi6iUWRhVsDM8qxzONlWmsnd1064A0W73dx4ViwF_yWXLSNKHWaDFaIKwh3b0vLYfb7RX24cyvkid5GkyEv2t2sgN-RxCwB2RVck6u4GXK=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アンティークパープル、11月23日の誕生色"
 date: "2026-11-23"
 updated: "2026-11-23"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "アクアマリン"
 description: "11月23日の誕生色 アンティークパープル(5E162D)。色言葉は「古風、神秘的、深みのある」です。相性の良い色はアクアマリンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiHRD_FCgb3FfuqwvoUUDL4X4ORtq0l1XyJoZH8Zi5TzJ2sh3Ev6oNfHycsp9oHPsVpCHT_ZnQABrpyzNvhu0vi6iUWRhVsDM8qxzONlWmsnd1064A0W73dx4ViwF_yWXLSNKHWaDFaIKwh3b0vLYfb7RX24cyvkid5GkyEv2t2sgN-RxCwB2RVck6u4GXK=s1600"
 en_name: "Antique Purple"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiHRD_FCgb3FfuqwvoUUDL4X4ORtq0l1XyJoZH8Zi5TzJ2sh3Ev6oNfHycsp9oHPsVpCHT_ZnQABrpyzNvhu0vi6iUWRhVsDM8qxzONlWmsnd1064A0W73dx4ViwF_yWXLSNKHWaDFaIKwh3b0vLYfb7RX24cyvkid5GkyEv2t2sgN-RxCwB2RVck6u4GXK=s1600)
-
 
 ## 11月23日の誕生色: アンティークパープル (`#5E162D`)
 

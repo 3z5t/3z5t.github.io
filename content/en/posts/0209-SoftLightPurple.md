@@ -1,21 +1,24 @@
 ---
-"title": "Soft Light Purple, The Birthday Color of February 9"
-"date": "2026-02-09"
-"updated": "2026-02-09"
-"labels":
-- "soft light purple"
-- "birthday color"
-- "february 9"
-- "ac79ae"
-- "february"
-- "leaf green"
-"description": "The birthday color for February 9 is Soft Light Purple (AC79AE). Its meaning is Emotional, Empathetic, Inclusive."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEheJ3qfqiEfJ0HqTa1JcdCFWEHvB4uGxaU3XCnQx0axpkhgWB_oiz_-DuWNz4u2ZZBr2nrZDvAtkKUNlttXtss38amaMVC3B0WO0Tta1H7_d70LmrE1lijNkEGLT9COIsv0xocAUJCx5tUtZ2A2dslprI8iVg7BwI06JicytmqfQphaozwD4CbTeepk2Eiw=s1600"
-"en_name": "SoftLightPurple"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "3810868697124518451"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/soft-light-purple-birthday-color-of.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEheJ3qfqiEfJ0HqTa1JcdCFWEHvB4uGxaU3XCnQx0axpkhgWB_oiz_-DuWNz4u2ZZBr2nrZDvAtkKUNlttXtss38amaMVC3B0WO0Tta1H7_d70LmrE1lijNkEGLT9COIsv0xocAUJCx5tUtZ2A2dslprI8iVg7BwI06JicytmqfQphaozwD4CbTeepk2Eiw=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Soft Light Purple, The Birthday Color of February 9"
+date: "2026-02-09"
+updated: "2026-02-09"
+tags:
+  - "soft light purple"
+  - "birthday color"
+  - "february 9"
+  - "ac79ae"
+  - "february"
+  - "leaf green"
+description: "The birthday color for February 9 is Soft Light Purple (AC79AE). Its meaning is Emotional, Empathetic, Inclusive."
+en_name: "SoftLightPurple"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "3810868697124518451"
+postUrl: "https://the366days-en.blogspot.com/2026/02/soft-light-purple-birthday-color-of.html"
 ---
 
 ## Birthday Color for February 9: Soft Light Purple (`#AC79AE`)

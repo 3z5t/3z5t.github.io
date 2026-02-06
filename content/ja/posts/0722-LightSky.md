@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEihxuS--2acYHRAMpvvpz-AiBRetPJmxzxWvRbJRMTpTQT2BHXcL0pvPv5fCZRYJwuPpqRbGBby6tjGlOohXGlhWkoj3OSAb1RpVR0DL3HUAXHtjrEhuEU03RpmAj-9wReEWzM75dbBksllkoTwCn5titK7qPvt34L4NMKVnCR098304MCzUSMtyrEEpOwj=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ライトスカイ、7月22日の誕生色"
 date: "2026-07-22"
 updated: "2026-07-22"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "リアルレッド"
 description: "7月22日の誕生色 ライトスカイ(3DDAEE)。色言葉は「爽やかな性格、明るい心、清潔」です。相性の良い色はリアルレッドです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEihxuS--2acYHRAMpvvpz-AiBRetPJmxzxWvRbJRMTpTQT2BHXcL0pvPv5fCZRYJwuPpqRbGBby6tjGlOohXGlhWkoj3OSAb1RpVR0DL3HUAXHtjrEhuEU03RpmAj-9wReEWzM75dbBksllkoTwCn5titK7qPvt34L4NMKVnCR098304MCzUSMtyrEEpOwj=s1600"
 en_name: "Light Sky"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEihxuS--2acYHRAMpvvpz-AiBRetPJmxzxWvRbJRMTpTQT2BHXcL0pvPv5fCZRYJwuPpqRbGBby6tjGlOohXGlhWkoj3OSAb1RpVR0DL3HUAXHtjrEhuEU03RpmAj-9wReEWzM75dbBksllkoTwCn5titK7qPvt34L4NMKVnCR098304MCzUSMtyrEEpOwj=s1600)
-
 
 ## 7月21日の誕生色: ピクトンブルー (`#6699CC`)
 

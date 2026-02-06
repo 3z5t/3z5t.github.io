@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhjf_Aq_0jV1MINRItq1o7GCcpaT1lCf_SndiSFA-iva_Sy3xs0CGfLwR6w54DltP7KeVamzrKLYcONMT6wEZuiFlfBv6AtuyovFM_wShaCXYQOgSlOBTv6_ElpnF9Lb0Mv2jbTBEdUVlCfCRXO6JK2gEahzZshVnw-SxMlkqYn1IncSvDsf5oMxtFf4TLc=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "チヌークグリーン、4月18日の誕生色"
 date: "2026-04-18"
 updated: "2026-04-18"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "ディープワイン"
 description: "4月18日の誕生色 チヌークグリーン(99CC99)。色言葉は「調和、平和、治癒力」です。相性の良い色はディープワインです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhjf_Aq_0jV1MINRItq1o7GCcpaT1lCf_SndiSFA-iva_Sy3xs0CGfLwR6w54DltP7KeVamzrKLYcONMT6wEZuiFlfBv6AtuyovFM_wShaCXYQOgSlOBTv6_ElpnF9Lb0Mv2jbTBEdUVlCfCRXO6JK2gEahzZshVnw-SxMlkqYn1IncSvDsf5oMxtFf4TLc=s1600"
 en_name: "Chinook Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhjf_Aq_0jV1MINRItq1o7GCcpaT1lCf_SndiSFA-iva_Sy3xs0CGfLwR6w54DltP7KeVamzrKLYcONMT6wEZuiFlfBv6AtuyovFM_wShaCXYQOgSlOBTv6_ElpnF9Lb0Mv2jbTBEdUVlCfCRXO6JK2gEahzZshVnw-SxMlkqYn1IncSvDsf5oMxtFf4TLc=s1600)
-
 
 ## 4月18日の誕生色: チヌークグリーン (`#99CC99`)
 

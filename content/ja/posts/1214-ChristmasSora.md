@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEheb20-_DWVzM8cdCqmVFKDckNBX5wo2IJGR0cpcDSMPxccfKcjQLXX15DKujZ_466MaYLZYM-VWUUEd-NNbJieOWeEQj1YOX7q4hemCfMGYNCsL647dAp83MepgQ2YRJkI_3LCSxAOsZ1-L-3pZxdQjGcrBDQbdgRporTSfBZxJ_DApdGMHMBspvz_NLwY=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "クリスマスソラ、12月14日の誕生色"
 date: "2026-12-14"
 updated: "2026-12-14"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ルドルフブラウン"
 description: "12月14日の誕生色 クリスマスソラ(9AB4E0)。色言葉は「夢見る、希望に満ちた、理想的」です。相性の良い色はルドルフブラウンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEheb20-_DWVzM8cdCqmVFKDckNBX5wo2IJGR0cpcDSMPxccfKcjQLXX15DKujZ_466MaYLZYM-VWUUEd-NNbJieOWeEQj1YOX7q4hemCfMGYNCsL647dAp83MepgQ2YRJkI_3LCSxAOsZ1-L-3pZxdQjGcrBDQbdgRporTSfBZxJ_DApdGMHMBspvz_NLwY=s1600"
 en_name: "Christmas Sora"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEheb20-_DWVzM8cdCqmVFKDckNBX5wo2IJGR0cpcDSMPxccfKcjQLXX15DKujZ_466MaYLZYM-VWUUEd-NNbJieOWeEQj1YOX7q4hemCfMGYNCsL647dAp83MepgQ2YRJkI_3LCSxAOsZ1-L-3pZxdQjGcrBDQbdgRporTSfBZxJ_DApdGMHMBspvz_NLwY=s1600)
-
 
 ## 12月14日の誕生色: クリスマスソラ (`#9AB4E0`)
 

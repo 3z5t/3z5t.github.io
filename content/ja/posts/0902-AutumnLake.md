@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgUL3flW7B_xERWz7w-RfJiEPJcMuNtBeiuuT4Pz8kiyZJcEpXhB0ee5Jt3KT3fel1cPdBOXl4drVq7vakM9bTJ2kwcaZnmw1cy5G8brwpxST2xL0DypFuKNN4j__IDoust6DCToPRl59-aDpatCOMFSwQknHVPLdLM1G0D1C_0BQOGHlv2IBfTnA5RtEER=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "オータムレイク、9月2日の誕生色"
 date: "2026-09-02"
 updated: "2026-09-02"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ロイヤルベージュ"
 description: "9月2日の誕生色 オータムレイク(55779B)。色言葉は「深みのある、成熟、賢明」です。相性の良い色はロイヤルベージュです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgUL3flW7B_xERWz7w-RfJiEPJcMuNtBeiuuT4Pz8kiyZJcEpXhB0ee5Jt3KT3fel1cPdBOXl4drVq7vakM9bTJ2kwcaZnmw1cy5G8brwpxST2xL0DypFuKNN4j__IDoust6DCToPRl59-aDpatCOMFSwQknHVPLdLM1G0D1C_0BQOGHlv2IBfTnA5RtEER=s1600"
 en_name: "Autumn Lake"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgUL3flW7B_xERWz7w-RfJiEPJcMuNtBeiuuT4Pz8kiyZJcEpXhB0ee5Jt3KT3fel1cPdBOXl4drVq7vakM9bTJ2kwcaZnmw1cy5G8brwpxST2xL0DypFuKNN4j__IDoust6DCToPRl59-aDpatCOMFSwQknHVPLdLM1G0D1C_0BQOGHlv2IBfTnA5RtEER=s1600)
-
 
 ## 9月2日の誕生色: オータムレイク (`#55779B`)
 

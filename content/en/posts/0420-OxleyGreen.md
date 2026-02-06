@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi12oY2TOuiJ68ESgBgfR8gnPCw7JYFtNrVZFNiiEC7fpFbzUeQgtnB6bM0U7NbemO_LH8uosuYghZ1hcRXN0YnwFx0WAsqaSLSJCkXsAOgL_jyeOUpB78UD4LleUNdaSAC4tbPsCuP1yP-mD8uyLtaTB1SbNYq9JmstB7vMHfz-H-9_MukZ6QcQHUmUDIw=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Oxley Green, The Birthday Color of April 20"
 date: "2026-04-20"
 updated: "2026-04-20"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "orchid purple"
 description: "The birthday color for April 20 is Oxley Green (669966). Its meaning is Stability, Mature, Peaceful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi12oY2TOuiJ68ESgBgfR8gnPCw7JYFtNrVZFNiiEC7fpFbzUeQgtnB6bM0U7NbemO_LH8uosuYghZ1hcRXN0YnwFx0WAsqaSLSJCkXsAOgL_jyeOUpB78UD4LleUNdaSAC4tbPsCuP1yP-mD8uyLtaTB1SbNYq9JmstB7vMHfz-H-9_MukZ6QcQHUmUDIw=s1600"
 en_name: "OxleyGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi12oY2TOuiJ68ESgBgfR8gnPCw7JYFtNrVZFNiiEC7fpFbzUeQgtnB6bM0U7NbemO_LH8uosuYghZ1hcRXN0YnwFx0WAsqaSLSJCkXsAOgL_jyeOUpB78UD4LleUNdaSAC4tbPsCuP1yP-mD8uyLtaTB1SbNYq9JmstB7vMHfz-H-9_MukZ6QcQHUmUDIw=s1600)
-
 
 ## Birthday Color for April 20: Oxley Green (`#669966`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhQzvEHuEEK7sIyp-m32S-oNyK2PlpN5eoY_1iG2wmZxhYuL3cg2kpAZVFsp_dk6WvJ6gH1wcOsDPF1HV07NGHoI5kC2zPgQxsbzarOWkGz3StLV1fE2xFlnb558pT9eR9lx-ueTFpuAKv2_AyxpxRx3xDWz3b6GhADkxp0KlYgaB0EAlTTjrf8Gp3hnuQE=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Sun Red, The Birthday Color of July 9"
 date: "2026-07-09"
 updated: "2026-07-09"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "aqua"
 description: "The birthday color for July 9 is Sun Red (F01313). Its meaning is Full of Energy, Bright Light, Leadership."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhQzvEHuEEK7sIyp-m32S-oNyK2PlpN5eoY_1iG2wmZxhYuL3cg2kpAZVFsp_dk6WvJ6gH1wcOsDPF1HV07NGHoI5kC2zPgQxsbzarOWkGz3StLV1fE2xFlnb558pT9eR9lx-ueTFpuAKv2_AyxpxRx3xDWz3b6GhADkxp0KlYgaB0EAlTTjrf8Gp3hnuQE=s1600"
 en_name: "SunRed"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhQzvEHuEEK7sIyp-m32S-oNyK2PlpN5eoY_1iG2wmZxhYuL3cg2kpAZVFsp_dk6WvJ6gH1wcOsDPF1HV07NGHoI5kC2zPgQxsbzarOWkGz3StLV1fE2xFlnb558pT9eR9lx-ueTFpuAKv2_AyxpxRx3xDWz3b6GhADkxp0KlYgaB0EAlTTjrf8Gp3hnuQE=s1600)
-
 
 ## Birthday Color for July 9: Sun Red (`#F01313`)
 

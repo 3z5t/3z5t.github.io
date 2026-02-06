@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg8z9ipW7Zelyl5Gg9jE9Jf2lKh6fhZFSI-kJ4y76zQ7O3ordQWiKF0gSR-C_oUsK-5ZIOIPq4TXZsWqwUER__AueeOaa4EMU7XHPqfsdJGcVTGJeusZQ_WAACBZIkGtAxhpdiCURd_nPVGFWVOtzGxdxG84HgiU8a_vf1dc2Harmg0EcwYxisB5rELkcNl=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Vintage Deep Red, The Birthday Color of October 11"
 date: "2026-10-11"
 updated: "2026-10-11"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "delicate green"
 description: "The birthday color for October 11 is Vintage Deep Red (8D192B). Its meaning is Profound, Serious, Mature."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg8z9ipW7Zelyl5Gg9jE9Jf2lKh6fhZFSI-kJ4y76zQ7O3ordQWiKF0gSR-C_oUsK-5ZIOIPq4TXZsWqwUER__AueeOaa4EMU7XHPqfsdJGcVTGJeusZQ_WAACBZIkGtAxhpdiCURd_nPVGFWVOtzGxdxG84HgiU8a_vf1dc2Harmg0EcwYxisB5rELkcNl=s1600"
 en_name: "VintageDeepRed"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg8z9ipW7Zelyl5Gg9jE9Jf2lKh6fhZFSI-kJ4y76zQ7O3ordQWiKF0gSR-C_oUsK-5ZIOIPq4TXZsWqwUER__AueeOaa4EMU7XHPqfsdJGcVTGJeusZQ_WAACBZIkGtAxhpdiCURd_nPVGFWVOtzGxdxG84HgiU8a_vf1dc2Harmg0EcwYxisB5rELkcNl=s1600)
-
 
 ## Birthday Color for October 11: Vintage Deep Red (`#8D192B`)
 

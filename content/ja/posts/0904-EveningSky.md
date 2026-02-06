@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiYxdcT6-c7nxW_F0sQYRBUu8pgGM5BRl4YHVgTBK_gyQvzWvmM2Hr-UbJ0PVePfb4azOkwhV0iIgRB2VxfvkNLyg2Q6-OpK_V_cZE1KddShhZj8eHIDuXmgzrP4wagpOjm6njkJeOWWvkCs9YqwNlli6Idw4M4XzuzBHaeLYCYi0lt4g4s2TN5dzVaHKzp=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "イブニングスカイ、9月4日の誕生色"
 date: "2026-09-04"
 updated: "2026-09-04"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ビスク"
 description: "9月4日の誕生色 イブニングスカイ(071734)。色言葉は「瞑想的、落ち着き、直感的」です。相性の良い色はビスクです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiYxdcT6-c7nxW_F0sQYRBUu8pgGM5BRl4YHVgTBK_gyQvzWvmM2Hr-UbJ0PVePfb4azOkwhV0iIgRB2VxfvkNLyg2Q6-OpK_V_cZE1KddShhZj8eHIDuXmgzrP4wagpOjm6njkJeOWWvkCs9YqwNlli6Idw4M4XzuzBHaeLYCYi0lt4g4s2TN5dzVaHKzp=s1600"
 en_name: "Evening Sky"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiYxdcT6-c7nxW_F0sQYRBUu8pgGM5BRl4YHVgTBK_gyQvzWvmM2Hr-UbJ0PVePfb4azOkwhV0iIgRB2VxfvkNLyg2Q6-OpK_V_cZE1KddShhZj8eHIDuXmgzrP4wagpOjm6njkJeOWWvkCs9YqwNlli6Idw4M4XzuzBHaeLYCYi0lt4g4s2TN5dzVaHKzp=s1600)
-
 
 ## 9月4日の誕生色: イブニングスカイ (`#071734`)
 

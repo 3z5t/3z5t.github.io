@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEixC2QhZYk8BRqfEuEjtIdkoh0Eck8FUcrIWQh1R-9STiVJj9XA3lVNUJned_QGQSPFc8aI0tQ6drROiH3UruFzilkblsq6j7cVFhQPDH4KIdzwLUQmlTnpNxqxxIAtfKmGJ29Ah3NbytQ4IGl0_-jnDjlWtPouY8HY6UVujBWc_yCJSyAPP1OoUTmJ0tcr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アンティークブロンズ、10月6日の誕生色"
 date: "2026-10-06"
 updated: "2026-10-06"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "エレガントジェイド"
 description: "10月6日の誕生色 アンティークブロンズ(9B6066)。色言葉は「古典的、堅固、価値ある」です。相性の良い色はエレガントジェイドです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEixC2QhZYk8BRqfEuEjtIdkoh0Eck8FUcrIWQh1R-9STiVJj9XA3lVNUJned_QGQSPFc8aI0tQ6drROiH3UruFzilkblsq6j7cVFhQPDH4KIdzwLUQmlTnpNxqxxIAtfKmGJ29Ah3NbytQ4IGl0_-jnDjlWtPouY8HY6UVujBWc_yCJSyAPP1OoUTmJ0tcr=s1600"
 en_name: "Antique Bronze"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEixC2QhZYk8BRqfEuEjtIdkoh0Eck8FUcrIWQh1R-9STiVJj9XA3lVNUJned_QGQSPFc8aI0tQ6drROiH3UruFzilkblsq6j7cVFhQPDH4KIdzwLUQmlTnpNxqxxIAtfKmGJ29Ah3NbytQ4IGl0_-jnDjlWtPouY8HY6UVujBWc_yCJSyAPP1OoUTmJ0tcr=s1600)
-
 
 ## 10月6日の誕生色: アンティークブロンズ (`#9B6066`)
 

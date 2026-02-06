@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjo6nb0L_SkG9XWF-970ubNO9rGuGM-bqeXNbyMdWGSug4LZX5ubav56bM6SAANVGL3gIr_EKwaq0_mvLh55TfpiwumGuoJyZprFxBMKF1mPv3B8n1or5oXnCZAFZaAjH2JunRJFsGVeF_mINbzUfqWG_1oMtqXxVFNNb6T7rHoMB6W7UDDbS_du-E0BAAr=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Pine Green, The Birthday Color of December 9"
 date: "2026-12-09"
 updated: "2026-12-09"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "light coral"
 description: "The birthday color for December 9 is Pine Green (207670). Its meaning is Pure Soul, Mysterious, Cool."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjo6nb0L_SkG9XWF-970ubNO9rGuGM-bqeXNbyMdWGSug4LZX5ubav56bM6SAANVGL3gIr_EKwaq0_mvLh55TfpiwumGuoJyZprFxBMKF1mPv3B8n1or5oXnCZAFZaAjH2JunRJFsGVeF_mINbzUfqWG_1oMtqXxVFNNb6T7rHoMB6W7UDDbS_du-E0BAAr=s1600"
 en_name: "PineGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjo6nb0L_SkG9XWF-970ubNO9rGuGM-bqeXNbyMdWGSug4LZX5ubav56bM6SAANVGL3gIr_EKwaq0_mvLh55TfpiwumGuoJyZprFxBMKF1mPv3B8n1or5oXnCZAFZaAjH2JunRJFsGVeF_mINbzUfqWG_1oMtqXxVFNNb6T7rHoMB6W7UDDbS_du-E0BAAr=s1600)
-
 
 ## Birthday Color for December 9: Pine Green (`#207670`)
 

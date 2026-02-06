@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiZRwJ5rEd--v30UAeo9qKBRuapVweFUlgIyHJxSWsRMgp4qx9d-GANDhwxOkS7KnSiNQgEuwsyHzplnNUedZjNX0mkDnJCxnx-jWJoXL6FB4OmsVrrbvAZEiB5XQGXZt-UGfQSWh5MIIP6ODryAv6Yx00BR1yRXGq6d84up3vMgv33lPf1iPQUaP1W4j5i=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "パステルピンク、3月22日の誕生色"
 date: "2026-03-22"
 updated: "2026-03-22"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "ディープナイトスカイ"
 description: "3月22日の誕生色 パステルピンク(FFD1DC)。色言葉は「柔らかさ、温かさ、心地よさ」です。相性の良い色はディープナイトスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiZRwJ5rEd--v30UAeo9qKBRuapVweFUlgIyHJxSWsRMgp4qx9d-GANDhwxOkS7KnSiNQgEuwsyHzplnNUedZjNX0mkDnJCxnx-jWJoXL6FB4OmsVrrbvAZEiB5XQGXZt-UGfQSWh5MIIP6ODryAv6Yx00BR1yRXGq6d84up3vMgv33lPf1iPQUaP1W4j5i=s1600"
 en_name: "Pastel Pink"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiZRwJ5rEd--v30UAeo9qKBRuapVweFUlgIyHJxSWsRMgp4qx9d-GANDhwxOkS7KnSiNQgEuwsyHzplnNUedZjNX0mkDnJCxnx-jWJoXL6FB4OmsVrrbvAZEiB5XQGXZt-UGfQSWh5MIIP6ODryAv6Yx00BR1yRXGq6d84up3vMgv33lPf1iPQUaP1W4j5i=s1600)
-
 
 ## 3月22日の誕生色: パステルピンク (`#FFD1DC`)
 

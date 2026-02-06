@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjQEE0-8zN0LdV3wlYbCIhuV9U9yg57E70w6-1Ea4ue8Okubb1F-yN5ROnwyUvwulADJibU84cssez62-xYc7IJewS_kIGMG0xBkYhHYOSOcIESpm-uR3AySwcgA4r5wvYEcNXEjoQTmIku1f9PJUP0gUDGUnp6sX4soE-D6Y_WHwr34dr1NPgCSe2Pa9pE=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "シーグリーン、4月29日の誕生色"
 date: "2026-04-29"
 updated: "2026-04-29"
@@ -10,16 +14,12 @@ tags:
   - "4月"
   - "ライトコーラル"
 description: "4月29日の誕生色 シーグリーン(19776B)。色言葉は「神秘的、深みのある、洞察力」です。相性の良い色はライトコーラルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjQEE0-8zN0LdV3wlYbCIhuV9U9yg57E70w6-1Ea4ue8Okubb1F-yN5ROnwyUvwulADJibU84cssez62-xYc7IJewS_kIGMG0xBkYhHYOSOcIESpm-uR3AySwcgA4r5wvYEcNXEjoQTmIku1f9PJUP0gUDGUnp6sX4soE-D6Y_WHwr34dr1NPgCSe2Pa9pE=s1600"
 en_name: "Sea Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjQEE0-8zN0LdV3wlYbCIhuV9U9yg57E70w6-1Ea4ue8Okubb1F-yN5ROnwyUvwulADJibU84cssez62-xYc7IJewS_kIGMG0xBkYhHYOSOcIESpm-uR3AySwcgA4r5wvYEcNXEjoQTmIku1f9PJUP0gUDGUnp6sX4soE-D6Y_WHwr34dr1NPgCSe2Pa9pE=s1600)
-
 
 ## 4月29日の誕生色: シーグリーン (`#19776B`)
 

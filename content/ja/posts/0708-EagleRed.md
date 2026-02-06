@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjq7PsGf2u6Pq7h_S-C_tLnkIDumDBYVFFiNHFq5YcQEEviMKReQ0Sri144EGEiAx7HjOwbfM4RwbrSPEY-JXXxZjsVBymYfe6tfNe0FV3vtsiI5zHHTY2onMA68plnGCivwZJPgbIU6OukxaSR_w9REZ1Z7FXkQphohD3GJ2Xk3mYXOTUcpax5mznwr6Vg=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "イーグルレッド、7月8日の誕生色"
 date: "2026-07-08"
 updated: "2026-07-08"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "ノーブルスカイブルー"
 description: "7月8日の誕生色 イーグルレッド(FF2D2D)。色言葉は「勇気ある、野心的、先駆的」です。相性の良い色はノーブルスカイブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjq7PsGf2u6Pq7h_S-C_tLnkIDumDBYVFFiNHFq5YcQEEviMKReQ0Sri144EGEiAx7HjOwbfM4RwbrSPEY-JXXxZjsVBymYfe6tfNe0FV3vtsiI5zHHTY2onMA68plnGCivwZJPgbIU6OukxaSR_w9REZ1Z7FXkQphohD3GJ2Xk3mYXOTUcpax5mznwr6Vg=s1600"
 en_name: "Eagle Red"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjq7PsGf2u6Pq7h_S-C_tLnkIDumDBYVFFiNHFq5YcQEEviMKReQ0Sri144EGEiAx7HjOwbfM4RwbrSPEY-JXXxZjsVBymYfe6tfNe0FV3vtsiI5zHHTY2onMA68plnGCivwZJPgbIU6OukxaSR_w9REZ1Z7FXkQphohD3GJ2Xk3mYXOTUcpax5mznwr6Vg=s1600)
-
 
 ## 7月8日の誕生色: イーグルレッド (`#FF2D2D`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhaCeDg5ZnzNo76Ow2R7C67cJXaHXnEteR_yRwyVOb8OU-Q4lLQ7Kx0ifpymaJvJW2G28LeU_XybtN3ftCR4QVJYvfeFegz1_nFIFBqub0eXbSvvP5nV75fLZI7mHwTpD9xN76CPVjRJKXuNokLhl8HRu55AXa6toHlhN6_3YEV4MyNx9AJJOL_Ro-b3ZwI=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープミント、3月4日の誕生色"
 date: "2026-03-04"
 updated: "2026-03-04"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "インテンスサンセット"
 description: "3月4日の誕生色 ディープミント(3ABAB5)。色言葉は「治癒力、回復力、強靭さ」です。相性の良い色はインテンスサンセットです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhaCeDg5ZnzNo76Ow2R7C67cJXaHXnEteR_yRwyVOb8OU-Q4lLQ7Kx0ifpymaJvJW2G28LeU_XybtN3ftCR4QVJYvfeFegz1_nFIFBqub0eXbSvvP5nV75fLZI7mHwTpD9xN76CPVjRJKXuNokLhl8HRu55AXa6toHlhN6_3YEV4MyNx9AJJOL_Ro-b3ZwI=s1600"
 en_name: "Deep Mint"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhaCeDg5ZnzNo76Ow2R7C67cJXaHXnEteR_yRwyVOb8OU-Q4lLQ7Kx0ifpymaJvJW2G28LeU_XybtN3ftCR4QVJYvfeFegz1_nFIFBqub0eXbSvvP5nV75fLZI7mHwTpD9xN76CPVjRJKXuNokLhl8HRu55AXa6toHlhN6_3YEV4MyNx9AJJOL_Ro-b3ZwI=s1600)
-
 
 ## 3月4日の誕生色: ディープミント (`#3ABAB5`)
 

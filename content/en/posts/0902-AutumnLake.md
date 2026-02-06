@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgU6Vt9lnw1VjbucbISTmN0vNc3ThbOBnhogxU64iq7WUhxmelq6F5Wc-xcL-KatnlaboeIEXbroDxpbQTzAjEWdqc3FgMbKiTIobfSLWxgRrb0VFC45BIRAMNbB1UzD1VOHhU5NXphLawB1E_SXBNxZsy0Ww-yMTdCpueG_Qt1GcRPgMeuSIXMM-bZpq3n=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Autumn Lake, The Birthday Color of September 2"
 date: "2026-09-02"
 updated: "2026-09-02"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "royal beige"
 description: "The birthday color for September 2 is Autumn Lake (55779B). Its meaning is Profound, Mature, Wise."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgU6Vt9lnw1VjbucbISTmN0vNc3ThbOBnhogxU64iq7WUhxmelq6F5Wc-xcL-KatnlaboeIEXbroDxpbQTzAjEWdqc3FgMbKiTIobfSLWxgRrb0VFC45BIRAMNbB1UzD1VOHhU5NXphLawB1E_SXBNxZsy0Ww-yMTdCpueG_Qt1GcRPgMeuSIXMM-bZpq3n=s1600"
 en_name: "AutumnLake"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgU6Vt9lnw1VjbucbISTmN0vNc3ThbOBnhogxU64iq7WUhxmelq6F5Wc-xcL-KatnlaboeIEXbroDxpbQTzAjEWdqc3FgMbKiTIobfSLWxgRrb0VFC45BIRAMNbB1UzD1VOHhU5NXphLawB1E_SXBNxZsy0Ww-yMTdCpueG_Qt1GcRPgMeuSIXMM-bZpq3n=s1600)
-
 
 ## Birthday Color for September 2: Autumn Lake (`#55779B`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhpf9MqPcmXDJXAfSX5OXHHThC30TJw8P5NReinh85DE1RLixZuzglu_R-MZem9gDPWB9S4icIYuw9yptkDPeFg_K-MoKA0CslkRrypU-hFULTRVsRMIs0S48sEUO3zVKqa7vcsM7CWpF02pRvmWdrLj0P9iVQS_Zt3CWXBxdc5PIvDXX5jco9hu0CWf2mz=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "デリケートグリーン、6月1日の誕生色"
 date: "2026-06-01"
 updated: "2026-06-01"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "バーントアンバー"
 description: "6月1日の誕生色 デリケートグリーン(7DDCC4)。色言葉は「繊細、純粋、創造性」です。相性の良い色はバーントアンバーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhpf9MqPcmXDJXAfSX5OXHHThC30TJw8P5NReinh85DE1RLixZuzglu_R-MZem9gDPWB9S4icIYuw9yptkDPeFg_K-MoKA0CslkRrypU-hFULTRVsRMIs0S48sEUO3zVKqa7vcsM7CWpF02pRvmWdrLj0P9iVQS_Zt3CWXBxdc5PIvDXX5jco9hu0CWf2mz=s1600"
 en_name: "Delicate Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhpf9MqPcmXDJXAfSX5OXHHThC30TJw8P5NReinh85DE1RLixZuzglu_R-MZem9gDPWB9S4icIYuw9yptkDPeFg_K-MoKA0CslkRrypU-hFULTRVsRMIs0S48sEUO3zVKqa7vcsM7CWpF02pRvmWdrLj0P9iVQS_Zt3CWXBxdc5PIvDXX5jco9hu0CWf2mz=s1600)
-
 
 ## 6月1日の誕生色: デリケートグリーン (`#7DDCC4`)
 

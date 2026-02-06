@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiEL33QgXyjDopMImRCwV_eOBdXMCjJC01q2RSa393Hb4xy-4Y4KbAKdCClkjZFYSx5VI8MFjn32IVNtfGlsyK_KxpBwf6UYKIT0JZ-V8XCYafaphAgU1aX0qRgTitjQnwh5zbUAn90jUC86VZnLWy8vXoNe_624G3xiha5lMXm9cO0jXLcm_V7NFIO7qVh=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ロイヤルベージュ、8月18日の誕生色"
 date: "2026-08-18"
 updated: "2026-08-18"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "オータムレイク"
 description: "8月18日の誕生色 ロイヤルベージュ(AB9170)。色言葉は「高貴な品性、優雅、品位」です。相性の良い色はオータムレイクです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiEL33QgXyjDopMImRCwV_eOBdXMCjJC01q2RSa393Hb4xy-4Y4KbAKdCClkjZFYSx5VI8MFjn32IVNtfGlsyK_KxpBwf6UYKIT0JZ-V8XCYafaphAgU1aX0qRgTitjQnwh5zbUAn90jUC86VZnLWy8vXoNe_624G3xiha5lMXm9cO0jXLcm_V7NFIO7qVh=s1600"
 en_name: "Royal Beige"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiEL33QgXyjDopMImRCwV_eOBdXMCjJC01q2RSa393Hb4xy-4Y4KbAKdCClkjZFYSx5VI8MFjn32IVNtfGlsyK_KxpBwf6UYKIT0JZ-V8XCYafaphAgU1aX0qRgTitjQnwh5zbUAn90jUC86VZnLWy8vXoNe_624G3xiha5lMXm9cO0jXLcm_V7NFIO7qVh=s1600)
-
 
 ## 8月18日の誕生色: ロイヤルベージュ (`#AB9170`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjklX7ejXLqRCyuHu-YYfFWV9fBLxnUilRTM21M7b5w8FfiAUWWXUct_dw9p9RKwLejRZVhl1CTM9uJJZ7NfA7KHN3nNsZmaqCqwzKbB9oa-ZzhCncdYzPxHjdMYkg9PKKcPUrE9yVIibLsi70e_iC71k1P1K9t5NAlSnffifADkG32jmFQRsC2XvLVlIw8=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "オールドグリーン、9月20日の誕生色"
 date: "2026-09-20"
 updated: "2026-09-20"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ソラブルー"
 description: "9月20日の誕生色 オールドグリーン(726D46)。色言葉は「古典的、賢明、伝統的」です。相性の良い色はソラブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjklX7ejXLqRCyuHu-YYfFWV9fBLxnUilRTM21M7b5w8FfiAUWWXUct_dw9p9RKwLejRZVhl1CTM9uJJZ7NfA7KHN3nNsZmaqCqwzKbB9oa-ZzhCncdYzPxHjdMYkg9PKKcPUrE9yVIibLsi70e_iC71k1P1K9t5NAlSnffifADkG32jmFQRsC2XvLVlIw8=s1600"
 en_name: "Old Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjklX7ejXLqRCyuHu-YYfFWV9fBLxnUilRTM21M7b5w8FfiAUWWXUct_dw9p9RKwLejRZVhl1CTM9uJJZ7NfA7KHN3nNsZmaqCqwzKbB9oa-ZzhCncdYzPxHjdMYkg9PKKcPUrE9yVIibLsi70e_iC71k1P1K9t5NAlSnffifADkG32jmFQRsC2XvLVlIw8=s1600)
-
 
 ## 9月20日の誕生色: オールドグリーン (`#726D46`)
 

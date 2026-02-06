@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhLpB-beq9MVB0U8NFMvd1F2LYVmk_0qXzM1fGxirrvCd30zvKKw1oiJPmFR623APbW-hQn_TvIcUucW9CGbavYBeFl_yualygA-gApn0wxHLtWOjN4WgORxELM2Z0JaRaxKJNoqRS1pndiJJZloowPLAQYwTZ2DL8SF4TxoLuSuagkwToHhwvlBkXLgnzd=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "サンレッド、7月9日の誕生色"
 date: "2026-07-09"
 updated: "2026-07-09"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "アクア"
 description: "7月9日の誕生色 サンレッド(F01313)。色言葉は「エネルギー充満、明るい光、リーダーシップ」です。相性の良い色はアクアです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhLpB-beq9MVB0U8NFMvd1F2LYVmk_0qXzM1fGxirrvCd30zvKKw1oiJPmFR623APbW-hQn_TvIcUucW9CGbavYBeFl_yualygA-gApn0wxHLtWOjN4WgORxELM2Z0JaRaxKJNoqRS1pndiJJZloowPLAQYwTZ2DL8SF4TxoLuSuagkwToHhwvlBkXLgnzd=s1600"
 en_name: "Sun Red"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhLpB-beq9MVB0U8NFMvd1F2LYVmk_0qXzM1fGxirrvCd30zvKKw1oiJPmFR623APbW-hQn_TvIcUucW9CGbavYBeFl_yualygA-gApn0wxHLtWOjN4WgORxELM2Z0JaRaxKJNoqRS1pndiJJZloowPLAQYwTZ2DL8SF4TxoLuSuagkwToHhwvlBkXLgnzd=s1600)
-
 
 ## 7月9日の誕生色: サンレッド (`#F01313`)
 

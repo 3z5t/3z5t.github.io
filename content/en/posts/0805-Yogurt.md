@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjep5zJtTpdvEwmYK8EcGgwXPotlmxKSGuAJ9ojBDBcnSEP6IJ81mbJlGkgg1OW0wsrR75Pumf9bUTCXKskDpGYJK7wKs_UpybdTdt78da5YuY_hcJ5SO-PFnx4rU6J3rd3S9VR0jDWPwdBP_8X3zmtbUkSnsH_sypFgOncMC1dc4MnzZVfTXDGZV2iRVEv=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Yogurt, The Birthday Color of August 5"
 date: "2026-08-05"
 updated: "2026-08-05"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "evening sky"
 description: "The birthday color for August 5 is Yogurt (FFDCB8). Its meaning is Pure Heart, Fresh, Bright Personality."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjep5zJtTpdvEwmYK8EcGgwXPotlmxKSGuAJ9ojBDBcnSEP6IJ81mbJlGkgg1OW0wsrR75Pumf9bUTCXKskDpGYJK7wKs_UpybdTdt78da5YuY_hcJ5SO-PFnx4rU6J3rd3S9VR0jDWPwdBP_8X3zmtbUkSnsH_sypFgOncMC1dc4MnzZVfTXDGZV2iRVEv=s1600"
 en_name: "Yogurt"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjep5zJtTpdvEwmYK8EcGgwXPotlmxKSGuAJ9ojBDBcnSEP6IJ81mbJlGkgg1OW0wsrR75Pumf9bUTCXKskDpGYJK7wKs_UpybdTdt78da5YuY_hcJ5SO-PFnx4rU6J3rd3S9VR0jDWPwdBP_8X3zmtbUkSnsH_sypFgOncMC1dc4MnzZVfTXDGZV2iRVEv=s1600)
-
 
 ## Birthday Color for August 5: Yogurt (`#FFDCB8`)
 

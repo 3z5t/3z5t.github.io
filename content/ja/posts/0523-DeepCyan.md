@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEirBKEjGJzZRvix8zaMeLpI47skpXnv2Q2q8S3ahFk_mpdYL0U0AqYc-cjNlmPcQT7yciHY9zYZlMMSuNYcCP01-eiVTJNtkMTEICMwY2pzg4bG-Rg4wTY-HGzpV-gdNmoVbzYFuXh2zSQK-bbqakp_dyWXa9kWCK8XaEo5lEQHRTsf_GKqjy19xrbsq1P3=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープシアン、5月23日の誕生色"
 date: "2026-05-23"
 updated: "2026-05-23"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "クリームモカ"
 description: "5月23日の誕生色 ディープシアン(347691)。色言葉は「神秘的、直感力、洞察力」です。相性の良い色はクリームモカです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEirBKEjGJzZRvix8zaMeLpI47skpXnv2Q2q8S3ahFk_mpdYL0U0AqYc-cjNlmPcQT7yciHY9zYZlMMSuNYcCP01-eiVTJNtkMTEICMwY2pzg4bG-Rg4wTY-HGzpV-gdNmoVbzYFuXh2zSQK-bbqakp_dyWXa9kWCK8XaEo5lEQHRTsf_GKqjy19xrbsq1P3=s1600"
 en_name: "Deep Cyan"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEirBKEjGJzZRvix8zaMeLpI47skpXnv2Q2q8S3ahFk_mpdYL0U0AqYc-cjNlmPcQT7yciHY9zYZlMMSuNYcCP01-eiVTJNtkMTEICMwY2pzg4bG-Rg4wTY-HGzpV-gdNmoVbzYFuXh2zSQK-bbqakp_dyWXa9kWCK8XaEo5lEQHRTsf_GKqjy19xrbsq1P3=s1600)
-
 
 ## 5月23日の誕生色: ディープシアン (`#347691`)
 

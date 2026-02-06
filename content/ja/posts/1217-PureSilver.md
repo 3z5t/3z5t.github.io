@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi95WKnqi-CxJEQTmFQuoEcujQWEgvcnonmgB9mDdmTw6yOHu788kw0t1PvLuJ7BtaQFKjb0h8vozDQpoPCCrKKarhTN3S9xVaND4QqWXIhLkpIQcEq1vvQI17tYdvye2WwAOMZNcAaoKUbt4sTsfOThfyCToZoAX9wZCn9W6-b3OcREEbNZ9_BPrE2kTF5=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ピュアシルバー、12月17日の誕生色"
 date: "2026-12-17"
 updated: "2026-12-17"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "アビスブラック"
 description: "12月17日の誕生色 ピュアシルバー(E5E5E5)。色言葉は「冬のように澄んだ、純粋、清らか」です。相性の良い色はアビスブラックです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi95WKnqi-CxJEQTmFQuoEcujQWEgvcnonmgB9mDdmTw6yOHu788kw0t1PvLuJ7BtaQFKjb0h8vozDQpoPCCrKKarhTN3S9xVaND4QqWXIhLkpIQcEq1vvQI17tYdvye2WwAOMZNcAaoKUbt4sTsfOThfyCToZoAX9wZCn9W6-b3OcREEbNZ9_BPrE2kTF5=s1600"
 en_name: "Pure Silver"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi95WKnqi-CxJEQTmFQuoEcujQWEgvcnonmgB9mDdmTw6yOHu788kw0t1PvLuJ7BtaQFKjb0h8vozDQpoPCCrKKarhTN3S9xVaND4QqWXIhLkpIQcEq1vvQI17tYdvye2WwAOMZNcAaoKUbt4sTsfOThfyCToZoAX9wZCn9W6-b3OcREEbNZ9_BPrE2kTF5=s1600)
-
 
 ## 12月17日の誕生色: ピュアシルバー (`#E5E5E5`)
 

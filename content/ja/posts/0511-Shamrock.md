@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhq-5PxKRLIY7_m_-zLRyaqg5nv9wQIG0Hlwjm_I0d8BL1zcRlJaYCr9610uX3ylpLy586YfiDNyGnGZz84IfM-Q-dKartY4HZpWtwKNzZzQTP1Nq3A2aMJeWleIRR_VLXAyhABdRSRC4PjH9MGQKAlp01pOxd0Bx4vKukvzFW-HRrDE5pPiu9w8WvcjyPF=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "シャムロック、5月11日の誕生色"
 date: "2026-05-11"
 updated: "2026-05-11"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "プラム"
 description: "5月11日の誕生色 シャムロック(33CC99)。色言葉は「幸運、インスピレーション、創造性」です。相性の良い色はプラムです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhq-5PxKRLIY7_m_-zLRyaqg5nv9wQIG0Hlwjm_I0d8BL1zcRlJaYCr9610uX3ylpLy586YfiDNyGnGZz84IfM-Q-dKartY4HZpWtwKNzZzQTP1Nq3A2aMJeWleIRR_VLXAyhABdRSRC4PjH9MGQKAlp01pOxd0Bx4vKukvzFW-HRrDE5pPiu9w8WvcjyPF=s1600"
 en_name: "Shamrock"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhq-5PxKRLIY7_m_-zLRyaqg5nv9wQIG0Hlwjm_I0d8BL1zcRlJaYCr9610uX3ylpLy586YfiDNyGnGZz84IfM-Q-dKartY4HZpWtwKNzZzQTP1Nq3A2aMJeWleIRR_VLXAyhABdRSRC4PjH9MGQKAlp01pOxd0Bx4vKukvzFW-HRrDE5pPiu9w8WvcjyPF=s1600)
-
 
 ## 5月11日の誕生色: シャムロック (`#33CC99`)
 

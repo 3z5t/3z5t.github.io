@@ -1,21 +1,24 @@
 ---
-"title": "Deep Magenta, The Birthday Color of February 12"
-"date": "2026-02-12"
-"updated": "2026-02-12"
-"labels":
-- "deep magenta"
-- "birthday color"
-- "february 12"
-- "2c1725"
-- "february"
-- "whipped cream"
-"description": "The birthday color for February 12 is Deep Magenta (2C1725). Its meaning is Insightful, Mature, Wisdom."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgAKe9KbIWvCyBtMi5TWpBVWk6RvMwwo8uNzV1MHrikeZZRsoJaZDU7guY4NUPTZv6peDzOzU-w-TLr4fngjRjqZu_X7yOcE8f8t4khD1dwueYdomypfk5SL8lFMmquTdQoauV8E97Rqt1A8w5NhbnYrkcYba5bxAlvSW5NCitpi0oXeOSOT-HyHXuyduvP=s1600"
-"en_name": "DeepMagenta"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "336621730547289473"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/deep-magenta-birthday-color-of-february.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgAKe9KbIWvCyBtMi5TWpBVWk6RvMwwo8uNzV1MHrikeZZRsoJaZDU7guY4NUPTZv6peDzOzU-w-TLr4fngjRjqZu_X7yOcE8f8t4khD1dwueYdomypfk5SL8lFMmquTdQoauV8E97Rqt1A8w5NhbnYrkcYba5bxAlvSW5NCitpi0oXeOSOT-HyHXuyduvP=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Deep Magenta, The Birthday Color of February 12"
+date: "2026-02-12"
+updated: "2026-02-12"
+tags:
+  - "deep magenta"
+  - "birthday color"
+  - "february 12"
+  - "2c1725"
+  - "february"
+  - "whipped cream"
+description: "The birthday color for February 12 is Deep Magenta (2C1725). Its meaning is Insightful, Mature, Wisdom."
+en_name: "DeepMagenta"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "336621730547289473"
+postUrl: "https://the366days-en.blogspot.com/2026/02/deep-magenta-birthday-color-of-february.html"
 ---
 
 ## Birthday Color for February 12: Deep Magenta (`#2C1725`)

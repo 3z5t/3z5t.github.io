@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-26'
-description: 1月26日の誕生色 パウダーブルー(C4E8E6)。色言葉は「穏やか、繊細、共感力」です。相性の良い色はディープマゼンタです。
-en_name: Powder Blue
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhqR2YgEONfEn3ud_trFWrm9U3KwVsRXgoXIBT3TcMeC5VOqJE-Hy1Z7FqTKV4yvDjTlq7fc3qdHLbBthB9pht1DUrNO_Jb8rHWOvYHXRLzvR3uc5cwTXhDD4ij48--PSgcTxzKKGARYK_ROh-dauYe8vu3mj71QGLWbLGadFI5xr81SBaXcc9znb3StGsJ=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-26"
+description: "1月26日の誕生色 パウダーブルー(C4E8E6)。色言葉は「穏やか、繊細、共感力」です。相性の良い色はディープマゼンタです。"
+en_name: "Powder Blue"
 tags:
-- パウダーブルー
-- 誕生色
-- 1月26日
-- C4E8E6
-- 1月
-- ディープマゼンタ
-postId: '2388457437780289945'
-postUrl: https://the366days-ja.blogspot.com/2026/01/126-powder-blue.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEhqR2YgEONfEn3ud_trFWrm9U3KwVsRXgoXIBT3TcMeC5VOqJE-Hy1Z7FqTKV4yvDjTlq7fc3qdHLbBthB9pht1DUrNO_Jb8rHWOvYHXRLzvR3uc5cwTXhDD4ij48--PSgcTxzKKGARYK_ROh-dauYe8vu3mj71QGLWbLGadFI5xr81SBaXcc9znb3StGsJ=s1600
-title: パウダーブルー、1月26日の誕生色
-updated: '2026-01-26'
+  - "パウダーブルー"
+  - "誕生色"
+  - "1月26日"
+  - "C4E8E6"
+  - "1月"
+  - "ディープマゼンタ"
+postId: "2388457437780289945"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/126-powder-blue.html"
+profileName: "日々のカケラ"
+title: "パウダーブルー、1月26日の誕生色"
+updated: "2026-01-26"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhqR2YgEONfEn3ud_trFWrm9U3KwVsRXgoXIBT3TcMeC5VOqJE-Hy1Z7FqTKV4yvDjTlq7fc3qdHLbBthB9pht1DUrNO_Jb8rHWOvYHXRLzvR3uc5cwTXhDD4ij48--PSgcTxzKKGARYK_ROh-dauYe8vu3mj71QGLWbLGadFI5xr81SBaXcc9znb3StGsJ=s1600)
-
 
 ## 1月26日の誕生色: パウダーブルー (`#C4E8E6`)
 

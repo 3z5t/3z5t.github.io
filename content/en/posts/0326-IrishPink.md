@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEikftVMi8MVE540iJGYKhn7wAYX6Qm9Sr7BXnVFIJI-XmKXc5SjdR_X9A89H0lE4QDI0sUZWRExpn86fD0AoxkQaL1H4zFlsbtCz327vPqpJR1dW2Kxxg8uG8iM6tvFIi9VhhLz0pzenvIVqxw6UcGXYGgupkywZB95pdTnpJCazp_0JUhY-7OM-Zl_1w84=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Irish Pink, The Birthday Color of March 26"
 date: "2026-03-26"
 updated: "2026-03-26"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "deep sea"
 description: "The birthday color for March 26 is Irish Pink (DFAEA7). Its meaning is Lively, Vitality, Healthy."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEikftVMi8MVE540iJGYKhn7wAYX6Qm9Sr7BXnVFIJI-XmKXc5SjdR_X9A89H0lE4QDI0sUZWRExpn86fD0AoxkQaL1H4zFlsbtCz327vPqpJR1dW2Kxxg8uG8iM6tvFIi9VhhLz0pzenvIVqxw6UcGXYGgupkywZB95pdTnpJCazp_0JUhY-7OM-Zl_1w84=s1600"
 en_name: "IrishPink"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEikftVMi8MVE540iJGYKhn7wAYX6Qm9Sr7BXnVFIJI-XmKXc5SjdR_X9A89H0lE4QDI0sUZWRExpn86fD0AoxkQaL1H4zFlsbtCz327vPqpJR1dW2Kxxg8uG8iM6tvFIi9VhhLz0pzenvIVqxw6UcGXYGgupkywZB95pdTnpJCazp_0JUhY-7OM-Zl_1w84=s1600)
-
 
 ## Birthday Color for March 26: Irish Pink (`#DFAEA7`)
 

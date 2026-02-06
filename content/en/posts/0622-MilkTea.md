@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEheeq_JOJzFnH9_aBOaqdArm7FLT20w50vltuVTsqswX0ly774nMDzZR7_OnBNIuW2ZRtst90zPUa5TZA8Fe7CAn_AVHycmjq0CVIOj2V_R8vLHSvoyteE3QbUkpaVc2su16QjNwMmldClAY9wtRJCQTfix_Bv52MN-1qze7SYWxhc1uCFo9lpE5EveHtHb=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Milk Tea, The Birthday Color of June 22"
 date: "2026-06-22"
 updated: "2026-06-22"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "true navy"
 description: "The birthday color for June 22 is Milk Tea (E4B982). Its meaning is Soft Personality, Sweet, Gentle."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEheeq_JOJzFnH9_aBOaqdArm7FLT20w50vltuVTsqswX0ly774nMDzZR7_OnBNIuW2ZRtst90zPUa5TZA8Fe7CAn_AVHycmjq0CVIOj2V_R8vLHSvoyteE3QbUkpaVc2su16QjNwMmldClAY9wtRJCQTfix_Bv52MN-1qze7SYWxhc1uCFo9lpE5EveHtHb=s1600"
 en_name: "MilkTea"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEheeq_JOJzFnH9_aBOaqdArm7FLT20w50vltuVTsqswX0ly774nMDzZR7_OnBNIuW2ZRtst90zPUa5TZA8Fe7CAn_AVHycmjq0CVIOj2V_R8vLHSvoyteE3QbUkpaVc2su16QjNwMmldClAY9wtRJCQTfix_Bv52MN-1qze7SYWxhc1uCFo9lpE5EveHtHb=s1600)
-
 
 ## Birthday Color for June 22: Milk Tea (`#E4B982`)
 

@@ -1,26 +1,26 @@
 ---
-author: Pieces of a Day
-date: '2026-01-20'
-description: The birthday color for January 20 is Vivid Sky (00BFFF). Its meaning
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEinKjaEbsIR6lhk4gSw_GKSXJpeQE1mUaT4-fT1OdGI-QYLGo113L0ai7Fk3NaKK3tsfi6rSY0O2NjQUEI7Cvi3JsHaT5WaSMHSNAcMMy8NMugoqzdZBmvjETmZpEcSjKYXcoFJ_mmWa88SQGfNNpEe3GXRlNppPXU5u9BHwLE_JvI3ZD31THiMskJPzzYt=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "Pieces of a Day"
+date: "2026-01-20"
+description: "The birthday color for January 20 is Vivid Sky (00BFFF). Its meaning"
   is Free, Open-minded, Creativity.
-en_name: VividSky
+en_name: "VividSky"
 tags:
-- vivid sky
-- birthday color
-- january 20
-- 00bfff
-- january
-- scarlet
-postId: '153902621564058332'
-postUrl: https://the366days-en.blogspot.com/2026/01/vivid-sky-birthday-color-of-january-20.html
-profileName: Pieces of a Day
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEinKjaEbsIR6lhk4gSw_GKSXJpeQE1mUaT4-fT1OdGI-QYLGo113L0ai7Fk3NaKK3tsfi6rSY0O2NjQUEI7Cvi3JsHaT5WaSMHSNAcMMy8NMugoqzdZBmvjETmZpEcSjKYXcoFJ_mmWa88SQGfNNpEe3GXRlNppPXU5u9BHwLE_JvI3ZD31THiMskJPzzYt=s1600
-title: Vivid Sky, The Birthday Color of January 20
-updated: '2026-01-20'
+  - "vivid sky"
+  - "birthday color"
+  - "january 20"
+  - "00bfff"
+  - "january"
+  - "scarlet"
+postId: "153902621564058332"
+postUrl: "https://the366days-en.blogspot.com/2026/01/vivid-sky-birthday-color-of-january-20.html"
+profileName: "Pieces of a Day"
+title: "Vivid Sky, The Birthday Color of January 20"
+updated: "2026-01-20"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEinKjaEbsIR6lhk4gSw_GKSXJpeQE1mUaT4-fT1OdGI-QYLGo113L0ai7Fk3NaKK3tsfi6rSY0O2NjQUEI7Cvi3JsHaT5WaSMHSNAcMMy8NMugoqzdZBmvjETmZpEcSjKYXcoFJ_mmWa88SQGfNNpEe3GXRlNppPXU5u9BHwLE_JvI3ZD31THiMskJPzzYt=s1600)
-
 
 ## Birthday Color for January 20: Vivid Sky (`#00BFFF`)
 

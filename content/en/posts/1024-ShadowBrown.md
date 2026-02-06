@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgA05sR4Kmo1p5N2zeYWE4hRHghRWQjbUqGlB3gRM9p_ztHDSKQYxu9o9S8B4pfNugasoDG6EVKA3gmOe3-6srn3lRJxTCYrYtj6MrB6f3hY_FbHsx2p_7eHifsggvCRyCy8HIXHMOmPOwvV6hFpoubJd6wrBO213yf2zi0f7znOOLq6v9k4pIvHW2kGZ6F=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Shadow Brown, The Birthday Color of October 24"
 date: "2026-10-24"
 updated: "2026-10-24"
@@ -10,16 +14,12 @@ tags:
   - "october"
   - "silver blue"
 description: "The birthday color for October 24 is Shadow Brown (503D3E). Its meaning is Mysterious, Profound, Insightful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgA05sR4Kmo1p5N2zeYWE4hRHghRWQjbUqGlB3gRM9p_ztHDSKQYxu9o9S8B4pfNugasoDG6EVKA3gmOe3-6srn3lRJxTCYrYtj6MrB6f3hY_FbHsx2p_7eHifsggvCRyCy8HIXHMOmPOwvV6hFpoubJd6wrBO213yf2zi0f7znOOLq6v9k4pIvHW2kGZ6F=s1600"
 en_name: "ShadowBrown"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgA05sR4Kmo1p5N2zeYWE4hRHghRWQjbUqGlB3gRM9p_ztHDSKQYxu9o9S8B4pfNugasoDG6EVKA3gmOe3-6srn3lRJxTCYrYtj6MrB6f3hY_FbHsx2p_7eHifsggvCRyCy8HIXHMOmPOwvV6hFpoubJd6wrBO213yf2zi0f7znOOLq6v9k4pIvHW2kGZ6F=s1600)
-
 
 ## Birthday Color for October 24: Shadow Brown (`#503D3E`)
 

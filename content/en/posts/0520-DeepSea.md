@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjytSqR9IvF1YGO136nFJpW5XcVoA4vAwC9MRZNPNPR0eA-taKbfgKSxSNgp3STw1RhIkA_kFjsjXpFIxvO56BvEwMGjxrPTdNxI9XoRMIQjdUjja1DvIkei2b4Lbj7bzDkN-Yd6Zx2-WL9QEfsEyw-7a-FT1czhlvEPZIafPlF2-jbIXLaz1kFLVSbaW_W=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Sea, The Birthday Color of May 20"
 date: "2026-05-20"
 updated: "2026-05-20"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "oyster pink"
 description: "The birthday color for May 20 is Deep Sea (2F4F4F). Its meaning is Insightful, Contemplative, Wise."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjytSqR9IvF1YGO136nFJpW5XcVoA4vAwC9MRZNPNPR0eA-taKbfgKSxSNgp3STw1RhIkA_kFjsjXpFIxvO56BvEwMGjxrPTdNxI9XoRMIQjdUjja1DvIkei2b4Lbj7bzDkN-Yd6Zx2-WL9QEfsEyw-7a-FT1czhlvEPZIafPlF2-jbIXLaz1kFLVSbaW_W=s1600"
 en_name: "DeepSea"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjytSqR9IvF1YGO136nFJpW5XcVoA4vAwC9MRZNPNPR0eA-taKbfgKSxSNgp3STw1RhIkA_kFjsjXpFIxvO56BvEwMGjxrPTdNxI9XoRMIQjdUjja1DvIkei2b4Lbj7bzDkN-Yd6Zx2-WL9QEfsEyw-7a-FT1czhlvEPZIafPlF2-jbIXLaz1kFLVSbaW_W=s1600)
-
 
 ## Birthday Color for May 20: Deep Sea (`#2F4F4F`)
 

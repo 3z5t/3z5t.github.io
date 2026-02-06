@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgpWeJDwkljf5h_PdS3UWREN3KhI_krJ6jppylyG1B-MqYWNAPKM4pyphg9lYshM8iT4YlatvgUmK6GyyF7l8c_o15ZY67tSR_r27ayBkNo-Cly6j-zYf61xVJ9mD4l_Jl-z8u_q6UcpEX7-kRR0cb61V4bCijDzJkDQWWqa07bnwhTET-ZDATBdyk67uGK=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Suede Gold, The Birthday Color of December 22"
 date: "2026-12-22"
 updated: "2026-12-22"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "evening sky"
 description: "The birthday color for December 22 is Suede Gold (F9EBDA). Its meaning is Abundant, Hopeful, Expectant."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgpWeJDwkljf5h_PdS3UWREN3KhI_krJ6jppylyG1B-MqYWNAPKM4pyphg9lYshM8iT4YlatvgUmK6GyyF7l8c_o15ZY67tSR_r27ayBkNo-Cly6j-zYf61xVJ9mD4l_Jl-z8u_q6UcpEX7-kRR0cb61V4bCijDzJkDQWWqa07bnwhTET-ZDATBdyk67uGK=s1600"
 en_name: "SuedeGold"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgpWeJDwkljf5h_PdS3UWREN3KhI_krJ6jppylyG1B-MqYWNAPKM4pyphg9lYshM8iT4YlatvgUmK6GyyF7l8c_o15ZY67tSR_r27ayBkNo-Cly6j-zYf61xVJ9mD4l_Jl-z8u_q6UcpEX7-kRR0cb61V4bCijDzJkDQWWqa07bnwhTET-ZDATBdyk67uGK=s1600)
-
 
 ## Birthday Color for December 22: Suede Gold (`#F9EBDA`)
 

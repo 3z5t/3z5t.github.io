@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhMvEu1LTAl1PIg2eBUckK0a3sEH5mJaSTJfBb7k2zxXnb722-jNJ9cPvQO_gZtJdEbpeiApq6gVO52qhSVxOUtrKRLeFZ5vX0iZzdQU3PYS_Q7k3WnMCkjDAlqfSmeN4g9OH6ONQwZAE8TCN_RT7JPwqLzh45iymvPoxZV8MSo9ovS_GMLbv82vKqHPD9B=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Antique Gold, The Birthday Color of May 4"
 date: "2026-05-04"
 updated: "2026-05-04"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "elegant ultramarine"
 description: "The birthday color for May 4 is Antique Gold (CFB53B). Its meaning is Wise, Experienced, Insightful."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhMvEu1LTAl1PIg2eBUckK0a3sEH5mJaSTJfBb7k2zxXnb722-jNJ9cPvQO_gZtJdEbpeiApq6gVO52qhSVxOUtrKRLeFZ5vX0iZzdQU3PYS_Q7k3WnMCkjDAlqfSmeN4g9OH6ONQwZAE8TCN_RT7JPwqLzh45iymvPoxZV8MSo9ovS_GMLbv82vKqHPD9B=s1600"
 en_name: "AntiqueGold"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhMvEu1LTAl1PIg2eBUckK0a3sEH5mJaSTJfBb7k2zxXnb722-jNJ9cPvQO_gZtJdEbpeiApq6gVO52qhSVxOUtrKRLeFZ5vX0iZzdQU3PYS_Q7k3WnMCkjDAlqfSmeN4g9OH6ONQwZAE8TCN_RT7JPwqLzh45iymvPoxZV8MSo9ovS_GMLbv82vKqHPD9B=s1600)
-
 
 ## Birthday Color for May 4: Antique Gold (`#CFB53B`)
 

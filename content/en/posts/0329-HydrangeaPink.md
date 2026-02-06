@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj5ygmoJqrdrKEDgCBfVfgMkgz9aViPD4pl-KyvOT1Mfq9d0k69vvlD_5UsdYfEJoS98Jj71NUPkHcF1PPBdKkChcVb2Uxw6MpfN-O1wJNbpEALt0YCPJgfLiw4GDKN0ja7TX_bJV11e57NNHGOwU8Q1wryx42Ibk7FNomxwk7-RHNmUA6yBBTFwKmzN6Yq=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Hydrangea Pink, The Birthday Color of March 29"
 date: "2026-03-29"
 updated: "2026-03-29"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "deep night sky"
 description: "The birthday color for March 29 is Hydrangea Pink (FFBFCA). Its meaning is Abundant, Beautiful, Elegant."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj5ygmoJqrdrKEDgCBfVfgMkgz9aViPD4pl-KyvOT1Mfq9d0k69vvlD_5UsdYfEJoS98Jj71NUPkHcF1PPBdKkChcVb2Uxw6MpfN-O1wJNbpEALt0YCPJgfLiw4GDKN0ja7TX_bJV11e57NNHGOwU8Q1wryx42Ibk7FNomxwk7-RHNmUA6yBBTFwKmzN6Yq=s1600"
 en_name: "HydrangeaPink"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj5ygmoJqrdrKEDgCBfVfgMkgz9aViPD4pl-KyvOT1Mfq9d0k69vvlD_5UsdYfEJoS98Jj71NUPkHcF1PPBdKkChcVb2Uxw6MpfN-O1wJNbpEALt0YCPJgfLiw4GDKN0ja7TX_bJV11e57NNHGOwU8Q1wryx42Ibk7FNomxwk7-RHNmUA6yBBTFwKmzN6Yq=s1600)
-
 
 ## Birthday Color for March 29: Hydrangea Pink (`#FFBFCA`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjKwo9zwvzNfI4WLvsge6wFt5cnnSU_CooQ2nRmld3GPBCrhUsA_iAZjCeJXutF6p4NPc17qPnqgwGXJJvi9Or_YbMocb3kpyBSF-tG3EgSylTLuG8UYuel0yB6TVTmk7SXb-vI_oWz_cMjvWFqF36an2vbVEkLhziX3yuOxm7u9kUbc78ZLjEyF21-7-Si=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Midnight Modern Black, The Birthday Color of November 26"
 date: "2026-11-26"
 updated: "2026-11-26"
@@ -10,16 +14,12 @@ tags:
   - "november"
   - "pure silver"
 description: "The birthday color for November 26 is Midnight Modern Black (1A1A1B). Its meaning is Modern, Sophisticated, Simple."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjKwo9zwvzNfI4WLvsge6wFt5cnnSU_CooQ2nRmld3GPBCrhUsA_iAZjCeJXutF6p4NPc17qPnqgwGXJJvi9Or_YbMocb3kpyBSF-tG3EgSylTLuG8UYuel0yB6TVTmk7SXb-vI_oWz_cMjvWFqF36an2vbVEkLhziX3yuOxm7u9kUbc78ZLjEyF21-7-Si=s1600"
 en_name: "MidnightModernBlack"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjKwo9zwvzNfI4WLvsge6wFt5cnnSU_CooQ2nRmld3GPBCrhUsA_iAZjCeJXutF6p4NPc17qPnqgwGXJJvi9Or_YbMocb3kpyBSF-tG3EgSylTLuG8UYuel0yB6TVTmk7SXb-vI_oWz_cMjvWFqF36an2vbVEkLhziX3yuOxm7u9kUbc78ZLjEyF21-7-Si=s1600)
-
 
 ## Birthday Color for November 26: Midnight Modern Black (`#1A1A1B`)
 

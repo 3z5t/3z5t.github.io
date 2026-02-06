@@ -1,21 +1,24 @@
 ---
-"title": "Dark Red, The Birthday Color of February 20"
-"date": "2026-02-20"
-"updated": "2026-02-20"
-"labels":
-- "dark red"
-- "birthday color"
-- "february 20"
-- "840c18"
-- "february"
-- "baby blue"
-"description": "The birthday color for February 20 is Dark Red (840C18). Its meaning is Determination, Willpower, Drive."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEg-hcoo_bUkgj_SNC2Jm3xvEiFlwGyvXf_iBcy2wVkXHA4UTFRcD6pP6h7FCSXtb7us_Ib_BjhqMKegNtPmCl905fTbr72YQJV1GLTGmJOKDBgVKrjTCHPMR_8J_X2MMmhWFtTQsTZziHkozsc7c0PVW0eUv3bpcw0IeMJc94UqH-UVE-uyorCK4UrbXN7D=s1600"
-"en_name": "DarkRed"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "2706008625015129801"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/dark-red-birthday-color-of-february-20.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg-hcoo_bUkgj_SNC2Jm3xvEiFlwGyvXf_iBcy2wVkXHA4UTFRcD6pP6h7FCSXtb7us_Ib_BjhqMKegNtPmCl905fTbr72YQJV1GLTGmJOKDBgVKrjTCHPMR_8J_X2MMmhWFtTQsTZziHkozsc7c0PVW0eUv3bpcw0IeMJc94UqH-UVE-uyorCK4UrbXN7D=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Dark Red, The Birthday Color of February 20"
+date: "2026-02-20"
+updated: "2026-02-20"
+tags:
+  - "dark red"
+  - "birthday color"
+  - "february 20"
+  - "840c18"
+  - "february"
+  - "baby blue"
+description: "The birthday color for February 20 is Dark Red (840C18). Its meaning is Determination, Willpower, Drive."
+en_name: "DarkRed"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "2706008625015129801"
+postUrl: "https://the366days-en.blogspot.com/2026/02/dark-red-birthday-color-of-february-20.html"
 ---
 
 ## Birthday Color for February 20: Dark Red (`#840C18`)

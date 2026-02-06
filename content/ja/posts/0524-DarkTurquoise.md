@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgc3QgY7sAnRJY5H9i39RvCzvhRJMrouRFq_elUmk6SW2iLwTog5yWOJ_Zg5ZQkQH_H5xinaTBu69TNpcWhJUfnUlX_nfocsllKVdShBo53r_TAn0nlyO5P_cIKLMXdxRV2FPf5QThck0SZfruWd9RWQBM56dzUK8NTIPNim9QXaWdq76q3jfVkaM4AhENV=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ダークターコイズ、5月24日の誕生色"
 date: "2026-05-24"
 updated: "2026-05-24"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "ブランディパンチ"
 description: "5月24日の誕生色 ダークターコイズ(3F97AF)。色言葉は「深みのある、神秘的、創造的」です。相性の良い色はブランディパンチです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgc3QgY7sAnRJY5H9i39RvCzvhRJMrouRFq_elUmk6SW2iLwTog5yWOJ_Zg5ZQkQH_H5xinaTBu69TNpcWhJUfnUlX_nfocsllKVdShBo53r_TAn0nlyO5P_cIKLMXdxRV2FPf5QThck0SZfruWd9RWQBM56dzUK8NTIPNim9QXaWdq76q3jfVkaM4AhENV=s1600"
 en_name: "Dark Turquoise"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgc3QgY7sAnRJY5H9i39RvCzvhRJMrouRFq_elUmk6SW2iLwTog5yWOJ_Zg5ZQkQH_H5xinaTBu69TNpcWhJUfnUlX_nfocsllKVdShBo53r_TAn0nlyO5P_cIKLMXdxRV2FPf5QThck0SZfruWd9RWQBM56dzUK8NTIPNim9QXaWdq76q3jfVkaM4AhENV=s1600)
-
 
 ## 5月24日の誕生色: ダークターコイズ (`#3F97AF`)
 

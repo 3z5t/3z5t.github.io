@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhrp2UFIWOxEeSp66SQ-6N0p_n1QdTX7bZbGznmIUjHdtM-kqlwXq-gXoLxFn5k2HOSPKoX-lSBoRIXJqmtXPRcpB21XnqNsPbs_liiekcl5KW5CBPLTOYLbe4k4gtUFhEdTu6FPLSHYP7Q-XHTSJpAydSmTi1e27FJ8KGfVVhMLckAjy4_SaoBGlF4j9jV=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープ抹茶、9月14日の誕生色"
 date: "2026-09-14"
 updated: "2026-09-14"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ソラブルー"
 description: "9月14日の誕生色 ディープ抹茶(74703F)。色言葉は「深みのある、賢明、成熟」です。相性の良い色はソラブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhrp2UFIWOxEeSp66SQ-6N0p_n1QdTX7bZbGznmIUjHdtM-kqlwXq-gXoLxFn5k2HOSPKoX-lSBoRIXJqmtXPRcpB21XnqNsPbs_liiekcl5KW5CBPLTOYLbe4k4gtUFhEdTu6FPLSHYP7Q-XHTSJpAydSmTi1e27FJ8KGfVVhMLckAjy4_SaoBGlF4j9jV=s1600"
 en_name: "Deep Matcha"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhrp2UFIWOxEeSp66SQ-6N0p_n1QdTX7bZbGznmIUjHdtM-kqlwXq-gXoLxFn5k2HOSPKoX-lSBoRIXJqmtXPRcpB21XnqNsPbs_liiekcl5KW5CBPLTOYLbe4k4gtUFhEdTu6FPLSHYP7Q-XHTSJpAydSmTi1e27FJ8KGfVVhMLckAjy4_SaoBGlF4j9jV=s1600)
-
 
 ## 9月14日の誕生色: ディープ抹茶 (`#74703F`)
 

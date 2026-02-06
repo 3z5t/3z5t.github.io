@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgtZbvuC1ZNed2X1TXFjnzyx_9_vzHhyOGO79TwmjdGzUKIdoCUcCvkyvoWTdfNMRhJip0jegqhTIscMNR-0LKNCnDACAqZvNfg8MzYcW4kJTNSgl-RsQE38RgRm1PGmDxqzYiF-Xcwl8iwCgfhb_N8accE2C_a9UUUoUSNpLwsTtApYlFVZHu6UwuLsuqi=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープベージュ、8月27日の誕生色"
 date: "2026-08-27"
 updated: "2026-08-27"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "エレガントウルトラマリン"
 description: "8月27日の誕生色 ディープベージュ(D29E5C)。色言葉は「豊かな感性、深みのある、成熟」です。相性の良い色はエレガントウルトラマリンです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgtZbvuC1ZNed2X1TXFjnzyx_9_vzHhyOGO79TwmjdGzUKIdoCUcCvkyvoWTdfNMRhJip0jegqhTIscMNR-0LKNCnDACAqZvNfg8MzYcW4kJTNSgl-RsQE38RgRm1PGmDxqzYiF-Xcwl8iwCgfhb_N8accE2C_a9UUUoUSNpLwsTtApYlFVZHu6UwuLsuqi=s1600"
 en_name: "Deep Beige"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgtZbvuC1ZNed2X1TXFjnzyx_9_vzHhyOGO79TwmjdGzUKIdoCUcCvkyvoWTdfNMRhJip0jegqhTIscMNR-0LKNCnDACAqZvNfg8MzYcW4kJTNSgl-RsQE38RgRm1PGmDxqzYiF-Xcwl8iwCgfhb_N8accE2C_a9UUUoUSNpLwsTtApYlFVZHu6UwuLsuqi=s1600)
-
 
 ## 8月27日の誕生色: ディープベージュ (`#D29E5C`)
 

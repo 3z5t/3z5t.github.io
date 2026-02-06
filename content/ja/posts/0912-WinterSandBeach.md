@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjapyguzTRAjKFEfP4KXAEbmH7mU4aamN98QEEON5lbl6keRnB4A5YAYjsyOE_315CVQG59yI_8ETcF8YV7Cqe3cIwTpmOr21Mgn106SqEw0zOw9dpbVTU03a6X26_2m0_zEp3QhtOURexnt4W9avnc2UsfKqfHKm35DMhnEBxgxoMX8pE9dmwGjNwxtNMc=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ウィンターサンドビーチ、9月12日の誕生色"
 date: "2026-09-12"
 updated: "2026-09-12"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "チャコール"
 description: "9月12日の誕生色 ウィンターサンドビーチ(CEB9AB)。色言葉は「心地よい、安定感、温かい」です。相性の良い色はチャコールです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjapyguzTRAjKFEfP4KXAEbmH7mU4aamN98QEEON5lbl6keRnB4A5YAYjsyOE_315CVQG59yI_8ETcF8YV7Cqe3cIwTpmOr21Mgn106SqEw0zOw9dpbVTU03a6X26_2m0_zEp3QhtOURexnt4W9avnc2UsfKqfHKm35DMhnEBxgxoMX8pE9dmwGjNwxtNMc=s1600"
 en_name: "Winter Sand Beach"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjapyguzTRAjKFEfP4KXAEbmH7mU4aamN98QEEON5lbl6keRnB4A5YAYjsyOE_315CVQG59yI_8ETcF8YV7Cqe3cIwTpmOr21Mgn106SqEw0zOw9dpbVTU03a6X26_2m0_zEp3QhtOURexnt4W9avnc2UsfKqfHKm35DMhnEBxgxoMX8pE9dmwGjNwxtNMc=s1600)
-
 
 ## 9月12日の誕生色: ウィンターサンドビーチ (`#CEB9AB`)
 

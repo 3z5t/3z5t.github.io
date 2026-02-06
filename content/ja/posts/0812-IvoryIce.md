@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgRfCq09iMKP0Yxsku5aqvNC9qVqsLEtBa5a2sV_mmlfM9NNI2p3zq3MaAf3LbA5aadrEiYDX29XGz4MS4eXFU164n9R0d6SCmcuyOxcI5BbLACOWewxAxUxyn-oEocTAOTVvApEA_UszpXmG3yMjf4Uy323Q1yOFKeX9xqTAmAsDsBSn-kEuP_t26htDUJ=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アイボリーアイス、8月12日の誕生色"
 date: "2026-08-12"
 updated: "2026-08-12"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "トゥルーネイビー"
 description: "8月12日の誕生色 アイボリーアイス(DEBA86)。色言葉は「涼しげな性格、落ち着き、安定感」です。相性の良い色はトゥルーネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgRfCq09iMKP0Yxsku5aqvNC9qVqsLEtBa5a2sV_mmlfM9NNI2p3zq3MaAf3LbA5aadrEiYDX29XGz4MS4eXFU164n9R0d6SCmcuyOxcI5BbLACOWewxAxUxyn-oEocTAOTVvApEA_UszpXmG3yMjf4Uy323Q1yOFKeX9xqTAmAsDsBSn-kEuP_t26htDUJ=s1600"
 en_name: "Ivory Ice"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgRfCq09iMKP0Yxsku5aqvNC9qVqsLEtBa5a2sV_mmlfM9NNI2p3zq3MaAf3LbA5aadrEiYDX29XGz4MS4eXFU164n9R0d6SCmcuyOxcI5BbLACOWewxAxUxyn-oEocTAOTVvApEA_UszpXmG3yMjf4Uy323Q1yOFKeX9xqTAmAsDsBSn-kEuP_t26htDUJ=s1600)
-
 
 ## 8月12日の誕生色: アイボリーアイス (`#DEBA86`)
 

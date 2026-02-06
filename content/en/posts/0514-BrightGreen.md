@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgeVsyaLs_2kuJ8ZRdYghgofkqymTcw7ZdIiZ3BUEpQ_trV37757BwkrqV9gWCDRMIT3Di5ZICrhD_VEVCO7czFcZXSJL4-lMNqRT5wOU1GNBkFgSpg6Ven9ddwMlZLGICDBltSMpFctuxUgmE9qXtBy7wzIKN0pM0YBYH-ceWCOLE9UAeo5vBMkEyM1YXP=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Bright Green, The Birthday Color of May 14"
 date: "2026-05-14"
 updated: "2026-05-14"
@@ -10,16 +14,12 @@ tags:
   - "may"
   - "mystic purple"
 description: "The birthday color for May 14 is Bright Green (66FF00). Its meaning is Vitality, Creativity, Progressive."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgeVsyaLs_2kuJ8ZRdYghgofkqymTcw7ZdIiZ3BUEpQ_trV37757BwkrqV9gWCDRMIT3Di5ZICrhD_VEVCO7czFcZXSJL4-lMNqRT5wOU1GNBkFgSpg6Ven9ddwMlZLGICDBltSMpFctuxUgmE9qXtBy7wzIKN0pM0YBYH-ceWCOLE9UAeo5vBMkEyM1YXP=s1600"
 en_name: "BrightGreen"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgeVsyaLs_2kuJ8ZRdYghgofkqymTcw7ZdIiZ3BUEpQ_trV37757BwkrqV9gWCDRMIT3Di5ZICrhD_VEVCO7czFcZXSJL4-lMNqRT5wOU1GNBkFgSpg6Ven9ddwMlZLGICDBltSMpFctuxUgmE9qXtBy7wzIKN0pM0YBYH-ceWCOLE9UAeo5vBMkEyM1YXP=s1600)
-
 
 ## Birthday Color for May 14: Bright Green (`#66FF00`)
 

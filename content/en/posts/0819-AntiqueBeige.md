@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj32v0rXbduQwVtvy3C-5FSEdPi1Dqt4x1EjW8wGYjZmhr5mOl9S-GGwwtpQT6EVxSo9T_iyATvY7ZlKVXWL6UsM1EEA8FmVtSvnSGMENbHRIyPHDTVMJB-ZDHPHmN7fxLmluOWfwy4DAVz_0jslCWFaGEP8wiA2Y6tNk8M70gyOK2-Ef_KunRL9aYNEhxj=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Antique Beige, The Birthday Color of August 19"
 date: "2026-08-19"
 updated: "2026-08-19"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "deep ocean"
 description: "The birthday color for August 19 is Antique Beige (A19475). Its meaning is Classical, Wise, Traditional."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj32v0rXbduQwVtvy3C-5FSEdPi1Dqt4x1EjW8wGYjZmhr5mOl9S-GGwwtpQT6EVxSo9T_iyATvY7ZlKVXWL6UsM1EEA8FmVtSvnSGMENbHRIyPHDTVMJB-ZDHPHmN7fxLmluOWfwy4DAVz_0jslCWFaGEP8wiA2Y6tNk8M70gyOK2-Ef_KunRL9aYNEhxj=s1600"
 en_name: "AntiqueBeige"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj32v0rXbduQwVtvy3C-5FSEdPi1Dqt4x1EjW8wGYjZmhr5mOl9S-GGwwtpQT6EVxSo9T_iyATvY7ZlKVXWL6UsM1EEA8FmVtSvnSGMENbHRIyPHDTVMJB-ZDHPHmN7fxLmluOWfwy4DAVz_0jslCWFaGEP8wiA2Y6tNk8M70gyOK2-Ef_KunRL9aYNEhxj=s1600)
-
 
 ## Birthday Color for August 19: Antique Beige (`#A19475`)
 

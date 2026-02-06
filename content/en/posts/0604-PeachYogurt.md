@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhY95IUpfWI8zQs1RQ98CZt3GpgKyYUwYXNP_B_pOl494hfOJN-40oxB74Husw5joG13jjVxy7WSLFfjQ-slUqR_GzLpOEZdt-9QKpiIJJvwsd9m8ER_yL74cvIO09222aRCqcAXWzGHLM_qs_tZMt4kZBsuzhZTDihS9p_-NvtMFpCMUCg4BMg-PM_-jjm=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Peach Yogurt, The Birthday Color of June 4"
 date: "2026-06-04"
 updated: "2026-06-04"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "steel navy"
 description: "The birthday color for June 4 is Peach Yogurt (FFC1B5). Its meaning is Fresh, Pure, Friendly."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhY95IUpfWI8zQs1RQ98CZt3GpgKyYUwYXNP_B_pOl494hfOJN-40oxB74Husw5joG13jjVxy7WSLFfjQ-slUqR_GzLpOEZdt-9QKpiIJJvwsd9m8ER_yL74cvIO09222aRCqcAXWzGHLM_qs_tZMt4kZBsuzhZTDihS9p_-NvtMFpCMUCg4BMg-PM_-jjm=s1600"
 en_name: "PeachYogurt"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhY95IUpfWI8zQs1RQ98CZt3GpgKyYUwYXNP_B_pOl494hfOJN-40oxB74Husw5joG13jjVxy7WSLFfjQ-slUqR_GzLpOEZdt-9QKpiIJJvwsd9m8ER_yL74cvIO09222aRCqcAXWzGHLM_qs_tZMt4kZBsuzhZTDihS9p_-NvtMFpCMUCg4BMg-PM_-jjm=s1600)
-
 
 ## Birthday Color for June 4: Peach Yogurt (`#FFC1B5`)
 

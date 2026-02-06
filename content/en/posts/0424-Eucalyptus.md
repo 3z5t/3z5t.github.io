@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgjhdxbLH7AGRz3MlhOnWNZ90XZQV-osVl6ZYxHF3e27cM5TgjprL_TSa3Vi-EwQ3ErWhc398YzMAlw5oIrKsyGOXrnrocb5-2oPhRS6WMVUCtAOjCOlnZl6W1UR7AfnlXmkG0VMan52QP_v4RDG2Mfu_bIJhSs7jhyrMFpq7tss4yFL9fGq8hKBdCtydMO=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Eucalyptus, The Birthday Color of April 24"
 date: "2026-04-24"
 updated: "2026-04-24"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "silver rose"
 description: "The birthday color for April 24 is Eucalyptus (339966). Its meaning is Healing, Resilience, Vitality."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgjhdxbLH7AGRz3MlhOnWNZ90XZQV-osVl6ZYxHF3e27cM5TgjprL_TSa3Vi-EwQ3ErWhc398YzMAlw5oIrKsyGOXrnrocb5-2oPhRS6WMVUCtAOjCOlnZl6W1UR7AfnlXmkG0VMan52QP_v4RDG2Mfu_bIJhSs7jhyrMFpq7tss4yFL9fGq8hKBdCtydMO=s1600"
 en_name: "Eucalyptus"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgjhdxbLH7AGRz3MlhOnWNZ90XZQV-osVl6ZYxHF3e27cM5TgjprL_TSa3Vi-EwQ3ErWhc398YzMAlw5oIrKsyGOXrnrocb5-2oPhRS6WMVUCtAOjCOlnZl6W1UR7AfnlXmkG0VMan52QP_v4RDG2Mfu_bIJhSs7jhyrMFpq7tss4yFL9fGq8hKBdCtydMO=s1600)
-
 
 ## Birthday Color for April 24: Eucalyptus (`#339966`)
 

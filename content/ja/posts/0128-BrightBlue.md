@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-28'
-description: 1月28日の誕生色 ブライトブルー(9CB0D3)。色言葉は「前向き、明るいエネルギー、希望」です。相性の良い色はルドルフブラウンです。
-en_name: Bright Blue
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgtzj9R40cqMaGk_NozECHmqZfsJJJw5CX1E6MF2IxlzWkAgyHl__-qM7qTLjKK8AFuaGv7U6099ursPAPCwcmS5OAkTijF-XFdDMo-bpJ6r6-Qp6YgH4lntXg9N9FsRIJtdad3lnaKNVf73Q-toL91PSIb1vQSZIn8DowrxC5uji8-f5uApIZgU_EYjseX=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-28"
+description: "1月28日の誕生色 ブライトブルー(9CB0D3)。色言葉は「前向き、明るいエネルギー、希望」です。相性の良い色はルドルフブラウンです。"
+en_name: "Bright Blue"
 tags:
-- ブライトブルー
-- 誕生色
-- 1月28日
-- 9CB0D3
-- 1月
-- ルドルフブラウン
-postId: '527661460743151842'
-postUrl: https://the366days-ja.blogspot.com/2026/01/128-bright-blue.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEgtzj9R40cqMaGk_NozECHmqZfsJJJw5CX1E6MF2IxlzWkAgyHl__-qM7qTLjKK8AFuaGv7U6099ursPAPCwcmS5OAkTijF-XFdDMo-bpJ6r6-Qp6YgH4lntXg9N9FsRIJtdad3lnaKNVf73Q-toL91PSIb1vQSZIn8DowrxC5uji8-f5uApIZgU_EYjseX=s1600
-title: ブライトブルー、1月28日の誕生色
-updated: '2026-01-28'
+  - "ブライトブルー"
+  - "誕生色"
+  - "1月28日"
+  - "9CB0D3"
+  - "1月"
+  - "ルドルフブラウン"
+postId: "527661460743151842"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/128-bright-blue.html"
+profileName: "日々のカケラ"
+title: "ブライトブルー、1月28日の誕生色"
+updated: "2026-01-28"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgtzj9R40cqMaGk_NozECHmqZfsJJJw5CX1E6MF2IxlzWkAgyHl__-qM7qTLjKK8AFuaGv7U6099ursPAPCwcmS5OAkTijF-XFdDMo-bpJ6r6-Qp6YgH4lntXg9N9FsRIJtdad3lnaKNVf73Q-toL91PSIb1vQSZIn8DowrxC5uji8-f5uApIZgU_EYjseX=s1600)
-
 
 ## 1月28日の誕生色: ブライトブルー (`#9CB0D3`)
 

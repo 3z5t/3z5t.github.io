@@ -1,21 +1,24 @@
 ---
-"title": "ミスティックパープル、2月6日の誕生色"
-"date": "2026-02-06"
-"updated": "2026-02-06"
-"labels":
-- "ミスティックパープル"
-- "誕生色"
-- "2月6日"
-- "520054"
-- "2月"
-- "ミントグリーン"
-"description": "2月6日の誕生色 ミスティックパープル(520054)。色言葉は「神秘主義、スピリチュアル、直感的」です。相性の良い色はミントグリーンです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgkV7BWf2xP0tycL1kA_hfmAQ1xN6uwNHSk9tYCMdF16Wz4ti9We9a4QXTgKjl0zI2imgDEpY02pdprTQhqgxYo4rmr9PswCJBqETDxVrWneSVTXy0bUC1rCxVbnvOZtoRurc2tHU2lF7d6bRK40qrDd59RFzQl58zjHThMWE_q-0cjgFDVAT_3684OObH6=s1600"
-"en_name": "Mystic Purple"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "5793544430666389586"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/26-mystic-purple.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgkV7BWf2xP0tycL1kA_hfmAQ1xN6uwNHSk9tYCMdF16Wz4ti9We9a4QXTgKjl0zI2imgDEpY02pdprTQhqgxYo4rmr9PswCJBqETDxVrWneSVTXy0bUC1rCxVbnvOZtoRurc2tHU2lF7d6bRK40qrDd59RFzQl58zjHThMWE_q-0cjgFDVAT_3684OObH6=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "ミスティックパープル、2月6日の誕生色"
+date: "2026-02-06"
+updated: "2026-02-06"
+tags:
+  - "ミスティックパープル"
+  - "誕生色"
+  - "2月6日"
+  - "520054"
+  - "2月"
+  - "ミントグリーン"
+description: "2月6日の誕生色 ミスティックパープル(520054)。色言葉は「神秘主義、スピリチュアル、直感的」です。相性の良い色はミントグリーンです。"
+en_name: "Mystic Purple"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "5793544430666389586"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/26-mystic-purple.html"
 ---
 
 ## 2月6日の誕生色: ミスティックパープル (`#520054`)

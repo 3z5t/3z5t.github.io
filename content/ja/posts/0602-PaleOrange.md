@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgue7e7q04gDDbamWOeFcduxVs9bQ1nGFmEkCOvUSCCRzA1nsQLiegnVWtUXUWEfy_txV1uI0apW-p3b6sfh7SgOicvHWP9CHpazBXGa9HbZ7upWNQnWbIrHsePUbtAkx-hRDQCRfubHT-XatIS8xjPVWY6SL-1fNlFmsZE_69lGwtVPmuvA1nrh54-NcnH=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ペールオレンジ、6月2日の誕生色"
 date: "2026-06-02"
 updated: "2026-06-02"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "イブニングスカイ"
 description: "6月2日の誕生色 ペールオレンジ(FFEBB0)。色言葉は「温かい心、親和力、肯定性」です。相性の良い色はイブニングスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgue7e7q04gDDbamWOeFcduxVs9bQ1nGFmEkCOvUSCCRzA1nsQLiegnVWtUXUWEfy_txV1uI0apW-p3b6sfh7SgOicvHWP9CHpazBXGa9HbZ7upWNQnWbIrHsePUbtAkx-hRDQCRfubHT-XatIS8xjPVWY6SL-1fNlFmsZE_69lGwtVPmuvA1nrh54-NcnH=s1600"
 en_name: "Pale Orange"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgue7e7q04gDDbamWOeFcduxVs9bQ1nGFmEkCOvUSCCRzA1nsQLiegnVWtUXUWEfy_txV1uI0apW-p3b6sfh7SgOicvHWP9CHpazBXGa9HbZ7upWNQnWbIrHsePUbtAkx-hRDQCRfubHT-XatIS8xjPVWY6SL-1fNlFmsZE_69lGwtVPmuvA1nrh54-NcnH=s1600)
-
 
 ## 6月2日の誕生色: ペールオレンジ (`#FFEBB0`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh6JLElATGnG931qzV8MXx6Tp1N1sF2rwbGMsJzRq4nOzpmpmCsQYKFPAGvqmfvsnbq-CAeJ5Sf7EiiiQPB5T2fgt-t_eAF65HUjsoJBQA2pDPihekSJI--JrDXKlCmLgsRbkuwQGj9KR7_5UWuS_p-XYSq9MDKBA1DKIjP51a3_A4c44C7iLH8Gl3j-3c8=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Orange, The Birthday Color of June 9"
 date: "2026-06-09"
 updated: "2026-06-09"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "cyan blue"
 description: "The birthday color for June 9 is Orange (FF6633). Its meaning is Passionate, Challenging, Energetic."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh6JLElATGnG931qzV8MXx6Tp1N1sF2rwbGMsJzRq4nOzpmpmCsQYKFPAGvqmfvsnbq-CAeJ5Sf7EiiiQPB5T2fgt-t_eAF65HUjsoJBQA2pDPihekSJI--JrDXKlCmLgsRbkuwQGj9KR7_5UWuS_p-XYSq9MDKBA1DKIjP51a3_A4c44C7iLH8Gl3j-3c8=s1600"
 en_name: "Orange"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh6JLElATGnG931qzV8MXx6Tp1N1sF2rwbGMsJzRq4nOzpmpmCsQYKFPAGvqmfvsnbq-CAeJ5Sf7EiiiQPB5T2fgt-t_eAF65HUjsoJBQA2pDPihekSJI--JrDXKlCmLgsRbkuwQGj9KR7_5UWuS_p-XYSq9MDKBA1DKIjP51a3_A4c44C7iLH8Gl3j-3c8=s1600)
-
 
 ## Birthday Color for June 9: Orange (`#FF6633`)
 

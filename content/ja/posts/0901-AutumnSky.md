@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiwo7nL7ftwkCl3e8VdoZY_aTcOmJm60HUrCDtvuWWRRsTSAtv7ii-Ldcmz-TzFrSc2855CQG00nL3b7QmDwtl6GB8tYKkekZlsL7umtEam3yEMb8y3iFCUZU8FCmIAYkczMY_9s8k8deHwH7KrJTWimVCKx7aVfP0MPxHr5hodgYHor3jAIMmIvAU6WTSH=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "オータムスカイ、9月1日の誕生色"
 date: "2026-09-01"
 updated: "2026-09-01"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "フレンチベージュ"
 description: "9月1日の誕生色 オータムスカイ(59819A)。色言葉は「聡明な精神、理想的、創造的」です。相性の良い色はフレンチベージュです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiwo7nL7ftwkCl3e8VdoZY_aTcOmJm60HUrCDtvuWWRRsTSAtv7ii-Ldcmz-TzFrSc2855CQG00nL3b7QmDwtl6GB8tYKkekZlsL7umtEam3yEMb8y3iFCUZU8FCmIAYkczMY_9s8k8deHwH7KrJTWimVCKx7aVfP0MPxHr5hodgYHor3jAIMmIvAU6WTSH=s1600"
 en_name: "Autumn Sky"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiwo7nL7ftwkCl3e8VdoZY_aTcOmJm60HUrCDtvuWWRRsTSAtv7ii-Ldcmz-TzFrSc2855CQG00nL3b7QmDwtl6GB8tYKkekZlsL7umtEam3yEMb8y3iFCUZU8FCmIAYkczMY_9s8k8deHwH7KrJTWimVCKx7aVfP0MPxHr5hodgYHor3jAIMmIvAU6WTSH=s1600)
-
 
 ## 9月1日の誕生色: オータムスカイ (`#59819A`)
 

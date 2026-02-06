@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhoFaBn17zsNB4DNTrLg5TvldhGBGOxRUinoIhduNdqPIm_0FSpipvXjVIm-8hJE6b7wVtsldmiQzXmvbd3QLkZjTHzdf_v4w4EN8GOh-GjrxGhxX0l3I2aqaFgrLKySAf6oOkScOTU5lx8f1FfkS5Q3ef95c7Mtnu_OnzTZvzEq7oR0YyyYjgmSiNQbEMv=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "グレースカイ、7月24日の誕生色"
 date: "2026-07-24"
 updated: "2026-07-24"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "オータムリーブス"
 description: "7月24日の誕生色 グレースカイ(BDE0F4)。色言葉は「余裕、平和、安定感」です。相性の良い色はオータムリーブスです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhoFaBn17zsNB4DNTrLg5TvldhGBGOxRUinoIhduNdqPIm_0FSpipvXjVIm-8hJE6b7wVtsldmiQzXmvbd3QLkZjTHzdf_v4w4EN8GOh-GjrxGhxX0l3I2aqaFgrLKySAf6oOkScOTU5lx8f1FfkS5Q3ef95c7Mtnu_OnzTZvzEq7oR0YyyYjgmSiNQbEMv=s1600"
 en_name: "Gray Sky"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhoFaBn17zsNB4DNTrLg5TvldhGBGOxRUinoIhduNdqPIm_0FSpipvXjVIm-8hJE6b7wVtsldmiQzXmvbd3QLkZjTHzdf_v4w4EN8GOh-GjrxGhxX0l3I2aqaFgrLKySAf6oOkScOTU5lx8f1FfkS5Q3ef95c7Mtnu_OnzTZvzEq7oR0YyyYjgmSiNQbEMv=s1600)
-
 
 ## 7月24日の誕生色: グレースカイ (`#BDE0F4`)
 

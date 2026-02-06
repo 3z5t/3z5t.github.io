@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgaELjXFxnY5k6EmVQXu2pnUTTA2TgPFemvMGRN9R56zuKfBXRzJOH0DC0kbghFv7LhSfFEjq9QPLk2QeuWtKuKhDiiJa6EexpHhHjHP-ezsEyVlI_xkMVL3YyJSR1SgDYeKPbA66SeRHSt2e1_mZSgRn7Ao3TWd-mTZeEAREyNi9XH7K2X4lam4N_F8II-=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "スプラウトグリーン、3月1日の誕生色"
 date: "2026-03-01"
 updated: "2026-03-01"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "オーキッドパープル"
 description: "3月1日の誕生色 スプラウトグリーン(5FD059)。色言葉は「自由、独立心、開拓精神」です。相性の良い色はオーキッドパープルです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgaELjXFxnY5k6EmVQXu2pnUTTA2TgPFemvMGRN9R56zuKfBXRzJOH0DC0kbghFv7LhSfFEjq9QPLk2QeuWtKuKhDiiJa6EexpHhHjHP-ezsEyVlI_xkMVL3YyJSR1SgDYeKPbA66SeRHSt2e1_mZSgRn7Ao3TWd-mTZeEAREyNi9XH7K2X4lam4N_F8II-=s1600"
 en_name: "Sprout Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgaELjXFxnY5k6EmVQXu2pnUTTA2TgPFemvMGRN9R56zuKfBXRzJOH0DC0kbghFv7LhSfFEjq9QPLk2QeuWtKuKhDiiJa6EexpHhHjHP-ezsEyVlI_xkMVL3YyJSR1SgDYeKPbA66SeRHSt2e1_mZSgRn7Ao3TWd-mTZeEAREyNi9XH7K2X4lam4N_F8II-=s1600)
-
 
 ## 3月1日の誕生色: スプラウトグリーン (`#5FD059`)
 

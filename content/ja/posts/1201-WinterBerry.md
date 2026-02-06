@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhEv7pnh_7k7fdlOiuqjYYLPQnTmOaD2LWdLWcj8rouFBTYYouESIXTqgyM79-QnRiCrA_y-vwUJofKay5LOegDOg5BgG6M3d7oTO8nqkIVq8daSe31mmkiwJLfIn67chb6b3dXm6x2qu4pc2A-bOn1qW6b7ATu94WeWFLK_shH7w9zN-SFbsYxoTOZJCpR=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ウィンターベリー、12月1日の誕生色"
 date: "2026-12-01"
 updated: "2026-12-01"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ターコイズ"
 description: "12月1日の誕生色 ウィンターベリー(AF2A24)。色言葉は「感動を与える、期待感、神秘的」です。相性の良い色はターコイズです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEhEv7pnh_7k7fdlOiuqjYYLPQnTmOaD2LWdLWcj8rouFBTYYouESIXTqgyM79-QnRiCrA_y-vwUJofKay5LOegDOg5BgG6M3d7oTO8nqkIVq8daSe31mmkiwJLfIn67chb6b3dXm6x2qu4pc2A-bOn1qW6b7ATu94WeWFLK_shH7w9zN-SFbsYxoTOZJCpR=s1600"
 en_name: "Winter Berry"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEhEv7pnh_7k7fdlOiuqjYYLPQnTmOaD2LWdLWcj8rouFBTYYouESIXTqgyM79-QnRiCrA_y-vwUJofKay5LOegDOg5BgG6M3d7oTO8nqkIVq8daSe31mmkiwJLfIn67chb6b3dXm6x2qu4pc2A-bOn1qW6b7ATu94WeWFLK_shH7w9zN-SFbsYxoTOZJCpR=s1600)
-
 
 ## 12月1日の誕生色: ウィンターベリー (`#AF2A24`)
 

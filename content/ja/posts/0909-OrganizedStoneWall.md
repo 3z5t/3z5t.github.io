@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjWLFtx9-2wftEk4M4_Pp6KWGZlvOveYBoMpz1CMtAxfLBT2OigI55Z2RY2gl98a4JxbCA33FPig_mjksM8Cosj3ELyxcWXSrQWWx9WG89jzCcc1J5RuwKIiRpYF8H05E8JUCemZgHCTALlOf7eEyJQ6oTgrr5wFaycdWfkX_I_xYGTX1IMMpjDW-Myv1SW=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "オーガナイズドストーンウォール、9月9日の誕生色"
 date: "2026-09-09"
 updated: "2026-09-09"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "ムースグレー"
 description: "9月9日の誕生色 オーガナイズドストーンウォール(665E5F)。色言葉は「安定、伝統を守る、信頼感」です。相性の良い色はムースグレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjWLFtx9-2wftEk4M4_Pp6KWGZlvOveYBoMpz1CMtAxfLBT2OigI55Z2RY2gl98a4JxbCA33FPig_mjksM8Cosj3ELyxcWXSrQWWx9WG89jzCcc1J5RuwKIiRpYF8H05E8JUCemZgHCTALlOf7eEyJQ6oTgrr5wFaycdWfkX_I_xYGTX1IMMpjDW-Myv1SW=s1600"
 en_name: "Organized Stone Wall"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjWLFtx9-2wftEk4M4_Pp6KWGZlvOveYBoMpz1CMtAxfLBT2OigI55Z2RY2gl98a4JxbCA33FPig_mjksM8Cosj3ELyxcWXSrQWWx9WG89jzCcc1J5RuwKIiRpYF8H05E8JUCemZgHCTALlOf7eEyJQ6oTgrr5wFaycdWfkX_I_xYGTX1IMMpjDW-Myv1SW=s1600)
-
 
 ## 9月9日の誕生色: オーガナイズドストーンウォール (`#665E5F`)
 

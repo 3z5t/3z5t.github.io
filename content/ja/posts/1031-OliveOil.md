@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiIsxH_pT3SG9ReVgqW6bDP-ti4JuWh9oTiB4tPvfVwaygvVMoMW8RIMh3qlHtS-eYFWnSHwue4toRDjTR5bYD_UNn0zSpHf_48ODBm3_YgR7JUS3Bm_kDSdreBAPb4ebIdlW-M9q2GDJ6UDENP7BEjYKacqNHjIbI5ly_6yVHW7Tq6cv5QoZzmI51f7lnY=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "オリーブオイル、10月31日の誕生色"
 date: "2026-10-31"
 updated: "2026-10-31"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "マヤブルー"
 description: "10月31日の誕生色 オリーブオイル(999900)。色言葉は「豊かさ、安定、希望に満ちた」です。相性の良い色はマヤブルーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiIsxH_pT3SG9ReVgqW6bDP-ti4JuWh9oTiB4tPvfVwaygvVMoMW8RIMh3qlHtS-eYFWnSHwue4toRDjTR5bYD_UNn0zSpHf_48ODBm3_YgR7JUS3Bm_kDSdreBAPb4ebIdlW-M9q2GDJ6UDENP7BEjYKacqNHjIbI5ly_6yVHW7Tq6cv5QoZzmI51f7lnY=s1600"
 en_name: "Olive Oil"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiIsxH_pT3SG9ReVgqW6bDP-ti4JuWh9oTiB4tPvfVwaygvVMoMW8RIMh3qlHtS-eYFWnSHwue4toRDjTR5bYD_UNn0zSpHf_48ODBm3_YgR7JUS3Bm_kDSdreBAPb4ebIdlW-M9q2GDJ6UDENP7BEjYKacqNHjIbI5ly_6yVHW7Tq6cv5QoZzmI51f7lnY=s1600)
-
 
 ## 10月31日の誕生色: オリーブオイル (`#999900`)
 

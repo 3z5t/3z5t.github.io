@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgj8KpYbpSIAt6-Z0rN3W2QyXYDSiNOwWrQqTEr35JMtnvsRfPUpNpdS8hMjajRkl1s-I_MCr5ZJxc2HDJIR5n3INiqHkhsGt5RaQps_JtrwrFdqgOeCOa1A7dLPPl-FzJs7Gby6LG3tH60iqX3lGCdWDtUdurDQ3wq2ykDp6_nKJP4DvVm9PFFxxiLzK_y=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Saddle Brown, The Birthday Color of September 25"
 date: "2026-09-25"
 updated: "2026-09-25"
@@ -10,16 +14,12 @@ tags:
   - "september"
   - "gray mint"
 description: "The birthday color for September 25 is Saddle Brown (4A2F29). Its meaning is Sturdy, Stable, Trustworthy."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgj8KpYbpSIAt6-Z0rN3W2QyXYDSiNOwWrQqTEr35JMtnvsRfPUpNpdS8hMjajRkl1s-I_MCr5ZJxc2HDJIR5n3INiqHkhsGt5RaQps_JtrwrFdqgOeCOa1A7dLPPl-FzJs7Gby6LG3tH60iqX3lGCdWDtUdurDQ3wq2ykDp6_nKJP4DvVm9PFFxxiLzK_y=s1600"
 en_name: "SaddleBrown"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgj8KpYbpSIAt6-Z0rN3W2QyXYDSiNOwWrQqTEr35JMtnvsRfPUpNpdS8hMjajRkl1s-I_MCr5ZJxc2HDJIR5n3INiqHkhsGt5RaQps_JtrwrFdqgOeCOa1A7dLPPl-FzJs7Gby6LG3tH60iqX3lGCdWDtUdurDQ3wq2ykDp6_nKJP4DvVm9PFFxxiLzK_y=s1600)
-
 
 ## Birthday Color for September 25: Saddle Brown (`#4A2F29`)
 

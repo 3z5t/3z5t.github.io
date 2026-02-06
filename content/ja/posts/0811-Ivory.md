@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgbpNTqU8KxqLa3bQvLjuUk9NVDGXZGKLdQWbZBSWE4VPsL40IrEODe8cwpkvIHhVMwo4wOmWDkEaocWvIRcm33XaXzi9jQB-a1NIR_I_kFdCtE_Fkuv0Ebhek3M4vt-yOE4PzuWMeyAAJQNr0YHNkRGnijQfo2030k9fxT3RA3JnJgqc57vPO4Jtsfknez=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アイボリー、8月11日の誕生色"
 date: "2026-08-11"
 updated: "2026-08-11"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "ミッドナイトネイビー"
 description: "8月11日の誕生色 アイボリー(FFF3D4)。色言葉は「賢明、古典的、品位」です。相性の良い色はミッドナイトネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgbpNTqU8KxqLa3bQvLjuUk9NVDGXZGKLdQWbZBSWE4VPsL40IrEODe8cwpkvIHhVMwo4wOmWDkEaocWvIRcm33XaXzi9jQB-a1NIR_I_kFdCtE_Fkuv0Ebhek3M4vt-yOE4PzuWMeyAAJQNr0YHNkRGnijQfo2030k9fxT3RA3JnJgqc57vPO4Jtsfknez=s1600"
 en_name: "Ivory"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgbpNTqU8KxqLa3bQvLjuUk9NVDGXZGKLdQWbZBSWE4VPsL40IrEODe8cwpkvIHhVMwo4wOmWDkEaocWvIRcm33XaXzi9jQB-a1NIR_I_kFdCtE_Fkuv0Ebhek3M4vt-yOE4PzuWMeyAAJQNr0YHNkRGnijQfo2030k9fxT3RA3JnJgqc57vPO4Jtsfknez=s1600)
-
 
 ## 8月11日の誕生色: アイボリー (`#FFF3D4`)
 

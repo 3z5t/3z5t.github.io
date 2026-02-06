@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiTZ-6iTJ2cM0QQsH5qOPqF4I_chaThKvpNoIUzTYdPhau6mAp_x5ohXMW23vkhUxtH3n7cBP6a-58p6ELH6wBY1swRhOqyGHe47vTjJXQjfrKsrXdo-HS7QgXC1Txug5PrdAwaFbCXpA9IdrP3QhpUv4td-0wLKAR6xUMBeig0tVQT-aKDe9RVuaHLTsfU=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープコーラル、10月16日の誕生色"
 date: "2026-10-16"
 updated: "2026-10-16"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "モーニンググローリー"
 description: "10月16日の誕生色 ディープコーラル(743636)。色言葉は「落ち着き、バランスの取れた、安定」です。相性の良い色はモーニンググローリーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiTZ-6iTJ2cM0QQsH5qOPqF4I_chaThKvpNoIUzTYdPhau6mAp_x5ohXMW23vkhUxtH3n7cBP6a-58p6ELH6wBY1swRhOqyGHe47vTjJXQjfrKsrXdo-HS7QgXC1Txug5PrdAwaFbCXpA9IdrP3QhpUv4td-0wLKAR6xUMBeig0tVQT-aKDe9RVuaHLTsfU=s1600"
 en_name: "Deep Coral"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiTZ-6iTJ2cM0QQsH5qOPqF4I_chaThKvpNoIUzTYdPhau6mAp_x5ohXMW23vkhUxtH3n7cBP6a-58p6ELH6wBY1swRhOqyGHe47vTjJXQjfrKsrXdo-HS7QgXC1Txug5PrdAwaFbCXpA9IdrP3QhpUv4td-0wLKAR6xUMBeig0tVQT-aKDe9RVuaHLTsfU=s1600)
-
 
 ## 10月16日の誕生色: ディープコーラル (`#743636`)
 

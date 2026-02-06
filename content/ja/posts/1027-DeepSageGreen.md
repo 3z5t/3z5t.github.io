@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgW6OqH9JhuH2BZvRfVgqsr5pZVD6UU-tj4ZPL7Q8x4GQu2rOjreTGM3mjbtbcEYcdeGhvajSPQz4EGkQzyTRB75HF0kJU8-jDEwlPktfLhr0VyMdwSviKuORFAm0Q3HzvYFmojspGoYy3f5jyqt0ahvoSuReuu2CtcdHExFJxnlvkF8dBLyaAMCx1nquMv=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープセージグリーン、10月27日の誕生色"
 date: "2026-10-27"
 updated: "2026-10-27"
@@ -10,16 +14,12 @@ tags:
   - "10月"
   - "モナリザ"
 description: "10月27日の誕生色 ディープセージグリーン(055F5F)。色言葉は「賢明、静寂、品格」です。相性の良い色はモナリザです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgW6OqH9JhuH2BZvRfVgqsr5pZVD6UU-tj4ZPL7Q8x4GQu2rOjreTGM3mjbtbcEYcdeGhvajSPQz4EGkQzyTRB75HF0kJU8-jDEwlPktfLhr0VyMdwSviKuORFAm0Q3HzvYFmojspGoYy3f5jyqt0ahvoSuReuu2CtcdHExFJxnlvkF8dBLyaAMCx1nquMv=s1600"
 en_name: "Deep Sage Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgW6OqH9JhuH2BZvRfVgqsr5pZVD6UU-tj4ZPL7Q8x4GQu2rOjreTGM3mjbtbcEYcdeGhvajSPQz4EGkQzyTRB75HF0kJU8-jDEwlPktfLhr0VyMdwSviKuORFAm0Q3HzvYFmojspGoYy3f5jyqt0ahvoSuReuu2CtcdHExFJxnlvkF8dBLyaAMCx1nquMv=s1600)
-
 
 ## 10月27日の誕生色: ディープセージグリーン (`#055F5F`)
 

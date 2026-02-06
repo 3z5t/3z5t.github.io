@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-22'
-description: 1月22日の誕生色 ハイスカイ(0B8AC3)。色言葉は「チャレンジ精神、先駆的、革新的」です。相性の良い色はキャロットジュースです。
-en_name: High Sky
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiJi0g4Y1E6XTkGtjT5qlNuDLXfsQaFKYXnveLOGPGP6U3F-xDxpzM6TDMqQcud1vDQa8zXLJkwAJpal_foabhCMHZqDjycZ1matOWqeIMAJj_EBLmtvuxUSJQ1o7JOK9Mx1aBqIzW6HqYhN8_In3-rhGEnbI9v5cP2Id3e6bH1zZhAu0M7vOFFVdlBTqAL=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-22"
+description: "1月22日の誕生色 ハイスカイ(0B8AC3)。色言葉は「チャレンジ精神、先駆的、革新的」です。相性の良い色はキャロットジュースです。"
+en_name: "High Sky"
 tags:
-- ハイスカイ
-- 誕生色
-- 1月22日
-- 0B8AC3
-- 1月
-- キャロットジュース
-postId: '9074969509722087937'
-postUrl: https://the366days-ja.blogspot.com/2026/01/122-high-sky.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEiJi0g4Y1E6XTkGtjT5qlNuDLXfsQaFKYXnveLOGPGP6U3F-xDxpzM6TDMqQcud1vDQa8zXLJkwAJpal_foabhCMHZqDjycZ1matOWqeIMAJj_EBLmtvuxUSJQ1o7JOK9Mx1aBqIzW6HqYhN8_In3-rhGEnbI9v5cP2Id3e6bH1zZhAu0M7vOFFVdlBTqAL=s1600
-title: ハイスカイ、1月22日の誕生色
-updated: '2026-01-22'
+  - "ハイスカイ"
+  - "誕生色"
+  - "1月22日"
+  - "0B8AC3"
+  - "1月"
+  - "キャロットジュース"
+postId: "9074969509722087937"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/122-high-sky.html"
+profileName: "日々のカケラ"
+title: "ハイスカイ、1月22日の誕生色"
+updated: "2026-01-22"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiJi0g4Y1E6XTkGtjT5qlNuDLXfsQaFKYXnveLOGPGP6U3F-xDxpzM6TDMqQcud1vDQa8zXLJkwAJpal_foabhCMHZqDjycZ1matOWqeIMAJj_EBLmtvuxUSJQ1o7JOK9Mx1aBqIzW6HqYhN8_In3-rhGEnbI9v5cP2Id3e6bH1zZhAu0M7vOFFVdlBTqAL=s1600)
-
 
 ## 1月22日の誕生色: ハイスカイ (`#0B8AC3`)
 

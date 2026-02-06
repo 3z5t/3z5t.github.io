@@ -1,21 +1,24 @@
 ---
-"title": "Mystic Purple, The Birthday Color of February 6"
-"date": "2026-02-06"
-"updated": "2026-02-06"
-"labels":
-- "mystic purple"
-- "birthday color"
-- "february 6"
-- "520054"
-- "february"
-- "mint green"
-"description": "The birthday color for February 6 is Mystic Purple (520054). Its meaning is Mysticism, Spiritual, Intuitive."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEg5f8kE9QmF5NjW1rKDHvqinrx74x-zBm9F-SuZOEnJjO_5OBo2U7rgRs9xhxSnR38-7mx-YbOCk5kX8B7_bqYAS9Pz481WBlkK2DnvtArzaiAJLodyDT4digDLbcmEX5mSnZQbIED5xVncGn4WtykGVKkgALWQax6Ycnm_ezBBQ2UCMQjcLj1cqY7EJ3EK=s1600"
-"en_name": "MysticPurple"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "463291272119472654"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/mystic-purple-birthday-color-of.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg5f8kE9QmF5NjW1rKDHvqinrx74x-zBm9F-SuZOEnJjO_5OBo2U7rgRs9xhxSnR38-7mx-YbOCk5kX8B7_bqYAS9Pz481WBlkK2DnvtArzaiAJLodyDT4digDLbcmEX5mSnZQbIED5xVncGn4WtykGVKkgALWQax6Ycnm_ezBBQ2UCMQjcLj1cqY7EJ3EK=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Mystic Purple, The Birthday Color of February 6"
+date: "2026-02-06"
+updated: "2026-02-06"
+tags:
+  - "mystic purple"
+  - "birthday color"
+  - "february 6"
+  - "520054"
+  - "february"
+  - "mint green"
+description: "The birthday color for February 6 is Mystic Purple (520054). Its meaning is Mysticism, Spiritual, Intuitive."
+en_name: "MysticPurple"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "463291272119472654"
+postUrl: "https://the366days-en.blogspot.com/2026/02/mystic-purple-birthday-color-of.html"
 ---
 
 ## Birthday Color for February 6: Mystic Purple (`#520054`)

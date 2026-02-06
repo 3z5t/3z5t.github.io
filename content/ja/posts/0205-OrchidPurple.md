@@ -1,21 +1,24 @@
 ---
-"title": "オーキッドパープル、2月5日の誕生色"
-"date": "2026-02-05"
-"updated": "2026-02-05"
-"labels":
-- "オーキッドパープル"
-- "誕生色"
-- "2月5日"
-- "9F56A2"
-- "2月"
-- "ライムグリーン"
-"description": "2月5日の誕生色 オーキッドパープル(9F56A2)。色言葉は「創造性、インスピレーション、独創性」です。相性の良い色はライムグリーンです。"
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEgc7Vmsnh3n79ZntnyH3UgQEKiDoVK_cbQMq1zWdBGmqf-nKf00DAVxViDoTqOItjqBUp1J3jb7vy_DihMmErNbvmRP5ytbyo8EimoMUlZsVfM1X-6SkKuYZSYKcpcQDPjPiQLFxlAFHGcQGGzIjcE8IcsL14EBVwTVbWu2SieKQQZHFVES3BfzHDb8ksUz=s1600"
-"en_name": "Orchid Purple"
-"author": "日々のカケラ"
-"profileName": "日々のカケラ"
-"postId": "727166207205229"
-"postUrl": "https://the366days-ja.blogspot.com/2026/02/25-orchid-purple.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgc7Vmsnh3n79ZntnyH3UgQEKiDoVK_cbQMq1zWdBGmqf-nKf00DAVxViDoTqOItjqBUp1J3jb7vy_DihMmErNbvmRP5ytbyo8EimoMUlZsVfM1X-6SkKuYZSYKcpcQDPjPiQLFxlAFHGcQGGzIjcE8IcsL14EBVwTVbWu2SieKQQZHFVES3BfzHDb8ksUz=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "オーキッドパープル、2月5日の誕生色"
+date: "2026-02-05"
+updated: "2026-02-05"
+tags:
+  - "オーキッドパープル"
+  - "誕生色"
+  - "2月5日"
+  - "9F56A2"
+  - "2月"
+  - "ライムグリーン"
+description: "2月5日の誕生色 オーキッドパープル(9F56A2)。色言葉は「創造性、インスピレーション、独創性」です。相性の良い色はライムグリーンです。"
+en_name: "Orchid Purple"
+author: "日々のカケラ"
+profileName: "日々のカケラ"
+postId: "727166207205229"
+postUrl: "https://the366days-ja.blogspot.com/2026/02/25-orchid-purple.html"
 ---
 
 ## 2月5日の誕生色: オーキッドパープル (`#9F56A2`)

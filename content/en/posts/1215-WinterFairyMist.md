@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjkoQBABjY9Ji974-HSE1ynvZxvx9XrRrezYhRZ3G7gIi3JjlkAurScrIUyVueNNpSUJY1P4kA2zp-iZ-tB3ap64wWvWmWSWGrKJo2PMRPgyL-uzccvYctfrdn-ZTikD-j4o8GlK9QChEaiFW89eDt6ObwskN_M1pBMtZxCLiTfUx85SVMnV5rShUM25U6E=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Winter Fairy Mist, The Birthday Color of December 15"
 date: "2026-12-15"
 updated: "2026-12-15"
@@ -10,16 +14,12 @@ tags:
   - "december"
   - "saddle brown"
 description: "The birthday color for December 15 is Winter Fairy Mist (B3C4E5). Its meaning is Warm Heart, Peaceful, Stable."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjkoQBABjY9Ji974-HSE1ynvZxvx9XrRrezYhRZ3G7gIi3JjlkAurScrIUyVueNNpSUJY1P4kA2zp-iZ-tB3ap64wWvWmWSWGrKJo2PMRPgyL-uzccvYctfrdn-ZTikD-j4o8GlK9QChEaiFW89eDt6ObwskN_M1pBMtZxCLiTfUx85SVMnV5rShUM25U6E=s1600"
 en_name: "WinterFairyMist"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjkoQBABjY9Ji974-HSE1ynvZxvx9XrRrezYhRZ3G7gIi3JjlkAurScrIUyVueNNpSUJY1P4kA2zp-iZ-tB3ap64wWvWmWSWGrKJo2PMRPgyL-uzccvYctfrdn-ZTikD-j4o8GlK9QChEaiFW89eDt6ObwskN_M1pBMtZxCLiTfUx85SVMnV5rShUM25U6E=s1600)
-
 
 ## Birthday Color for December 15: Winter Fairy Mist (`#B3C4E5`)
 

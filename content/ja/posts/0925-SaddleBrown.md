@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgN6cvQwinC3-7PSKEOY_-ixXGujMMm8C0kpL2rbwZA6RA06upc8ugiffRxZUmpjYmPURrOGOIZVr1ArzfyqTLuHRCV5UCet3Pe8RL1o2vJtn1qwsqTvJlvz2zoW0iyqPNkaUpu0mKEP-4MeeL7kql_PxPXcfd1xn4qYrZRf5s6n6gmtodShCZSU6GKHSXq=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "サドルブラウン、9月25日の誕生色"
 date: "2026-09-25"
 updated: "2026-09-25"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "グレーミント"
 description: "9月25日の誕生色 サドルブラウン(4A2F29)。色言葉は「堅固、安定、信頼感」です。相性の良い色はグレーミントです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgN6cvQwinC3-7PSKEOY_-ixXGujMMm8C0kpL2rbwZA6RA06upc8ugiffRxZUmpjYmPURrOGOIZVr1ArzfyqTLuHRCV5UCet3Pe8RL1o2vJtn1qwsqTvJlvz2zoW0iyqPNkaUpu0mKEP-4MeeL7kql_PxPXcfd1xn4qYrZRf5s6n6gmtodShCZSU6GKHSXq=s1600"
 en_name: "Saddle Brown"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgN6cvQwinC3-7PSKEOY_-ixXGujMMm8C0kpL2rbwZA6RA06upc8ugiffRxZUmpjYmPURrOGOIZVr1ArzfyqTLuHRCV5UCet3Pe8RL1o2vJtn1qwsqTvJlvz2zoW0iyqPNkaUpu0mKEP-4MeeL7kql_PxPXcfd1xn4qYrZRf5s6n6gmtodShCZSU6GKHSXq=s1600)
-
 
 ## 9月25日の誕生色: サドルブラウン (`#4A2F29`)
 

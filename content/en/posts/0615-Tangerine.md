@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi2HlqpRVkiUgzvopEuhJM4fR5BekoWDWEHutMRnZkfrtdSpiubcAER6t8dJEhRO0pwxmYyF8C9WM4KlIVNqMhGJaWX893-Gep9WPGoOLFzEgX4-E1NEyuLyze9PI4DCYjN0ax7K0bEWCsVqNp9wAd8l38b2L5y1ZuODDKX6N4yp2z6uh7mNbVAMf5fu39I=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Tangerine, The Birthday Color of June 15"
 date: "2026-06-15"
 updated: "2026-06-15"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "high sky"
 description: "The birthday color for June 15 is Tangerine (EE934F). Its meaning is Sweet Personality, Fresh, Bright Mind."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEi2HlqpRVkiUgzvopEuhJM4fR5BekoWDWEHutMRnZkfrtdSpiubcAER6t8dJEhRO0pwxmYyF8C9WM4KlIVNqMhGJaWX893-Gep9WPGoOLFzEgX4-E1NEyuLyze9PI4DCYjN0ax7K0bEWCsVqNp9wAd8l38b2L5y1ZuODDKX6N4yp2z6uh7mNbVAMf5fu39I=s1600"
 en_name: "Tangerine"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi2HlqpRVkiUgzvopEuhJM4fR5BekoWDWEHutMRnZkfrtdSpiubcAER6t8dJEhRO0pwxmYyF8C9WM4KlIVNqMhGJaWX893-Gep9WPGoOLFzEgX4-E1NEyuLyze9PI4DCYjN0ax7K0bEWCsVqNp9wAd8l38b2L5y1ZuODDKX6N4yp2z6uh7mNbVAMf5fu39I=s1600)
-
 
 ## Birthday Color for June 15: Tangerine (`#EE934F`)
 

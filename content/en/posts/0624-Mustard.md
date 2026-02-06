@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjsSheV4sTxkyKhDhoW9QDfmjG1L96G91CBCH-_uzIT1-O3Me3JPJuv4ao1W4QmlS2kLSzj2asT1_cv2DNkO3adRU7cLNeUqngVfYPWZUJuwc4-pvha4ODL0yZ1F8_kSk5EPSsccvqbaZ9906Fc2pDHt8J_SndpqaDYZy5kJ_wEfCipgCxTm7559goDWV1v=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Mustard, The Birthday Color of June 24"
 date: "2026-06-24"
 updated: "2026-06-24"
@@ -10,16 +14,12 @@ tags:
   - "june"
   - "elegant ultramarine"
 description: "The birthday color for June 24 is Mustard (C29943). Its meaning is Profound, Unique, Individualistic."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjsSheV4sTxkyKhDhoW9QDfmjG1L96G91CBCH-_uzIT1-O3Me3JPJuv4ao1W4QmlS2kLSzj2asT1_cv2DNkO3adRU7cLNeUqngVfYPWZUJuwc4-pvha4ODL0yZ1F8_kSk5EPSsccvqbaZ9906Fc2pDHt8J_SndpqaDYZy5kJ_wEfCipgCxTm7559goDWV1v=s1600"
 en_name: "Mustard"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjsSheV4sTxkyKhDhoW9QDfmjG1L96G91CBCH-_uzIT1-O3Me3JPJuv4ao1W4QmlS2kLSzj2asT1_cv2DNkO3adRU7cLNeUqngVfYPWZUJuwc4-pvha4ODL0yZ1F8_kSk5EPSsccvqbaZ9906Fc2pDHt8J_SndpqaDYZy5kJ_wEfCipgCxTm7559goDWV1v=s1600)
-
 
 ## Birthday Color for June 24: Mustard (`#C29943`)
 

@@ -1,25 +1,25 @@
 ---
-author: 日々のカケラ
-date: '2026-01-14'
-description: 1月14日の誕生色 トゥルーネイビー(313C75)。色言葉は「誠実、真実、献身的」です。相性の良い色はクラシックベージュです。
-en_name: True Navy
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEi9K5Rk54xiHCFXyCD5fgOVBSnx29r3rkS1JbWhU74pXxaOZnC6dsz64j6rWtbETbc3FAIyYyRKFHgquJccDawZqvkbg2OpLCZfB-AO-WQ2I74OHwwzF9sNOTEb247sQoaBrwM-bpbh468iO86SJpTGVvr2J4HceygyvFkKggGuLI5lwt40Fbg-7bqOmyXQ=s1600"
+    alt: "오늘의 색"
+    relative: false
+author: "日々のカケラ"
+date: "2026-01-14"
+description: "1月14日の誕生色 トゥルーネイビー(313C75)。色言葉は「誠実、真実、献身的」です。相性の良い色はクラシックベージュです。"
+en_name: "True Navy"
 tags:
-- トゥルーネイビー
-- 誕生色
-- 1月14日
-- 313C75
-- 1月
-- クラシックベージュ
-postId: '1781694670398503713'
-postUrl: https://the366days-ja.blogspot.com/2026/01/114-true-navy.html
-profileName: 日々のカケラ
-thumbnail: https://blogger.googleusercontent.com/img/a/AVvXsEi9K5Rk54xiHCFXyCD5fgOVBSnx29r3rkS1JbWhU74pXxaOZnC6dsz64j6rWtbETbc3FAIyYyRKFHgquJccDawZqvkbg2OpLCZfB-AO-WQ2I74OHwwzF9sNOTEb247sQoaBrwM-bpbh468iO86SJpTGVvr2J4HceygyvFkKggGuLI5lwt40Fbg-7bqOmyXQ=s1600
-title: トゥルーネイビー、1月14日の誕生色
-updated: '2026-01-14'
+  - "トゥルーネイビー"
+  - "誕生色"
+  - "1月14日"
+  - "313C75"
+  - "1月"
+  - "クラシックベージュ"
+postId: "1781694670398503713"
+postUrl: "https://the366days-ja.blogspot.com/2026/01/114-true-navy.html"
+profileName: "日々のカケラ"
+title: "トゥルーネイビー、1月14日の誕生色"
+updated: "2026-01-14"
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEi9K5Rk54xiHCFXyCD5fgOVBSnx29r3rkS1JbWhU74pXxaOZnC6dsz64j6rWtbETbc3FAIyYyRKFHgquJccDawZqvkbg2OpLCZfB-AO-WQ2I74OHwwzF9sNOTEb247sQoaBrwM-bpbh468iO86SJpTGVvr2J4HceygyvFkKggGuLI5lwt40Fbg-7bqOmyXQ=s1600)
-
 
 ## 1月14日の誕生色: トゥルーネイビー (`#313C75`)
 

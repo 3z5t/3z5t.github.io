@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiewviTr_2ZPsIpCr485ztUcqyCo_OMnceV-eiY3IriWhnj2_Mwque1vBaZMjXNcQSiFZHmEhi6JZ6Ac9G_OR7Wq7herG9qnMlVmAedyH5ta_5ZIMhKmQsOnFxmVBixd8twoLizD4QzmclMj21d986vFEATelXMPhC_Nck88Oogk1AwliYiVem53Qu0b0W3=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ダークベージュ、8月26日の誕生色"
 date: "2026-08-26"
 updated: "2026-08-26"
@@ -10,16 +14,12 @@ tags:
   - "8月"
   - "トゥルーネイビー"
 description: "8月26日の誕生色 ダークベージュ(DEB887)。色言葉は「深みのある、重厚、慎重」です。相性の良い色はトゥルーネイビーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiewviTr_2ZPsIpCr485ztUcqyCo_OMnceV-eiY3IriWhnj2_Mwque1vBaZMjXNcQSiFZHmEhi6JZ6Ac9G_OR7Wq7herG9qnMlVmAedyH5ta_5ZIMhKmQsOnFxmVBixd8twoLizD4QzmclMj21d986vFEATelXMPhC_Nck88Oogk1AwliYiVem53Qu0b0W3=s1600"
 en_name: "Dark Beige"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiewviTr_2ZPsIpCr485ztUcqyCo_OMnceV-eiY3IriWhnj2_Mwque1vBaZMjXNcQSiFZHmEhi6JZ6Ac9G_OR7Wq7herG9qnMlVmAedyH5ta_5ZIMhKmQsOnFxmVBixd8twoLizD4QzmclMj21d986vFEATelXMPhC_Nck88Oogk1AwliYiVem53Qu0b0W3=s1600)
-
 
 ## 8月26日の誕生色: ダークベージュ (`#DEB887`)
 

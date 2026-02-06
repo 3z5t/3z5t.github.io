@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjoP8N651xR6bL_70n-mR2COiHxhtYdlKCxOxksCjaUGw84HYsLHjqTYftXg3V0vaGjSQ2AU6OcCZDINhywnfFR8poTLzYii_CQueYTdAKdj-kzV1mQ44szXQqD1tVtoL3e2RMa_BPflYdmISlLmzka_dridSjPdWyvP4QcM9qCWZTGFEUnkTjQz92kWp4_=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Pink Gray, The Birthday Color of March 31"
 date: "2026-03-31"
 updated: "2026-03-31"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "midnight violet"
 description: "The birthday color for March 31 is Pink Gray (E5D7CD). Its meaning is Mature, Balanced, Wise."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjoP8N651xR6bL_70n-mR2COiHxhtYdlKCxOxksCjaUGw84HYsLHjqTYftXg3V0vaGjSQ2AU6OcCZDINhywnfFR8poTLzYii_CQueYTdAKdj-kzV1mQ44szXQqD1tVtoL3e2RMa_BPflYdmISlLmzka_dridSjPdWyvP4QcM9qCWZTGFEUnkTjQz92kWp4_=s1600"
 en_name: "PinkGray"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjoP8N651xR6bL_70n-mR2COiHxhtYdlKCxOxksCjaUGw84HYsLHjqTYftXg3V0vaGjSQ2AU6OcCZDINhywnfFR8poTLzYii_CQueYTdAKdj-kzV1mQ44szXQqD1tVtoL3e2RMa_BPflYdmISlLmzka_dridSjPdWyvP4QcM9qCWZTGFEUnkTjQz92kWp4_=s1600)
-
 
 ## Birthday Color for March 31: Pink Gray (`#E5D7CD`)
 

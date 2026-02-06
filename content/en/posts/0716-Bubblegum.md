@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjywteftWOuZiQnxT9-G44d1aw0J3rS_zDWwVBo_kLdKiPdYWEvGIkVz1cYCJQje2CTx6D-10VUeIJxVPmIQztfZnAx6q_0XSZLv2Qabkgo0HD-8tdBDLQPUWFmXiAnEhEoikFrn8Z1dKEcrZhgRpQqRFCCWZiR2IgBnDRA2JmFbcVljG3h6mIKzyhwF8Ci=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Bubblegum, The Birthday Color of July 16"
 date: "2026-07-16"
 updated: "2026-07-16"
@@ -10,16 +14,12 @@ tags:
   - "july"
   - "deep night sky"
 description: "The birthday color for July 16 is Bubblegum (FBC9CB). Its meaning is Cheerful Personality, Lovely, Cute."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjywteftWOuZiQnxT9-G44d1aw0J3rS_zDWwVBo_kLdKiPdYWEvGIkVz1cYCJQje2CTx6D-10VUeIJxVPmIQztfZnAx6q_0XSZLv2Qabkgo0HD-8tdBDLQPUWFmXiAnEhEoikFrn8Z1dKEcrZhgRpQqRFCCWZiR2IgBnDRA2JmFbcVljG3h6mIKzyhwF8Ci=s1600"
 en_name: "Bubblegum"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjywteftWOuZiQnxT9-G44d1aw0J3rS_zDWwVBo_kLdKiPdYWEvGIkVz1cYCJQje2CTx6D-10VUeIJxVPmIQztfZnAx6q_0XSZLv2Qabkgo0HD-8tdBDLQPUWFmXiAnEhEoikFrn8Z1dKEcrZhgRpQqRFCCWZiR2IgBnDRA2JmFbcVljG3h6mIKzyhwF8Ci=s1600)
-
 
 ## Birthday Color for July 16: Bubblegum (`#FBC9CB`)
 

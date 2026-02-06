@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgRgpKEOzPWRJPUrD9T5llCiL6FxwaXKYVEPv49mWVzQ04Hp6F7leuVx7RUqaKOKARi7VC2PFmCjt_mplxHeYR-_BXRT5wekd_7ytjcPCZJaLZQwpktZv_yUe_T8u1sSI9IkrXNqMCd8wM8dOIts8rsTC8s47rxnpbFTmrGLB0ddCw69At2nBa2kuW2lvfp=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "フォレストグリーン、3月8日の誕生色"
 date: "2026-03-08"
 updated: "2026-03-08"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "マゼンタバイオレット"
 description: "3月8日の誕生色 フォレストグリーン(006600)。色言葉は「成長力、指導力、安定感」です。相性の良い色はマゼンタバイオレットです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgRgpKEOzPWRJPUrD9T5llCiL6FxwaXKYVEPv49mWVzQ04Hp6F7leuVx7RUqaKOKARi7VC2PFmCjt_mplxHeYR-_BXRT5wekd_7ytjcPCZJaLZQwpktZv_yUe_T8u1sSI9IkrXNqMCd8wM8dOIts8rsTC8s47rxnpbFTmrGLB0ddCw69At2nBa2kuW2lvfp=s1600"
 en_name: "Forest Green"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgRgpKEOzPWRJPUrD9T5llCiL6FxwaXKYVEPv49mWVzQ04Hp6F7leuVx7RUqaKOKARi7VC2PFmCjt_mplxHeYR-_BXRT5wekd_7ytjcPCZJaLZQwpktZv_yUe_T8u1sSI9IkrXNqMCd8wM8dOIts8rsTC8s47rxnpbFTmrGLB0ddCw69At2nBa2kuW2lvfp=s1600)
-
 
 ## 3月8日の誕生色: フォレストグリーン (`#006600`)
 

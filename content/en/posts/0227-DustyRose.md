@@ -1,21 +1,24 @@
 ---
-"title": "Dusty Rose, The Birthday Color of February 27"
-"date": "2026-02-27"
-"updated": "2026-02-27"
-"labels":
-- "dusty rose"
-- "birthday color"
-- "february 27"
-- "794848"
-- "february"
-- "cool green"
-"description": "The birthday color for February 27 is Dusty Rose (794848). Its meaning is Introspective, Emotional, Wisdom."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEga9IkW3XTWhq_Vmo3MAxEiG7Ed3VxwxMjxV1es-JOS2vNmvfarUm1RHFxYJ0oDMKffEWbFI82iXrkcZVi29LV5U10LeCGD43foHj4udzDsmz2C6eKDHhfV99VktSKU4UxS-cgHZglAFoiMIdQ5rT5vk7SRAN5dV9Sg1w2W-MjJcr8iB3oCZu3DX2a8apWV=s1600"
-"en_name": "DustyRose"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "6228846392126948263"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/dusty-rose-birthday-color-of-february-27.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEga9IkW3XTWhq_Vmo3MAxEiG7Ed3VxwxMjxV1es-JOS2vNmvfarUm1RHFxYJ0oDMKffEWbFI82iXrkcZVi29LV5U10LeCGD43foHj4udzDsmz2C6eKDHhfV99VktSKU4UxS-cgHZglAFoiMIdQ5rT5vk7SRAN5dV9Sg1w2W-MjJcr8iB3oCZu3DX2a8apWV=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Dusty Rose, The Birthday Color of February 27"
+date: "2026-02-27"
+updated: "2026-02-27"
+tags:
+  - "dusty rose"
+  - "birthday color"
+  - "february 27"
+  - "794848"
+  - "february"
+  - "cool green"
+description: "The birthday color for February 27 is Dusty Rose (794848). Its meaning is Introspective, Emotional, Wisdom."
+en_name: "DustyRose"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "6228846392126948263"
+postUrl: "https://the366days-en.blogspot.com/2026/02/dusty-rose-birthday-color-of-february-27.html"
 ---
 
 ## Birthday Color for February 27: Dusty Rose (`#794848`)

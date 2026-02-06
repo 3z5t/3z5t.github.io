@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiOYYgKddaGanvxayj_igjLlxH-zGzNVDGiJDoCGnIjW0HTTR5XmLzCtMa2_vnbWvGJd_KyAnl_VqjUZSDTgbNgf20mXyOaz0nnS9fJAQqrBg3jnZ9QjRxN1dMTej-NA2XTZog6oJtOlpf7xaODZzSV9--u-b6qPLDc3TYRGRY8U-RVWjem91gyXsa-cb4X=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Peach Puff, The Birthday Color of August 3"
 date: "2026-08-03"
 updated: "2026-08-03"
@@ -10,16 +14,12 @@ tags:
   - "august"
   - "evening sky"
 description: "The birthday color for August 3 is Peach Puff (FFD7B5). Its meaning is Soft Personality, Sweet, Gentle."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiOYYgKddaGanvxayj_igjLlxH-zGzNVDGiJDoCGnIjW0HTTR5XmLzCtMa2_vnbWvGJd_KyAnl_VqjUZSDTgbNgf20mXyOaz0nnS9fJAQqrBg3jnZ9QjRxN1dMTej-NA2XTZog6oJtOlpf7xaODZzSV9--u-b6qPLDc3TYRGRY8U-RVWjem91gyXsa-cb4X=s1600"
 en_name: "PeachPuff"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiOYYgKddaGanvxayj_igjLlxH-zGzNVDGiJDoCGnIjW0HTTR5XmLzCtMa2_vnbWvGJd_KyAnl_VqjUZSDTgbNgf20mXyOaz0nnS9fJAQqrBg3jnZ9QjRxN1dMTej-NA2XTZog6oJtOlpf7xaODZzSV9--u-b6qPLDc3TYRGRY8U-RVWjem91gyXsa-cb4X=s1600)
-
 
 ## Birthday Color for August 3: Peach Puff (`#FFD7B5`)
 

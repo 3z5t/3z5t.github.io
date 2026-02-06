@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjcReyadYZk1OQhSS2hZtq8sUuvDioJ5Adh-qDz_Qzo6_QVo0s1KdZeT5KbjBeloHpuE2vh1rRO-I860BqPouM6PhZJdg0yljCeKKkeDyoHm1f2rXWB9-wt46ITmDwC7p6psuFmtU9snej2zjaaUrz0oDcsgUBCtcXpkSDYOV7X1UHAfSxbbPaQYtuG_cX2=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "シンデレラピンク、3月27日の誕生色"
 date: "2026-03-27"
 updated: "2026-03-27"
@@ -10,16 +14,12 @@ tags:
   - "3月"
   - "イブニングスカイ"
 description: "3月27日の誕生色 シンデレラピンク(FFC7C6)。色言葉は「おとぎ話のような、夢見る、ロマンチック」です。相性の良い色はイブニングスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjcReyadYZk1OQhSS2hZtq8sUuvDioJ5Adh-qDz_Qzo6_QVo0s1KdZeT5KbjBeloHpuE2vh1rRO-I860BqPouM6PhZJdg0yljCeKKkeDyoHm1f2rXWB9-wt46ITmDwC7p6psuFmtU9snej2zjaaUrz0oDcsgUBCtcXpkSDYOV7X1UHAfSxbbPaQYtuG_cX2=s1600"
 en_name: "Cinderella Pink"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjcReyadYZk1OQhSS2hZtq8sUuvDioJ5Adh-qDz_Qzo6_QVo0s1KdZeT5KbjBeloHpuE2vh1rRO-I860BqPouM6PhZJdg0yljCeKKkeDyoHm1f2rXWB9-wt46ITmDwC7p6psuFmtU9snej2zjaaUrz0oDcsgUBCtcXpkSDYOV7X1UHAfSxbbPaQYtuG_cX2=s1600)
-
 
 ## 3月27日の誕生色: シンデレラピンク (`#FFC7C6`)
 

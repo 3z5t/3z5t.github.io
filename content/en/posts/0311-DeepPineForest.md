@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgyBR--GF5RM1ndjzWqg98uwIjkjwBobajtn-mtxjw7JY5tqqzibWMV6rztQNgZoOOj2CyWYuqJKYVq1XpIat5iRbQQJfuh95-Wql1e4RlY24GtcGwA4T0rlZF2aaCh-r82GaMaG57BNoELLyOdwoBD0QXPNaL9Lzt8MTxJJZ19L7_Bxt0v6z0iVlEBhqL1=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Deep Pine Forest, The Birthday Color of March 11"
 date: "2026-03-11"
 updated: "2026-03-11"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "magenta violet"
 description: "The birthday color for March 11 is Deep Pine Forest (006400). Its meaning is Permanence, Traditional, Reliability."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgyBR--GF5RM1ndjzWqg98uwIjkjwBobajtn-mtxjw7JY5tqqzibWMV6rztQNgZoOOj2CyWYuqJKYVq1XpIat5iRbQQJfuh95-Wql1e4RlY24GtcGwA4T0rlZF2aaCh-r82GaMaG57BNoELLyOdwoBD0QXPNaL9Lzt8MTxJJZ19L7_Bxt0v6z0iVlEBhqL1=s1600"
 en_name: "DeepPineForest"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgyBR--GF5RM1ndjzWqg98uwIjkjwBobajtn-mtxjw7JY5tqqzibWMV6rztQNgZoOOj2CyWYuqJKYVq1XpIat5iRbQQJfuh95-Wql1e4RlY24GtcGwA4T0rlZF2aaCh-r82GaMaG57BNoELLyOdwoBD0QXPNaL9Lzt8MTxJJZ19L7_Bxt0v6z0iVlEBhqL1=s1600)
-
 
 ## Birthday Color for March 11: Deep Pine Forest (`#006400`)
 

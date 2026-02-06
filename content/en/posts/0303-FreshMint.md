@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEh4TWp_FwRwllYAEb7LZtZumzrazRH84Lni57TiBnhE1KenoMna78Wh6bE2s3ifNHTYboZkqV1c2BM3YPO4IIfe7N7LN0AzvAgq027Jv96cYyqvG3Y9ukwItRtuw1G_tzZCREoRfwy1ZqCUvsSb6-BS_tLRdgnwMCpz6QLraV912Yi3kadQ_TsREJ2CUBeO=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Fresh Mint, The Birthday Color of March 3"
 date: "2026-03-03"
 updated: "2026-03-03"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "milano red"
 description: "The birthday color for March 3 is Fresh Mint (64D1C3). Its meaning is Creativity, Refreshing, Positivity."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEh4TWp_FwRwllYAEb7LZtZumzrazRH84Lni57TiBnhE1KenoMna78Wh6bE2s3ifNHTYboZkqV1c2BM3YPO4IIfe7N7LN0AzvAgq027Jv96cYyqvG3Y9ukwItRtuw1G_tzZCREoRfwy1ZqCUvsSb6-BS_tLRdgnwMCpz6QLraV912Yi3kadQ_TsREJ2CUBeO=s1600"
 en_name: "FreshMint"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEh4TWp_FwRwllYAEb7LZtZumzrazRH84Lni57TiBnhE1KenoMna78Wh6bE2s3ifNHTYboZkqV1c2BM3YPO4IIfe7N7LN0AzvAgq027Jv96cYyqvG3Y9ukwItRtuw1G_tzZCREoRfwy1ZqCUvsSb6-BS_tLRdgnwMCpz6QLraV912Yi3kadQ_TsREJ2CUBeO=s1600)
-
 
 ## Birthday Color for March 3: Fresh Mint (`#64D1C3`)
 

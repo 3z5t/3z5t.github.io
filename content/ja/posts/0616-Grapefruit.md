@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEg_0Y5aCtW-HAk91s35WYm3jd4EeGOwj3SmlUggvIG_7x3GxOdcbJkO3YVDMoY3T9b7xoqseYMpCkoEJSOpKrT9v9UIoLbDrQfjwyGaXcRrmrCXq07n0KhPWoYBDbCuqDWWTBnal2ECLjKlz6CQ8fgRQTI58Ydpp5pFhrKyJtOG4kCvcIdCPPvNMRESkeZz=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "グレープフルーツ、6月16日の誕生色"
 date: "2026-06-16"
 updated: "2026-06-16"
@@ -10,16 +14,12 @@ tags:
   - "6月"
   - "ティール"
 description: "6月16日の誕生色 グレープフルーツ(FE7B84)。色言葉は「爽やかな魅力、生き生きとした、活力的」です。相性の良い色はティールです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEg_0Y5aCtW-HAk91s35WYm3jd4EeGOwj3SmlUggvIG_7x3GxOdcbJkO3YVDMoY3T9b7xoqseYMpCkoEJSOpKrT9v9UIoLbDrQfjwyGaXcRrmrCXq07n0KhPWoYBDbCuqDWWTBnal2ECLjKlz6CQ8fgRQTI58Ydpp5pFhrKyJtOG4kCvcIdCPPvNMRESkeZz=s1600"
 en_name: "Grapefruit"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEg_0Y5aCtW-HAk91s35WYm3jd4EeGOwj3SmlUggvIG_7x3GxOdcbJkO3YVDMoY3T9b7xoqseYMpCkoEJSOpKrT9v9UIoLbDrQfjwyGaXcRrmrCXq07n0KhPWoYBDbCuqDWWTBnal2ECLjKlz6CQ8fgRQTI58Ydpp5pFhrKyJtOG4kCvcIdCPPvNMRESkeZz=s1600)
-
 
 ## 6月16日の誕生色: グレープフルーツ (`#FE7B84`)
 

@@ -1,21 +1,24 @@
 ---
-"title": "Brandy Rose, The Birthday Color of February 29"
-"date": "2026-02-28"
-"updated": "2026-02-28"
-"labels":
-- "brandy rose"
-- "birthday color"
-- "february 29"
-- "b58a7b"
-- "february"
-- "slate green"
-"description": "The birthday color for February 29 is Brandy Rose (B58A7B). Its meaning is Uniqueness, Creativity, Individuality."
-"thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhs3AP42mai6grSMkN8HZvCT_xbfTjdB5O7PmtLtnPGURfKiWJOtxMZTPrGWJKIf1QDNhtvPdDw9k68r2tFqwkZFr-WilPLdL6IHfIkTxxinW7ethuIRYxm9N3V3y5s0JMRwxm17cbbsWdJj5jt8AGj8M3FcuJVdlsfLyWNuQ37nXfTAOWAFM0DKYfEX_kw=s1600"
-"en_name": "BrandyRose"
-"author": "Pieces of a Day"
-"profileName": "Pieces of a Day"
-"postId": "7745478408698909642"
-"postUrl": "https://the366days-en.blogspot.com/2026/02/brandy-rose-birthday-color-of-february.html"
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhs3AP42mai6grSMkN8HZvCT_xbfTjdB5O7PmtLtnPGURfKiWJOtxMZTPrGWJKIf1QDNhtvPdDw9k68r2tFqwkZFr-WilPLdL6IHfIkTxxinW7ethuIRYxm9N3V3y5s0JMRwxm17cbbsWdJj5jt8AGj8M3FcuJVdlsfLyWNuQ37nXfTAOWAFM0DKYfEX_kw=s1600"
+    alt: "오늘의 색"
+    relative: false
+title: "Brandy Rose, The Birthday Color of February 29"
+date: "2026-02-28"
+updated: "2026-02-28"
+tags:
+  - "brandy rose"
+  - "birthday color"
+  - "february 29"
+  - "b58a7b"
+  - "february"
+  - "slate green"
+description: "The birthday color for February 29 is Brandy Rose (B58A7B). Its meaning is Uniqueness, Creativity, Individuality."
+en_name: "BrandyRose"
+author: "Pieces of a Day"
+profileName: "Pieces of a Day"
+postId: "7745478408698909642"
+postUrl: "https://the366days-en.blogspot.com/2026/02/brandy-rose-birthday-color-of-february.html"
 ---
 
 ## Birthday Color for February 29: Brandy Rose (`#B58A7B`)

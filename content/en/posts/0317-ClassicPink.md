@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgtpp2hopwwdpNi8ijkM7NBqBW3ejAaTZvyXJ7mkj9GZjxovqRlzlvlC1hdJ1-bufehfWbgB7g1veF4w76-aF5mJysJWU1tw4Hf1llbHIbYIVrOQsODszL0Tvq2YYkGUtYmVMa-zcNbal1odpeSAKZDw4jfoXZY6VnA8Rnwd5Tdf4mZYS-Y3BVgbLF-7i5T=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Classic Pink, The Birthday Color of March 17"
 date: "2026-03-17"
 updated: "2026-03-17"
@@ -10,16 +14,12 @@ tags:
   - "march"
   - "deep night sky"
 description: "The birthday color for March 17 is Classic Pink (FFC0CB). Its meaning is Lovely, Romantic, Gentle."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgtpp2hopwwdpNi8ijkM7NBqBW3ejAaTZvyXJ7mkj9GZjxovqRlzlvlC1hdJ1-bufehfWbgB7g1veF4w76-aF5mJysJWU1tw4Hf1llbHIbYIVrOQsODszL0Tvq2YYkGUtYmVMa-zcNbal1odpeSAKZDw4jfoXZY6VnA8Rnwd5Tdf4mZYS-Y3BVgbLF-7i5T=s1600"
 en_name: "ClassicPink"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgtpp2hopwwdpNi8ijkM7NBqBW3ejAaTZvyXJ7mkj9GZjxovqRlzlvlC1hdJ1-bufehfWbgB7g1veF4w76-aF5mJysJWU1tw4Hf1llbHIbYIVrOQsODszL0Tvq2YYkGUtYmVMa-zcNbal1odpeSAKZDw4jfoXZY6VnA8Rnwd5Tdf4mZYS-Y3BVgbLF-7i5T=s1600)
-
 
 ## Birthday Color for March 17: Classic Pink (`#FFC0CB`)
 

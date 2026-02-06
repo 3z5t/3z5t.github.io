@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjhRq_YVQey0vr6L-R0C5QDS2u6YPzDTqKu7KVT90mO7y5RrIuTbMdKj5SXEDicUCyDV2uimvBkmAuMwzGsikI1QO1MjF_Tw49R8LhhRaKW0Wt9_PwJK7gc8Uv-9_uzjyHKDaIgdf8qrVxyRpQH0WtlUqCXkKZ_vuLcKngn9BzHlOnnC7npZZtHCZtpA1-J=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ディープアッシュブラウン、9月24日の誕生色"
 date: "2026-09-24"
 updated: "2026-09-24"
@@ -10,16 +14,12 @@ tags:
   - "9月"
   - "アーバンスカイ"
 description: "9月24日の誕生色 ディープアッシュブラウン(49423E)。色言葉は「賢明、深みのある、成熟」です。相性の良い色はアーバンスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjhRq_YVQey0vr6L-R0C5QDS2u6YPzDTqKu7KVT90mO7y5RrIuTbMdKj5SXEDicUCyDV2uimvBkmAuMwzGsikI1QO1MjF_Tw49R8LhhRaKW0Wt9_PwJK7gc8Uv-9_uzjyHKDaIgdf8qrVxyRpQH0WtlUqCXkKZ_vuLcKngn9BzHlOnnC7npZZtHCZtpA1-J=s1600"
 en_name: "Deep Ash Brown"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjhRq_YVQey0vr6L-R0C5QDS2u6YPzDTqKu7KVT90mO7y5RrIuTbMdKj5SXEDicUCyDV2uimvBkmAuMwzGsikI1QO1MjF_Tw49R8LhhRaKW0Wt9_PwJK7gc8Uv-9_uzjyHKDaIgdf8qrVxyRpQH0WtlUqCXkKZ_vuLcKngn9BzHlOnnC7npZZtHCZtpA1-J=s1600)
-
 
 ## 9月24日の誕生色: ディープアッシュブラウン (`#49423E`)
 

@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEj5D_bZSA1EfWkzox53fE26MCEjPqCSJj7f7rl0w1XjcbHKZ5iz2A487UWKh62bI_phUR_CEFQzBRcRrSxKwrFURXDt2QkIgRaVTfyiloMH-uwcD_QKK4kVct1nTNeUb5XFusPFRJo94WzCF0F1MniHeC2LDxBwLs_30FM20VmvfFKpFxKX0QjOT9Tc_r8d=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "Elegant Jade, The Birthday Color of April 23"
 date: "2026-04-23"
 updated: "2026-04-23"
@@ -10,16 +14,12 @@ tags:
   - "april"
   - "taupe"
 description: "The birthday color for April 23 is Elegant Jade (79B49F). Its meaning is Peaceful, Harmonious, Stability."
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEj5D_bZSA1EfWkzox53fE26MCEjPqCSJj7f7rl0w1XjcbHKZ5iz2A487UWKh62bI_phUR_CEFQzBRcRrSxKwrFURXDt2QkIgRaVTfyiloMH-uwcD_QKK4kVct1nTNeUb5XFusPFRJo94WzCF0F1MniHeC2LDxBwLs_30FM20VmvfFKpFxKX0QjOT9Tc_r8d=s1600"
 en_name: "ElegantJade"
 author: "Pieces of a Day"
 profileName: "Pieces of a Day"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEj5D_bZSA1EfWkzox53fE26MCEjPqCSJj7f7rl0w1XjcbHKZ5iz2A487UWKh62bI_phUR_CEFQzBRcRrSxKwrFURXDt2QkIgRaVTfyiloMH-uwcD_QKK4kVct1nTNeUb5XFusPFRJo94WzCF0F1MniHeC2LDxBwLs_30FM20VmvfFKpFxKX0QjOT9Tc_r8d=s1600)
-
 
 ## Birthday Color for April 23: Elegant Jade (`#79B49F`)
 

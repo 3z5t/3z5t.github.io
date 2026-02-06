@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiecsELAow3t45WPV9gWg35tn1Er64oIaTv-KOxeX41ewptxqule-Z-cc3ETTaVFHDFoonwUwBYNB5LQK_JDbp-8fKF8_aQwqAKHIxpf2I00nazfRzy-8j2JSar0o9eOplt0yKMM2m9hwoxyXnqjMN2GSA6hSQVl199PIhoy95TzSJgT9RubZ2feBKqFOcd=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ミディアムターコイズ、7月27日の誕生色"
 date: "2026-07-27"
 updated: "2026-07-27"
@@ -10,16 +14,12 @@ tags:
   - "7月"
   - "プルシアンレッド"
 description: "7月27日の誕生色 ミディアムターコイズ(33CCCC)。色言葉は「深みのある、安定、平和」です。相性の良い色はプルシアンレッドです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiecsELAow3t45WPV9gWg35tn1Er64oIaTv-KOxeX41ewptxqule-Z-cc3ETTaVFHDFoonwUwBYNB5LQK_JDbp-8fKF8_aQwqAKHIxpf2I00nazfRzy-8j2JSar0o9eOplt0yKMM2m9hwoxyXnqjMN2GSA6hSQVl199PIhoy95TzSJgT9RubZ2feBKqFOcd=s1600"
 en_name: "Medium Turquoise"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiecsELAow3t45WPV9gWg35tn1Er64oIaTv-KOxeX41ewptxqule-Z-cc3ETTaVFHDFoonwUwBYNB5LQK_JDbp-8fKF8_aQwqAKHIxpf2I00nazfRzy-8j2JSar0o9eOplt0yKMM2m9hwoxyXnqjMN2GSA6hSQVl199PIhoy95TzSJgT9RubZ2feBKqFOcd=s1600)
-
 
 ## 7月27日の誕生色: ミディアムターコイズ (`#33CCCC`)
 

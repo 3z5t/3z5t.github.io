@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEiBc0JXtv-fPCKURYmIEPdgPcLmjnT-5he5BdUZ41xJOtEMPnHSTzNMn3HCrT3VquQR8QEqG5PEKhCg2q0UXNQDfCTPb4SSi_3l575ggcJxXrMLoGzfoExBaviXQfeKltqKBTz9Lsg4Q-YBLfqBU_dzqx2-Gxl0zDVP_BFqoVZ89w-H2fdWIlnJCwXpTw4-=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "アンティークホワイト、12月21日の誕生色"
 date: "2026-12-21"
 updated: "2026-12-21"
@@ -10,16 +14,12 @@ tags:
   - "12月"
   - "ディープナイトスカイ"
 description: "12月21日の誕生色 アンティークホワイト(EBE2CE)。色言葉は「純粋な魂、温和、平和」です。相性の良い色はディープナイトスカイです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEiBc0JXtv-fPCKURYmIEPdgPcLmjnT-5he5BdUZ41xJOtEMPnHSTzNMn3HCrT3VquQR8QEqG5PEKhCg2q0UXNQDfCTPb4SSi_3l575ggcJxXrMLoGzfoExBaviXQfeKltqKBTz9Lsg4Q-YBLfqBU_dzqx2-Gxl0zDVP_BFqoVZ89w-H2fdWIlnJCwXpTw4-=s1600"
 en_name: "Antique White"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEiBc0JXtv-fPCKURYmIEPdgPcLmjnT-5he5BdUZ41xJOtEMPnHSTzNMn3HCrT3VquQR8QEqG5PEKhCg2q0UXNQDfCTPb4SSi_3l575ggcJxXrMLoGzfoExBaviXQfeKltqKBTz9Lsg4Q-YBLfqBU_dzqx2-Gxl0zDVP_BFqoVZ89w-H2fdWIlnJCwXpTw4-=s1600)
-
 
 ## 12月21日の誕生色: アンティークホワイト (`#EBE2CE`)
 

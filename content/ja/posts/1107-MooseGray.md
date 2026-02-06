@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgwBqUKP2zFWsmebqTvR0JmyeI4Nyn_EItEgAKW3Z8qlaPFevXw4mmE6KmYBUG6-n_x_X6v59dHNSOIdypwK9JmHXWYTNMoUuBJe7MNoH1XnXP_-5MYRLO6gRfe7DPKNozZ--UEAaIrDBLQFajcMfhssCDHPoEG9_lmCdTozIegYoEOT4hLCWFNffPoCyNu=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ムースグレー、11月7日の誕生色"
 date: "2026-11-07"
 updated: "2026-11-07"
@@ -10,16 +14,12 @@ tags:
   - "11月"
   - "ディムグレー"
 description: "11月7日の誕生色 ムースグレー(999999)。色言葉は「中庸を守る、バランスの取れた、安定」です。相性の良い色はディムグレーです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEgwBqUKP2zFWsmebqTvR0JmyeI4Nyn_EItEgAKW3Z8qlaPFevXw4mmE6KmYBUG6-n_x_X6v59dHNSOIdypwK9JmHXWYTNMoUuBJe7MNoH1XnXP_-5MYRLO6gRfe7DPKNozZ--UEAaIrDBLQFajcMfhssCDHPoEG9_lmCdTozIegYoEOT4hLCWFNffPoCyNu=s1600"
 en_name: "Moose Gray"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEgwBqUKP2zFWsmebqTvR0JmyeI4Nyn_EItEgAKW3Z8qlaPFevXw4mmE6KmYBUG6-n_x_X6v59dHNSOIdypwK9JmHXWYTNMoUuBJe7MNoH1XnXP_-5MYRLO6gRfe7DPKNozZ--UEAaIrDBLQFajcMfhssCDHPoEG9_lmCdTozIegYoEOT4hLCWFNffPoCyNu=s1600)
-
 
 ## 11月7日の誕生色: ムースグレー (`#999999`)
 

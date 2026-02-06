@@ -1,4 +1,8 @@
 ---
+cover:
+    image: "https://blogger.googleusercontent.com/img/a/AVvXsEjeYTkHtR8Ngus5MyIcuez63fmmLl5W5tidKHd6e7fQpOC0aqqCWd-1O-Ai5QfxaIQCBQ46LRRRae5JaeEv9ivlUh3ylvJEhq621MysKFqRmx_igG8JPM2iA_wsxrces_uKzbQ3hflzWsPKbCZlFBKKkb390t7CDO75FK9rhococeaT1vOHYUfv1KaDOhN9=s1600"
+    alt: "오늘의 색"
+    relative: false
 title: "ソフトダウニー、5月29日の誕生色"
 date: "2026-05-29"
 updated: "2026-05-29"
@@ -10,16 +14,12 @@ tags:
   - "5月"
   - "ミラノレッド"
 description: "5月29日の誕生色 ソフトダウニー(66CCCC)。色言葉は「柔らかさ、包容力、情緒的」です。相性の良い色はミラノレッドです。"
-thumbnail: "https://blogger.googleusercontent.com/img/a/AVvXsEjeYTkHtR8Ngus5MyIcuez63fmmLl5W5tidKHd6e7fQpOC0aqqCWd-1O-Ai5QfxaIQCBQ46LRRRae5JaeEv9ivlUh3ylvJEhq621MysKFqRmx_igG8JPM2iA_wsxrces_uKzbQ3hflzWsPKbCZlFBKKkb390t7CDO75FK9rhococeaT1vOHYUfv1KaDOhN9=s1600"
 en_name: "Soft Downy"
 author: "日々のカケラ"
 profileName: "日々のカケラ"
 postId: ""
 postUrl: ""
 ---
-
-![Thumbnail](https://blogger.googleusercontent.com/img/a/AVvXsEjeYTkHtR8Ngus5MyIcuez63fmmLl5W5tidKHd6e7fQpOC0aqqCWd-1O-Ai5QfxaIQCBQ46LRRRae5JaeEv9ivlUh3ylvJEhq621MysKFqRmx_igG8JPM2iA_wsxrces_uKzbQ3hflzWsPKbCZlFBKKkb390t7CDO75FK9rhococeaT1vOHYUfv1KaDOhN9=s1600)
-
 
 ## 5月29日の誕生色: ソフトダウニー (`#66CCCC`)
 
